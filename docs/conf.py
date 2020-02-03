@@ -45,8 +45,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'NYC Charter'
-author = u'Maxim Pokrovsky'
+project = u'New York City\'s charter, codes and rules'
+author = u'Sarapis.org'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -100,7 +100,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'NYCCharter'
+htmlhelp_basename = 'NYCdocs'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -127,8 +127,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'NYCCharter.tex', u'NYC Charter',
-     u'Maxim Pokrovsky', 'manual'),
+    (master_doc, 'NYCdocs.tex', u'NYC Charter, Laws and Code',
+     u'Sarapis.org', 'manual'),
 ]
 
 
@@ -137,7 +137,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'NYCCharter', u'NYC Charter',
+    (master_doc, 'NYCdocs', u'NYC Charter, Laws and Code',
      [author], 1)
 ]
 
@@ -148,7 +148,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'NYCCharter', u'NYC Charter',
-     author, 'NYCCharter', 'One line description of project.',
+    (master_doc, 'NYCdocs', u'NYC Charter, Laws and Code',
+     author, 'NYCdocs', 'We created accessible, searchable, mobile-friendly websites for New York City\'s charter, codes and rules because New Yorker\'s deserve better than what the city offers.',
      'Miscellaneous'),
 ]

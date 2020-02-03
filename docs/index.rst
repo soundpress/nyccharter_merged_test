@@ -1,12 +1,7 @@
-.. NYC Charter documentation master file, created by
-   sphinx-quickstart
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-NYC Charter
+New York City's Charter, Laws and Code
 =================================
 
-This document is updated every week from source material at `NYC Laws, Codes and Rules <https://www1.nyc.gov/nyc-resources/service/4080/nyc-charter-laws-codes-and-rules>`_. It was last updated: February 2nd, 2020. More information about this project at `MyGov.nyc/laws <http://mygov.nyc/>`_.
+We created accessible, searchable, mobile-friendly websites for New York City's charter, codes and rules because New Yorker's deserve better than what the city offers. It was last updated: February 2nd, 2020. More information about this project at :sup:`MyGov.nyc/laws <http://mygov.nyc/>`_.
 
 .. toctree::
     :maxdepth: 2
@@ -17,6 +12,4 @@ This document is updated every week from source material at `NYC Laws, Codes and
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
