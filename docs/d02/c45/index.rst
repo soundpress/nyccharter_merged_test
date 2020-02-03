@@ -1,12 +1,12 @@
 Title 66: Department of Small Business Services
-===================================================
+======================================================================================================
 
 Chapter 2: Waterfront and Related Property
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Definitions.* ::
+*§ 2-01 Definitions.*
 
 
 The following definitions are applicable to this chapter:
@@ -44,7 +44,7 @@ Wharf property. "Wharf property" means wharves, piers, docks and bulkheads and s
 
 
 
-*§ 2-02 Use and Occupancy of Property Subject to Commissioner's Permission.* ::
+*§ 2-02 Use and Occupancy of Property Subject to Commissioner's Permission.*
 
 
 No person shall use or occupy any wharf property or any marginal street for any commercial enterprise, soliciting, recreation, peddling, drag racing, selling or offering for sale services, merchandise or commodities of any kind, or the holding of any public meeting, without the prior written permission of the Commissioner.
@@ -54,7 +54,7 @@ No person shall use or occupy any wharf property or any marginal street for any 
 
 
 
-*§ 2-03 Improvement and Alteration of Property and Marginal Streets.* ::
+*§ 2-03 Improvement and Alteration of Property and Marginal Streets.*
 
 
 (a) No person shall erect, place or maintain any building, platform, sign, advertising device or any construction or obstacle of any kind on or about any wharf property or marginal street without first obtaining a written permit from the Commissioner. Such a permit shall also be required for the erection, placing or maintaining any of such signs, structures or devices on any waterfront property when such signs, structures or devices are used in conjunction with, or in furtherance of, waterfront commerce and/or navigation.
@@ -82,7 +82,7 @@ No person shall use or occupy any wharf property or any marginal street for any 
 
 
 
-*§ 2-04 Maintenance, Repair, Reconstruction or Demolition and Removal of Privately Owned Waterfront Property and Deepening of Adjoining Water.* ::
+*§ 2-04 Maintenance, Repair, Reconstruction or Demolition and Removal of Privately Owned Waterfront Property and Deepening of Adjoining Water.*
 
 
 (a) No person owning, leasing, using or occupying any marginal street or waterfront property, or any wharves, piers, docks, bulkheads or structures wholly or partly thereon, shall knowingly maintain all or any portion thereof in an unsafe condition, or not in good repair, or in a condition which impedes or endangers any person or property. No person owning, leasing, using or occupying any other structure in the port of the City of New York used in conjunction with and in furtherance of waterfront commerce and/or navigation shall knowingly maintain all or any portion of the same in an unsafe condition, or not in good repair, or in a condition which impedes or endangers any person or property.
@@ -96,7 +96,7 @@ No person shall use or occupy any wharf property or any marginal street for any 
 
 
 
-*§ 2-05 Dumping, Polluting or Obstructing Waters.* ::
+*§ 2-05 Dumping, Polluting or Obstructing Waters.*
 
 
 (a) No person shall dump snow or ice into the waters of the port of The City of New York, except at places designated in writing by the Commissioner.
@@ -110,7 +110,7 @@ No person shall use or occupy any wharf property or any marginal street for any 
 
 
 
-*§ 2-06 Obstructing Waterfront Property.* ::
+*§ 2-06 Obstructing Waterfront Property.*
 
 
 (a) No person shall impede, encumber or obstruct in any manner the free access to, egress from, or use of any wharf property or marginal street with any merchandise, cargo, goods, refuse or other material, or with a vehicle or vessel of any type.
@@ -126,7 +126,7 @@ No person shall use or occupy any wharf property or any marginal street for any 
 
 
 
-*§ 2-07 Loading and Storage in Area Adjacent to Bulkhead.* ::
+*§ 2-07 Loading and Storage in Area Adjacent to Bulkhead.*
 
 
 No person shall load, unload, place, store or keep any cargo, goods, merchandise, materials, vehicles or equipment upon any waterfront property or marginal street except at places designated in writing by the Commissioner.
@@ -136,7 +136,7 @@ No person shall load, unload, place, store or keep any cargo, goods, merchandise
 
 
 
-*§ 2-08 Overloading.* ::
+*§ 2-08 Overloading.*
 
 
 No person shall move, transport, load, unload, place, store or keep any vehicle, equipment, cargo, goods, merchandise or material upon any waterfront property or marginal street in excess of the load limit fixed for such waterfront property or marginal street by the Commissioner.
@@ -146,7 +146,7 @@ No person shall move, transport, load, unload, place, store or keep any vehicle,
 
 
 
-*§ 2-09 Time Limit for Goods on Wharf Property.* ::
+*§ 2-09 Time Limit for Goods on Wharf Property.*
 
 
 (a) No person occupying, leasing or using any wharf property or marginal street shall place, store or keep any cargo, goods, merchandise or material of any kind upon such property for more than ten (10) days, except with the prior written permission of the Commissioner.
@@ -158,7 +158,7 @@ No person shall move, transport, load, unload, place, store or keep any vehicle,
 
 
 
-*§ 2-10 Parking or Storing of Vehicles on Marginal Streets or Wharf Property.* ::
+*§ 2-10 Parking or Storing of Vehicles on Marginal Streets or Wharf Property.*
 
 
 (a) No person shall park, place, store or keep any motor vehicle, truck, cart, wagon, cargo, container, trailer or vehicle of any type on or about any marginal street or wharf property, except at places designated in writing by the Commissioner.
@@ -170,7 +170,7 @@ No person shall move, transport, load, unload, place, store or keep any vehicle,
 
 
 
-*§ 2-11 Hazardous, Flammable or Explosive Substances.* ::
+*§ 2-11 Hazardous, Flammable or Explosive Substances.*
 
 
 (a) No person shall load, unload, discharge, place, store or keep any material, fluid, gas or substance of any explosive, flammable, radioactive or hazardous nature upon any waterfront property or marginal street, except at locations designated in writing by the Commissioner, and upon complying with applicable rules and regulations of the United States Coast Guard, the Fire Department and the Department of Health of The City of New York, or any other Federal, State or City agency.
@@ -192,7 +192,7 @@ No person shall move, transport, load, unload, place, store or keep any vehicle,
 
 
 
-*§ 2-12 Berthing and Moving of Vessels.* ::
+*§ 2-12 Berthing and Moving of Vessels.*
 
 
 (a) No person shall tie, anchor, or make fast any vessel, barge, ship, aircraft or floating structure at or about any wharf property or marginal street without the prior written permission of the Commissioner.
@@ -204,7 +204,7 @@ No person shall move, transport, load, unload, place, store or keep any vehicle,
 
 
 
-*§ 2-13 Wharfage and Other Fees and Charges.* ::
+*§ 2-13 Wharfage and Other Fees and Charges.*
 
 
 No person shall fail or refuse to pay upon demand to the Commissioner the rates established by the Commissioner for wharfage, cranage or dockage.
@@ -214,7 +214,7 @@ No person shall fail or refuse to pay upon demand to the Commissioner the rates 
 
 
 
-*§ 2-14 Taxicabs and Porters.* ::
+*§ 2-14 Taxicabs and Porters.*
 
 
 (a) Any person who is a permittee, lessee, licensee, user or occupant of any wharf property or marginal street shall accord equal rights and privileges in the use of such property to all duly licensed taxicab operators and all duly licensed porters, subject to subdivision (b) of this section.
@@ -226,7 +226,7 @@ No person shall fail or refuse to pay upon demand to the Commissioner the rates 
 
 
 
-*§ 2-15 Loading or Discharging Passengers.* ::
+*§ 2-15 Loading or Discharging Passengers.*
 
 
 (a) No passengers shall be taken aboard or discharged from a ship, barge, vessel, craft, floating structure or aircraft at or about any wharf property or marginal street except by prior written permission of the Commissioner.
@@ -238,7 +238,7 @@ No person shall fail or refuse to pay upon demand to the Commissioner the rates 
 
 
 
-*§ 2-16 Repairs to Vessels or Aircraft; Burning and Welding Equipment.* ::
+*§ 2-16 Repairs to Vessels or Aircraft; Burning and Welding Equipment.*
 
 
 (a) No person shall make or cause to be made any repairs, except voyage repairs, on or for any vessel, craft, barge, ship, aircraft or floating structure on or about any waterfront property or marginal street without the prior written permission of the Com- missioner.
@@ -250,7 +250,7 @@ No person shall fail or refuse to pay upon demand to the Commissioner the rates 
 
 
 
-*§ 2-17 Smoking and Lighted Material.* ::
+*§ 2-17 Smoking and Lighted Material.*
 
 
 No person shall smoke, possess or throw away any lighted match, cigar, pipe, cigarette or other lighted material while in or about any structure located on waterfront property (except a private dwelling as defined in § 4 of the Multiple Dwelling Law); or while on or about any vessel or other craft which carries as cargo any of the flammable or explosive substances or materials mentioned in 66 RCNY § 2-11 above, and which is tied, anchored or made fast at or about any waterfront property or marginal street; provided that the Commissioner and/or the Fire Commissioner of The City of New York may in writing from time to time designate portions of any of the aforementioned structures, locations, vessels or crafts where smoking may be permitted and may prescribe the types and locations of containers or receptacles into which such lighted material and such lighted matches, cigars or cigarettes shall be deposited.
@@ -260,7 +260,7 @@ No person shall smoke, possess or throw away any lighted match, cigar, pipe, cig
 
 
 
-*§ 2-18 Converted Craft and Houseboats.* ::
+*§ 2-18 Converted Craft and Houseboats.*
 
 
 (a) No person shall tie, anchor or make fast on or about waterfront property, a marginal street or the waters of the port of The City of New York any houseboat or converted craft for any period of time without the prior written permission of the Commissioner. Such written permission shall not be granted without satisfying the Com- missioner that all of the following requirements have been met:
@@ -288,7 +288,7 @@ No person shall smoke, possess or throw away any lighted match, cigar, pipe, cig
 
 
 
-*§ 2-19 Hindering or Impeding Inspections.* ::
+*§ 2-19 Hindering or Impeding Inspections.*
 
 
 No person shall hinder or impede any authorized representatives of the commissioner from entering, for the purpose of making an inspection, any waterfront property or marginal street, or any vessel, barge, ship, or other craft tied, anchored, or made fast thereto, or upon the waters of the Port of The City of New York.
@@ -298,7 +298,7 @@ No person shall hinder or impede any authorized representatives of the commissio
 
 
 
-*§ 2-20 Responsibility of Owners, Lessors and Charterers of Vessels and Waterfront Property.* ::
+*§ 2-20 Responsibility of Owners, Lessors and Charterers of Vessels and Waterfront Property.*
 
 
 Any owner or lessor of waterfront property or any owner, lessor or charterer of any houseboat, barge, converted craft, vessel, ship or craft, shall be responsible for the acts or omissions of any lessee, licensee, or employee thereon.
@@ -308,7 +308,7 @@ Any owner or lessor of waterfront property or any owner, lessor or charterer of 
 
 
 
-*§ 2-21 Compliance with Laws, Rules and Regulations.* ::
+*§ 2-21 Compliance with Laws, Rules and Regulations.*
 
 
 Any person while on or about any waterfront property or marginal street, or any owner, lessee, permittee, licensee, operator, user or occupant of such property, shall comply with all applicable laws, rules, and regulations of all departments, bureaus, agencies, boards or commissions of the United States of America, the State of New York and The City of New York.
@@ -318,7 +318,7 @@ Any person while on or about any waterfront property or marginal street, or any 
 
 
 
-*§ 2-22 Penalties.* ::
+*§ 2-22 Penalties.*
 
 
 Any person violating or failing to comply with any of the foregoing rules and regulations shall be triable pursuant to § 704(K) of the New York City Charter before a judge of the Criminal Court of The City of New York and punishable by not more than thirty (30) days imprisonment or by a fine of not less than $100 nor more than $500, or both; or in the case of parking violations, before the Parking Violations Bureau, where required by law. Penalties for violations of these rules shall not be imposed in lieu of, but in addition to those fixed by other applicable provisions of law.
@@ -327,11 +327,11 @@ Any person violating or failing to comply with any of the foregoing rules and re
 
 
 Chapter 3: Aviation
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Definitions.* ::
+*§ 3-01 Definitions.*
 
 
 The following words and phrases when used in this chapter shall for the purpose of this chapter have the meanings respectively ascribed to them as follows:
@@ -385,7 +385,7 @@ Vehicle. "Vehicle" shall mean and include automobiles, trucks, buses, motorcycle
 
 
 
-*§ 3-02 Use and Occupancy of Airports, Aircraft Landing Sites, Seaplane Bases, Heliports and Marginal Streets.* ::
+*§ 3-02 Use and Occupancy of Airports, Aircraft Landing Sites, Seaplane Bases, Heliports and Marginal Streets.*
 
 
 Use or occupancy, for any purpose, including the conduct, operation or maintenance of any commercial business, soliciting, peddling, selling or offering for sale merchandise or commodities of any kind, or services, or the holding of any public meeting, on any airport, aircraft landing site, seaplane base, heliport, or marginal street, owned by the City of New York is prohibited except by written permission of the Commissioner.
@@ -395,7 +395,7 @@ Use or occupancy, for any purpose, including the conduct, operation or maintenan
 
 
 
-*§ 3-03 Smoking.* ::
+*§ 3-03 Smoking.*
 
 
 Smoking, possessing or throwing away lighted material or tobacco is prohibited. No person shall smoke, possess or throw away any lighted material or a lighted match, cigar or cigarette while in or upon any airport, aircraft landing site, seaplane base, or heliport or any building or appurtenance thereto, whether owned by the City of New York or privately owned, or while on board any aircraft berthed, moored or located at any such airport, aircraft landing site, seaplane base or heliport; except that the Commissioner and the Fire Commissioner of the City of New York may designate portions of any of the aforementioned structures or locations where smoking may be permitted and may prescribe the types and locations of containers or receptacles into which lighted material and a lighted match, cigar or cigarette shall be deposited.
@@ -405,7 +405,7 @@ Smoking, possessing or throwing away lighted material or tobacco is prohibited. 
 
 
 
-*§ 3-04 Airports.* ::
+*§ 3-04 Airports.*
 
 
 (a) No airport located within the limits of the City of New York, whether for public or private use, shall be maintained or operated unless the owner or operator shall have procured from the Department a license or permit allowing such maintenance and operation.
@@ -453,7 +453,7 @@ Smoking, possessing or throwing away lighted material or tobacco is prohibited. 
 
 
 
-*§ 3-05 Seaplane Noise Control.* ::
+*§ 3-05 Seaplane Noise Control.*
 
 
 In order to afford better relief and protection to the public from unnecessary seaplane noise, all seaplanes must taxi to a point at least 700 feet from the nearest shoreline before beginning a takeoff run or applying power in excess of that required for safe taxiing.
@@ -463,7 +463,7 @@ In order to afford better relief and protection to the public from unnecessary s
 
 
 
-*§ 3-06 Helicopter External Load Operations.* ::
+*§ 3-06 Helicopter External Load Operations.*
 
 
 (a) It shall be unlawful for any person, firm, or corporation to use or permit the use of any helicopter or other aircraft within the confines of the City in connection with the construction, alteration, or installation of service equipment or material in or upon any building or structure or to conduct any other external load operation within the City of New York, without first obtaining a permit from the Department.
@@ -553,7 +553,7 @@ In order to afford better relief and protection to the public from unnecessary s
 
 
 
-*§ 3-07 Helicopter Noise and Safety.* ::
+*§ 3-07 Helicopter Noise and Safety.*
 
 
 (a) To prevent unnecessary noise all takeoffs and landings at public use heliports in the City shall be made over water.
@@ -569,7 +569,7 @@ In order to afford better relief and protection to the public from unnecessary s
 
 
 
-*§ 3-08 Landing and Takeoff at Other Than Licensed Heliports, Airports and Seaplane Bases.* ::
+*§ 3-08 Landing and Takeoff at Other Than Licensed Heliports, Airports and Seaplane Bases.*
 
 
 (a) No aircraft shall land or takeoff within the limits of the City of New York except at licensed airports unless a permit allowing such operation has been obtained from the Commissioner.
@@ -603,7 +603,7 @@ In order to afford better relief and protection to the public from unnecessary s
 
 
 
-*§ 3-09 Lighter-Than-Air and Glider Operation.* ::
+*§ 3-09 Lighter-Than-Air and Glider Operation.*
 
 
 (a) No airship, balloon in free flight, or tethered balloon flight shall land or takeoff within the limits of the City unless a permit allowing such operation has been obtained from the Commissioner.
@@ -637,7 +637,7 @@ In order to afford better relief and protection to the public from unnecessary s
 
 
 
-*§ 3-10 Unauthorized Takeoffs and/or Landings.* ::
+*§ 3-10 Unauthorized Takeoffs and/or Landings.*
 
 
 (a) It shall be unlawful for any person navigating an aircraft to take-off or land at any place within the limits of the City other than at places designated for this purpose by the Commissioner.
@@ -649,7 +649,7 @@ In order to afford better relief and protection to the public from unnecessary s
 
 
 
-*§ 3-11 Reports.* ::
+*§ 3-11 Reports.*
 
 
 The owner or operator of any aircraft involved in an accident or incident within the limits of the City must, in addition to any Federal or State reporting requirements, file a report with the Commissioner within 24 hours of such occurrence.
@@ -659,7 +659,7 @@ The owner or operator of any aircraft involved in an accident or incident within
 
 
 
-*§ 3-12 Penalties.* ::
+*§ 3-12 Penalties.*
 
 
 The failure on the part of the licensee or permittee to comply with any of the rules set forth in this chapter or hereafter adopted by the Commissioner, shall constitute sufficient cause for revocation of such license or permit.
@@ -668,11 +668,11 @@ The failure on the part of the licensee or permittee to comply with any of the r
 
 
 Chapter 4: Fees
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Work Notice and Work Permit Fees.* ::
+*§ 4-01 Work Notice and Work Permit Fees.*
 
 
 (a) The six categories of fees charged by the Department of Business Services in connection with the issuance of work notices and work permits are:
@@ -697,10 +697,11 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY I NEW BUILDING
       - FEE
+
 ~
 
 
@@ -709,7 +710,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 0 to 1,000 Square Feet
       - $55.00
@@ -729,6 +730,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
       - $2,200.00
     * - Add $440.00 for each additional 20,000 Square Feet or Part of
       - 
+
 ~
 
  
@@ -737,10 +739,11 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY II OPEN AREA FEE
       - FEE
+
 ~
 
 
@@ -749,7 +752,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 0 to 10,000 Square Feet
       - $28.00
@@ -766,6 +769,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
     * - 400,001 to 500,000 Square Feet
       - $2,475.00
     * - Add $550.00 for each additional 100,000 Square Feet or Part of
+
 ~
 
 
@@ -779,10 +783,11 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY III MISCELLANEOUS FEE
       - FEE
+
 ~
 
 
@@ -791,7 +796,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - $0 to $1,000
       - $28.00
@@ -840,6 +845,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
     * - $1,70,001 to $1,800,000
       - $7,920.00
     * - Add $440.00 for each additional $100,000 of Estimated Cost or Part of
+
 ~
 
 
@@ -853,11 +859,12 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY IV AMENDMENTS
       - 
     * - Any revisions or changes submitted thirty days after date of approval – $200.00
+
 ~
 
 
@@ -869,11 +876,12 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY V CHANGE OF USE
       - 
     * - No physical work, including lot subdivisions – $100.00
+
 ~
 
 
@@ -885,7 +893,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY VI SPECIAL FEESThe department shall be entitled to charge the following fees: 
       - 
@@ -937,6 +945,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
       - 4. Places of Assembly
       - each copy
       - $50.00
+
 ~
 
  
@@ -946,7 +955,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 
-*§ 4-02 Contract Bid Fees.* ::
+*§ 4-02 Contract Bid Fees.*
 
 
 Contract documents may be obtained at the Department of Business Services, 110 William Street, 3rd floor, New York, N.Y. 10038 at a cost of $45.00 each, which will not be refunded. Only cash (exact change only) or certified check, payable to the Comptroller of the City of New York will be accepted for the payment of each document.
@@ -955,7 +964,7 @@ Contract documents may be obtained at the Department of Business Services, 110 W
 
 
 Chapter 5: New York City Energy Cost Savings Program
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -964,7 +973,7 @@ Chapter 5: New York City Energy Cost Savings Program
 
 
 
-*§ 5-01 Authority; Purpose.* ::
+*§ 5-01 Authority; Purpose.*
 
 
 (a)  These rules are promulgated pursuant to Local Law 54 of the Laws of 1985 of the City of New York, as amended, as authorized by Chapter 551 of the Laws of 1985 of the State of New York, as amended, to effectuate the purposes of the New York City Energy Cost Savings Program (the "Program").
@@ -978,7 +987,7 @@ Chapter 5: New York City Energy Cost Savings Program
 
 
 
-*§ 5-02 Definitions.* ::
+*§ 5-02 Definitions.*
 
 
 As used in these rules, the following terms shall have the respective meanings set forth below:
@@ -1140,7 +1149,7 @@ Vendor. "Vendor" means a vendor of energy services, as defined in subdivision (k
 
 
 
-*§ 5-03 Law Governing Applications.* ::
+*§ 5-03 Law Governing Applications.*
 
 
 Applications pending as of the effective date of these rules and applications filed subsequently shall be governed by these rules. Persons that have been certified as eligible for special rebates or discounts under provisions of law in effect before November 1, 2000, are not required to reapply in order to receive benefits under provisions of Chapter 472 of the Laws of 2000.
@@ -1150,7 +1159,7 @@ Applications pending as of the effective date of these rules and applications fi
 
 
 
-*§ 5-04 Rules of Construction.* ::
+*§ 5-04 Rules of Construction.*
 
 
 (a)  These rules shall be interpreted and enforced in accordance with the General Construction Law of the State of New York except where the context otherwise requires or a different rule is provided by these rules.
@@ -1168,7 +1177,7 @@ Applications pending as of the effective date of these rules and applications fi
 
 
 
-*§ 5-05 Material Misrepresentations, Misstatements and Omissions.* ::
+*§ 5-05 Material Misrepresentations, Misstatements and Omissions.*
 
 
 (a)  An applicant's or recipient's refusal to provide factual information or to cooperate with the commissioner or his or her staff in the review of the facts and circumstances upon which a determination of eligibility or of continued eligibility is to be based shall constitute grounds for denial of an applicant's eligibility, or for suspension or revocation of a recipient's certificate of eligibility.
@@ -1184,7 +1193,7 @@ Applications pending as of the effective date of these rules and applications fi
 
 
 
-*§ 5-06 Actions of City Employees.* ::
+*§ 5-06 Actions of City Employees.*
 
 
 Employees and agents of the City whose duties require them to take actions in connection with ECSP shall perform such duties, subject to the lawful direction of their supervisors and appropriate public officers, in accordance with these rules. However, noncompliance by such employees or agents with the requirements of these rules shall not be deemed to void any obligation of, or to waive any requirement imposed on, an applicant or recipient, or to excuse any noncompliance by an applicant or recipient with the provisions hereof or of any law. Such noncompliance shall not create any right of relief from the City or its employees or agents in favor of any person adversely affected thereby.
@@ -1194,7 +1203,7 @@ Employees and agents of the City whose duties require them to take actions in co
 
 
 
-*§ 5-07 Separability.* ::
+*§ 5-07 Separability.*
 
 
 If any provision of these rules or their application shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remaining provisions of these rules, but shall be confined in its operation to the provision thereof directly involved.
@@ -1204,7 +1213,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
 
 
-*§ 5-08 Effective Date of Rules. [Repealed]* ::
+*§ 5-08 Effective Date of Rules. [Repealed]*
 
 
 (a)  Only eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators, as described in, and to the extent permitted by, the Act and these rules are eligible for special rebates under ECSP.
@@ -1248,7 +1257,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
 
 
-*§ 5-12 Premises.* ::
+*§ 5-12 Premises.*
 
 
 (a)  Criteria for replacement premises.
@@ -1324,7 +1333,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
 
 
-*§ 5-13 Charges.* ::
+*§ 5-13 Charges.*
 
 
 (a)  Eligible charges.
@@ -1394,7 +1403,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
 
 
-*§ 5-14 Special Rebates.* ::
+*§ 5-14 Special Rebates.*
 
 
 (a) (1) A utility that sells energy services to an eligible energy user or eligible owner that applied for ECSP benefits after October 31, 2000, shall be required to make a special rebate to such user equal to the product of the applicable percentage specified for special rebates in the schedule contained in 66 RCNY § 5-16 and the eligible charges for such energy services.
@@ -1436,7 +1445,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
 
 
-*§ 5-15 Discounts.* ::
+*§ 5-15 Discounts.*
 
 
 (a)  A utility that sells energy services to a vendor of energy services shall be required to make a discount to such vendor in an amount equal to the sum of the special rebates certified to such utility by such vendor as having been made by such vendor to eligible energy users and eligible owners in accordance with 66 RCNY § 5-14.
@@ -1450,7 +1459,7 @@ If any provision of these rules or their application shall be adjudged by any co
 
 
 
-*§ 5-16 Table of Percentages Applicable to the Calculation of Special Rebates for Users that Applied for ECSP Benefits After October 31, 2000.* ::
+*§ 5-16 Table of Percentages Applicable to the Calculation of Special Rebates for Users that Applied for ECSP Benefits After October 31, 2000.*
 
 
 Schedule of Special Rebates
@@ -1459,7 +1468,7 @@ Schedule of Special Rebates
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Months During Benefit Period 
       - Applicable % for Natural Gas
@@ -1479,6 +1488,7 @@ Schedule of Special Rebates
     * - One hundred thirty-third through one hundred forty-fourth
       - 7%
       - 9%
+
 ~
 
 
@@ -1490,7 +1500,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-17 Special Rebates for Those that Applied for ECSP Benefits Prior to November 1, 2000 and are Certified Prior to July 1, 2001. [Repealed]* ::
+*§ 5-17 Special Rebates for Those that Applied for ECSP Benefits Prior to November 1, 2000 and are Certified Prior to July 1, 2001. [Repealed]*
 
 
 (a)  Paragraph (4) of subdivision (a) of § 22-602 of the code states that the commissioner may increase the applicable percentages set forth in 66 RCNY § 5-16 "in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in 66 RCNY § 5-18(b) shall be applicable to the calculations of special rebates for all eligible energy users, eligible owners, and qualified eligible energy users that applied for ECSP benefits prior to November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
@@ -1517,7 +1527,7 @@ Schedule of Special Rebates
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Month of Benefit Period
       -  Adjustment Factor
@@ -1531,6 +1541,7 @@ Schedule of Special Rebates
       - 0.2
     * - 145 and thereafter
       - 0.0
+
 ~
 
 
@@ -1542,7 +1553,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-19 Benefit Period.* ::
+*§ 5-19 Benefit Period.*
 
 
 (a)  Except as set forth in (b) of this 66 RCNY § 5-19, all recipients shall be eligible to receive a special rebate for a period not to exceed one hundred and forty-four (144) consecutive months commencing at the beginning of the month immediately following the effective date of their certificate of eligibility.
@@ -1559,7 +1570,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-21 Granting of Special Rebates to Eligible Energy Users, Eligible Owners, Qualified Eligible Energy Users and On-Site Cogenerators.* ::
+*§ 5-21 Granting of Special Rebates to Eligible Energy Users, Eligible Owners, Qualified Eligible Energy Users and On-Site Cogenerators.*
 
 
 (a) (1) A utility and NYCPUS shall reduce their monthly bills for energy services to eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators that are eligible to receive a special rebate pursuant to 66 RCNY § 5-14 during their respective benefit periods by the applicable special rebate calculated in accordance with such 66 RCNY § 5-14.
@@ -1579,7 +1590,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-22 Remittance Form.* ::
+*§ 5-22 Remittance Form.*
 
 
 (a)  Where special rebates are provided by a vendor of energy services, a remittance form, which shall be a form approved by the commissioner, shall be signed by the recipient and the vendor, submitted to the utility or NYCPUS, and the commissioner, and shall include, but not be limited to, the following information:
@@ -1611,7 +1622,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-22.1 Cogenerator Credit Form.* ::
+*§ 5-22.1 Cogenerator Credit Form.*
 
 
 (a) A cogenerator credit form shall consist of a form approved by the commissioner.
@@ -1623,7 +1634,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-23 Granting of Discount to Vendors.* ::
+*§ 5-23 Granting of Discount to Vendors.*
 
 
 (a)  Vendors that have granted special rebates to eligible energy user or eligible owners in accordance with 66 RCNY § 5-14 of these rules, shall submit executed remittance forms to the utility or NYCPUS, as applicable. Each remittance form shall be limited to a single monthly billing cycle.
@@ -1635,7 +1646,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-24 Granting of Discounts to NYCPUS.* ::
+*§ 5-24 Granting of Discounts to NYCPUS.*
 
 
 (a) A utility shall provide NYCPUS with a discount against its monthly bill upon proper and timely submission of executed remittance forms to the utility. Each remittance form shall be limited to a single monthly billing cycle.
@@ -1647,7 +1658,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-25 Granting of Utility Credit to Utilities; Audit.* ::
+*§ 5-25 Granting of Utility Credit to Utilities; Audit.*
 
 
 (a)  Utilities that have granted special rebates to eligible energy users, eligible owners or on-site cogenerators in accordance with 66 RCNY § 5-14 or discounts to vendors or NYCPUS in accordance with 66 RCNY § 5-15 shall be entitled to a utility credit equal to the aggregate amount of all such special rebates and discounts it has provided to eligible energy users, eligible owners, qualified eligible energy users, on-site cogenerators, vendors and/or NYCPUS, whichever is applicable.
@@ -1668,7 +1679,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-31 Forms and Filing of Application.* ::
+*§ 5-31 Forms and Filing of Application.*
 
 
 (a)  All application forms may be obtained from DBS and, upon completion, shall be submitted to DBS. Only completed applications shall be considered by DBS in determining the applicant's eligibility, or ineligibility, under the Act and these rules.
@@ -1680,7 +1691,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-32 Submission of an Application.* ::
+*§ 5-32 Submission of an Application.*
 
 
 (a)  An applicant that applies after the effective date of these rules must comply with the following application procedures to be considered for eligibility under ECSP:
@@ -1706,7 +1717,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-33 Contents of Application.* ::
+*§ 5-33 Contents of Application.*
 
 
 (a)  The applicant shall have the affirmative burden of proving its eligibility to the satisfaction of the commissioner as to each and every fact contained in the application. The applicant shall provide DSBS with all information required in the application and deemed necessary or useful for the administration of ECSP, including but not limited to, the following:
@@ -1736,7 +1747,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-34 Application Filing Fee.* ::
+*§ 5-34 Application Filing Fee.*
 
 
 (a)  For commercial buildings seeking designation as a specially eligible premises and commercial firms qualifying for ECSP by virtue of a relocation, the application fee shall be determined as set forth below: 
@@ -1745,7 +1756,7 @@ Schedule of Special Rebates
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Gross Square Footage of Applicant's Premises
       - Fee
@@ -1761,6 +1772,7 @@ Schedule of Special Rebates
       - $2,500
     * - Over 250,000 square feet
       - $5,000
+
 ~
 
 
@@ -1778,7 +1790,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-35 Representations and Warranties.* ::
+*§ 5-35 Representations and Warranties.*
 
 
 (a)  As part of the application and reports required by the Act or these rules, the applicant shall certify and make such representations and warranties as may, from time to time, be deemed necessary to ensure compliance with the provisions of all applicable laws and these rules, including, but not limited to, the following:
@@ -1802,7 +1814,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-36 Commissioner's Review; Certification of Eligibility Procedure.* ::
+*§ 5-36 Commissioner's Review; Certification of Eligibility Procedure.*
 
 
 (a)  The commissioner shall review the application and grant or deny an applicant's application for a certificate of eligibility.
@@ -1821,7 +1833,7 @@ Schedule of Special Rebates
 
 
 
-*§ 5-41 Notification to Applicant.* ::
+*§ 5-41 Notification to Applicant.*
 
 
 If the commissioner grants an applicant's application for a certificate of eligibility, his or her staff shall forward an executed certificate of eligibility to the applicant. If the commissioner denies an applicant's application for a certificate of eligibility, the commissioner shall promptly notify the applicant in writing, of the reason for such denial.
@@ -1831,7 +1843,7 @@ If the commissioner grants an applicant's application for a certificate of eligi
 
 
 
-*§ 5-42 Certificate of Eligibility.* ::
+*§ 5-42 Certificate of Eligibility.*
 
 
 (a)  The commissioner's staff will coordinate with the recipient, the utility, the vendor, NYCPUS and DOF, where applicable, to establish the effective date of the certificate of eligibility, which shall in no event be on or after July 1, 2005.
@@ -1861,7 +1873,7 @@ If the commissioner grants an applicant's application for a certificate of eligi
 
 
 
-*§ 5-43 Notification to Utilities, Vendors and/or NYCPUS.* ::
+*§ 5-43 Notification to Utilities, Vendors and/or NYCPUS.*
 
 
 (a)  DBS shall notify the utility, the vendor, and/or NYCPUS, whichever is appropriate, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with 66 RCNY § 5-52.
@@ -1873,7 +1885,7 @@ If the commissioner grants an applicant's application for a certificate of eligi
 
 
 
-*§ 5-44 Reporting and Inspection Requirements.* ::
+*§ 5-44 Reporting and Inspection Requirements.*
 
 
 (a)  During the term of the benefit period, a recipient shall promptly notify the commissioner of any material changes that may affect a recipient's eligibility under ECSP, including but not limited to changes in: (1) the use or type of operations conducted at the eligible premises; (2) recipient's energy usage; (3) the type of metering or method of billing for energy usage at the eligible premises; (4) the occupancy and/or ownership of the eligible premises including, without limitation, the entering into of any leases or subleases at such eligible premises; (5) the number of employees performing work for the recipient and its affiliates or other persons at the premises during each month of the preceding twelve month period.
@@ -1893,7 +1905,7 @@ If the commissioner grants an applicant's application for a certificate of eligi
 
 
 
-*§ 5-45 Requests for an Opportunity to be Heard.* ::
+*§ 5-45 Requests for an Opportunity to be Heard.*
 
 
 Within thirty (30) days after the mailing of a written determination by the commissioner or his or her designee pursuant to the Act or these rules, an applicant or recipient that wants to contest such determination may submit documentation supporting its position to the commissioner or his or her designee and may request an opportunity to be heard.
@@ -1903,7 +1915,7 @@ Within thirty (30) days after the mailing of a written determination by the comm
 
 
 
-*§ 5-46 Opportunity to be Heard.* ::
+*§ 5-46 Opportunity to be Heard.*
 
 
 If an opportunity to be heard is requested in accordance with 66 RCNY § 5-45, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
@@ -1913,7 +1925,7 @@ If an opportunity to be heard is requested in accordance with 66 RCNY § 5-45, t
 
 
 
-*§ 5-47 Final Determination; Notification.* ::
+*§ 5-47 Final Determination; Notification.*
 
 
 (a)  After review of the documentation and arguments submitted by the applicant or recipient the commissioner or his or her designee shall make a final agency deter- mination.
@@ -1927,7 +1939,7 @@ If an opportunity to be heard is requested in accordance with 66 RCNY § 5-45, t
 
 
 
-*APPENDIX A: RATE SCHEDULES* ::
+*APPENDIX A: RATE SCHEDULES*
 
 
 ATTACHMENT A: CON EDISON ELECTRIC SERVICE PSC No. 2 Retail Access Rate Schedule and PSC No. 9 Electric Rate Schedule
@@ -1964,7 +1976,7 @@ ATTACHMENT D-1: KEYSPAN NATURAL GAS SERVICEPSC No. 12 Gas Rate ScheduleTemporary
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Average Monthly Consumption
       - 
@@ -1990,6 +2002,7 @@ ATTACHMENT D-1: KEYSPAN NATURAL GAS SERVICEPSC No. 12 Gas Rate ScheduleTemporary
       - 39%
     * - Greater than 1,000,000
       - 39%
+
 ~
 
  
@@ -2008,7 +2021,7 @@ ATTACHMENT J [Repealed]
 
 
 Chapter 5-A: New York City Lower Manhattan Energy Program
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2017,7 +2030,7 @@ Chapter 5-A: New York City Lower Manhattan Energy Program
 
 
 
-*§ 5-51 Authority; Purpose.* ::
+*§ 5-51 Authority; Purpose.*
 
 
 (a) These rules are promulgated pursuant to Chapter 4 of the Laws of 1995 of the State of New York, as amended, to effectuate the purposes of the New York City Lower Manhattan Energy Program (the "Program").
@@ -2031,7 +2044,7 @@ Chapter 5-A: New York City Lower Manhattan Energy Program
 
 
 
-*§ 5-52 Definitions.* ::
+*§ 5-52 Definitions.*
 
 
 As used in these rules, the following terms shall have the respective meanings set forth below:
@@ -2153,7 +2166,7 @@ Utility credit. "Utility credit" means a credit to which a utility is entitled, 
 
 
 
-*§ 5-53 Law Governing Applications.* ::
+*§ 5-53 Law Governing Applications.*
 
 
 Applications pending as of the effective date of these rules and applications filed subsequently shall be governed by these rules. Persons that have been certified as eligible for special rebates under provisions of law in effect before November 1, 2000, are not required to reapply in order to receive benefits under provision of Chapter 472 of the Laws of 2000.
@@ -2163,7 +2176,7 @@ Applications pending as of the effective date of these rules and applications fi
 
 
 
-*§ 5-54 Rules of Construction.* ::
+*§ 5-54 Rules of Construction.*
 
 
 (a)  These rules shall be interpreted and enforced in accordance with the General Construction Law of the State of New York except where the context otherwise requires or a different rule is provided by these rules.
@@ -2181,7 +2194,7 @@ Applications pending as of the effective date of these rules and applications fi
 
 
 
-*§ 5-55 Material Misrepresentations, Misstatements and Omissions.* ::
+*§ 5-55 Material Misrepresentations, Misstatements and Omissions.*
 
 
 (a) An applicant's or recipient's refusal to provide factual information or to cooperate with the commissioner or the staff of DBS in the review of the facts and circumstances upon which a determination of eligibility or of continued eligibility is to be based shall constitute grounds for denial of an applicant's eligibility, or for suspension or revocation of a recipient's certificate of eligibility.
@@ -2201,7 +2214,7 @@ Applications pending as of the effective date of these rules and applications fi
 
 
 
-*§ 5-56 Actions of Employees.* ::
+*§ 5-56 Actions of Employees.*
 
 
 Employees and agents of the City whose duties require them to take actions in connection with ECSP shall perform such duties, subject to the lawful direction of their supervisors and appropriate public officers, in accordance with these rules. However, noncompliance by such employees or agents with the requirements of these rules shall not be deemed to void any obligation of, or to waive any requirement imposed on, an applicant or recipient, or to excuse any noncompliance by an applicant or recipient with the provisions hereof or of any law. Such noncompliance shall not create any right of relief from the City or its employees or agents in favor of any person adversely affected thereby.
@@ -2211,7 +2224,7 @@ Employees and agents of the City whose duties require them to take actions in co
 
 
 
-*§ 5-57 Separability.* ::
+*§ 5-57 Separability.*
 
 
 If any provision of these rules or its application shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remaining provisions of these rules, but shall be confined in its operation to the provision thereof directly involved.
@@ -2221,7 +2234,7 @@ If any provision of these rules or its application shall be adjudged by any cour
 
 
 
-*§ 5-58 Effective Date of Rules.* ::
+*§ 5-58 Effective Date of Rules.*
 
 
 The effective date of these rules shall be November 1, 2000, and they shall apply to persons certified as eligible to receive special rebates under the laws and rules applicable to LMEP prior to such effective date as well as to applicants certified as eligible for such special rebates after such effective date, provided that where bills for sales of energy services are rendered on a monthly billing cycle, the calculation of special rebates shall, for each eligible revitalization area energy user, eligible redistributor of energy or qualified eligible redistributor of energy, be based on the applicable percentages and eligible charges under the provisions of the Act and these rules beginning with the first billing cycle beginning after November 1, 2000, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before November 1, 2000, and provided, further, that special rebates shall be calculated pursuant to 66 RCNY § 5-66 or 66 RCNY § 5-67, if applicable, beginning with the first billing cycle beginning after June 1, 2001, and the calculation of such rebates prior to such time shall be based on the applicable percentages and eligible charges in effect on or before June 1, 2001.
@@ -2236,7 +2249,7 @@ The effective date of these rules shall be November 1, 2000, and they shall appl
 
 
 
-*§ 5-61 Eligible Building.* ::
+*§ 5-61 Eligible Building.*
 
 
 To qualify as an eligible building, a building shall be located in an eligible revitalization area and:
@@ -2262,7 +2275,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-62 Eligible Redistributor of Energy.* ::
+*§ 5-62 Eligible Redistributor of Energy.*
 
 
 (a) Only eligible redistributors of energy and qualified eligible redistributors of energy, as described in, and to the extent permitted by, the Act and these rules, are eligible for special rebates under LMEP.
@@ -2282,7 +2295,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-63 Eligible Revitalization Area Energy Users.* ::
+*§ 5-63 Eligible Revitalization Area Energy Users.*
 
 
 (a) To qualify for benefits as an eligible revitalization area energy user, a person shall: (1)  purchase or otherwise receive energy services for its own use either directly from a utility or NYCPUS or from an eligible redistributor of energy or a qualified eligible redistributor of energy;
@@ -2320,7 +2333,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-64 Eligible Charges and Eligible Public Utility Service Charges.* ::
+*§ 5-64 Eligible Charges and Eligible Public Utility Service Charges.*
 
 
 (a) Eligible charges.
@@ -2364,7 +2377,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-65 Special Rebates for Users and Redistributors that Applied for LMEP Benefits After October 31, 2000.* ::
+*§ 5-65 Special Rebates for Users and Redistributors that Applied for LMEP Benefits After October 31, 2000.*
 
 
 (a) Except as otherwise provided in subdivision (b) of this section, a utility that sells energy services to either an eligible redistributor of energy that applied for LMEP benefits after October 31, 2000, or a directly metered eligible revitalization area energy user that applied for LMEP benefits after October 31, 2000, shall make a special rebate to such redistributor or such user, as the case may be, equal to the following percentages of eligible charges:
@@ -2373,7 +2386,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Months During Benefit Period
       - Special Rebate for Energy Services
@@ -2387,6 +2400,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - 18%
     * - one hundred thirty-third through one hundred forty-fourth
       - 9%
+
 ~
 
 
@@ -2399,7 +2413,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Months During Benefit Period
       - Special Rebate for Energy Services
@@ -2413,6 +2427,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - 18%
     * - one hundred forty-fifth through one hundred fifty-sixth
       - 9%
+
 ~
 
 
@@ -2426,7 +2441,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-66 Special Rebates for Redistributors and Users that Applied for LMEP Benefits Prior to November 1, 2000 and Were Certified Prior to July 1, 2001. [Repealed]* ::
+*§ 5-66 Special Rebates for Redistributors and Users that Applied for LMEP Benefits Prior to November 1, 2000 and Were Certified Prior to July 1, 2001. [Repealed]*
 
 
 (a) Paragraph (1) of subdivision (a) of § 25-bb of the general city law states that the "that the department of business services of a city having a population of one million or more may increase the percentages set forth in 66 RCNY § 5-65 at its discretion in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in this section of the rules shall be applicable to the calculations of special rebates for all eligible redistributors of energy or directly metered eligible revitalization energy users that applied for LMEP benefits prior to November 1, 2000 and for qualified eligible energy redistributors of energy that were certified before November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
@@ -2443,7 +2458,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Month of Benefit Period
       - Adjustment Factor
@@ -2457,6 +2472,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - 0.2
     * - 145 and thereafter
       - 0.0
+
 ~
 
 
@@ -2469,7 +2485,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Month of Benefit Period
       - Adjustment Factor
@@ -2483,6 +2499,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - 0.2
     * - 157 and thereafter
       - 0.0
+
 ~
 
 
@@ -2501,7 +2518,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-71 Implementation by Eligible Redistributor of Energy or Qualified Eligible Redistributor of Energy.* ::
+*§ 5-71 Implementation by Eligible Redistributor of Energy or Qualified Eligible Redistributor of Energy.*
 
 
 (a) An eligible redistributor of energy or qualified eligible redistributor of energy shall reduce the energy services bills rendered to eligible revitalization area energy users that are not directly metered and that occupy, operate or manage premises in eligible buildings owned or leased by such redistributor by an amount equal, in the aggregate, to one hundred percent (100%) of each special rebate received by such redistributor.
@@ -2543,7 +2560,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-72 Implementation by a Utility and NYCPUS.* ::
+*§ 5-72 Implementation by a Utility and NYCPUS.*
 
 
 (a) Where a utility or NYCPUS is required to make a special rebate pursuant to 66 RCNY § 5-65 or 66 RCNY § 5-67, they shall reduce each energy services bill for each eligible redistributor of energy or qualified eligible redistributor of energy or directly metered eligible revitalization area energy user by the full amount of the special rebate that shall have accrued for the period covered by each such energy services bill. A utility or NYCPUS shall cease to make such reductions in such energy services bills upon receipt of notification from DBS that the certification of eligibility has been suspended or terminated, and a utility or NYCPUS shall change the amount of such reduction in accordance with notification from DBS.
@@ -2555,7 +2572,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-73 Granting of Utility Credit to a Utility.* ::
+*§ 5-73 Granting of Utility Credit to a Utility.*
 
 
 (a) Where a utility has granted special rebates to recipients in accordance with the provisions set forth in 66 RCNY § 5-65 or 66 RCNY § 5-67, it shall be entitled to a utility credit equal to the aggregate amount of all such special rebates it has provided to recipients.
@@ -2572,7 +2589,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-81 Forms and Filing of Application and Preapplication.* ::
+*§ 5-81 Forms and Filing of Application and Preapplication.*
 
 
 (a) All preapplication and application forms may be obtained from DBS, 110 William Street, 3rd Floor, New York, New York 10038, and, upon completion, forms shall be submitted to DBS at the above address. Only completed applications shall be considered by DBS in determining the applicant's eligibility, or ineligibility, under the Act and these rules.
@@ -2590,7 +2607,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-82 Contents of Preapplication and Application.* ::
+*§ 5-82 Contents of Preapplication and Application.*
 
 
 (a) The applicant shall provide DBS with all information required in the preapplication form, including the following: the applicant's name; name and title of a contact person; telephone number; street address of the building site; block and lot number of the building site; Internal Revenue Service tax identification number; if applicable, the ICIP application number for the building site, and such other information as the commissioner deems necessary or useful for a preliminary determination that an applicant may be eligible to participate in LMEP.
@@ -2626,7 +2643,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-83 Application Filing Fee.* ::
+*§ 5-83 Application Filing Fee.*
 
 
 (a) The applicant shall submit to the commissioner with its preapplication a check for a non-refundable application fee in the following amount:
@@ -2635,7 +2652,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Square Footage of Building
       - Fee 
@@ -2651,6 +2668,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - $2,500
     * - Over 250,000 square feet
       - $5,000
+
 ~
 
 
@@ -2666,7 +2684,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-84 Representations and Warranties.* ::
+*§ 5-84 Representations and Warranties.*
 
 
 (a) As part of the preapplication, application, periodic reports and other reports required by the Act or these rules, the applicant shall certify and make such representations and warranties as may, from time to time, be necessary or appropriate to ensure compliance with the provisions of all applicable laws and these rules, including, but not limited to, the following:
@@ -2688,7 +2706,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-85 Approval of an Application.* ::
+*§ 5-85 Approval of an Application.*
 
 
 (a) Approval by the commissioner of an application shall be based on a review of the following information:
@@ -2708,7 +2726,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-86 Notification to Applicant.* ::
+*§ 5-86 Notification to Applicant.*
 
 
 (a) If the commissioner grants an applicant's application for a certificate of eligibility, DBS shall forward a certificate of eligibility executed by the commissioner to the applicant.
@@ -2720,7 +2738,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-87 Certificate of Eligibility.* ::
+*§ 5-87 Certificate of Eligibility.*
 
 
 (a) An applicant shall execute the certificate of eligibility and return it to the commissioner within thirty (30) days of the issuance date stated on the certificate of eligibility. Failure of the applicant to comply with this subsection may result in a revocation of the certificate of eligibility.
@@ -2744,7 +2762,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-88 Notification to a Utility and/or NYCPUS.* ::
+*§ 5-88 Notification to a Utility and/or NYCPUS.*
 
 
 (a) DBS shall notify a utility and/or NYCPUS whichever is appropriate, in writing, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with 66 RCNY § 5-87.
@@ -2756,7 +2774,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-89 Periodic and Other Reports to DBS.* ::
+*§ 5-89 Periodic and Other Reports to DBS.*
 
 
 (a) During the benefit period, a recipient shall promptly notify the commissioner of any material changes which may affect a recipient's eligibility or the amount of the special rebate under LMEP, including but not limited to, changes in:
@@ -2817,7 +2835,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 
-*§ 5-91 Requests for an Opportunity to be Heard.* ::
+*§ 5-91 Requests for an Opportunity to be Heard.*
 
 
 Within thirty (30) days after the mailing of a written determination by the commissioner or his or her designee pursuant to the Act or these rules, an applicant or recipient that wants to contest such determination may submit documentation supporting its position to the commissioner or his or her designee and may request an opportunity to be heard.
@@ -2827,7 +2845,7 @@ Within thirty (30) days after the mailing of a written determination by the comm
 
 
 
-*§ 5-92 Opportunity to be Heard.* ::
+*§ 5-92 Opportunity to be Heard.*
 
 
 If an opportunity to be heard is requested in accordance with 66 RCNY § 5-91, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
@@ -2837,7 +2855,7 @@ If an opportunity to be heard is requested in accordance with 66 RCNY § 5-91, t
 
 
 
-*§ 5-93 Final Determination; Notification.* ::
+*§ 5-93 Final Determination; Notification.*
 
 
 (a)  After review of the documentation and arguments submitted by the applicant or recipient the commissioner or his or her designee shall make a final agency deter- mination.
@@ -2853,7 +2871,7 @@ If an opportunity to be heard is requested in accordance with 66 RCNY § 5-91, t
 
 
 
-*APPENDIX A: RATE SCHEDULES* ::
+*APPENDIX A: RATE SCHEDULES*
 
 
  ATTACHMENT A: CON EDISON ELECTRIC SERVICE  PSC No. 2 Retail Access Rate Schedule and PSC No. 9  Electric Rate Schedule
@@ -2880,21 +2898,11 @@ ATTACHMENT D [Repealed]
 
 
 Chapter 6: Industry Ownership Program [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 6-01 Definitions. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 6-02 Marketing Plan. [Repealed]* ::
+*§ 6-01 Definitions. [Repealed]*
 
 
 
@@ -2904,7 +2912,7 @@ Chapter 6: Industry Ownership Program [Repealed]
 
 
 
-*§ 6-03 Application Procedure. [Repealed]* ::
+*§ 6-02 Marketing Plan. [Repealed]*
 
 
 
@@ -2914,7 +2922,7 @@ Chapter 6: Industry Ownership Program [Repealed]
 
 
 
-*§ 6-04 Qualifications for Eligibility. [Repealed]* ::
+*§ 6-03 Application Procedure. [Repealed]*
 
 
 
@@ -2924,7 +2932,7 @@ Chapter 6: Industry Ownership Program [Repealed]
 
 
 
-*§ 6-05 Evaluation Criteria. [Repealed]* ::
+*§ 6-04 Qualifications for Eligibility. [Repealed]*
 
 
 
@@ -2934,7 +2942,17 @@ Chapter 6: Industry Ownership Program [Repealed]
 
 
 
-*§ 6-06 Disbursements and Eligible Expenses. [Repealed]* ::
+*§ 6-05 Evaluation Criteria. [Repealed]*
+
+
+
+
+
+
+
+
+
+*§ 6-06 Disbursements and Eligible Expenses. [Repealed]*
 
 
 
@@ -2943,21 +2961,11 @@ Chapter 6: Industry Ownership Program [Repealed]
 
 
 Chapter 7: Industrial Security Grant Program [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 7-01 Definitions. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 7-02 Eligibility for Industrial Security Grants. [Repealed]* ::
+*§ 7-01 Definitions. [Repealed]*
 
 
 
@@ -2967,7 +2975,7 @@ Chapter 7: Industrial Security Grant Program [Repealed]
 
 
 
-*§ 7-03 Material Misrepresentations, Misstatements and Omissions. [Repealed]* ::
+*§ 7-02 Eligibility for Industrial Security Grants. [Repealed]*
 
 
 
@@ -2977,7 +2985,7 @@ Chapter 7: Industrial Security Grant Program [Repealed]
 
 
 
-*§ 7-04 Application Process. [Repealed]* ::
+*§ 7-03 Material Misrepresentations, Misstatements and Omissions. [Repealed]*
 
 
 
@@ -2987,7 +2995,7 @@ Chapter 7: Industrial Security Grant Program [Repealed]
 
 
 
-*§ 7-05 Security Survey. [Repealed]* ::
+*§ 7-04 Application Process. [Repealed]*
 
 
 
@@ -2997,7 +3005,7 @@ Chapter 7: Industrial Security Grant Program [Repealed]
 
 
 
-*§ 7-06 Work Procurement Process and the Grant Commitment Contract. [Repealed]* ::
+*§ 7-05 Security Survey. [Repealed]*
 
 
 
@@ -3007,7 +3015,17 @@ Chapter 7: Industrial Security Grant Program [Repealed]
 
 
 
-*§ 7-07 Reimbursements. [Repealed]* ::
+*§ 7-06 Work Procurement Process and the Grant Commitment Contract. [Repealed]*
+
+
+
+
+
+
+
+
+
+*§ 7-07 Reimbursements. [Repealed]*
 
 
 
@@ -3016,11 +3034,11 @@ Chapter 7: Industrial Security Grant Program [Repealed]
 
 
 Chapter 8: Commercial Security Grant Program [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 8-01 Purpose. [Repealed]* ::
+*§ 8-01 Purpose. [Repealed]*
 
 
 
@@ -3030,7 +3048,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 
-*§ 8-02 Definitions. [Repealed]* ::
+*§ 8-02 Definitions. [Repealed]*
 
 
 
@@ -3040,7 +3058,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 
-*§ 8-03 Security Education. [Repealed]* ::
+*§ 8-03 Security Education. [Repealed]*
 
 
 
@@ -3050,7 +3068,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 
-*§ 8-04 Eligibility for Commercial Security Grants. [Repealed]* ::
+*§ 8-04 Eligibility for Commercial Security Grants. [Repealed]*
 
 
 
@@ -3060,7 +3078,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 
-*§ 8-05 Material Misrepresentations, Misstatements and Omissions. [Repealed]* ::
+*§ 8-05 Material Misrepresentations, Misstatements and Omissions. [Repealed]*
 
 
 
@@ -3070,7 +3088,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 
-*§ 8-06 Application Process. [Repealed]* ::
+*§ 8-06 Application Process. [Repealed]*
 
 
 
@@ -3080,7 +3098,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 
-*§ 8-07 Security Survey. [Repealed]* ::
+*§ 8-07 Security Survey. [Repealed]*
 
 
 
@@ -3090,7 +3108,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 
-*§ 8-08 Work Procurement Process and the Grant Commitment Agreement. [Repealed]* ::
+*§ 8-08 Work Procurement Process and the Grant Commitment Agreement. [Repealed]*
 
 
 
@@ -3100,7 +3118,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 
-*§ 8-09 Reimbursements. [Repealed]* ::
+*§ 8-09 Reimbursements. [Repealed]*
 
 
 
@@ -3110,7 +3128,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 
-*§ 8-10 Appeals. [Repealed]* ::
+*§ 8-10 Appeals. [Repealed]*
 
 
 
@@ -3119,7 +3137,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 Chapter 9: Energy Services [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3128,7 +3146,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-01 Purpose. [Repealed]* ::
+*§ 9-01 Purpose. [Repealed]*
 
 
 
@@ -3138,7 +3156,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-02 Definitions. [Repealed]* ::
+*§ 9-02 Definitions. [Repealed]*
 
 
 
@@ -3148,7 +3166,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-03 Certification Requirements. [Repealed]* ::
+*§ 9-03 Certification Requirements. [Repealed]*
 
 
 
@@ -3158,7 +3176,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-04 Model Lease Rider. [Repealed]* ::
+*§ 9-04 Model Lease Rider. [Repealed]*
 
 
 
@@ -3168,7 +3186,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-05 Application Procedures. [Repealed]* ::
+*§ 9-05 Application Procedures. [Repealed]*
 
 
 
@@ -3178,7 +3196,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-06 Notice of Certification or Revocation. [Repealed]* ::
+*§ 9-06 Notice of Certification or Revocation. [Repealed]*
 
 
 
@@ -3188,7 +3206,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-07 Books and Records. [Repealed]* ::
+*§ 9-07 Books and Records. [Repealed]*
 
 
 
@@ -3198,7 +3216,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-08 Additional Penalties. [Repealed]* ::
+*§ 9-08 Additional Penalties. [Repealed]*
 
 
 
@@ -3208,7 +3226,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-09 Repayment of Improperly Obtained Benefits. [Repealed]* ::
+*§ 9-09 Repayment of Improperly Obtained Benefits. [Repealed]*
 
 
 
@@ -3218,7 +3236,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-10 Material Misrepresentation, Misstatements and Omissions. [Repealed]* ::
+*§ 9-10 Material Misrepresentation, Misstatements and Omissions. [Repealed]*
 
 
 
@@ -3228,7 +3246,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-11 Actions of City Employees. [Repealed]* ::
+*§ 9-11 Actions of City Employees. [Repealed]*
 
 
 
@@ -3243,7 +3261,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-21 Definitions. [Repealed]* ::
+*§ 9-21 Definitions. [Repealed]*
 
 
 
@@ -3253,7 +3271,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-22 General Terms and Conditions. [Repealed]* ::
+*§ 9-22 General Terms and Conditions. [Repealed]*
 
 
 
@@ -3263,7 +3281,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-23 Firm Industrial Economic Development Nuclear Service (Service Tariff No. 4). [Repealed]* ::
+*§ 9-23 Firm Industrial Economic Development Nuclear Service (Service Tariff No. 4). [Repealed]*
 
 
 
@@ -3273,7 +3291,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-24 Firm Hydroelectric Service (Service Tariff No. 33). [Repealed]* ::
+*§ 9-24 Firm Hydroelectric Service (Service Tariff No. 33). [Repealed]*
 
 
 
@@ -3283,7 +3301,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-25 Firm Industrial Economic Development Hydroelectric Service (Service Tariff No. 34). [Repealed]* ::
+*§ 9-25 Firm Industrial Economic Development Hydroelectric Service (Service Tariff No. 34). [Repealed]*
 
 
 
@@ -3293,7 +3311,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-*§ 9-26 Interruptible Hydroelectric Service (Service Tariff No. 36). [Repealed]* ::
+*§ 9-26 Interruptible Hydroelectric Service (Service Tariff No. 36). [Repealed]*
 
 
 
@@ -3302,7 +3320,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 Chapter 10: Division of Labor Services
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3311,7 +3329,7 @@ Chapter 10: Division of Labor Services
 
 
 
-*§ 10-01 Applicability.* ::
+*§ 10-01 Applicability.*
 
 
 These regulations apply to all contracts let by the City, as provided herein.
@@ -3321,7 +3339,7 @@ These regulations apply to all contracts let by the City, as provided herein.
 
 
 
-*§ 10-02 Definitions.* ::
+*§ 10-02 Definitions.*
 
 
 Whenever used in these regulations, the following terms shall have the following meanings:
@@ -3439,7 +3457,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
 
 
-*§ 10-03 Covered Contracts.* ::
+*§ 10-03 Covered Contracts.*
 
 
 (a) General. 
@@ -3501,7 +3519,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
 
 
-*§ 10-04 Responsibilities of Contracting Agencies.* ::
+*§ 10-04 Responsibilities of Contracting Agencies.*
 
 
 (a)  Contract language – all contracts. Each contracting agency shall incorporate into every contract in excess of the small purchase limit established by rule of the Procurement Policy Board to which it becomes a party the following language: "This contract is subject to the requirements of Executive Order No. 50  (66 RCNY § 10-14) ("E.O. 50") and the Rules and Regulations promulgated thereunder. No contract will be awarded unless and until these requirements have been complied with in their entirety. By signing this contract, the contractor agrees that it:
@@ -3573,7 +3591,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
 
 
-*§ 10-05 Responsibilities of the Division of Labor Services.* ::
+*§ 10-05 Responsibilities of the Division of Labor Services.*
 
 
 (a) Division review – generally.
@@ -3623,7 +3641,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
 
 
-*§ 10-06 Criteria for Compliance – Generally.* ::
+*§ 10-06 Criteria for Compliance – Generally.*
 
 
 The Division shall determine the contractor's compliance status after analysis of the composition of its work force and its employment policies and practices using the criteria enumerated in this section. In the event the analysis reveals that the contractor has not met the requirements of E.O. 50 (66 RCNY § 10-14) and these regulations, the Division may with the contractor develop an Employment Program to correct any underutilization or employment policies and practices which mitigate against equal employment-opportunity. The Employment Program shall consist of mandated actions based upon the criteria set forth in this section.
@@ -3827,7 +3845,7 @@ The Division shall determine the contractor's compliance status after analysis o
 
 
 
-*§ 10-07 Noncompliance.* ::
+*§ 10-07 Noncompliance.*
 
 
 (a) Division determination – failure to file documents.
@@ -3929,7 +3947,7 @@ The Division shall determine the contractor's compliance status after analysis o
 
 
 
-*§ 10-08 Referral to Other Agencies on Suspicion of Violations.* ::
+*§ 10-08 Referral to Other Agencies on Suspicion of Violations.*
 
 
 When it has reason to believe that federal, state or local law has been violated, the Division shall notify the appropriate enforcement agency concerning its findings.
@@ -3939,7 +3957,7 @@ When it has reason to believe that federal, state or local law has been violated
 
 
 
-*§ 10-09 Existing Contracts and Subcontracts.* ::
+*§ 10-09 Existing Contracts and Subcontracts.*
 
 
 All contracts and subcontracts in effect prior to April 25, 1980 which are not subsequently modified shall be administered in accordance with the equal employment and training provisions of any prior applicable Executive Orders. Any contract or subcontract modified on or after April 25, 1980 shall be subject to E.O. 50 (66 RCNY § 10-14).
@@ -3949,7 +3967,7 @@ All contracts and subcontracts in effect prior to April 25, 1980 which are not s
 
 
 
-*§ 10-10 Confidentiality.* ::
+*§ 10-10 Confidentiality.*
 
 
 To the extent permitted by law and consistent with the proper discharge of the Division's responsibilities under E.O. 50 (66 RCNY § 10-14) and these regulations, all information provided by a contractor to the Division shall be confidential.
@@ -3959,7 +3977,7 @@ To the extent permitted by law and consistent with the proper discharge of the D
 
 
 
-*§ 10-11 Delegation of Authority by the Director.* ::
+*§ 10-11 Delegation of Authority by the Director.*
 
 
 The Director is authorized to delegate the authority given to him or her by these regulations. The authority delegated by the Director pursuant to these regulations shall be exercised under his or her supervision.
@@ -3969,7 +3987,7 @@ The Director is authorized to delegate the authority given to him or her by thes
 
 
 
-*§ 10-12 Separability.* ::
+*§ 10-12 Separability.*
 
 
 If any provision of these regulations or the application thereof is held invalid, the remainder of these regulations and the application thereof to other persons or circumstances shall not be affected by such holding and shall remain in full force and effect.
@@ -3979,7 +3997,7 @@ If any provision of these regulations or the application thereof is held invalid
 
 
 
-*§ 10-13 Effectiveness and Applicability.* ::
+*§ 10-13 Effectiveness and Applicability.*
 
 
 The rules contained in this chapter shall become effective 30 days after final publication in the City Record and apply to all contracts, solicitations, invitations for bids, or requests for proposals which were made by the City or an applicant on or after said effective date, and to all negotiated contracts which have not been executed as of said effective date.
@@ -3989,7 +4007,7 @@ The rules contained in this chapter shall become effective 30 days after final p
 
 
 
-*§ 10-14 Executive Order No. 50. [Repealed]* ::
+*§ 10-14 Executive Order No. 50. [Repealed]*
 
 
 APRIL 25, 1980BUREAU OF LABOR SERVICES
@@ -4120,7 +4138,7 @@ By the power vested in me as Mayor of the City of New York, it is hereby ordered
 
 
 Chapter 11: Division of Economic and Financial Opportunity
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4129,7 +4147,7 @@ Chapter 11: Division of Economic and Financial Opportunity
 
 
 
-*§ 11-01 Applicability.* ::
+*§ 11-01 Applicability.*
 
 
 These regulations apply to all construction contracts let by contracting agencies except
@@ -4143,7 +4161,7 @@ These regulations apply to all construction contracts let by contracting agencie
 
 
 
-*§ 11-02 Definitions.* ::
+*§ 11-02 Definitions.*
 
 
 As used in these regulations, the listed terms are defined as follows:
@@ -4243,7 +4261,7 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
 
 
-*§ 11-03 Certification of LBE's.* ::
+*§ 11-03 Certification of LBE's.*
 
 
 (a) Application for certification. 
@@ -4343,7 +4361,7 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
 
 
-*§ 11-04 Responsibilities of Contracting Agencies.* ::
+*§ 11-04 Responsibilities of Contracting Agencies.*
 
 
 (a) Overall goals. 
@@ -4673,7 +4691,7 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
 
 
-*§ 11-05 Complaints.* ::
+*§ 11-05 Complaints.*
 
 
 (a) Any person who believes a violation of Administrative Code § 6-108.1 and these regulations has occurred may file a complaint, in writing, signed and dated, with the contracting agency when a contract is involved or, if no specific contract is involved, with OEFO.
@@ -4695,7 +4713,7 @@ Woman business enterprise requirement. "Woman business enterprise requirement" m
 
 
 
-*§ 11-06 Responsibilities of the Division of Economic and Financial Opportunity.* ::
+*§ 11-06 Responsibilities of the Division of Economic and Financial Opportunity.*
 
 
 Implementation.
@@ -4715,7 +4733,7 @@ Implementation.
 
 
 
-*§ 11-07 Separability and Applicability.* ::
+*§ 11-07 Separability and Applicability.*
 
 
 (a) Separability. If any provision of these regulations, or the application thereof is held invalid, the remainder of these rules and regulations, and the application thereof to other persons or circumstances shall not be affected by such holding and shall remain in full force and effect.
@@ -4727,7 +4745,7 @@ Implementation.
 
 
 
-*APPENDIX A: ECONOMIC DEVELOPMENT AREAS* ::
+*APPENDIX A: ECONOMIC DEVELOPMENT AREAS*
 
 
 The following are eligible Community Development areas:
@@ -4747,7 +4765,7 @@ Staten Island Arlington – Census Tract 319.02 Clifton/Fox Hills – Census Tra
 
 
 
-*APPENDIX B: MAPS OF ECONOMIC DEVELOPMENT AREA* ::
+*APPENDIX B: MAPS OF ECONOMIC DEVELOPMENT AREA*
 
 
 
@@ -5117,7 +5135,7 @@ Staten Island 9 of 9
 
 
 
-*APPENDIX C: 1989 LOWER LIVING STANDARD INCOME LEVEL TABLE* ::
+*APPENDIX C: 1989 LOWER LIVING STANDARD INCOME LEVEL TABLE*
 
 
 Effective: May 4, 1989
@@ -5130,7 +5148,7 @@ a   Effective July 1, 1989, Tompkins will merge with Broome-Tioga to form the
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 1989 POVERTY INCOME GUIDELINES
       - 
@@ -5152,6 +5170,7 @@ a   Effective July 1, 1989, Tompkins will merge with Broome-Tioga to form the
       - $18,220
     * - 8
       - $20,260
+
 ~
 
  
@@ -5170,7 +5189,7 @@ Effective Date: February 16, 1989
 
 
 
-*§ 11-21 Definitions.* ::
+*§ 11-21 Definitions.*
 
 
 As used in this subchapter, the following terms have the following meanings:
@@ -5228,7 +5247,7 @@ Women-owned business enterprise or WBE. "Women-owned business enterprise" or "WB
 
 
 
-*§ 11-22 Eligibility Criteria.* ::
+*§ 11-22 Eligibility Criteria.*
 
 
 The following standards will be used to determine whether a business enterprise is eligible for certification as an MBE and/or WBE.
@@ -5296,7 +5315,7 @@ The following standards will be used to determine whether a business enterprise 
 
 
 
-*§ 11-23 Application Intake and Verification.* ::
+*§ 11-23 Application Intake and Verification.*
 
 
 (a) Minority- and/or women-owned business enterprise certification applications may be obtained from, and must be returned to DSBS or may be submitted electronically, to the extent an online application process is available. DSBS will record the date that each application is received.
@@ -5326,7 +5345,7 @@ The following standards will be used to determine whether a business enterprise 
 
 
 
-*§ 11-24 Notice of Determination and Right to Appeal.* ::
+*§ 11-24 Notice of Determination and Right to Appeal.*
 
 
 (a) The certification director will provide the applicant with written notice of a determination approving or denying certification.
@@ -5344,7 +5363,7 @@ The following standards will be used to determine whether a business enterprise 
 
 
 
-*§ 11-25 Appeals.* ::
+*§ 11-25 Appeals.*
 
 
 A business entity denied certification or re-certification as an MBE and/or WBE will be given written notice by DSBS of the grounds for such denial and an opportunity to appeal such denial in writing to the commissioner. Such appeal or a request for an extension to file an appeal must be received by the commissioner no later than sixty (60) days after the date of the notice denying the business enterprise's certification or re-certification. The commissioner may extend the period in which to initiate an appeal for good cause shown. Such appeal must include, at a minimum, a description of the reasons why the decision to deny certification or re-certification is in error and provide evidence to support the appeal. Such business entity must provide such other documentation or information as is requested by the commissioner, in his or her sole discretion. The commissioner will render a written determination no later than one hundred twenty (120) days after receipt of the appeal, unless the time to render a determination has been extended upon agreement of the commissioner and the business enterprise. If the commissioner's determination is not made within the prescribed one hundred twenty (120) days after receipt of the appeal or within the agreed upon extended time period, then the appeal is deemed denied. The decision of the commissioner granting or denying such appeal will constitute the final agency determination.
@@ -5354,7 +5373,7 @@ A business entity denied certification or re-certification as an MBE and/or WBE 
 
 
 
-*§ 11-26 Revocation of Minority- or Women-Owned Business Enterprise Status.* ::
+*§ 11-26 Revocation of Minority- or Women-Owned Business Enterprise Status.*
 
 
 (a)  A certified business must notify DSBS within forty-five (45) days of any material change in the information contained in the certification application. A material change may include, but is not limited to, a change in any of the following: ownership; address; officers; services provided by the certified business; market sector in which the business enterprise operates, bonding capacity of the business enterprise; and the union affiliation(s), if any, of the business enterprise. If a material change occurs, a review may be conducted by DSBS and certification may be revoked. If an MBE's and/or WBE's certification is revoked, such business enterprise may reapply for certification at any time following revocation. If a certified business fails to notify the certification director of such material change, the certification director may in his or her discretion, revoke the certification of an MBE and/or WBE for a period of up to five years.
@@ -5380,7 +5399,7 @@ A business entity denied certification or re-certification as an MBE and/or WBE 
 
 
 
-*§ 11-27 Certification Criteria and Procedures for Firms Certified as Minority- and/or Women-Owned Business Enterprises by Other Governmental Entities.* ::
+*§ 11-27 Certification Criteria and Procedures for Firms Certified as Minority- and/or Women-Owned Business Enterprises by Other Governmental Entities.*
 
 
 (a) DSBS may grant MBE and/or WBE certification status to eligible firms certified as minority owned businesses and/or women owned businesses by other governmental entities in accordance with the criteria and procedures contained in this section.
@@ -5414,7 +5433,7 @@ A business entity denied certification or re-certification as an MBE and/or WBE 
 
 
 
-*§ 11-60 Definitions.* ::
+*§ 11-60 Definitions.*
 
 
 As used in this subchapter, the following terms have the following meanings:
@@ -5508,7 +5527,7 @@ As used in this subchapter, the following terms have the following meanings:
 
 
 
-*§ 11-61 Citywide Goals.* ::
+*§ 11-61 Citywide Goals.*
 
 
 (1)  The citywide contracting participation goals for MBEs, WBEs and EBEs, which may be met through awards of prime contracts or subcontracts as described in 66 RCNY § 11-67, are as follows:
@@ -5517,7 +5536,7 @@ As used in this subchapter, the following terms have the following meanings:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - For construction contracts:Category:Black AmericansAsian AmericansHispanic AmericansWomenEmerging
       - Participation goal:8% of total annual agency expenditures on such contracts8% of total annual agency expenditures on such contracts4% of total annual agency expenditures on such contracts18% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
@@ -5527,6 +5546,7 @@ As used in this subchapter, the following terms have the following meanings:
       - Participation goal:12% of total annual agency expenditures on such contracts3% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts10% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
     * - For goods contracts under one hundred thousand dollars:Category:Black AmericansAsian AmericansHispanic AmericansWomenEmerging
       - Participation goal:7% of total annual agency expenditures on such contracts8% of total annual agency expenditures on such contract5% of total annual agency expenditures on such contracts25% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
+
 ~
 
 
@@ -5548,7 +5568,7 @@ As used in this subchapter, the following terms have the following meanings:
 
 
 
-*§ 11-62 Responsibilities of the Division.* ::
+*§ 11-62 Responsibilities of the Division.*
 
 
 (1) The division will create and maintain and periodically update directories by industry classification of MBEs, WBEs and EBEs which it will supply to all agencies, post on its website and on other relevant city websites and make available for dissemination and/or public inspection at its offices and other locations within each borough. In addition, the division will prepare, periodically update, and post on the division's website a directory of such city certified business enterprises for use by city agencies and contractors, which will include, but is not limited to, the following information for each such business enterprise, as applicable: (i) identification of the market sector in which the business enterprise operates; (ii) the bonding capacity of the business enterprise; (iii) the union affiliation, if any, of the business enterprise; (iv) the contract price and specific tasks performed by the business enterprise for its last three contracts; and (v) the renewal date for the business enterprise's certification.
@@ -5586,7 +5606,7 @@ As used in this subchapter, the following terms have the following meanings:
 
 
 
-*§ 11-63 Responsibilities of Agency M/WBE Officers.* ::
+*§ 11-63 Responsibilities of Agency M/WBE Officers.*
 
 
 Each agency head will designate a deputy commissioner or other executive officer to act as the agency M/WBE officer who will be directly accountable to the agency head concerning the activities of the agency in carrying out its responsibilities pursuant to this section, including the responsibilities relating to EBE participation. The duties of the M/WBE officer will include, but not be limited to:
@@ -5618,7 +5638,7 @@ Each agency head will designate a deputy commissioner or other executive officer
 
 
 
-*§ 11-64 Agency Utilization Plans.* ::
+*§ 11-64 Agency Utilization Plans.*
 
 
 (1) Beginning May 15, 2006, and on April 1 of each year thereafter, each agency which, during the fiscal year which ended on June 30 of the preceding year, has made procurements in excess of five million dollars, without counting procurements exempt pursuant to paragraph two of 66 RCNY § 11-74, must submit an agency utilization plan for the fiscal year commencing in July of the year when such plan is to be submitted to the commissioner. Upon approval by the commissioner such plan will be submitted to the speaker of the council. Each such plan will, at a minimum, include the following:
@@ -5648,7 +5668,7 @@ Each agency head will designate a deputy commissioner or other executive officer
 
 
 
-*§ 11-65 Achieving Agency Participation Goals.* ::
+*§ 11-65 Achieving Agency Participation Goals.*
 
 
 (1) Each agency head must be directly accountable for the goals set forth in his or her agency's utilization plan.
@@ -5672,7 +5692,7 @@ Each agency head will designate a deputy commissioner or other executive officer
 
 
 
-*§ 11-66 Participation Goals for Contracts for Construction and Professional and Standard Services.* ::
+*§ 11-66 Participation Goals for Contracts for Construction and Professional and Standard Services.*
 
 
 (1) Prior to issuing the solicitation of bids or proposals for individual contracts, agencies must establish participation goals for MBEs, WBEs and/or EBEs. Such goals may be greater than, less than or the same as the relevant citywide goal or goals established pursuant to 66 RCNY § 11-61. Taking into account the factors listed in this subdivision, an agency may establish a goal for a procurement that may be achieved by a combination of prime contract and subcontract dollars, a combination of construction and services performed pursuant to the contract, and/or a combination of MBEs, WBEs and/or EBEs. Alternatively, an agency may establish specific goals for particular types of services, and/or goals for particular types of certified firms. In determining the participation goals for a particular contract, an agency must consider the following factors:
@@ -5788,7 +5808,7 @@ Where the contractor has established the basis for substitution to the satisfact
 
 
 
-*§ 11-67 Determining Credit for MBE, WBE and EBE Participation.* ::
+*§ 11-67 Determining Credit for MBE, WBE and EBE Participation.*
 
 
 (1)  An agency's achievement of its annual goals will be calculated as follows:
@@ -5832,7 +5852,7 @@ Where the contractor has established the basis for substitution to the satisfact
 
 
 
-*§ 11-68 Small Purchases.* ::
+*§ 11-68 Small Purchases.*
 
 
 Whenever an agency solicits bids or proposals for small purchases pursuant to section three hundred fourteen of the charter, the agency must maintain records identifying the MBEs, WBEs and EBEs it solicited, which will become part of the contract file.
@@ -5842,7 +5862,7 @@ Whenever an agency solicits bids or proposals for small purchases pursuant to se
 
 
 
-*§ 11-69 Compliance Reporting.* ::
+*§ 11-69 Compliance Reporting.*
 
 
 (1) The city chief procurement officer, in consultation with the division, will prepare and submit quarterly reports to the speaker of the council as described in this section. Preliminary reports containing information for the fiscal year in progress will be submitted to the speaker of the council by January first, April first, and July first of each year, and a final report containing information for the preceding fiscal year will be submitted to the speaker of the council by October first of each year. The reports, which will also be posted on the division's website, must contain the following information, disaggregated by agency:
@@ -5886,7 +5906,7 @@ Whenever an agency solicits bids or proposals for small purchases pursuant to se
 
 
 
-*§ 11-70 Agency Compliance.* ::
+*§ 11-70 Agency Compliance.*
 
 
 (1) Each agency must submit to the commissioner and the city chief procurement officer such information as is necessary for the city chief procurement officer to complete his or her reports as required in 66 RCNY § 11-69. The director, the commissioner, and the city chief procurement officer will review each agency's submissions. The director will convene the agency M/WBE officers for those agencies that have submitted utilization plans pursuant to 66 RCNY § 11-64 as often as the director deems necessary, but no less frequently than once per quarter, in order to have agency M/WBE officers (i) discuss the results of the reports required in 66 RCNY § 11-69; (ii) offer detailed information concerning their effectuation of their performance improvement plans and any additional efforts undertaken to meet goals established in agency utilization plans; (iii) share the practices that have yielded successes in increasing M/WBE participation; and (iv) devise strategic plans to improve the performance of those failing to meet goals established in agency utilization plans. No less frequently than twice per year, agency heads for those agencies that have submitted utilization plans pursuant to 66 RCNY § 11-64 must join such quarterly meetings. Whenever it has been determined that an agency is not making adequate progress toward the goals established in its agency utilization plan, the director, the commissioner, and the city chief procurement officer will act to improve such agency's performance, and may take any of the following actions:
@@ -5908,7 +5928,7 @@ Whenever an agency solicits bids or proposals for small purchases pursuant to se
 
 
 
-*§ 11-71 Pre-Qualification.* ::
+*§ 11-71 Pre-Qualification.*
 
 
 An agency establishing a list of pre-qualified bidders or proposers may deny pre-qualification to prospective contractors who fail to demonstrate in their application for pre-qualification that they have complied with applicable federal, state and local requirements for participation of MBEs, WBEs and EBEs in procurements. A denial of pre-qualification may be appealed pursuant to applicable procurement policy board rules.
@@ -5918,7 +5938,7 @@ An agency establishing a list of pre-qualified bidders or proposers may deny pre
 
 
 
-*§ 11-72 Enforcement.* ::
+*§ 11-72 Enforcement.*
 
 
 (1) Any person who believes that a violation of the requirements of § 6-129 of the administrative code of the city of New York or these rules, or any provision of a contract that implements § 6-129 of the administrative code of the city of New York or these rules, including, but not limited to, any contractor utilization plan, has occurred may submit a complaint in writing to the division, the city chief procurement officer and the comptroller. The division will promptly investigate such complaint and determine whether there has been a violation.
@@ -5976,7 +5996,7 @@ An agency establishing a list of pre-qualified bidders or proposers may deny pre
 
 
 
-*§ 11-73 Procurements by Elected Officials and the Council.* ::
+*§ 11-73 Procurements by Elected Officials and the Council.*
 
 
 (1) In the case of procurements by independently elected city officials other than the mayor, where these rules provide for any action to be taken by the director or the city chief procurement officer, such action will instead be taken by such elected officials.
@@ -5988,7 +6008,7 @@ An agency establishing a list of pre-qualified bidders or proposers may deny pre
 
 
 
-*§ 11-74 Applicability.* ::
+*§ 11-74 Applicability.*
 
 
 Agencies will not be required to apply participation requirements to the following types of contracts:
@@ -6014,7 +6034,7 @@ Agencies will not be required to apply participation requirements to the followi
 
 
 
-*§ 11-75 Comptroller.* ::
+*§ 11-75 Comptroller.*
 
 
 The comptroller shall randomly examine contracts for which contractor utilization plans are established to assess compliance with such plans. All solicitations for contracts for which contractor utilization plans are to be established shall include notice of potential comptroller examinations.
@@ -6029,7 +6049,7 @@ The comptroller shall randomly examine contracts for which contractor utilizatio
 
 
 
-*§ 11-81 Definitions.* ::
+*§ 11-81 Definitions.*
 
 
 As used in this subchapter, the following terms have the following meanings:
@@ -6083,7 +6103,7 @@ Socially and economically disadvantaged. "Socially and economically disadvantage
 
 
 
-*§ 11-82 Eligibility Criteria.* ::
+*§ 11-82 Eligibility Criteria.*
 
 
 The following standards will be used to determine whether a business enterprise is eligible for certification as an EBE.
@@ -6195,7 +6215,7 @@ The following standards will be used to determine whether a business enterprise 
 
 
 
-*§ 11-83 Application Intake and Verification.* ::
+*§ 11-83 Application Intake and Verification.*
 
 
 (a)  Emerging business enterprise certification applications may be obtained from, and must be returned to DSBS. DSBS will date stamp the date of receipt of a certification application upon receiving it.
@@ -6225,7 +6245,7 @@ The following standards will be used to determine whether a business enterprise 
 
 
 
-*§ 11-84 Notice of Determination and Right to Appeal.* ::
+*§ 11-84 Notice of Determination and Right to Appeal.*
 
 
 (a)  The director of certification shall provide the applicant with written notice of a determination approving or denying certification.
@@ -6243,7 +6263,7 @@ The following standards will be used to determine whether a business enterprise 
 
 
 
-*§ 11-85 Appeals.* ::
+*§ 11-85 Appeals.*
 
 
 A business entity denied certification or re-certification as an EBE shall be given written notice by DSBS of the grounds for such denial and an opportunity to appeal such denial in writing to the commissioner. Such appeal or a request for an extension to file an appeal, must be received by the commissioner no later than thirty (30) days after the date of the notice denying the business enterprise's certification or re-certification. The commissioner may extend the period in which to initiate an appeal for good cause shown. Such appeal shall include, at a minimum, a description of the reasons why the decision to deny certification or re-certification is in error and provide evidence to support its appeal. Such person shall provide such other documentation or information as is requested by the commissioner, in his or her sole discretion. The commissioner shall render a written determination no later than sixty days after receipt of the appeal, unless the time to render a determination has been extended upon agreement of the commissioner and the business enterprise. If the commissioner's determination is not made within the prescribed sixty days after receipt of the appeal or within the agreed upon extended time period, then the appeal is deemed denied. The decision of the commissioner granting or denying such appeal shall constitute the final agency determination.
@@ -6253,7 +6273,7 @@ A business entity denied certification or re-certification as an EBE shall be gi
 
 
 
-*§ 11-86 Revocation of Emerging Business Enterprise Status.* ::
+*§ 11-86 Revocation of Emerging Business Enterprise Status.*
 
 
 (a)  A certified business must notify DSBS within forty-five (45) days of any material change in the information contained in the original certification application. A material change may include, but is not limited to, a change in any of the following: ownership; address; officers; or services provided by the certified business. If a material change occurs, a review may be conducted by DSBS and certification may be revoked. If an EBE's certification is revoked, such business enterprise may reapply for certification at any time following revocation. If a certified business fails to notify the director of EBE of such material change, the director of EBE may in his or her discretion, revoke the certification of an EBE for a period of up to five (5) years.
@@ -6284,7 +6304,7 @@ A business entity denied certification or re-certification as an EBE shall be gi
 
 
 
-*§ 11-87 Definitions.* ::
+*§ 11-87 Definitions.*
 
 
 As used in this subchapter, the following terms mean:
@@ -6350,7 +6370,7 @@ Summer accrual. "Summer accrual" means any additional compensation received at o
 
 
 
-*§ 11-88 Calculation of Grants and Eligibility Criteria.* ::
+*§ 11-88 Calculation of Grants and Eligibility Criteria.*
 
 
 (a) The department will provide monetary grants to any qualified employer for each 2018 qualified employee hired by such qualified employer in an amount equal to the sum of:
@@ -6414,7 +6434,7 @@ Summer accrual. "Summer accrual" means any additional compensation received at o
 
 
 
-*§ 11-89 Notice.* ::
+*§ 11-89 Notice.*
 
 
 Each qualified employer must provide written notice to the department upon the hiring of any 2018 qualified employee or master seniority lists qualified employee for whom the qualified employer seeks a monetary grant.
@@ -6426,7 +6446,7 @@ Each qualified employer must provide written notice to the department upon the h
 
 
 
-*§ 11-90 Payments.* ::
+*§ 11-90 Payments.*
 
 
 (a) The department shall provide the grant authorized by this section to qualified employers in monthly installments over a ten-month period for each 2018 qualified employee or master seniority lists qualified employee who is employed in connection with such qualified employer's contract pursuant to request for bids number B2321 with the department of education. Any such grant to the qualified employer shall be reduced if the employee is employed by such qualified employer for less than ten months.
@@ -6444,7 +6464,7 @@ Each qualified employer must provide written notice to the department upon the h
 
 
 
-*§ 11-91 Conditions of Grants.* ::
+*§ 11-91 Conditions of Grants.*
 
 
 (a) The award by the department of a grant to a qualified employer pursuant to this subchapter shall not make the city of New York, the department or the department of education the employer of any 2018 qualified employee or master seniority lists qualified employee.
@@ -6460,7 +6480,7 @@ Each qualified employer must provide written notice to the department upon the h
 
 
 
-*§ 11-92 Appropriations.* ::
+*§ 11-92 Appropriations.*
 
 
 The total amount of the grants authorized by this subchapter shall be limited to the appropriation of funds available for this program. The department will allocate such amount based on the order of receipt by the department of the notifications required by 66 RCNY § 11-89.
@@ -6472,7 +6492,7 @@ The total amount of the grants authorized by this subchapter shall be limited to
 
 
 
-*§ 11-93. Withdrawal by a Qualified Employer from Grant.** ::
+*§ 11-93. Withdrawal by a Qualified Employer from Grant.**
 
 
 (a) A qualified employer may withdraw from continued participation in a grant awarded, pursuant to this subchapter by providing written notice of withdrawal to the department.
@@ -6487,17 +6507,17 @@ The total amount of the grants authorized by this subchapter shall be limited to
 
 
 
-*Editor's note: The original rule numbered this as § 11-92; because that section number already existed, it has been renumbered at the discretion of the editor.
+* Editor's note: The original rule numbered this as § 11-92; because that section number already existed, it has been renumbered at the discretion of the editor.
 
 
 
 
 Chapter 12: Adjudications
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 12-01 Adjudications of the Department of Business Services.* ::
+*§ 12-01 Adjudications of the Department of Business Services.*
 
 
 New York City Department of Business Services adjudications regarding the fitness and discipline of department employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Commissioner.
@@ -6506,11 +6526,11 @@ New York City Department of Business Services adjudications regarding the fitnes
 
 
 Chapter 13: [Financial Hardship Waiver of Prohibition of Use of Certain Expanded Polystyrene Items]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 13-01 Definitions.* ::
+*§ 13-01 Definitions.*
 
 
 As used in these rules, the following terms shall have the following meanings:
@@ -6564,7 +6584,7 @@ Undue financial hardship means that an applicant has demonstrated any of the fol
 
 
 
-*§ 13-02 Application for a Waiver.* ::
+*§ 13-02 Application for a Waiver.*
 
 
 (a) To be eligible for consideration of a financial hardship waiver, a business must:
@@ -6600,7 +6620,7 @@ Undue financial hardship means that an applicant has demonstrated any of the fol
 
 
 
-*§ 13-03. Waiver Determinations.* ::
+*§ 13-03. Waiver Determinations.*
 
 
 (a) Determinations by the DSBS Commissioner approving or denying an applicant's waiver request, made in consultation with the DSNY Commissioner, shall be made in writing on the basis of all the circumstances presented by the applicant.
@@ -6620,7 +6640,7 @@ Undue financial hardship means that an applicant has demonstrated any of the fol
 
 
 
-*§ 13-04. Renewals.* ::
+*§ 13-04. Renewals.*
 
 
 A business may request renewal of a waiver no later than 30 days before the termination date of the waiver. A request for renewal shall certify that there has been no material change with respect to the relevant facts or circumstances that existed at the time the initial waiver was granted. Any application submitted after the termination date or less than 30 days before the termination date of the waiver shall be treated as a new application.
@@ -6631,11 +6651,11 @@ A business may request renewal of a waiver no later than 30 days before the term
 
 
 Chapter 14: Neighborhood 360 Grant Program
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 14-01 Purpose.* ::
+*§ 14-01 Purpose.*
 
 
 The objective of the Neighborhood 360 Grant program is to support the responsible growth and economic vitality of New York City commercial districts and small businesses so they can better serve the needs of a growing base of local residents, workers, and visitors. The Neighborhood 360 Grant Program will provide grant funding to eligible not-for-profit corporations working to plan, develop, and implement a variety of commercial revitalization activities that directly address locally identified community development needs in designated neighborhoods throughout New York City.
@@ -6647,7 +6667,7 @@ The objective of the Neighborhood 360 Grant program is to support the responsibl
 
 
 
-*§ 14-02: Definitions.* ::
+*§ 14-02: Definitions.*
 
 
 As used in this chapter, the following terms have the following meanings:
@@ -6695,7 +6715,7 @@ Special Assessment District. "Special Assessment District" means the Jamaica Cen
 
 
 
-*§ 14-03 General Eligibility Requirements.* ::
+*§ 14-03 General Eligibility Requirements.*
 
 
 Applicants must meet the following eligibility criteria:
@@ -6751,7 +6771,7 @@ Applicants must meet the following eligibility criteria:
 
 
 
-*§ 14-04 Application Requirements and Selection Criteria.* ::
+*§ 14-04 Application Requirements and Selection Criteria.*
 
 
 All Applicants will be evaluated and funds will be awarded each Fiscal Year by an Application Review Committee. The Application Review Committee will use the following criteria to evaluate Neighborhood 360 Grant applications:
@@ -6793,7 +6813,7 @@ d. Applicants must follow any additional, detailed Application requirements outl
 
 
 
-*§ 14-05 Program and Contract Compliance.* ::
+*§ 14-05 Program and Contract Compliance.*
 
 
 DSBS shall prepare a grant agreement to be executed by the Applicant and DSBS which shall stipulate terms of compliance and participation in the Neighborhood 360 Program and provide at a minimum:
@@ -6814,11 +6834,11 @@ e. Any additional program requirements established by DSBS.
 
 
 Chapter 15: Love Your Local Small Business Grant Program
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 15-01 Purpose.* ::
+*§ 15-01 Purpose.*
 
 
 The objective of the Love Your Local Small Business Grant Program (“Grant Program” or “Program”) is to add to the City of New York’s economic development toolkit by devising and testing business-level interventions to support the survival of neighborhood businesses in New York City. The Program will incentivize participation by small businesses citywide by providing an opportunity for businesses to receive assistance to identify business challenges and recommended interventions, and, subject to appropriation, implementation funding to make suggested operational or physical changes. DSBS will collect baseline and follow-up performance data to evaluate the effectiveness of these interventions in assisting participating business in continuing to provide jobs, goods, and services in their current locations. Knowledge gained through the Program will allow DSBS to disseminate informed advice through its Business Solutions Center network and other business support and education programs, to assist small, commercial tenant businesses citywide in remaining competitive in neighborhoods experiencing rising commercial rents.
@@ -6830,7 +6850,7 @@ The objective of the Love Your Local Small Business Grant Program (“Grant Prog
 
 
 
-*§ 15-02 Definitions.* ::
+*§ 15-02 Definitions.*
 
 
 As used in this chapter, the following terms have the following meanings:
@@ -6866,7 +6886,7 @@ Small Business. “Small Business” means a small business as described by the 
 
 
 
-*§ 15-03 General Eligibility Requirements.* ::
+*§ 15-03 General Eligibility Requirements.*
 
 
 a. Eligible Recipients. To be eligible for a Grant, an Applicant must satisfy the following criteria:
@@ -6914,7 +6934,7 @@ b. Business Improvement Projects. Grants may only be used to implement recommend
 
 
 
-*§ 15-04 Selection Criteria.* ::
+*§ 15-04 Selection Criteria.*
 
 
 a. Eligibility. Basic eligibility will be determined based on an Applicant’s ability to meet the requirements set forth in subdivision a of 66 RCNY § 15-03. Ineligible Applicants will be eliminated from further consideration.
@@ -6967,7 +6987,7 @@ c. Initial Business Needs Assessment.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Financial Management
       - 
@@ -7059,6 +7079,7 @@ c. Initial Business Needs Assessment.
       - 1 - 6
       - 7 - 12
       - More than 12
+
 ~
 
  
@@ -7067,7 +7088,7 @@ c. Initial Business Needs Assessment.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Financial Position
       - 
@@ -7169,6 +7190,7 @@ c. Initial Business Needs Assessment.
       - Positive &amp; more than 50% above industry standard
       - Positive &amp; more than 50% below industry standard
       - Within 50% of industry standard
+
 ~
 
  
@@ -7177,7 +7199,7 @@ c. Initial Business Needs Assessment.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Implementation Feasibility
       - 
@@ -7249,6 +7271,7 @@ c. Initial Business Needs Assessment.
       - 
       - 
       - 
+
 ~
 
  
@@ -7264,7 +7287,7 @@ c. Initial Business Needs Assessment.
 
 
 
-*§ 15-05 Intensive Business Needs Assessment.* ::
+*§ 15-05 Intensive Business Needs Assessment.*
 
 
 a. The Intensive Business Needs Assessment will provide each of the twenty selected Applicants with an expert business advisor to analyze each Applicant’s business condition with respect to operations, regulatory compliance and procedures, employees and hiring, technology, physical condition of premises and financial management. The expert business advisor will also explore the potential for changes to maximize business success and survival.
@@ -7280,7 +7303,7 @@ c. The Intensive Business Needs Assessment will result in recommendations for ho
 
 
 
-*§ 15-06 Compliance.* ::
+*§ 15-06 Compliance.*
 
 
 DSBS shall prepare a Grant Agreement to be executed by the Applicants and DSBS. The Grant Agreement shall stipulate terms of compliance and participation in the Program and provide at a minimum:
@@ -7301,11 +7324,11 @@ e. A schedule for reporting and monitoring Grant use and impact, including shari
 
 
 Chapter 16: Jerome Avenue Relocation Grant Program
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 16-01 Purpose.* ::
+*§ 16-01 Purpose.*
 
 
 a. The purpose of the Jerome Avenue Relocation Grant Program is to encourage the retention of jobs within the City by providing grants to offset moving costs for firms relocating from designated sites in the Jerome Avenue Rezoning Area to any other part of the City.
@@ -7319,7 +7342,7 @@ b. These Rules set forth Application requirements for Applicants seeking grants 
 
 
 
-*§ 16-02 Definitions.* ::
+*§ 16-02 Definitions.*
 
 
 As used in this chapter, the following terms have the following meanings:
@@ -7385,7 +7408,7 @@ Term. "Term" means at least a one (1) year period that commences:
 
 
 
-*§ 16-03 Eligibility.* ::
+*§ 16-03 Eligibility.*
 
 
 a. A grant is available to an Eligible Business that:
@@ -7409,7 +7432,7 @@ c. If the assets of an Eligible Business were purchased by another person or ent
 
 
 
-*§ 16-04 General Restrictions and Ineligibility.* ::
+*§ 16-04 General Restrictions and Ineligibility.*
 
 
 a. Affiliated firms operating at the Eligible Move-Out Site must apply as co-Applicants and if a grant is awarded, such grant will be limited to the maximum grant amount for which one (1) Applicant would be eligible.
@@ -7425,7 +7448,7 @@ c. An Applicant who amends its lease for the Eligible Move-Out Site, amends its 
 
 
 
-*§ 16-05 Application Procedure.* ::
+*§ 16-05 Application Procedure.*
 
 
 a. An Applicant must apply for a grant by submitting a complete Application to DSBS. The Applicant shall have the burden of proving its eligibility to the satisfaction of the Program Director.
@@ -7497,7 +7520,7 @@ f. DSBS may require a site visit to verify that Applicant’s Eligible Business 
 
 
 
-*§ 16-06 Review, Recommendation, and Approval.* ::
+*§ 16-06 Review, Recommendation, and Approval.*
 
 
 a. Upon receipt of a complete Application, DSBS shall submit to the Program Director a recommendation as to the eligibility of the Applicant for a grant and the basis for such recommendation.
@@ -7513,7 +7536,7 @@ c. The Program Director shall make a final determination of eligibility based on
 
 
 
-*§ 16-07 Execution of Grant Agreement.* ::
+*§ 16-07 Execution of Grant Agreement.*
 
 
 A Grant Agreement between DSBS and an Applicant approved as eligible for a grant must be executed within six (6) months of said approval. An Applicant must submit documentation to substantiate its Eligible Moving Costs within one (1) year of execution of the Grant Agreement. Failure to submit required documentation may result in recapture and/or forfeiture of the grant or any remaining balance of the grant.
@@ -7525,7 +7548,7 @@ A Grant Agreement between DSBS and an Applicant approved as eligible for a grant
 
 
 
-*§ 16-08 Grants.* ::
+*§ 16-08 Grants.*
 
 
 a. An Applicant that is approved by the Program Director may receive a grant in an amount not to exceed twenty thousand dollars ($20,000) for reimbursement of Eligible Moving Costs incurred by the Applicant and verified by DSBS.
@@ -7539,7 +7562,7 @@ b. Grants are provided on a first-come, first-served basis for executed Grant Ag
 
 
 
-*§ 16-09 Material Misrepresentations, Misstatements and Omissions.* ::
+*§ 16-09 Material Misrepresentations, Misstatements and Omissions.*
 
 
 a. An Applicant's refusal to provide factual information or to cooperate with the Program Director and DSBS staff during the review of the Applicant's eligibility or continued eligibility for grants shall constitute grounds for a denial of a grant or a recapture of a grant received.
@@ -7553,7 +7576,7 @@ b. The Program Director may deny award of a grant, or recapture a grant if an Ap
 
 
 
-*Appendix A: Building Block and Lot List in the Jerome Avenue Rezoned Area* ::
+*Appendix A: Building Block and Lot List in the Jerome Avenue Rezoned Area*
 
 
 Chart A, below, is provided as a reference and lists the Block and Lots affected by the Jerome Avenue Rezoning on March 22, 2018. The New York City Zoning Map is the official record of a property's zoning district and is available at: https://www1.nyc.gov/assets/planning/pages/zoning-index-map/index.html.
@@ -7582,13 +7605,14 @@ Chart A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Borough
       - Block
       - Lot
       - New Zoning District
       - Commercial Overlay
+
 ~
 
 
@@ -7597,7 +7621,7 @@ Chart A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - BX
       - 2489
@@ -8539,6 +8563,7 @@ Chart A
       - 140
       - R9A
       - C2-4
+
 ~
 
  

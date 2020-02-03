@@ -1,12 +1,12 @@
 Title 70: In Rem Foreclosure Release Board
-===================================================
+======================================================================================================
 
 Chapter 1: Rules of Procedure
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Meetings.* ::
+*§ 1-01 Meetings.*
 
 
 (a) Regular Meetings.
@@ -78,7 +78,7 @@ Chapter 1: Rules of Procedure
 
 
 
-*§ 1-02 Public Testimony at Regular Meetings.* ::
+*§ 1-02 Public Testimony at Regular Meetings.*
 
 
 (a) Order of Testimony. Speakers opposed to a resolution shall be heard first and then speakers in favor thereof, unless otherwise ordered by the Chair. Applicants and other members of the public may testify on their own behalf or may be represented by counsel.
@@ -96,7 +96,7 @@ Chapter 1: Rules of Procedure
 
 
 
-*§ 1-03 Calendars.* ::
+*§ 1-03 Calendars.*
 
 
 (a) Preparation of Calendar. The Mayor's Office of Contracts, Public Hearings Unit shall prepare and cause to be printed a Calendar including a description of all matters to be presented and considered at each meeting of the Board. The resolutions shall be arranged in the order prescribed in subdivision (i) of 70 RCNY § 1-01. The Mayor's Office of Contracts, Public Hearings Unit shall also keep a record of matters which have been laid over.
@@ -110,7 +110,7 @@ Chapter 1: Rules of Procedure
 
 
 
-*§ 1-04 General Rules.* ::
+*§ 1-04 General Rules.*
 
 
 (a) Submission of Agency Reports. All agency reports intended for the Board's consideration at a regular meeting shall be addressed to the Board and delivered by the submitting agencies to the Mayor's Office of Contracts, Public Hearings Unit at least fifteen days before the meeting at which the matters to which they relate are to be considered. Such reports shall consist of an original accompanied by twelve copies thereof.
@@ -126,7 +126,7 @@ Chapter 1: Rules of Procedure
 
 
 
-*§ 1-05 Amendment of Rules.* ::
+*§ 1-05 Amendment of Rules.*
 
 
 (a) Vote Required. The provisions of these Rules may be amended by a four-fifths vote of the members of the Board. The borough presidents shall designate one borough president to serve as a member of the Board for the purpose of voting upon any such amendment. For purposes of this section, a quorum shall consist of four members of the Board.

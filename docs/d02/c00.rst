@@ -1,12 +1,12 @@
 Title 1: Department of Buildings
-===================================================
+======================================================================================================
 
 Chapter 3: Vacant and Unguarded Buildings
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Sealing and Protection of Vacant and Unguarded Buildings.* ::
+*§ 3-01 Sealing and Protection of Vacant and Unguarded Buildings.*
 
 
 Where buildings are vacant, unguarded, open to unauthorized entry and are required to be sealed pursuant to the provisions of an unsafe building order issued by the Department of Buildings or a determination by the Department of Housing Preservation and Development that the condition is dangerous to life, health and safety, they shall be sealed and protected in the following manner:
@@ -68,7 +68,7 @@ Where buildings are vacant, unguarded, open to unauthorized entry and are requir
 
 
 
-*§ 3-02 Obtaining Access to Keys of Sealed Premises.* ::
+*§ 3-02 Obtaining Access to Keys of Sealed Premises.*
 
 
 (a) Submission of Request. Persons wishing to have access to the keys to a premises sealed by the Department of Buildings must appear in person at the Executive Offices of the New York City Department of Buildings. At this time they must submit form OP-14, "Request for Access to Sealed Premises," with section "A – Ownership Interest" and "B – Statement of Intent" both completed and notarized. Copies of the form are available at the Executive Offices of the Department of Buildings.
@@ -134,7 +134,7 @@ Where buildings are vacant, unguarded, open to unauthorized entry and are requir
 
 
 
-*§ 3-03 Hearings to Determine Whether Sealing Orders Were Properly Issued.* ::
+*§ 3-03 Hearings to Determine Whether Sealing Orders Were Properly Issued.*
 
 
 (a) Hearings to determine whether sealing orders were properly issued by the Department of Buildings may be arranged through the General Counsel's office. A person challenging a sealing order may obtain a hearing by submitting a written request to the office of the General Counsel.
@@ -146,7 +146,7 @@ Where buildings are vacant, unguarded, open to unauthorized entry and are requir
 
 
 
-*§ 3-04 Obtaining Access to Keys of Premises Sealed Pursuant to § 26-127.2 of the Administrative Code.* ::
+*§ 3-04 Obtaining Access to Keys of Premises Sealed Pursuant to § 26-127.2 of the Administrative Code.*
 
 
 (a) Submission of Request. Persons wishing to have access to the keys to a premises sealed by the Department of Buildings pursuant to § 26-127.2 of the Administrative Code must appear in person at the Executive Offices of the New York City Department of Buildings. At this time they must submit the form, "Request for Access to Premises Sealed for Zoning Violations," with section "A – Ownership Interest" and "B – Statement of Intent" both completed and notarized. Copies of the form are available from the Administrative Enforcement Unit ("AEU") at the Executive Offices of the Department of Buildings.
@@ -205,11 +205,11 @@ Where buildings are vacant, unguarded, open to unauthorized entry and are requir
 
 
 Chapter 4: Certificates of Occupancy, Live Loads and Occupancy Loads
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Posting Requirements.* ::
+*§ 4-01 Posting Requirements.*
 
 
 (a) A copy of the Certificate of Occupancy indicating the live loads and occupant loads shall be posted within every building for which a Certificate of Occupancy has been issued, except in one and two-family dwellings, and such posted Certificate of Occupancy shall be deemed in full compliance with § 27-225 of the Administrative Code. In a commercial or industrial structure for which no Certificate of Occupancy was issued, a sign shall be posted and maintained in a conspicuous place on each floor stating the live loads.
@@ -242,11 +242,11 @@ Chapter 4: Certificates of Occupancy, Live Loads and Occupancy Loads
 
 
 Chapter 5: Concrete
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 5-01 Conveyance by Pumping Methods* ::
+*§ 5-01 Conveyance by Pumping Methods*
 
 
 (a) Specified compressive strength. The specified compressive strength f'c, of concrete conveyed by pumping methods shall not exceed 5,000 pounds per square inch.
@@ -265,7 +265,7 @@ Table 1. Volume of Course Aggregate per Unit of Volume of Concrete*
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Maximum size of aggregate, in.
       - Volume of dry-rodded coarse aggregate per unit. Volume of concrete for different fineness moduli of sand**
@@ -312,13 +312,14 @@ Table 1. Volume of Course Aggregate per Unit of Volume of Concrete*
       - .760 
       - .741 
       - .722 
+
 ~
 
  
 
-*Values established at Median-Point (reduced 5%). See footnote Table 5.3.6 ACI 211.1-74.
+* Values established at Median-Point (reduced 5%). See footnote Table 5.3.6 ACI 211.1-74.
 
-**The type and graduation of the course aggregate, delivery system and job conditions may require these values to be varied. However in no event shall the variations exceed the maximum allowance noted in ACI 211.1-74 Table 5.3.6.
+** The type and graduation of the course aggregate, delivery system and job conditions may require these values to be varied. However in no event shall the variations exceed the maximum allowance noted in ACI 211.1-74 Table 5.3.6.
 
       (iii) For sand lightweight concrete be proportioned in accordance with ACI 211.2.-69 utilizing Table 2 except that the air dry unit weight of the concrete may exceed 115 lb. per cu. ft. when tested at age 56 days in accordance with procedure in ASTM C 567.
 
@@ -328,7 +329,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  Maximum size lightweight aggregate, in 
       - Fineness Modules of Natural Sand 
@@ -360,6 +361,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
       - 12.8 
       - 12.4 
       - 12.0 
+
 ~
 
 
@@ -439,7 +441,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 
-*§ 5-02 Licensing of Concrete Testing Laboratories.* ::
+*§ 5-02 Licensing of Concrete Testing Laboratories.*
 
 
 (a) General.
@@ -498,7 +500,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - C29-78
       - Test for Unit Weight and Voids in Aggregate.
@@ -570,6 +572,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
       - Penetration Resistance to Hardened Concrete, Test for
     * - E4-83a
       - Practices for Load Verification of Testing Machines.
+
 ~
 
  
@@ -749,7 +752,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 
-*§ 5-03 Approval of Prequalified Concrete Mixes.* ::
+*§ 5-03 Approval of Prequalified Concrete Mixes.*
 
 
 (a) Source of concrete mixes. Concrete proportioned according to prequalified mixes shall be produced only from batch plants, approved by the Commissioner pursuant to rules and regulations of the department.
@@ -795,7 +798,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 
-*§ 5-04 Approval of Concrete Production Facilities.* ::
+*§ 5-04 Approval of Concrete Production Facilities.*
 
 
 (a) The scope of these rules relating to facilities for the production of concrete under Article 5 of Subchapter 10 of Chapter 1 of Title 27 of the Administrative Code shall be applicable to batch plant installations of either a permanent or temporary nature, located on or off the site of construction.
@@ -834,11 +837,11 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 Chapter 6: Cranes [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 6-01 Erection and Dismantling of Climber/Tower Cranes. [Repealed]* ::
+*§ 6-01 Erection and Dismantling of Climber/Tower Cranes. [Repealed]*
 
 
 
@@ -847,11 +850,11 @@ Chapter 6: Cranes [Repealed]
 
 
 Chapter 8: Demolition [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 8-01 Commencement of Demolition. [Repealed]* ::
+*§ 8-01 Commencement of Demolition. [Repealed]*
 
 
 
@@ -860,11 +863,11 @@ Chapter 8: Demolition [Repealed]
 
 
 Chapter 9: Rigging Operations [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 9-01 Supervisory Responsibilities of a Licensed Master or Special Rigger.* ::
+*§ 9-01 Supervisory Responsibilities of a Licensed Master or Special Rigger.*
 
 
 (See 1 RCNY § 104-20]
@@ -874,7 +877,7 @@ Chapter 9: Rigging Operations [Repealed]
 
 
 
-*§ 9-02 Supervisory Responsibilities of a Licensed Master or Special Sign Hanger.* ::
+*§ 9-02 Supervisory Responsibilities of a Licensed Master or Special Sign Hanger.*
 
 
 (See 1 RCNY § 104-21]
@@ -883,11 +886,11 @@ Chapter 9: Rigging Operations [Repealed]
 
 
 Chapter 10: Drums For Derrick Load and Boom Hoists
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-01 Requirements.* ::
+*§ 10-01 Requirements.*
 
 
 Drums for derrick load and boom hoists shall be contained on the same bedframe operated independently by one or more engines. Each drum shall have a separate hand brake and clutch or power down mechanism in lieu of a clutch, as well as a positive dog on the drum and a dog on the brake pedal. The hoisting mechanism shall be in full view and under the control of a licensed hoisting machine operator at all times.
@@ -896,21 +899,21 @@ Drums for derrick load and boom hoists shall be contained on the same bedframe o
 
 
 Chapter 11: Elevators, Escalators, Personnel Hoists and Moving Walks
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 11-01 Rules for the Certification and Qualification of Private Elevator Inspection Agencies and for the Performance of Inspections and Filing of Inspection Reports for Elevators and Escalators by such Agencies. [Repealed]* ::
-
-
-
-
+*§ 11-01 Rules for the Certification and Qualification of Private Elevator Inspection Agencies and for the Performance of Inspections and Filing of Inspection Reports for Elevators and Escalators by such Agencies. [Repealed]*
 
 
 
 
 
-*§ 11-02 Elevator and Escalator Violations Constituting a Condition Dangerous to Human Life and Safety.* ::
+
+
+
+
+*§ 11-02 Elevator and Escalator Violations Constituting a Condition Dangerous to Human Life and Safety.*
 
 
 (a) Dangerous conditions. Any of the following elevator and escalator violations constitute a condition dangerous to human life and safety.
@@ -968,7 +971,7 @@ Chapter 11: Elevators, Escalators, Personnel Hoists and Moving Walks
 
 
 
-*§ 11-03 Cease Use Orders for Elevators, Personnel Hoists, Escalators and Moving Walks.* ::
+*§ 11-03 Cease Use Orders for Elevators, Personnel Hoists, Escalators and Moving Walks.*
 
 
 A cease use order should be issued for all elevators, personnel hoists, escalators, and moving walks pursuant to § 26-127 of the Administrative Code of the City of New York whenever an imminently hazardous condition exists. In addition, the device should be tagged as unsafe. This tag may not be removed without prior approval from the Department of Buildings. Such imminently hazardous conditions include but are not limited to:
@@ -1002,7 +1005,7 @@ A cease use order should be issued for all elevators, personnel hoists, escalato
 
 
 
-*§ 11-04 Departmental Inspections of Elevators, Escalators and Other Devices. [;Expired];* ::
+*§ 11-04 Departmental Inspections of Elevators, Escalators and Other Devices. [;Expired];*
 
 
 If any of the provisions of these rules are found by a court of competent jurisdiction to be invalid or ineffective in whole or in part, the effect of such decision shall be limited to those provisions that are expressly stated in the decision to be invalid or ineffective, and all other provisions of these rules shall continue to be separately and fully effective.
@@ -1012,7 +1015,7 @@ If any of the provisions of these rules are found by a court of competent jurisd
 
 
 
-*§ 11-05 Certification of Completion of Work After Issuance of Temporary Use Permit for an Elevator, Escalator, and Other Device, Except Amusement Devices, Listed in §§ 27-185(b) or 27-982 of the Administrative Code.* ::
+*§ 11-05 Certification of Completion of Work After Issuance of Temporary Use Permit for an Elevator, Escalator, and Other Device, Except Amusement Devices, Listed in §§ 27-185(b) or 27-982 of the Administrative Code.*
 
 
 (a) Where the department has issued a temporary use permit pursuant to § 27-188 of the Administrative Code for an elevator, escalator or other device listed in § 27-185(b) and § 27-982 of the Code subject to the completion of alteration or installation work as specified by the department, a certified elevator inspection agency director, professional engineer or registered architect may certify to the department that such work has been completed in conformity with the requirements of Subchapter 18 of Chapter 1 of Title 27 and Reference Standard 18-1. The department shall issue an equipment use permit upon the satisfactory filing of such certification.
@@ -1024,7 +1027,7 @@ If any of the provisions of these rules are found by a court of competent jurisd
 
 
 
-*§ 11-06 Elevators, Escalators or Other Devices, Except Amusement Devices, Listed in § 27-185(b) or § 27-982 of the Administrative Code Renewal of Temporary Use Permits and Fees.* ::
+*§ 11-06 Elevators, Escalators or Other Devices, Except Amusement Devices, Listed in § 27-185(b) or § 27-982 of the Administrative Code Renewal of Temporary Use Permits and Fees.*
 
 
 (a) Renewal of a temporary use permit for an elevator, escalator, or other device, except amusement devices, listed in § 27-185(b) or § 27-982 of the Administrative Code.
@@ -1061,11 +1064,11 @@ If any of the provisions of these rules are found by a court of competent jurisd
 
 
 Chapter 15: Fire Protection
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 15-01 Communication and Alarm Systems ("Mini-Class 'E' Systems") for Certain Buildings Under 100 Feet in Height.* ::
+*§ 15-01 Communication and Alarm Systems ("Mini-Class 'E' Systems") for Certain Buildings Under 100 Feet in Height.*
 
 
 (a) Number of occupants. The subject subsection (27-972(h)) of the Building Code states that a communication and alarm system, acceptable to the Commissioner of Buildings, shall be provided in buildings classified in occupancy group E, less than 100 feet in height, occupied or arranged to be occupied for an occupant load of more than one hundred persons above or below the street floor or more than a total of five hundred persons in the entire building. The provisions regarding occupant load are to be interpreted to apply where one or more of the following prevail:
@@ -1211,7 +1214,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 
-*§ 15-02 Interior Fire Alarm and Signal System for Place of Assembly Used as a Cabaret and for Stages, Dressing Rooms, and Property Rooms.* ::
+*§ 15-02 Interior Fire Alarm and Signal System for Place of Assembly Used as a Cabaret and for Stages, Dressing Rooms, and Property Rooms.*
 
 
 (a) Number of occupants. Subdivisions 27-968(a)(10)(a) and (b) of the Building Code state that an interior fire alarm and signal system shall be provided in any room, place or space occupied or arranged to be occupied by 75 or more persons and in which either any musical entertainment, singing, dancing or other form of amusement is permitted in connection with the restaurant business or the business of directly or indirectly selling to the public food or drink, or where dancing is carried on and the public may gain admission, with or without payment of a fee, and food or beverages are sold, served, or dispensed, and any new or altered catering place as of April 4, 1979 having 300 or more persons. This does not apply to eating or drinking places which provide incidental musical entertainment, without dancing, either by mechanical devices, or by not more than three persons playing piano, organ, accordion or guitar or any stringed instrument or by not more than one singer accompanied by himself or a person playing piano, organ, accordion, guitar or any stringed instrument.
@@ -1222,7 +1225,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Occupancy
       - Net Floor Area Per Occupancy (Square Feet) 
@@ -1238,6 +1241,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
       - Designated Number of Seats or Occupants 
     * - (4) (ii) Movable Seats
       - 10 
+
 ~
 
 
@@ -1365,7 +1369,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 
-*§ 15-03 Extension of Time to Complete Installations for Buildings in Occupancy Group E Over 100 Feet in Height. [Repealed]* ::
+*§ 15-03 Extension of Time to Complete Installations for Buildings in Occupancy Group E Over 100 Feet in Height. [Repealed]*
 
 
 (a) Definition. Existing J-1 Residential Hotel. An existing J-1 residential hotel is defined as a single room occupancy multiple dwelling, in which at least seventy-five (75) percent or more of the total number of occupied individual dwelling units:
@@ -1417,7 +1421,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 
-*§ 15-05 Filing and Approval of a Fire Safety Plan for Buildings Containing Transient Occupants Such as Hotels and Motels.* ::
+*§ 15-05 Filing and Approval of a Fire Safety Plan for Buildings Containing Transient Occupants Such as Hotels and Motels.*
 
 
 (a) Number of occupants. These rules and regulations shall apply to buildings or parts thereof classified in Article 11 of Subchapter 3 of Chapter 1 to Title 27 of the Administrative Code of the City of New York as occupancy group J-l, J-2 occupied or arranged to be occupied in whole or part by a transient occupancy. For the purpose of these rules and regulations, buildings or parts thereof which contain a total of more than 30 sleeping rooms or can accommodate a total of more than 30 lodgers, or contains more than 15 sleeping rooms or can accommodate more than 15 lodgers above the first or ground story, used for living or sleeping purposes by the same person or persons for a period of ninety days or less shall be considered as being occupied by a transient occupancy. Such buildings shall include but are not limited to buildings occupied as hotels, motels, lodging houses, dormitories and single room occupancies. All such buildings occupied or arranged to be occupied in whole or part by a transient occupancy, regardless of the number of sleeping rooms or accommodations, over 75 feet in height, shall comply with these rules and regulations. The owner or other person having charge of such building shall file a Fire Safety Plan with the Fire Department indicating compliance with 1 RCNY § 15-05(b) within 30 days after the effective date of these rules and regulations. The owner or other person shall resubmit the revised Fire Safety Plan for approval within 30 days after receiving comments from the Fire Department. Upon approval, the Fire Safety Plan shall be immediately put into effect. The owner or other person having charge of such building shall comply with 1 RCNY §§ 15-05(c)(1) to 15-04(c)(5) within 30 days of the effective date of these rules and regulations.
@@ -1457,7 +1461,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 
-*§ 15-06 Design of Composite Construction with Metal Decks or Lightweight Concrete.* ::
+*§ 15-06 Design of Composite Construction with Metal Decks or Lightweight Concrete.*
 
 
 (a) Metal deck construction is to be approved strictly in accordance with Board of Standards and Appeals or MEA approval in all respects, with no interchangeability or equivalent materials authorized except as noted in these rules.
@@ -1489,7 +1493,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 
-*§ 15-07 Fire-Retarding of Entrance Halls, Stair Halls and Public Halls in Old Law Tenements and Converted Dwellings.* ::
+*§ 15-07 Fire-Retarding of Entrance Halls, Stair Halls and Public Halls in Old Law Tenements and Converted Dwellings.*
 
 
 (a) Intent. The fire-retarding rules herewith set forth are approved by the Department of Buildings for old law tenements and converted dwellings where their entrance halls, stair halls and public halls are required, by § 189, subdivisions 1 and 4, § 238, subdivision 4, and § 218, subdivisions 5 and 6, Multiple Dwelling Law, and by § 27-2044, Housing Maintenance Code, to be fire-retarded in a manner approved by the Department of Buildings.
@@ -1565,7 +1569,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 
-*§ 15-08 Fire-Retarding of Cellar Ceilings in Old Law Tenements and Converted Dwellings.* ::
+*§ 15-08 Fire-Retarding of Cellar Ceilings in Old Law Tenements and Converted Dwellings.*
 
 
 (a) Intent. The fire-retarding rules herewith set forth are approved by the Department of Buildings for the existing multiple dwellings where the ceilings of the cellar or other lowest story is required, by § 85 and § 240, subdivision 3, Multiple Dwelling Law, and by § 27-2044, Housing Maintenance Code, to be fire-retarded in a manner approved by the Department of Buildings.
@@ -1591,7 +1595,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 
-*§ 15-09 Fire-Retarding of Cooking Spaces in All Multiple Dwellings.* ::
+*§ 15-09 Fire-Retarding of Cooking Spaces in All Multiple Dwellings.*
 
 
 (a) Intent. The rules herewith set forth are approved by the Department of Buildings for the protection of cooking spaces under §§ 33 and 176 of the Multiple Dwelling Law. As set forth in § 33 of the Multiple Dwelling Law, nothing in these rules shall be construed as permitting fire-retarding partitions in fireproof multiple dwellings.
@@ -1611,7 +1615,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 
-*§ 15-10 Fire Escapes, Fire Stairs and Fire Towers.* ::
+*§ 15-10 Fire Escapes, Fire Stairs and Fire Towers.*
 
 
 (a) Intent. These rules have been approved by the Department to supplement the provisions of § 53 of the Multiple Dwelling Law in relation to Fire Escapes, fire-stairs, etc. Where fire escapes serve as a means of exit from other than multiple dwellings, such fire escapes shall comply with the laws governing such occupancy. The voluntary erection of fire escapes on private residence buildings or business and residence buildings shall be in conformity with these rules and regulations unless otherwise directed by the Borough Superintendent of the Department of Buildings. It is the intent of these rules to cover only general conditions and they are not designed to cover specific or special cases. When such may occur the owner is required to consult the Department of Buildings and receive instructions before starting of work.
@@ -1728,7 +1732,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Length of Balcony
       - Weight of Channels 
@@ -1745,6 +1749,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
     * - Up to 17 feet 
       - 13.75 pounds per foot 
       - 8 inches 
+
 ~
 
 
@@ -1761,7 +1766,7 @@ The bracket braces shall be angle iron not less than two and one-half inches by 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Masonry Span
       - Brackets 
@@ -1796,6 +1801,7 @@ The bracket braces shall be angle iron not less than two and one-half inches by 
     * - 9'-0"
       - 4'-0"long 
       - 8"channel 21.25 pounds 
+
 ~
 
  
@@ -1914,11 +1920,11 @@ Angle irons to support balconies where regulation braces cannot be used shall no
 
 
 Chapter 16: Inspection of Existing Structures During Construction Operations
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 16-01 Controlled Inspection of the Stability and Integrity of Existing Structures During Construction Operations.* ::
+*§ 16-01 Controlled Inspection of the Stability and Integrity of Existing Structures During Construction Operations.*
 
 
 (a) (1) All alterations to existing structures in which loads are transferred from one system of structural elements to another such as in the installation of columns or girders to replace existing bearing walls, the creation of openings or slots in existing bearing walls, girders or floors, or where the stability or integrity of a structural system is to be temporarily diminished, shall be conducted under controlled inspection.
@@ -1969,11 +1975,11 @@ Chapter 16: Inspection of Existing Structures During Construction Operations
 
 
 Chapter 17: Testing Laboratories and Testing Services
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 17-01 Acceptance of Testing Laboratories and Testing Services.* ::
+*§ 17-01 Acceptance of Testing Laboratories and Testing Services.*
 
 
 (a) Applications for acceptance as a testing service or testing laboratory shall be submitted to the Commissioner of Buildings on forms provided by the Department.
@@ -2006,11 +2012,11 @@ Chapter 17: Testing Laboratories and Testing Services
 
 
 Chapter 18: Resistance To Progressive Collapse Under Extreme Local Loads [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 18-01 Considerations and Evaluation. [Repealed]* ::
+*§ 18-01 Considerations and Evaluation. [Repealed]*
 
 
 
@@ -2019,11 +2025,11 @@ Chapter 18: Resistance To Progressive Collapse Under Extreme Local Loads [Repeal
 
 
 Chapter 19: Master Plumbers and Licensed Fire Suppression Piping Contractors
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 19-01 Examination, License and Conduct of the Business of Master Plumbers and Master Fire Suppression Piping Contractors.* ::
+*§ 19-01 Examination, License and Conduct of the Business of Master Plumbers and Master Fire Suppression Piping Contractors.*
 
 
 (a) Applicability. This rule shall be applicable to the examination, licensure and conduct of the businesses of master plumber and 1 master fire suppression piping contractor.
@@ -2087,7 +2093,7 @@ Chapter 19: Master Plumbers and Licensed Fire Suppression Piping Contractors
 
 
 
-*§ 19-02 Continuing Education Requirements for Master Plumbers and Licensed Master Fire Suppression Piping Contractors. [Repealed]* ::
+*§ 19-02 Continuing Education Requirements for Master Plumbers and Licensed Master Fire Suppression Piping Contractors. [Repealed]*
 
 
 
@@ -2097,7 +2103,7 @@ Chapter 19: Master Plumbers and Licensed Fire Suppression Piping Contractors
 
 
 
-*§ 19-03 Exemptions from Inspection and Testing Requirements. [Repealed]* ::
+*§ 19-03 Exemptions from Inspection and Testing Requirements. [Repealed]*
 
 
 
@@ -2107,7 +2113,7 @@ Chapter 19: Master Plumbers and Licensed Fire Suppression Piping Contractors
 
 
 
-*§ 19-04 Master Plumber and Master Fire Suppression Piping Contractor License Board – Qualification Recommendations. [Repealed]* ::
+*§ 19-04 Master Plumber and Master Fire Suppression Piping Contractor License Board – Qualification Recommendations. [Repealed]*
 
 
 
@@ -2116,11 +2122,11 @@ Chapter 19: Master Plumbers and Licensed Fire Suppression Piping Contractors
 
 
 Chapter 20: Piping Systems
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 20-01 Witnessing Tests of Gas Piping Systems.* ::
+*§ 20-01 Witnessing Tests of Gas Piping Systems.*
 
 
 (a) Persons witnessing tests of gas piping systems in accordance with § 27-921(b) of the Administrative Code, other than authorized plumbing inspectors of the Department of Buildings, shall be acceptable to the Commissioner of Buildings and shall meet the following prerequisites:
@@ -2144,7 +2150,7 @@ Chapter 20: Piping Systems
 
 
 
-*§ 20-02 High Pressure Steam Piping Systems.* ::
+*§ 20-02 High Pressure Steam Piping Systems.*
 
 
 These regulations shall apply to high pressure steam piping system which is defined as a system operating at a steam pressure of more than fifteen (15) psi. In the application of these rules and regulations, loops, bends or offsets of the piping shall not be considered expansion joints.
@@ -2213,7 +2219,7 @@ AMSI/ASME B 31.1 – 1980
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Piping Pressure 
       - Percentage 
@@ -2223,6 +2229,7 @@ AMSI/ASME B 31.1 – 1980
       - 10% at Random 
     * - Over 150 psig 
       - 100%
+
 ~
 
 
@@ -2238,7 +2245,7 @@ However, if in the opinion of the engineer responsible for Controlled Inspection
 
 
 
-*§ 20-03 Standards for Non-Mercury Gauges.* ::
+*§ 20-03 Standards for Non-Mercury Gauges.*
 
 
 (a) Applicability. In accordance with Local Law 17 for the year 2001, the rules in this section establish minimum standards for non-mercury gauges to test gas piping, drainage and vent systems.
@@ -2301,11 +2308,11 @@ However, if in the opinion of the engineer responsible for Controlled Inspection
 
 
 Chapter 21: Plans
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 21-01 Limited Supervisory Check and/or Professional Certification Program for Applications and Plans.* ::
+*§ 21-01 Limited Supervisory Check and/or Professional Certification Program for Applications and Plans.*
 
 
 (a) Definitions. For the purposes of this section, the following definitions shall apply:
@@ -2369,7 +2376,7 @@ Chapter 21: Plans
 
 
 
-*§ 21-02 Exclusion from Limited Supervisory Check and/or Professional Certification Programs.* ::
+*§ 21-02 Exclusion from Limited Supervisory Check and/or Professional Certification Programs.*
 
 
 (a) Grounds for exclusion. The Commissioner may exclude an architect or engineer from the Department's programs for limited supervisory check and/or professional certification of applications, plans and removal of objections if the Commissioner finds that the architect or engineer has:
@@ -2424,11 +2431,11 @@ Chapter 21: Plans
 
 
 Chapter 22: Pressure Tanks
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.* ::
+*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.*
 
 
 (a) Applicability. These regulations shall apply to tanks containing water and air in combination, under pressure exceeding 15 psi above atmospheric pressure, where the pressure is supplied and maintained by pumps connected directly to the tanks.
@@ -2473,11 +2480,11 @@ Chapter 22: Pressure Tanks
 
 
 Chapter 23: Noncommercial Greenhouses
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 23-01 Noncommercial Greenhouses Accessory to Residential Uses as a Permitted Obstruction in Required Rear Yards or Rear Yard Equivalents.* ::
+*§ 23-01 Noncommercial Greenhouses Accessory to Residential Uses as a Permitted Obstruction in Required Rear Yards or Rear Yard Equivalents.*
 
 
 (a) Definitions. 
@@ -2526,11 +2533,11 @@ Greenhouse. A greenhouse shall be defined as a glass or slow burning plastic enc
 
 
 Chapter 24: Refuse Chutes and Refuse Rooms
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 24-01 Construction and Maintenance of Refuse Chutes and Refuse Rooms.* ::
+*§ 24-01 Construction and Maintenance of Refuse Chutes and Refuse Rooms.*
 
 
 (a) Refuse chute enclosures. Refuse chutes used for conveyance of garbage and rubbish from upper floors of a building to a cellar or other location shall be constructed with an enclosure of brick masonry at least eight inches in thickness or of reinforced concrete at least six inches in thickness, except as otherwise provided in this section.
@@ -2567,11 +2574,11 @@ Chapter 24: Refuse Chutes and Refuse Rooms
 
 
 Chapter 25: Climber and Tower Crane Riggers [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 25-01 Licensing Persons as Climber or Tower Crane Rigger. [Repealed]* ::
+*§ 25-01 Licensing Persons as Climber or Tower Crane Rigger. [Repealed]*
 
 
 
@@ -2580,11 +2587,11 @@ Chapter 25: Climber and Tower Crane Riggers [Repealed]
 
 
 Chapter 27: Signs
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 27-01 Stair and Elevator Signs in Buildings Which Have at Least One Elevator.* ::
+*§ 27-01 Stair and Elevator Signs in Buildings Which Have at Least One Elevator.*
 
 
 (a) Applicability. These rules and regulations shall apply to all buildings which have at least one elevator including:
@@ -2686,7 +2693,7 @@ Chapter 27: Signs
 
 
 
-*§ 27-02 Caution Sign Tapes Required on Elevators Being Serviced.* ::
+*§ 27-02 Caution Sign Tapes Required on Elevators Being Serviced.*
 
 
 (a) In all buildings, when an automatic passenger elevator is being serviced by an elevator maintenance company, elevator maintenance personnel or other persons and there are no maintenance personnel available to remain in the elevator car. "CAUTION" sign tapes shall be placed across the car door jamb. One strip of "CAUTION" sign tape shall be placed at a height of eighteen (18) inches from the car floor and another strip of "CAUTION" sign tape shall be placed at a height of fifty-four (54) inches above the floor.
@@ -2698,7 +2705,7 @@ Chapter 27: Signs
 
 
 
-*§ 27-03 Signs on any Sidewalk Shed, Fence, Railing, Footbridge, Catch Platform, Builder's Sidewalk Shanty, and Over-the-Sidewalk Chute Erected at Demolition or Construction Sites. [Repealed]* ::
+*§ 27-03 Signs on any Sidewalk Shed, Fence, Railing, Footbridge, Catch Platform, Builder's Sidewalk Shanty, and Over-the-Sidewalk Chute Erected at Demolition or Construction Sites. [Repealed]*
 
 
 
@@ -2708,7 +2715,7 @@ Chapter 27: Signs
 
 
 
-*§ 27-04 311 Advisory Signs Required on Construction Sites. [Repealed]* ::
+*§ 27-04 311 Advisory Signs Required on Construction Sites. [Repealed]*
 
 
 
@@ -2717,21 +2724,21 @@ Chapter 27: Signs
 
 
 Chapter 28: Smoke Detecting Devices and Systems and Carbon Monoxide Detecting Devices and Systems [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 28-01 Required Smoke Detecting Devices and Systems. [Repealed]* ::
-
-
-
-
+*§ 28-01 Required Smoke Detecting Devices and Systems. [Repealed]*
 
 
 
 
 
-*§ 28-02 Required Carbon Monoxide Detecting Devices and Systems. [Repealed]* ::
+
+
+
+
+*§ 28-02 Required Carbon Monoxide Detecting Devices and Systems. [Repealed]*
 
 
 
@@ -2740,11 +2747,11 @@ Chapter 28: Smoke Detecting Devices and Systems and Carbon Monoxide Detecting De
 
 
 Chapter 29: Sprinkler Systems
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 29-01 Installation of Automatic Sprinklers in Halls and Rooms in Class "A" Multiple Dwellings Used for Single-Room Occupancy Under the Provisions of Subdivision 7-A of § 4 and § 248 of the Multiple Dwelling Law.* ::
+*§ 29-01 Installation of Automatic Sprinklers in Halls and Rooms in Class "A" Multiple Dwellings Used for Single-Room Occupancy Under the Provisions of Subdivision 7-A of § 4 and § 248 of the Multiple Dwelling Law.*
 
 
 (a) Before the installation of any sprinkler system in any single-room occupancy building is begun, an application, together with plans and specifications for such installation shall be filed with and approved by the Department of Buildings. Plans shall show accurately, both horizontally and vertically, the arrangement and dimensions of the private halls and rooms and the areas to be sprayed by each sprinkler head. Application and specification forms may be obtained at the borough office of the Department of Buildings. Applications shall be filed in the department office in the borough in which the premises are located. Applications and specifications shall be in triplicate. Preliminary plans may be on paper. Final plans shall be filed in triplicate on paper and microfilmed. When it is proposed to supply a sprinkler system by means of a direct connection to a public water supply main, the specifications shall be accompanied by a letter from the Department of Environmental Protection, establishing the fact that the water-supply conditions and pressures are suitable to meet the requirements of these rules for water supplies for sprinklers.
@@ -2773,7 +2780,7 @@ Chapter 29: Sprinkler Systems
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size of pipe diameters
       - Maximum number or sprinkler heads allowed
@@ -2793,6 +2800,7 @@ Chapter 29: Sprinkler Systems
       - 100 heads 
     * - 4 inch
       - Unlimited heads 
+
 ~
 
 (l) The sprinkler main shall not be less in size than the sprinkler rise the check valve of equal diameter to the main and the riser shall be provided on the sprinkler main. For draining the sprinkler system, a 3/4" plugged valve shall be provided on the sprinkler main just inside the aforesaid check valve. All sprinkler piping and fittings shall be so installed that they can be thoroughly drained. On the sprinkler main, an outside screw and yoke gate valve, readily accessible, must be provided near the front of the front of the building and located so as to control the water supply to all the interior sprinkler systems. The said outside screw and yoke gate valve must be sealed in an open position. If tank water supply is used for sprinklers, an outside screw and yoke gate valve shall be provided on the piping leading from the tank to the sprinkler system under conditions similar to those specified for such valves on sprinkler mains.
@@ -2816,7 +2824,7 @@ Chapter 29: Sprinkler Systems
 
 
 
-*§ 29-02 Installation of Automatic Wet-Pipe Sprinklers in Certain Class A and Class B Multiple Dwellings, Including Hotels, Under the Provisions of § 67, Multiple Dwelling Law.* ::
+*§ 29-02 Installation of Automatic Wet-Pipe Sprinklers in Certain Class A and Class B Multiple Dwellings, Including Hotels, Under the Provisions of § 67, Multiple Dwelling Law.*
 
 
 Effective February 25, 1949, automatic wet-pipe sprinklers used in certain Class A and Class B multiple dwellings, including hotels, shall be installed in conformity with the provisions of the Administrative Code, Subchapter 17 of Chapter 1 of Title 27, except as modified herein. These rules do not apply to sprinkler installations in converted dwellings, lodging houses or multiple dwellings used for single room occupancy.
@@ -2874,7 +2882,7 @@ Effective February 25, 1949, automatic wet-pipe sprinklers used in certain Class
 
 
 
-*§ 29-03 Installation of Automatic Wet-Pipe Sprinkler Systems and Alarm Systems in Certain Class B Multiple Dwellings (Lodging Houses).* ::
+*§ 29-03 Installation of Automatic Wet-Pipe Sprinkler Systems and Alarm Systems in Certain Class B Multiple Dwellings (Lodging Houses).*
 
 
 (a) Notice is hereby given that, pursuant to the provisions of Chapter 713 of the Laws of 1929, and Section 4 of Chapter 553 of the Laws of 1944, effective April 5, 1944, automatic wet pipe sprinkler systems installed in "lodging houses", shall be installed in conformity with the provisions of the Administrative Code of the city of New York.
@@ -2886,7 +2894,7 @@ Effective February 25, 1949, automatic wet-pipe sprinklers used in certain Class
 
 
 
-*§ 29-04 Installation of Automatic Wet-Pipe Sprinkler Systems and Alarm Systems in Certain Class B Multiple Dwellings (Lodging Houses).* ::
+*§ 29-04 Installation of Automatic Wet-Pipe Sprinkler Systems and Alarm Systems in Certain Class B Multiple Dwellings (Lodging Houses).*
 
 
 (a) Automatic wet-pipe sprinkler systems installed in lodging houses in compliance with Subdivision 3, of § 66, of the Multiple Dwelling Law shall be in conformity with the provisions of the Administrative Code, Subchapter 17 of Chapter 1 of Title 27, only to the extent that such article is not inconsistent with these amended rules.
@@ -2913,7 +2921,7 @@ Effective February 25, 1949, automatic wet-pipe sprinklers used in certain Class
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 1 inch pipe
       - 2 sprinkler heads 
@@ -2927,6 +2935,7 @@ Effective February 25, 1949, automatic wet-pipe sprinklers used in certain Class
       - 30 sprinkler heads 
     * - 4 inch pipe
       - 60 No Limit 
+
 ~
 
 
@@ -2948,7 +2957,7 @@ Branch lines should not exceed eight sprinkler heads on either side of a cross m
 
 
 
-*§ 29-05 Installation of Automatic Wet-Pipe Sprinklers in Fireproof Multiple Dwellings Converted to Business Use.* ::
+*§ 29-05 Installation of Automatic Wet-Pipe Sprinklers in Fireproof Multiple Dwellings Converted to Business Use.*
 
 
 (a) Except as otherwise provided herein, automatic wet-pipe sprinklers used in fireproof multiple dwellings, converted in a whole or in part to business use under the provisions of § 27-248 of the Administrative (Building) Code, in effect prior to December 6, 1968, and in fireproof multiple dwellings that are altered under the provisions of § 9, Subdivision 5, Paragraph b of the Multiple Dwelling Law (subdivision of large apartments) shall be installed in conformity with Subchapter 17 of Chapter 1 of Title 27 of the Administrative (Building) Code.
@@ -2994,7 +3003,7 @@ Branch lines should not exceed eight sprinkler heads on either side of a cross m
 
 
 
-*§ 29-06 Installation of Automatic Sprinklers in the Public Halls of Multiple Dwellings Under the Provisions of § 187 (Converted Dwellings) and § 218, Subdivision 5 (Old-Law Tenements), of the Multiple Dwelling Law, and of the Sprinklers in Cooking Spaces in all Types of Multiple Dwellings Under the Provisions of § 33 of the Multiple Dwelling Law.* ::
+*§ 29-06 Installation of Automatic Sprinklers in the Public Halls of Multiple Dwellings Under the Provisions of § 187 (Converted Dwellings) and § 218, Subdivision 5 (Old-Law Tenements), of the Multiple Dwelling Law, and of the Sprinklers in Cooking Spaces in all Types of Multiple Dwellings Under the Provisions of § 33 of the Multiple Dwelling Law.*
 
 
 (a) Certification from the Department of Environmental Protection. When it is proposed to supply a sprinkler system by means of a direct connection to a public water supply main, the specifications shall be accompanied by a letter or other approved certification from the Department of Environmental Protection, establishing the fact that the water supply conditions and pressure are such that will meet the requirements of these rules for water suppliers for sprinklers.
@@ -3033,7 +3042,7 @@ Branch lines should not exceed eight sprinkler heads on either side of a cross m
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Diameter of Pipe
       - Maximum number of sprinklers allowed 
@@ -3053,6 +3062,7 @@ Branch lines should not exceed eight sprinkler heads on either side of a cross m
       - 100 sprinklers 
     * - 4 inch
       - Unlimited sprinklers 
+
 ~
 
 The sprinkler main shall not be less in size than the sprinkler riser and shall not be less in size than any branch it serves. Except as otherwise specifically provided in 1 RCNY § 29-06(h), the total number of sprinklers in a structure shall determine the required size of the tap, service main, risers and branches, but in no case shall the size of the main supply be less than two inches. The following sprinklers will not be counted in computing the size of the taps, mains and risers:
@@ -3094,7 +3104,7 @@ The sprinkler main shall not be less in size than the sprinkler riser and shall 
 
 
 
-*§ 29-07 Installation of Wet-Pipe Sprinklers.* ::
+*§ 29-07 Installation of Wet-Pipe Sprinklers.*
 
 
 Rules and Regulations for the Installation of Wet-Pipe Sprinklers under the provisions of § 248, Subdivision 4, Paragraph b, Multiple Dwelling Law, in Certain Fireproof Multiple Dwellings Erected before May 16, 1913, and Converted in Whole or in Part to Single Room Occupancy Prior to December 9, 1955.
@@ -3146,7 +3156,7 @@ Extract from the Multiple Dwelling Law  Section 248, Subdivision 4, Paragraph b.
 
 
 
-*§ 29-08 Installation of Sprinklers in Rooms of Class B Non-Fireproof Converted Dwellings and in Rooms Used for Class B Occupancy in Non-Fireproof Class A Converted Dwellings Under the Provisions of § 194 of the Multiple Dwelling Law.* ::
+*§ 29-08 Installation of Sprinklers in Rooms of Class B Non-Fireproof Converted Dwellings and in Rooms Used for Class B Occupancy in Non-Fireproof Class A Converted Dwellings Under the Provisions of § 194 of the Multiple Dwelling Law.*
 
 
 (a) Applicability. Sprinklers installed in rooms of class B non-fireproof converted dwellings, and in rooms used for class B occupancy in non-fireproof class A converted dwellings shall conform to the "sprinkler rules governing the installation of automatic sprinklers in the public halls of multiple dwellings under the provisions of § 187 (Converted Dwellings) and § 218(7) (Old Law Tenements) of the Multiple Dwelling Law, and of sprinklers in cooking spaces in all types of multiple dwellings under the provisions of § 33 of the Multiple Dwelling Law," except as provided otherwise in these rules.
@@ -3164,7 +3174,7 @@ Extract from the Multiple Dwelling Law  Section 248, Subdivision 4, Paragraph b.
 
 
 
-*§ 29-09 Installation of Chlorinated Poly Vinyl Chloride (CPVC) Sprinkler Pipe and Fittings.* ::
+*§ 29-09 Installation of Chlorinated Poly Vinyl Chloride (CPVC) Sprinkler Pipe and Fittings.*
 
 
 (a) Storage and handling. CPVC piping shall be stored and carried in the original shipment containers whenever possible. Reasonable care should be exercised in handling the pipes. If improper handling results in splits, gouges or cuts and scratches that are not superficial in nature, the damaged section shall be cut out and discarded. Pipes must be covered with non-transparent material when stored outdoors without the original containers.
@@ -3211,7 +3221,7 @@ Extract from the Multiple Dwelling Law  Section 248, Subdivision 4, Paragraph b.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Hangers and Supports
       - 
@@ -3253,6 +3263,7 @@ Extract from the Multiple Dwelling Law  Section 248, Subdivision 4, Paragraph b.
       - (76) 
       - 101/2
       - (3.050) 
+
 ~
 
  
@@ -3263,7 +3274,7 @@ Table A Maximum Support Spacing Distance End Line Sprinkler Head Drop Elbow
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Nominal Pipe Size (In)
       - Less than 100 psi (689kPa)
@@ -3280,6 +3291,7 @@ Table A Maximum Support Spacing Distance End Line Sprinkler Head Drop Elbow
     * - 11/2"-3"(38-76mm) 
       - 24"(610mm) 
       - 12"(305mm) 
+
 ~
 
 
@@ -3292,7 +3304,7 @@ Table B Maximum Support Spacing Distance Inline Sprinkler Head Drop Tee
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Nominal Pipe Size (In)
       - Less than 100 psi (689kPa)
@@ -3309,6 +3321,7 @@ Table B Maximum Support Spacing Distance Inline Sprinkler Head Drop Tee
     * - 1-1/2"-3"(38-76mm)  
       - 7' (2.135m) 
       - 7' (2.135m) 
+
 ~
 
 
@@ -3344,11 +3357,11 @@ Table B Maximum Support Spacing Distance Inline Sprinkler Head Drop Tee
 
 
 Chapter 30: Storage of Certain Waste Materials
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 30-01 Enclosures of Premises Used for Automobile Wrecking, Storage of Scrap Metal, Junk, Scrap Paper or Rags, Storage of Lumber, and Building Material or Contractors' Yards.* ::
+*§ 30-01 Enclosures of Premises Used for Automobile Wrecking, Storage of Scrap Metal, Junk, Scrap Paper or Rags, Storage of Lumber, and Building Material or Contractors' Yards.*
 
 
 (a) All existing or hereafter established yards or areas used for automobile wrecking, storage of scrap metal, junk, scrap paper or rags, including sorting of same, storage of lumber and other building materials, and open contractors' yards, unless the use is conducted entirely within a building enclosed on all sides, shall be completely enclosed by a solid fence or wall, of suitable uniform material and color at least eight feet high conforming to these rules, the Administrative Code and the applicable provisions of the Zoning Resolution.
@@ -3372,7 +3385,7 @@ Chapter 30: Storage of Certain Waste Materials
 
 
 
-*§ 30-02 Open Lots Used for Storage or Sale of Motor Vehicles.* ::
+*§ 30-02 Open Lots Used for Storage or Sale of Motor Vehicles.*
 
 
 (a) General. 
@@ -3463,11 +3476,11 @@ Chapter 30: Storage of Certain Waste Materials
 
 
 Chapter 32: Walls [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 32-01 The Design and Installation of Curtain Wall and Panel Wall (Non-Loadbearing Exterior Wall) Systems. [Repealed]* ::
+*§ 32-01 The Design and Installation of Curtain Wall and Panel Wall (Non-Loadbearing Exterior Wall) Systems. [Repealed]*
 
 
 (See 1 RCNY § 103-04)
@@ -3476,7 +3489,7 @@ Chapter 32: Walls [Repealed]
 
 
 Chapter 34: Electrical Code Rules
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3485,7 +3498,7 @@ Chapter 34: Electrical Code Rules
 
 
 
-*§ 34-01 Phase-in of New Standards for Electrical Work. [Repealed]* ::
+*§ 34-01 Phase-in of New Standards for Electrical Work. [Repealed]*
 
 
 
@@ -3495,7 +3508,7 @@ Chapter 34: Electrical Code Rules
 
 
 
-*§ 34-02 Review of Applications for Electrical Permits and Certificates of Electrical Inspection During the Phase-in Period. [Repealed]* ::
+*§ 34-02 Review of Applications for Electrical Permits and Certificates of Electrical Inspection During the Phase-in Period. [Repealed]*
 
 
 
@@ -3505,7 +3518,7 @@ Chapter 34: Electrical Code Rules
 
 
 
-*§ 34-03 Temporary Certification to Perform Low Voltage Electrical Work. [Repealed]* ::
+*§ 34-03 Temporary Certification to Perform Low Voltage Electrical Work. [Repealed]*
 
 
 
@@ -3515,7 +3528,7 @@ Chapter 34: Electrical Code Rules
 
 
 
-*§ 34-04 Definitions.* ::
+*§ 34-04 Definitions.*
 
 
 For the purposes of this chapter, the following terms shall have the following meanings:
@@ -3529,7 +3542,7 @@ Electrical Code Technical Standards. The term "Electrical Code Technical Standar
 
 
 
-*§ 34-05 Electrical Advisory Board. [Renumbered]* ::
+*§ 34-05 Electrical Advisory Board. [Renumbered]*
 
 
 
@@ -3541,7 +3554,7 @@ Electrical Code Technical Standards. The term "Electrical Code Technical Standar
 
 
 
-*§ 34-06 Electrical Code Revision and Interpretation Committee.* ::
+*§ 34-06 Electrical Code Revision and Interpretation Committee.*
 
 
 In accordance with section 27-3005(a)(7) of the Administrative Code, the Commissioner shall appoint a special committee to be known as the "electrical code revision and interpretation committee". The committee may propose to the commissioner local amendments to the NEC and shall, upon request, provide interpretations and clarifications of the Electrical Code Technical Standards. The number of members and their organizational affiliations shall be at the discretion of the Commissioner. The members of the committee shall be appointed annually and shall serve at the pleasure of the Commissioner. The Committee shall have a Chair, Vice-Chair and Secretary appointed annually by the Commissioner. All proposed local amendments to the NEC adopted or considered for adoption by the city shall be submitted to the committee for review.
@@ -3551,7 +3564,7 @@ In accordance with section 27-3005(a)(7) of the Administrative Code, the Commiss
 
 
 
-*§ 34-07 Electrical Code Advisory Committee.* ::
+*§ 34-07 Electrical Code Advisory Committee.*
 
 
 In accordance with section 27-3005(a)(7) of the Administrative Code the Commissioner shall appoint a special committee to be known as the "electrical code advisory committee". The committee shall advise the Commissioner regarding the approval of local amendments to the NEC proposed by the Electrical Code Revision and Interpretation Committee and the implementation of such amendments, and shall act as a conduit between the Department and the electrical industry regarding such proposed amendments and their implementation. The members of the committee shall be appointed annually and shall serve at the pleasure of the Commissioner. The number of members and their organizational affiliations shall be at the discretion of the Commissioner. The Committee shall have a Chair, Vice-Chair and Secretary appointed annually by the Commissioner. The Commissioner shall submit all local amendments to the edition of the National Fire Protection Association NFPA 70 NEC currently adopted or being considered for adoption by the city to the committee for review.
@@ -3560,11 +3573,11 @@ In accordance with section 27-3005(a)(7) of the Administrative Code the Commissi
 
 
 Chapter 35: Electrical Inspection
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 35-01 Designation of Private Agencies to Perform Electrical Inspections in the City of New York.* ::
+*§ 35-01 Designation of Private Agencies to Perform Electrical Inspections in the City of New York.*
 
 
 (a) Grounds for certification and renewal of certification. The commissioner may grant and each January thereafter renew certification of private electrical inspection agencies, provided:
@@ -3610,7 +3623,7 @@ Chapter 35: Electrical Inspection
 
 
 
-*§ 35-02 Payment of Fees for Certificates of Electrical Inspection.* ::
+*§ 35-02 Payment of Fees for Certificates of Electrical Inspection.*
 
 
 (a) All applications for a certificate of electrical inspection for electrical work filed with the Department of Buildings shall specify a completion date for such work. No certificates of electrical inspection, other than temporary certificates for electrical service, shall be issued, unless and until the required total application fee or fees therefor shall have been paid to the commissioner.
@@ -3631,11 +3644,11 @@ Chapter 35: Electrical Inspection
 
 
 Chapter 36: Electrical Contractors
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 36-01 Evaluation of Educational Experience of Applicants for Electrical Contractor Licenses.* ::
+*§ 36-01 Evaluation of Educational Experience of Applicants for Electrical Contractor Licenses.*
 
 
 (a) Experience. Any applicant for an electrical contractor's license must have experience in the installation, alteration and repair of wiring and appliances for electrical light, heat and power in or on buildings as set forth in New York City Administrative Code § 27-3010. In evaluating this experience, credit may be given for the educational experience of applicants who have attended courses in a recognized vocational, industrial or trade school in electrical wiring, installation and design, or applied electricity.
@@ -3651,7 +3664,7 @@ Chapter 36: Electrical Contractors
 
 
 
-*§ 36-02 Impact of Periods of Unemployment upon Applications for Electrician's Licenses.* ::
+*§ 36-02 Impact of Periods of Unemployment upon Applications for Electrician's Licenses.*
 
 
 (a) Applicability. Pursuant to New York City Administrative Code § 27-3010, any applicant for a master or special electrician's license shall have had, immediately preceding his or her application, at least seven and one-half (71/2) years of experience in the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings. In evaluating this experience, the Department recognizes that periods of unemployment may make continuous employment for the seven and one-half (71/2) years preceding his or her application impossible. Thus, in evaluating whether a master or special electrician's license applicant has sufficient work experience, the Department may exclude periods of unemployment when considering whether work experience immediately preceded the application date, as set forth in this rule.
@@ -3666,11 +3679,11 @@ Chapter 36: Electrical Contractors
 
 
 Chapter 37: Reference Standards [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 37-01 Rules of Procedure for Amending, Revising or Promulgating Reference Standards. [Repealed]* ::
+*§ 37-01 Rules of Procedure for Amending, Revising or Promulgating Reference Standards. [Repealed]*
 
 
 
@@ -3679,11 +3692,11 @@ Chapter 37: Reference Standards [Repealed]
 
 
 Chapter 38: Ventilation
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 38-01 Ventilation of Garage Spaces Below Grade.* ::
+*§ 38-01 Ventilation of Garage Spaces Below Grade.*
 
 
 (a) [Applies only to buildings constructed before effective date of Local Law 76 of 1968; Dec. 6, 1968]. Wherever the floor of a garage designed for the live storage of five (5) or more motor vehicles is more than two (2) feet below curb, ventilation shall be provided as required by the provisions of subdivision a of [former] § C26-267.0 of the Administrative Code.
@@ -3696,11 +3709,11 @@ Chapter 38: Ventilation
 
 
 Chapter 39: Cooling Towers and Evaporative Condensers [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 39-01 Cooling Towers and Evaporative Condensers. [Repealed]* ::
+*§ 39-01 Cooling Towers and Evaporative Condensers. [Repealed]*
 
 
 
@@ -3709,7 +3722,7 @@ Chapter 39: Cooling Towers and Evaporative Condensers [Repealed]
 
 
 Chapter 40: Installation and Maintenance of Gas-fueled Water and Space Heaters In All Portions of Dwellings Used Or Occupied For Living Purposes
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3718,7 +3731,7 @@ Chapter 40: Installation and Maintenance of Gas-fueled Water and Space Heaters I
 
 
 
-*§ 40-01 Installation and Maintenance of Gas-Fueled Water and Space Heaters in all Portions of Dwellings Used or Occupied for Living Purposes.* ::
+*§ 40-01 Installation and Maintenance of Gas-Fueled Water and Space Heaters in all Portions of Dwellings Used or Occupied for Living Purposes.*
 
 
 These rules shall govern the installation and maintenance of gas-fueled space and water heaters in the residence portions of multiple dwellings in the City of New York, including but not limited to the installation of such devices in multiple dwellings which are installed in lieu of centrally supplied heat and hot water under the provisions of § 27-2028 and § 27-2032 of the Administrative Code and in one and two family residences not heated by a central heating system.
@@ -3733,7 +3746,7 @@ These rules shall govern the installation and maintenance of gas-fueled space an
 
 
 
-*§ 40-11 Applications and Plans.* ::
+*§ 40-11 Applications and Plans.*
 
 
 (a) Before commencing the installation of a gas-fueled space or water heater in a dwelling an application, as specified below must be filed in the borough office of the Department of Buildings where the installation is to be made, giving the address of the dwelling and all pertinent information required on the forms.
@@ -3751,7 +3764,7 @@ These rules shall govern the installation and maintenance of gas-fueled space an
 
 
 
-*§ 40-12 Examination and Approval of Applications.* ::
+*§ 40-12 Examination and Approval of Applications.*
 
 
 (a) Applications, when filed, shall be processed in the usual manner and forwarded to the inspectors of plumbing.
@@ -3765,7 +3778,7 @@ These rules shall govern the installation and maintenance of gas-fueled space an
 
 
 
-*§ 40-13 Commencement of Work.* ::
+*§ 40-13 Commencement of Work.*
 
 
 (a) It shall be unlawful to commence any construction for which an application has been filed until a permit for the proposed work has been issued by the borough superintendent, and it shall be unlawful to commence the installation of piping of any gas appliance until a registered plumber has filed a signed statement with the borough superintendent containing the address of said plumber and stating that he is duly authorized to proceed with the work.
@@ -3777,7 +3790,7 @@ These rules shall govern the installation and maintenance of gas-fueled space an
 
 
 
-*§ 40-14 Inspection of Gas-Fueled Space and Water Heaters.* ::
+*§ 40-14 Inspection of Gas-Fueled Space and Water Heaters.*
 
 
 (a) Where an application has been filed it shall be the responsibility of the inspectors of plumbing to see that gas-fueled space and water heaters are installed in dwellings, apartments and rooms where such heaters are permitted to be installed in lieu of central heat or supply of hot water. They shall see to it that the appliances are of types approved by the Department of Buildings and the American Gas Association, and are installed in compliance with these rules.
@@ -3791,7 +3804,7 @@ These rules shall govern the installation and maintenance of gas-fueled space an
 
 
 
-*§ 40-15 Issuing Approvals.* ::
+*§ 40-15 Issuing Approvals.*
 
 
 (a) A gas-fueled space or water heater installed after December 18, 1957, and a gas-fueled space heater installed prior to that date, in the residence portion of a multiple dwelling and installed after October 1, 1964, in one and two family dwellings, shall be approved by the Department of Buildings only if it is of a type approved by the Department of Buildings and the American Gas Association, and if it has been installed in compliance with these rules. A gas-fueled water heater installed in a multiple dwelling prior to December 18, 1957, and in a one or two family dwelling prior to October 1, 1964 shall be approved by this department only after it has been made to comply with all the requirements of these rules. The certification of approval of type of appliance by the Department of Buildings of such water heaters shall be attached to the application.
@@ -3810,7 +3823,7 @@ These rules shall govern the installation and maintenance of gas-fueled space an
 
 
 
-*§ 40-21 Substitution for Central Heating or Hot Water Supply.* ::
+*§ 40-21 Substitution for Central Heating or Hot Water Supply.*
 
 
 Gas-fueled or water heaters may be used in lieu of centrally supplied heat or hot water only in an apartment in a dwelling which complies with all the following requirements:
@@ -3843,7 +3856,7 @@ Gas-fueled or water heaters may be used in lieu of centrally supplied heat or ho
 
 
 
-*§ 40-31 Required Approvals of Appliances.* ::
+*§ 40-31 Required Approvals of Appliances.*
 
 
 Gas-fueled space and water heaters, installed after December 18, 1957, in apartments in multiple dwellings, in lieu of centrally supplied heat or hot water where such centrally supplied heat or hot water supply is required by the Multiple Dwelling Code, and in one and two family dwellings installed after October 1, 1964 shall be of types approved by the Department of Buildings and the American Gas Association.
@@ -3853,7 +3866,7 @@ Gas-fueled space and water heaters, installed after December 18, 1957, in apartm
 
 
 
-*§ 40-32 Prohibited Types of Water Heaters.* ::
+*§ 40-32 Prohibited Types of Water Heaters.*
 
 
 On and after December 18, 1957, it shall be unlawful to install in any apartment in any multiple dwelling, and after October 1, 1964 in a one or two family dwelling a gas-fueled water heater, so designed and arranged that it heats water in pipe coils placed at a distance from the hot water storage tank.
@@ -3863,7 +3876,7 @@ On and after December 18, 1957, it shall be unlawful to install in any apartment
 
 
 
-*§ 40-33 Number and Capacity of Gas-Fueled Heaters.* ::
+*§ 40-33 Number and Capacity of Gas-Fueled Heaters.*
 
 
 (a) Where gas-fueled heaters are permitted to be installed in lieu of the required centrally supplied heat, each "living room," as such term is defined in subdivision 18 of § 4 of the Multiple Dwelling Law, shall be heated by a heater placed in such room or in an adjoining room which connects with it except that a room whose exterior walls are exposed only on a fully enclosed inner court may be heated by a heater located one room removed from such room. For this purpose, an inner court shall be considered fully enclosed even though some of the enclosure walls are located on an adjoining lot. The aggregate input capacity of the heater or heaters installed in any apartment shall not be less than the number of living room times ten thousand (10,000) British thermal units per hour.
@@ -3877,7 +3890,7 @@ On and after December 18, 1957, it shall be unlawful to install in any apartment
 
 
 
-*§ 40-34 Capacity of Water Heaters.* ::
+*§ 40-34 Capacity of Water Heaters.*
 
 
 Gas-fueled water heaters shall be automatic storage types having a capacity of not less than twenty gallons and shall, in any event, be adequate to provide a supply of hot water as defined in § 27-2031 and § 27-2034 of the Housing Maintenance Code, and 24 RCNY Health Code § 131.042.
@@ -3887,7 +3900,7 @@ Gas-fueled water heaters shall be automatic storage types having a capacity of n
 
 
 
-*§ 40-35 Shut-Off Devices.* ::
+*§ 40-35 Shut-Off Devices.*
 
 
 Each gas-fueled space or water heater installed in an apartment in a dwelling shall be equipped with an effective device which will automatically shut off the gas supply to such heater in the event that its pilot light or other constantly burning flame is extinguished, or in the event of an interruption of the gas supply to such heater. Such automatic gas shut-off device shall be of a type which, after it has shut off the supply of gas to a heater, will not permit such heater to be relighted unless such shut-off device is first reset manually.
@@ -3897,7 +3910,7 @@ Each gas-fueled space or water heater installed in an apartment in a dwelling sh
 
 
 
-*§ 40-36 Gas Piping.* ::
+*§ 40-36 Gas Piping.*
 
 
 (a) The sizes of gas piping shall be such as to give an adequate volumetric flow of gas to all appliances. The minimum diameter of gas piping shall be three-quarters of an inch (3/4") except that a branch supplying only one appliance may be one-half inch (1/2") diameter.
@@ -3909,7 +3922,7 @@ Each gas-fueled space or water heater installed in an apartment in a dwelling sh
 
 
 
-*§ 40-37 Appliances in Sleeping Rooms.* ::
+*§ 40-37 Appliances in Sleeping Rooms.*
 
 
 (a) Gas-fueled water heaters shall not be installed in a room occupied for sleeping purposes, in bathrooms, or in any occupied room normally kept closed.
@@ -3925,7 +3938,7 @@ Each gas-fueled space or water heater installed in an apartment in a dwelling sh
 
 
 
-*§ 40-38 Clearances from Combustible Materials.* ::
+*§ 40-38 Clearances from Combustible Materials.*
 
 
 (a) Space heaters and water heaters approved by the American Gas Association Laboratories, shall have clearance from combustible materials in accordance with the terms of their approval.
@@ -3939,7 +3952,7 @@ Each gas-fueled space or water heater installed in an apartment in a dwelling sh
 
 
 
-*§ 40-39 Venting of Gas Appliances.* ::
+*§ 40-39 Venting of Gas Appliances.*
 
 
 (a) Definitions.
@@ -3975,7 +3988,7 @@ Vent connector. A "vent connector" is a pipe connecting an appliance with the fl
 
 
 
-*§ 40-40 Gas-Fueled Space Heaters Installed Prior to December 18, 1957.* ::
+*§ 40-40 Gas-Fueled Space Heaters Installed Prior to December 18, 1957.*
 
 
 (a) Gas-fueled space heaters installed prior to December 18, 1957, if of a type not approved by the Department of Health and the American Gas Association, shall be replaced by centrally supplied heat or by gas heaters approved by the said authorities on or before November 1, 1958, in any tenement and converted dwelling which contains ten or more apartments, and on or before November 1, 1959, in other tenements and converted dwellings.
@@ -3987,7 +4000,7 @@ Vent connector. A "vent connector" is a pipe connecting an appliance with the fl
 
 
 
-*§ 40-41 Gas-Fueled Water Heaters Installed Prior to December 18, 1957.* ::
+*§ 40-41 Gas-Fueled Water Heaters Installed Prior to December 18, 1957.*
 
 
 (a) On or before November 1, 1958, in any tenement and converted dwelling which contains ten or more apartments, and on or before November 1, 1959, in other tenements and converted dwellings, any gas-fueled water heater installed prior to December 18, 1957, if of a type not approved by the Department of Health, shall be replaced by a supply of hot water or by a water heater approved by said department.
@@ -4001,7 +4014,7 @@ Vent connector. A "vent connector" is a pipe connecting an appliance with the fl
 
 
 
-*§ 40-42 Maintenance of Space and Water Heaters.* ::
+*§ 40-42 Maintenance of Space and Water Heaters.*
 
 
 (a) The owner of the tenement or converted dwelling and of the one and two family dwelling in which gas-fueled space and water heaters have been installed by him shall maintain each such appliance in a condition of good repair and in good operating condition.
@@ -4017,7 +4030,7 @@ Vent connector. A "vent connector" is a pipe connecting an appliance with the fl
 
 
 
-*§ 40-43 Existing Appliances in Ineligible Locations.* ::
+*§ 40-43 Existing Appliances in Ineligible Locations.*
 
 
 Where a gas-fueled space heater or water heater has heretofore been installed in a dwelling not complying with all the requirements of 1 RCNY § 40-21, nothing in these rules shall be construed to relieve the owner of his responsibility to provide for such dwelling centrally supplied heat and supply of hot water.
@@ -4027,7 +4040,7 @@ Where a gas-fueled space heater or water heater has heretofore been installed in
 
 
 
-*§ 40-44 [Reserved]* ::
+*§ 40-44 [Reserved]*
 
 
 Where there is a practical difficulty in carrying out the strict letter of the provisions of these rules, the Borough Superintendent may vary such provisions for a specific installation, provided the necessary safety is secured and the variance is not in conflict with Administrative Code.
@@ -4036,11 +4049,11 @@ Where there is a practical difficulty in carrying out the strict letter of the p
 
 
 Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dwellings
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 41-01 Venting of Gas Water Heaters and Other Gas Appliances in Multiple Dwellings.* ::
+*§ 41-01 Venting of Gas Water Heaters and Other Gas Appliances in Multiple Dwellings.*
 
 
 (a) This section shall apply to vents for gas burning water heaters within apartments of multiple dwellings as required by § 27-887(d) of the Administrative Code (Building Code) and to gas appliances in rooms or spaces without a window opening to the outer air, used for living or sleeping within a multiple dwelling, where required by the provisions of § 64 of the Multiple Dwelling Law.
@@ -4077,11 +4090,11 @@ Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dw
 
 
 Chapter 42: Entrance Doors, Locks and Intercommunication Systems
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.* ::
+*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.*
 
 
 (a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
@@ -4112,11 +4125,11 @@ Chapter 42: Entrance Doors, Locks and Intercommunication Systems
 
 
 Chapter 43: Installation of Security Items In Multiple Dwellings
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 43-01 Installation of Peepholes.* ::
+*§ 43-01 Installation of Peepholes.*
 
 
 (a) These new peepholes, or door interviewers, must bear a label showing the approval of the Department of Buildings or the previous approval of the Board of Standards and Appeals.
@@ -4134,7 +4147,7 @@ Chapter 43: Installation of Security Items In Multiple Dwellings
 
 
 
-*§ 43-02 Installation of Two 50 Watt Lights at Front Entrance Way.* ::
+*§ 43-02 Installation of Two 50 Watt Lights at Front Entrance Way.*
 
 
 (a) All electrical work shall be done in accordance with the requirements and approval of the Department of Buildings.
@@ -4150,7 +4163,7 @@ Chapter 43: Installation of Security Items In Multiple Dwellings
 
 
 
-*§ 43-03 Installation of Viewing Mirrors in Self-Service Elevators.* ::
+*§ 43-03 Installation of Viewing Mirrors in Self-Service Elevators.*
 
 
 (a) Mirrors shall be made of polished metal.
@@ -4166,7 +4179,7 @@ Chapter 43: Installation of Security Items In Multiple Dwellings
 
 
 
-*§ 43-04 Installation of Lights in Rear Yards, Side Yards, Front Yards and Courts.* ::
+*§ 43-04 Installation of Lights in Rear Yards, Side Yards, Front Yards and Courts.*
 
 
 (a) All electrical work shall be done in accordance with requirements and approval of the Department of Buildings.
@@ -4183,11 +4196,11 @@ Chapter 43: Installation of Security Items In Multiple Dwellings
 
 
 Chapter 45: Building Permit Application Procedures
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 45-01 Microfilming of Application Folders and Associated Documentation for Temporary and Final Certificates of Occupancy and Letters of Completion.* ::
+*§ 45-01 Microfilming of Application Folders and Associated Documentation for Temporary and Final Certificates of Occupancy and Letters of Completion.*
 
 
 (a) Purpose.
@@ -4210,11 +4223,11 @@ Chapter 45: Building Permit Application Procedures
 
 
 Chapter 46: Authorized Representatives
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 46-01 Persons Authorized to Perform Inspections, Tests, Certifications, and Other Functions on Behalf of the Department.* ::
+*§ 46-01 Persons Authorized to Perform Inspections, Tests, Certifications, and Other Functions on Behalf of the Department.*
 
 
 (a) Authorized representatives. Persons authorized to perform inspections, other than officers and employees of the Department, shall include the following:
@@ -4247,21 +4260,11 @@ Chapter 46: Authorized Representatives
 
 
 Chapter 48: Construction Superintendents [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 48-01 General Provisions. [Repealed.]* ::
-
-
-
-
-
-
-
-
-
-*§ 48-02 Duties. [Repealed.]* ::
+*§ 48-01 General Provisions. [Repealed.]*
 
 
 
@@ -4271,7 +4274,7 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 
-*§ 48-03 Registration of Construction Superintendents. [Repealed.]* ::
+*§ 48-02 Duties. [Repealed.]*
 
 
 
@@ -4281,7 +4284,7 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 
-*§ 48-04 Disciplinary Actions. [Repealed.]* ::
+*§ 48-03 Registration of Construction Superintendents. [Repealed.]*
 
 
 
@@ -4291,7 +4294,7 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 
-*§ 48-05 Obligations of Others. [Repealed.]* ::
+*§ 48-04 Disciplinary Actions. [Repealed.]*
 
 
 
@@ -4301,7 +4304,17 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 
-*§ 48-06 Severability. [Repealed.]* ::
+*§ 48-05 Obligations of Others. [Repealed.]*
+
+
+
+
+
+
+
+
+
+*§ 48-06 Severability. [Repealed.]*
 
 
 
@@ -4310,7 +4323,7 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 Chapter 49: Outdoor Signs
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4319,7 +4332,7 @@ Chapter 49: Outdoor Signs
 
 
 
-*§ 49-01 Definitions.* ::
+*§ 49-01 Definitions.*
 
 
 For the purposes of this chapter, the following terms shall have the following meanings:
@@ -4387,7 +4400,7 @@ Work permit. The term "work permit" shall mean a permit to erect, alter or insta
 
 
 
-*§ 49-02 Obligation to Cooperate with Inquiries.* ::
+*§ 49-02 Obligation to Cooperate with Inquiries.*
 
 
 All OACs and all principals thereof, shall cooperate with Department investigations into the conduct of the outdoor advertising business within the City of New York, and shall provide prompt, accurate and complete responses to reasonable inquiries by the Department about the conduct of such business.
@@ -4397,7 +4410,7 @@ All OACs and all principals thereof, shall cooperate with Department investigati
 
 
 
-*§ 49-03 Obligation to Comply with an Order of the Commissioner.* ::
+*§ 49-03 Obligation to Comply with an Order of the Commissioner.*
 
 
 OACs shall be obligated to comply with any order issued by the Commissioner pursuant to this chapter.
@@ -4407,7 +4420,7 @@ OACs shall be obligated to comply with any order issued by the Commissioner purs
 
 
 
-*§ 49-04 Severability.* ::
+*§ 49-04 Severability.*
 
 
 If any clause, sentence, paragraph, section or part of this rule or the application thereof to any person or circumstance shall for any reason be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this rule or the application thereof to other persons or circumstances, but shall be confined in its operation to the clause, sentence, paragraph, section or part thereof directly involved in the controversy in which such judgment shall have been rendered and to the person or circumstance involved.
@@ -4422,7 +4435,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
 
 
-*§ 49-11 Effective Dates.* ::
+*§ 49-11 Effective Dates.*
 
 
 (a) On and after the 60th day after the effective date of this chapter, it shall be unlawful for an OAC to engage in the outdoor advertising business, or, by way of advertising, promotions or other methods, hold itself out as engaging in the outdoor advertising business, unless such OAC is registered with and has been issued a registration number by the Department and such registration has not expired or been revoked. Notwithstanding the foregoing provision, an OAC that is in existence on the effective date of this chapter may continue to do business as an OAC pending the issuance of a registration number if such OAC has filed a registration application pursuant to 1 RCNY § 49-12 on or prior to the 60th day after the effective date of this chapter and such application has not been rejected by the Department in accordance with subdivision c of such section.
@@ -4436,7 +4449,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
 
 
-*§ 49-12 Application for Registration.* ::
+*§ 49-12 Application for Registration.*
 
 
 (a) The application for registration or the renewal of registration shall contain all of the information required by the application form and these rules. Except where an application is filed pursuant to subsection (3)* below, the party holding fee or the dominant lease to the sign, sign structure or sign location, shall act as the applicant for registration. An applicant shall:
@@ -4460,7 +4473,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
 
 
-*§ 49-13 Term and Fees.* ::
+*§ 49-13 Term and Fees.*
 
 
 (a) The term of the registration shall be for two years commencing on the date of issuance of an OAC registration number. The fee for the initial registration shall be $1,500 per applicant, plus $125 for each: sign; sign structure vacant of signage; and tax lot vacant of both signage and sign structures, listed in the sign inventory. The biennial registration renewal fee shall be $750 per applicant, plus $50 for each: sign; sign structure vacant of signage; and tax lot vacant of both signage and sign structures, listed in the sign inventory. The fee per material change shall be $25.
@@ -4472,7 +4485,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
 
 
-*§ 49-14 Acceptable Type of Security.* ::
+*§ 49-14 Acceptable Type of Security.*
 
 
 (a) An applicant shall maintain security in the form of a letter of credit from an issuing bank or other security acceptable to the Department for all signs included in its inventory. Proof of such security must be filed with the Department with the initial application for registration and with all registration renewal applications. OACs may post one letter of credit or other security acceptable to the Department with respect to all affiliates or separate security for each affiliated OAC. The maximum number of letters of credit or other security acceptable to the Department shall not exceed the total number of signs in the inventory. The security must be in full force and effect from and after the date of registration. When a letter of credit or other security acceptable to the Department expires, is cancelled, is not renewed or for any reason becomes unenforceable, it shall be replaced forthwith and notice of such replacement shall be filed with the Department within 30 days thereafter. The bank shall be required to notify the Department promptly in the event of cancellation, failure to renew or other event that would render the security unavailable to the Department.
@@ -4486,7 +4499,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
 
 
-*§ 49-15 Sign Inventory to be Submitted with Registration Application.* ::
+*§ 49-15 Sign Inventory to be Submitted with Registration Application.*
 
 
 (a) In addition to the information and documentation required by 1 RCNY § 49-12(a), an applicant shall submit, pursuant to § 26-261 of the Administrative Code, a sign inventory that shall include all signs, sign structures and sign locations located (1) within a distance of 900 linear feet from and within view of an arterial highway; or (2) within 200 linear feet from and within view of a public park of one-half acre or more. Such sign inventory shall be filed together with the registration application and each renewal registration application. The sign inventory submitted in connection with the renewal registration application shall include all material changes since the last registration or renewal registration application, and shall be accompanied by a statement that identifies all material changes since such prior registration. A registration application or renewal application submitted without such sign inventory or statement shall not be considered complete and may be rejected in accordance with subdivision (c) of 1 RCNY § 49-12.
@@ -4554,7 +4567,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
 
 
-*§ 49-16 Non-Conforming Signs.* ::
+*§ 49-16 Non-Conforming Signs.*
 
 
 (a) With respect to each sign identified in the sign inventory as non-conforming, the registered architect or professional engineer shall request confirmation of its non-conforming status from the Department based on the evidence submitted in the registration application. The Department shall review the evidence submitted and accept or deny the request within a reasonable period of time. A sign that has been identified as non-conforming on the initial registration application may remain erected unless and until the Department has issued a determination that it is not non-conforming. The registration of the OAC and remaining sign inventory shall continue unimpeded while such a determination is pending.
@@ -4568,7 +4581,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
 
 
-*§ 49-17 Information Required on Signs.* ::
+*§ 49-17 Information Required on Signs.*
 
 
 On and after the 90th day after the approval of the OAC registration, all signs included in an OAC's inventory shall have posted thereon the name of the OAC to which it is registered, the OAC registration number and, unless a permit is not required, the permit identification number for the installation, alteration or erection of such sign and, if applicable, for the maintenance of such sign. All required information shall contrast with the background and be visible from the arterial highway and/or public park.
@@ -4583,7 +4596,7 @@ On and after the 90th day after the approval of the OAC registration, all signs 
 
 
 
-*§ 49-21 Department's Discretionary Power to Revoke, Suspend or Refuse to Renew Registration and Impose Fines Pursuant to § 26-260(d) of the Administrative Code.* ::
+*§ 49-21 Department's Discretionary Power to Revoke, Suspend or Refuse to Renew Registration and Impose Fines Pursuant to § 26-260(d) of the Administrative Code.*
 
 
 (a) The Department may revoke, suspend or refuse to renew the registration of an OAC on the grounds specified in § 26-260(d) of the Administrative Code. For the purposes of this section it shall be presumed that an OAC knew or should have known that such inventory was incomplete or inaccurate if the OAC or, if applicable, an affiliated OAC thereof, owns or has a contract for control of the sign, sign structure or sign location that is omitted from or inaccurately described in the sign inventory.
@@ -4606,7 +4619,7 @@ On and after the 90th day after the approval of the OAC registration, all signs 
 
 
 
-*§ 49-31 Applicability.* ::
+*§ 49-31 Applicability.*
 
 
 The provisions of this subchapter shall apply to signs and sign structures removed by the Department or its authorized representatives pursuant to Administrative Code §§ 26-127.3 and 26-262(d).
@@ -4616,7 +4629,7 @@ The provisions of this subchapter shall apply to signs and sign structures remov
 
 
 
-*§ 49-32 Procedure.* ::
+*§ 49-32 Procedure.*
 
 
 (a) Where the signs and sign structures are physically removed, they shall be vouchered and maintained in a secure location.
@@ -4634,7 +4647,7 @@ The provisions of this subchapter shall apply to signs and sign structures remov
 
 
 
-*§ 49-33 Disposal of Abandoned Signs and/or Sign Structures.* ::
+*§ 49-33 Disposal of Abandoned Signs and/or Sign Structures.*
 
 
 Signs and/or sign structures that are not claimed in accordance with the procedure set forth above within 30 days after removal shall be deemed abandoned and shall be sold at public auction or turned over to the Department of Sanitation in accordance with subdivision i of § 26-127.3 of the Administrative Code.
@@ -4649,7 +4662,7 @@ Signs and/or sign structures that are not claimed in accordance with the procedu
 
 
 
-*§ 49-41 Application Requirements.* ::
+*§ 49-41 Application Requirements.*
 
 
 (a) An application to erect, alter or install a sign and/or sign structure in an area that is subject to inclusion on the sign inventory as set forth in 1 RCNY § 49-15 that is larger than 200 square feet shall be accompanied by the following documentation:
@@ -4691,7 +4704,7 @@ Signs and/or sign structures that are not claimed in accordance with the procedu
 
 
 
-*§ 49-42 Accessory Sign Permits.* ::
+*§ 49-42 Accessory Sign Permits.*
 
 
 (a) A sign permit for an accessory sign shall only be issued to a sign with non-changeable copy, except that the Borough Commissioner may, upon review, accept changeable copy for a digital sign, provided the name of the business to which the sign is directing attention appears prominently at all times on the sign, the changeable copy directs attention only to products sold at the premises, and the Department is provided with a direct access means to monitor the copy.
@@ -4705,7 +4718,7 @@ Signs and/or sign structures that are not claimed in accordance with the procedu
 
 
 
-*§ 49-43 Advertising Signs.* ::
+*§ 49-43 Advertising Signs.*
 
 
 Absent evidence that revenue from the sign is clearly incidental to the revenue generated from the use on the zoning lot to which it directs attention, the following signs are deemed to be advertising signs for purposes of compliance with the Zoning Resolution:
@@ -4718,11 +4731,11 @@ Absent evidence that revenue from the sign is clearly incidental to the revenue 
 
 
 Chapter 50: Distributed Energy Resource Standards
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 50-01 Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.* ::
+*§ 50-01 Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.*
 
 
 (a) General requirements. All microturbine systems shall comply with the following general requirements:
@@ -4851,11 +4864,11 @@ Chapter 50: Distributed Energy Resource Standards
 
 
 Chapter 51: Dormitories
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 51-01 Classification of Student Dormitory.* ::
+*§ 51-01 Classification of Student Dormitory.*
 
 
 (a) Applicability. Student dormitory is classified under the Zoning Resolution of the City of New York as a Use Group 3, community facility use. The Zoning Resolution allows residences of all kinds, including residences for students, under a Use Group 2 classification. This rule sets forth the criteria the Department shall use to designate a Class A building or part of a building as a Use Group 3 student dormitory. An owner that seeks to classify a rooming unit as a dormitory shall be subject to the provisions set forth in 1 RCNY 15-04(e).
@@ -4892,11 +4905,11 @@ Chapter 51: Dormitories
 
 
 Chapter 52: Notification To the Department of Commencement of Work Pursuant To An Earthwork Permit
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 52-01 Notification to the Department of Commencement of Work Pursuant to an Earthwork Permit.* ::
+*§ 52-01 Notification to the Department of Commencement of Work Pursuant to an Earthwork Permit.*
 
 
 (a) Notification to the Department. Pursuant to § 27-195 of the Administrative Code and subject to the exceptions set forth in subdivision (e) herein, no earthwork within the property line shall commence unless the permit holder notifies the Department as here prescribed at least twenty-four (24) but no more than forty-eight (48) hours prior to the commencement of such work. The notification shall state the date that such earthwork is to commence. Should the notification date fall on a weekend or an official holiday, the permit holder shall notify the Department on the last business day before the commencement date.
@@ -4921,11 +4934,11 @@ Chapter 52: Notification To the Department of Commencement of Work Pursuant To A
 
 
 Chapter 300: Use and Occupancy Classification
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 310-01 Student Apartments.* ::
+*§ 310-01 Student Apartments.*
 
 
 (a) Scope. This rule establishes criteria for determining when dwelling units are classified as student apartments and when the fire safety provisions of Chapter 9 of the Building Code are applicable to such apartments. Student apartments shall not include buildings or portions thereof classified or recorded on a certificate of occupancy or in other records of the Department or other agencies as a dormitory pursuant to Chapter 3 of the 2008 Building Code or Subchapter 3 of Chapter 1 of Title 27 of the 1968 Building Code or as an equivalent classification pursuant to the building code in effect prior to December 6, 1968.
@@ -4966,7 +4979,7 @@ Figure 1 Summary chart of fire safety requirements
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Pre-2008-code buildings (1968, 1938, etc) 
@@ -5000,6 +5013,7 @@ Figure 1 Summary chart of fire safety requirements
       - Requirements of 1 RCNY § 310-01 (d)(1) are applicable
       - Requirements of 1 RCNY § 310-01 (d)(1) are applicable
       - Requirements of 1 RCNY § 310-01 (d)(1) are applicable
+
 ~
 
  
@@ -5012,11 +5026,11 @@ Figure 1 Summary chart of fire safety requirements
 
 
 Chapter 400: Special Detailed Requirements Based On Use and Occupancy [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
+*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]*
 
 
 
@@ -5025,11 +5039,11 @@ Chapter 400: Special Detailed Requirements Based On Use and Occupancy [Repealed]
 
 
 Chapter 900: Fire Protection Systems
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 907-01 One-Way Emergency Voice Communication Systems. [Repealed]* ::
+*§ 907-01 One-Way Emergency Voice Communication Systems. [Repealed]*
 
 
 (a) Scope. Pursuant to sections 908.7.2 and 908.7.3 of the Building Code (BC), listed carbon monoxide (CO) detectors required to be installed in E, I-2 and I-4 occupancies and in buildings equipped with a fire alarm system that contain Group A-1, A-2, A-3, B or M occupancies, as defined in BC Chapter 3, must be installed in accordance with the requirements of this section.
@@ -5144,11 +5158,11 @@ Chapter 900: Fire Protection Systems
 
 
 Chapter 1000: Means of Egress
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1014-01 Masonry Equivalent Exit Enclosures.* ::
+*§ 1014-01 Masonry Equivalent Exit Enclosures.*
 
 
 (a) Scope. This rule provides the construction requirements for masonry equivalent exit enclosures in Groups R-1, R-2 and B occupancies.
@@ -5189,11 +5203,11 @@ Chapter 1000: Means of Egress
 
 
 Chapter 1100: Accessibility
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1101-01 Bathroom and Powder Room Design Prototypes.* ::
+*§ 1101-01 Bathroom and Powder Room Design Prototypes.*
 
 
 (a) Applicable standard with modifications. For alterations in buildings originally occupied:
@@ -5314,7 +5328,7 @@ Figure 8
 
 
 Chapter 3000: Elevators and Conveying Systems
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5323,7 +5337,7 @@ Chapter 3000: Elevators and Conveying Systems
 
 
 
-*§ 3005-01 Scope and application.* ::
+*§ 3005-01 Scope and application.*
 
 
 This subchapter adopts all the national standards set forth in 1 RCNY § 3005-11 and is applicable to all amusement devices including, but not limited to, inflatable amusement devices, portable amusement devices and simulators operated within the City of New York, whether located on a permanent, temporary, or mobile foundation. An amusement device that is not in compliance with this subchapter must not be operated.
@@ -5333,7 +5347,7 @@ This subchapter adopts all the national standards set forth in 1 RCNY § 3005-11
 
 
 
-*§ 3005-02 Definitions.* ::
+*§ 3005-02 Definitions.*
 
 
 For the purposes of this subchapter, the following terms are defined as follows:
@@ -5405,7 +5419,7 @@ Temporary. Lasting for a period of time equal to or less than 14 calendar days f
 
 
 
-*§ 3005-03 Administration.* ::
+*§ 3005-03 Administration.*
 
 
 (a) Filing requirements.
@@ -5543,7 +5557,7 @@ Temporary. Lasting for a period of time equal to or less than 14 calendar days f
 
 
 
-*§ 3005-04 Design guidelines.* ::
+*§ 3005-04 Design guidelines.*
 
 
 (a) General requirements. All new and altered structures used in connection with amusement devices must be designed and constructed in accordance with ASTM F1159, F1193, F2374, F2375, and F2291 and relevant provisions of the Building Code to safely carry all loads to which such structures may normally be subjected.
@@ -5597,7 +5611,7 @@ Temporary. Lasting for a period of time equal to or less than 14 calendar days f
 
 
 
-*§ 3005-05 Assembly and disassembly of amusement devices.* ::
+*§ 3005-05 Assembly and disassembly of amusement devices.*
 
 
 The assembly and disassembly of an amusement device must be performed by or under the direct supervision of the owner or amusement park operator in accordance with the manual.
@@ -5613,7 +5627,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 
 
 
-*§ 3005-06 Information tags.* ::
+*§ 3005-06 Information tags.*
 
 
 (a) Identification. Every amusement device must be identified by the name and address of the manufacturer, a trade or descriptive name of the device, and any Department issued amusement device identification number. Such identification information must be permanently attached to the device and placed in a visible location.
@@ -5637,7 +5651,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 
 
 
-*§ 3005-07 Posted warnings and restrictions.* ::
+*§ 3005-07 Posted warnings and restrictions.*
 
 
 (a) General restrictions. When the operation and use of an amusement device is subject to restrictions imposed by the manufacturer, such restrictions must be clearly posted next to the amusement device. Additional restrictions may also be imposed by the commissioner in order to ensure safe operation of the amusement device.
@@ -5652,9 +5666,10 @@ The assembly and disassembly of an amusement device must be performed by or unde
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - "THE FOLLOWING PEOPLE SHOULD NOT RIDE THIS AMUSEMENT DEVICE:People under the influence of alcohol.People under the influence of drugs or medications that could impair judgment.People with heart conditions.Pregnant women.People with disabilities that may interfere with their safety during the operation of the amusement device.People with motion sickness.People with any physical ailments that could be aggravated by this amusement device."
+
 ~
 
 
@@ -5688,7 +5703,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 
 
 
-*§ 3005-08 General safety and maintenance.* ::
+*§ 3005-08 General safety and maintenance.*
 
 
 (a) Cleanliness. A suitable number of metal containers for trash must be provided in and around amusement devices. Excessive trash or refuse must be promptly removed. All parts of amusement devices, buildings and structures must be maintained in a clean condition, including the underside of amusement devices where the buildup of leaves and trash poses a fire hazard.
@@ -5762,7 +5777,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 
 
 
-*§ 3005-09 Maintenance of amusement devices.* ::
+*§ 3005-09 Maintenance of amusement devices.*
 
 
 (a) Protection of passengers.
@@ -5804,7 +5819,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 
 
 
-*§ 3005-10 Inspections and tests.* ::
+*§ 3005-10 Inspections and tests.*
 
 
 (a) Scope. Every new altered, rebuilt, or modified amusement device, temporary or permanent, must be inspected and tested in accordance with the manufacturer's manuals, manufacturer's bulletins, and the requirements of this subchapter. In the case where such manuals are not available, a registered design professional must prepare the necessary operation, maintenance, inspection, and test manual(s) in accordance with ASTM F853, F770, F2374, and F2376.
@@ -5910,7 +5925,7 @@ Exception. Inflatable rides are not tested. Certificates of competency are issue
 
 
 
-*§ 3005-11 Referenced National Standards.* ::
+*§ 3005-11 Referenced National Standards.*
 
 
 These standards are adopted in full, except to the extent there is a conflict with this subchapter, in which case the provisions of this subchapter will apply.
@@ -5919,7 +5934,7 @@ These standards are adopted in full, except to the extent there is a conflict wi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
@@ -5978,6 +5993,7 @@ These standards are adopted in full, except to the extent there is a conflict wi
     * - F2461
       - Standard Practice for Manufacture, Construction, Operation, and Maintenance of Aquatic Play Equipment.
       - 2009
+
 ~
 
  
@@ -5986,11 +6002,11 @@ These standards are adopted in full, except to the extent there is a conflict wi
 
 
 Chapter 3300: Safeguards During Construction and Demolition
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3301-01 Construction Site Signs.* ::
+*§ 3301-01 Construction Site Signs.*
 
 
 (a) References. See Sections 3307 and 3301.9 of the New York City Building Code (BC).
@@ -6141,7 +6157,7 @@ Figure 3Fence Project Information Panel Layout for Small Lots
 
 
 
-*§ 3301-02 Registration of Construction Superintendents.* ::
+*§ 3301-02 Registration of Construction Superintendents.*
 
 
 Construction superintendents must be registered with the Department, in accordance with the following provisions.
@@ -6189,7 +6205,7 @@ Construction superintendents must be registered with the Department, in accordan
 
 
 
-*§ 3301-03 Worker Safety Information at Construction Sites.* ::
+*§ 3301-03 Worker Safety Information at Construction Sites.*
 
 
 (a) Required signs. Worker safety information signs are required at all construction sites where site safety training is required as set forth in BC Section 3321. Such signs must be posted by the general contractor.
@@ -6231,7 +6247,7 @@ Visit www.nyc.gov/nycsafety or call 311 for more information.”
 
 
 
-*§ 3310-01 Site Safety.* ::
+*§ 3310-01 Site Safety.*
 
 
 (a) Site safety inspections for construction, alteration, or demolition projects. The primary site safety manager or coordinator for a construction, alteration, or demolition project must, at all times such site safety manager or coordinator is required to be present, perform the site safety inspections detailed in Tables 1 through 9, below, at the intervals prescribed in the tables, or ensure such inspections are performed by a site safety manager or coordinator. The requirements of this subdivision do not apply to a project whose scope is limited to facade work.
@@ -6242,7 +6258,7 @@ Table 1General Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6292,6 +6308,7 @@ Table 1General Inspections
     * - (8)
       - Verify that all signs required by section 3301.9 of the building code are installed and contain the required information.
       - Once per sign
+
 ~
 
  
@@ -6302,7 +6319,7 @@ Table 2 Safety Netting Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6325,6 +6342,7 @@ Table 2 Safety Netting Inspections
     * - (6)
       - Verify that vertical safety netting is secured and kept closed at all times, except during actual loading operations or perimeter construction operations.
       - Daily
+
 ~
 
 
@@ -6337,7 +6355,7 @@ Table 3 Maintenance of Site and Adjacent Area Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6357,6 +6375,7 @@ Table 3 Maintenance of Site and Adjacent Area Inspections
     * - (5)
       - When the building is extended, enlarged or increased in height so that any portion of such building, except chimneys or vents, extends higher than the top of any previously constructed chimneys within 100 feet (30.48 m), verify that the chimneys conform to § 801 of the New York City mechanical code.
       - As appropriate
+
 ~
 
 
@@ -6369,7 +6388,7 @@ Table 4 Housekeeping Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement
@@ -6389,6 +6408,7 @@ Table 4 Housekeeping Inspections
     * - (5)
       - Verify that containers are covered and secured when full.
       - Daily
+
 ~
 
 
@@ -6401,7 +6421,7 @@ Table 5 Removal and Storage of Material Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6427,6 +6447,7 @@ Table 5 Removal and Storage of Material Inspections
     * -  
       - (ii)  Where the steel mill and lumber mill are located, verify that any material that overhangs is relocated by the next workday.
       - Daily
+
 ~
 
  
@@ -6437,7 +6458,7 @@ Table 6 Protection of Sidewalks Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6469,6 +6490,7 @@ Table 6 Protection of Sidewalks Inspections
     * - (9)
       - Verify that temporary footbridges and walkways for the public are at least 5 feet (1.524 m) in width.
       - Daily as appropriate
+
 ~
 
  
@@ -6479,7 +6501,7 @@ Table 7 Warning Signs and Lights Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement
@@ -6490,6 +6512,7 @@ Table 7 Warning Signs and Lights Inspections
     * - (2)
       - Verify that steps necessary to protect the public are taken, including provisions for flagmen/flagwomen whenever intermittent operations are conduced on or across areas open to the public or when dangerous operations, such as blasting, may affect such areas.
       - Throughout the day, as appropriate
+
 ~
 
 
@@ -6502,7 +6525,7 @@ Table 8 Scaffolds, Structural Ramps, Runways and Platform Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6510,6 +6533,7 @@ Table 8 Scaffolds, Structural Ramps, Runways and Platform Inspections
     * - (1)
       - Verify that where they pose a risk to the public that all structural ramps, scaffolds, runways and platforms are provided with guardrails, toeboards, screening, or nets, unless otherwise specified by the building code.
       - Daily
+
 ~
 
 
@@ -6522,7 +6546,7 @@ Table 9 Material Handling and Hoisting Equipment Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6563,6 +6587,7 @@ Table 9 Material Handling and Hoisting Equipment Inspections
     * -  
       - (v)  When the sidewalk and/or street is temporarily closed.
       -  
+
 ~
 
  
@@ -6605,7 +6630,7 @@ Table 10 Facade project inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement
@@ -6769,6 +6794,7 @@ Table 10 Facade project inspections
     * - (35)
       - Verify that, at the end of the shift, suspended scaffolds have been lowered to the street, sidewalk shed deck, or building setback, or have been otherwise secured to the roof or the building in accordance with the scaffold plans.
       - Daily, at the end of the shift
+
 ~
 
  
@@ -6942,7 +6968,7 @@ Table 10 Facade project inspections
 
 
 
-*§ 3310-02 Concrete Safety Managers.* ::
+*§ 3310-02 Concrete Safety Managers.*
 
 
 (a) Definitions. For the purposes of this chapter, the following terms shall have the following meanings:
@@ -7072,7 +7098,7 @@ Table 10 Facade project inspections
 
 
 
-*§ 3314-01 Mast-Climbing Work Platforms (Mast Climbers).* ::
+*§ 3314-01 Mast-Climbing Work Platforms (Mast Climbers).*
 
 
 (a) Scope. The design, construction, permitting, installation, removal, maintenance, adjustment, repair, use, operation, and inspection of a mast climber shall conform to the requirements of the mast climber manufacturer, ANSI/SIA A92.9-1993, Section 3314.19 of the New York City Building Code ("Building Code"), and this section. Exception. A mast climber shall be exempt from the requirements of this section where a professional engineer, on behalf of the equipment owner, certifies to the department, supported by plans and calculations, that the installation, removal, and use of the mast climber at the job site meets the following conditions:
@@ -7556,7 +7582,7 @@ Table 10 Facade project inspections
 
 
 
-*§ 3314-02 Suspended Scaffold Training Requirements.* ::
+*§ 3314-02 Suspended Scaffold Training Requirements.*
 
 
 On and after December 31, 2014, all individuals who install, adjust, repair, maintain, use, inspect, or remove a suspended scaffold, or who supervise such work must have completed the training specified in Section BC 3314.4.5 of the New York City Building Code.
@@ -7566,7 +7592,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
 
 
-*§ 3316-01 Rigging operations and rigging equipment* ::
+*§ 3316-01 Rigging operations and rigging equipment*
 
 
 (a) Applicability. This section applies to rigging operations performed in connection with the hoisting or lowering of articles on the outside of a building and all rigging equipment utilized in connection with such operations.
@@ -7665,7 +7691,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
@@ -7685,6 +7711,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
     * - ASME B30.26
       - Rigging hardware
       - 2015
+
 ~
 
 
@@ -7698,7 +7725,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
 
 
-*§ 3319-01 Cranes and Derricks.* ::
+*§ 3319-01 Cranes and Derricks.*
 
 
 (a) Applicability. The design, construction, permitting, installation, removal, adjustment, repair, inspection, maintenance, operation and use of cranes and derricks must conform to the requirements of Section 3319 of the New York City Building Code and this section. This includes, but is not limited to, cranes and derricks used for hoisting and/or rigging purposes; or used for construction, alteration, demolition, excavation and maintenance purposes, including for buildings, highways or sewers; or used for the installation of piles; or used for the hoisting or lowering of any article on the outside of any building or structure. This also includes any equipment that meets the definition of a crane or derrick, including, but not limited to. dedicated pile drivers and manufactured or custom designed hoisting machines.
@@ -9801,7 +9828,7 @@ Table A – Minimum Clear Distances
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Voltage(nominal, kV, alternating current)1
       - Minimum clearance distance(feet)
@@ -9819,6 +9846,7 @@ Table A – Minimum Clear Distances
       - 45
     * - over 1,000
       - (as established by the utility owner/operator or an engineer, licensed and registered to practice the profession of engineering under the education law of the state of New York, who is also a qualified person with respect to electrical power transmission and distribution)
+
 ~
 
  
@@ -9931,7 +9959,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Voltage(nominal, kV, alternating current)1
       - While traveling – minimum clearance distance(feet)
@@ -9947,6 +9975,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
       - 20
     * - over 1,000
       - (as established by the utility owner/operator or an engineer, licensed and registered to practice the profession of engineering under the education law of the state of New York, who is also a qualified person with respect to electrical power transmission and distribution)
+
 ~
 
 
@@ -10073,11 +10102,12 @@ Table T – Minimum Clearance Distances While Traveling with No Load
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
       - Year
+
 ~
 
 
@@ -10086,7 +10116,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - American Society of Civil Engineers (ASCE)
       - 
@@ -10151,6 +10181,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
     * - SAE J1063
       - Cantilevered Boom Crane Structures - Method of Test
       - 1993
+
 ~
 
  
@@ -10164,7 +10195,7 @@ Editor's note: Section 31 of the amending rule  provides: "These amendments shal
 
 
 
-*§ 3319-02 Lift Directors.* ::
+*§ 3319-02 Lift Directors.*
 
 
 (a) Applicability. This rule applies to the designation of a lift director and to the responsibility and authority of any person designated as a lift director.
@@ -10312,7 +10343,7 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
 
 
 
-*§ 3320-01 Cableways* ::
+*§ 3320-01 Cableways*
 
 
 (a) Applicability. Cableways subject to the jurisdiction of the department must conform to the requirements in this section and in ASME B30.19.
@@ -10342,7 +10373,7 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
@@ -10353,6 +10384,7 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
     * - ASME B30.19
       -  Cableways
       -  2011
+
 ~
 
 
@@ -10366,7 +10398,7 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
 
 
 
-*§ 3321-01 Construction Site Safety Training (SST).* ::
+*§ 3321-01 Construction Site Safety Training (SST).*
 
 
 (a) Required training. Permit holders at building sites for which a construction superintendent, site safety manager or site safety coordinator is required must ensure that each worker at the site has completed the site safety training provided by approved course providers pursuant to 1 RCNY § 105-03 and as required by section 3321 of the Building Code.
@@ -10405,11 +10437,11 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
 
 
 Chapter 3500: Referenced Standards
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3500-01 American Concrete Institute (ACI) 318 – Building Code Requirements for Structural Concrete amendment.* ::
+*§ 3500-01 American Concrete Institute (ACI) 318 – Building Code Requirements for Structural Concrete amendment.*
 
 
 Pursuant to Section 28-103.19 of the New York City Administrative Code, ACI 318 as added by Section BC 3502 of the New York City Building Code is hereby deleted and a new ACI 318 is added to read as follows:
@@ -10420,7 +10452,7 @@ Table 1
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - ACI
       - American Concrete Institute38800 Country Club DriveFarmington Hills, MI 48331
@@ -10431,6 +10463,7 @@ Table 1
     * - 318 – 11
       - Building Code Requirements for Structural Concrete
       - 406.5.4, 721.2.4.3, 1604.3.2, Table 1613.8, Table 1704.3, 1704.3.1.3, Table 1704.4, 1704.4.1 Table 1704.32, 1805.5.7.2, 1805.9, Table 1808.2.13, 1808.9.2.1, 1808.9.3, 1808.9.3.1, 1809.6.3.2, 1809.6.3.2.2, 1810.1.2.5.1, 1810.1.2.5.2, 1810.7.4.1, 1810.8.3, 1810.8.4, 1901.2, 1901.3, 1901.4, 1902.1, 1903.1, 1903.2, 1903.3, 1903.4, 1903.5, 1903.5.1, 1903.5.2, 1903.6, 1903.7, 1904.1, 1904.2, 1904.3, 1904.4.1, 1904.5, 1905.1.1, 1905.1.4, 1905.3, 1905.4, 1905.5, 1905.6.5.5, 1905.6.6, 1905.8.3, 1905.11.3, 1906.1, 1906.2, 1906.3, 1906.4, 1907.1, 1907.2, 1907.4.1, 1907.6, 1907.7.2, 1907.7.3, 1907.7.4, 1907.7.5, 1907.7.6, 1907.8, 1907.9, 1907.10, 1907.11, 1907.12, 1907.13, 1908, 1908.1, 1908.1.1, 1908.1.2, 1908.1.3, 1908.1.4, 1908.1.5, 1908.1.6, 1908.1.7, 1908.1.8, 1908.1.9, 1908.1.11, 1908.2, 1908.2.1, 1909.1, 1909.3, 1909.4, 1909.5, 1909.6, 1912.1, 1912.1.1, 1915.2, 1915.3, 1915.4, 1915.6, 1916.2, 1916.3.1, 2108.3, 2205.3, 3305.3.2 
+
 ~
 
 
@@ -10444,7 +10477,7 @@ Table 1
 
 
 
-*§ 3500-02 American National Standards Institute (ANSI) A10.4 – Safety Requirements for Personnel Hoists amendment.* ::
+*§ 3500-02 American National Standards Institute (ANSI) A10.4 – Safety Requirements for Personnel Hoists amendment.*
 
 
 Pursuant to Section 28-103.19 of the New York City Administrative Code, ANSI 10.4 as added by Section BC 3502 of the New York City Building Code is hereby deleted and a new ANSI 10.4 is added to read as follows:
@@ -10455,7 +10488,7 @@ Table 2
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - ANSI
       - American National Standards Institute25 West 43rd Street, Fourth FloorNew York, NY 10036 
@@ -10466,6 +10499,7 @@ Table 2
     * - A10.4 – 07
       - Safety Requirements for Personnel Hoists
       - 3010.3 
+
 ~
 
 
@@ -10476,7 +10510,7 @@ Table 2
 
 
 Chapter 3600: Appendices
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10485,7 +10519,7 @@ Chapter 3600: Appendices
 
 
 
-*§ 3606-01 Alteration Applications; Determinations of Market Value and Substantial Improvement.* ::
+*§ 3606-01 Alteration Applications; Determinations of Market Value and Substantial Improvement.*
 
 
 (a) Scope. This rule provides application submission requirements for alterations to structures located in areas of special flood hazard, provides the method for determining the market value of a structure, and provides the method for determining whether repairs, reconstructions, rehabilitations, additions or improvements constitute a substantial improvement.
@@ -10504,7 +10538,7 @@ Chapter 3600: Appendices
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Market Value of Structure 
@@ -10541,6 +10575,7 @@ Chapter 3600: Appendices
       - × 
       - 8-30% Limitation (Total) - 8-30% Limitation (Land) 8-30% Limitation (Total) 
       - (See Example 3) 
+
 ~
 
 
@@ -10557,13 +10592,14 @@ or, at the option of the owner, or where the assessment roll method would not re
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Market Value of Structure 
       - = 
       - Appraised Market Value (Land and Structure) 
       - = 
       - Appraised Market Value (Land) 
+
 ~
 
 
@@ -10590,7 +10626,7 @@ or, at the option of the owner, or where the assessment roll method would not re
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - DESCRIPTION
       - LAND 
@@ -10610,6 +10646,7 @@ or, at the option of the owner, or where the assessment roll method would not re
     * - TRANS EX AV
       - 0
       - 136,080
+
 ~
 
 
@@ -10624,7 +10661,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Market Value of Structure 
       - = 
@@ -10646,6 +10683,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
       - $514,041 
       - 
       - 
+
 ~
 
 
@@ -10660,7 +10698,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - DESCRIPTION
       - LAND 
@@ -10674,6 +10712,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
     * - ACTUAL EX AV
       - 1,570
       - 1,570
+
 ~
 
 
@@ -10688,7 +10727,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Market Value of Structure 
       - = 
@@ -10710,6 +10749,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
       - $92,481 
       - 
       - 
+
 ~
 
 
@@ -10724,7 +10764,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - DESCRIPTION
       - LAND 
@@ -10738,6 +10778,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
     * - ACTUAL EX AV
       - 0
       - 0
+
 ~
 
 
@@ -10752,7 +10793,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Market Value of Structure 
       - = 
@@ -10774,6 +10815,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
       - $223,302 
       - 
       - 
+
 ~
 
 
@@ -10787,7 +10829,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 
-*§ 3606-02 Letters of map change.* ::
+*§ 3606-02 Letters of map change.*
 
 
 (a) Scope. This section establishes procedures for processing letters of map change, including Letters of Map Amendment and Letters of Map Revision based on Fill.
@@ -10839,7 +10881,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 
-*§ 3606-03 Federal Emergency Management Agency ("FEMA") Letters of Map Revision.* ::
+*§ 3606-03 Federal Emergency Management Agency ("FEMA") Letters of Map Revision.*
 
 
 Pursuant to § 28-103.19 of the Administrative Code, the reference standard FEMA FIRMs 360497, as identified in Section BC G402 of the Building Code, is modified for New York City to read as follows:
@@ -10848,11 +10890,12 @@ Pursuant to § 28-103.19 of the Administrative Code, the reference standard FEMA
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - FEMAFIRMs 360497
       - Flood Insurance Rate Map, Community Number 360497, Panel Numbers 1 through 0457, Revised September 5, 2007;Federal Emergency Management Agency, with the following Letters of Map Revision:Letter of Map Revision effective September 29, 2008, FEMA case # 08-02-0948P, revising FIRM panel 0111 andLetter of Map Revision effective April 18, 2018, FEMA case # 17-02-1503P, revising FIRM panels 0092F, 0094F, 0111F, and 0113F.
       - G102.2, G102.3, G102.3.1, G102.3.2, G103.3, G201.2
+
 ~
 
 
@@ -10866,7 +10909,7 @@ Pursuant to § 28-103.19 of the Administrative Code, the reference standard FEMA
 
 
 
-*§ 3606-04 American Society of Civil Engineers ("ASCE") 24 amendments relating to mandatory freeboard. [Repealed]* ::
+*§ 3606-04 American Society of Civil Engineers ("ASCE") 24 amendments relating to mandatory freeboard. [Repealed]*
 
 
 
@@ -10881,7 +10924,7 @@ Pursuant to § 28-103.19 of the Administrative Code, the reference standard FEMA
 
 
 
-*§ 3610-01 Safety Code for Existing Elevators and Escalators. [Repealed]* ::
+*§ 3610-01 Safety Code for Existing Elevators and Escalators. [Repealed]*
 
 
 
@@ -10891,7 +10934,7 @@ Pursuant to § 28-103.19 of the Administrative Code, the reference standard FEMA
 
 
 
-*§ 3610-02 Safety Code for Machine-room-less Elevators. [Repealed]* ::
+*§ 3610-02 Safety Code for Machine-room-less Elevators. [Repealed]*
 
 
 
@@ -10901,7 +10944,7 @@ Pursuant to § 28-103.19 of the Administrative Code, the reference standard FEMA
 
 
 
-*§ 3610-03 Emergency Operation and Signaling Devices.* ::
+*§ 3610-03 Emergency Operation and Signaling Devices.*
 
 
 Pursuant to Section 28-103.19 of the New York City Administrative Code and Section BC 3008 of the New York City Building Code, Section 2.27 of American Society of Mechanical Engineers A17.1-2000, with supplements A17.1 a-2002 and A17.1 b-2003, as modified by Chapter K1 of Appendix K of the New York City Building Code, is hereby amended to read as follows:
@@ -11049,7 +11092,7 @@ Add new Section 2.27.12 to read as follows:
 
 
 
-*§ 3610-04 Multicompartment elevators.* ::
+*§ 3610-04 Multicompartment elevators.*
 
 
 Pursuant to Section 28-103.19 of the New York City Administrative Code and Section BC 3001.2 of the New York City Building Code, Section 2.27.3.5 of American Society of Mechanical Engineers A17.1-2000, with supplements A17.1a-2002 and A17.1b - 2003, as modified by Chapter K1 of Appendix K of the New York City Building Code, is hereby amended to read as follows:
@@ -11127,7 +11170,7 @@ Add new Sections 2.27.3.5.3 through 2.27.3.5.10 to read as follows:
 
 
 
-*§ 3610-05 Capacity and loading.* ::
+*§ 3610-05 Capacity and loading.*
 
 
 (a) New and altered elevator devices must comply with the requirements of this rule.
@@ -11178,7 +11221,7 @@ Passenger elevators and freight elevators permitted by 2.16.4 to carry passenger
 
 
 
-*§ 3616-01 National Fire Protection Association ("NFPA") 13 Amendment Relating to Elevator Hoistways and Machine Rooms. [Repealed]* ::
+*§ 3616-01 National Fire Protection Association ("NFPA") 13 Amendment Relating to Elevator Hoistways and Machine Rooms. [Repealed]*
 
 
 
@@ -11188,7 +11231,7 @@ Passenger elevators and freight elevators permitted by 2.16.4 to carry passenger
 
 
 
-*§ 3616-02 National Fire Protection Association ("NFPA") 13 Amendment Relating to Closets and Pantries. [Repealed]* ::
+*§ 3616-02 National Fire Protection Association ("NFPA") 13 Amendment Relating to Closets and Pantries. [Repealed]*
 
 
 
@@ -11198,7 +11241,7 @@ Passenger elevators and freight elevators permitted by 2.16.4 to carry passenger
 
 
 
-*§ 3616-03 National Fire Protection Association ("NFPA") 14 Amendment Relating to Hydrostatic Tests. [Repealed]* ::
+*§ 3616-03 National Fire Protection Association ("NFPA") 14 Amendment Relating to Hydrostatic Tests. [Repealed]*
 
 
 
@@ -11208,7 +11251,7 @@ Passenger elevators and freight elevators permitted by 2.16.4 to carry passenger
 
 
 
-*§ 3616-04 National Fire Protection Association ("NFPA") 72 Amendment Relating to the National Fire Alarm and Signaling Code.* ::
+*§ 3616-04 National Fire Protection Association ("NFPA") 72 Amendment Relating to the National Fire Alarm and Signaling Code.*
 
 
 Pursuant to Section 28-103.19 of the New York City Administrative Code, NFPA 72 (2010 edition) is hereby amended as follows:
@@ -11485,7 +11528,7 @@ Delivered Audio Quality (DAQ). A measure of audio quality over a transmission me
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Delivered Audio Quality (DAQ) 
       - Faded Subjective Performance Description
@@ -11503,6 +11546,7 @@ Delivered Audio Quality (DAQ). A measure of audio quality over a transmission me
       - Speech easily understood. Infrequent noise/distortion.
     * - 5
       - Speech easily understood.
+
 ~
 
  
@@ -11573,9 +11617,10 @@ Add 24.5.2.5.5.2 Dedicated Radio Console Enclosure. The DRC shall be enclosed an
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - AUXILIARY RADIO COMMUNICATIONS 
+
 ~
 
 
@@ -11657,7 +11702,7 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 
-*§ 3616-05 National Fire Protection Association ("NFPA") 13R Amendment Relating to Exemption from Fire Department Connection Requirements in One- and Two-family Residential Buildings. [Repealed]* ::
+*§ 3616-05 National Fire Protection Association ("NFPA") 13R Amendment Relating to Exemption from Fire Department Connection Requirements in One- and Two-family Residential Buildings. [Repealed]*
 
 
 
@@ -11666,11 +11711,11 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 Chapter 4000: Electrical Code
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 4000-01 Electrical work review.* ::
+*§ 4000-01 Electrical work review.*
 
 
 (a) Electrical review. Electrical review is required in the following circumstances:
@@ -11792,7 +11837,7 @@ Chapter 4000: Electrical Code
 
 
 
-*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
+*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]*
 
 
 
@@ -11801,7 +11846,7 @@ Chapter 4000: Electrical Code
 
 
 Chapter 6000: Fuel Gas Code [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11810,7 +11855,7 @@ Chapter 6000: Fuel Gas Code [Repealed]
 
 
 
-*§ 6008-01 American Society of Mechanical Engineers ("ASME"), Boiler &amp; Pressure Vessel Code Edition Amendment. [Repealed]* ::
+*§ 6008-01 American Society of Mechanical Engineers ("ASME"), Boiler &amp; Pressure Vessel Code Edition Amendment. [Repealed]*
 
 
 
@@ -11819,11 +11864,11 @@ Chapter 6000: Fuel Gas Code [Repealed]
 
 
 Chapter 7000: Mechanical Code [Repealed]
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 7000-01 National Fire Protection Association, Flammable Combustible Code Edition Amendment. [Repealed]* ::
+*§ 7000-01 National Fire Protection Association, Flammable Combustible Code Edition Amendment. [Repealed]*
 
 
 
@@ -11832,11 +11877,11 @@ Chapter 7000: Mechanical Code [Repealed]
 
 
 Chapter 8000: New York City Plumbing Code
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 8000-01 Building Water Conservation Reports, Plans and Waterless Urinals.* ::
+*§ 8000-01 Building Water Conservation Reports, Plans and Waterless Urinals.*
 
 
 (a) Scope. This rule sets forth the criteria for the approval of building water conservation plans in accordance with Section PC C102.1 of Appendix C of the New York City Plumbing Code ("Plumbing Code"), which permits the use of waterless urinals only as part of an approved building water conservation plan.
@@ -11886,7 +11931,7 @@ Chapter 8000: New York City Plumbing Code
 
 
 
-*§ 8001-01 Individual Private On-Site Sewage Disposal Systems.* ::
+*§ 8001-01 Individual Private On-Site Sewage Disposal Systems.*
 
 
 (a) Applicability and scope. This rule governs the construction and installation of new individual private on-site sewage disposal systems and alteration and maintenance of existing individual private on-site sewage disposal systems. This rule applies to on-site wastewater treatment systems serving residential (one- and two-family) and non-residential (other than one- and two-family) properties receiving less than 1,000 gallons of sewage per day which does not include industrial wastes or other wastes as defined in the Code of Federal Regulations, the Clean Water Act, the Safe Drinking Water Act, the Insecticide, Fungicide and Rodenticide Act, the Toxic Substances Control Act, the New York State Environmental Conservation Law and the New York Code of Rules and Regulations.
@@ -12027,7 +12072,7 @@ Table 1Minimum Distances Between Sewage System Components and Between Components
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Building Foundation Wall
@@ -12069,6 +12114,7 @@ Table 1Minimum Distances Between Sewage System Components and Between Components
       - –
       - –
       - –
+
 ~
 
 
@@ -12164,7 +12210,7 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Percolation Rate(min/inch)
       - Daily Flow Rate (Q) (GPD) a,b
@@ -12338,6 +12384,7 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 2,255
     * - Over 60
       - Unsuitable
+
 ~
 
 
@@ -12431,7 +12478,7 @@ Table 3Minimum Septic Tank Capacities for One- and Two-Family Homes
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of Bedrooms
       - Minimum Tank Capacity (gallons)
@@ -12448,6 +12495,7 @@ Table 3Minimum Septic Tank Capacities for One- and Two-Family Homes
     * - 6
       - 1,750
       - 47
+
 ~
 
 
@@ -12602,7 +12650,7 @@ Table 4Cylindrical Seepage Pits – Required Absorptive Area (Sq Ft)
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Diameter of Seepage Pit (feet)
       - Effective Strata Depth Below Frost Line (below inlet)
@@ -12736,6 +12784,7 @@ Table 4Cylindrical Seepage Pits – Required Absorptive Area (Sq Ft)
       - 302
       - 339
       - 377
+
 ~
 
  
@@ -12783,7 +12832,7 @@ Table 5Specification for Sand and Aggregate
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Specification for Concrete Sand Used in the Sand Collar around the Seepage Pit and in the Sand Columns (ASTM C-33)
       - 
@@ -12823,6 +12872,7 @@ Table 5Specification for Sand and Aggregate
       - 3/4 inch
     * - less than 100
       - 1/2 inch
+
 ~
 
  
@@ -12900,7 +12950,7 @@ Table 6Sand Filter Field Design Flow
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Sewage Application (GPD/SF)
       - Daily Flow Rate (Q) (GPD) a,b
@@ -12970,6 +13020,7 @@ Table 6Sand Filter Field Design Flow
       - 780
       - 900
       - 1,015
+
 ~
 
 
@@ -13073,7 +13124,7 @@ Table 7Special Inspection
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY
       - TOPIC
@@ -13090,6 +13141,7 @@ Table 7Special Inspection
     * - Maintenance and operation
       - Dye tests or other diagnostic measures to verify the condition of the system
       - 1 RCNY § 8001-01(k)(6)
+
 ~
 
 
@@ -13103,7 +13155,7 @@ Table 7Special Inspection
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
@@ -13126,6 +13178,7 @@ Table 7Special Inspection
     * - 70
       - Standard for septic tanks, bituminous coated metal
       - 2001
+
 ~
 
 
@@ -13138,11 +13191,11 @@ Table 7Special Inspection
 
 
 Chapter 9000: Zoning
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 9000-01 Adult Establishments.* ::
+*§ 9000-01 Adult Establishments.*
 
 
 Dates of establishment and discontinuance of adult establishments, houses of worship, and schools for the purposes of §§ 32-01 and 42-01 of the zoning resolution. In determining whether an adult establishment may lawfully be established at a location pursuant to §§ 32-01 and 42-01 of the zoning resolution, the department will use the following criteria to determine the dates of establishment and discontinuance for adult establishments, houses of worship and schools located or proposed to be located within 500 feet of each other.

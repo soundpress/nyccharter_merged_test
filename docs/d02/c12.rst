@@ -1,12 +1,12 @@
 Title 22: Banking Commission
-===================================================
+======================================================================================================
 
 Chapter 1: Designation of Depository Banks
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Short Title.* ::
+*§ 1-01 Short Title.*
 
 
 These rules and regulations shall be known and may be cited as "Requirements for Designation".
@@ -16,7 +16,7 @@ These rules and regulations shall be known and may be cited as "Requirements for
 
 
 
-*§ 1-02 Definitions.* ::
+*§ 1-02 Definitions.*
 
 
 The following definitions are solely for the purposes of these rules:
@@ -52,7 +52,7 @@ Lower income neighborhood or area. "Lower income neighborhood or area" shall mea
 
 
 
-*§ 1-03 Designation Requirements.* ::
+*§ 1-03 Designation Requirements.*
 
 
 (a) Banking Commission procedures. Every bank in which City moneys shall be deposited shall be designated by the Banking Commission by majority vote, by written notice to the Commissioner of Finance.
@@ -198,7 +198,7 @@ Lower income neighborhood or area. "Lower income neighborhood or area" shall mea
 
 
 
-*§ 1-04 Revocation and Consequences of Nondesignation.* ::
+*§ 1-04 Revocation and Consequences of Nondesignation.*
 
 
 (a) Except as provided for under the necessity exception, the Banking Commission shall not designate any bank if it determines in writing, by majority vote, that such bank has not complied with any designation requirement contained herein.
@@ -216,7 +216,7 @@ Lower income neighborhood or area. "Lower income neighborhood or area" shall mea
 
 
 
-*§ 1-05 Severability.* ::
+*§ 1-05 Severability.*
 
 
 If any provision of these rules and regulations or the application thereof to any person, entity, bank or circumstance is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the other provisions of these rules and regulations or the application thereof to other persons, entities, banks or circumstances.

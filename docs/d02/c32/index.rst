@@ -1,12 +1,12 @@
 Title 49: Department of Records and Information Services
-===================================================
+======================================================================================================
 
 Chapter 1: Disposal of Records By City Agencies
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Scope.* ::
+*§ 1-01 Scope.*
 
 
 These Rules and Regulations shall govern the procedure by which agency records no longer necessary for the conduct of business or for purposes of audit or litigation may be disposed of. No records shall be disposed of unless permission has been obtained from the Department and the corporation counsel in accordance with the provisions of these Rules and Regulations.
@@ -16,7 +16,7 @@ These Rules and Regulations shall govern the procedure by which agency records n
 
 
 
-*§ 1-02 Definitions.* ::
+*§ 1-02 Definitions.*
 
 
 As used in these Rules and Regulations the following terms shall have the following meanings:
@@ -44,7 +44,7 @@ Records disposal schedule. "Records disposal schedule" means any list of records
 
 
 
-*§ 1-03 Interim Records Disposal Schedules.* ::
+*§ 1-03 Interim Records Disposal Schedules.*
 
 
 Pending the establishment of records disposal schedules pursuant to 49 RCNY § 1-04, all directions for the destruction of records issued by the Board of Estimate in the period of January 1, 1976 through December 31, 1978 which have been filed with the Department shall be deemed to constitute interim records disposal schedules unless the status of the records has changed. Agencies which presently maintain records of a type destroyed pursuant to such directions may request permission to dispose of any such records which have since become eligible for disposal. Eligibility for disposal shall be determined by reference to the schedules used by the Board of Estimate in issuing such directions. Requests to dispose of records pursuant to an interim disposal schedule will be made pursuant to 49 RCNY § 1-05.
@@ -54,7 +54,7 @@ Pending the establishment of records disposal schedules pursuant to 49 RCNY § 1
 
 
 
-*§ 1-04 Procedure for Making Requests to Establish a Records Disposal Schedule.* ::
+*§ 1-04 Procedure for Making Requests to Establish a Records Disposal Schedule.*
 
 
 (a) Agency requests for the establishment of a records disposal schedule shall be made to the Department on such forms as may be prescribed by the Department.
@@ -70,7 +70,7 @@ Pending the establishment of records disposal schedules pursuant to 49 RCNY § 1
 
 
 
-*§ 1-05 Procedure for Annual Records Disposal.* ::
+*§ 1-05 Procedure for Annual Records Disposal.*
 
 
 Following promulgation of an approved records disposal schedule pursuant to 49 RCNY § 1-04, the agency will certify to the validity and currency of their schedule annually on forms provided by the Department on a date agreed upon by each city agency and the Department. The agency will also indicate the intention to destroy scheduled records 90 days after issuance of such certification and include a listing of those records, if any, which are to be held beyond the specified periods. The certification will list those retained records by title and date and state the reason for retention.
@@ -80,7 +80,7 @@ Following promulgation of an approved records disposal schedule pursuant to 49 R
 
 
 
-*§ 1-06 Responses to Annual Certification.* ::
+*§ 1-06 Responses to Annual Certification.*
 
 
 (a) The Department and the corporation counsel will review the certification to ensure that it is valid. The Department or corporation counsel may disapprove the destruction of any other record on the schedule, but must indicate the title and date of such records and state the reason for retention.
@@ -98,7 +98,7 @@ Following promulgation of an approved records disposal schedule pursuant to 49 R
 
 
 
-*§ 1-07 Historical Records.* ::
+*§ 1-07 Historical Records.*
 
 
 No request for disposal of records shall be granted if in the judgment of the Department such records should be retained for historical or research purposes. Upon request of the Department an agency in possession of records which are no longer necessary for the conduct of business or for purposes of audit or litigation and which are deemed to be of historical or research value shall transfer such records to the municipal archives for permanent custody.
@@ -107,11 +107,11 @@ No request for disposal of records shall be granted if in the judgment of the De
 
 
 Chapter 2: Municipal Archives Research Service and Copy Fee Schedule
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Vital Records.* ::
+*§ 2-01 Vital Records.*
 
 
 Additional charges for oversize, cropping, or other services and products.
@@ -120,11 +120,11 @@ Additional charges for oversize, cropping, or other services and products.
 
 
 Chapter 3: Municipal Archives Guidelines Regarding Access To Archival Material
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Municipal Archives Regulations Governing Use of Archival Material.* ::
+*§ 3-01 Municipal Archives Regulations Governing Use of Archival Material.*
 
 
 The New York City Municipal Archives, a division of the Department of Records and Information Services, is open to all qualified persons subject to the following regulations:
@@ -184,7 +184,7 @@ D. Citation.
 
 
 
-*§ 3-02 Municipal Archives Guidelines for Archival Use of Board of Education "Anti-Communist" Case Files.* ::
+*§ 3-02 Municipal Archives Guidelines for Archival Use of Board of Education "Anti-Communist" Case Files.*
 
 
 A. The Municipal Archives preserves and makes available for research historical records of the New York City Board of Education ("the Board"). This collection includes several records series (nos. 590, 591, 593, 594, 595, 596 and 597) that pertain to the "anti-Communist" activities of the Board from the 1930s through the 1960s. They contain personal and confidential information relating to teachers and other school personnel investigated and/or questioned by the Board for alleged support of or association with the Communist Party. The individuals who are the subject of these files have a privacy right regarding information of a personal nature contained in them; this includes a privacy right regarding the fact that the subject case file exists.
@@ -206,7 +206,7 @@ B. The regulations governing public access to all archival material are set fort
 
 
 
-*§ 3-03 Municipal Archives Guidelines for Archival Use of District Attorney Records.* ::
+*§ 3-03 Municipal Archives Guidelines for Archival Use of District Attorney Records.*
 
 
 A. The Municipal Archives preserves and makes available for research the closed case files of the New York County District Attorney ("DANY"). The case files date back to 1896, and constitute one of the most important series in the Archives' extensive collection of records pertaining to the administration of criminal justice. In accordance with the duly promulgated record retention schedule for this series, the closed case files are transferred to the Municipal Archives for permanent preservation twenty-five years after the date (year) of indictment.

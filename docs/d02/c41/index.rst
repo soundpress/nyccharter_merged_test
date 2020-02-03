@@ -1,12 +1,12 @@
 Title 60: Civil Service Commission
-===================================================
+======================================================================================================
 
 Chapter 1: Adjudications of the New York City Civil Service Commission
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Adjudication of Fitness and Discipline of Commission Employees.* ::
+*§ 1-01 Adjudication of Fitness and Discipline of Commission Employees.*
 
 
 New York City Civil Service Commission adjudications regarding the fitness and discipline of Commission employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Commission.
@@ -15,11 +15,11 @@ New York City Civil Service Commission adjudications regarding the fitness and d
 
 
 Chapter 2: Determinations of the New York City Civil Service Commission
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Appeals from Disciplinary Determinations.* ::
+*§ 2-01 Appeals from Disciplinary Determinations.*
 
 
 (a) Any person entitled under § 76 of the Civil Service Law to take an appeal from a finding of guilt and/or a penalty of punishment in a disciplinary proceeding conducted pursuant to § 75 of the Civil Service Law, shall duly make such appeal by sending by ordinary, registered or certified mail or by delivering personally, a written notice of appeal to the Commission and by sending a copy thereof by the same means to appellant's employer agency. All notices of appeal shall be mailed or delivered within twenty (20) days after the date of service of a written notice of the determination to be reviewed. Such additional time in which to appeal as provided in CSL Sec. 76 shall be allowed where service of the determinations was by mail. The agency head concerned (or his/her designee) shall transmit to the Commission within ninety (90) days after receipt of the notice of appeal the entire record of the disciplinary proceeding including the written transcript of the hearing. Proof of service of the notice of determination to be reviewed shall be submitted where the agency moves to dismiss the notice of appeal as untimely. Motions for dismissal on jurisdictional grounds may be made prior to submission of the record below.
@@ -45,7 +45,7 @@ Chapter 2: Determinations of the New York City Civil Service Commission
 
 
 
-*§ 2-02 Appeals from Determinations of the City Personnel Director.* ::
+*§ 2-02 Appeals from Determinations of the City Personnel Director.*
 
 
 (a) An appeal to the Commission by any person aggrieved by an action or determination by the City Personnel Director or his or her designee on accordance with his or her powers as specified in 60 RCNY § 2-02(b) herein, shall be made by application in writing to the Commission within thirty (30) days of the date of the action or determination appealed from. Such action or determination shall be deemed to be effective upon notice to the appellant. If notice of the action or determination is by mail, there shall be a rebuttable presumption that notice occurred as of five calendar days after the date of the mailing of the action or determination.

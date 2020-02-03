@@ -1,12 +1,12 @@
 Title 21: Tax Commission
-===================================================
+======================================================================================================
 
 Chapter 1: General
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Scope.* ::
+*§ 1-01 Scope.*
 
 
 This title shall govern the disposition of all applications to the Tax Commission for correction of tentative real property tax assessments.
@@ -16,7 +16,7 @@ This title shall govern the disposition of all applications to the Tax Commissio
 
 
 
-*§ 1-02 Intent.* ::
+*§ 1-02 Intent.*
 
 
 This title is intended to provide the public with a system of administrative review of applications protesting tentative real property tax assessments.
@@ -26,7 +26,7 @@ This title is intended to provide the public with a system of administrative rev
 
 
 
-*§ 1-03 Definitions.* ::
+*§ 1-03 Definitions.*
 
 
 Unless the context requires otherwise, the definitions contained in this rule apply.
@@ -75,11 +75,11 @@ Tax Commission's Office. "Tax Commission's Office" means the Tax Commission's ma
 
 
 Chapter 2: Representation
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 General.* ::
+*§ 2-01 General.*
 
 
 (a)  An applicant may be self-represented or may be represented by a representative. Any individual or firm authorized by an applicant may act as his or her representative unless that individual has been suspended from practice before the Tax Commission.
@@ -103,7 +103,7 @@ Chapter 2: Representation
 
 
 
-*§ 2-02 Standards of Conduct and Integrity for Representatives and Self-Represented Applicants.* ::
+*§ 2-02 Standards of Conduct and Integrity for Representatives and Self-Represented Applicants.*
 
 
 (a)  Representatives and self-represented applicants shall observe in good faith the law governing the administrative review of assessments, this title, and forms and instructions.
@@ -171,7 +171,7 @@ Chapter 2: Representation
 
 
 
-*§ 2-03 Administrative Procedures for Group Representatives.* ::
+*§ 2-03 Administrative Procedures for Group Representatives.*
 
 
 (a)  Group representatives shall provide to the Tax Commission in writing: (1) their firm name; (2) the name(s) of the individual(s) within the firm who are responsible for the firm's appearances at the Tax Commission; and (3) the business mailing address, telephone number, fax number, and email address for the firm and for such individual(s). Group representatives shall provide timely written notice of any change of such information.
@@ -187,7 +187,7 @@ Chapter 2: Representation
 
 
 
-*§ 2-04 Application Filing Procedures for Group Representatives.* ::
+*§ 2-04 Application Filing Procedures for Group Representatives.*
 
 
 (a)  Group representatives shall file applications in person at the Tax Commission's Office in accordance with this section.
@@ -245,7 +245,7 @@ Chapter 2: Representation
 
 
 
-*§ 2-05 Electronic Notice of Filing by Group Representatives Who File Fifty or More Applications in One Calendar Year; Application Data.* ::
+*§ 2-05 Electronic Notice of Filing by Group Representatives Who File Fifty or More Applications in One Calendar Year; Application Data.*
 
 
 (a)  For the purposes of this section, "group representative" means a group representative, as defined in 21 RCNY § 1-03, who files fifty or more applications in a calendar year.
@@ -272,11 +272,11 @@ Chapter 2: Representation
 
 
 Chapter 3: Application
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Forms.* ::
+*§ 3-01 Forms.*
 
 
 (a)  The Tax Commission shall prescribe forms for applications, supplemental applications, income and expense schedules, amendment of applications, supplements to applications, certifications by accountants, and submission of supplemental information.
@@ -296,7 +296,7 @@ Chapter 3: Application
 
 
 
-*§ 3-02 Jurisdictional Requirements for Applications.* ::
+*§ 3-02 Jurisdictional Requirements for Applications.*
 
 
 (a)  Jurisdiction.
@@ -424,7 +424,7 @@ Chapter 3: Application
 
 
 
-*§ 3-03 Procedural Requirements to Obtain Review of Applications.* ::
+*§ 3-03 Procedural Requirements to Obtain Review of Applications.*
 
 
 (a)  An applicant shall use forms prescribed for the current year when applying to the Tax Commission for review of a tentative assessment.
@@ -470,7 +470,7 @@ Chapter 3: Application
 
 
 
-*§ 3-04 Substantive and Procedural Requirements for Income and Expense Schedules.* ::
+*§ 3-04 Substantive and Procedural Requirements for Income and Expense Schedules.*
 
 
 (a)  An applicant shall report all income received or accrued and all expenses paid or incurred in the operation of the property in the reporting period specified in Charter § 163 or § 164-a.
@@ -495,11 +495,11 @@ Chapter 3: Application
 
 
 Chapter 4: Review and Determination
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Determinations.* ::
+*§ 4-01 Determinations.*
 
 
 (a)  A claim or claims in an application may be determined with one or more of the following four outcomes:
@@ -523,7 +523,7 @@ Chapter 4: Review and Determination
 
 
 
-*§ 4-02 Mandatory Denial of Review.* ::
+*§ 4-02 Mandatory Denial of Review.*
 
 
 The Tax Commission shall deny review of an application on any of the following grounds:
@@ -551,7 +551,7 @@ The Tax Commission shall deny review of an application on any of the following g
 
 
 
-*§ 4-03 Permissive Denial or Discontinuance of Review for Uncured Procedural Defects.* ::
+*§ 4-03 Permissive Denial or Discontinuance of Review for Uncured Procedural Defects.*
 
 
 The Tax Commission may deny or discontinue review of an application on any of the following grounds:
@@ -595,7 +595,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-04 Notice of Appearance.* ::
+*§ 4-04 Notice of Appearance.*
 
 
 (a)  Representatives and self-represented applicants appearing at a hearing shall file with the hearing officer a notice of appearance form.
@@ -607,7 +607,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-05 Litigation Status.* ::
+*§ 4-05 Litigation Status.*
 
 
 (a)  Representatives and self-represented applicants shall file a certificate of litigation status according to published instructions in the form prescribed for such purpose.
@@ -621,7 +621,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-06 Amended Applications for Procedural Changes.* ::
+*§ 4-06 Amended Applications for Procedural Changes.*
 
 
 (a)  To withdraw a hearing request, to withdraw an application or claim in an application, or to raise the market value claimed in an application, representatives and self-represented applicants shall file the form prescribed for such purpose.
@@ -635,7 +635,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-07 Group Representatives' Response to Reports on Initial Application Status.* ::
+*§ 4-07 Group Representatives' Response to Reports on Initial Application Status.*
 
 
 (a)  Group representatives shall examine Tax Commission reports of the initial status of applications and shall respond timely to notify the Tax Commission of omissions and other errors.
@@ -649,7 +649,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-08 Consolidated Review of Related Lots.* ::
+*§ 4-08 Consolidated Review of Related Lots.*
 
 
 (a)  Representatives and self-represented applicants shall notify the Tax Commission on the prescribed form if two or more tax lots are contiguous or near one another on the same or adjacent blocks, under common ownership or control, and operated as an economic unit or are otherwise related for purposes of valuation for taxation so as to make consolidated review of the assessments appropriate.
@@ -663,7 +663,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-09 Scheduling Review of Applications; Rescheduling; Default.* ::
+*§ 4-09 Scheduling Review of Applications; Rescheduling; Default.*
 
 
 (a)  The Tax Commission shall review all applications that are eligible for review within one year of their filing, unless there is deferral of review.
@@ -769,7 +769,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-10 Burden of Proof on Market Value and Other Facts.* ::
+*§ 4-10 Burden of Proof on Market Value and Other Facts.*
 
 
 (a)  An assessment is presumed correct.
@@ -801,7 +801,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-11 Proving Market Value.* ::
+*§ 4-11 Proving Market Value.*
 
 
 (a)  Sale of the subject property.
@@ -899,7 +899,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-12 Offer and Acceptance.* ::
+*§ 4-12 Offer and Acceptance.*
 
 
 (a)  An offer to correct an assessment requires that an error in assessment either be established by the applicant by a preponderance of the evidence or be admitted by the Department of Finance.
@@ -933,7 +933,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-13 Reconsideration for Manifest and Substantial Error.* ::
+*§ 4-13 Reconsideration for Manifest and Substantial Error.*
 
 
 (a)  Representatives and self-represented applicants may request reconsideration of the merits of a determination upon a showing of manifest and substantial error.
@@ -947,7 +947,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 
-*§ 4-14 Access to Hearings and Records.* ::
+*§ 4-14 Access to Hearings and Records.*
 
 
 (a)  Except as otherwise provided herein, hearings shall be open to the public.
@@ -966,11 +966,11 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
 
 Chapter 5: Fee For Applications To Correct Assessments
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 5-01 [Fee Authorized.]* ::
+*§ 5-01 [Fee Authorized.]*
 
 
 The Tax Commission shall charge and collect the fee set forth in this chapter.
@@ -980,7 +980,7 @@ The Tax Commission shall charge and collect the fee set forth in this chapter.
 
 
 
-*§ 5-02 Fee.* ::
+*§ 5-02 Fee.*
 
 
 For purposes of this chapter "Fee" shall mean the amount charged to an applicant for reviewing applications as provided in this chapter.
@@ -990,7 +990,7 @@ For purposes of this chapter "Fee" shall mean the amount charged to an applicant
 
 
 
-*§ 5-03 Imposition of Fee.* ::
+*§ 5-03 Imposition of Fee.*
 
 
 (a) The Fee shall be imposed on applications for properties having an assessed value of $2 million or more when the application is scheduled for review. An application shall be deemed to be "scheduled for review":
@@ -1006,7 +1006,7 @@ For purposes of this chapter "Fee" shall mean the amount charged to an applicant
 
 
 
-*§ 5-04 Amount of Fee.* ::
+*§ 5-04 Amount of Fee.*
 
 
 The amount of the Fee shall be one hundred seventy-five dollars.
@@ -1016,7 +1016,7 @@ The amount of the Fee shall be one hundred seventy-five dollars.
 
 
 
-*§ 5-05 Exemption.* ::
+*§ 5-05 Exemption.*
 
 
 An application for which review has been waived prior to being scheduled for review shall be exempt from the Fee.
@@ -1026,7 +1026,7 @@ An application for which review has been waived prior to being scheduled for rev
 
 
 
-*§ 5-06 Payment and Collection of Fee.* ::
+*§ 5-06 Payment and Collection of Fee.*
 
 
 Unless the Tax Commission provides otherwise, the Fee shall be included on a Statement of Account or real property tax bill issued after the application has been scheduled for review. The Department of Finance shall administer the billing and collection of the Fee on behalf of the Tax Commission.
@@ -1036,7 +1036,7 @@ Unless the Tax Commission provides otherwise, the Fee shall be included on a Sta
 
 
 
-*§ 5-07 Non-Payment of Fee.* ::
+*§ 5-07 Non-Payment of Fee.*
 
 
 Notwithstanding any other provision of these rules to the contrary, if any Fee remains outstanding, the Tax Commission may revoke an offer and restore the matter to its prior status, or decline to schedule an application for review.

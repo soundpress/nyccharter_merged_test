@@ -1,8 +1,8 @@
 Title 17: Business Integrity Commission
-===================================================
+======================================================================================================
 
 Chapter 1: Trade Waste
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11,7 +11,7 @@ Chapter 1: Trade Waste
 
 
 
-*§ 1-01 Definitions.* ::
+*§ 1-01 Definitions.*
 
 
 For the purposes of this chapter, the following terms have the following meanings:
@@ -69,7 +69,7 @@ Trade waste broker. The term "trade waste broker" means a person or entity who f
 
 
 
-*§ 1-02 Notice.* ::
+*§ 1-02 Notice.*
 
 
 Unless otherwise provided, all notice, pursuant to this chapter, including but not limited to notice related to hearings, violations, summonses, and subpoenae, may be served by first class mail addressed to the business address. All such notice served on an employee or agent may be served by first class mail. Such notice may also be served by personal service or in any other manner reasonably calculated to achieve actual notice, including but not limited to any method authorized in the Civil Practice Law and Rules.
@@ -81,7 +81,7 @@ Unless otherwise provided, all notice, pursuant to this chapter, including but n
 
 
 
-*§ 1-03 Hearings.* ::
+*§ 1-03 Hearings.*
 
 
 (a) A hearing conducted pursuant to this chapter may be conducted by the Commission or, in the discretion of the Commission, by an administrative law judge employed or designated by the Commission, by the Office of Administrative Trials and Hearings (OATH) or by other administrative tribunal of competent jurisdiction. All such hearings shall be conducted following the procedures set forth in the rules of OATH (48 RCNY §§ 1-01 et seq.). If a hearing is conducted by an administrative law judge employed or designated by the Commission, by OATH, or by other administrative tribunal, such administrative law judge shall make recommended findings of fact and a recommended decision to the Commission, which shall make the final determination.
@@ -95,7 +95,7 @@ Unless otherwise provided, all notice, pursuant to this chapter, including but n
 
 
 
-*§ 1-04 Penalties.* ::
+*§ 1-04 Penalties.*
 
 
 In addition to any other penalty provided by law:
@@ -125,7 +125,7 @@ In addition to any other penalty provided by law:
 
 
 
-*§ 1-05 Liability for Violations.* ::
+*§ 1-05 Liability for Violations.*
 
 
 A business required to be licensed or registered pursuant to section 16-505 of the Code shall be liable for violations of any of the provisions of chapter 1 of Title 16-A of the Code or 17 RCNY § 2-05 or 2-06 or any provisions of subchapters D, E, F or G of this chapter committed by any of its employees or agents.
@@ -135,7 +135,7 @@ A business required to be licensed or registered pursuant to section 16-505 of t
 
 
 
-*§ 1-06 Supplemental Disclosure.* ::
+*§ 1-06 Supplemental Disclosure.*
 
 
 (a) In addition to the items set forth in clauses (a) through (m) of Paragraph (ii) of Subdivision b of Section 16-508 of the Code, disclosure by the applicant must include the following:
@@ -167,7 +167,7 @@ A business required to be licensed or registered pursuant to section 16-505 of t
 
 
 
-*§ 1-07 Enforcement and Compliance.* ::
+*§ 1-07 Enforcement and Compliance.*
 
 
 The Commission may conduct lawful inspections to ensure compliance with this chapter. Such inspections may include, but need not be limited to, the inspection and audit of records required to be kept pursuant to this chapter, as well as accompanying a licensee on its collection routes and a licensee or registrant to transfer stations, recycling facilities, organic waste processing facilities, dumps and when transferring waste to other vehicles, in order to determine compliance with the provisions of this chapter and Chapter 1 of Title 16-A of the Code. A licensee shall, upon request by the Commission, provide the Commission with a list of its collection routes and schedules.
@@ -179,7 +179,7 @@ The Commission may conduct lawful inspections to ensure compliance with this cha
 
 
 
-*§ 1-08 Investigation of Customer Complaints.* ::
+*§ 1-08 Investigation of Customer Complaints.*
 
 
 (a)  In addition to any other investigations, the Commission may conduct an investigation into any complaint by a commercial establishment alleging violations of the provisions of Chapter 1 of Title 16-A of the Code or any provision of this chapter. The Commission may, in the course of such investigation, issue subpoenas, take depositions under oath, conduct hearings and use such other means as the Commission determines will assist such investigation, including but not limited to interviews with the complainant and other persons who may have knowledge of the facts involved in the complaint and assisting a customer in verifying the measurement of such customer's waste. The Commission may direct that a licensee conduct a waste stream survey in connection with its investigation.
@@ -193,7 +193,7 @@ The Commission may conduct lawful inspections to ensure compliance with this cha
 
 
 
-*§ 1-09 General Prohibitions.* ::
+*§ 1-09 General Prohibitions.*
 
 
 In addition to any other prohibition contained in Chapter 1 of Title 16-A of the Code or this chapter, an applicant, a licensee, a registrant, a principal of a licensee or a registrant, or an employee required to make disclosure, pursuant to Section 16-510 of the Code as listed in Appendix A of Subchapter C of this chapter must not:
@@ -255,7 +255,7 @@ In addition to any other prohibition contained in Chapter 1 of Title 16-A of the
 
 
 
-*§ 1-10 Forms Prescribed or Provided by the Commission.* ::
+*§ 1-10 Forms Prescribed or Provided by the Commission.*
 
 
 Wherever any provision of this chapter requires that any document be employed, maintained, submitted, or filed by a business required to be licensed or registered, pursuant to this chapter, or that a form may be reviewed or approved by the Commission, the Commission may, in its discretion, prescribe the form of such document or provide an acceptable form.
@@ -267,7 +267,7 @@ Wherever any provision of this chapter requires that any document be employed, m
 
 
 
-*§ 1-11 Commission Approval not to be Implied.* ::
+*§ 1-11 Commission Approval not to be Implied.*
 
 
 Whenever any document is to be filed, submitted, or provided to the Commission pursuant to a provision of this chapter, or is otherwise provided to the Commission, the document shall not be deemed acceptable to the Commission or approved by the Commission unless the Commission or Chair expressly sets forth such approval in writing. Failure of the Commission to disapprove or object to any action that a licensee or registrant proposes to take shall not be deemed an approval of such action by the Commission.
@@ -277,7 +277,7 @@ Whenever any document is to be filed, submitted, or provided to the Commission p
 
 
 
-*§ 1-12 Disclosure of Certain Adverse Determinations by Governmental Agencies or Authorities.* ::
+*§ 1-12 Disclosure of Certain Adverse Determinations by Governmental Agencies or Authorities.*
 
 
 Whenever a licensee or registrant or an applicant for a license or registration is required by the Administrative Code or this Chapter to disclose, provide notification of or maintain any determination by any Federal, State, or Local governmental agency or authority against such licensee, registrant or applicant, or principal, employee or agent of such licensee, registrant or applicant, including but not limited to any judgment, decree, order, finding by or settlement agreement with such governmental agency or authority, such judgment, decree, order, finding or settlement must be disclosed if:
@@ -295,7 +295,7 @@ Whenever a licensee or registrant or an applicant for a license or registration 
 
 
 
-*§ 1-13 Severability.* ::
+*§ 1-13 Severability.*
 
 
 The provisions of this chapter shall be severable and if any phrase, clause, sentence, paragraph, subdivision or section of this chapter, or the applicability thereof to any person or circumstance, shall be held invalid by any court of competent jurisdiction, the remainder of this chapter and the application thereof shall not be affected thereby.
@@ -310,7 +310,7 @@ The provisions of this chapter shall be severable and if any phrase, clause, sen
 
 
 
-*§ 2-01 License Application.* ::
+*§ 2-01 License Application.*
 
 
 (a) Except as provided in Subdivision b of this section, an applicant business required by Section 16-505 of the Code to obtain a license for the removal, collection, or disposal of trade waste must submit the information contained in the license application form provided by the Commission and the disclosure required by the forms provided by the Commission. In addition, each principal of the applicant business must:
@@ -336,7 +336,7 @@ The provisions of this chapter shall be severable and if any phrase, clause, sen
 
 
 
-*§ 2-02 Information Required on License Application.* ::
+*§ 2-02 Information Required on License Application.*
 
 
 An application for a license must be signed by all persons participating directly or indirectly in the control of the applicant business and by: the proprietor of an applicant if the applicant is a sole proprietorship; every officer and director and stockholder holding ten (10) percent or more of the outstanding shares of a corporation, if the applicant is a corporation; all the partners, if the applicant is a partnership; the chief operating officer or chief executive officer, irrespective of organizational title and all persons or entities having an ownership interest of ten (10) percent or more, if the applicant is any other type of business entity. The application must be sworn and certified under penalty of criminal prosecution. The application for a license must include, but not be limited to, the following information:
@@ -394,7 +394,7 @@ An application for a license must be signed by all persons participating directl
 
 
 
-*§ 2-03 Application for Exemption from Licensing Requirements for Removal of Demolition Debris and a Class 2 Registration.* ::
+*§ 2-03 Application for Exemption from Licensing Requirements for Removal of Demolition Debris and a Class 2 Registration.*
 
 
 (a) Class 2 Registration for Business Exempt from Licensing Requirements under Section 16-505(a). A business solely engaged in the removal of waste materials resulting from building demolition, construction, alteration, or excavation, including waste materials resulting from building demolition, construction, alteration, or excavation generated by such business, may, pursuant to Subdivision a of Section 16-505 of the Code, apply to the Commission for exemption from the licensing requirements of Section 16-505 where no principal of such applicant is a principal of a business or a former business required to be licensed during the past ten (10) years pursuant to this chapter.
@@ -446,7 +446,7 @@ Notwithstanding the fingerprinting and disclosure requirements of Paragraphs (i)
 
 
 
-*§ 2-04 Registration Application.* ::
+*§ 2-04 Registration Application.*
 
 
 (a) Class 1 Registration. A person or business required, pursuant to Subdivision b of Section 16-505 of the Code, to register with the Commission to remove, collect, or dispose of trade waste that is generated in the course of operation of such person's business must submit a registration form, containing the information required by the Commission, including, but not limited to the following:
@@ -546,7 +546,7 @@ Notwithstanding the fingerprinting and disclosure requirements of Paragraphs (i)
 
 
 
-*§ 2-05 Notification of Arrest, Conviction, Civil and Administrative Determinations, Vehicle Crashes, Suspension or Revocation of Driver’s License, Traffic Violation, or Material Change in Information; Addition of New Principal or Employee.* ::
+*§ 2-05 Notification of Arrest, Conviction, Civil and Administrative Determinations, Vehicle Crashes, Suspension or Revocation of Driver’s License, Traffic Violation, or Material Change in Information; Addition of New Principal or Employee.*
 
 
 (a) (1) An applicant for a license or a licensee and an applicant for exemption from the requirement for a license or an applicant granted such exemption must notify the Commission, within ten (10) business days, of the arrest or criminal conviction after the submission of the application of any principal or any employee or agent or any prospective employee or agent identified on the application, of which the applicant for a license or the licensee had knowledge or should have known, except where such disclosure is protected by Subdivision 16 of Section 296 of Article 15 of the New York State Executive Law.
@@ -580,7 +580,7 @@ Notwithstanding the fingerprinting and disclosure requirements of Paragraphs (i)
 
 
 
-*§ 2-06 Non-Transferability of Licenses and Registrations.* ::
+*§ 2-06 Non-Transferability of Licenses and Registrations.*
 
 
 A license or registration issued by the Commission pursuant to this subchapter shall not be transferable. A licensee or registrant shall not permit the use by any other person of the license or registration number issued pursuant to this subchapter.
@@ -590,7 +590,7 @@ A license or registration issued by the Commission pursuant to this subchapter s
 
 
 
-*§ 2-07 Terms and Fees.* ::
+*§ 2-07 Terms and Fees.*
 
 
 The term of a license or Class 1 or Class 2 registration shall be two (2) years. The fee for investigation of a license applicant shall be five thousand dollars ($5,000), and the fee for each vehicle in excess of one (1) operated, pursuant to a license shall be five hundred dollars ($500). The fee for investigation of a Class 2 registration applicant, pursuant to 17 RCNY § 2-03 shall be three thousand and five hundred dollars ($3,500), and the fee for each vehicle operated, pursuant to a Class 2 registration shall be five hundred dollars ($500). The fee for investigation of a Class 1 registration applicant shall be one thousand dollars ($1,000), and the fee for each vehicle operated, pursuant to a Class 1 registration shall be four hundred dollars ($400). There shall be no fee for a Class 1 registrant that is a Not-For-Profit Corporation. The fee for investigation of a trade waste broker registration application shall be five thousand dollars ($5,000). The term of a Class 3 registration shall be five (5) years. The fee for investigation of a Class 3 registration applicant shall be four thousand dollars ($4,000).
@@ -602,7 +602,7 @@ The term of a license or Class 1 or Class 2 registration shall be two (2) years.
 
 
 
-*§ 2-08 Refusal to Issue License or Registration; Revocation and Suspension of License or Registration.* ::
+*§ 2-08 Refusal to Issue License or Registration; Revocation and Suspension of License or Registration.*
 
 
 (a)  Where the Staff of the Commission proposes that the Commission refuse, pursuant to section 16-509 or 16-507 of the Code, as the case may be, to issue a license to remove, collect, or dispose of trade waste or a registration as a trade waste broker or a Class 1 registration or Class 2 registration for a business exempt from licensing requirements, the applicant shall be notified in writing of the reasons for the proposed refusal of such license or registration and that the applicant may, within ten (10) business days of the date of such notification, respond in writing to the Commission setting forth the reasons such applicant believes that it should not be denied such license or registration. In the exercise of its discretion, the Commission, considering the reasons for the proposed refusal to issue the license or registration, the nature of the issues raised in connection therewith, and the response submitted by the applicant, may make a final determination regarding the issuance of such license or registration or through the Chair or his or her designee, afford the applicant such further opportunity to be heard in such proceeding as is deemed appropriate. A final determination to refuse to issue a license or registration pursuant to this section shall be by majority vote of the Commission. Such determination and the reasons therefor shall be communicated to the applicant in writing.
@@ -614,7 +614,7 @@ The term of a license or Class 1 or Class 2 registration shall be two (2) years.
 
 
 
-*§ 2-09 Financial Hardship Waiver from Vehicle Emissions Compliance.* ::
+*§ 2-09 Financial Hardship Waiver from Vehicle Emissions Compliance.*
 
 
 (a) Pursuant to § 24-163.11(c) of the Administrative Code, the chairperson of the Commission may issue a waiver from the requirements of Administrative Code § 24-163.11(b)(1) to a licensee, registrant or applicant for a license or registration if compliance with the requirements of Administrative Code § 24-163.11(b)(1) would create an undue financial hardship on that licensee, registrant or applicant for a license or registration.
@@ -647,7 +647,7 @@ The term of a license or Class 1 or Class 2 registration shall be two (2) years.
 
 
 
-*§ 3-01 Employees and Agents Required to Submit Fingerprints and Disclosure.* ::
+*§ 3-01 Employees and Agents Required to Submit Fingerprints and Disclosure.*
 
 
 (a)  Each person not otherwise a principal as defined in 17 RCNY § 1-02 who is an employee or agent or prospective employee or agent of an applicant for a license or a licensee and who is in a managerial capacity or in a job category listed in Appendix A to this subchapter, shall: (i) be fingerprinted by a person designated for such purpose by the Commission and pay the fee prescribed by the Division of Criminal Justice Services for the purpose of obtaining criminal history records; and (ii) be photographed by the Commission and provide the disclosure set forth in subparagraphs (b) through (n) of paragraph (ii) of subdivision b of section 16-508 of the Code on the form provided by the Commission and pay the fee of six hundred ($600) dollars for the investigation of such information. Following receipt of such disclosure, the Commission may require such additional information, including without limitation documents and deposition testimony, as the Commission determines is necessary to render determination.
@@ -661,7 +661,7 @@ The term of a license or Class 1 or Class 2 registration shall be two (2) years.
 
 
 
-*§ 3-02 Investigation of Other Employees or Agents.* ::
+*§ 3-02 Investigation of Other Employees or Agents.*
 
 
 (a)  Where the Commission has reasonable cause to believe that an employee or agent or prospective employee or agent of a licensee or an applicant for a license not subject to the provisions of 17 RCNY § 3-01 lacks good character, honesty and integrity, the Commission shall notify such employee or agent or prospective employee or agent that he or she shall: (i) be fingerprinted by a person designated for such purpose by the Commission and pay the fee prescribed by the Division of Criminal Justice Services for the purpose of obtaining criminal history records; and (ii) provide the disclosure required in subparagraphs (b) through (n) of paragraph (ii) of subdivision b of section 16-508 of the Code on the form provided by the Commission and pay the fee of six hundred ($600) dollars for the investigation of such information. Following receipt of such disclosure, the Commission may require such additional information related to such disclosure including without limitation documents and deposition testimony, as the Commission determines is necessary to render determination.
@@ -677,7 +677,7 @@ The term of a license or Class 1 or Class 2 registration shall be two (2) years.
 
 
 
-*§ 3-03 Notification by Licensee of Additional Employee or Agent.* ::
+*§ 3-03 Notification by Licensee of Additional Employee or Agent.*
 
 
 A licensee shall provide the Commission with notice of at least ten business days of the proposed addition of a new employee or agent in a managerial capacity or in a job category listed in Appendix A to this subchapter to the business of such licensee. The Commission may waive or shorten such period upon a showing that there exists a bona fide business requirement therefor. Except where the Commission determines within such period, based upon information available to it, that the addition of such new employee or agent may have a result inimical to the purposes of Local Law 42 and this chapter, the licensee may add such new employee or agent pending the completion of review by the Commission. The licensee shall be afforded an opportunity to demonstrate to the Commission that the addition of such new employee or agent pending completion of such review would not have a result inimical to the purposes of this chapter. If upon the completion of such review, the Commission determines that such employee or agent lacks good character, honesty and integrity, the license shall cease to be valid unless such employee or agent leaves the employ of such licensee within the time period prescribed by the Commission.
@@ -687,7 +687,7 @@ A licensee shall provide the Commission with notice of at least ten business day
 
 
 
-*§ 3-04 Displaced Employee List.* ::
+*§ 3-04 Displaced Employee List.*
 
 
 (a)  The Commission shall maintain a displaced employee list containing the names and contact addresses and telephone numbers of persons formerly employed by a business engaged in the collection, removal or disposal of trade waste whose employment ended following the denial or revocation of a license by the Commission.
@@ -703,7 +703,7 @@ A licensee shall provide the Commission with notice of at least ten business day
 
 
 
-*APPENDIX A EMPLOYEES SUBJECT TO DISCLOSURE PURSUANT TO 17 RCNY § 3-01* ::
+*APPENDIX A EMPLOYEES SUBJECT TO DISCLOSURE PURSUANT TO 17 RCNY § 3-01*
 
 
 Employees who perform the following functions shall be subject to disclosure pursuant to 17 RCNY § 3-01:
@@ -730,7 +730,7 @@ Persons who have authority to resolve complaints.
 
 
 
-*§ 4-01 Responsibilities of Auditors.* ::
+*§ 4-01 Responsibilities of Auditors.*
 
 
 Where the Commission requires, pursuant to Subdivision a of Section 16-511 of the Code, that a licensee enter into a contract with an independent auditor, such licensee must cooperate with such auditor in the performance of the responsibilities set forth in such contract and this section.
@@ -772,7 +772,7 @@ Where the Commission requires, pursuant to Subdivision a of Section 16-511 of th
 
 
 
-*§ 4-02 Responsibilities of Monitors.* ::
+*§ 4-02 Responsibilities of Monitors.*
 
 
 Where the Commission requires, pursuant to Subdivision b of Section 16-511 of the Code, that an applicant for a license or a licensee enter into a contract with an independent monitor, the applicant or licensee must cooperate with the monitor in the exercise of his or her responsibilities set forth in such contract and this section. Where an applicant or licensee is subject to a receivership, the applicant or licensee must furnish the monitor with the relevant orders of the court regarding such receivership.
@@ -837,7 +837,7 @@ Where the Commission requires, pursuant to Subdivision b of Section 16-511 of th
 
 
 
-*§ 5-01 Sign or Decal Required; Display of License.* ::
+*§ 5-01 Sign or Decal Required; Display of License.*
 
 
 (a) Every licensee must provide to every recipient of its services a sign or decal which the licensee must obtain from the Commission. A licensee must not provide such a sign or decal to a business unless such licensee has entered into an agreement with such business to provide waste removal services. Such sign or decal must conspicuously and legibly display the name, address, telephone number, number of license and the day and approximate time of waste collection. Such sign or decal must also identify, by type, each designated recyclable material (as defined in 16 RCNY § 1-01) that will be collected by a licensee and, if applicable, whether a licensee will be using single stream recycling collection (as defined in 16 RCNY § 1-01) or co-collection of recyclables (as defined in 16 RCNY § 1-01). Any licensee that provides organic waste removal services to a designated covered establishment must also provide the designated covered establishment with a sign or decal that states (i) the name, address, telephone number, number of license and the day and approximate time of organic waste collection from the designated covered establishment; or (ii) the name, address, telephone number, number of license and the day and approximate time of organic waste collection and a statement that the licensee transports its organic waste to an entity that provides for beneficial organic waste reuse; or (iii) the name, address, telephone number, number of license and the day and approximate time of organic waste collection and a statement that the licensee provides for on-site processing of organic waste generated at its premises.
@@ -855,7 +855,7 @@ Where the Commission requires, pursuant to Subdivision b of Section 16-511 of th
 
 
 
-*§ 5-02 Rates.* ::
+*§ 5-02 Rates.*
 
 
 (a)  A trade waste removal business must not demand, charge, exact, or accept rates for the collection, removal, disposal, or recycling of trade waste greater than the following maximum rates:
@@ -909,7 +909,7 @@ Where the Commission requires, pursuant to Subdivision b of Section 16-511 of th
 
 
 
-*§ 5-03 Record Keeping; Customer, Financial and Other Reporting Requirements.* ::
+*§ 5-03 Record Keeping; Customer, Financial and Other Reporting Requirements.*
 
 
 (a) A licensee must maintain records concerning its business including but not limited to:
@@ -1183,7 +1183,7 @@ Where the Commission requires, pursuant to Subdivision b of Section 16-511 of th
 
 
 
-*§ 5-04 Compliance with Applicable Law and Regulation.* ::
+*§ 5-04 Compliance with Applicable Law and Regulation.*
 
 
 All licensees shall at all times comply with all the laws, rules and regulations of Federal, State and local governmental authorities having jurisdiction over any of the licensees' activities, including, but not limited to, rules and regulations of the Department of Environmental Protection, the Department of Health, the Department of Sanitation and the Department of Transportation concerning the vehicle specifications, sanitary requirements, handling, transport, receipt, transfer or disposal of trade waste, regulated medical waste or waste containing asbestos or other hazardous, toxic or dangerous material. Failure to comply with these laws, rules or regulations shall be grounds for suspension and/or revocation of the license and, in addition to any other penalty provided by law, the imposition of penalties pursuant to 17 RCNY § 1-04.
@@ -1193,7 +1193,7 @@ All licensees shall at all times comply with all the laws, rules and regulations
 
 
 
-*§ 5-05 Agreements and Contracts with Customers; Service to Customers.* ::
+*§ 5-05 Agreements and Contracts with Customers; Service to Customers.*
 
 
 (a) Term and form of contract; requirements; service and discontinuation of service; increase of rates.
@@ -1279,7 +1279,7 @@ Such bill must be on a form approved by the Commission.
 
 
 
-*§ 5-06 Acceptance of Customers.* ::
+*§ 5-06 Acceptance of Customers.*
 
 
 (a)  Whenever a prospective or actual customer has been unable to obtain a licensee to remove his or her waste upon terms and conditions satisfactory to both the prospective or actual customer and licensee, the Commission may require a licensee collecting trade waste in or near the area in which the customer conducts business, to collect and remove such waste at a rate designated by the Commission.
@@ -1291,7 +1291,7 @@ Such bill must be on a form approved by the Commission.
 
 
 
-*§ 5-07 Employee Information.* ::
+*§ 5-07 Employee Information.*
 
 
 Within 10 business days of hiring an employee or extending an offer of employment to a prospective employee, a licensee or an applicant for a license must provide the Commission with the name of such employee or prospective employee and the information required, pursuant to 17 RCNY § 2-02.
@@ -1303,7 +1303,7 @@ Within 10 business days of hiring an employee or extending an offer of employmen
 
 
 
-*§ 5-08 Operations.* ::
+*§ 5-08 Operations.*
 
 
 (a)  A licensee shall maintain any premises where trade waste removal vehicles and machinery are kept in a safe and sanitary condition.
@@ -1359,7 +1359,7 @@ Within 10 business days of hiring an employee or extending an offer of employmen
 
 
 
-*§ 5-09 Membership in Trade Associations.* ::
+*§ 5-09 Membership in Trade Associations.*
 
 
 (a)  No licensee or principal thereof shall be a member or hold a position in any trade association:
@@ -1379,7 +1379,7 @@ Within 10 business days of hiring an employee or extending an offer of employmen
 
 
 
-*§ 5-10 License Plates and Vehicle Markings.* ::
+*§ 5-10 License Plates and Vehicle Markings.*
 
 
 (a) Upon issuance of a license, the Commission shall issue to the licensee two (2) license plates for each vehicle that will transport trade waste, pursuant to such license and for which a fee has been paid, pursuant to 17 RCNY § 2-07. Such plates must at all times be affixed as prescribed by the Commission to a visible and conspicuous part of each such vehicle. A licensee must not permit a vehicle to be used in the course of collecting, removing, or disposing of waste that has not been identified and covered by the license and for which a fee has not been paid. A license plate issued by the Commission for such a covered and identified vehicle must not be transferred to any other vehicle. Upon the sale or dissolution of the business of a licensee, or upon the suspension, revocation, or expiration of a Commission-issued license, such plates must be immediately surrendered to the Commission. All license plates issued by the Commission are the property of the Commission, and the Commission reserves the right to reclaim such plates at any time.
@@ -1393,7 +1393,7 @@ Within 10 business days of hiring an employee or extending an offer of employmen
 
 
 
-*§ 5-11 Labeling of Containers.* ::
+*§ 5-11 Labeling of Containers.*
 
 
 (a)  All containers or receptacles from which trade waste is collected by any licensee shall have the volume capacity of each container or receptacle painted on the front of the container or receptacle in Arabic numerals at least 4 inches in height and followed by the indication "cu. yd." when the volume of the container or receptacle is measured in cubic yards or "GAL." when the volume of the container or receptacle is measured in gallons.
@@ -1413,7 +1413,7 @@ Within 10 business days of hiring an employee or extending an offer of employmen
 
 
 
-*§ 5-12 Recycling Requirements for Licensees.* ::
+*§ 5-12 Recycling Requirements for Licensees.*
 
 
 (a) Designated recyclable materials. For purposes of this section, the term "designated recyclable materials" means materials that have been designated for recycling by the Department of Sanitation in 16 RCNY § 1-10(a).
@@ -1468,7 +1468,7 @@ Within 10 business days of hiring an employee or extending an offer of employmen
 
 
 
-*§ 6-01 Presentation of Registration to Customer.* ::
+*§ 6-01 Presentation of Registration to Customer.*
 
 
 A trade waste broker must not evaluate or analyze a business' trade waste stream or broker a transaction between a commercial establishment and a trade waste business required to be licensed or registered, pursuant to this chapter, unless such broker has first presented a copy of his or her registration to such customer or prospective customer.
@@ -1480,7 +1480,7 @@ A trade waste broker must not evaluate or analyze a business' trade waste stream
 
 
 
-*§ 6-02 Acceptance of Payment.* ::
+*§ 6-02 Acceptance of Payment.*
 
 
 (a) A trade waste broker who evaluates or analyzes a trade waste stream must not request or accept any payment in regard to such evaluation or analysis from a party other than the customer or prospective customer for whom such services are performed unless such broker has first disclosed to such customer or prospective customer in writing that the broker proposes to request or accept such payment. A copy of such notice to the customer or prospective customer must be submitted to the Commission within fifteen (15) days of such disclosure.
@@ -1496,7 +1496,7 @@ A trade waste broker must not evaluate or analyze a business' trade waste stream
 
 
 
-*§ 6-03 Collection of Fees Prohibited; Contract Duration.* ::
+*§ 6-03 Collection of Fees Prohibited; Contract Duration.*
 
 
 (a) A trade waste broker must not engage in the collection of fees from commercial establishments for trade waste removal by a trade waste business required to be licensed or registered, pursuant to this chapter except where:
@@ -1526,7 +1526,7 @@ A trade waste broker must not evaluate or analyze a business' trade waste stream
 
 
 
-*§ 6-04 Records and Reporting Requirements.* ::
+*§ 6-04 Records and Reporting Requirements.*
 
 
 (a) Definitions. For the purposes of this subchapter, the following terms apply:
@@ -1706,7 +1706,7 @@ A trade waste broker must not evaluate or analyze a business' trade waste stream
 
 
 
-*§ 6-05 Compliance with Applicable Law and Regulation.* ::
+*§ 6-05 Compliance with Applicable Law and Regulation.*
 
 
 All trade waste brokers shall at all times comply with all the laws, rules and regulations of Federal, State and local governmental authorities having jurisdiction over any of the brokers' activities. Failure to comply with these laws, rules or regulations shall be grounds for suspension and/or revocation of the registration and, in addition to any other penalty provided by law, the imposition of penalties pursuant to 17 RCNY § 1-04.
@@ -1716,7 +1716,7 @@ All trade waste brokers shall at all times comply with all the laws, rules and r
 
 
 
-*§ 6-06 Agreements and Contracts with Customers; Service to Customers.* ::
+*§ 6-06 Agreements and Contracts with Customers; Service to Customers.*
 
 
 (a) Trade waste removal providers. A trade waste broker may only arrange for trade waste removal services to be provided by haulers licensed or registered by the Commission, in accordance with Section 16-505 of the Code.
@@ -1772,7 +1772,7 @@ All trade waste brokers shall at all times comply with all the laws, rules and r
 
 
 
-*§ 6-07 Employee Information.* ::
+*§ 6-07 Employee Information.*
 
 
 A trade waste broker shall provide to the Commission the names of any employees hired or to whom offers of employment are extended subsequent to the issuance of a registration and the information required in regard to employees and such prospective employees on the application for a trade waste broker registration.
@@ -1787,7 +1787,7 @@ A trade waste broker shall provide to the Commission the names of any employees 
 
 
 
-*§ 7-01 Display of Registration.* ::
+*§ 7-01 Display of Registration.*
 
 
 A registrant must conspicuously display the registration issued by the Commission at the registrant's place of business.
@@ -1799,7 +1799,7 @@ A registrant must conspicuously display the registration issued by the Commissio
 
 
 
-*§ 7-02 Compliance with Applicable Law Required.* ::
+*§ 7-02 Compliance with Applicable Law Required.*
 
 
 All registrants shall at all times comply with all the laws, rules and regulations of Federal, State and local governmental authorities having jurisdiction over any of the registrants' activities, including, but not limited to, rules and regulations of the Department of Environmental Protection, the Department of Health, the Department of Sanitation and the Department of Transportation concerning the vehicle specifications, sanitary requirements, handling, transport, receipt, transfer or disposal of trade waste, regulated medical waste or waste containing asbestos or other toxic or dangerous material. Failure to comply with these laws, rules or regulations shall be grounds for suspension and/or revocation of the registration and, in addition to any other penalty provided by law, the imposition of penalties pursuant to 17 RCNY § 1-05.
@@ -1809,7 +1809,7 @@ All registrants shall at all times comply with all the laws, rules and regulatio
 
 
 
-*§ 7-03 License Plates.* ::
+*§ 7-03 License Plates.*
 
 
 (a) Upon issuance of a registration, the Commission shall issue to a registrant who removes trade waste generated in the course of operation of his or her business and to a registrant exempt from the licensing requirements of this chapter two (2) license plates for each vehicle that will transport trade waste, pursuant to such registration and for which a fee has been paid to the Commission, pursuant to 17 RCNY § 2-07. A registrant shall not permit a vehicle to be used in the course of collecting, removing, or disposing of waste that has not been identified and covered by the registration and for which a fee has not been paid. A license plate issued by the Commission for such a covered and identified vehicle must not be transferred to any other vehicle. Upon the sale or dissolution of the business of a registrant, or upon the suspension, revocation, or expiration of a Commission-issued registration, such plates must be immediately surrendered to the Commission. All license plates issued by the Commission are the property of the Commission, and the Commission reserves the right to reclaim such plates at any time. Notwithstanding any other provision of this chapter, the penalty for violation of this section shall not exceed five thousand dollars ($5,000) for each such violation.
@@ -1823,7 +1823,7 @@ All registrants shall at all times comply with all the laws, rules and regulatio
 
 
 
-*§ 7-04 Recycling Requirements.* ::
+*§ 7-04 Recycling Requirements.*
 
 
 (a) A registrant shall comply with the requirements for recycling set forth in subdivisions (a) through (c) of 17 RCNY § 5-12.
@@ -1843,7 +1843,7 @@ All registrants shall at all times comply with all the laws, rules and regulatio
 
 
 
-*§ 7-05 Operations.* ::
+*§ 7-05 Operations.*
 
 
 A registrant that removes, collects or disposes of trade waste shall keep the sidewalk, flagging, curbstone and roadway abutting any area from which waste is removed free from obstruction, garbage, litter, debris and other offensive material resulting from the removal by the registrant of trade waste and shall comply with the requirements for operation contained in subdivisions (a) through (q) of 17 RCNY § 5-08 and 17 RCNY § 5-11.
@@ -1855,7 +1855,7 @@ A registrant that removes, collects or disposes of trade waste shall keep the si
 
 
 
-*§ 7-06 Recordkeeping.* ::
+*§ 7-06 Recordkeeping.*
 
 
 (a) A registrant must maintain written policies and procedures regarding compliance with all of the laws, rules and regulations of Federal, State and Local government authorities having jurisdiction over any of the registrant’s activities concerning vehicle specifications, sanitary requirements, handling, transport, receipt, transfer or disposal of trade waste, regulated medical waste or waste containing asbestos or other hazardous, toxic or dangerous material.
@@ -1876,7 +1876,7 @@ A registrant that removes, collects or disposes of trade waste shall keep the si
 
 
 
-*§ 8-01 Display and Distribution of Workers’ Rights Information.* ::
+*§ 8-01 Display and Distribution of Workers’ Rights Information.*
 
 
 (a) Each licensee or registrant shall post and keep posted a notice, to be provided by the Commission, informing employees engaged in operating vehicles or handling trade waste information regarding the maximum number of hours such employees are permitted to work in a twenty-four hour period; the minimum wage such employees must be paid; any required worker safety trainings for such employees; information regarding what safety equipment must be provided by licensees or registrants; a description of how to contact the Commission to log a complaint; and a list of additional government agencies that accept complaints about violations of workers’ rights, including, but not limited to the New York state attorney general, the New York state department of labor, and the United States department of labor, and contact information for such agencies.
@@ -1891,7 +1891,7 @@ A registrant that removes, collects or disposes of trade waste shall keep the si
 
 
 Chapter 2: Markets
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1900,7 +1900,7 @@ Chapter 2: Markets
 
 
 
-*§ 11-01 Scope and Construction.* ::
+*§ 11-01 Scope and Construction.*
 
 
 (a) This subchapter shall be applicable to each public wholesale market.
@@ -1918,7 +1918,7 @@ Chapter 2: Markets
 
 
 
-*§ 11-02 Definitions.* ::
+*§ 11-02 Definitions.*
 
 
 For the purposes of this subchapter, the following terms shall have the following meanings:
@@ -1992,7 +1992,7 @@ Wholesaler or wholesale business. "Wholesaler" or "wholesale business" shall mea
 
 
 
-*§ 11-03 Terms and Fees.* ::
+*§ 11-03 Terms and Fees.*
 
 
 (a) A registration shall be valid for three (3) years and may be renewed for three (3) year periods thereafter.
@@ -2014,7 +2014,7 @@ Wholesaler or wholesale business. "Wholesaler" or "wholesale business" shall mea
 
 
 
-*§ 11-04 Wholesale Business and Market Business Registration Required.* ::
+*§ 11-04 Wholesale Business and Market Business Registration Required.*
 
 
 No person shall operate a wholesale business or market business in a public wholesale market without first receiving a registration or registration number from the Commission.
@@ -2024,7 +2024,7 @@ No person shall operate a wholesale business or market business in a public whol
 
 
 
-*§ 11-05 Application for a Wholesale Business or Market Business Registration.* ::
+*§ 11-05 Application for a Wholesale Business or Market Business Registration.*
 
 
 (a) An application for registration or renewal thereof must be made on a form prescribed by the Commission. The application form must be certified under penalty of perjury and signed by all principals of the applicant business. The registration application must include all of the following information:
@@ -2072,7 +2072,7 @@ No person shall operate a wholesale business or market business in a public whol
 
 
 
-*§ 11-06 Photo Identification Cards Required.* ::
+*§ 11-06 Photo Identification Cards Required.*
 
 
 (a) No person who is a principal or employee of any wholesale business or market business operating in a public wholesale market, or any other business operating in a public wholesale market located on City property, shall perform any function in such market without having been issued a photo identification card by the Commission pursuant to the provisions of this subchapter and section 22-252 of the Code.
@@ -2100,7 +2100,7 @@ No person shall operate a wholesale business or market business in a public whol
 
 
 
-*§ 11-07 Temporary Photo Identification Cards and Visitors Passes.* ::
+*§ 11-07 Temporary Photo Identification Cards and Visitors Passes.*
 
 
 (a) The Commission may designate the cooperative association of any public wholesale market to issue temporary photo identification cards to persons required to have a photo identification card within such market. The duties of such designated cooperative association are to be performed pursuant to the provisions of the Code and this subchapter relating to such temporary photo identification cards and such terms and conditions as the Commission may impose.
@@ -2118,7 +2118,7 @@ No person shall operate a wholesale business or market business in a public whol
 
 
 
-*§ 11-08 Application for a Photo Identification Card.* ::
+*§ 11-08 Application for a Photo Identification Card.*
 
 
 An application for a photo identification card shall include the information requested in the application form provided by the Commission. The application shall be signed and certified under penalty of perjury by the applicant. The application shall include, but not be limited to, the following information: name, address and telephone number(s) of the applicant, the applicant's employment history, the applicant's business interests, and any other such information required by the Commission.
@@ -2128,7 +2128,7 @@ An application for a photo identification card shall include the information req
 
 
 
-*§ 11-08.1 Photo Identification Card; Investigation by the Commission.* ::
+*§ 11-08.1 Photo Identification Card; Investigation by the Commission.*
 
 
 Notwithstanding any provision of this subchapter, the Commission may, when there is reasonable cause to believe that an applicant for or holder of a photo identification card who is a principal or employee of a wholesale or market business does not possess good character, honesty and integrity, require that such person be fingerprinted by a person designated for such purpose by the Commission, pay the fee prescribed by the Division of Criminal Justice Services for the purpose of obtaining criminal history records, and provide to the Commission the disclosure required by the form provided by the Commission. The Commission also may require such additional information in lieu of or in addition to such fingerprinting and/or disclosure, including without limitation documents and/or an in-person interview, as the Commission determines is appropriate and reasonable to render a determination.
@@ -2138,7 +2138,7 @@ Notwithstanding any provision of this subchapter, the Commission may, when there
 
 
 
-*§ 11-09 Wholesale Business and Market Business Operations.* ::
+*§ 11-09 Wholesale Business and Market Business Operations.*
 
 
 (a) Registration not transferable. Wholesale businesses and market businesses must not transfer their registration or registration numbers as part of the sale of such businesses.
@@ -2180,7 +2180,7 @@ Notwithstanding any provision of this subchapter, the Commission may, when there
 
 
 
-*§ 11-10 Labor Union and Labor Organization Registration Required.* ::
+*§ 11-10 Labor Union and Labor Organization Registration Required.*
 
 
 Labor unions and labor organizations representing or seeking to represent employees directly involved in the movement, handling or sale of goods sold in any public wholesale market shall register with the Commission, unless such labor union or labor organization is exempt from registration pursuant to subdivision 22-264(a) of the Code.
@@ -2190,7 +2190,7 @@ Labor unions and labor organizations representing or seeking to represent employ
 
 
 
-*§ 11-11 Application for a Labor Union and Labor Organization Registration.* ::
+*§ 11-11 Application for a Labor Union and Labor Organization Registration.*
 
 
 (a) An application for a labor union or labor organization registration pursuant to section 22-264 of the Code, or for a renewal of such registration, shall be made on a form prescribed by the Commission. The application shall be certified under penalty of perjury and signed by an officer of the applicant. The application shall include, but not be limited to, the following information:
@@ -2226,7 +2226,7 @@ Labor unions and labor organizations representing or seeking to represent employ
 
 
 
-*§ 11-12 Wholesale Trade Association Registration Required.* ::
+*§ 11-12 Wholesale Trade Association Registration Required.*
 
 
 Wholesale trade associations shall register with the Commission before operating in a public wholesale market.
@@ -2236,7 +2236,7 @@ Wholesale trade associations shall register with the Commission before operating
 
 
 
-*§ 11-13 Application for a Wholesale Trade Association Registration.* ::
+*§ 11-13 Application for a Wholesale Trade Association Registration.*
 
 
 (a) An application for a wholesale trade association registration pursuant to section 22-265 of the Code, or for a renewal of such registration, shall be made on a form prescribed by the Commission. The application shall be certified under penalty of perjury and signed by an officer of the applicant. The application shall include, but be not limited to, the following information:
@@ -2260,7 +2260,7 @@ Wholesale trade associations shall register with the Commission before operating
 
 
 
-*§ 11-14 Record Keeping Requirements for Wholesale Trade Associations.* ::
+*§ 11-14 Record Keeping Requirements for Wholesale Trade Associations.*
 
 
 (a) Wholesale trade associations shall retain copies of all invoices and other documents reflecting payment to and from wholesalers and market businesses, leases, sub-leases, union contracts, and all other records produced or maintained in the normal course of business for a minimum of thirty-six (36) months. Electronic copies of such books and records shall be acceptable.
@@ -2272,7 +2272,7 @@ Wholesale trade associations shall register with the Commission before operating
 
 
 
-*§ 11-15 Notification of Material Change in Information, Addition of Principal and Change in Composition of Business.* ::
+*§ 11-15 Notification of Material Change in Information, Addition of Principal and Change in Composition of Business.*
 
 
 (a) An applicant for a registration or a photo identification card shall notify the Commission within ten (10) calendar days of any material change in the information submitted in an application or disclosure form submitted pursuant to this subchapter. Subsequent to the issuance of the registration or photo identification card, the registrant or photo identification card holder shall notify the Commission within thirty (30) calendar days of any material change in the information submitted in an application or disclosure form.
@@ -2290,7 +2290,7 @@ Wholesale trade associations shall register with the Commission before operating
 
 
 
-*§ 11-16 Acquisitions and Subleases.* ::
+*§ 11-16 Acquisitions and Subleases.*
 
 
 (a) A person who intends to acquire a registered wholesale business or market business shall submit an application for a wholesale business or market business registration pursuant to the provisions of Chapter 1-B of Title 22 of the Code and the rules set forth in this subchapter for a preliminary review of such application by the Commission. Upon the submission of purchase and sale agreement for review by the Commission no later than thirty (30) days before such acquisition or sale is to take effect, the Commission will conduct an expedited application review.
@@ -2304,7 +2304,7 @@ Wholesale trade associations shall register with the Commission before operating
 
 
 
-*§ 11-17 Refusal to Issue Registration or Photo Identification Card; Revocation and Suspension of Registration or Photo Identification Card.* ::
+*§ 11-17 Refusal to Issue Registration or Photo Identification Card; Revocation and Suspension of Registration or Photo Identification Card.*
 
 
 (a) Where the staff of the Commission recommends that the Commission refuse, pursuant to section 22-259 of the Code, to issue a registration to a wholesale business or market business applicant or a photo identification card applicant, the applicant shall be notified in writing of the reasons for the proposed refusal of such registration or photo identification card and that the applicant may, within ten (10) business days of the date of such notification, respond in writing to the Commission setting forth the reasons such applicant believes that it should not be denied such registration or photo identification card. In the exercise of its discretion, the Commission, considering the reasons for the proposed refusal to issue the registration or photo identification card, the nature of the issues raised in connection therewith, and the response submitted by the applicant, may make a final determination regarding the issuance of such registration or photo identification card or afford the applicant such further opportunity to be heard in such proceeding as is deemed appropriate. A final determination and the reasons therefor shall be communicated to the applicant in writing.
@@ -2320,7 +2320,7 @@ Wholesale trade associations shall register with the Commission before operating
 
 
 
-*§ 11-18 Emergency Suspension of Registration or Photo Identification Card.* ::
+*§ 11-18 Emergency Suspension of Registration or Photo Identification Card.*
 
 
 Notwithstanding the foregoing provisions, the Chairperson may, if he or she has reasonable cause to believe that the operation of a wholesale business or market business or the presence of any person in the public wholesale market creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted to the Commission, immediately suspend the registration of such business or the photo identification card of such person without a prior hearing, provided that such suspension may be appealed to the Deputy Commissioner for Legal Affairs of the Commission who shall determine such appeal forthwith. If the Deputy Commissioner for Legal Affairs upholds the suspension, an opportunity for a hearing pursuant to the provisions of subdivision (b) of 17 RCNY § 11-21 shall be provided on an expedited basis. The Commission shall issue a final determination no later than four (4) business days following the conclusion of such hearing. The Chairperson may, upon application by a wholesale business or market business whose registration has been suspended without a prior hearing, permit such business to remain in the market for such time as is necessary to allow for the expeditious sale, consignment or removal of a perishable product if, in the Commission's judgment, such permission is consistent with the safety of the market.
@@ -2330,7 +2330,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 
 
-*§ 11-19 Prohibited Acts Generally.* ::
+*§ 11-19 Prohibited Acts Generally.*
 
 
 (a) No person shall
@@ -2404,7 +2404,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 
 
-*§ 11-20 Notice.* ::
+*§ 11-20 Notice.*
 
 
 Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of the Code or this subchapter, including but not limited to notice related to hearings, violations, and subpoenae, may be served by first class mail addressed to the business address provided to the Commission by the applicant, registrant, or photo identification card holder. All such notices served on an employee or agent may be served by first class mail to the address listed for such employee or agent in the information provided to the Commission. Such notice also may be served by personal service or in any other manner reasonably calculated to achieve actual notice, including but not limited to any method authorized in the Civil Practice Law and Rules.
@@ -2416,7 +2416,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
 
 
 
-*§ 11-21 Administrative Hearings.* ::
+*§ 11-21 Administrative Hearings.*
 
 
 (a) Hearings on the violation of any provision of Chapter 1-B of Title 22 of the Code or any provision of the rules promulgated pursuant to such chapter may be conducted by the Environmental Control Board or by other administrative tribunal of competent jurisdiction, and shall be held pursuant to the procedures for adjudication set forth in the rules of such Board or tribunal.
@@ -2446,7 +2446,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
 
 
 
-*§ 11-22 Fines and Penalties.* ::
+*§ 11-22 Fines and Penalties.*
 
 
 (a) The Commission may issue a notice of violation to any person, including a wholesale business, market business, or wholesale trade association, or any of their principals, employees, agents or officers, for the violation of any provision of Chapter 1-B of Title 22 of the Code or this subchapter. Any person who violates any such provision shall be subject to the civil and criminal fines and penalties and injunctive relief as provided in section 22-258 of the Code.
@@ -2463,7 +2463,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Code/RuleSection
       - Description
@@ -2471,6 +2471,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
       - 1st Offense Penalty After Hearing
       - Repeat Penalty
       - Default Penalty
+
 ~
 
 
@@ -2479,7 +2480,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 17 RCNY § 11-06(a)
       - Failure to obtain identification card
@@ -2715,6 +2716,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
       - $1,500
       - 2nd $2,500Subs. $5,000
       - $5,000
+
 ~
 
  
@@ -2726,7 +2728,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
 
 
 
-*§ 11-23 Commission Delegations to the Chairperson.* ::
+*§ 11-23 Commission Delegations to the Chairperson.*
 
 
 The Commission may by resolution delegate to the Chairperson any authority of the Commission set forth in this subchapter or Chapter 1-A of Title 22 of the Code that is lawful and appropriate to delegate. Such resolution shall state the authority delegated and the extent of such delegation, including any limitations on the authority delegated.
@@ -2736,7 +2738,7 @@ The Commission may by resolution delegate to the Chairperson any authority of th
 
 
 
-*§ 11-24 Additional Powers of the Commission.* ::
+*§ 11-24 Additional Powers of the Commission.*
 
 
 In addition to the other powers of the Commission, the Commission shall have the following powers:
@@ -2748,7 +2750,7 @@ In addition to the other powers of the Commission, the Commission shall have the
 
 
 
-*§ 11-25 Traffic Regulation and Parking Within the Market.* ::
+*§ 11-25 Traffic Regulation and Parking Within the Market.*
 
 
 (a) All persons operating a vehicle within the market shall obey and comply with any traffic direction of any police officer or employee of the Commission indicated by gesture or otherwise and with any parking or traffic sign posted by the Commission or other City agency.
@@ -2766,7 +2768,7 @@ In addition to the other powers of the Commission, the Commission shall have the
 
 
 
-*§ 11-26 Administration. [Repealed]* ::
+*§ 11-26 Administration. [Repealed]*
 
 
 (a) This subchapter shall govern licensing, registration and other requirements relating to seafood distribution in seafood distribution areas, including the market area.
@@ -2784,7 +2786,7 @@ In addition to the other powers of the Commission, the Commission shall have the
 
 
 
-*§ 12-02 Definitions.* ::
+*§ 12-02 Definitions.*
 
 
 For the purposes of this subchapter, the following terms shall have the following meanings:
@@ -2880,7 +2882,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 
 
-*§ 12-03 Terms and Fees.* ::
+*§ 12-03 Terms and Fees.*
 
 
 (a) Licenses.
@@ -2918,7 +2920,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 
 
-*§ 12-04 Photo Identification Cards and Visitors Passes.* ::
+*§ 12-04 Photo Identification Cards and Visitors Passes.*
 
 
 (a) Class A and Class B Photo Identification Cards. No person who is a principal or employee of any unloading, loading, wholesale, seafood delivery or non-seafood business who performs any function in the market area, or any agent of such a business who performs any function in the market area directly related to the handling or transportation of seafood, shall perform such function without a Class A or Class B photo identification card issued by the market manager pursuant to this subchapter and section 22-203 of the Code. A person who performs any function in the market area who is a principal or employee of an unloading or loading business subject to the licensing requirement in sections 22-204 and 22-206 of the Code, or an agent of such business who performs any function in the market area directly related to the handling or transportation of seafood, must first obtain a Class A photo identification card issued by the market manager. A person who performs any function in the market area who is a principal or employee of a wholesale or seafood delivery business subject to the registration requirement in sections 22-209 and 22-211 of the Code or a non-seafood business, or an agent of such business who performs any function in the market area directly related to the handling or transportation of seafood, must first obtain a Class B photo identification card from the market manager.
@@ -2948,7 +2950,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 
 
-*§ 12-05 Application for Class A and Class B Photo Identification Cards.* ::
+*§ 12-05 Application for Class A and Class B Photo Identification Cards.*
 
 
 (a) An applicant for a Class A photo identification card shall be fingerprinted by a person designated for such purpose by the Commission and pay the prescribed fee for the purpose of obtaining criminal history records, provide in full the background information required pursuant to subdivision a of section 22-216 of the Code in the application form as prescribed by the Commission. The application form shall be signed and certified under penalty of perjury by the applicant. The application shall include the following information: names, address and telephone number(s) of the applicant, the applicant's employment history, the applicant's business interests, and other such information deemed appropriate by the Commission.
@@ -2966,7 +2968,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 
 
-*§ 12-06 Unloading and Loading Licenses Required.* ::
+*§ 12-06 Unloading and Loading Licenses Required.*
 
 
 (a) Unloading licenses. No person shall operate an unloading business in the market area without having first obtained a license to conduct such business issued by the Commission.
@@ -2978,7 +2980,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 
 
-*§ 12-07 Application for License.* ::
+*§ 12-07 Application for License.*
 
 
 (a) Procedure.
@@ -2996,7 +2998,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 
 
-*§ 12-08 Information Required on a License Application.* ::
+*§ 12-08 Information Required on a License Application.*
 
 
 (a) The application for a loading or unloading license accompanying the response to the request for licensing proposals must be signed by all principals of the applicant and certified under penalty of perjury.
@@ -3064,7 +3066,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 
 
-*§ 12-09 License Issuance.* ::
+*§ 12-09 License Issuance.*
 
 
 (a) Following review of proposals submitted in response to a request for licensing proposals issued pursuant to section 22-204 or section 22-206 of the Code, as the case may be, the Commission may, at its discretion, issue one or more licenses to conduct an unloading business or a loading business in the market area to the business entity or entities the Commission has determined are most qualified to provide such services in a safe, orderly and cost-efficient manner.
@@ -3080,7 +3082,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 
 
-*§ 12-10 License Conditions.* ::
+*§ 12-10 License Conditions.*
 
 
 A license to conduct an unloading business in the market area shall be subject to conditions specifying rates, insurance and bonding, performance standards and customer service, and any other requirements as may be set forth as conditions of such license pursuant to subdivision d of section 22-204 of the Code. A license to conduct a loading business shall be subject to conditions specifying rates, insurance and bonding, performance standards and customer service, and any other requirements set forth as conditions of such license pursuant to subdivision d of section 22-206 of the Code. In addition, a license to conduct an unloading business and a license to conduct a loading business shall be subject to the following conditions;
@@ -3096,7 +3098,7 @@ A license to conduct an unloading business in the market area shall be subject t
 
 
 
-*§ 12-11 Unloading Operations.* ::
+*§ 12-11 Unloading Operations.*
 
 
 An unloading business shall comply with the conditions for conducting unloading operations that are contained in the license issued to such unloading business pursuant to section 22-204 and subdivision b of section 22-222 of the Code. In addition, an unloading business shall be subject to such provisions of this section as the market manager may direct.
@@ -3178,7 +3180,7 @@ An unloading business shall comply with the conditions for conducting unloading 
 
 
 
-*§ 12-12 Loading Operations.* ::
+*§ 12-12 Loading Operations.*
 
 
 A loader shall comply with the conditions for conducting a loading business that are contained in the license issued to such loading business pursuant to section 22-206 and subdivision b of section 22-222 of the Code. In addition, a loading business shall be conducted subject to the provisions of this section as the market manager may direct.
@@ -3246,7 +3248,7 @@ A loader shall comply with the conditions for conducting a loading business that
 
 
 
-*§ 12-13 Wholesale Seafood Business and Seafood Deliverer Registration Required.* ::
+*§ 12-13 Wholesale Seafood Business and Seafood Deliverer Registration Required.*
 
 
 (a) No person shall operate a wholesale seafood business in the market area without having first registered with the Commission and received a registration or registration number from the Commission.
@@ -3258,7 +3260,7 @@ A loader shall comply with the conditions for conducting a loading business that
 
 
 
-*§ 12-14 Application for a Wholesale Seafood Business and Seafood Delivery Business Registration.* ::
+*§ 12-14 Application for a Wholesale Seafood Business and Seafood Delivery Business Registration.*
 
 
 (a) An application or renewal thereof for a wholesale seafood business or a seafood delivery business, pursuant to Sections 22-209 and 22-211 of the Code, must be made of a form prescribed by the Commission. The application must be certified under penalty of perjury and signed by all principals of the applicant business. The registration application must include, but not be limited to, the following information:
@@ -3306,7 +3308,7 @@ A loader shall comply with the conditions for conducting a loading business that
 
 
 
-*§ 12-15 Wholesale Seafood Business Operations.* ::
+*§ 12-15 Wholesale Seafood Business Operations.*
 
 
 (a) Registration not transferable.
@@ -3366,7 +3368,7 @@ A loader shall comply with the conditions for conducting a loading business that
 
 
 
-*§ 12-16 Seafood Delivery Operations.* ::
+*§ 12-16 Seafood Delivery Operations.*
 
 
 A seafood deliverer shall be subject to the requirements for conducting a seafood delivery business that are contained in this section.
@@ -3416,7 +3418,7 @@ A seafood deliverer shall be subject to the requirements for conducting a seafoo
 
 
 
-*§ 12-17 Regulation for Safety, Order and Health in the Market Area.* ::
+*§ 12-17 Regulation for Safety, Order and Health in the Market Area.*
 
 
 (a) In order to ensure safe, orderly and healthful conditions in the market area, the market manager may take measures, including but not limited to the following:
@@ -3442,7 +3444,7 @@ A seafood deliverer shall be subject to the requirements for conducting a seafoo
 
 
 
-*§ 12-18 Prohibited Acts Generally.* ::
+*§ 12-18 Prohibited Acts Generally.*
 
 
 (a) No person shall
@@ -3482,7 +3484,7 @@ A seafood deliverer shall be subject to the requirements for conducting a seafoo
 
 
 
-*§ 12-19 Prohibited Acts for Wholesalers and Seafood Deliverers.* ::
+*§ 12-19 Prohibited Acts for Wholesalers and Seafood Deliverers.*
 
 
 (a) A wholesaler and its employees and agents and a seafood delivery business and its employees and agents shall not solicit an unloader to unload a truck out of order.
@@ -3524,7 +3526,7 @@ A seafood deliverer shall be subject to the requirements for conducting a seafoo
 
 
 
-*§ 12-20 Applicability When Commission Performs Unloading or Loading Services.* ::
+*§ 12-20 Applicability When Commission Performs Unloading or Loading Services.*
 
 
 a. The sections of this subchapter relating to licensing requirements shall not apply where the Commission determines, pursuant to paragraph (ii) of subdivision g of section 22-204, paragraph (ii) of subdivision g of section 22-206 or section 22-208 of the Code, that the Commission, a designee of the Commission, an entity under contract to the Commission, or a combination thereof shall provide unloading services or loading services in the market area.
@@ -3536,7 +3538,7 @@ b. Where the Commission makes such a determination, such loading or unloading se
 
 
 
-*§ 12-21 Notification of Material Change in Information, Addition of Principal and Change in Composition of Business.* ::
+*§ 12-21 Notification of Material Change in Information, Addition of Principal and Change in Composition of Business.*
 
 
 (a) An applicant for a license, registration or a photo identification card shall notify the Commission within ten (10) calendar days of any material change in the information submitted in an application or disclosure form.
@@ -3554,7 +3556,7 @@ b. Where the Commission makes such a determination, such loading or unloading se
 
 
 
-*§ 12-22 Acquisitions and Subleases.* ::
+*§ 12-22 Acquisitions and Subleases.*
 
 
 (a) A person who intends to acquire a registered wholesale seafood business or a seafood delivery business shall submit an application for a wholesale seafood business or seafood delivery business registration pursuant to the provisions of Chapter 1-A of Title 22 of the Code and this subchapter and a purchase and sale agreement for review by the Commission no later than thirty (30) days before such acquisition is to take effect. The Commission will conduct an expedited review of such application and agreement. If the person seeking to acquire the wholesale seafood business or seafood delivery business currently holds a registration for another such business in a market, the Commission at its discretion may waive the requirement of a new application or require that only certain portions of the application be submitted for review.
@@ -3568,7 +3570,7 @@ b. Where the Commission makes such a determination, such loading or unloading se
 
 
 
-*§ 12-23 Refusal to Issue License, Registration or Photo Identification Card; Revocation and Suspension of License, Registration or Photo Identification Card.* ::
+*§ 12-23 Refusal to Issue License, Registration or Photo Identification Card; Revocation and Suspension of License, Registration or Photo Identification Card.*
 
 
 (a) Where the staff of the Commission recommends that the Commission refuse, pursuant to section 22-216 of the Code, to issue a license, registration or photo identification card, the applicant shall be notified in writing of the reasons for the proposed refusal and may, within ten (10) business days of the date of such notification, respond in writing to the Commission setting forth the reasons such applicant believes that it should not be denied such license, registration or photo identification card. In the exercise of its discretion, the Commission, considering the reasons for the proposed refusal to issue the license, registration or photo identification card, the nature of the issues raised in connection therewith, and the response submitted by the applicant, may make a final determination regarding the issuance of such license, registration or photo identification card or afford the applicant such further opportunity to be heard in such proceeding as is deemed appropriate. A final determination and the reasons therefor shall be communicated to the applicant in writing.
@@ -3590,7 +3592,7 @@ b. Where the Commission makes such a determination, such loading or unloading se
 
 
 
-*§ 12-24 Emergency Suspension of License, Registration or Photo Identification Card.* ::
+*§ 12-24 Emergency Suspension of License, Registration or Photo Identification Card.*
 
 
 Notwithstanding the foregoing provisions, the Chairperson may, if he or she has reasonable cause to believe that the operation of a loading or unloading business, a wholesale seafood business or seafood delivery business or the presence of any person in the market area creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted to the Commission, may immediately suspend the license or registration of such business or the photo identification card of such person without a prior hearing, provided that such suspension may be appealed to the Deputy Commissioner for Legal Affairs of the Commission, who shall determine such appeal forthwith. If the Deputy Commissioner for Legal Affairs upholds the suspension, an opportunity for a hearing pursuant to the provisions of 17 RCNY § 12-26(b) shall be provided on an expedited basis. The Commission shall issue a final determination no later than four (4) business days following the conclusion of such hearing. The Chairperson may, upon application by the business whose license or registration has been suspended, permit such business to remain in the market area for such time as is deemed necessary by the Chairperson to allow for the expeditious sale, consignment or removal of a perishable product if, in the Chairperson's judgment, such permission is consistent with the safety of the market area.
@@ -3600,7 +3602,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 
 
-*§ 12-25 Notice.* ::
+*§ 12-25 Notice.*
 
 
 Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of the Code or this subchapter, including but not limited to notice related to hearings, violations, and subpoenae, may be served by first class mail addressed to the business address provided to the Commission by the applicant, licensee, registrant, or photo identification card holder. All such notices served on an employee or agent may be served by first class mail to the address listed for such employee or agent in the information provided to the Commission. Such notice also may be served by personal service or in any other manner reasonably calculated to achieve actual notice, including but not limited to any method authorized in the Civil Practice Law and Rules.
@@ -3612,7 +3614,7 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
 
 
 
-*§ 12-26 Administrative Hearings.* ::
+*§ 12-26 Administrative Hearings.*
 
 
 (a) Hearings on the violation of any provision of Chapter 1-A of Title 22 of the Code or any provision of the rules promulgated pursuant to such chapter may be conducted by the Environmental Control Board or any other administrative tribunal of competent jurisdiction, and shall be held pursuant to the procedures for adjudication set forth in the rules of such Board or tribunal.
@@ -3642,7 +3644,7 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
 
 
 
-*§ 12-27 Fines and Penalties.* ::
+*§ 12-27 Fines and Penalties.*
 
 
 (a) The Commission may issue a notice of violation to any person, including a loading or unloading business, wholesale seafood business, seafood delivery business, or any of their principals, employees, agents or officers, for the violation of any provision of Chapter 1-A of Title 22 of the Code or of this subchapter. Any person who violates any such provision shall be subject to the civil and criminal fines and penalties and injunctive relief as provided in section 22-215 of the Code.
@@ -3659,13 +3661,14 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Code/Rule Section
       - Description
       - 1st Offense Penalty
       - Repeat Penalty
       - Default Penalty
+
 ~
 
 
@@ -3674,7 +3677,7 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 17 RCNY § 12-04(a)
       - Failed to obtain identification card
@@ -4111,6 +4114,7 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
       - $3,500
       - Subs. $5,000
       - $5,000
+
 ~
 
  
@@ -4122,7 +4126,7 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
 
 
 
-*§ 12-28 Commission Delegations to the Chairperson.* ::
+*§ 12-28 Commission Delegations to the Chairperson.*
 
 
 The Commission may by resolution delegate to the Chairperson any authority of the Commission set forth in this subchapter or Chapter 1-B of Title 22 of the Code that is lawful and appropriate to delegate. Such resolution shall state the authority delegated and the extent of such delegation, including any limitations on the authority delegated.
@@ -4132,7 +4136,7 @@ The Commission may by resolution delegate to the Chairperson any authority of th
 
 
 
-*§ 12-29 Additional Powers of the Commission.* ::
+*§ 12-29 Additional Powers of the Commission.*
 
 
 In addition to the other powers of the Commission, the Commission shall have the following powers:
@@ -4144,7 +4148,7 @@ In addition to the other powers of the Commission, the Commission shall have the
 
 
 
-*§ 12-30 Traffic Regulation and Parking Within the Market.* ::
+*§ 12-30 Traffic Regulation and Parking Within the Market.*
 
 
 (a) All persons operating a vehicle within the market shall obey and comply with any traffic direction of any police officer or employee of the Commission indicated by gesture or otherwise and any parking or traffic sign posted by the Commission or other City agency.
@@ -4164,7 +4168,7 @@ In addition to the other powers of the Commission, the Commission shall have the
 
 
 
-*§ 12-31 Administration. [Repealed]* ::
+*§ 12-31 Administration. [Repealed]*
 
 
 
@@ -4185,7 +4189,7 @@ In addition to the other powers of the Commission, the Commission shall have the
 
 
 
-*§ 13-01 Scope and Construction.* ::
+*§ 13-01 Scope and Construction.*
 
 
 (a) This subchapter shall govern:
@@ -4207,7 +4211,7 @@ In addition to the other powers of the Commission, the Commission shall have the
 
 
 
-*§ 13-02 Definitions.* ::
+*§ 13-02 Definitions.*
 
 
 Unless otherwise provided in this subchapter, the terms used herein shall have the meanings provided for such terms in section 22-202 of the Code and 17 RCNY § 12-02.
@@ -4217,7 +4221,7 @@ Unless otherwise provided in this subchapter, the terms used herein shall have t
 
 
 
-*§ 13-03 Terms and Fees.* ::
+*§ 13-03 Terms and Fees.*
 
 
 (a) Registration term. A wholesale seafood business registration issued pursuant to this subchapter shall be valid for two years, and may be renewed for two-year periods thereafter.
@@ -4229,7 +4233,7 @@ Unless otherwise provided in this subchapter, the terms used herein shall have t
 
 
 
-*§ 13-04 Wholesaler Registration Required.* ::
+*§ 13-04 Wholesaler Registration Required.*
 
 
 (a) No person may operate a wholesale seafood business in the City of New York, outside the market area, without having first registered with the Commission and having received a registration or registration number from the Commission.
@@ -4245,7 +4249,7 @@ Unless otherwise provided in this subchapter, the terms used herein shall have t
 
 
 
-*§ 13-05 Wholesaler Registration Requirements in a Seafood Distribution Area.* ::
+*§ 13-05 Wholesaler Registration Requirements in a Seafood Distribution Area.*
 
 
 Notwithstanding any provisions of this subchapter, where the Commission, pursuant to subdivision b of section 22-222 of the Code, declares and establishes an area where one or more wholesale seafood business have been established to be a seafood distribution area, all wholesale seafood businesses which operate within such area, and the principals, employees and/or agents of such businesses, shall be subject to all the provisions governing wholesaler registration set forth in Chapter 1-A of Title 22 of the Code and subchapter B of this chapter. When such provisions are applied to a seafood distribution area, the term "market area" as contained therein shall be deemed to include such seafood distribution area.
@@ -4255,7 +4259,7 @@ Notwithstanding any provisions of this subchapter, where the Commission, pursuan
 
 
 
-*§ 13-06 Licensing and Seafood Delivery Business Registration Requirements in a Seafood Distribution Area.* ::
+*§ 13-06 Licensing and Seafood Delivery Business Registration Requirements in a Seafood Distribution Area.*
 
 
 Where the Commission, pursuant to subdivision b of section 22-222 of the Code, declares and establishes an area where one or more wholesale seafood businesses have been established to be a seafood distribution area, all unloading businesses, loading businesses, and seafood delivery businesses which operate within such area, and the principals, employees and/or agents of such businesses, shall be subject to all the provisions governing such businesses and their principals, employees and/or agents, set forth in Chapter 1-A of Title 22 of the Code and subchapter B of this chapter, except as may be otherwise determined by the Commission pursuant to section 22-222(c) of the Code. When such provisions are applied to a seafood distribution area, the term "market area" as contained therein shall be deemed to include such seafood distribution area.
@@ -4265,7 +4269,7 @@ Where the Commission, pursuant to subdivision b of section 22-222 of the Code, d
 
 
 
-*§ 13-07 Commission Delegations to the Chairperson.* ::
+*§ 13-07 Commission Delegations to the Chairperson.*
 
 
 The Commission may by resolution delegate to the Chairperson any authority of the Commission set forth in this subchapter and any related provision of Chapter 1-A of Title 22 of the Code that is lawful and appropriate to delegate. Such resolution shall state the authority delegated and the extent of such delegation, including any limitations on the authority delegated.
@@ -4280,7 +4284,7 @@ The Commission may by resolution delegate to the Chairperson any authority of th
 
 
 
-*§ 14-01 Scope and Construction.* ::
+*§ 14-01 Scope and Construction.*
 
 
 (a) This subchapter shall govern the registration of and other requirements relating to: (1) market businesses located and operating within any market area; and (2) labor unions and labor organizations representing or seeking to represent employees directly involved in the movement, handling or sale of goods sold in any market area.
@@ -4298,7 +4302,7 @@ The Commission may by resolution delegate to the Chairperson any authority of th
 
 
 
-*§ 14-02 Definitions.* ::
+*§ 14-02 Definitions.*
 
 
 For the purposes of this subchapter, the following terms shall have the following meanings:
@@ -4320,7 +4324,7 @@ Unless otherwise provided in this subchapter, all other terms used herein shall 
 
 
 
-*§ 14-03 Market Business Registration Required.* ::
+*§ 14-03 Market Business Registration Required.*
 
 
 No person shall operate a market business in the market area without first receiving a registration or registration number from the Commission.
@@ -4330,7 +4334,7 @@ No person shall operate a market business in the market area without first recei
 
 
 
-*§ 14-04 Issuance of Registration.* ::
+*§ 14-04 Issuance of Registration.*
 
 
 (a) A person wishing to register a market business shall provide the information requested in the registration application form provided by the Commission, which form shall be signed by all principals of such business, and accompanied by the certification form provided by the Commission, fully executed by all principals of such business.
@@ -4362,7 +4366,7 @@ No person shall operate a market business in the market area without first recei
 
 
 
-*§ 14-05 Photo Identification Cards Required.* ::
+*§ 14-05 Photo Identification Cards Required.*
 
 
 (a) No person who is a principal or employee of any market business operating in any market area who performs any function directly related to the provision of goods or services to wholesalers or retail purchasers in such area shall perform such function without having been issued a photo identification card issued by the Commission pursuant to the provisions of this subchapter and section 22-252 of the Code. Notwithstanding the foregoing, principals and employees of any market business required to have photo identification cards who have filed applications therefor and obtained temporary photo identification cards, may continue to perform such functions unless and until
@@ -4384,7 +4388,7 @@ No person shall operate a market business in the market area without first recei
 
 
 
-*§ 14-06 Temporary Photo Identification Cards.* ::
+*§ 14-06 Temporary Photo Identification Cards.*
 
 
 The Commission may designate the cooperative association of any market area to issue temporary photo identification cards to principals and employees (including seasonal employees) of market businesses at the market area in which such cooperative association operates. The duties of such designated cooperative association are to be performed pursuant to the provisions of the Code and this subchapter relating to such temporary photo identification cards and such terms and conditions as the Commission may impose. Such temporary photo identification cards shall be valid for a period of one year but shall cease to be valid upon the issuance by the Commission of a permanent photo identification card or the occurrence of any of the events set forth in paragraph (1), (2) or (3) of subdivision (a) of 17 RCNY § 14-05. Any cooperative association designated by the Commission to issue temporary identification cards may impose fees and set amounts for such fees for the performance of the functions set forth in this section with the prior written permission of the Commission. No change in a fee or amount of such fee imposed pursuant to this section shall be made without prior written permission of the Commission.
@@ -4394,7 +4398,7 @@ The Commission may designate the cooperative association of any market area to i
 
 
 
-*§ 14-07 Issuance of Photo Identification Cards.* ::
+*§ 14-07 Issuance of Photo Identification Cards.*
 
 
 (a) A person wishing to apply for a photo identification card must provide the information required in the application form provided by the Commission, which form must be signed and certified under penalty of perjury by the applicant. The application must include, but not be limited to, the following information: name, address, and telephone number(s) of the applicant, the applicant's employment history, the applicant's business interests, and any other such information required by the Commission.
@@ -4414,7 +4418,7 @@ The Commission may designate the cooperative association of any market area to i
 
 
 
-*§ 14-08 Terms and Fees.* ::
+*§ 14-08 Terms and Fees.*
 
 
 (a) A registration issued pursuant to this subchapter shall be valid for three (3) years, and may be renewed for three (3)-year periods thereafter.
@@ -4434,7 +4438,7 @@ The Commission may designate the cooperative association of any market area to i
 
 
 
-*§ 14-09 Market Business Operations.* ::
+*§ 14-09 Market Business Operations.*
 
 
 (a) (1) A market business must not transfer its registration number as part of the sale of such market business.
@@ -4478,7 +4482,7 @@ The Commission may designate the cooperative association of any market area to i
 
 
 
-*§ 14-10 Revocation or Suspension of Registration or Photo Identification Cards.* ::
+*§ 14-10 Revocation or Suspension of Registration or Photo Identification Cards.*
 
 
 (a) The Commission may revoke a temporary photo identification card, and after notice and hearing, revoke or suspend
@@ -4496,7 +4500,7 @@ The Commission may designate the cooperative association of any market area to i
 
 
 
-*§ 14-11 Emergency Suspension of Registration or Photo Identification Cards.* ::
+*§ 14-11 Emergency Suspension of Registration or Photo Identification Cards.*
 
 
 Notwithstanding the foregoing provisions, the Chairperson may, if he or she has reasonable cause to believe that the operation of a market business or the presence of any person in the market area creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted to the Commission, immediately suspend the registration of such business or the photo identification card of such person, as applicable, without a prior hearing, provided that, such suspension may be appealed to the Deputy Commissioner of Legal Affairs. If such Deputy Commissioner upholds the suspension imposed by the market manager, an opportunity for a hearing pursuant to the provisions of 17 RCNY § 11-21 shall be provided on an expedited basis within a period not to exceed four (4) business days, and the Commission shall issue a final determination no later than four (4) business days following the conclusion of such hearing. The Commission may, upon application by a market business whose registration has been suspended without a prior hearing, permit such market business to remain in the market area for such time as is necessary to allow for the expeditious sale, consignment or removal of a perishable product if, in the Commission's judgment, such permission is consistent with the safety of the public and the market area.
@@ -4506,7 +4510,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 
 
-*§ 14-12 Labor Union and Labor Organization Registration Required.* ::
+*§ 14-12 Labor Union and Labor Organization Registration Required.*
 
 
 (a) Labor unions and labor organizations shall register with the Commission.
@@ -4520,7 +4524,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 
 
-*§ 14-13 Registration Procedure.* ::
+*§ 14-13 Registration Procedure.*
 
 
 (a) A labor union or labor organization shall provide the information requested in the registration application form provided by the Commission, which form shall be signed by an officer and certified under penalty of perjury, including
@@ -4552,7 +4556,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 
 
-*§ 14-14 Prohibited Acts.* ::
+*§ 14-14 Prohibited Acts.*
 
 
 (a) No person shall
@@ -4618,7 +4622,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 
 
-*§ 14-15 Fines and Penalties.* ::
+*§ 14-15 Fines and Penalties.*
 
 
 (a) The Commission may issue a notice of violation to a market business, labor union or labor organization, or any of their principals, employees, agents or officers, for the violation of any provision of Chapter 1-A or 1-B of Title 22 of the Code or subchapter A or B of this chapter (as such provision of such Chapter or subchapter relates to market businesses located and operating within any market area and labor unions and labor organizations representing or seeking to represent employees directly involved in the movement, handling or sale of goods sold in any market area) or this subchapter. Any person who violates any such provision shall be subject to the civil and criminal fines and penalties and injunctive relief as provided in section 22-258 of the Code.
@@ -4630,7 +4634,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 
 
-*§ 14-16 Commission Delegations to the Chairperson.* ::
+*§ 14-16 Commission Delegations to the Chairperson.*
 
 
 The Commission may by resolution delegate to the Chairperson any authority of the Commission set forth in this subchapter and Chapter 1-B of Title 22 of the Code, as such chapter relates to market businesses located and operating within any market area and labor unions and labor organizations representing or seeking to represent employees directly involved in the movement, handling or sale of goods sold in any market area, that is lawful and appropriate to delegate. Such resolution shall state the authority delegated and the extent of such delegation, including any limitations on the authority delegated.
@@ -4639,11 +4643,11 @@ The Commission may by resolution delegate to the Chairperson any authority of th
 
 
 Chapter 3: Rulemaking
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 15-01 Proposed Rules.* ::
+*§ 15-01 Proposed Rules.*
 
 
 The chair may draft or direct to be drafted such proposed rules of the Commission as he or she may deem necessary to effectuate the provisions of Section 2101 of the New York City Charter and of Title 16-A of the Administrative Code of the City of New York, and may provide for the publication and distribution of any such proposed rule and for a public hearing on any such proposed rule, all in accordance with the requirements of Chapter 45 of the New York City Charter. No rule of the Commission will be promulgated except by vote of a majority of the Commission, in accordance with Section 1119 of the New York City Charter.

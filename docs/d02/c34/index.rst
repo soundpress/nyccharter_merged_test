@@ -1,12 +1,12 @@
 Title 51: City Clerk
-===================================================
+======================================================================================================
 
 Chapter 1: Lobbying
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Definitions.* ::
+*§ 1-01 Definitions.*
 
 
 When used in this chapter:
@@ -54,7 +54,7 @@ When used in this chapter:
 
 
 
-*§ 1-02 Advisory Opinions.* ::
+*§ 1-02 Advisory Opinions.*
 
 
 (a) The City Clerk will issue advisory opinions on a case-by-case basis in response to written requests from persons who reasonably believe they may be subject to the jurisdiction of the City Clerk.
@@ -72,7 +72,7 @@ When used in this chapter:
 
 
 
-*§ 1-03 e-Lobbyist Enrollment.* ::
+*§ 1-03 e-Lobbyist Enrollment.*
 
 
 (a) Generally. Every lobbyist and client required to file Reports under the Lobbying Law must enroll in e-Lobbyist before filing any Reports. Enrollment in e-Lobbyist is only required once.
@@ -142,7 +142,7 @@ When used in this chapter:
 
 
 
-*§ 1-04 Principal Officer.* ::
+*§ 1-04 Principal Officer.*
 
 
 (a) Generally. A lobbyist or client must designate a Principal Officer in e-Lobbyist. A lobbyist or client may not designate more than one Principal Officer at any given time.
@@ -194,7 +194,7 @@ When used in this chapter:
 
 
 
-*§ 1-04.1 Alternate Principal Officer.* ::
+*§ 1-04.1 Alternate Principal Officer.*
 
 
 (a) Generally. Notwithstanding paragraph (3) of subdivision (b) of 51 RCNY § 1-04, the Principal Officer may appoint one individual to be an Alternate Principal Officer to certify Reports in e-Lobbyist.
@@ -244,7 +244,7 @@ When used in this chapter:
 
 
 
-*§ 1-05 Designee.* ::
+*§ 1-05 Designee.*
 
 
 (a) Generally. A Principal Officer may designate up to two persons to be Designees in e-Lobbyist. The Principal Officer must list each Designee's name and email address in the appropriate section of e-Lobbyist. Each designee will have his or her own e-Lobbyist account.
@@ -276,7 +276,7 @@ When used in this chapter:
 
 
 
-*§ 1-06 Compliance Officer.* ::
+*§ 1-06 Compliance Officer.*
 
 
 (a) Generally. Any of the following persons may be a compliance officer:
@@ -314,7 +314,7 @@ When used in this chapter:
 
 
 
-*§ 1-07 Co-Lobbyist Filing Procedure.* ::
+*§ 1-07 Co-Lobbyist Filing Procedure.*
 
 
 (a) Generally. When a Co-lobbyist engages in reportable lobbying activity, the lobbyist (hereinafter referred to as "Primary Lobbyist"), the Co-lobbyist and client involved in such activity must follow the reporting requirements described in this section.
@@ -364,7 +364,7 @@ When used in this chapter:
 
 
 
-*§ 1-08 Requirements for Retainers and Authorization Letters.* ::
+*§ 1-08 Requirements for Retainers and Authorization Letters.*
 
 
 (a) Retainers.
@@ -428,7 +428,7 @@ When used in this chapter:
 
 
 
-*§ 1-09 Registration Fees.* ::
+*§ 1-09 Registration Fees.*
 
 
 Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be accompanied by (1) a fee of $150 for the first statement of registration and (2) a fee of $50 for each additional statement of registration.
@@ -440,7 +440,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 
-*§ 1-10 Deactivation of Reports by the City Clerk.* ::
+*§ 1-10 Deactivation of Reports by the City Clerk.*
 
 
 (a) Generally. The City Clerk may, at the request of a lobbyist or client, deactivate inadvertently filed statements of registration, fundraising and political consulting reports, or client annual reports.
@@ -532,7 +532,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 
-*§ 1-11 Extension of a Filing Deadline.* ::
+*§ 1-11 Extension of a Filing Deadline.*
 
 
 (a) Lobbyist or Client Extension Request.
@@ -584,7 +584,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 
-*§ 1-12 Enforcement of the Lobbying Law.* ::
+*§ 1-12 Enforcement of the Lobbying Law.*
 
 
 (a) Generally. Any lobbyist or client who violates any provision of the Lobbying Law or Rules will be subject to the penalties set forth in Section 3-223 of the Lobbying Law.
@@ -681,10 +681,11 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Days a violation was not cured after the expiration of the cure period
       - Civil penalty per violation not cured within the cure period
+
 ~
 
 
@@ -693,7 +694,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 1 - 30
       - $1,000
@@ -713,6 +714,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
       - $4,500
     * - More than 240
       - $5,000 - $20,000
+
 ~
 
  
@@ -768,7 +770,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 
-*§ 1-13 Formal Proceedings.* ::
+*§ 1-13 Formal Proceedings.*
 
 
 (a) Designation of OATH. Pursuant to New York City Charter § 1048(a), the City Clerk designates OATH to conduct all hearings involving violations of the Lobbying Law. OATH's Rules of Practice govern all aspects of the proceedings except as provided in this section of the Rules.
@@ -798,7 +800,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 
-*§ 1-14 Duty to Cooperate.* ::
+*§ 1-14 Duty to Cooperate.*
 
 
 (a) Lobbyist's and Client's Duty to Cooperate. A lobbyist or client must cooperate with the City Clerk.
@@ -812,7 +814,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 
-*§ 1-15 Requests to Review Reports Filed with the Lobbying Bureau.* ::
+*§ 1-15 Requests to Review Reports Filed with the Lobbying Bureau.*
 
 
 (a) Records. All Reports must be:
@@ -834,7 +836,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 
-*§ 1-16 Amnesty.* ::
+*§ 1-16 Amnesty.*
 
 
 (a) Generally. On January 1, 2016, a six-month amnesty program shall commence pursuant to § 3-223(i) of the Lobbying Law.
@@ -899,11 +901,11 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 Chapter 2: Commissioner of Deeds
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Qualifications.* ::
+*§ 2-01 Qualifications.*
 
 
 To become a Commissioner of Deeds, an individual:
@@ -935,7 +937,7 @@ After taking an acknowledgement, the Commissioner of Deeds must place a statemen
 
 
 
-*§ 2-02 Certificates of Fitness – Qualifications.* ::
+*§ 2-02 Certificates of Fitness – Qualifications.*
 
 
 To qualify for a Certificate of Fitness from the Office of the City Clerk, an applicant for the office of Commissioner of Deeds:
@@ -991,7 +993,7 @@ To qualify for a Certificate of Fitness from the Office of the City Clerk, an ap
 
 
 
-*§ 2-03 Certificates of Fitness – Application and Examination.* ::
+*§ 2-03 Certificates of Fitness – Application and Examination.*
 
 
 (a) Commencing January 1, 1990, the City Clerk will not issue a Certificate of Fitness to any applicant for the Office of Commissioner of Deeds until and unless the applicant has earned a grade of at least 65 percent on a written examination administered by the Office of the City Clerk.
@@ -1011,7 +1013,7 @@ To qualify for a Certificate of Fitness from the Office of the City Clerk, an ap
 
 
 
-*§ 2-04 Applications.* ::
+*§ 2-04 Applications.*
 
 
 (a) Obtain and complete the appropriate application form as per the instructions.
@@ -1029,7 +1031,7 @@ To qualify for a Certificate of Fitness from the Office of the City Clerk, an ap
 
 
 
-*§ 2-05 Term of Office.* ::
+*§ 2-05 Term of Office.*
 
 
 The term of office for a Commissioner of Deeds is two years, commencing from the date of appointment.
@@ -1043,7 +1045,7 @@ The term of office for a Commissioner of Deeds is two years, commencing from the
 
 
 
-*§ 2-06 Procedures for Exercising the Powers of a Commissioner of Deeds.* ::
+*§ 2-06 Procedures for Exercising the Powers of a Commissioner of Deeds.*
 
 
 (a) Required information. On each document sworn to, acknowledged, or proved before him, a Commissioner of Deeds must affix, in black ink,
@@ -1103,7 +1105,7 @@ The term of office for a Commissioner of Deeds is two years, commencing from the
 
 
 
-*§ 2-07 Restrictions.* ::
+*§ 2-07 Restrictions.*
 
 
 (a) A Commissioner of Deeds must be and remain a resident of New York City. If a Commissioner of Deeds ceases to be a New York City resident he vacates his office and must immediately notify the City Clerk.
@@ -1127,7 +1129,7 @@ The term of office for a Commissioner of Deeds is two years, commencing from the
 
 
 
-*§ 2-08 Professional Conduct.* ::
+*§ 2-08 Professional Conduct.*
 
 
 (a) General. A Commissioner of Deeds is a public officer, and is so regarded under the laws of the State of New York. As such, a high standard of professional conduct is required and expected of each individual having an appointment as a Commissioner of Deeds. Moreover, the care with which a Commissioner of Deeds performs her duties can often be the only thing that ensures the integrity of a particular document. In performing the functions of his or her office, a Commissioner of Deeds must:
@@ -1178,11 +1180,11 @@ Forgery in the second degree is a Class D felony.
 
 
 Chapter 3: Marriages
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Marriage License Application Forms.* ::
+*§ 3-01 Marriage License Application Forms.*
 
 
 (a) Both parties must be present in order to obtain a blank marriage license application. The prospective bride and prospective groom must fill out the application in the City Clerk's office and present it for processing.
@@ -1196,7 +1198,7 @@ Chapter 3: Marriages
 
 
 
-*§ 3-02 Issuing Licenses Outside of the Office.* ::
+*§ 3-02 Issuing Licenses Outside of the Office.*
 
 
 Marriage licenses may be issued only at the Marriage Bureau in the ordinary course of the business day. There are only two exceptions to this section: cases where an individual is confined to a hospital, and cases where an individual is confined in prison. Such issuance is strictly a courtesy, and is therefore entirely subject to the availability of personnel and the schedule of the office.
@@ -1220,7 +1222,7 @@ Marriage licenses may be issued only at the Marriage Bureau in the ordinary cour
 
 
 
-*§ 3-03 Hearings Pursuant to Domestic Relations Law § 15.* ::
+*§ 3-03 Hearings Pursuant to Domestic Relations Law § 15.*
 
 
 (a)  Production of witnesses or notarized affidavits to establish identity. If in the opinion of the issuing clerk there appears to be some question as to the identity of one or both of the parties, the City Clerk, pursuant to the provisions of § 15 of the New York State Domestic Relations Law, may compel the production of witnesses, certified official records or notarized affidavits to establish the identity of the parties.
@@ -1268,7 +1270,7 @@ Marriage licenses may be issued only at the Marriage Bureau in the ordinary cour
 
 
 
-*§ 3-04 Marriage Chapel.* ::
+*§ 3-04 Marriage Chapel.*
 
 
 (a) The Office of the City Clerk performs civil marriage ceremonies only. No references to religion or deity are made.
@@ -1284,7 +1286,7 @@ Marriage licenses may be issued only at the Marriage Bureau in the ordinary cour
 
 
 
-*§ 3-05 Release of Marriage Records.* ::
+*§ 3-05 Release of Marriage Records.*
 
 
 (a) In the ordinary course of business, marriage records shall be released only:
@@ -1312,7 +1314,7 @@ Marriage licenses may be issued only at the Marriage Bureau in the ordinary cour
 
 
 
-*§ 3-06 Marriage Officiant Registration.* ::
+*§ 3-06 Marriage Officiant Registration.*
 
 
 Pursuant to § 11-B of the Domestic Relations Law, the Office of the City Clerk will accept the registration of officiants to perform wedding ceremonies within the City of New York upon presentation of documentary proof of authority as outlined below.
@@ -1335,11 +1337,11 @@ Pursuant to § 11-B of the Domestic Relations Law, the Office of the City Clerk 
 
 
 Chapter 4: Domestic Partner Registration
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Domestic Partner Affidavit Form.* ::
+*§ 4-01 Domestic Partner Affidavit Form.*
 
 
 (a) Both parties must be present at the time of submitting their affidavit to register as domestic partners at the City Clerk's office. Parties must provide acceptable identification as specified in 51 RCNY § 4-03, and register during regular business hours.
@@ -1353,7 +1355,7 @@ Chapter 4: Domestic Partner Registration
 
 
 
-*§ 4-02 Accepting Registration Outside of the Office.* ::
+*§ 4-02 Accepting Registration Outside of the Office.*
 
 
 Domestic partners may register at the office of the City Clerk during regular business hours. Exceptions to this provision will be made only in those cases where an individual is confined to a hospital and in cases where an individual is confined in prison. The acceptance of prison or hospital registration is a courtesy, and is therefore entirely subject to the availability of personnel and the schedule in the office,
@@ -1377,7 +1379,7 @@ Domestic partners may register at the office of the City Clerk during regular bu
 
 
 
-*§ 4-03 Identification to Register.* ::
+*§ 4-03 Identification to Register.*
 
 
 1.  Acceptable forms of identification. At the time of submitting an application to register a domestic partnership, each party must present identification. Identification documents acceptable for registration purposes are:
@@ -1441,7 +1443,7 @@ Domestic partners may register at the office of the City Clerk during regular bu
 
 
 
-*§ 4-04 Domestic Partner Registration Certificate.* ::
+*§ 4-04 Domestic Partner Registration Certificate.*
 
 
 Upon completion of the application process, the City Clerk will issue a domestic partnership registration certificate to the registered partners.
@@ -1451,7 +1453,7 @@ Upon completion of the application process, the City Clerk will issue a domestic
 
 
 
-*§ 4-05 Release of Domestic Partners Registration Records.* ::
+*§ 4-05 Release of Domestic Partners Registration Records.*
 
 
 Domestic Partner Registration information and documents shall not be subject to public inspection or disclosure. In the ordinary course of business, domestic partner records shall only be released to either of the parties to the registration in person, after proper identification has been submitted to the City Clerk staff. No requests shall be accepted via telephone. Further, domestic partnership information released pursuant to written authorization from one of the parties to the domestic partnership shall only be released if such written authorization is notarized.
@@ -1461,7 +1463,7 @@ Domestic Partner Registration information and documents shall not be subject to 
 
 
 
-*§ 4-06 Modification of Domestic Partner Registration.* ::
+*§ 4-06 Modification of Domestic Partner Registration.*
 
 
 After a domestic partnership has been registered by the City Clerk, such record will only be modified or amended upon the filing of a written request for amendment form and offering adequate evidence to justify the proposed change of the record.
@@ -1471,7 +1473,7 @@ After a domestic partnership has been registered by the City Clerk, such record 
 
 
 
-*§ 4-07 Termination of Domestic Partnership.* ::
+*§ 4-07 Termination of Domestic Partnership.*
 
 
 (a) Either or both of the parties to a registered domestic partnership, may file a termination statement with the City Clerk.
@@ -1487,7 +1489,7 @@ After a domestic partnership has been registered by the City Clerk, such record 
 
 
 
-*§ 4-08 Registration Fees.* ::
+*§ 4-08 Registration Fees.*
 
 
 (a)  The registration fee for filing a domestic partnership is thirty-five dollars.
@@ -1507,7 +1509,7 @@ After a domestic partnership has been registered by the City Clerk, such record 
 
 
 
-*§ 4-09 Domestic Partnership Ceremony.* ::
+*§ 4-09 Domestic Partnership Ceremony.*
 
 
 (a)  Upon receipt of the applicable fee and subsequent to the registration of the domestic partnership, the City Clerk or an emloyee of the City Clerk designated for such purpose shall, upon request, conduct a ceremony in the City Clerk chapel to recognize the formation of a domestic partnership.

@@ -1,12 +1,12 @@
 Title 42: Department of Probation
-===================================================
+======================================================================================================
 
 Chapter 2: Adjudications
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Fitness and Discipline Adjudications of Department of Probation Em- ployees.* ::
+*§ 2-01 Fitness and Discipline Adjudications of Department of Probation Em- ployees.*
 
 
 New York City Department of Probation adjudications regarding the fitness and discipline of agency employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Commissioner of the Department of Probation.
@@ -15,11 +15,11 @@ New York City Department of Probation adjudications regarding the fitness and di
 
 
 Chapter 1: Procedure For Obtaining Pre-Sentence Reports
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Requests for Records.* ::
+*§ 1-01 Requests for Records.*
 
 
 The request for such records shall be in writing, indicating the case name and appellate court where pending, submitted by the subject-defendant, counsel on appeal, or the Assistant District Attorney, or by order of the sentencing court or by subpoena and directed to the New York City Department of Probation, Office of the General Counsel, 115 Leonard Street, New York, N.Y. 10013. In order to identify the correct records, the request shall also include the following information:
@@ -49,7 +49,7 @@ Defendant's date of birth.
 
 
 
-*§ 1-02 Production of Records.* ::
+*§ 1-02 Production of Records.*
 
 
 (a) Basic procedure. Upon receipt of a proper request, as indicated above, the Department of Probation shall cause three copies of the pre-sentence investigation report to be forwarded to the appropriate appellate court. Said records may then be obtained from the Office of the Clerk of that court. Under no circumstances will the Department of Probation release pre-sentence investigation reports directly to any defendant or attorney. CPL 390.50 provides that probation records are confidential, and are available only for purposes of initial sentencing and upon appeal, and that in those instances "the court shall release" the records.
@@ -62,11 +62,11 @@ Defendant's date of birth.
 
 
 Chapter 3: Fees
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Probation Administrative Fee.* ::
+*§ 3-01 Probation Administrative Fee.*
 
 
 (a) General. Pursuant to § 257-c of the Executive Law and § 9-201 of the Administrative Code of the City of New York, any individual currently serving or who shall be sentenced to a period of probation in New York City upon conviction of any crime under article thirty-one of the Vehicle and Traffic Law shall pay an administrative fee of thirty dollars per month to the New York City Department of Probation.

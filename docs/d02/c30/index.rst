@@ -1,8 +1,8 @@
 Title 47: Commission On Human Rights
-===================================================
+======================================================================================================
 
 Chapter 1: Practice and Procedure*
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11,7 +11,7 @@ Chapter 1: Practice and Procedure*
 
 
 
-*§ 1-01 Scope of Rules.* ::
+*§ 1-01 Scope of Rules.*
 
 
 These rules are intended to carry out the provisions of the Human Rights Law ("NYCHRL"), title 8 of the Administrative Code of the City of New York ("the Code"), and the policies and procedures of the Commission on Human Rights in connection therewith, as authorized by chapter 40 of the New York City Charter and § 8-117 of the Code.
@@ -23,7 +23,7 @@ These rules are intended to carry out the provisions of the Human Rights Law ("N
 
 
 
-*§ 1-02 Organization of Commission.* ::
+*§ 1-02 Organization of Commission.*
 
 
 In order to carry out its various statutory responsibilities in a fair and impartial fashion, the Commission has separated its functions into discrete bureaus and offices, which, among other things, separate the Chair from the investigatory and prosecutorial functions of the agency. In addition to the Chair and the Commissioners, the following components of the Commission are directly involved in the enforcement of the NYCHRL:
@@ -43,7 +43,7 @@ In order to carry out its various statutory responsibilities in a fair and impar
 
 
 
-*§ 1-03 Definitions and Construction.* ::
+*§ 1-03 Definitions and Construction.*
 
 
 Amended pleadings. For purposes of this chapter, amended complaints must be treated the same as complaints, and amended answers must be treated the same as answers, except as otherwise specifically provided.
@@ -79,7 +79,7 @@ Singular and plural usage. For purposes of this chapter, words in the singular i
 
 
 
-*§ 1-04 Service of Papers.* ::
+*§ 1-04 Service of Papers.*
 
 
 (a) Who can serve papers. Except where otherwise prescribed by law or an order of the Commission or of a court, papers may be served by any person of the age of eighteen years or over.
@@ -137,7 +137,7 @@ Singular and plural usage. For purposes of this chapter, words in the singular i
 
 
 
-*§ 1-05 Power Delegated to the Chair of the Commission to Propose Rules.* ::
+*§ 1-05 Power Delegated to the Chair of the Commission to Propose Rules.*
 
 
 The Commission delegates to the Chair of the Commission authority to propose rules prior to their final adoption by the Commission, pursuant to chapter 1 of title 8 of the Code and § 905 of the New York City Charter.
@@ -149,7 +149,7 @@ The Commission delegates to the Chair of the Commission authority to propose rul
 
 
 
-*§ 1-06 General Procedure for Requesting Orders by the Chair, Except as Otherwise Specified.* ::
+*§ 1-06 General Procedure for Requesting Orders by the Chair, Except as Otherwise Specified.*
 
 
 Except as otherwise specifically provided in this chapter, when an application for an order from the Chair is authorized pursuant to the Code or this chapter, such application may be made by promptly filing a letter motion with the Office of the Chair, copies of which must also be served on all parties. The letter motion should set forth the nature of the request and the procedural stance of the case and should include any relevant supporting documentation. After the motion is served, the Office of the Chair will set deadlines for opposition and reply to the letter motion.
@@ -161,7 +161,7 @@ Except as otherwise specifically provided in this chapter, when an application f
 
 
 
-*§ 1-07 Courtesy Paper Copies.* ::
+*§ 1-07 Courtesy Paper Copies.*
 
 
 Courtesy paper copies of submissions exceeding 10 pages in length must be provided to the agency, even if service is made by electronic means.
@@ -173,7 +173,7 @@ Courtesy paper copies of submissions exceeding 10 pages in length must be provid
 
 
 
-*§ 1-08 Recusal of the Chair of the Commission.* ::
+*§ 1-08 Recusal of the Chair of the Commission.*
 
 
 The Chair may recuse themself from a case if the Chair determines that recusal is appropriate based on considerations of fairness and applicable law. If the Chair recuses themself, General Counsel must appoint a panel of at least three other Commissioners to serve in place of the Chair for that matter.
@@ -190,7 +190,7 @@ The Chair may recuse themself from a case if the Chair determines that recusal i
 
 
 
-*§ 1-11 Complaints Generally.* ::
+*§ 1-11 Complaints Generally.*
 
 
 (a) Who may file a complaint.
@@ -246,7 +246,7 @@ The Chair may recuse themself from a case if the Chair determines that recusal i
 
 
 
-*§ 1-12 Commission-initiated Complaints.* ::
+*§ 1-12 Commission-initiated Complaints.*
 
 
 (a) Procedure following the filing of a Commission-initiated complaint. At the time that a Commission-initiated complaint is filed, the Law Enforcement Bureau must record the date of filing and assign a complaint number to the complaint. The Law Enforcement Bureau must thereafter serve a copy of the filed complaint on each respondent and advise the respondents of their procedural rights and obligations.
@@ -260,7 +260,7 @@ The Chair may recuse themself from a case if the Chair determines that recusal i
 
 
 
-*§ 1-13 Amendments to Complaints.* ::
+*§ 1-13 Amendments to Complaints.*
 
 
 (a) General. A complaint may be amended as of right at any time before the referral of the complaint to OATH. While a case is pending before OATH, amendments must be made in accordance with OATH rules. An amended complaint supersedes all prior complaints. Amending a complaint does not necessitate a reevaluation of the initial probable cause determination.
@@ -276,7 +276,7 @@ The Chair may recuse themself from a case if the Chair determines that recusal i
 
 
 
-*§ 1-14 Answer.* ::
+*§ 1-14 Answer.*
 
 
 (a) Time for filing. A respondent must file an answer with the Law Enforcement Bureau within 30 days of having been served with a complaint.
@@ -306,7 +306,7 @@ The Chair may recuse themself from a case if the Chair determines that recusal i
 
 
 
-*§ 1-15 Notice of Representation by Counsel.* ::
+*§ 1-15 Notice of Representation by Counsel.*
 
 
 Complainants and respondents may be represented by counsel. Prior to issuance of a report and recommendation by OATH, counsel appearing for the first time must notify the Law Enforcement Bureau of the following: the person or persons for whom the attorney appears and the attorney's name, address, telephone number, email address, and fax number. After a report and recommendation has been issued by OATH, counsel appearing for the first time must file a similar notice of appearance with the Office of the Chair. If applicable, counsel appearing for the first time should also provide notice of consent to service by email pursuant to 47 RCNY § 1-04(f).
@@ -318,7 +318,7 @@ Complainants and respondents may be represented by counsel. Prior to issuance of
 
 
 
-*§ 1-16 Rebuttal Statements.* ::
+*§ 1-16 Rebuttal Statements.*
 
 
 Upon request from the Law Enforcement Bureau, a complainant may submit a rebuttal to a respondent's answer and position statement.
@@ -335,7 +335,7 @@ Upon request from the Law Enforcement Bureau, a complainant may submit a rebutta
 
 
 
-*§ 1-21 Withdrawal of Complaints.* ::
+*§ 1-21 Withdrawal of Complaints.*
 
 
 (a) Legal effect of withdrawal.
@@ -365,7 +365,7 @@ Upon request from the Law Enforcement Bureau, a complainant may submit a rebutta
 
 
 
-*§ 1-22 Dismissal of Complaints.* ::
+*§ 1-22 Dismissal of Complaints.*
 
 
 (a) Dismissals for administrative cause. The Law Enforcement Bureau may, in its discretion, dismiss a complaint for administrative cause in accordance with § 8-113(a) of the Code at any time prior to the taking of testimony at a hearing. Administrative cause includes, but is not limited to, the following circumstances:
@@ -411,7 +411,7 @@ Upon request from the Law Enforcement Bureau, a complainant may submit a rebutta
 
 
 
-*§ 1-23 Administrative Appeal of Dismissal.* ::
+*§ 1-23 Administrative Appeal of Dismissal.*
 
 
 A complainant or respondent may appeal to the Office of the Chair for a review of a determination of the Law Enforcement Bureau to dismiss any portion of a complaint pursuant to 47 RCNY § 1-22.
@@ -436,7 +436,7 @@ A complainant or respondent may appeal to the Office of the Chair for a review o
 
 
 
-*§ 1-31 Policy.* ::
+*§ 1-31 Policy.*
 
 
 The Law Enforcement Bureau has discretion to use investigatory procedures that it determines will best facilitate accurate, orderly, and thorough fact-finding.
@@ -448,7 +448,7 @@ The Law Enforcement Bureau has discretion to use investigatory procedures that i
 
 
 
-*§ 1-32 Pre-complaint Investigations.* ::
+*§ 1-32 Pre-complaint Investigations.*
 
 
 In addition to conducting investigations of allegations contained in complaints filed pursuant to 47 RCNY § 1-11 and 47 RCNY § 1-12, the Law Enforcement Bureau may investigate on its own initiative possible violations of the NYCHRL.
@@ -460,7 +460,7 @@ In addition to conducting investigations of allegations contained in complaints 
 
 
 
-*§ 1-33 Investigatory Demands.* ::
+*§ 1-33 Investigatory Demands.*
 
 
 (a) General. Except as otherwise limited by law, the Law Enforcement Bureau may (i) demand from any person or party the production of materials relevant to a Commission investigation, including but not limited to documents, electronically stored information, or other materials; (ii) conduct interviews or depositions of any person; and (iii) undertake testing and such other investigatory tasks as the Law Enforcement Bureau deems appropriate.
@@ -476,7 +476,7 @@ For purposes of this provision, the term "records" means any form of recorded in
 
 
 
-*§ 1-34 Subpoenas.* ::
+*§ 1-34 Subpoenas.*
 
 
 (a) General. The Law Enforcement Bureau may issue and serve subpoenas ad testificandum and subpoenas duces tecum on any person. Subpoenas must be served in a manner prescribed by the CPLR.
@@ -490,7 +490,7 @@ For purposes of this provision, the term "records" means any form of recorded in
 
 
 
-*§ 1-35 Objections to Investigatory Demands and Subpoenas.* ::
+*§ 1-35 Objections to Investigatory Demands and Subpoenas.*
 
 
 (a) Effect of Failing to Object. Objections to an investigatory demand or subpoena that are not raised in accordance with this section, including by first raising objections with the Law Enforcement Bureau, may be deemed waived, absent a showing of good cause.
@@ -512,7 +512,7 @@ The filing of a motion with the Office of the Chair will stay the deadline for p
 
 
 
-*§ 1-36 Extensions of the Time to Comply With an Investigatory Demand or Subpoena.* ::
+*§ 1-36 Extensions of the Time to Comply With an Investigatory Demand or Subpoena.*
 
 
 A person seeking an extension of the time to comply with an investigatory demand or subpoena may, as soon as reasonably practicable prior to the expiration of the deadline to comply, submit a written request to the Law Enforcement Bureau stating the reasons that an extension is sought and the length of extension that is being requested. The Law Enforcement Bureau must promptly advise the person seeking an extension of its determination.
@@ -524,7 +524,7 @@ A person seeking an extension of the time to comply with an investigatory demand
 
 
 
-*§ 1-37 Enforcement of Investigatory Demands and Subpoenas.* ::
+*§ 1-37 Enforcement of Investigatory Demands and Subpoenas.*
 
 
 (a) Investigatory Demands. The Law Enforcement Bureau may file a letter motion to compel compliance with an investigatory demand with the Office of the Chair. Such motion must include a copy of the full investigatory demand and an affirmation stating efforts taken by the Law Enforcement Bureau to procure compliance with the demand, including efforts to confer with the subject of the demand. Opposition to a motion to compel compliance with an investigatory demand must be filed and served on the Law Enforcement Bureau and the Office of the Chair within 14 days of service of the motion. The Law Enforcement Bureau may file and serve a reply within 7 days of service after the opposition is filed. The Chair must promptly issue an order on the motion to compel.
@@ -540,7 +540,7 @@ In the event that a person fails to comply with an order compelling testimony or
 
 
 
-*§ 1-38 Injunctions and Temporary Restraining Orders.* ::
+*§ 1-38 Injunctions and Temporary Restraining Orders.*
 
 
 Consistent with § 8-122 of the Code, if the Law Enforcement Bureau finds that a respondent or a person acting in concert with a respondent is acting in a manner tending to render ineffectual relief that the Commission could order after a hearing, the Commission may commence a special proceeding in state Supreme Court for an order to show cause to enjoin such conduct pursuant to CPLR article 63.
@@ -552,7 +552,7 @@ Consistent with § 8-122 of the Code, if the Law Enforcement Bureau finds that a
 
 
 
-*§ 1-39 Redactions.* ::
+*§ 1-39 Redactions.*
 
 
 In response to an investigatory demand or subpoena, unless otherwise ordered by the Law Enforcement Bureau, all documents produced in connection with an investigation or case at the Commission that contain an individual's social-security number, taxpayer-identification number, or birth date, the name of an individual known to be a minor, a financial-account number, immigration status, or employer ID number, must be redacted to include only (i) the last four digits of the social-security number, taxpayer-identification number, financial-account number, or employer ID number; (ii) the year of the individual's birth; and (iii) the minor's initials.
@@ -564,7 +564,7 @@ In response to an investigatory demand or subpoena, unless otherwise ordered by 
 
 
 
-*§ 1-40 Availability of Investigatory Materials Following Dismissal of the Complaint.* ::
+*§ 1-40 Availability of Investigatory Materials Following Dismissal of the Complaint.*
 
 
 Within 30 days of the issuance of an order of the Law Enforcement Bureau dismissing the complaint, the complainant and respondent may examine certain materials and documentation from the Law Enforcement Bureau's investigation of the complaint. Such materials and documentation are limited to the factual information uncovered during the investigation that led to the determination and may include, among other things: (i) intake forms and documents submitted by a complainant during intake of a case; (ii) complaints, answers, position statements, and rebuttals filed by the parties; (iii) motions and other administrative case filings; (iv) requests for information, investigatory demands, document requests, and subpoenas, unless prohibited by law or an order of the Commission or a court; (v) responses to requests for information, investigatory demands, document requests, and subpoenas, unless prohibited by law or an order of the Chair or a court; (vi) notes and recordings of interviews with witnesses; (vii) notes pertaining to investigative work such as site visits; (viii) correspondence pre-dating a finding of probable cause (see 48 RCNY § 2-29(b)(1)); (ix) call logs; (x) the results of electronic and internet searches; (xi) photographs, audio recordings, and video recordings; and (xii) documents pertaining to proceedings in other administrative or court proceedings involving any party to the case.
@@ -585,7 +585,7 @@ The Law Enforcement Bureau assesses whether production of sensitive information 
 
 
 
-*§ 1-41 Basis of Determination.* ::
+*§ 1-41 Basis of Determination.*
 
 
 The Law Enforcement Bureau must find probable cause exists to credit the allegations of a complaint that an unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling has been or is being committed by a respondent where a reasonable person, looking at the evidence as a whole, could reach the conclusion that it is more likely than not that the unlawful discriminatory practice, act of discriminatory harassment or violence, or act of bias-based profiling was committed.
@@ -597,7 +597,7 @@ The Law Enforcement Bureau must find probable cause exists to credit the allegat
 
 
 
-*§ 1-42 Notice of Determination.* ::
+*§ 1-42 Notice of Determination.*
 
 
 The Law Enforcement Bureau must serve the complainant and respondent with written notice of its determination as to whether probable cause exists. A determination to dismiss the complaint upon a finding of no probable cause must state the reasons for the Law Enforcement Bureau's conclusion.
@@ -609,7 +609,7 @@ The Law Enforcement Bureau must serve the complainant and respondent with writte
 
 
 
-*§ 1-43 Review of Determination.* ::
+*§ 1-43 Review of Determination.*
 
 
 (a) No review of probable cause determination. A determination that probable cause exists to credit some or all of the allegations of a complaint is not subject to interlocutory review or appeal.
@@ -630,7 +630,7 @@ The Law Enforcement Bureau must serve the complainant and respondent with writte
 
 
 
-*§ 1-51 Settlement.* ::
+*§ 1-51 Settlement.*
 
 
 (a) General. A complainant, respondent, or any other necessary party may, at any time, enter into an agreement to settle a case.
@@ -646,7 +646,7 @@ The Law Enforcement Bureau must serve the complainant and respondent with writte
 
 
 
-*§ 1-52 Conciliation.* ::
+*§ 1-52 Conciliation.*
 
 
 (a) General. The Law Enforcement Bureau, complainant, respondent and any other necessary parties may, at any time after the filing of a complaint, agree to a conciliated resolution of a case.
@@ -675,7 +675,7 @@ The Law Enforcement Bureau must serve the complainant and respondent with writte
 
 
 
-*§ 1-61 Referral of Complaints to OATH.* ::
+*§ 1-61 Referral of Complaints to OATH.*
 
 
 (a) Filing a notice of referral to OATH. When the Law Enforcement Bureau determines that a case is ready for adjudication, the Bureau must refer the case to OATH by serving a notice of referral on the complainant, the respondent, and any necessary party, and filing it, along with copies of the pleadings, with OATH.
@@ -689,7 +689,7 @@ The Law Enforcement Bureau must serve the complainant and respondent with writte
 
 
 
-*§ 1-62 Incorporation of OATH Rules of Practice for Cases Pending Before OATH.* ::
+*§ 1-62 Incorporation of OATH Rules of Practice for Cases Pending Before OATH.*
 
 
 Except as otherwise provided pursuant to these rules, the Commission adopts OATH's rules of practice relating to hearing and pre-hearing procedures (48 RCNY Chapter 1 and 48 RCNY Chapter 2, Subchapter C), which apply to all cases during the period that they are pending before OATH.
@@ -701,7 +701,7 @@ Except as otherwise provided pursuant to these rules, the Commission adopts OATH
 
 
 
-*§ 1-63 Interlocutory Review of Administrative Law Judge Decisions and Orders.* ::
+*§ 1-63 Interlocutory Review of Administrative Law Judge Decisions and Orders.*
 
 
 (a) General. A party may seek interlocutory review by the Office of the Chair of a decision or order of an Administrative Law Judge, when the presiding Administrative Law Judge has certified a question for review. Any question not certified by the presiding Administrative Law Judge may be raised by a party in comments responding to a report and recommendation pursuant to 47 RCNY § 1-66. Any challenge that is certified by the Administrative Law Judge and entertained by the Office of the Chair will preclude further review of that issue by the Commission. The failure of a party to challenge a decision or order of an Administrative Law Judge, other than a report and recommendation, will not preclude that party from making such challenge in comments responding to the report and recommendation pursuant to 47 RCNY § 1-66, provided that the party timely made its objection known to the Administrative Law Judge and that the grounds for such challenge are limited to those set forth to the Administrative Law Judge.
@@ -715,7 +715,7 @@ Except as otherwise provided pursuant to these rules, the Commission adopts OATH
 
 
 
-*§ 1-64 Redacted Filings at OATH.* ::
+*§ 1-64 Redacted Filings at OATH.*
 
 
 Unless otherwise ordered by an Administrative Law Judge or the Chair, all documents filed in connection with the adjudication of a case and that contain an individual's social-security number, taxpayer-identification number, or birth date, the name of an individual known to be a minor, a financial-account number, or employer ID number, must be redacted to include only (i) the last four digits of the social-security number, taxpayer-identification number, financial-account number, or employer ID number; (ii) the year of the individual's birth; and (iii) the minor's initials.
@@ -727,7 +727,7 @@ Unless otherwise ordered by an Administrative Law Judge or the Chair, all docume
 
 
 
-*§ 1-65 Protective Orders.* ::
+*§ 1-65 Protective Orders.*
 
 
 (a) General. An Administrative Law Judge may at any time on his or her own initiative, or on the motion of any party or any person from whom or about whom a disclosure is sought, make a protective order denying, limiting, or conditioning the use of any disclosure device. Such order should be designed to prevent unreasonable annoyance, expense, embarrassment, disadvantage, or other prejudice to any person.
@@ -745,7 +745,7 @@ Unless otherwise ordered by an Administrative Law Judge or the Chair, all docume
 
 
 
-*§ 1-66 Post-hearing Comments.* ::
+*§ 1-66 Post-hearing Comments.*
 
 
 (a) Notice of right to file comments. After receiving a report and recommendation from OATH, the Office of the Chair must promptly issue a notice to all parties advising of the deadline to file written comments with the Office of the Chair.
@@ -765,7 +765,7 @@ Unless otherwise ordered by an Administrative Law Judge or the Chair, all docume
 
 
 
-*§ 1-67 Review of a Report and Recommendation by the Office of the Chair.* ::
+*§ 1-67 Review of a Report and Recommendation by the Office of the Chair.*
 
 
 (a) General. The Office of the Chair will commence consideration of a report and recommendation after it receives the report and recommendation and hearing record from OATH.
@@ -787,7 +787,7 @@ Unless otherwise ordered by an Administrative Law Judge or the Chair, all docume
 
 
 
-*§ 1-68 Relief from Default After Issuance of a Report and Recommendation.* ::
+*§ 1-68 Relief from Default After Issuance of a Report and Recommendation.*
 
 
 A respondent against whom a default has been entered pursuant to § 2-27(a) of OATH's rules (48 RCNY § 2-27) and who has not already moved for relief from default pursuant to § 2-27(b) of OATH's rules (48 RCNY § 2-27(b)), may file a letter motion with the Office of the Chair to open the default at any time after the issuance of a report and recommendation and prior to the issuance by the Commission of a final decision and order. A motion to reopen must show either (a) lack of service or (b) both a showing of good cause for the default and a potentially meritorious defense to the complaint. The Office of the Chair will set deadlines for opposition and reply to a motion to open a default. In granting a motion to open a default, the Chair may impose such terms and conditions as the Chair deems to be just and equitable.
@@ -799,7 +799,7 @@ A respondent against whom a default has been entered pursuant to § 2-27(a) of O
 
 
 
-*§ 1-69 Reopening of Proceeding.* ::
+*§ 1-69 Reopening of Proceeding.*
 
 
 Prior to the commencement of a judicial proceeding under § 8-123 of Code, the Chair may, on its own or on the motion of any party, order any proceeding reopened or vacate or modify any order or determination, whenever justice so requires.
@@ -818,7 +818,7 @@ In addition, the Office of the Chair may order supplemental briefing or hold a s
 
 
 
-*§ 1-71 Referrals for Mediation.* ::
+*§ 1-71 Referrals for Mediation.*
 
 
 The Law Enforcement Bureau may suggest or a respondent, complainant, or necessary party may request that a case be referred to the Office of Mediation and Conflict Resolution for mediation of a settlement or conciliation agreement. If complainant, respondent, and all other necessary parties agree to enter into mediation, the Law Enforcement Bureau may, in its discretion, refer a case to the Office of Mediation and Conflict Resolution.
@@ -835,7 +835,7 @@ The Law Enforcement Bureau may suggest or a respondent, complainant, or necessar
 
 
 
-*§ 1-81 Applications for Attorney's Fees.* ::
+*§ 1-81 Applications for Attorney's Fees.*
 
 
 A complainant may apply to the Office of the Chair for an award of attorney's fees within 14 days of service of a memorandum decision holding a respondent liable for an unlawful discriminatory practice, act of discriminatory harassment, or act of bias-based profiling. An application for attorney's fees must include a memorandum and copies of time records, accompanied by an affidavit or affirmation. A respondent may file an opposition to an application for an award of attorney's fees within 14 days of service of the complainant's application for attorney's fees. The fee applicant's reply, if any, must be filed within 7 days of service of the respondent's opposition. In addition to filing with the Office of the Chair, copies of all papers relating to an application for an award of attorney's fees must also be served on the opposing party and the Law Enforcement Bureau. The Chair or the Chair's designee will decide an application for attorney's fees in a supplemental decision and order.
@@ -847,7 +847,7 @@ A complainant may apply to the Office of the Chair for an award of attorney's fe
 
 
 
-*§ 1-82 Assessment of an Award of Attorney's Fees.* ::
+*§ 1-82 Assessment of an Award of Attorney's Fees.*
 
 
 Attorney's fees will generally be calculated under the lodestar method, multiplying the number of hours reasonably expended on the case by a reasonable hourly rate. In assessing the amount of time reasonably spent on a matter, the Commission may consider, among other things, the novelty and difficulty of the issues presented in the case and the degree of success ultimately achieved, including whether the litigation acted as a catalyst to effect policy change on the part of the respondent, regardless of whether that change has been implemented voluntarily. In assessing a reasonable hourly rate, the Commission may consider, among other things, the skill and experience of the attorney, and the hourly rate typically charged by attorneys of similar skill and experience litigating similar cases in New York county.
@@ -863,7 +863,7 @@ Attorney's fees will generally be calculated under the lodestar method, multiply
 
 
 
-*§ 1-83 Input from the Law Enforcement Bureau.* ::
+*§ 1-83 Input from the Law Enforcement Bureau.*
 
 
 On its own accord or at the request of the Office of the Chair, the Law Enforcement Bureau may respond to a complainant's application for attorney's fees. The deadline for the Law Enforcement Bureau to file such a response is 20 days after the deadline for the complainant's reply papers, unless otherwise specified by the Office of the Chair.
@@ -880,7 +880,7 @@ On its own accord or at the request of the Office of the Chair, the Law Enforcem
 
 
 
-*§ 1-91 Judicial Review of Final Orders of the Commission.* ::
+*§ 1-91 Judicial Review of Final Orders of the Commission.*
 
 
 Any complainant, respondent or other person aggrieved by a final order issued pursuant to § 8-120 or § 8-126 of the Code or an order issued pursuant to § 8-113(f) may obtain judicial review in accordance with § 8-123.
@@ -891,11 +891,11 @@ Any complainant, respondent or other person aggrieved by a final order issued pu
 
 
 Chapter 2: Unlawful Discriminatory Practices
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Definitions.* ::
+*§ 2-01 Definitions.*
 
 
 For purposes of this chapter,
@@ -1019,7 +1019,7 @@ Transgender. “Transgender” – sometimes shortened to “trans” – is a t
 
 
 
-*§ 2-02 Severability.* ::
+*§ 2-02 Severability.*
 
 
 If any provision of these Regulations or the application thereof is held invalid, the remainder of these Regulations shall not be affected by such holding and shall remain in full force and effect.
@@ -1029,7 +1029,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 
 
-*§ 2-03 Exemption of Certain Places of Public Accommodations in Relation to Sex Discrimination.* ::
+*§ 2-03 Exemption of Certain Places of Public Accommodations in Relation to Sex Discrimination.*
 
 
 (a) Dressing rooms, toilets and shower rooms containing multiple facilities, and appurtenant rooms and facilities, and turkish baths and saunas, shall be exempt from the provisions of § 8-107, Paragraph 2* of the Administrative Code insofar as the use of such accommodations is restricted to one sex. This exemption shall not apply to swimming pools and other facilities for swimming.
@@ -1043,7 +1043,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 
 
-*§ 2-04 Prohibitions on Discrimination Based on Criminal History.* ::
+*§ 2-04 Prohibitions on Discrimination Based on Criminal History.*
 
 
 47 RCNY § 2-04(a) through 2-04(g) relate to prohibitions on discrimination in employment only. 47 RCNY § 2-04(h) relates to prohibitions on discrimination in licensing only. 47 RCNY § 2-04(i) relates to enforcement of violations of the Human Rights Law under this section in employment and licensing.
@@ -1249,7 +1249,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Employer Size(at the time of the violation)
       - 1st Violation
@@ -1266,6 +1266,7 @@ If any provision of these Regulations or the application thereof is held invalid
     * - ** Distinct and contemporaneous violations will be counted separately for the purpose of calculating a monetary penalty. For example, an employer who has between four and nine employees and is using a discriminatory advertisement in violation of 47 RCNY § 2-04(a)(1) and an application that references criminal history in violation of 47 RCNY § 2-04(a)(2) will be charged with two separate violations of $500.00 each. However, multiple violations of one section, for example, posting a discriminatory advertisement on three different websites, will be counted as one violation for the purpose of assessing a penalty under this section.
       - 
       - 
+
 ~
 
 
@@ -1301,7 +1302,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 
 
-*§ 2-05 Prohibitions on Discrimination Based on Credit by Employers, Labor Organizations, Employment Agencies, and Agencies Authorized To Issue Licenses, Registrations, or Permits.* ::
+*§ 2-05 Prohibitions on Discrimination Based on Credit by Employers, Labor Organizations, Employment Agencies, and Agencies Authorized To Issue Licenses, Registrations, or Permits.*
 
 
 (a) Per Se Violations. The following are per se violations of §§ 8-107(9)(d) and 8-107(24) of the Administrative Code (regardless of whether any adverse employment or licensing action is taken against an individual applicant, licensee, or permittee), except where an exemption applies pursuant to subdivision (c) of this section:
@@ -1388,7 +1389,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Employer Size(at the time of the violation)
       - 1st Violation
@@ -1405,6 +1406,7 @@ If any provision of these Regulations or the application thereof is held invalid
     * - ** Distinct and contemporaneous violations will be counted separately for the purpose of calculating a monetary penalty. For example, an employer who has 4 - 9 employees who requests consumer credit history from an applicant orally in violation of 47 RCNY § 2-05(a)(1) and requires that same applicant to sign a waiver authorizing a credit check in violation of 47 RCNY § 2-05(a)(4) will be charged with two separate violations of $500.00 each. However, multiple violations of one section, for example, posting a discriminatory advertisement on three different websites, will be counted as one violation for the purpose of assessing a penalty under this section.
       - 
       - 
+
 ~
 
 
@@ -1432,7 +1434,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 
 
-*§ 2-06 Prohibition on Discrimination Based on Gender.* ::
+*§ 2-06 Prohibition on Discrimination Based on Gender.*
 
 
 The following requirements apply with respect to Title 8 of the Administrative Code’s prohibition on unlawful discriminatory practices based on gender:
@@ -1509,11 +1511,11 @@ The following requirements apply with respect to Title 8 of the Administrative C
 
 
 Chapter 3: Age Discrimination Exemptions For Public Accommodations
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Definitions.* ::
+*§ 3-01 Definitions.*
 
 
 Advantages. "Advantages" shall include but not be limited to priority services, discounts in pricing or anything of monetary value extended on the basis of a person's age.
@@ -1525,7 +1527,7 @@ Restrictions. "Restrictions" shall be construed to mean any limitation in access
 
 
 
-*§ 3-02 Age-Based Extension of Advantages in Public Accommodations.* ::
+*§ 3-02 Age-Based Extension of Advantages in Public Accommodations.*
 
 
 Any and all reasonable advantages extended in access to services provided by a place or provider of public accommodation on the basis of a person's age shall be exempt from the provisions of § 8-107(4)(a) of the Administrative Code of the City of New York.
@@ -1535,7 +1537,7 @@ Any and all reasonable advantages extended in access to services provided by a p
 
 
 
-*§ 3-03 Age-Based Restrictions in Public Accommodations.* ::
+*§ 3-03 Age-Based Restrictions in Public Accommodations.*
 
 
 (a) Any and all restrictions in access to public accommodations on the basis of a person's age which are mandated by federal, state or local law shall be exempt from the provisions of § 8-107(4)(a) of the Administrative Code of the City of New York.
@@ -1551,7 +1553,7 @@ Any and all reasonable advantages extended in access to services provided by a p
 
 
 
-*§ 3-04 Applications for Exemption from § 8-107(4)(a) Administrative Code.* ::
+*§ 3-04 Applications for Exemption from § 8-107(4)(a) Administrative Code.*
 
 
 The owner, lessee, proprietor, manager, superintendent or agent of a place or provider of public accommodation may make an application for exemption of an age-based restriction on access to or services provided by such public accommodation which would otherwise be prohibited pursuant to § 8-107(4)(a) of the Administrative Code of the City of New York and 47 RCNY § 3-03. Such application shall be made in writing to the office of the chairperson of the New York City Commission on Human Rights. The application shall set forth the specific basis for the exemption sought together with any supporting evidence. The chairperson may grant such exemption if he or she determines that the exemption promotes the health, safety or well-being of the public, or prevents physical harm to the property or premises of a place of public accommodation, or undue disruption of the quiet enjoyment of a place of public accommodation and is not inconsistent with the goals and policies of the City Human Rights Law. The decision of the Chairperson shall be final.

@@ -1,12 +1,12 @@
 Title 2: Board of Standards and Appeals
-===================================================
+======================================================================================================
 
 Chapter 1: Rules of Practice and Procedures New York City Board of Standards and Appeals
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Purpose and Authority.* ::
+*§ 1-01 Purpose and Authority.*
 
 
 The Board of Standards and Appeals (the "Board") derives its authority from the following primary sources: New York City Charter (the "Charter"), New York City Zoning Resolution ("ZR" or the "Zoning Resolution"), New York City Administrative Code, New York State General City Law ("GCL"), and New York State Multiple Dwelling Law ("MDL").
@@ -20,7 +20,7 @@ The following rules are intended to fulfill the Board's legal mandate by providi
 
 
 
-*§ 1-02 Definitions.* ::
+*§ 1-02 Definitions.*
 
 
 For the purpose of these Rules the following definitions will apply:
@@ -76,7 +76,7 @@ Vested rights application: A vested rights application is an application to rene
 
 
 
-*§ 1-03 Administration.* ::
+*§ 1-03 Administration.*
 
 
 Under the direction of the Board, administrative authority is vested in the following individuals:
@@ -92,7 +92,7 @@ Under the direction of the Board, administrative authority is vested in the foll
 
 
 
-*§ 1-04 The Calendar.* ::
+*§ 1-04 The Calendar.*
 
 
 The Board reviews applications on the separate Zoning (BZ), Appeals (A), and Special Order (SOC) calendars, and the Board provides forms and specific instructions for each type of application on these three calendars. The subject matter for applications on each calendar is provided in 2 RCNY §§ 1-05 et seq. through 1-07 et seq. and summarized as follows:
@@ -108,7 +108,7 @@ The Board reviews applications on the separate Zoning (BZ), Appeals (A), and Spe
 
 
 
-*§ 1-05 Zoning Calendar (BZ).* ::
+*§ 1-05 Zoning Calendar (BZ).*
 
 
 The BZ Calendar consists of the following types of applications:
@@ -126,7 +126,7 @@ The BZ Calendar consists of the following types of applications:
 
 
 
-*§ 1-06 Appeals Calendar (A).* ::
+*§ 1-06 Appeals Calendar (A).*
 
 
 The A calendar consists of the following types of applications:
@@ -150,7 +150,7 @@ The A calendar consists of the following types of applications:
 
 
 
-*§ 1-07 Special Order Calendar (SOC).* ::
+*§ 1-07 Special Order Calendar (SOC).*
 
 
 The Special Order Calendar (SOC) consists of the following types of applications:
@@ -184,7 +184,7 @@ The Special Order Calendar (SOC) consists of the following types of applications
 
 
 
-*§ 1-08 City Environmental Quality Review (CEQR).* ::
+*§ 1-08 City Environmental Quality Review (CEQR).*
 
 
 Applications for variances and special permits filed at the Board, in accordance with Mayoral Executive Order No. 91 of 1977, as amended, the Rules for City Environmental Quality Review, 62 RCNY §§ 5-01 et seq. ("CEQR"), and the State Environmental Quality Review Act regulations, 6 NYCRR Part 617, and any subsequent amendments thereto, will be subject to CEQR unless the Board determines that the application is for a Type II action and thus not subject to environmental review, or is otherwise exempt from CEQR in accordance with such regulations.
@@ -194,7 +194,7 @@ Applications for variances and special permits filed at the Board, in accordance
 
 
 
-*§ 1-09 Application Requirements.* ::
+*§ 1-09 Application Requirements.*
 
 
 All applications must be on the applicable form, and must include information required in the forms and the accompanying instructions. All applications must be filed in person, and the Board will only accept complete applications. After the application is calendared for public hearing, the Board will determine at its review session and public hearing whether additional plans, drawings, exhibits, or other information are required.
@@ -206,7 +206,7 @@ Any communication from an applicant submitted in a manner other than as describe
 
 
 
-*§ 1-10 Application Pre-Hearing Review.* ::
+*§ 1-10 Application Pre-Hearing Review.*
 
 
 Each properly filed complete application will be numbered serially in the order received. The calendar numbers will begin anew on January 1st of each year, and will be hyphenated with the number of the year and the corresponding suffix (BZ, A, or BZY) indicating the type of application. The original calendar number will be used for an application to reopen or amend a previous case for the same property on the SOC or A calendar. In certain instances, a new calendar number may be required in lieu of the original calendar number for reinstatement applications.
@@ -216,7 +216,7 @@ Each properly filed complete application will be numbered serially in the order 
 
 
 
-*§ 1-11 Sessions of the Board.* ::
+*§ 1-11 Sessions of the Board.*
 
 
 Public hearings of the Board will be held on Tuesdays at 10 A.M. for the SOC and the A calendars, and at 1:30 P.M. for the BZ calendar or on days and times to be scheduled by the Board as may be deemed necessary. Hearings will be devoted to the consideration of applications which the Board has jurisdiction to hear as referenced in 2 RCNY § 1-01.
@@ -226,7 +226,7 @@ Public hearings of the Board will be held on Tuesdays at 10 A.M. for the SOC and
 
 
 
-*§ 1-12 Disposition of Applications.* ::
+*§ 1-12 Disposition of Applications.*
 
 
 A final determination of the Board will be in the form of a written resolution. Such resolution will state the rule, regulation, order, requirement, decision, or determination upon which the application has been made, and will set forth the Board's findings and conclusion. The Board may reverse, affirm, in whole or in part, or modify a rule, regulation, order, requirement, decision, or determination, or it may dismiss an application for lack of jurisdiction or prosecution, or as moot.
@@ -238,7 +238,7 @@ An application must receive three (3) affirmative votes to be granted. If an app
 
 
 
-*§ 1-13 Records.* ::
+*§ 1-13 Records.*
 
 
 A record of the Board's proceedings will be maintained in the Board's Bulletin. The Bulletin is the official publication of the Board. The Bulletin will, whenever practical, be published each week. It will contain:
@@ -260,7 +260,7 @@ A record of the Board's proceedings will be maintained in the Board's Bulletin. 
 
 
 
-*§ 1-14 Rules of Procedure and General Rules and Regulations.* ::
+*§ 1-14 Rules of Procedure and General Rules and Regulations.*
 
 
 The Board may adopt, amend, or repeal any of its rules or regulations. When authorized by the Board, notice of such proposed rule or regulation will be published in accordance with the notice requirement of Charter § 1043 (City Administrative Procedure Act – Rulemaking) and will also be published in the Board's Bulletin not less than twenty (20) days before the hearing date. Following the public hearing, the Board may adopt, amend, or repeal any rule or regulation and thereafter will publish such rule or regulation in the City Record in accordance with the provisions of Charter § 1043 and in the Board's Bulletin. The rule or regulation will become effective thirty (30) days after publication in the City Record.
@@ -270,7 +270,7 @@ The Board may adopt, amend, or repeal any of its rules or regulations. When auth
 
 
 
-*§ 1-15 Fire Department Enforcement of Board Resolutions.* ::
+*§ 1-15 Fire Department Enforcement of Board Resolutions.*
 
 
 The resolutions of the Board, which set forth the final determinations of the Board and the terms and conditions for approval of an application, may be enforced by the New York City Fire Department, consistent with the scope of the Fire Department’s enforcement authority under Chapter 19 of the New York City Charter, Titles 15 and 29 and Section 28-103.1 of the New York City Administrative Code, and any other applicable laws, rules and regulations. This provision shall not be deemed to impair the authority of any other agency to enforce the resolutions of the Board, including the New York City Department of Buildings.
@@ -282,7 +282,7 @@ The resolutions of the Board, which set forth the final determinations of the Bo
 
 
 
-*APPENDIX A: Summary of Application Referral, Hearing Notice, and Proof of Service Requirements* ::
+*APPENDIX A: Summary of Application Referral, Hearing Notice, and Proof of Service Requirements*
 
 
 CB = Community Board; BP = Borough President; CC = City Council Member; CPC = City Planning Commission; DOB = Department of Buildings; and AO = Administrative Official who issued the determination.
@@ -296,7 +296,7 @@ This table is intended to serve as a summary. Please see the full text of the as
 
 
 
-*APPENDIX B: Fire Code Sections* for Appeals Involving Hazardous Materials* ::
+*APPENDIX B: Fire Code Sections* for Appeals Involving Hazardous Materials*
 
 
 * The Fire Code Sections are found in the New York City Administrative Code Title 29, Chapter 2.
@@ -306,7 +306,7 @@ This table is intended to serve as a summary. Please see the full text of the as
 
 
 
-*APPENDIX C: Summary of Filing Period and Calendar for Extension of Term Applications* ::
+*APPENDIX C: Summary of Filing Period and Calendar for Extension of Term Applications*
 
 
 1 Any request for a waiver may require the Chair's approval. If denied, the application may be filed on the BZ as a new application, except for transient parking waiver applications.
@@ -320,7 +320,7 @@ This table is intended to serve as a summary. Please see the full text of the as
 
 
 
-*APPENDIX D: Summary of Filing Period and Calendar for Extension of Time Applications* ::
+*APPENDIX D: Summary of Filing Period and Calendar for Extension of Time Applications*
 
 
 1 Any request for a waiver may require the Chair's approval. If denied, the application may be filed on the BZ as a new application, except for transient parking waiver applications.
@@ -333,11 +333,11 @@ This table is intended to serve as a summary. Please see the full text of the as
 
 
 Chapter 2: Automotive Service Stations and Garages
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
+*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.*
 
 
 If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
@@ -346,11 +346,11 @@ If on any automotive service station or storage garage which has been erected un
 
 
 Chapter 3: Factory Regulations Pursuant to New York State Labor Law*
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Scope.* ::
+*§ 3-01 Scope.*
 
 
 The rules set forth in this chapter were adopted to implement provisions of the New York State Labor Law with respect to the design, construction, operation and maintenance of factories. In general, these rules were applicable to factories constructed prior to December 6, 1968. Consult the New York State Labor Law, and the applicable provisions of the New York City Building or Construction Codes in effect on or after December 6, 1968, to determine whether these rules apply to buildings constructed or altered on or after December 6, 1968.
@@ -362,7 +362,7 @@ The rules set forth in this chapter were adopted to implement provisions of the 
 
 
 
-*§ 3-02 Fire Resistive Construction.* ::
+*§ 3-02 Fire Resistive Construction.*
 
 
 Until this Board adopts rules to supplement §§ 260-265 inclusive and 272 of the Labor Law, the pertinent requirements of Article 11 of Chapter one of Title 27 of the Administrative (Building) Code of New York City shall govern in lieu of rules as to fire resistive construction in such buildings as come within the purview of the State Labor Law.
@@ -374,7 +374,7 @@ Until this Board adopts rules to supplement §§ 260-265 inclusive and 272 of th
 
 
 
-*§ 3-03 Standard Factory Exits.* ::
+*§ 3-03 Standard Factory Exits.*
 
 
 (a) Fire escapes. 
@@ -420,7 +420,7 @@ Until this Board adopts rules to supplement §§ 260-265 inclusive and 272 of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of stories
       - Contents combustible, no sprinkler 
@@ -442,6 +442,7 @@ Until this Board adopts rules to supplement §§ 260-265 inclusive and 272 of th
       - Stairways Enclosed 
       - Stairways Enclosed 
       - 
+
 ~
 
 
@@ -477,7 +478,7 @@ The term "contents" as used above means articles, goods, wares and merchandise, 
 
 
 
-*§ 3-04 Substandard Factory Exits.* ::
+*§ 3-04 Substandard Factory Exits.*
 
 
 (a) Fire escapes. When in addition to the required exits from any factory or factory building, there exist other means of egress which are not entirely in accordance with the requirements of the Labor Law and the rules of the Board of Standards and Appeals, such means of egress may be retained under the following conditions: All substandard fire escapes on factory buildings shall be maintained structurally safe, properly painted, and with the openings leading thereto, kept in good repair. In lieu of a counter-balanced stairway, a drop ladder in guides with a back-drop gravity hook may be provided. The drop ladder shall be of sufficient length to reach from the lowest balcony to the ground or safe landing place, with a passageway opening cut in the balcony rail, which rail shall be properly braced. When such substandard fire escapes are located in a court, side or rear of a building, proper egress to a point of safety shall be provided, either to open adjoining yards, or the lowest balcony may be connected to an adjoining fire escape, exterior stairway, to the roof of adjoining extensions, or other means of egress satisfactory to the authorities having jurisdiction. Substandard fire escapes shall be kept clear of all obstructions, shall not be used for fire drills, and shall not be considered as a basis for increase in occupancy.
@@ -499,7 +500,7 @@ The term "contents" as used above means articles, goods, wares and merchandise, 
 
 
 
-*§ 3-05 Conduct of Fire Drills.* ::
+*§ 3-05 Conduct of Fire Drills.*
 
 
 (a) Definitions.
@@ -515,7 +516,7 @@ FIRE DRILL ORGANIZATION
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Premises  
       -  
@@ -625,6 +626,7 @@ FIRE DRILL ORGANIZATION
       -  Squad No. 6 
       - 
       - 
+
 ~
 
  
@@ -658,7 +660,7 @@ FIRE DRILL ORGANIZATION
 
 
 
-*§ 3-06 Fireproof Windows.* ::
+*§ 3-06 Fireproof Windows.*
 
 
 Fireproof windows which meet the requirements of § 376 of the Building Code , constructed of metal frames and sash equipped with non-corrodible hardware and fittings consisting of counterbalancing arms with rollers on both upper and lower sash operating in vertical grooves and permitting the free adjustment of the sash by a light pull on the lower sash handles may be installed for use, without an automatically closing device arranged to operate under the action of heat, in all exterior openings of factory buildings except those located as described in subdivisions (a), (b), (c) and (d) of this section, provided the window is fitted with an automatic sash-fast which holds the sash locked in the closed position:
@@ -678,7 +680,7 @@ Fireproof windows which meet the requirements of § 376 of the Building Code , c
 
 
 
-*§ 3-07 Smoking in Protected Portions of Factories and in Special Classes of Occupancies.* ::
+*§ 3-07 Smoking in Protected Portions of Factories and in Special Classes of Occupancies.*
 
 
 (a) Permit.
@@ -733,11 +735,11 @@ Fireproof windows which meet the requirements of § 376 of the Building Code , c
 
 
 Chapter 4: Regulations Applicable to Existing Installations*
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Scope.* ::
+*§ 4-01 Scope.*
 
 
 The rules set forth in this chapter govern the design, installation, operation and maintenance of devices, equipment and systems in certain occupancies. In general, these rules were applicable to buildings constructed prior to December 6, 1968. Consult the applicable provisions of the New York City Building or Construction Codes in effect on or after December 6, 1968, to determine whether these rules apply to buildings constructed or altered on or after December 6, 1968.
@@ -749,7 +751,7 @@ The rules set forth in this chapter govern the design, installation, operation a
 
 
 
-*§ 4-02 Automatic Door Operators.* ::
+*§ 4-02 Automatic Door Operators.*
 
 
 All doors for which approved automatic operators which open by swinging inwardly or by sliding are used shall not constitute more than 50 percent of the required exits for any one particular building, and when such a door operator is used, only half the width of that door can be counted towards the total exit space required for a particular building. All such door operators shall meet the following requirements:
@@ -773,7 +775,7 @@ All doors for which approved automatic operators which open by swinging inwardly
 
 
 
-*§ 4-03 Marking of Transparent Glass Doors and Fixed Adjacent Glass Sidelights.* ::
+*§ 4-03 Marking of Transparent Glass Doors and Fixed Adjacent Glass Sidelights.*
 
 
 (a) Scope. These rules shall be applicable to all structures or any part thereof excepting one and two family structures.
@@ -833,7 +835,7 @@ All doors for which approved automatic operators which open by swinging inwardly
 
 
 
-*§ 4-04 Dry Load Capacity of Dry Cleaning Units.* ::
+*§ 4-04 Dry Load Capacity of Dry Cleaning Units.*
 
 
 In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zoning Resolution, the dry load capacity of a dry cleaning unit shall be figured on the basis of 2.8 lbs. per cu. ft.
@@ -845,7 +847,7 @@ In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zonin
 
 
 
-*§ 4-05 Dry Cleaning Establishments Pursuant to the Zoning Resolution.* ::
+*§ 4-05 Dry Cleaning Establishments Pursuant to the Zoning Resolution.*
 
 
 (a) Application of rules. These rules shall be deemed to apply only to those excepted dry cleaning establishments existing or hereafter established, pursuant to Article II, §§ 4(a), Subd. 53, 4-A, 4-B and 4-C of the Zoning Resolution. These rules shall not be deemed to modify or repeal Chapter 4 of Title 27 of the Administrative Code of the City of New York.
@@ -983,7 +985,7 @@ In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zonin
 
 
 
-*§ 4-06 Installation of Interior Fire Alarm Signal Systems.* ::
+*§ 4-06 Installation of Interior Fire Alarm Signal Systems.*
 
 
 (a) Scope. These rules apply to all hotels, as defined in the Administrative Code and the Multiple Dwelling Law; to all lodging houses having more than 15 sleeping rooms, or accommodating more than 15 lodgers above the first or ground story; to all public and private hospitals and asylums having more than 15 rooms, or accommodating more than 15 patients or inmates above the first or ground story; to all nurseries accommodating more than 30 children, or having a Board of Health permit for the accommodation of more than 30 children; to all Turkish or other special treatment bath houses where there are sleeping accommodations for more than fifteen persons on the premises; to all department stores having two or more departments where the public is admitted above the second floor; to all public schools, and to all single and tenant factory buildings, as defined in the Labor Law and specifically required by § 279 of said Law.
@@ -1363,7 +1365,7 @@ In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zonin
 
 
 
-*§ 4-07 Minimum Sound Levels of Audible Alarms of Smoke Detectors.* ::
+*§ 4-07 Minimum Sound Levels of Audible Alarms of Smoke Detectors.*
 
 
 The requirement of the Board of a minimum sound level of 85 decibels in a 10 foot radius from the source of audible alarms of smoke detectors is applicable to approvals of all smoke detectors.
@@ -1375,7 +1377,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
 
 
 
-*§ 4-08 Automatic Fire Extinguishing Systems.* ::
+*§ 4-08 Automatic Fire Extinguishing Systems.*
 
 
 (a) Definitions.
@@ -1585,7 +1587,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
 
 
 
-*§ 4-09 Fire Extinguishing Appliances – Sprinkler Systems.* ::
+*§ 4-09 Fire Extinguishing Appliances – Sprinkler Systems.*
 
 
 (a) General requirements. The rules contained herein cover the general details of a sprinkler equipment only. Before an equipment is installed or before a present equipment is remodeled, involving 10 or more heads on any floor, complete working plans shall be submitted for approval to Fire Department, with such specification forms as may be required by the Fire Commissioner, except for the installation of the connection to the water main service pipe and meter setting, which shall be approved by the Bureau of Water Supply and Wastewater Collection.
@@ -1752,7 +1754,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size of Pipe
       - Maximum No. of Heads Allowed
@@ -1782,6 +1784,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
       - 300 heads 
     * - 8 inch
       - 420 heads 
+
 ~
 
  
@@ -1792,7 +1795,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size of Pipe
       - Maximum No. of Heads Allowed
@@ -1818,6 +1821,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
       - 75 heads 
     * - 8 inch
       - 105 heads 
+
 ~
 
  
@@ -1828,7 +1832,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size of Pipe
       - Maximum No. of Heads Allowed
@@ -1852,6 +1856,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
       - 60 heads 
     * - 8 inch
       - 84 heads 
+
 ~
 
  
@@ -1973,7 +1978,7 @@ When it is desired to use pipe of larger size than eight (8) inches in diameter,
 
 
 
-*§ 4-10 Fire Extinguishing Appliances – Standpipe and Fireline.* ::
+*§ 4-10 Fire Extinguishing Appliances – Standpipe and Fireline.*
 
 
 (a) Plans. A preliminary set of paper plans and cross section drawn clearly and distinctly to a scale of 1/4-inch or by permission of the Fire Commissioner 1/8-inch to the foot, for each proposed standpipe (fireline) installation or alteration, shall be submitted to and approved by the Fire Commissioner before the work in connection with the installation is started. Such plans shall show the size and location of the standpipe (fireline) risers, size and location of siamese and cross-connections, valves, tanks and connections, pumps, hose stations, lengths of hose, etc., and the location of stairways and enclosing partitions in relation to the standpipe risers and hose stations. Upon approval of preliminary plans such number of sets of clean, corrected plans on cloth as the Fire Commissioner may require, not exceeding three (3) shall be filed for final approval by the Fire Commissioner. A certified copy of approved plans shall be forwarded to the Department of Buildings by the Bureau of Fire Prevention. Such application and specification forms as may be prescribed by the Fire Commissioner shall accompany preliminary plans. If an automatic sprinkler system is provided throughout the building or in any portion of the building, the plans shall include a note to this effect.
@@ -2151,7 +2156,7 @@ When it is desired to use pipe of larger size than eight (8) inches in diameter,
 
 
 
-*§ 4-11 Factory Built Fireplaces – Obtaining Outdoor Combustion Air.* ::
+*§ 4-11 Factory Built Fireplaces – Obtaining Outdoor Combustion Air.*
 
 
 Each factory built fireplace shall be equipped with a means of providing it with outdoor air adequate to supply as much combustion air as is mandated by the capacity of the fireplace.
@@ -2163,7 +2168,7 @@ Each factory built fireplace shall be equipped with a means of providing it with
 
 
 
-*§ 4-12 Application and Protection of Sprayed-on Fireproofing.* ::
+*§ 4-12 Application and Protection of Sprayed-on Fireproofing.*
 
 
 (a) Definitions.
@@ -2199,7 +2204,7 @@ Each factory built fireplace shall be equipped with a means of providing it with
 
 
 
-*§ 4-13 Construction and Installation of Gas Shut-Off Valves.* ::
+*§ 4-13 Construction and Installation of Gas Shut-Off Valves.*
 
 
 (a) General.
@@ -2309,7 +2314,7 @@ Each factory built fireplace shall be equipped with a means of providing it with
 
 
 
-*§ 4-14 Installation and Use of Oil Burning Equipment and the Storage of Oils Used in Connection Therewith.* ::
+*§ 4-14 Installation and Use of Oil Burning Equipment and the Storage of Oils Used in Connection Therewith.*
 
 
 (a) Scope.
@@ -2551,7 +2556,7 @@ Each factory built fireplace shall be equipped with a means of providing it with
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If distant 25 feet from line of adjoining property which may be built upon
       - 16,000 gallons
@@ -2567,6 +2572,7 @@ Each factory built fireplace shall be equipped with a means of providing it with
       - 96,000 gallons
     * - If distant 85 feet or more
       - 100,000 gallons
+
 ~
 
 
@@ -2744,7 +2750,7 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
 
 
-*§ 4-15 Inspection of Approved Opening Protective Assemblies.* ::
+*§ 4-15 Inspection of Approved Opening Protective Assemblies.*
 
 
 (a) Definitions.
@@ -2788,7 +2794,7 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
 
 
-*§ 4-16 Design, Construction and Installation of Plastic Pipe and Fittings.* ::
+*§ 4-16 Design, Construction and Installation of Plastic Pipe and Fittings.*
 
 
 (a) Scope. These rules are to be considered as supplemental to and not in substitution of all applicable provisions of the Building Code. (Where provisions of these rules differ from provisions of the Building Code, the more restrictive requirements shall apply.)
@@ -2838,7 +2844,7 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
 
 
-*§ 4-17 Use of Methyl Chloride in Class B and C Refrigerating Systems.* ::
+*§ 4-17 Use of Methyl Chloride in Class B and C Refrigerating Systems.*
 
 
 (a) Scope. These rules are supplementary and additional to the requirements of § 27-4116 of the Administrative Code providing for the use of methyl chloride in class B and class C refrigerating systems. The promulgation of these rules has become necessary because of the military requirements for Freon (F12). Methyl chloride, while not permitted to be used in class A systems, is permissively allowed in class B and C systems. However, when used in refrigerating systems which formerly used Freon, additional precautions and safeguards are necessary to adapt the refrigerating equipment for use with methyl chloride.
@@ -2886,7 +2892,7 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
 
 
-*§ 4-18 Exterior Veneering Materials.* ::
+*§ 4-18 Exterior Veneering Materials.*
 
 
 (a) Scope. These rules are supplementary and additional to the requirements pertaining to exterior veneering materials not exceeding 2" in thickness, so as to provide for the sufficiency of attaching and anchoring mediums on such exterior veneers in accordance with the intent of the Administrative Building Code as outlined in § C26-3.0. They shall apply to veneering materials of metal, cement-asbestos, precast or natural stone, marble, ceramic, tile, concrete masonry units, glass sheets, glass block, plastic materials and other veneering materials, as may be approved by the Board. Note: These rules shall not apply to interior veneering materials. Extracts from the Administrative Building Code contained herein in small type have been assigned decimal rule numbers for convenient reference only and are not to be construed as rules.
@@ -3027,11 +3033,11 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
 
 Chapter 5: Rule Repeal and Recodification*
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 5-01 Rules Repealed, Renumbered and Transferred Effective May 5, 2019.* ::
+*§ 5-01 Rules Repealed, Renumbered and Transferred Effective May 5, 2019.*
 
 
 The reorganization and recodification of Chapters 3 through 26 of the rules of the Board of Standards and Appeals effective May 5, 2019 is shown in Table 5-01.
@@ -3042,12 +3048,13 @@ TABLE 5-01CROSS-REFERENCE TABLE OF RULES REPEALED, RENUMBERED AND TRANSFERRED
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Prior BSA Section(2 RCNY)
       - Action
       - BSA Section(2 RCNY)Effective May 5, 2019
       - FDNY Section(3 RCNY)Effective May 5, 2019
+
 ~
 
 
@@ -3056,7 +3063,7 @@ TABLE 5-01CROSS-REFERENCE TABLE OF RULES REPEALED, RENUMBERED AND TRANSFERRED
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - N/A
       - New Section
@@ -3226,6 +3233,7 @@ TABLE 5-01CROSS-REFERENCE TABLE OF RULES REPEALED, RENUMBERED AND TRANSFERRED
       - Repeal
       - N/A
       - N/A
+
 ~
 
  

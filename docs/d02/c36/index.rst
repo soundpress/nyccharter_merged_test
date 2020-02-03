@@ -1,12 +1,12 @@
 Title 53: Conflicts of Interest Board
-===================================================
+======================================================================================================
 
 Chapter 1: Conflicts of Interest
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Valuable Gifts.* ::
+*§ 1-01 Valuable Gifts.*
 
 
 (a)  For the purposes of Charter § 2604(b)(5), a "valuable gift" means any gift to a public servant which has a value of $50.00 or more, whether in the form of money, service, loan, travel, entertainment, hospitality, thing or promise, or in any other form. Two or more gifts to a public servant shall be deemed to be a single gift for purposes of this subdivision and Charter § 2604(b)(5) if they are given to the public servant within a twelve-month period under one or more of the following circumstances: (1) they are given by the same person; and/or (2) they are given by persons who the public servant knows or should know are (i) relatives or domestic partners of one another; or (ii) are directors, trustees, or employees of the same firm or affiliated firms.
@@ -78,7 +78,7 @@ Chapter 1: Conflicts of Interest
 
 
 
-*§ 1-02 Public Servants Charged with Substantial Policy Discretion.* ::
+*§ 1-02 Public Servants Charged with Substantial Policy Discretion.*
 
 
 (a) For purposes of Charter § 2604(b)(12) and § 2604(b)(15), a public servant is deemed to have substantial policy discretion if he or she has major responsibilities and exercises independent judgment in connection with determining important agency matters. Public servants with substantial policy discretion include, but are not limited to: agency heads, deputy agency heads, assistant agency heads, public servants in charge of any major office, division, bureau, or unit of an agency, and members of boards and commissions other than community boards. Agency heads shall:
@@ -98,7 +98,7 @@ Chapter 1: Conflicts of Interest
 
 
 
-*§ 1-03 Definition of Lesser Political Office Than That of Assembly District Leader Which May be Held by Members of the City Council.* ::
+*§ 1-03 Definition of Lesser Political Office Than That of Assembly District Leader Which May be Held by Members of the City Council.*
 
 
 For purposes of Charter § 2604(b)(15), the definition of a political office which is a "lesser political office" than that of assembly district leader includes:
@@ -116,7 +116,7 @@ For purposes of Charter § 2604(b)(15), the definition of a political office whi
 
 
 
-*§ 1-04 Definition of a Firm Whose Shares are Publicly Traded.* ::
+*§ 1-04 Definition of a Firm Whose Shares are Publicly Traded.*
 
 
 For purposes of Charter § 2604(a)(1)(b), "a firm whose shares are publicly traded" means a firm which offers or sells its shares to the public and is listed and registered with the Securities Exchange Commission for public trading on national securities exchanges or over-the-counter markets.
@@ -126,7 +126,7 @@ For purposes of Charter § 2604(a)(1)(b), "a firm whose shares are publicly trad
 
 
 
-*§ 1-05 Definition of Blind Trust.* ::
+*§ 1-05 Definition of Blind Trust.*
 
 
 (a)  For purposes of Charter § 2601(6), the term "blind trust" means a trust in which a public servant, or the public servant's spouse, domestic partner, as defined in New York City Administrative Code § 1-112(21), or unemancipated child, has a beneficial interest, the holdings and sources of income of which the public servant, the public servant's spouse, domestic partner, as defined in New York City Administrative Code § 1-112(21), and unemancipated child have no knowledge, and which meets the following requirements:
@@ -168,7 +168,7 @@ For purposes of Charter § 2604(a)(1)(b), "a firm whose shares are publicly trad
 
 
 
-*§ 1-06 Definition of Primary Employment with the City.* ::
+*§ 1-06 Definition of Primary Employment with the City.*
 
 
 (a) For purposes of Charter § 2601(20), "primary employment with the City" means the employment of those public servants who receive compensation from the City and are employed on a full-time basis or the equivalent or who are regularly scheduled to work the equivalent of 20 or more hours per week.
@@ -182,7 +182,7 @@ For purposes of Charter § 2604(a)(1)(b), "a firm whose shares are publicly trad
 
 
 
-*§ 1-07 Definition of Agency Served by a Former Public Servant.* ::
+*§ 1-07 Definition of Agency Served by a Former Public Servant.*
 
 
 For the purposes of Charter § 2604(d)(2), when a former public servant has served more than one agency within one year prior to the termination of such person's service with the City, the former public servant shall not appear before each such City agency for a period of one year after the termination of service from each such agency.
@@ -192,7 +192,7 @@ For the purposes of Charter § 2604(d)(2), when a former public servant has serv
 
 
 
-*§ 1-08 Definition of “other similar entity” within the definition of “firm”.* ::
+*§ 1-08 Definition of “other similar entity” within the definition of “firm”.*
 
 
 (a) For the purposes of Charter § 2601(11), the term “other similar entity” includes, but is not limited to, any of the following entities:
@@ -228,7 +228,7 @@ Editor's note: Former section renumbered as 53 RCNY § 4-01.
 
 
 
-*§ 1-09 Prohibited Appearances Before City Agencies by City Planning Commissioners.* ::
+*§ 1-09 Prohibited Appearances Before City Agencies by City Planning Commissioners.*
 
 
 (a) Definitions.
@@ -260,7 +260,7 @@ Editor's note: Former section renumbered as 53 RCNY § 4-01.
 
 
 
-*§ 1-10 Prohibited Business or Financial Relationships Between a Superior and a Subordinate.* ::
+*§ 1-10 Prohibited Business or Financial Relationships Between a Superior and a Subordinate.*
 
 
 (a) For purposes of Charter § 2604(b)(14), the term “business or financial relationship” between a superior and subordinate includes but is not limited to:
@@ -306,7 +306,7 @@ Editor's note: Former section renumbered as 53 RCNY § 4-02.
 
 
 
-*§ 1-11 Adjustment of Dollar Amount in Definition of "Ownership Interest".* ::
+*§ 1-11 Adjustment of Dollar Amount in Definition of "Ownership Interest".*
 
 
 Effective as of January 1, 2018, the dollar amount in the definition of "Ownership Interest" in subdivision (16) of § 2601 of the New York City Charter shall be adjusted from $48,000 to $50,000.
@@ -318,7 +318,7 @@ Effective as of January 1, 2018, the dollar amount in the definition of "Ownersh
 
 
 
-*§ 1-12 Definition of "Particular Matter" for Tax Commissioners and Certain Other Public Servants in the Tax Commission, Department of Finance, Comptroller's Office, and Law Department in Relation to Real Estate Tax Assessments.* ::
+*§ 1-12 Definition of "Particular Matter" for Tax Commissioners and Certain Other Public Servants in the Tax Commission, Department of Finance, Comptroller's Office, and Law Department in Relation to Real Estate Tax Assessments.*
 
 
 (a)  Pursuant to City Charter § 2604(d)(4), no former public servant who has served on or been employed by the Tax Commission, the Department of Finance, the Comptroller's Office, or the Law Department shall appear, whether paid or unpaid, before the City, or receive compensation for any services rendered, in relation to a proceeding involving a tax year or the immediately subsequent tax year for a given parcel of property with respect to which the public servant engaged in one or more of the activities described in subdivision (b).
@@ -330,7 +330,7 @@ Effective as of January 1, 2018, the dollar amount in the definition of "Ownersh
 
 
 
-*§ 1-13 Conduct Prohibited by City Charter § 2604(b)(2).* ::
+*§ 1-13 Conduct Prohibited by City Charter § 2604(b)(2).*
 
 
 (a)  Except as provided in subdivision 3 of this section, it shall be a violation of City Charter § 2604(b)(2) for any public servant to pursue personal and private activities during times when the public servant is required to perform services for the City.
@@ -372,7 +372,7 @@ Effective as of January 1, 2018, the dollar amount in the definition of "Ownersh
 
 
 
-*§ 1-14 Official Fundraising.* ::
+*§ 1-14 Official Fundraising.*
 
 
 (a) For purposes of Charter § 2604(b)(2) and Charter § 2604(b)(3), a public servant may use his or her position as a public servant to solicit a donation provided that all of the following conditions are met:
@@ -416,7 +416,7 @@ Editor's note: Former section renumbered as 53 RCNY § 4-03.
 
 
 
-*§ 1-15 Special Rules for Community Board Members.* ::
+*§ 1-15 Special Rules for Community Board Members.*
 
 
 (a) Voting and Private Interests. For purposes of Charter §§ 2604(b)(1)(b) and 2604(b)(2), a community board member shall not vote at a community board meeting on any matter that may result in a personal and direct economic gain to the member or to any person or firm associated with the member, within the meaning of Charter § 2601(5), but the member may participate in discussion about such matter at a community board meeting after the member discloses at such meeting his or her private interest.
@@ -472,7 +472,7 @@ Editor's note: Former section renumbered as 53 RCNY § 4-04.
 
 
 
-*§ 1-16 Prohibited Gifts from Lobbyists and Exceptions Thereto.* ::
+*§ 1-16 Prohibited Gifts from Lobbyists and Exceptions Thereto.*
 
 
 (a)  Pursuant to Administrative Code § 3-225, no person required to be listed on a statement of registration pursuant to § 3-213(c)(1) of the Administrative Code shall offer or give a gift to any public servant.
@@ -534,7 +534,7 @@ Editor's note: Former section renumbered as 53 RCNY § 4-04.
 
 
 
-*§ 1-17 Procedures to Appeal a Designation as a Required Filer of a Financial Disclosure Report.* ::
+*§ 1-17 Procedures to Appeal a Designation as a Required Filer of a Financial Disclosure Report.*
 
 
 (a) Applicability. Any employee designated as a required filer by his or her agency may appeal the determination that he or she is required to file a financial disclosure report with the Conflicts of Interest Board ("the Board") pursuant to New York City Administrative Code § 12-110, first to his or her agency head and then to the Board.
@@ -621,11 +621,11 @@ Editor's note: Former section renumbered as 53 RCNY § 4-04.
 
 
 Chapter 2: Procedural Rules for Enforcement Actions
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Applicability and Definitions.* ::
+*§ 2-01 Applicability and Definitions.*
 
 
 (a) Applicability. This chapter establishes the procedural rules for enforcement actions brought pursuant to Charter § 2603(h) to address alleged violations of:
@@ -661,7 +661,7 @@ Chapter 2: Procedural Rules for Enforcement Actions
 
 
 
-*§ 2-02 Informal Proceedings.* ::
+*§ 2-02 Informal Proceedings.*
 
 
 (a) Notice of Initial Determination of Probable Cause. For the purposes of Charter § 2603(h)(1), the Board will commence an enforcement action by serving a Notice of Initial Determination of Probable Cause by first class mail to the respondent's last known residential address or actual place of business.
@@ -719,7 +719,7 @@ Chapter 2: Procedural Rules for Enforcement Actions
 
 
 
-*§ 2-03 Formal Proceedings.* ::
+*§ 2-03 Formal Proceedings.*
 
 
 (a) Designation of OATH. For the purposes of Charter § 2603(h)(2), and in accordance with Charter § 1048, the Board designates OATH to conduct hearings in accordance with the OATH Rules, except as otherwise provided by these rules.
@@ -774,11 +774,11 @@ Chapter 2: Procedural Rules for Enforcement Actions
 
 
 Chapter 4: Annual Disclosure
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Procedures for Obtaining an Extension of Time Within Which to File a Financial Disclosure Report.* ::
+*§ 4-01 Procedures for Obtaining an Extension of Time Within Which to File a Financial Disclosure Report.*
 
 
 (a) Bases for obtaining an extension of time to file.
@@ -832,7 +832,7 @@ Chapter 4: Annual Disclosure
 
 
 
-*§ 4-02 Retention of Financial Disclosure Reports.* ::
+*§ 4-02 Retention of Financial Disclosure Reports.*
 
 
 (a) Definitions. As used in this Rule, the following terms shall have the respective meanings set forth below:
@@ -866,7 +866,7 @@ Chapter 4: Annual Disclosure
 
 
 
-*§ 4-03 City Employees Holding Policymaking Positions for Purposes of the Financial Disclosure Law.* ::
+*§ 4-03 City Employees Holding Policymaking Positions for Purposes of the Financial Disclosure Law.*
 
 
 For purposes of Administrative Code § 12-110(b)(3)(a)(3), a City employee shall be deemed to hold a policymaking position, and therefore be required to file a financial disclosure report, if such employee is charged with substantial policy discretion within the meaning of 53 RCNY § 1-02.
@@ -878,7 +878,7 @@ For purposes of Administrative Code § 12-110(b)(3)(a)(3), a City employee shall
 
 
 
-*§ 4-04 City Employees Whose Duties Involve the Negotiation, Authorization, or Approval of Contracts and of Certain Other Matters.* ::
+*§ 4-04 City Employees Whose Duties Involve the Negotiation, Authorization, or Approval of Contracts and of Certain Other Matters.*
 
 
 (a)  For purposes of Administrative Code § 12-110(b)(3)(a)(4), a City employee shall be deemed to have duties that involve the negotiation, authorization, or approval of contracts, leases, franchises, revocable consents, concessions, and applications for zoning changes, variances, and special permits if the employee performs any of the following duties:
@@ -905,11 +905,11 @@ For purposes of Administrative Code § 12-110(b)(3)(a)(3), a City employee shall
 
 
 Chapter 3: Organizations Affiliated with Elected Officials
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01. Definitions.* ::
+*§ 3-01. Definitions.*
 
 
 For purposes of this chapter, the following terms have these meanings:
@@ -963,7 +963,7 @@ There shall be a rebuttable presumption of control by an elected official where 
 
 
 
-*§ 3-02. Procedures for Obtaining a Determination by the Board that an Elected Official or an Agent of an Elected Official Does Not Exercise Control over an Entity.* ::
+*§ 3-02. Procedures for Obtaining a Determination by the Board that an Elected Official or an Agent of an Elected Official Does Not Exercise Control over an Entity.*
 
 
 For purposes of Administrative Code § 3-904(c), a non-profit entity may apply to the Board for a formal determination that an elected official or an agent of an elected official does not exercise control over the entity. Such an application must be in writing, signed by an agent of the not-for-profit entity, and provide a detailed explanation of the underlying facts that show why, consistent with the considerations included in the definition of “organization affiliated with an elected official” set forth in Administrative Code § 3-901 and 53 RCNY § 3-03, the entity should not be considered an “organization affiliated with an elected official.”
@@ -975,7 +975,7 @@ For purposes of Administrative Code § 3-904(c), a non-profit entity may apply t
 
 
 
-*§ 3-03. Factors by which the Board Will Determine Whether an Entity is Affiliated with an Elected Official.* ::
+*§ 3-03. Factors by which the Board Will Determine Whether an Entity is Affiliated with an Elected Official.*
 
 
 For purposes of Administrative Code § 3-901, in determining whether a person holding office as Mayor, Comptroller, Public Advocate, Borough President or member of the Council, or an agent or appointee of such a person, exercises control over a non-profit entity, the Board will consider the totality of the circumstances by weighing each of the following individual factors:
@@ -1003,7 +1003,7 @@ For purposes of Administrative Code § 3-901, in determining whether a person ho
 
 
 
-*§ 3-04. Annual Reporting by Organizations Affiliated with an Elected Official.* ::
+*§ 3-04. Annual Reporting by Organizations Affiliated with an Elected Official.*
 
 
 Pursuant to Administrative Code § 3-902, all organizations affiliated with an elected official must submit the reporting required pursuant to Administrative Code § 3-902(a) on the Board’s website, no later than August 1 for the previous calendar year, as follows.
@@ -1081,7 +1081,7 @@ Editor's note: Pursuant to Section 2 of the rule adding this section, subsection
 
 
 
-*§ 3-05. Record Retention.* ::
+*§ 3-05. Record Retention.*
 
 
 (a) Records to be Retained. An organization affiliated with an elected official must retain all documents that enable the Board to verify the accuracy of the reporting required pursuant to Administrative Code § 3-902. Organizations must maintain clear and accurate records sufficient to demonstrate compliance with Administrative Code §§ 3-901 to 3-907.
@@ -1096,11 +1096,11 @@ Editor's note: Pursuant to Section 2 of the rule adding this section, subsection
 
 
 Chapter 5: Legal Defense Trusts
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 5-01 Definitions.* ::
+*§ 5-01 Definitions.*
 
 
 "In-kind donation" means any donation of any value, other than money, such as the use of space, materials, supplies, or perishables. The donation value of an in-kind donation will be established by a reasonable estimate of that portion of its fair market value that is not paid or reimbursed by the trust. Personal expenses paid by the trustee(s) or volunteer clerical staff for the purpose of administering the trust are not in-kind donations.
@@ -1114,7 +1114,7 @@ Chapter 5: Legal Defense Trusts
 
 
 
-*§ 5-02 Donations.* ::
+*§ 5-02 Donations.*
 
 
 (a) Multiple donations made by a person shall be aggregated for the purposes of the:
@@ -1136,7 +1136,7 @@ Chapter 5: Legal Defense Trusts
 
 
 
-*§ 5-03 Reporting and Disclosure.* ::
+*§ 5-03 Reporting and Disclosure.*
 
 
 (a) In addition to the information required by Administrative Code § 3-1103(a)(1) regarding the reporting of donations, the trustee(s) must:
@@ -1182,7 +1182,7 @@ Chapter 5: Legal Defense Trusts
 
 
 
-*§ 5-04 Dissolution.* ::
+*§ 5-04 Dissolution.*
 
 
 (a) If the trustee(s) returns donations on dissolution of a legal defense trust, the trustee(s) must submit in the last disclosure report, pursuant to Administrative Code § 3-1103:
@@ -1212,7 +1212,7 @@ Chapter 5: Legal Defense Trusts
 
 
 
-*§ 5-05 Electronic Submission of Compliance Documents.* ::
+*§ 5-05 Electronic Submission of Compliance Documents.*
 
 
 All information and documents required by this chapter must be submitted by the trustee(s) using the reporting website maintained by the Board.
@@ -1224,7 +1224,7 @@ All information and documents required by this chapter must be submitted by the 
 
 
 
-*§ 5-06 Record Retention.* ::
+*§ 5-06 Record Retention.*
 
 
 The trustee(s) must maintain records and documents sufficient to demonstrate compliance with these rules and must retain these records and documents for 2 years following completion of the final audit upon dissolution of the legal defense trust.

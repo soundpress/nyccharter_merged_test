@@ -1,12 +1,12 @@
 Title 41: Department of Juvenile Justice
-===================================================
+======================================================================================================
 
 Chapter 1: Compliance With FOIL
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Purpose and Scope.* ::
+*§ 1-01 Purpose and Scope.*
 
 
 (a) The people's right to know the process of government decision-making and the documents and statistics leading to determinations is basic to our society. Access to such information should not be thwarted by shrouding it with the cloak of secrecy or confidentiality.
@@ -22,7 +22,7 @@ Chapter 1: Compliance With FOIL
 
 
 
-*§ 1-02 Designation of Records Access Officer.* ::
+*§ 1-02 Designation of Records Access Officer.*
 
 
 (a) Commissioner Rose W. Washington is responsible for insuring compliance with the regulations herein, and designates the following person as Records Access Officer:
@@ -60,7 +60,7 @@ Chapter 1: Compliance With FOIL
 
 
 
-*§ 1-03 Location.* ::
+*§ 1-03 Location.*
 
 
 Records shall be available for public inspection and copying at:
@@ -72,7 +72,7 @@ Department of Juvenile Justice 365 Broadway New York, NY 10013 (212) 925-7779
 
 
 
-*§ 1-04 Hours for Public Inspection.* ::
+*§ 1-04 Hours for Public Inspection.*
 
 
 Requests for public access to records shall be accepted and records produced during all hours regularly open for business. These hours are: 9 a.m. – 5 p.m.
@@ -82,7 +82,7 @@ Requests for public access to records shall be accepted and records produced dur
 
 
 
-*§ 1-05 Subject Matter List.* ::
+*§ 1-05 Subject Matter List.*
 
 
 (a) The Records Access Officer shall maintain a reasonably detailed current list by subject matter of all records in the possession of the agency, whether or not records are available pursuant to Subdivision two of Section eighty-seven of the Public Officers Law.
@@ -94,7 +94,7 @@ Requests for public access to records shall be accepted and records produced dur
 
 
 
-*§ 1-06 Records Not Subject to FOIL Requests.* ::
+*§ 1-06 Records Not Subject to FOIL Requests.*
 
 
 The following records are specifically excluded from coverage under these regulations and public access may be denied to records or portions thereof that:
@@ -130,7 +130,7 @@ The following records are specifically excluded from coverage under these regula
 
 
 
-*§ 1-07 Procedures for Making Requests, Responses.* ::
+*§ 1-07 Procedures for Making Requests, Responses.*
 
 
 (a) Any request to inspect and/or copy records shall be made in writing and addressed to the Records Access Officer of the agency. The requests shall reasonably describe the record or records sought and shall, whenever possible, supply information regarding dates, file designations or other information which will enable the Records Access Officer to identify the records sought.
@@ -146,7 +146,7 @@ The following records are specifically excluded from coverage under these regula
 
 
 
-*§ 1-08 Denial of Access to Records.* ::
+*§ 1-08 Denial of Access to Records.*
 
 
 Denial of access to records shall be in writing stating the reason therefore and advising the requester of the right to appeal to the individual or body established to hear appeals.
@@ -156,7 +156,7 @@ Denial of access to records shall be in writing stating the reason therefore and
 
 
 
-*§ 1-09 Procedure for Appeals.* ::
+*§ 1-09 Procedure for Appeals.*
 
 
 (a) When a request for inspection has been denied in writing in whole or in part by the Records Access Officer, the requesting party shall have thirty days after receipt of the denial within which to appeal. An appeal shall be in writing, addressed to the agency's Appeals Officer. The following person shall hear appeals for denial of access to records under the Freedom of Information Law:
@@ -188,7 +188,7 @@ Denial of access to records shall be in writing stating the reason therefore and
 
 
 
-*§ 1-10 Fees.* ::
+*§ 1-10 Fees.*
 
 
 (a) There shall be no fee charged for:
@@ -208,7 +208,7 @@ Denial of access to records shall be in writing stating the reason therefore and
 
 
 
-*§ 1-11 Public Notice.* ::
+*§ 1-11 Public Notice.*
 
 
 A notice containing the title or name and business address of the Records Access Officer and Appeals Officer, and the time and location where records can be seen or copied shall be posted in a conspicuous location wherever records are kept.
@@ -218,7 +218,7 @@ A notice containing the title or name and business address of the Records Access
 
 
 
-*§ 1-12 Removal of Records.* ::
+*§ 1-12 Removal of Records.*
 
 
 In no case shall the agency permit the removal of agency records from agency premises by a requesting party.
@@ -228,7 +228,7 @@ In no case shall the agency permit the removal of agency records from agency pre
 
 
 
-*§ 1-13 Severability.* ::
+*§ 1-13 Severability.*
 
 
 If any provision of these regulations or the application thereof to any person or circumstances is adjudged invalid by a court of competent jurisdiction, such judgment shall not affect or impair the validity of the other provisions of these regulations or the application thereof to other persons and circumstances.
@@ -237,11 +237,11 @@ If any provision of these regulations or the application thereof to any person o
 
 
 Chapter 2: Adjudications
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Conducted by the Office of Administrative Trials and Hearings.* ::
+*§ 2-01 Conducted by the Office of Administrative Trials and Hearings.*
 
 
 Pursuant to the New York City Charter, §§ 1041 and 1046-48, the Department of Juvenile Justice has determined that adjudications shall be conducted by the Office of Administrative Trials and Hearings.
@@ -251,7 +251,7 @@ Pursuant to the New York City Charter, §§ 1041 and 1046-48, the Department of 
 
 
 
-*§ 2-02 Findings of Fact and Decisions.* ::
+*§ 2-02 Findings of Fact and Decisions.*
 
 
 Adjudications arising under § 75 of the Civil Service Law and the Citywide collective bargaining agreement, if referred to the Office of Administrative Trials and Hearings, shall be conducted by the Office of Administrative Trials and Hearings. The OATH Administrative Law Judge shall make written proposed findings of fact and recommend decisions.
@@ -260,11 +260,11 @@ Adjudications arising under § 75 of the Civil Service Law and the Citywide coll
 
 
 Chapter 3: Guidelines For Continuity and Provision of Medical Care
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Purpose.* ::
+*§ 3-01 Purpose.*
 
 
 (a)  It is the treatment philosophy of the Department of Juvenile Justice ("the Department" or "DJJ") to seek the active participation of the resident, his/her parent(s) or legal guardian(s), and previous health care providers, in the care and treatment of residents in the custody of the Department.
@@ -278,7 +278,7 @@ Chapter 3: Guidelines For Continuity and Provision of Medical Care
 
 
 
-*§ 3-02 Parental Involvement.* ::
+*§ 3-02 Parental Involvement.*
 
 
 (a)  Upon a youth's admission to a Department facility, DJJ shall promptly seek to have the parent/legal guardian execute appropriate consent forms authorizing routine medical treatment.
@@ -302,7 +302,7 @@ Chapter 3: Guidelines For Continuity and Provision of Medical Care
 
 
 
-*§ 3-03 Consultation With Prior Medical Providers.* ::
+*§ 3-03 Consultation With Prior Medical Providers.*
 
 
 (a)  If a newly admitted resident had been under the continuous and uninterrupted care of a physician or hospital prior to admission to the Department, upon admission to a DJJ facility, DJJ shall make reasonable efforts to confirm with the prior provider the following information:
@@ -326,7 +326,7 @@ Chapter 3: Guidelines For Continuity and Provision of Medical Care
 
 
 
-*§ 3-04 Information Regarding Medical and Psychiatric Care and Medications.* ::
+*§ 3-04 Information Regarding Medical and Psychiatric Care and Medications.*
 
 
 (a)  When a youth is remanded to DJJ, DJJ shall use a Medication Referral Form (such as the form currently in use, annexed as Appendix A, or a revised form which may be developed by DJJ as needed), to obtain information concerning a resident's current medication regimen from a parent, legal guardian, or prior provider. This form shall be made available in the Courthouse.
@@ -338,7 +338,7 @@ Chapter 3: Guidelines For Continuity and Provision of Medical Care
 
 
 
-*§ 3-05 Routine Medical Care and Emergency Treatment.* ::
+*§ 3-05 Routine Medical Care and Emergency Treatment.*
 
 
 Nothing in these Guidelines shall preclude DJJ from administering routine medical care and emergency treatment.
@@ -348,7 +348,7 @@ Nothing in these Guidelines shall preclude DJJ from administering routine medica
 
 
 
-*§ 3-06 Disagreement With Prior Treatment and/or Court-Ordered Treatment.* ::
+*§ 3-06 Disagreement With Prior Treatment and/or Court-Ordered Treatment.*
 
 
 (a)  In the event that the parent or legal guardian of a resident is absent, non-responsive or otherwise uninvolved, and DJJ proposes a "substantial alteration" to medical or psychiatric are or medication prescribed by a prior treatment provider, DJJ shall contact the prior treatment provider in accordance with the procedures set forth in 41 RCNY § 3-03 above. In the event that DJJ and a resident's prior treatment provider disagree regarding the resident's treatment, DJJ shall provide written notification of its alternative treatment plan to the Court wherein the delinquency matter is pending by the next business day.

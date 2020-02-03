@@ -1,8 +1,8 @@
 Title 45: Borough Presidents
-===================================================
+======================================================================================================
 
 Chapter 1: President of the Borough of the Bronx
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11,7 +11,7 @@ Chapter 1: President of the Borough of the Bronx
 
 
 
-*§ 1-01 Procedure for Issuance of House Numbers.* ::
+*§ 1-01 Procedure for Issuance of House Numbers.*
 
 
 The architect, builder, owner or his or her agent must provide to the office of the Borough President, Bureau of Topography, a completed Department of Buildings "New Buildings Application" form which includes a description and the location of the property and building involved, the signature of the owner and the signature and seal of the registered architect, and a diagram indicating the filed grades and their relationship to the rest of the block, including street corners. The form certified, along with a street status report, which reflect ownership of the street, and the official house number is the issued.
@@ -26,7 +26,7 @@ The architect, builder, owner or his or her agent must provide to the office of 
 
 
 
-*§ 1-02 Definitions.* ::
+*§ 1-02 Definitions.*
 
 
 Whenever used in this subchapter, the following terms shall be deemed to mean and include:
@@ -52,7 +52,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
 
 
 
-*§ 1-03 Schedule of Fees, Charges and Limitations.* ::
+*§ 1-03 Schedule of Fees, Charges and Limitations.*
 
 
 (a)  The fees for the processing of the below listed applications and requests submitted to the Topographical Bureau shall be as follows:
@@ -61,7 +61,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Fee 
@@ -73,6 +73,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
       - $3,000.00 per map sheet
     * - (4)  alteration map preparation
       - $4,500 for up to two sheets and$1,500 for each additional sheet, not toexceed a total charge of $9,000.
+
 ~
 
 
@@ -84,7 +85,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
 
 
 
-*§ 1-04 Payment Method.* ::
+*§ 1-04 Payment Method.*
 
 
 Except as specifically provided in this section, every application for the preparation of an alteration map, review of an alteration map, issuance of a street address or review and report of street status made after July 1, 2004 shall include a non-returnable fee which shall be paid by certified check or money order made payable to the New York City Department of Finance. Fees shall be paid when the application is filed, and no application will be processed by the Borough President's Office until the fee is paid in full.
@@ -93,7 +94,7 @@ Except as specifically provided in this section, every application for the prepa
 
 
 Chapter 2: President of the Borough of Brooklyn
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -102,7 +103,7 @@ Chapter 2: President of the Borough of Brooklyn
 
 
 
-*§ 2-01 Procedure for Issuance of House Numbers.* ::
+*§ 2-01 Procedure for Issuance of House Numbers.*
 
 
 The following Regulations are established pursuant to Chapter 5, § 3-505 of the Administrative Code of the City of New York.
@@ -129,7 +130,7 @@ The following Regulations are established pursuant to Chapter 5, § 3-505 of the
 
 
 
-*§ 2-11 Applicability.* ::
+*§ 2-11 Applicability.*
 
 
 These Rules apply to the public hearings conducted pursuant to the New York City Charter or other applicable law or rule by the President of the Borough of Brooklyn ("Borough President") or his or her designee.
@@ -139,7 +140,7 @@ These Rules apply to the public hearings conducted pursuant to the New York City
 
 
 
-*§ 2-12 Notice of Public Hearing and Agenda.* ::
+*§ 2-12 Notice of Public Hearing and Agenda.*
 
 
 Notice of the date, day, time, place and subject of a public hearing shall be by publication in the City Record for the five days of publication immediately preceding and including the date of the public hearing. An agenda for the public hearing shall be available at the public hearing.
@@ -149,7 +150,7 @@ Notice of the date, day, time, place and subject of a public hearing shall be by
 
 
 
-*§ 2-13 Conduct of Public Hearings.* ::
+*§ 2-13 Conduct of Public Hearings.*
 
 
 (a) Locations. Public hearings shall be held in the Community Room at the Brooklyn Borough Hall, 209 Joralemon Street, Brooklyn, New York, or such other place as may be determined by the Borough President and listed in the notice.
@@ -167,7 +168,7 @@ Notice of the date, day, time, place and subject of a public hearing shall be by
 
 
 
-*§ 2-14 Borough President's Actions.* ::
+*§ 2-14 Borough President's Actions.*
 
 
 The Borough President may adjourn, continue or close any public hearing. The Borough President may make no recommendation, or may approve, approve with modification, disapprove or conditionally disapprove any matter on the agenda of a public hearing.
@@ -182,7 +183,7 @@ The Borough President may adjourn, continue or close any public hearing. The Bor
 
 
 
-*§ 2-15 Definitions.* ::
+*§ 2-15 Definitions.*
 
 
 Whenever used in this subchapter, the following terms shall be deemed to mean and include:
@@ -214,7 +215,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
 
 
 
-*§ 2-16 Schedule of Fees, Charges and Limitations.* ::
+*§ 2-16 Schedule of Fees, Charges and Limitations.*
 
 
 (a)  The fees for the processing of the below listed applications and requests submitted to the Topographical Bureau shall be as follows:
@@ -223,7 +224,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  (1)  street number application
       - $100.00 per street number
@@ -233,6 +234,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
       - $3,000.00 per map (A separate additional fee of $3,000 is required if a proposed alteration of the City Map will also require the discontinuance and closing of a portion of a street.)
     * -  (4)  vanity address application
       - $5,500.00
+
 ~
 
 
@@ -243,7 +245,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
 
 
 Chapter 3: President of the Borough of Manhattan
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -252,7 +254,7 @@ Chapter 3: President of the Borough of Manhattan
 
 
 
-*§ 3-01 House Number Specifications.* ::
+*§ 3-01 House Number Specifications.*
 
 
 (a) Power of the Borough President. The Borough President is empowered to establish and enforce rules and regulations relating to the size, form, visibility and location of house numbers.
@@ -280,7 +282,7 @@ Chapter 3: President of the Borough of Manhattan
 
 
 
-*§ 3-02 Directional Sign – Display of House Numbers.* ::
+*§ 3-02 Directional Sign – Display of House Numbers.*
 
 
 These Rules and Regulations shall apply in addition to the "House Numbers" regulations in all cases where the Borough President of Manhattan determines that house numbers may not be clearly visible from the street upon which the address is assigned.
@@ -302,7 +304,7 @@ Note: This situation usually arises with respect to buildings which are set back
 
 
 
-*§ 3-03 Interior Directional Signs.* ::
+*§ 3-03 Interior Directional Signs.*
 
 
 (a) These Rules and Regulations shall apply, in all cases where the Borough President of Manhattan determines that house numbers may not clearly direct the public to their designated location within the building(s) assigned.
@@ -329,7 +331,7 @@ Note: This situation usually arises with respect to developments where two or mo
 
 
 
-*§ 3-04 Definitions.* ::
+*§ 3-04 Definitions.*
 
 
 (a)  "Alteration Map" means a map which shows the proposed changes to the City Map and is prepared by the Topographical Bureau or a qualified consultant who is a licensed professional engineer or registered architect.
@@ -349,7 +351,7 @@ Note: This situation usually arises with respect to developments where two or mo
 
 
 
-*§ 3-05 Schedule of Fees.* ::
+*§ 3-05 Schedule of Fees.*
 
 
 (a)  The fees for the processing of the below-listed applications and requests submitted to the Topographical Bureau shall be as follows:
@@ -358,7 +360,7 @@ Note: This situation usually arises with respect to developments where two or mo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (1)  Alteration Map Preparation
       - $12,000.00 for up to two map sheets and $2,500.00 for each additional map sheet, not to exceed a total charge of $18,000.00. 
@@ -370,6 +372,7 @@ Note: This situation usually arises with respect to developments where two or mo
       - $250.00
     * - (5)  Vanity Address Request
       - $11,00.00
+
 ~
 
 
@@ -383,7 +386,7 @@ Note: This situation usually arises with respect to developments where two or mo
 
 
 
-*§ 3-06 Payment Method.* ::
+*§ 3-06 Payment Method.*
 
 
 Except as specifically provided in this section, every application for the preparation of an alteration map, review of an alteration map, address assignment, address verification, or vanity address request shall include a non-returnable fee, which shall be paid by certified check or money order made payable to the Office of the Manhattan Borough President. Fees shall be paid when the application is filed, and no application will be processed by the Borough President's office until the fee is paid in full.
@@ -392,7 +395,7 @@ Except as specifically provided in this section, every application for the prepa
 
 
 Chapter 4: President of the Borough of Queens
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -401,7 +404,7 @@ Chapter 4: President of the Borough of Queens
 
 
 
-*§ 4-01 Applicability.* ::
+*§ 4-01 Applicability.*
 
 
 These rules apply to public hearings conducted pursuant to the New York City Charter or other applicable law or rule by the President of the Borough of Queens ("Borough President") or his or her designee.
@@ -411,7 +414,7 @@ These rules apply to public hearings conducted pursuant to the New York City Cha
 
 
 
-*§ 4-02 Notice of Public Hearing and Agenda.* ::
+*§ 4-02 Notice of Public Hearing and Agenda.*
 
 
 Notice of the date, day, time, place and subject of a public hearing shall be by publication in the City Record for the five days of publication immediately preceding and including the date of the public hearing. An agenda for the public hearing shall be available at the public hearing.
@@ -421,7 +424,7 @@ Notice of the date, day, time, place and subject of a public hearing shall be by
 
 
 
-*§ 4-03 Conduct of Public Hearings.* ::
+*§ 4-03 Conduct of Public Hearings.*
 
 
 (a) Location. Public hearings shall be held in Room 213 at Queens Borough Hall, 120-55 Queens Boulevard, Kew Gardens, New York, or other such place as may be determined by the Borough President and listed in the notice.
@@ -439,7 +442,7 @@ Notice of the date, day, time, place and subject of a public hearing shall be by
 
 
 
-*§ 4-04 Borough President's Actions.* ::
+*§ 4-04 Borough President's Actions.*
 
 
 The Borough President may adjourn, continue or close any public hearing. The Borough President may make no recommendation, or may approve, approve with modification, disapprove or conditionally disapprove any matter on the agenda of a public hearing.
@@ -454,7 +457,7 @@ The Borough President may adjourn, continue or close any public hearing. The Bor
 
 
 
-*§ 4-05 Vanity Addresses.* ::
+*§ 4-05 Vanity Addresses.*
 
 
 Vanity addresses will be assigned by the Office of the Queens Borough President, at its discretion.
@@ -476,7 +479,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 
 
 
-*§ 4-06 Vanity Address Specifications.* ::
+*§ 4-06 Vanity Address Specifications.*
 
 
 (a) Specifications. All vanity addresses must be at least five (5) inches in height and may be metal, metal foil, glass, plastic, wood or paint in make-up; where such house numbers are displayed in paint, such numbers must be an even and uniform 5/8".
@@ -504,7 +507,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 
 
 
-*§ 4-07 Directional Sign-display of Vanity Addresses.* ::
+*§ 4-07 Directional Sign-display of Vanity Addresses.*
 
 
 (a) Sign facing city streets. A directional sign must be installed within five (5) feet of the building line, facing the street upon which the address is assigned. The sign must display all the assigned addresses, in addition to the name of the street, and must include arrows or other symbols, approved by the Queens Borough President's Office, to direct pedestrians toward the building entrance.
@@ -524,7 +527,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 
 
 
-*§ 4-08 Interior Directional Signs.* ::
+*§ 4-08 Interior Directional Signs.*
 
 
 (a) This section applies in all cases where the Queens Borough President's Office determines that addresses may not clearly direct the public to their designated location within the building(s) assigned: This situation usually arises with respect to developments where two or more buildings have a common entrance, or in cases where specific building towers or sections of a building require separate address designations.
@@ -551,7 +554,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 
 
 
-*§ 4-09 Definitions.* ::
+*§ 4-09 Definitions.*
 
 
 (a)  "Alteration Map" means a map which shows the proposed changes to a City Map and is prepared by the Topographical Bureau or a qualified consultant who is a licensed professional engineer or registered architect.
@@ -577,7 +580,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 
 
 
-*§ 4-10 Schedule of Fees.* ::
+*§ 4-10 Schedule of Fees.*
 
 
 (a)  The fees for the processing of the below-listed applications and requests submitted to the Topographical Bureau shall be as follows: 
@@ -586,7 +589,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (1)  Alteration Map Preparation
       - $12,000.00 for up to two map sheets and $2,500.00 for each additional map sheet, not to exceed a total charge of $18,000.00
@@ -606,6 +609,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
       - $10,500
     * - (9)  Annual Vanity Address Inspection Fee
       - $500
+
 ~
 
  
@@ -615,7 +619,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 
 
 
-*§ 4-11 Payment Method.* ::
+*§ 4-11 Payment Method.*
 
 
 Except as specifically provided in this section, every application for the preparation of an alteration map, review of an alteration map, new building certification, building alteration, to conduct a detailed grade study or issue house numbers, shall include a non-returnable fee, which shall be paid by certified check, money order, bank check or credit card, made payable to the Office of the Queens Borough President. Fees shall be paid when the application is filed, and no application will be processed by the Borough President's Office until the fee is paid in full.
@@ -624,7 +628,7 @@ Except as specifically provided in this section, every application for the prepa
 
 
 Chapter 5: President of the Borough of Staten Island
---------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -633,7 +637,7 @@ Chapter 5: President of the Borough of Staten Island
 
 
 
-*§ 5-01 Applicability.* ::
+*§ 5-01 Applicability.*
 
 
 These Rules apply to public hearings conducted pursuant to the New York City Charter or other applicable law or rule by the President of the Borough of Staten Island ("Borough President") or his or her designee.
@@ -643,7 +647,7 @@ These Rules apply to public hearings conducted pursuant to the New York City Cha
 
 
 
-*§ 5-02 Notice of Public Hearing and Agenda.* ::
+*§ 5-02 Notice of Public Hearing and Agenda.*
 
 
 Notice of the date, day, time, place and subject of a public hearing shall be by publication in the City Record for the five days of publication immediately preceding and including the date of the public hearing. An agenda for the public hearing shall be available at the public hearing.
@@ -653,7 +657,7 @@ Notice of the date, day, time, place and subject of a public hearing shall be by
 
 
 
-*§ 5-03 Conduct of Public Hearings.* ::
+*§ 5-03 Conduct of Public Hearings.*
 
 
 (a) Location. Public hearings shall be held in Room 122 at Staten Island Borough Hall, Saint George, Staten Island, New York, or such other place as may be determined by the Borough President and listed in the notice.
@@ -671,7 +675,7 @@ Notice of the date, day, time, place and subject of a public hearing shall be by
 
 
 
-*§ 5-04 Borough President's Actions.* ::
+*§ 5-04 Borough President's Actions.*
 
 
 The Borough President may adjourn, continue or close any public hearing. The Borough President may make no recommendation, or may approve, approve with modification, disapprove or conditionally disapprove any matter on the agenda of a public hearing.
@@ -686,7 +690,7 @@ The Borough President may adjourn, continue or close any public hearing. The Bor
 
 
 
-*§ 5-05 Definitions.* ::
+*§ 5-05 Definitions.*
 
 
 (a)  "House or building number issuance" means the issuance and recording of a house or building number(s) for a specific lot or lots including:
@@ -702,7 +706,7 @@ The Borough President may adjourn, continue or close any public hearing. The Bor
 
 
 
-*§ 5-06 Fee Schedule.* ::
+*§ 5-06 Fee Schedule.*
 
 
 (a)  The fee for the processing of the below listed application and request submitted to the Topographical Bureau shall be as follows:
@@ -714,7 +718,7 @@ The Borough President may adjourn, continue or close any public hearing. The Bor
 
 
 
-*§ 5-07 Method of Payments.* ::
+*§ 5-07 Method of Payments.*
 
 
 Every application for a house or building number issuance made after August 25, 2003 shall include a non-returnable fee which shall be paid by certified check or money order made payable to the Office of the Staten Island Borough President. Fees shall be paid when an application is filed, and no application will be processed by the Office of the Borough President until the fee is paid in full.
