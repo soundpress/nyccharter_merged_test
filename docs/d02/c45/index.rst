@@ -6507,7 +6507,7 @@ The total amount of the grants authorized by this subchapter shall be limited to
 
 
 
-*Editor's note: The original rule numbered this as § 11-92; because that section number already existed, it has been renumbered at the discretion of the editor.
+* Editor's note: The original rule numbered this as § 11-92; because that section number already existed, it has been renumbered at the discretion of the editor.
 
 
 

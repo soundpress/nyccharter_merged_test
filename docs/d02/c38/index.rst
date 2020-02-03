@@ -1781,7 +1781,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
  
 
-***These fixed-rate charges are in addition to the basic event fee. ***A fee will be imposed for each individual Inflatable as defined by this section. ***A fee will be imposed for each individual Display Vehicle as defined by this section.
+***These fixed-rate charges are in addition to the basic event fee. ***A fee will be imposed for each individual Inflatable as defined by this section. *** A fee will be imposed for each individual Display Vehicle as defined by this section.
 
 (c) This schedule does not apply to the following:
 
@@ -2357,7 +2357,7 @@ This membership does not include session fees. Membership includes, but is not l
       - Adult/Staff Development Groups
     * - The Natural Classroom
       - No Fee
-      - Single classroom or park program: $100 for every 30 participantsCombined classroom and park program: $125 for every 30 participants*Schools receiving Title I funding are eligible for a 50% discount.
+      - Single classroom or park program: $100 for every 30 participantsCombined classroom and park program: $125 for every 30 participants* Schools receiving Title I funding are eligible for a 50% discount.
       - Single classroom or park program: $100 for every 30 participants
       - Single classroom or park program: $250 for every 30 participants
     * - Custom Adventure – Day Program
@@ -2993,11 +2993,11 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
 
 (e)*   The Department may, at its sole discretion, retain a Vessel from being removed or released from the Marinas where there is an outstanding fee or fees owed to the Department associated with Vessel storage, labor, and/or other services. Such notice of non-release will be provided in writing to the Permittee.
 
-*Editor's note: As lettered in the original rule.
+* Editor's note: As lettered in the original rule.
 
 (f)*   In addition to any penalties provided for in the chapter, violations of these rules shall be punishable as provided in 56 RCNY § 1-07.
 
-*Editor's note: As lettered in the original rule.
+* Editor's note: As lettered in the original rule.
 
 (g) West 79th Street Boat Basin
 

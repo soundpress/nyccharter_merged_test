@@ -6825,7 +6825,7 @@ A freelance worker is entitled to the protections of the Freelance Isn’t Free 
 
 (b) As used in this subchapter, the following terms have the same meanings as set forth in Section 20-1201* of the Fair Workweek Law: “fast food employee,” “fast food employer,” “fast food establishment,” “on-call shift,” “regular shift,” “retail employee,” “retail employer,” “schedule change premium,” “work schedule.”
 
-*Editor's note: The original rule cited Section 12-1201 of the Fair Workweek Law; cite corrected at the discretion of the editor.
+* Editor's note: The original rule cited Section 12-1201 of the Fair Workweek Law; cite corrected at the discretion of the editor.
 
 
 
@@ -6875,7 +6875,7 @@ The notice of rights required to be posted, pursuant to Section 20-1205 of the F
 
 (a) On or before a fast food employee’s first day of work, a fast food employer must provide such fast food employee with written notice of an initial work schedule containing all regular shifts and all on-call shifts the fast food employee will work until the start of the first shift of the next subsequent work schedule. The fast food employer must also issue an updated work schedule as required in paragraph (2) of subdivision (c) of Section 20-1221* of the Fair Workweek Law.
 
-*Editor's note: The original rule cited Section 1221 of the Fair Workweek Law; cite corrected at the discretion of the editor.
+* Editor's note: The original rule cited Section 1221 of the Fair Workweek Law; cite corrected at the discretion of the editor.
 
 (b) A work schedule provided, pursuant to Section 20-1252 of the Fair Workweek Law must span a period of no less than seven days.
 

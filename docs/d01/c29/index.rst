@@ -2873,7 +2873,7 @@ Information, full unit. The term “full unit information” means, with respect
 
 Information, limited unit. The term “limited unit information” means, with respect to a dwelling unit, the full unit information for such unit excluding the information described by paragraphs 2, 6, and 7 of the definition of full unit information; and
 
-   *2. Any information described by paragraph 8 of such definition that the department specifies by rule.
+   * 2. Any information described by paragraph 8 of such definition that the department specifies by rule.
 
 * Editor's note: as numbered in L.L. 2018/064.
 

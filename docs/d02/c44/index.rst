@@ -113,7 +113,7 @@ An owner of a designated property may apply for approval of a master plan when t
 
 The Landmarks Preservation Commission will not process an application for work on a designated property when a Landmarks Preservation Commission Summons is in effect against that property. A Summons in effect against that property indicates non-compliance with the Landmarks Law. With respect to Chapter 63* of the Rules of the City of New York and §§ 25-301 through 25-322 of the Administrative Code, the term "Summons" will be construed to include and apply to any previously issued "Notice of Violation."
 
-*Editor's note: So in original; should likely be "Title 63".
+* Editor's note: So in original; should likely be "Title 63".
 
 (a) Effect of a Summons on Processing of a New Application. Upon receipt of an application, LPC Staff must verify that no Summons is in effect against the property. If a Summons is in effect, LPC Staff will:
 
@@ -2363,7 +2363,7 @@ LPC staff. "LPC Staff" means the staff of the Landmarks Preservation Commission 
 
 Summons. "Summons" means a notice from the Landmarks Preservation Commission that work on a landmark site or within an historic district was performed without a permit or was not performed in accordance with a permit issued by the Landmarks Preservation Commission. With respect to Chapter 63* of the Rules of the City of New York and §§ 25-301 through 25-322 of the Administrative Code, the term "Summons" will be construed to include and apply to any previously issued "Notice of Violation."
 
-*Editor's note: So in original; should likely be "Title 63".
+* Editor's note: So in original; should likely be "Title 63".
 
 Story. "Story" is defined as a habitable floor level, including a basement but not including a cellar.
 

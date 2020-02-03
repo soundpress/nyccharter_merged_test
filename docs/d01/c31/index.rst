@@ -6046,7 +6046,7 @@ Exceptions:
 
    9.1. Unless exception 9.2* applies, the minimum civil penalty for a violation of section 28-210.1 in any building involving the illegal conversion, maintenance or occupancy of three or more dwelling units above the number of dwelling units that is legally authorized by the certificate of occupancy or if no certificate of occupancy is required as evidenced by official records shall be $15,000. Each dwelling unit above the number that is legally authorized by the certificate of occupancy or if no certificate of occupancy is required as evidenced by official records shall constitute a separate offense that shall be charged separately and shall be punishable by a separate civil penalty. Provided, however, that the penalties for multiple violations of this exception may be based on the same evidence; and
 
-*Editor's note: L.L. 2018/070 failed to renumber this internal reference; renumbered at the discretion of the Code editor.
+* Editor's note: L.L. 2018/070 failed to renumber this internal reference; renumbered at the discretion of the Code editor.
 
    9.2. The owner of a building shall not be subject to a civil penalty for a violation of section 28-210.1 in such building if such owner can show the following:
 

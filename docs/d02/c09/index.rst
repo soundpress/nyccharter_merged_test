@@ -6463,7 +6463,7 @@ Where corporations are taxed on a combined basis, the tax will be measured by th
 
 (§ 11-602(8)(f), Administrative Code.)
 
-(a) A deduction similar to that allowed under § 172 of the Internal Revenue Code may be allowable in computing entire net income for the purposes of Subchapter 2 of Chapter 6 of Title 11. For New York City tax purposes, as for Federal tax purposes, except as provided in subdivision (b) of this section, a net operating loss may be carried back to each of the three taxable years preceding the year in which the loss was sustained, and may be carried forward to each of the five following taxable years. The New York `City net operating loss deduction is presumably the same as that allowed for Federal tax purposes, subject to three limitations explained hereunder.
+(a) A deduction similar to that allowed under § 172 of the Internal Revenue Code may be allowable in computing entire net income for the purposes of Subchapter 2 of Chapter 6 of Title 11. For New York City tax purposes, as for Federal tax purposes, except as provided in subdivision (b) of this section, a net operating loss may be carried back to each of the three taxable years preceding the year in which the loss was sustained, and may be carried forward to each of the five following taxable years. The New York 'City net operating loss deduction is presumably the same as that allowed for Federal tax purposes, subject to three limitations explained hereunder.
 
 (b) One of these limitations is that no deduction is allowable for a loss sustained during any taxable year in which the taxpayer was not subject to tax under Subchapter 2 of Chapter 6 of Title 11.
 
@@ -14482,37 +14482,37 @@ Example: Y Co. partnership operated by individuals A, B, C, E and G sustained a 
       - 1975
       - 1976
       - 1977
-    * - *A 
+    * - * A 
       -   15%
       -  X
       -   15%
       -   25%
-    * - *B 
+    * - * B 
       - 20%
       - 35%
       - 15%
       - 20%
-    * - *C 
+    * - * C 
       - 15%
       - 20%
       - 15%
       - 20%
-    * - *D 
+    * - * D 
       - 40%
       - 35%
       - X
       - X
-    * - *E 
+    * - * E 
       - 10%
       - 5%
       - 35%
       - 10%
-    * - *F 
+    * - * F 
       - X
       - 5%
       - X
       - 25%
-    * - *G 
+    * - * G 
       -  X 
       -  X 
       -  20% 
@@ -19180,9 +19180,9 @@ Section 1805 of the real property tax law requires that certain changes to asses
 
  
 
-*The initial tax liability will be based on the lower of the building actual AV or building transitional AV.
+* The initial tax liability will be based on the lower of the building actual AV or building transitional AV.
 
-**FY 2008/09 Tax Rate Assume an initial tax rate of 10% for 2008/09 for illustrative purposes
+** FY 2008/09 Tax Rate Assume an initial tax rate of 10% for 2008/09 for illustrative purposes
 
 h. The post-completion tax liability is the tax liability for the building or structure on the tax roll with a taxable status date immediately following the earlier of completion of construction, or four years from the date of issuance of the first building permit or commencement of construction, if no building permit was required, multiplied by the initial tax rate.
 
@@ -19215,7 +19215,7 @@ Example: In this case, the construction was completed by November 2011; therefor
 
  
 
-*Post completion tax is based on the lower of the actual AV or transitional AV.
+* Post completion tax is based on the lower of the actual AV or transitional AV.
 
 The abatement base is equal to the post-completion tax liability less 115% of the initial tax liability.
 

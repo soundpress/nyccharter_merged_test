@@ -3720,7 +3720,7 @@ Chapter 56: Paratransit Drivers
 
 (l) [Reserved.] No Transporting Property Only.
 
-(m) No `Marketing' to Passengers. A Driver must not sell or advertise any service or merchandise to the passengers without prior written approval from the Commission. 
+(m) No 'Marketing' to Passengers. A Driver must not sell or advertise any service or merchandise to the passengers without prior written approval from the Commission. 
 
  
 
@@ -5596,7 +5596,7 @@ Chapter 57: Commuter Van Drivers
 
 (l) [Reserved.] No Property.
 
-(m) [Reserved.] No `Marketing' to Passengers.
+(m) [Reserved.] No 'Marketing' to Passengers.
 
 (n) [Reserved.] Handling Passengers with Infectious Diseases.
 
@@ -9032,7 +9032,7 @@ Chapter 58: Medallion Taxicab Service
 
    (4) Any continuous trip where the point of origin and the destination are both within the limits of the City of New York will not be considered a trip beyond the City limits, even though the shortest and most direct route requires traveling outside the City limits but within continuous counties. The Taximeter must be kept in the recording position throughout the trip.
 
-`   (d) [Reserved.]
+'   (d) [Reserved.]
 
 (e) No Charge for Luggage or Mobility Aids. There will be no charge for:
 

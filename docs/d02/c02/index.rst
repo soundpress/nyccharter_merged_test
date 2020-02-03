@@ -898,7 +898,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
       (A) Written examination fees shall be paid at the time of submission of the application. Such fees are non-refundable.
 
-      (B) Applicants for a practical examination will be notified of the date by which the applicable examination fee must be paid. Such examination fees are non-refundable, except when applicants give proper and timely notice of cancellation in accordance with the procedures set forth in the Department`s notice of examination or other applicable notice.
+      (B) Applicants for a practical examination will be notified of the date by which the applicable examination fee must be paid. Such examination fees are non-refundable, except when applicants give proper and timely notice of cancellation in accordance with the procedures set forth in the Department's notice of examination or other applicable notice.
 
    (8) Applicants delinquent on child support payments. In accordance with the United States Social Security Act, 42 U.S.C. § 666(a)(13), and New York State General Obligations Law § 3-503, applications for original or renewal certificates will be reviewed for compliance with child support obligations and will be denied when required by such laws when the applicant has been identified by the Office of Child Support Enforcement of the New York City Human Resources Administration (or any successor agency) as delinquent on child support payments. Applicants for certificates will be required to disclose their social security numbers on their applications for purposes of such review.
 

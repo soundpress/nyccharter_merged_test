@@ -2554,7 +2554,7 @@ The following regulations shall apply to pre-demolition abatement activities:
 
  
 
-*Subsections (b), (j), (l), (u), (v) and (z) only.
+* Subsections (b), (j), (l), (u), (v) and (z) only.
 
 
 
@@ -5877,7 +5877,7 @@ Ultra low sulfur diesel fuel. "Ultra low sulfur diesel fuel" shall mean diesel f
 *§ 14-02 Best Available Technology Determination.*
 
 
-An engine that has been certified to meet the United States Environmental Protection Agency's ("EPA") Tier IV Exhaust Emission Standards is deemed to be using the Best Available Technology ("BAT"), and does not require additional retrofit technologies. EPA's Tier IV Exhaust Emission Standards are described in Table 1 of the EPA`s Clean Air Nonroad Diesel Rule Fact Sheet, EPA420-F-04-032, May 2004, available at http://www.epa.gov/nonroaddiesel/2004fr/420f04032.htm. If an engine has not been certified to meet the Tier IV Exhaust Emission Standards, pursuant to § 24-163.3 of the Administrative Code, the BAT that must be utilized is one of the following, provided, that this technology shall achieve the greatest reduction in emissions of particulate matter and shall in no event result in an increase in the emissions of either particulate matter or nitrogen oxides:
+An engine that has been certified to meet the United States Environmental Protection Agency's ("EPA") Tier IV Exhaust Emission Standards is deemed to be using the Best Available Technology ("BAT"), and does not require additional retrofit technologies. EPA's Tier IV Exhaust Emission Standards are described in Table 1 of the EPA's Clean Air Nonroad Diesel Rule Fact Sheet, EPA420-F-04-032, May 2004, available at http://www.epa.gov/nonroaddiesel/2004fr/420f04032.htm. If an engine has not been certified to meet the Tier IV Exhaust Emission Standards, pursuant to § 24-163.3 of the Administrative Code, the BAT that must be utilized is one of the following, provided, that this technology shall achieve the greatest reduction in emissions of particulate matter and shall in no event result in an increase in the emissions of either particulate matter or nitrogen oxides:
 
 Category I (a) Any properly installed and functioning system utilizing a Diesel Particulate Filter ("DPF") that primarily reduces emissions of particulate matter ("PM"), demonstrating an 85% or greater reduction in PM, and secondarily nitrogen oxide ("NOx") that appears on either the United States Environmental Protection Agency ("EPA") or the California Air Resources Board ("CARB") verified lists at http://www.epa.gov/otaq/retrofit/verif-list.htm and http://www.arb.ca.gov/diesel/verdev/background.htm for onroad or nonroad engines.
 

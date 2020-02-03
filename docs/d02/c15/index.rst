@@ -2846,7 +2846,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
       (ii) Special permit. A "special permit" as found in MDL § 281(2)(iv) is a term referring to a grandfathering procedure specified in the Zoning Resolution which involves a discretionary determination, and approval by the City Planning Commission, to which the application must initially be made, and by the Board of Estimate or any entity which succeeds it in this function.**
 
-   (3.) Living Independently. For purposes of MDL § 281 and these rules, "living independently" means having attributes of `independent living' by a family in each residential unit, such as:
+   (3.) Living Independently. For purposes of MDL § 281 and these rules, "living independently" means having attributes of 'independent living' by a family in each residential unit, such as:
 
       (i) a separate entrance providing direct access to the residential unit from a street or public area, such as a hallway, elevator, or stairway within a building;
 

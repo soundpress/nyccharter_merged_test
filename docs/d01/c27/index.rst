@@ -3223,9 +3223,9 @@ When used in the New York city noise control code the following terms shall have
 
 (e) The commissioner shall adopt rules prescribing specific time frames for inspections in response to after hours noise complaints received by the department in order to ensure that such inspections are most likely to occur at (i) a time that the alleged noise is continued from the time of the complaint or (ii) at a time when the alleged noise is likely to be repeated.
 
-*(f) The commissioner shall publish on the city’s website the manner by which noise levels shall be measured during inspections conducted pursuant to this section and in accordance with section 24-217.1 which shall be available online.
+* (f) The commissioner shall publish on the city’s website the manner by which noise levels shall be measured during inspections conducted pursuant to this section and in accordance with section 24-217.1 which shall be available online.
 
-*(f) By no later than January 31 of each year, the department shall submit to the mayor and the council, and publicly post on its website, a report, containing, at a minimum, for the previous calendar year:
+* (f) By no later than January 31 of each year, the department shall submit to the mayor and the council, and publicly post on its website, a report, containing, at a minimum, for the previous calendar year:
 
 * Editor's note: there are two subsections designated as (f).
 

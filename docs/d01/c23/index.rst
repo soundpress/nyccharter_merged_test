@@ -4308,7 +4308,7 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-*Editor's note: Section 2 of L.L. 2016/143 provides: "This local law takes effect immediately and is deemed repealed 15 years after it becomes law."
+* Editor's note: Section 2 of L.L. 2016/143 provides: "This local law takes effect immediately and is deemed repealed 15 years after it becomes law."
 
 
 
@@ -4366,7 +4366,7 @@ ACS shall conduct an internal review of the effectiveness of the current system 
 
 
 
-*Editor's note: Section 2 of L.L. 2017/169 provides: "This local law takes effect immediately and is deemed repealed after the submission of the report required in section one."
+* Editor's note: Section 2 of L.L. 2017/169 provides: "This local law takes effect immediately and is deemed repealed after the submission of the report required in section one."
 
 
 

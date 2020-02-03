@@ -1408,7 +1408,7 @@ a. For the purposes of this section, the following terms shall mean and include:
 
    13. "Cumulative distributions of transferable earnings for prior base fiscal years". In relation to a base fiscal year, the total of all payments of transferable earnings made or required to be made by the pension fund to the police officer's variable supplements fund and the superior police officers' variable supplements fund with respect to all prior base fiscal years pursuant to subdivisions c and d of this section.
 
-   14. *Police officer's variable supplements fund". The police officer's variable supplements fund established by subchapter three of this chapter.
+   14. * Police officer's variable supplements fund". The police officer's variable supplements fund established by subchapter three of this chapter.
 
    15. "Police superior officers' variable supplements fund". The police superior officers' variable supplements fund established by subchapter four of this chapter.
 

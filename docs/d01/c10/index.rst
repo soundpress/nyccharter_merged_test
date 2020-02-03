@@ -6564,7 +6564,7 @@ Chapter 5: City Unincorporated Business Income Tax
 
    (5) Application of credit. 
 
-      (A) If the amount of the credit allowable under this subdivision for any taxable year exceeds the taxpayer's tax for such year, fifty percent of the excess shall be treated as an overpayment of tax to be credited or refunded as provided in section 11-526 of this chapter, provided, however, that notwithstanding the provisions of section 11-528 of this chapter, no interest shall be paid thereon. The balance of such credit not credited or refunded in such taxable year may be carried over to the immediately succeeding taxable year and may be deducted from the taxpayer`s tax for such year. The excess, if any, of the amount of the credit over the tax for such succeeding year shall be treated as an overpayment of tax to be credited or refunded in accordance with the provisions of section 11-526 of this chapter, provided, however, that notwithstanding the provisions of section 11-528 of this chapter, no interest shall be paid thereon.
+      (A) If the amount of the credit allowable under this subdivision for any taxable year exceeds the taxpayer's tax for such year, fifty percent of the excess shall be treated as an overpayment of tax to be credited or refunded as provided in section 11-526 of this chapter, provided, however, that notwithstanding the provisions of section 11-528 of this chapter, no interest shall be paid thereon. The balance of such credit not credited or refunded in such taxable year may be carried over to the immediately succeeding taxable year and may be deducted from the taxpayer's tax for such year. The excess, if any, of the amount of the credit over the tax for such succeeding year shall be treated as an overpayment of tax to be credited or refunded in accordance with the provisions of section 11-526 of this chapter, provided, however, that notwithstanding the provisions of section 11-528 of this chapter, no interest shall be paid thereon.
 
       (B) Notwithstanding anything contained in this section to the contrary, the credit provided by this subdivision shall be allowed against the taxes authorized by this chapter for the taxable year after reduction by all other credits permitted by this chapter.
 
@@ -8455,7 +8455,7 @@ If the tenant's base rent is over fifty-nine thousand nine hundred ninety-nine d
 
  
 
-If the tenant's base rent is over one hundred thirty-nine thousand nine hundred ninety-nine dollars, no credit shall be allowed under this paragraph. For purposes of this paragraph, `base rent' shall be calculated without regard to any reduction in base rent allowed by paragraph two of subdivision h of section 11-704 of this chapter.
+If the tenant's base rent is over one hundred thirty-nine thousand nine hundred ninety-nine dollars, no credit shall be allowed under this paragraph. For purposes of this paragraph, 'base rent' shall be calculated without regard to any reduction in base rent allowed by paragraph two of subdivision h of section 11-704 of this chapter.
 
    (4) For the period beginning June first, two thousand and ending November thirtieth, two thousand, a credit shall be allowed against the tax imposed by this chapter, such credit to be determined in accordance with the following table:
 
@@ -8490,7 +8490,7 @@ If the tenant's base rent is over one hundred thirty-nine thousand nine hundred 
 
  
 
-If the tenant's annualized base rent for such period is over one hundred thirty-nine thousand nine hundred ninety-nine dollars, no credit shall be allowed under this paragraph. For purposes of this paragraph `base rent' shall be calculated without regard to any reduction in base rent allowed by paragraph two of subdivision h of section 11-704 of this chapter.
+If the tenant's annualized base rent for such period is over one hundred thirty-nine thousand nine hundred ninety-nine dollars, no credit shall be allowed under this paragraph. For purposes of this paragraph 'base rent' shall be calculated without regard to any reduction in base rent allowed by paragraph two of subdivision h of section 11-704 of this chapter.
 
    (5) For the period beginning December first, two thousand and ending May thirty-first, two thousand one, a credit shall be allowed against the tax imposed by this chapter, such credit to be determined in accordance with the following table:
 
@@ -8525,9 +8525,9 @@ If the tenant's annualized base rent for such period is over one hundred thirty-
 
  
 
-If the tenant's annualized base rent for such period is over one hundred eighty-nine thousand nine hundred ninety-nine dollars, no credit shall be allowed under this paragraph. For purposes of this paragraph, `base rent' shall be calculated without regard to any reduction in base rent allowed by paragraph two of subdivision h of section 11-704 of this chapter.
+If the tenant's annualized base rent for such period is over one hundred eighty-nine thousand nine hundred ninety-nine dollars, no credit shall be allowed under this paragraph. For purposes of this paragraph, 'base rent' shall be calculated without regard to any reduction in base rent allowed by paragraph two of subdivision h of section 11-704 of this chapter.
 
-   (6) For each tax year beginning on or after June first, two thousand one, a credit shall be allowed against the tax imposed by this chapter as follows: a tenant whose base rent is at least two hundred and fifty thousand dollars but not more than three hundred thousand dollars shall be allowed a credit in an amount determined by multiplying three and nine-tenths percent of base rent by a fraction the numerator of which is three hundred thousand dollars minus the amount of base rent and the denominator of which is fifty thousand dollars. If the tenant's base rent is over three hundred thousand dollars, no credit shall be allowed under this paragraph. For purposes of this paragraph, `base rent' shall be calculated without regard to any reduction in base rent allowed by paragraph two of subdivision h of section 11-704 of this chapter.
+   (6) For each tax year beginning on or after June first, two thousand one, a credit shall be allowed against the tax imposed by this chapter as follows: a tenant whose base rent is at least two hundred and fifty thousand dollars but not more than three hundred thousand dollars shall be allowed a credit in an amount determined by multiplying three and nine-tenths percent of base rent by a fraction the numerator of which is three hundred thousand dollars minus the amount of base rent and the denominator of which is fifty thousand dollars. If the tenant's base rent is over three hundred thousand dollars, no credit shall be allowed under this paragraph. For purposes of this paragraph, 'base rent' shall be calculated without regard to any reduction in base rent allowed by paragraph two of subdivision h of section 11-704 of this chapter.
 
 (b) (1)    Where the base rent of a tenant is for a period of less than one year, such base rent shall, for purposes of this section, be determined as if it had been on an equivalent basis for the entire year. The credits allowed under this section shall be deducted prior to the deduction of any credit allowable under section 11-704.1 of this chapter.
 

@@ -317,9 +317,9 @@ Table 1. Volume of Course Aggregate per Unit of Volume of Concrete*
 
  
 
-*Values established at Median-Point (reduced 5%). See footnote Table 5.3.6 ACI 211.1-74.
+* Values established at Median-Point (reduced 5%). See footnote Table 5.3.6 ACI 211.1-74.
 
-**The type and graduation of the course aggregate, delivery system and job conditions may require these values to be varied. However in no event shall the variations exceed the maximum allowance noted in ACI 211.1-74 Table 5.3.6.
+** The type and graduation of the course aggregate, delivery system and job conditions may require these values to be varied. However in no event shall the variations exceed the maximum allowance noted in ACI 211.1-74 Table 5.3.6.
 
       (iii) For sand lightweight concrete be proportioned in accordance with ACI 211.2.-69 utilizing Table 2 except that the air dry unit weight of the concrete may exceed 115 lb. per cu. ft. when tested at age 56 days in accordance with procedure in ASTM C 567.
 
@@ -368,9 +368,9 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
  
 
-***Volumes are based upon lightweight aggregate at a total moisture content of 8 percent in loose conditions as described in ASTM C29.
+*** Volumes are based upon lightweight aggregate at a total moisture content of 8 percent in loose conditions as described in ASTM C29.
 
-****These values may be increased based on the type, graduation and moisture content of the aggregates, delivery system and job conditions.
+**** These values may be increased based on the type, graduation and moisture content of the aggregates, delivery system and job conditions.
 
    (2) (i) The type, graduation and moisture content of the aggregate delivery system and job conditions may affect the slump necessary at the mixer for the proper conveying of the concrete. For these reasons in addition to the recommended mix established from the preliminary trial mix data obtained in accordance with § 27-605(a)(2), two alternative mixes also shall be recommended. These alternate mixes shall be based upon the water cement ratio curve in the preliminary test data to produce concrete having slumps greater than the maximum specified in § 27-605(a)(2) in increments of l-inch for concrete manufactured with gravel or stone aggregate best not to exceed 8 inches or increments of 2 inches for concrete manufactured with lightweight aggregates but not to exceed 9 inches.
 

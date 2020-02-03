@@ -2969,9 +2969,9 @@ Through Truck Route Network
       - Kenmare Street to Canal Street
     * - Laight Street
       - Varick Street to Canal Street
-    * - **Queens Midtown Tunnel
+    * - ** Queens Midtown Tunnel
       - 34th Street to Tunnel Approach
-    * - **Queens Midtown Tunnel
+    * - ** Queens Midtown Tunnel
       - 34th Street to Tunnel Exit
     * - Trans-Manhattan Expway
       - Alexander Hamilton Bridge to George Washington Bridge
@@ -2989,7 +2989,7 @@ Through Truck Route Network
       - 34th Street to 42nd Street
     * - 12th Avenue
       - 22nd Street to 34th Street
-    * - **34th Street
+    * - ** 34th Street
       - Queens Midtown Tunnel Entrance to Dyer Avenue
     * - 34th Street
       - Dyer Avenue to 12th Avenue

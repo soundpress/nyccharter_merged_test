@@ -10166,7 +10166,7 @@ Table a – Relocation Allowance Payment for Personal Property
 
 (m) Determination of Claimant's Eligibility for Relocation Services.*
 
-*Editor's note: There were two subsections designated as (2) in this subsection (m); renumbered at the discretion of the editor.
+* Editor's note: There were two subsections designated as (2) in this subsection (m); renumbered at the discretion of the editor.
 
    (1) HPD will provide a written determination approving or denying a Claimant's eligibility for applicable Relocation Services. 
 										
@@ -12079,7 +12079,7 @@ Where there is a practical difficulty in carrying out the strict letter of the p
 
    (4) Such signs shall be displayed in each such apartment, suite of rooms, single-room unit and living room, in conformity with the applicable requirement of paragraphs two, three and four of this subdivision.
 
-   (5) Such signs need not be displayed in any apartment, suite of rooms, single-room unit or dormitory in a hotel (whether a class A or class B multiple dwelling), which apartment, suite, unit or dormitory consists of a room or rooms used for class B occupancy (see definitions of `room used for class B occupancy') lawfully, during any time while such apartment, suite, unit or dormitory is occupied for sleeping purposes by any person or persons, none of whom has occupied same for such purposes for a continuous period exceeding eighty-five days.
+   (5) Such signs need not be displayed in any apartment, suite of rooms, single-room unit or dormitory in a hotel (whether a class A or class B multiple dwelling), which apartment, suite, unit or dormitory consists of a room or rooms used for class B occupancy (see definitions of 'room used for class B occupancy') lawfully, during any time while such apartment, suite, unit or dormitory is occupied for sleeping purposes by any person or persons, none of whom has occupied same for such purposes for a continuous period exceeding eighty-five days.
 
 (b) Accommodations for Transients.
 

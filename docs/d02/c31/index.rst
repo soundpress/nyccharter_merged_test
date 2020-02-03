@@ -2921,7 +2921,7 @@ Unless otherwise indicated, all citations are to the New York City Administrativ
 
 Repeat Violations
 
-**For sections:
+** For sections:
 
 •   16-120(a), (b), (c), (d), (e)•   16-123
 
@@ -2929,7 +2929,7 @@ a second or third violation is:
 
 •   a violation by the same respondent•   of the same section of law as the previous violation(s)•   with a date of occurrence within 12 months of the date of occurrence of the previous violations
 
-***For sections:
+*** For sections:
 
 •   10-119 and 10-120•   16-308(e) and 16-308(f)•   16-404•   16-405(a) and 16-405(b)
 
@@ -2937,19 +2937,19 @@ a repeat violation is:
 
 •   a violation by the same respondent•   of the same section of law as the previous violation•   with a date of occurrence within 12 months of the date of occurrence of the previous violations
 
-****For section 16-119 and 10-169, a repeat violation is:
+**** For section 16-119 and 10-169, a repeat violation is:
 
 •   a violation by the same respondent•   of the same section of law as the previous violation•   with a date of occurrence within 18 months of the date of occurrence of the previous violation
 
-*****For these transfer-station related sections, a repeat violation is:
+***** For these transfer-station related sections, a repeat violation is:
 
 •   a violation by the same respondent•   of the same subdivision of a section of law or rule as the previous violation•   with a date of occurrence within 3 years of the date of occurrence of the previous violation
 
-******For these medical-waste related sections, a repeat violation is:
+****** For these medical-waste related sections, a repeat violation is:
 
 •   a violation by the same respondent•   with a date of occurrence within 18 months of the date of occurrence of the previous violation
 
-*******Daily penalties start on the date of the occurrence stated on the Notice of Violation. Daily penalties continue to be added until:
+******* Daily penalties start on the date of the occurrence stated on the Notice of Violation. Daily penalties continue to be added until:
 
 •   the respondent proves that the violation was corrected on a certain date before the first scheduled hearing date or•   the first scheduled hearing date.
 
@@ -2957,11 +2957,11 @@ The first scheduled hearing date will be sixty days from the date of occurrence.
 
 For all charges except §§ 10-119 and 16-119:
 
-********For § 16-130(b) and 16 RCNY § 4-44, a repeat violation is:
+******** For § 16-130(b) and 16 RCNY § 4-44, a repeat violation is:
 
 •   a violation by an owner or any person•   using or operating a premises, equipment, vehicle(s) or other personal property•   with a date of occurrence within 3 years of the date of occurrence of the previous violation•   in the business of such owner or otherwise•   with the express or implied permission of such owner
 
-*********Except as otherwise provided in this head note, for violations of §§ 16-461(a)(1), 16-461(b), and 16-461(c), a second or subsequent offense is:
+********* Except as otherwise provided in this head note, for violations of §§ 16-461(a)(1), 16-461(b), and 16-461(c), a second or subsequent offense is:
 
 •   a violation by the same respondent•   of the same paragraph or subdivision, as applicable, of a section of law•   with a different date of occurrence within 18 months of the date of occurrence of the previous violation
 
@@ -4276,7 +4276,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 SMALL BUSINESS SERVICES PENALTY SCHEDULE
 
-*For these sections, a repeat violation is a violation by the same respondent of the same section of law as the previous violation with a date of occurrence within 18 months of the date of occurrence of the previous violation.
+* For these sections, a repeat violation is a violation by the same respondent of the same section of law as the previous violation with a date of occurrence within 18 months of the date of occurrence of the previous violation.
 
  
 
