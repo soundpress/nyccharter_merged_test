@@ -1,358 +1,579 @@
-Title 31: Mayor&apos;s Office of Homelessness and Single Room Occupancy
+Title 16-B: Commercial Waste Zones
 ===================================================
 
-Chapter 1: Eligibility of Homeless Families and Individuals To Rent City-Owned Apartment
+Chapter 1: Commercial Waste Zones
 --------------------------------------------------
 
 
 
-*§ 1-01 Eligibility.* ::
+*§ 16-1000 Definitions.* ::
 
 
-(a) Apartments in City-owned buildings may be viewed and rented by families who have been homeless for at least twelve months.
+As used in this title, the following terms shall have the following meanings:
 
-(b) Priority for such housing among eligible families shall be based on length of stay in City-sponsored emergency housing. Families with a longer cumulative stay in such housing shall have a priority for viewing and renting City-owned apartments. In determining the length of stay for this purpose, stays in Tier I or Tier II shelters, Family Centers, hotels (when family has been in continuous receipt of hotel/motel allowance), or City sponsored battered women's programs shall be cumulated. Where a family has a break in residence in excess of 30 days their length of stay should be calculated from the first day of their return to any of the above facilities.
+Awardee. The term “awardee” means an entity with whom the department enters into an agreement for the provision of commercial waste collection services pursuant to section 16-1002.
 
-(c) Exceptions to the policy stated in paragraphs (a) and (b) may be granted in exigent circumstances by the Mayor's office or Homelessness and SRO Housing Services. An exception may be granted only if residence in any facility listed in paragraph (b) would pose a serious and present danger to the life, safety or health of a family member and there is no alternative housing available for the family.
+Bicycle. The term “bicycle” means: (i) a two or three wheeled device upon which a person or persons may ride, propelled by human power through a belt, a chain or gears; (ii) a “pedal-assist bicycle” as defined in section 4-01 of title 34 of the rules of the city of New York or as otherwise defined by the department of transportation; or (iii) any other device upon which a person or persons may ride, as defined by the rules of the department.
 
-(d) Smaller apartments suitable for only single individuals may be assigned to appropriate homeless individuals. They shall be assigned to appropriate homeless individuals:
+Broker. The term “broker” or “trade waste broker” has the same meaning as such term is defined in subdivision g of section 16-501.
 
-   (1) to foster and encourage independence by shelter residents participating in employment programs, and
+Change in control. The term “change in control” means the assignment of an awardee’s agreement with the department entered into pursuant to section 16-1002 from such awardee to a different entity. The effective date of a change in control shall be the date of such assignment.
 
-   (2) to address the special medical needs of an individual who may benefit from housing outside of the shelter system, as determined by ERA in conjunction with a designee of the Mayor's Office on Homelessness and SRO Housing Services.
+Commercial waste. The term “commercial waste” means all trade waste, as defined in subdivision f of section 16-501, except for construction and demolition debris; fill material; medical waste; electronic waste; textiles; yard waste collected by landscapers; waste collected by a one-time, on-call bulk waste removal service; grease; paper that is collected for the purpose of shredding or destruction; or waste that is collected by a micro-hauler. References to “commercial waste” in this title shall be construed to also refer to “containerized commercial waste” unless otherwise specified.
 
+Commercial waste zone. The term “commercial waste zone” or “zone” means a geographic area designated by the commissioner pursuant to section 16-1001.
 
+Commissioner. The term “commissioner” means the commissioner of sanitation.
 
+Containerized commercial waste. The term “containerized commercial waste” means commercial waste that: (i) is stored on the premises of the commercial establishment that generates such waste in a container that has a capacity of 10 cubic yards or more, and which may or may not be equipped with compaction ability and (ii) is transported directly in such container when such container is at or near capacity from such commercial establishment to a transfer, processing or disposal location.
 
-Chapter 2: Single Adult Homeless Shelter
---------------------------------------------------
+Department. The term “department” means the department of sanitation.
 
+Designated carter. The term “designated carter” or “carter” means a licensee that is authorized to provide commercial waste collection services pursuant to an agreement between an awardee and the department entered into pursuant to section 16-1002. The term “designated carter” may describe the awardee or another licensee that the awardee has designated to fulfill the terms of such agreement as specified therein, and provided further that notwithstanding any other provision of this section, the term “designated carter” may also include a person that the awardee has designated to fulfill the terms of such agreement as specified therein who is operating in accordance with the provisions of title 16-A and the rules promulgated pursuant to such title and who is authorized by the business integrity commission to collect certain categories of commercial waste without a license.
 
+Eligible employee. The term “eligible employee” means any person employed in the city of New York by an awardee to perform services under an agreement entered into between the department and such awardee pursuant to section 16-1002, and who has been employed by such awardee for a period of at least six months prior to the effective date of a change in control, provided that such term shall not include persons who are managerial, supervisory or confidential employees.
 
-*§ 2-01 Single Adult Permanent Housing Referral Criteria.* ::
+Global Positioning System. The term “global positioning system” or “GPS” means a global positioning system, or a comparable location tracking technology, that uses navigational satellites to determine a user’s location and velocity in real time and is capable of collecting, storing and transmitting geographical data.
 
+Incumbent employer. The term “incumbent employer” means any person that owns or controls an awardee prior to any change in control.
 
-(a)  Homeless shelters for single adults may not refer clients to permanent housing in buildings that meet one or more of the following criteria:
+Licensee. The term “licensee” means any person licensed to collect trade waste pursuant to title 16-A.
 
-   (1) Buildings that appear on the New York State Department of Health (DOH) Referral Suspension List or on the DOH Uncertified Facilities List, as posted on the DOH website, when a client's exit from shelter is being planned, or when the shelter otherwise considers referring a client to the address.
+Micro-hauler. The term “micro-hauler” means any person that is not a designated carter, does not dispose of waste at a solid waste transfer station and either:
 
-   (2) Buildings that have active vacate orders listed by the NYC Department of Buildings (DOB), Department of Housing Preservation and Development (HPD) and/or the Fire Department (FDNY) on their respective websites when a client's exit from shelter is being planned, or when the shelter otherwise considers referring a client to the address.
+   (1) collects less than 2,600 tons of source separated organic waste from commercial establishments per year and collects such waste exclusively using bicycles; or
 
-   (3) Buildings against which HPD has pending litigation, or with one or more Hazard Class "I" violations as reflected in the HPD "Complaint, Violations and Registration Information" database, when a client's exit from shelter is being planned, or when the shelter otherwise considers referring a client to the address, or buildings that at such time are identified on the HPD website as enrolled in the HPD Alternative Enforcement Program (AEP) established by the New York Administrative Code § 27-2153.
+   (2) collects less than 500 tons of source separated organic waste from commercial establishments per year and collects such waste using exclusively (i) a zero emissions vehicle that has a gross vehicle weight rating of not more than 14,000 pounds or (ii) any other mode of transport specified in the rules of the department.
 
-   (4) Buildings with one or more complaints posted on the DOB website (Buildings Information System or BIS) within the four years preceding the time when a client's exit from shelter is being planned, or when the shelter otherwise considers referring a client to the address, that meet both criteria (i) and (ii) below:
+Organic waste. The term “organic waste” has the same meaning as such term is defined in subdivision a of section 16-306.1.
 
-      (i) Coded as one or more of the following Complaint Categories: 
+Successor employer. The term “successor employer” means any person that owns or controls an awardee after any change in control.
 
- 
+Trade waste. The term “trade waste” has the same meaning as such term is defined in subdivision f of section 16-501.
 
+Transitional employment period. The term “transitional employment period” means a 90 day period beginning upon the effective date of a change in control of an awardee.
 
-.. list-table::
-    :header-rows: 1
 
-    * - Code
-      - Complaint Category Description 
-    * - 31
-      - Certificate of occupancy (CO) – None/Illegal/Contrary to CO
-    * - 45
-      - Illegal conversion
-    * - 71
-      - Single Room Occupancy (SRO) – Illegal work/No permit/Change in occup – use
-~
 
 
 
- 
 
-      (ii) Complaint Disposition Codes that are blank in BIS or are A1 through A9 (violations or summons served) or are C1 through C4 (failure to gain access/access denied).
 
-(b) Referrals by shelters to housing that meets one or more of the criteria set forth in subdivision (a) of this section will be penalized through the Performance Incentive Program, as set forth in the provider's contract with DHS.
 
-(c) A shelter provider may not stop a client from choosing to exit shelter to housing that meets one or more of the criteria set forth in subdivision (a) of this section. Should a client make such a choice, the shelter staff must inform the client that the housing option he or she has chosen fails to meet the minimum standards outlined by DHS. Shelter staff must document this conversation in the client's case record.
+*§ 16-1001 Commercial waste zones; designation.* ::
 
-(d) Using the criteria set forth in subdivision (a) of this section, shelter providers must evaluate a housing option provided by a potential landlord or agent before that landlord or agent presents that housing option to clients within a homeless shelter for single adults. If a shelter provider discovers that a housing option is found to meet one or more of the criteria set forth in subdivision (a) of this section, the shelter provider must prohibit the landlord or agent from presenting this housing option to clients in the shelter.
 
-(e) Should a client view a housing option provided by a potential landlord or agent and believe that it meets one or more of the criteria set forth in subdivision (a) of this section, the shelter provider must offer to assist the client in making a complaint to the 311 citizen service center. The shelter provider must provide the client with access to a telephone if the client does not have one available. If the client refuses to accept the housing option based on his/her report of a condition that would make the housing option inappropriate under such criteria, the shelter provider must not make the referral. If an inspection conducted by the Department of Buildings and/or Department of Housing Preservation and Development subsequent to a 311 complaint determines that the housing option does not meet any of the criteria set forth in subdivision (a) of this section, the shelter provider may make the referral. In the event a client refuses the referred housing option, the reason(s) for the refusal must be documented in the client's case record.
+Notwithstanding any other provision of law, no later than 120 days after the effective date of the local law that added this section, the commissioner shall divide the geographic area of New York city into no less than twenty commercial waste zones. The commissioner may amend the boundaries of such zones or establish additional zones as deemed appropriate by the commissioner and consistent with the purposes of this title. In establishing such commercial waste zones, the commissioner may consider:
 
-(f) Shelter providers must distribute to all clients in shelter a plain language document that describes the conditions that preclude a referral to a housing option meeting one or more of the criteria set forth in subdivision (a) of this section and contains information about how to contact the Department of Buildings and the 311 citizen service center.
+1. The number and types of commercial establishments within the proposed zone;
 
+2. The amount and types of waste generated by commercial establishments within the proposed zone and the potential for achieving the city’s commercial waste reduction goals;
 
+3. Existing service patterns within the proposed zone and the potential for traffic and noise reduction;
 
+4. The types and estimated amounts of recyclable materials generated by commercial establishments within the proposed zone that are required to be recycled, reused or sold for reuse pursuant to section 16-306 and any rules promulgated pursuant thereto;
 
-Chapter 3: Single Adult Homeless Shelter
---------------------------------------------------
+5. The estimated amount of organic waste collected within the proposed zone;
 
+6. The rates being charged by persons licensed pursuant to title 16-A to commercial establishments within the proposed zone;
 
+7. The history of complaints concerning commercial waste collection from commercial establishments within the proposed zone; and
 
-*§ 3-01 Single Adult Resource Assessment.* ::
+8. Any other information or criteria the commissioner deems relevant.
 
 
-(a) Definitions.
 
-   (1) Official shelter: The single adult shelter to which an adult shelter client has been assigned, following intake and assessment.
 
-   (2) Extended absence: An exit from the single adult shelter system lasting at least 30 consecutive days.
 
-   (3) Returnee: An adult shelter client who returns to a single adult shelter after an extended absence and within 365 days.
 
-   (4) Single Adult Resource Assessment: An assessment to identify alternative housing options available to a Returnee and to connect a Returnee to resources or benefits to avoid re-entry into shelter.
 
-   (5) Diversion services: Services offered at a single adult intake center directed at finding non-shelter housing alternatives and resources.
 
-   (6) Diversion office: An office located at a single adult intake center that provides diversion services.
+*§ 16-1002 Agreements.* ::
 
-(b) Upon a Returnee's return to the adult shelter system, shelter staff must determine whether, based on the entirety of the Returnee's circumstances, the Returnee will return to his or her official shelter or be referred to a diversion office for a Single Adult Resource Assessment. Factors whose presence would allow the Returnee to return to his or her official shelter and not be referred for a Single Adult Resource Assessment include but are not limited to:
 
-   (1) The Returnee has a mental or physical disability;
+a. For each area designated as a commercial waste zone pursuant to section 16-1001, the department shall be authorized to select and to enter into agreements with no more than three awardees per zone, permitting each awardee to provide for the collection, transport and removal of commercial waste within such zone as set forth in such agreement. The department shall be further authorized to select and enter into agreements with no more than five awardees permitting each awardee to provide for the collection, transport and removal of containerized commercial waste from any commercial establishment within the city of New York as set forth in such agreement. The department shall only enter into an agreement pursuant to this subdivision with an awardee that has obtained a license issued by the business integrity commission pursuant to subdivision a of section 16-505 on or before the date of such agreement. A proposer that responds to the request for proposals authorized pursuant to subdivision b of this section that does not hold such a license at the time a proposal is submitted pursuant to this section must submit an application for such a license to the business integrity commission no later than the date such proposal is submitted to the department. The initial term of any such agreement shall include authorization to collect, transport and remove commercial waste for ten years in each zone covered by such agreement. The department shall have the option, at its sole discretion, to renew any such agreement for no more than two additional terms of no more than five years each, provided that prior to the expiration of any agreement entered into pursuant to this section, the commissioner shall provide the awardee with adequate written notice of whether it intends to renew such agreement. The department shall not enter into any such agreement with an awardee that results in such awardee providing services in more than fifteen commercial waste zones, provided that any agreement to provide for the collection, transport and removal of containerized commercial waste citywide shall not count toward such limit.
 
-   (2) Either the Returnee, or the primary tenant of the residence where the Returnee had been living prior to returning to shelter, has been evicted;
+b. No later than one year after the effective date of the local law that added this section, the department shall issue one or more requests for proposals to conduct commercial waste removal in a commercial waste zone and to collect containerized commercial waste citywide and, based upon the review and evaluation of responses thereto, may negotiate and enter into such agreements pursuant to subdivision a of this section, as the department, in its discretion, determines will best provide for the efficient and orderly removal of commercial waste, consistent with the provisions of this title. Whenever necessary to ensure the ongoing efficient and orderly removal of commercial waste, the department may issue additional requests for proposals and, based upon the review and evaluation of responses thereto, may negotiate and enter into agreements in accordance with the provisions of this section. Any requests for proposals issued pursuant to this subdivision shall solicit information regarding the qualifications of proposers. Where a proposer intends to arrange for designated carters other than the proposer to provide all or some portion of the services requested, such proposal shall provide the requested information with respect to each designated carter being proposed. When evaluating proposals pursuant to the procedures described in this subdivision, the department shall consider the following factors:
 
-   (3) A vacate order has been issued for the residence where the Returnee had been living during his or her extended absence;
+   1. The rate or rates to be charged to establishments for such services, including the proposer’s commitment to providing lower rates for organics and recycling collection than for refuse collection services, the proposer’s plan for covering costs of third party waste audits, and any extra service fees or supplemental charges the proposer plans on including in the pricing structure, except that in the case of a proposal to provide for the collection, transport and removal of containerized commercial waste citywide, a description of the proposer’s commitment to providing lower rates for organics and recycling collection shall only be required where such proposal includes organics or recycling collection, transport and removal services;
 
-   (4) The Returnee was recently discharged from a prison, hospital, residential treatment facility, or other institution;
+   2. The nature and frequency of the commercial waste removal services to be provided and the proposer’s plan for ensuring that the proposer has the ability and adequate capacity to provide such services within the zone, including but not limited to, a description of the proposer’s fleet and other relevant infrastructure, the proposer’s plans, if any, for the set-out of commercial waste in a matter that promotes the city’s goals of improving cleanliness, rodent mitigation, order and safety on city sidewalks, and a staffing plan to ensure continuity and safety in the delivery of services;
 
-   (5) The Returnee is a victim of domestic violence; or
+   3. The proposer’s submission of a customer service plan detailing customer service support tools, customer service standards, a mechanism for receiving and addressing customer complaints, performance metrics or other methods of addressing customer service, and the proposer’s plan for addressing the language access needs of customers in the zone;
 
-   (6) The Returnee has been living on the street.
+   4. The proposer’s submission of a plan describing practices to support waste reduction, reuse and recycling among commercial establishments within the zone, such as partnerships with local organizations, waste reduction or diversion targets, plans for offering organics collection services to a broad range of establishments within the zone, customer outreach and education or other practices to further such goals;
 
-If one or more of these factors are present, the Returnee must be assigned a bed at his or her official shelter. If a bed at the official shelter is unavailable, the Returnee must be given alternate placement until a bed at the official shelter becomes available. If none of these factors are present, shelter staff must refer the Returnee to a diversion office for a Single Adult Resource Assessment.
+   5. The proposer’s submission of a waste management plan describing practices for disposal of commercial waste collected, including but not limited to, a description of the transfer, processing or final disposal locations for all materials collected, and specific practices or investments designed to promote the goals of sustainability, reliability and equity in the delivery of waste management services. In evaluating waste management plans submitted by proposers pursuant to this paragraph, the commissioner shall consider: (i) the total vehicle miles expected to be traveled as a result of the proposer’s services, including but not limited to, consideration of the proximity of such locations to the zone, as applicable; (ii) whether such commercial waste will be transported to or from a solid waste transfer station by a sustainable mode of transport, such as rail or barge; (iii) whether, after considering a solid waste transfer station’s history of compliance with applicable local, state and federal laws, the proposer’s use of such solid waste transfer station is likely to have an impact on public health or safety; and (iv) any other factors that the commissioner deems relevant to promoting the goals of sustainability, reliability and equity in the delivery of waste management services;
 
-(c) If shelter staff determines that the Returnee must be referred for a Single Adult Resource Assessment, the Returnee must appear in person at a diversion office. DHS must provide transportation services or MetroCards to transport the Returnee to a diversion office. No Returnee will be transported at a time, or in a manner, that would be unsafe for the Returnee due to illness or intoxication.
+   6. The proposer’s plan, if any, to reduce air pollution and greenhouse gas emissions from commercial waste vehicles, including but not limited to, any plans to: provide commercial waste collection, removal and disposal services with a fleet comprised of at least 50 percent zero emissions vehicles by 2030, or for any request for proposals issued after 2030, 100 percent zero emissions vehicles by 2040; implement operational best practices; or otherwise utilize zero emissions vehicles in the provision of commercial waste collection, removal and disposal services;
 
-(d) Single Adult Resource Assessment.
+   7. The proposer’s plan, if any, to reduce air pollution and greenhouse gas emissions through infrastructure investments, adoption of technologies or other sustainable solutions, including but not limited to, any plans to invest in sustainable facilities or infrastructure for organics and recycling processing;
 
-   (1) Upon the Returnee's arrival at a diversion office during regular business hours for conducting Single Adult Resource Assessments, diversion staff must conduct a Single Adult Resource Assessment with the Returnee.
+   8. The proposer’s submission of a health and safety plan detailing compliance with applicable federal, state and local laws and specific practices to further the goals of promoting health and safety;
 
-   (2) If the Returnee arrives at a diversion office after regular business hours for conducting Single Adult Resource Assessments, he or she must be temporarily assigned a bed and provided meals and shower facilities at the diversion office until a Single Adult Resource Assessment can be conducted the next business day.
+   9. The proposer’s history of compliance with existing federal, state and local laws, including but not limited to, laws relating to waste collection, removal and disposal, environmental protection, antitrust, consumer protection, health and safety, labor and employment, and anti-discrimination protections;
 
-(e) Following the Single Adult Resource Assessment, if the Returnee does not have an alternative housing option, or has such an option but does not wish to return to or utilize the option, he or she must be referred back to his or her official shelter as soon as a bed is available. If a bed at the official shelter is unavailable, the Returnee must be given alternate placement until a bed at the official shelter becomes available.
+   10. Submission of a plan describing the customer communication efforts the proposer intends to undertake during the transition to the commercial waste zone system and other communication efforts that will support and supplement the public outreach and education efforts of the department conducted pursuant to section 16-1010;
 
-(f) For a Returnee who is not referred to a diversion office for a Single Adult Resource Assessment, diversion staff may, at their discretion, conduct such an assessment over the phone with the Returnee at his or her official shelter.
+   11. The proposer’s plan, if any, to subcontract with any other designated carter, which shall include a description of how such subcontracting is consistent with the purposes of this chapter, including but not limited to, how such subcontracting will enhance public safety, minimize harmful environmental impacts and improve customer service;
 
+   12. The proposer’s history of operating in New York city and the proposer’s history of operating within the geographic area of each commercial waste zone for which such proposer has submitted a proposal;
 
+   13. The proposer’s financial statements, including available capital, access to credit, and physical assets, including number of available commercial waste vehicles; and
 
+   14. Any other information the department deems appropriate.
 
-Chapter 4: Income Savings Plan Program
---------------------------------------------------
+c. Except as otherwise provided in subdivision d of this section, any agreement entered into pursuant to subdivision b of this section shall include:
 
+   1. A requirement that the awardee may not refuse commercial waste collection service to any commercial establishment within the commercial waste zone required to provide for the removal of such waste pursuant to the provisions of section 16-116, provided that such agreement may include provisions authorizing termination of service, refusal of service for good cause or setting forth other allowable measures to address default or non-payment by a commercial establishment;
 
+   2. A description of the maximum rate or rates that the awardee may charge customers for waste collection services, including any extra service fees or supplemental charges the awardee plans on including in the pricing structure, provided that extra service fees shall not be allowed for locking or unlocking gates or the rental of containers or dumpsters other than compactors and roll-offs;
 
-*§ 4-01 Definitions.* ::
+   3. A process by which awardees may petition the department for changes to the maximum rates described in paragraph 2 of this subdivision, which may include the opportunity for public comment, as set forth in such agreement;
 
+   4. A requirement that the awardee provide each customer with a written service agreement, which shall be negotiated between the customer and the awardee, specifying rates, standards of service and such other provisions as may be set forth in the agreement entered into between the awardee and the department pursuant to this section or as otherwise specified in the rules of the department;
 
-For the purposes of this chapter, the following terms have the following meanings:
+   5. A requirement that the awardee provide organic waste collection services to all commercial establishments that: (i) are located within the commercial waste zone for which the awardee has been awarded an agreement pursuant to this section; (ii) are not designated covered establishments pursuant to subdivision b of section 16-306.1; (iii) select such awardee for removal of commercial waste or have been assigned such awardee pursuant to paragraph 4 of subdivision e of this section; and (iv) request organic waste collection services, provided that such agreement may authorize the awardee to implement such requirement on a graduated schedule or may otherwise set forth circumstances in which such provision of such services shall not be required, consistent with the purposes of this chapter;
 
-(a) "DHS" means the New York City Department of Homeless Services.
+   6. Specifications regarding the GPS devices, capable of collecting, storing and transmitting geographical data, to be installed on commercial waste vehicles, and requirements regarding periodic reporting of data collected by such devices to the department for purposes consistent with this title;
 
-(b) "DHS shelter" means a shelter operated by or on behalf of DHS.
+   7. Any additional reporting requirements that the department deems necessary to further the goals of this title, including but not limited to, (i) waste generation estimates or waste characterization studies; (ii) collection routes; (iii) rates charged to customers; (iv) investments in sustainable vehicles, facilities or infrastructure; (v) any warnings or violations issued from agencies for violating local, state or federal law; and (vi) workplace injuries and accidents;
 
-(c) "Earned income" means income earned from employment, including both subsidized and unsubsidized employment.
+   8. A requirement that the awardee and any of its designated carters comply with the terms of the awardee’s air pollution and greenhouse gas emission reduction plan, if any, customer service plan, waste reduction plan, waste management plan and health and safety plan as described in subdivision b of this section;
 
-(d) "Income Savings Plan Program" or "ISP Program" means the program established pursuant to this chapter.
+   9. A requirement that the awardee and any of its designated carters ensure that employees receive periodic training relating to health and safety, as set forth in the agreement;
 
-(e) "Monthly savings statement" means the monthly statement provided to individuals enrolled in the ISP Program, setting forth among other things, the amount that they must deposit in their client account by the end of the month.
+   10. A requirement that the awardee and any of its designated carters comply with the provisions of this title and all other applicable laws;
 
-(f) "Program participant" or "participant" means an individual enrolled in the ISP Program.
+   11. A requirement that the awardee prepare for submission and review by the department an emergency action plan detailing procedures to be deployed in emergency situations, including but not limited to, fires, evacuations, spills or weather emergencies, and addressing continuity and restoration of service;
 
-(g) "Savings month" means the month for which a savings amount is calculated.
+   12. Provisions addressing contingency planning to ensure (i) the orderly transition of services to a subsequent awardee upon the conclusion of the agreement, (ii) continuity of service in the case of an awardee or any of its designated carters being unable to provide commercial waste collection services or any other default by the awardee or any of its designated carters, and (iii) continuity of service in the case of a default by another awardee or designated carter;
 
+   13. The option for the awardee to subcontract with no more than two designated carters in each zone for services in order to meet the requirements of the agreement, provided that: (i) any such designated carter must fully comply with all terms of such agreement and must be licensed by the business integrity commission or otherwise authorized to collect trade waste in accordance with the provisions of title 16-A and rules promulgated pursuant thereto; (ii) the agreement shall include a requirement that the department review and approve all contracts between the awardee and all designated carters for purposes of ensuring that the terms of such contracts are in accordance with the provisions of this chapter; and (iii) a subcontracting arrangement with a designated carter that collects waste exclusively using bicycles shall not count toward the numerical limit on designated carters as subcontractors provided in this paragraph;
 
+   14. A requirement that the awardee engage in public outreach and education efforts to address the transition to the commercial waste zone system;
 
+   15. A requirement that the awardee and any of its designated carters utilize existing programs or resources developed by the department of small business services or any other relevant agency designed to promote employment opportunities for New York city residents, where applicable and appropriate; and
 
+   16. A requirement that the awardee pay liquidated damages as deemed appropriate by the department and set forth in the agreement.
 
+d. Paragraphs 1 and 5 of subdivision c of this section shall not apply to an agreement to provide for the collection, transport and removal containerized commercial waste citywide.
 
+e. 1. On or after the implementation start date for a commercial waste zone, no person other than an awardee authorized to operate within such commercial waste zone pursuant to an agreement entered into pursuant to this section may enter into a new contract or renew an existing contract with a commercial establishment located within such zone to provide for the collection, removal or disposal of commercial waste.
 
+   2. By the final implementation date for a commercial waste zone, every owner, lessee or person in control of a commercial establishment must contract with an awardee selected for such zone in which such establishment is located for the removal of such establishment’s commercial waste by a designated carter pursuant to the terms of the agreement entered into between such awardee and the department pursuant to this section, provided however, that an owner, lessee or person in control of a commercial establishment may, by such final implementation date, contract for the removal of containerized commercial waste with either an awardee selected for such zone or with an awardee selected for the removal of containerized commercial waste citywide pursuant to this section.
 
-*§ 4-02 In General.* ::
+   3. The commissioner shall promulgate rules setting forth an implementation start date and a final implementation date for each commercial waste zone established pursuant to section 16-1001. The commissioner may select different implementation start dates and final implementation dates for different commercial waste zones.
 
+   4. Such rules may also set forth a procedure whereby the commissioner shall assign an awardee to a commercial establishment that has failed to select an awardee by the final implementation date established pursuant to such rules, provided that in such a case, the owner, lessee or person in control of a commercial establishment shall have 30 days after the assignment is made by the commissioner to select a different awardee authorized to operate in such commercial waste zone.
 
-(a) Individuals residing in a DHS shelter for single adults who receive earned income that exceeds the sum of the following amounts shall be required to participate in the ISP Program following the individual's receipt of notice of the terms of the program and of their enrollment in the program, which notice shall be provided in the month prior to the month in which they receive their first monthly savings statement:
+f. Any agreement entered into pursuant to subdivision b of this section may include any other terms or provisions deemed appropriate by the department.
 
-   (i) the statewide standard of monthly need for a one-person household set forth in Section 131-a(2)(a-4) of the New York Social Services Law;
 
-   (ii) the monthly allowance for rent for a single person household without children in New York City set forth in Part 352.3(a)(1) of Title 18 of the New York Codes, Rules and Regulations;
 
-   (iii) the statewide monthly home energy and supplemental home energy payments for a one-person household set forth in Part 352.2(d) of Title 18 of the New York Codes, Rules and Regulations; and
 
-   (iv) the amount of the earned income disregard set forth in Part 352.19(a) of Title 18 of the New York Codes, Rules and Regulations.
 
-(b) Except on a case-by-case basis where a household has been approved by DSS to use their own commercial bank account, savings of program participants pursuant to this chapter will be maintained in client accounts maintained by the New York City Department of Social Services and shall be made available to such individuals before or after their exit from DHS shelter as described in 31 RCNY § 4-05.
 
-(c) Participation in the ISP Program will be a shelter program requirement for such individuals.
 
 
+*§ 16-1003 Unauthorized conduct within commercial waste zones.* ::
 
 
+a. Except as provided in subdivision c of this section and notwithstanding any other provision of law, it shall be unlawful for any person to operate a business for the purpose of the collection, transport or removal of commercial waste from the premises of a commercial establishment required to provide for the removal of such waste pursuant to section 16-116 or to engage in, conduct or cause the operation of such a business, or to solicit commercial establishments to engage such a business for such purpose, except as authorized pursuant to an agreement with the department entered into pursuant to section 16-1002 and in accordance with the provisions of this title and any rules promulgated pursuant thereto.
 
+b. Notwithstanding any other provision of law, it shall be unlawful for any trade waste broker to broker agreements between a commercial establishment located in a commercial waste zone required to provide for the removal of commercial waste pursuant to the provisions of section 16-116 and a provider of commercial waste removal, collection or disposal services, except where such provider is authorized to provide such services within such zone pursuant to an agreement with the department entered into pursuant to section 16-1002.
 
+c. The provisions of this section shall not apply to a person registered by the business integrity commission to remove, collect or dispose of trade waste that is generated in the course of operation of such person's business pursuant to subdivision b of section 16-505, or to a commercial establishment, owner or managing agent of a building, or owner of an establishment exempt from the requirement to obtain a registration pursuant to such subdivision.
 
+d. Any awardee that has entered into an agreement with the department pursuant to section 16-1002 permitting such awardee to provide for the collection, transport and removal of containerized commercial waste citywide shall be deemed to be authorized to operate within any commercial waste zone in the city of New York.
 
-*§ 4-03 Savings Amounts and Adjustments.* ::
+e. 1. Notwithstanding any other provision of this title, it shall be unlawful for any person to collect, transport or remove waste, as defined in paragraph 2 of this subdivision, from any premises that is not required to provide for the removal of waste pursuant to section 16-116, unless such person is a designated carter authorized to collect, transport or remove commercial waste from commercial establishments in the zone in which such premises is located pursuant to an agreement with the department entered into pursuant to section 16-1002, or such person is an authorized employee or agent of a city agency. Nothing in this subdivision shall be deemed to amend, alter or supersede the provisions of chapter 4-C of title 16 and any rules promulgated pursuant thereto.
 
+   2. For the purposes of this subdivision, the term “waste” shall mean all putrescible materials or substances that are discarded or rejected by the owners or occupants of such premises as being spent, useless, worthless or in excess to such owners or occupants at the time of such discard or rejection, including recyclable materials as defined in section 16-303 of this code, except that such term shall not include: sewage; industrial wastewater discharges; irrigation return flows; radioactive materials that are source, special nuclear or by-product material as defined by the Atomic Energy Act of 1954, as amended, 42 U.S.C. § 2011 et seq.; materials subject to in-situ mining techniques that are not removed from the ground as part of the extraction process; hazardous waste as defined in section 27-0901 of the environmental conservation law; construction and demolition debris; fill material; medical waste; electronic waste; textiles; yard waste collected by landscapers; waste collected by a one-time, on-call bulk waste removal service; grease; paper that is collected for the purpose of shredding or destruction; or waste that is collected by a micro-hauler.
 
-(a) Beginning in the month following their enrollment in the program, program participants residing in a DHS shelter for single adults will receive a monthly savings statement, which shall include:
 
-   (1) The program participant's deposit balance:
 
-      (A) For participants using accounts held by DSS, this amount shall equal the sum of all funds deposited by the program participant to their client account to date, minus any amounts released to the program participant to date.
 
-      (B) For participants approved to use their own commercial bank account, this amount shall equal the change in the participant's account balance between their enrollment in ISP and the most recent bank statement they have provided to DHS.
 
-   (2) The current month's savings request as calculated pursuant to subdivision (b) of this section, and the information on which such amount was calculated, including the program participant's earned income, any approved deductions to such income pursuant to subdivision (c) of this section, and the number of days in shelter during the current savings month;
 
-   (3) The current amount due to be deposited:
 
-      (A) For participants using accounts held by DSS, this amount shall be equal to the sum of any amount due in the previous savings month, the current month's savings request and any funds released to the program participant during the current savings month pursuant to 31 RCNY § 4-05(c), reduced by the sum of any deposits made during the current savings month pursuant to 31 RCNY § 4-03(d) and any one-time adjustments made during the current savings month, all of which shall be listed on the savings statement;
 
-      (B) For participants approved to use their own commercial bank account, this amount shall be equal to the sum of any amount due in the previous savings month and the current month's savings request, either reduced by the difference between the balance in the client's account at the beginning and the end of the month, if the balance has increased, or increased by such difference if such balance has decreased, and further reduced by any one-time adjustments made during the current savings month, all of which shall be listed on the savings statement; and
+*§ 16-1004 Interference with commercial waste zone agreements.* ::
 
-   (4) For participants using accounts held by DSS, the date the amount is due to be deposited, which shall be no earlier than the twenty-fifth day of the month, and information on how to make a deposit, and for participants approved to use their own commercial accounts, information on how and when to submit a copy of their bank statement.
 
-   (5) Information on how to challenge the amount due and how to request a deduction to earned income or a one-time adjustment to the amount due pursuant to subdivision (c) of this section.
+No person shall make false, falsely disparaging or misleading oral or written statements or other representations to the owners or operators of a commercial establishment that have the capacity, tendency or effect of misleading such owners or operators, for the purpose of interfering with the performance of the terms of any agreement between the department and an awardee entered into pursuant to section 16-1002. No person shall interfere or attempt to interfere by threats, intimidation, or coercion, or by destruction or damage of property or equipment, with performance of the terms of an agreement entered into pursuant to section 16-1002.
 
-(b) DHS will calculate a program participant's savings request for any given savings month by taking thirty (30) percent of the program participant's earned income as of the last day of the savings month, subject to any deductions to earned income that have been approved pursuant to subdivision (c) of this section, and prorating it based on the number of days the program participant resided in a DHS shelter for single adults in that month. For example, if the program participant was in a DHS shelter for single adults for only one day out of thirty in a given month and no deductions to earned income have been approved pursuant to subdivision (c) of this section, the savings request will be 1/30th of 30% of the program participant's monthly earned income as of the last day of the current savings month. In this example, if a deduction to earned income had been approved pursuant to subdivision (c) of this section, the savings request would be 1/30 of 30% of the program participant's earned income after such deduction was applied.
 
-(c) Program participants may request that DHS apply a deduction to the earned income used to calculate their savings requests or make a one-time adjustment to the amount due to be deposited. DHS will assess such requests for deductions to earned income or adjustments to the amount due for good cause on a case by case basis. If DHS approves a request to apply a deduction to earned income, DHS will determine for what period of time the deduction will apply based on documentation provided by the individual.
 
-(d) If a program participant wishes to deposit more than the amount due in their client account, they may do so at any time. For participants using accounts held by DSS, any deposit amount in excess of the amount due will be deducted from the amount due the following month.
 
-(e) Once enrolled in the ISP Program, program participants must report any changes in income within a timeframe and in a form and manner to be designated by DHS.
 
-(f) The past amount due will be set to zero when a program participant has been out of shelter for thirty (30) consecutive days, regardless of whether the funds in their client account have been returned to them at that time, or whenever funds are released to the program participant pursuant to 31 RCNY § 4-05(b).
 
 
 
+*§ 16-1005 Conduct by awardees and designated carters within commercial waste zones.* ::
 
 
+a. 1. Each awardee shall only charge, exact or accept rates for the collection, removal or disposal of commercial waste within the commercial waste zone for which the awardee has been awarded an agreement pursuant to section 16-1002, or for the collection, removal or disposal of containerized commercial waste citywide under an agreement pursuant to such section, as set forth in such agreement and any rules promulgated by the department pursuant to this chapter.
 
+   2. No awardee shall refuse commercial waste collection service to any commercial establishment required to provide for the removal of such waste pursuant to the provisions of section 16-116 within the commercial waste zone for which the awardee has been awarded an agreement pursuant to section 16-1002, except as otherwise set forth in such agreement.
 
+   3. Each awardee shall provide recyclable materials collection services to all commercial establishments that: (i) are located within the commercial waste zone for which the awardee has been awarded an agreement pursuant to section 16-1002; (ii) are required to provide for the removal of such materials in accordance with the provisions of section 16-306 and any rules promulgated pursuant thereto; and (iii) select such awardee for removal of commercial waste or have been assigned such awardee pursuant to paragraph 4 of subdivision e of section 16-1002.
 
-*§ 4-04 Enforcement of ISP Program Requirements through Immediately Curable Shelter Sanctions.* ::
+   4. Each awardee shall provide organic waste collection services to all commercial establishments that: (i) are located within the commercial waste zone for which the awardee has been awarded an agreement pursuant to section 16-1002; (ii) are designated covered establishments pursuant to subdivision b of section 16-306.1 that have elected collection by a private carter of organic waste pursuant to subdivision c of such section; and (iii) select such awardee for removal of commercial waste or have been assigned such awardee pursuant to paragraph 4 of subdivision e of section 16-1002.
 
+   5. Each awardee and any of its designated carters shall ensure proper disposal of all commercial waste collected, consistent with the terms of any applicable agreement entered into pursuant to section 16-1002, and all applicable laws and rules, and retain for five years and make available for inspection by the department any records provided by a waste transfer station that document disposal of commercial waste collected, and each awardee shall report to the department the amount of commercial waste collected, transported or removed, disaggregated by zone, as applicable, designated carter, material type, and the destination of each material.
 
-(a) If a program participant fails to make the deposits set forth on their savings statements, DHS will schedule a case conference with the individual to discuss their non-compliance with program requirements and will provide the program participant with an opportunity to cure the non-compliance.
+   6. Each awardee and any of its designated carters shall comply with all terms of such awardee’s health and safety plan as set forth in the agreement entered into pursuant to section 16-1002, and any rules promulgated by the department related to public health and safety.
 
-(b) If non-compliance remains unresolved following the case conference, the program participant will be provided with written notice that their shelter may be discontinued and an opportunity to demonstrate good cause for the non-compliance or to cure the non-compliance by depositing funds in their savings account.
+   7. As set forth in the agreement entered into pursuant to section 16-1002 and any rules promulgated by the department, each awardee and designated carter shall maintain: (i) audited financial statements, (ii) ledgers, (iii) receipts, (iv) audits, (v) bills, (vi) customer complaints and other records related to the delivery of commercial waste removal, collection or disposal services, (vii) records related to vehicle maintenance and inspection, (viii) records related to health and safety planning, and (ix) such other written records as the department determines are necessary for demonstrating compliance with the requirements of this chapter and any rules promulgated pursuant thereto. Such records shall be maintained for a period of time to be determined by rule by the department. Such records shall be made available for inspection and audit by the department.
 
-   (1) Good cause will be determined on a case-by-case basis, taking into account other liabilities, medical or other emergencies, need, and good faith attempts to comply.
+   8. Each awardee and designated carter shall comply with all operational requirements regarding the collection, removal and disposal of commercial waste as set forth in the rules of the department promulgated in the furtherance of public health and safety.
 
-   (2) Any temporary discontinuance of shelter shall be non-durational and immediately curable upon deposit of an amount of funds in their ISP Program account consistent with arrangements regarding the timing and amount of the deposit reached between the program participant and DHS in a case conference.
+   9. No awardee shall enter into a subcontracting agreement with a designated carter without obtaining prior approval by the department.
 
-(c) An individual who receives the notice specified in subdivision (b) of this section shall be entitled to administrative review of the decision to discontinue shelter under 31 RCNY § 4-06.
+   10. Each awardee and designated carter shall report any employees hired as a result of the displaced employees list pursuant to section 16-1007.
 
+   11. As set forth in the agreement entered into pursuant to section 16-1002, and any rules promulgated by the department, each awardee shall:
 
+      (a) Comply with the terms of their customer service plan;
 
+      (b) Enter into written service agreements with all customers;
 
+      (c) Provide a consolidated monthly bill to all customers;
 
+      (d) Offer third party waste audit services to all customers;
 
+      (e) Comply with all other requirements as set forth in such rules related to standards for service; and
 
+      (f) Accept only non-cash payment from customers, except as otherwise provided in such agreement and such rules.
 
-*§ 4-05 Return of Savings.* ::
+   12. Each awardee and each designated carter shall comply with all applicable reporting requirements as set forth in the agreement entered into pursuant to section 16-1002 and any rules promulgated by the department requiring reporting of information related to the collection of commercial waste in commercial waste zones.
 
+b. Notwithstanding any other provision of this section, paragraphs 2, 3 and 4 of subdivision a of this section shall not apply to an awardee or designated carter operating pursuant to an agreement to provide for the collection, removal and disposal of containerized commercial waste citywide.
 
-Funds in client accounts held by DSS pursuant to this chapter will be returned to individuals or their designees under the following circumstances:
+c. Any truck used to collect, transport or remove commercial waste within a commercial waste zone must be equipped with a GPS device that meets the requirements of the department as set forth in any agreement with the department entered into pursuant to section 16-1002 or as otherwise specified in the rules of the department. All awardees and designated carters must comply with all requirements relating to the reporting of data generated by such device to the department as set forth in such rules and such agreements.
 
-(a) Standard Release After Exit: Once a program participant has been out of DHS shelter for thirty (30) consecutive days, DHS will release the funds in their client account, including any interest that has accrued, to the individual, or such other individual or entity that the individual has designated, between thirty (30) and forty-five (45) days after shelter exit. If the client has not provided instructions to DHS as to where and how their funds shall be conveyed to the client or designee, or if funds distributed are returned to DHS as undeliverable or are not taken into possession by the client or designee, DHS will hold the unreturned funds for one year and perform due diligence to locate the individual during that time. Funds that DHS is unable to return within one year of shelter exit will be considered unclaimed and processed in accordance with State law.
 
-(b) Expedited Release After Exit: DHS may release the funds in a program participant's client account, including any interest that has accrued, to the program participant or their designee following their exit from DHS shelter, but before thirty (30) days have passed, at the request of the individual for good cause where DHS has determined that the program participant is unlikely to return to shelter.
 
-(c) Early Release Prior to Exit: DHS may approve early release of funds to a program participant to assist the individual with documented expenses necessary to arrange for permanent housing or, in its discretion and on a case-by-case basis, for reasons other than to arrange for permanent housing. Such approval shall not be unreasonably withheld. In the event that funds are released to an individual pursuant to this subdivision, the individual's current amount due will be increased by the amount of the funds that were released. If the program participant wishes to be relieved of the obligation to return such funds to their client account, they may request a one-time adjustment pursuant to 31 RCNY § 4-03(c).
 
 
 
 
 
+*§ 16-1006 Employee retention.* ::
 
 
+a. No less than thirty calendar days before the effective date of any change in control of an awardee, the incumbent employer shall:
 
-*§ 4-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
+   1. provide to the successor employer a full and accurate list containing the name, address, phone number, date of hire, and job category of each eligible employee;
 
+   2. post a notice in the same location and manner that other statutorily required notices to employees are posted, which shall include: (i) the effective date of such change in control; (ii) the name and contact information for the successor employer; and (iii) an explanation of the rights provided pursuant to this section, in a form prescribed by the department; and
 
-(a) Right to DSS Administrative Review. A program participant may request an agency review conference and/or a DSS administrative hearing to seek review of a temporary discontinuance of shelter based on non-compliance with ISP program requirements.
+   3. post such explanation of rights in any language spoken as a primary language by any eligible employee, provided that the department has made a translation available in such language.
 
-(b) Agency Review Conference.
+b. The successor employer shall retain each eligible employee for the transitional employment period and, except as otherwise provided in this section, the successor employer shall not discharge an eligible employee retained pursuant to this section during the transitional employment period without cause.
 
-   (1) If an individual requests an agency review conference pursuant to subdivision (a) of this section, DHS shall informally review and attempt to resolve the issues raised.
+c. If at any time during the transitional employment period, the successor employer determines that it requires fewer employees than were employed by the incumbent employer, such successor employer shall retain such eligible employees by seniority within each job category. During the transitional employment period, the successor employer shall maintain a preferential hiring list of any eligible employees not retained by such successor employer who shall, by seniority within their job category, be given a right of first refusal to any jobs that become available during such transitional employment period within such job category.
 
-   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
+d. The successor employer shall retain written verification of any offer of employment made by such successor employer to any eligible employee for a period of no less than three years from the date such offer was made. Such verification shall include the name, address, date of offer and job category of each eligible employee.
 
-   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if a DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
+e. By the end of the transitional employment period, the successor employer shall have a record of a written performance evaluation for each eligible employee retained pursuant to this section and may offer such eligible employee continued employment. The successor employer shall retain a record of the written performance evaluation for a period of no less than three years.
 
-   (4) A request for an agency review conference will extend the time period to request a DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
+f. The provisions of this section shall not apply to any successor employer that, on or before the effective date of the transfer of control from an incumbent employer to the successor employer, enters into a collective bargaining agreement covering the eligible employees or agrees to assume, or to be bound by, the collective bargaining agreement of the incumbent employer covering the eligible employees, provided that such collective bargaining agreement provides terms and conditions regarding the discharge or laying off of employees.
 
-(c) Request for a DSS Administrative Hearing.
 
-   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
 
-   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
 
-(d) Authorized Representative.
 
-   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review their case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
 
-   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
 
-(e) Aid Continuing.
 
-   (1) If a program participant requests an administrative appeal of a determination that shelter is to be discontinued, such program participant shall have the right to continued receipt of temporary shelter until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
+*§ 16-1007 Displaced employees list.* ::
 
-      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
 
-      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
+a. The department shall maintain a list containing the names and contact addresses or telephone numbers of persons formerly employed by a business either currently engaged in the collection, removal or disposal of commercial waste, or that was engaged in the collection, removal or disposal of commercial waste prior to the implementation of this chapter, whose employment with such business has ended. The addition or deletion of information on such list shall be made only upon the request of such a former employee. At the time a former employee requests to be added to such list, the department shall provide the employee with information regarding employment programs and initiatives administered by the department of small business services or other city agencies.
 
-   (2) There is no right to continued shelter pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law.
+b.  The department shall provide a copy of such list to an applicant or licensee pursuant to section 16-508 or an awardee or designated carter upon request. Additionally, the department shall provide a copy of such list to an awardee within six months of entering into an agreement with such awardee pursuant to section 16-1002 and every six months thereafter for a period of five years.
 
-   (3) Temporary shelter will not continue pending the issuance of a hearing decision when:
+c. The maintenance or provision of such list shall in no way be construed as a recommendation by the city regarding the employment of any person on such list, nor shall the city be responsible for the accuracy of the information set forth therein.
 
-      (A) The program participant has voluntarily waived their right to the continuation of shelter in writing; or
 
-      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
 
-   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, shelter will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section.
 
-(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn their hearing request.
 
-(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or their authorized representative has the right to examine the contents of their ISP program case file, if one exists, and all documents and records that DHS intends to use at the administrative hearing. Upon request by telephone or in writing, DHS shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of DHS that the individual identifies and requests for purposes of preparing for the administrative hearing. DHS shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, DHS must provide the individual with copies of such documents no later than at the time of the administrative hearing.
 
-(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on their own motion or at the request of the individual who requested the hearing or their authorized representative, or DHS.
 
-(i) Conduct of Administrative Hearing.
 
-   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
+*§ 16-1008 Worker safety training.* ::
 
-   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
 
-   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by DHS, to request that the hearing officer issue subpoenas, and to examine any documents offered by DHS.
+a. In addition to any other applicable requirements pursuant to local, state or federal laws or rules, no later than 180 days after the date on which an awardee enters into an agreement with the department pursuant to section 16-1002, each designated carter that will be operating pursuant to such agreement shall be responsible for ensuring that all workers, including but not limited to, vehicle operators, laborers, helpers, mechanics, supervisors and managers, employed by such designated carter as of such date have received worker safety training as required by this section. For workers employed by such designated carter after an awardee enters into an agreement with the department pursuant to section 16-1002, such worker safety training shall be provided within 90 days after the start of employment or prior to the initial assignment of a worker to a job or task, whichever is earlier.
 
-   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
+b. Each designated carter shall provide for a worker safety training program at no cost to workers to ensure its workers are properly trained for each assigned job or task to be performed and use of related equipment. The worker safety program shall include a review of any hazardous activities of the job that are relevant to the tasks and activities to be performed. For vehicle operators, laborers and helpers who are directly assigned to the collection, removal, transport or disposal of trade waste on or about the public right of way, such training shall consist of no less than 40 hours, of which no fewer than 16 hours shall be dedicated to classroom instruction. For all other workers, such training shall consist of no less than 8 hours.
 
-(j) Abandonment of Request for Administrative Hearing.
+c. 1. Such worker safety training program shall be tailored for individual operations, hazards or potential hazards present, and the type of equipment utilized including detailed equipment-specific training for drivers, equipment operators and loaders, as well as maintenance personnel and supervisors. Training shall include a practical demonstration of equipment operation, the knowledge and skills needed by the employee to operate such equipment and the consequences for failure to operate the equipment properly, as appropriately related to the requirements of the worker’s job duties.
 
-   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor their authorized representative appears at the administrative hearing, unless either the individual or their authorized representative has:
+   2. (a) All training shall include, at a minimum, educating workers on workplace safety requirements, operational instruction on each specific type of equipment used by the employee, and training to address specific public safety hazards associated with collecting, transporting and removing commercial waste, including but not limited to, training, as applicable, on:
 
-      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
+         (1) collision avoidance, including defensive driving and best practices to avoid collisions with pedestrians, cyclists and other sensitive road users;
 
-      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
+         (2) pre-trip vehicle and equipment inspections;
 
-   (2) DSS will restore the case to the calendar if the individual who requested the hearing or their authorized representative has met the requirements of paragraph (1) of this subdivision.
+         (3) state and local traffic laws, including speed limits, yielding, and bus and bicycle lane restrictions;
 
-(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
+         (4) preventing distracted driving;
 
-(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct DHS to take specific action.
+         (5) navigating intersections and turns;
 
-   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
+         (6) backing up a commercial waste vehicle;
 
-   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that DHS is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
+         (7) best practices for safe collection stops;
 
-(m) Additional Appeal.
+         (8) container management;
 
-   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
+         (9) hopper operation;
 
-   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and DHS.
+         (10) fire prevention and response; and
 
-   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
+         (11) transporting and disposing of specialized waste or hazardous materials.
 
-Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon DHS and must be complied with by DHS
+      (b) All such training shall be consistent with all applicable laws, rules and regulations, including but not limited to, requirements administered by the United States occupational safety and health administration, the United States department of transportation, the New York state department of transportation, the United States department of labor, and the New York state department of labor.
+
+d. The worker safety training program required by this section shall include a language access plan to ensure that the needs of workers with limited English proficiency are adequately addressed by the designated carter’s worker safety training program. Such language access plan shall include, at a minimum, a description of the language access needs of the designated carter’s workforce and specific language assistance tools to be used in the administration of the worker safety training program designed to meaningfully address such needs. Such language access plan shall be updated annually and made available for inspection upon request by the department.
+
+e. Each designated carter shall provide re-training of employees as follows:
+
+   1. An annual refresher training class to all workers;
+
+   2. No less 90 days after a change in the worker’s job assignment or a change in equipment used by the worker that presents a new hazard;
+
+   3. No less than 90 days after an inspection by the department reveals, or the designated carter has reason to believe, that there are material deviations from workplace safety requirements or inadequacies in worker knowledge of workplace safety requirements.
+
+f. Each designated carter shall refer workers to, and have readily available, the manufacturer’s, installer’s or modifier’s instructions to ensure that correct operating and maintenance procedures and work practices are understood and followed.
+
+g. Upon each worker’s completion of the worker safety program required by this section, the designated carter shall issue to each such worker a safety training card evidencing the completion of such safety training which such worker shall carry with him or her during the performance of his or her duties.
+
+h. Each designated carter shall maintain training records, including the name of each worker, date or dates of training, the type of training received by each worker, and the language in which such training was provided. Records shall be maintained for a period of three years and be made available for inspection upon request by the department.
+
+i. A designated carter shall certify to the department that it has met the requirements of this section, in the form and manner as the commissioner may prescribe, no later than 180 days after the date of the agreement between an awardee and the department pursuant to section 16-1002 under which the designated carter will first provide commercial waste collection services or, for subcontractors, the date on which the department approves the designated carter as a subcontractor of the awardee, and annually thereafter.
+
+j. No later than 180 days after the effective date of the local law that added this section, the commissioner shall convene a commercial waste zone safety task force to monitor industry conditions in order to make recommendations regarding improving worker safety training and other ways to protect the public from potential dangers posed by commercial waste hauling activities. Such task force shall be composed of the commissioner, who shall serve as the chairperson of such task force, the chair of the business integrity commission, the speaker of the council, or the designees of any of these such members, and eight additional members, four of which shall be appointed by the mayor and four of which shall be appointed by the speaker of the council. Such task force shall include members who are representative of the commercial waste hauling industry and persons having expertise in workplace safety.
+
+   1. Such task force shall meet at least quarterly each year for the first two years of its existence and at least annually for three years thereafter.
+
+   2. Such task force shall periodically on its own initiative, or upon request of the commissioner, provide the commissioner with recommendations relating to improving the worker safety training required by this section and other ways to protect the public from potential dangers posed by commercial waste hauling activities. Any such recommendations shall be made available to the commissioner, the chair of the business integrity commission, and all awardees and designated carters within one year of the first meeting of the task force and annually for four years thereafter. In making such recommendations, such task force shall consider, but need not be limited to considering, the following:
+
+      (a) Personal protection equipment;
+
+      (b) Safely working with and operating vehicle equipment and machines;
+
+      (c) Handling heavy materials and proper lifting techniques;
+
+      (d) Working with hazardous chemicals or other materials;
+
+      (e) Emergency action plans, fire prevention and fire protection;
+
+      (f) Hazard communication;
+
+      (g) Drug and alcohol awareness;
+
+      (h) First aid, including cardiopulmonary resuscitation (CPR) and automated external defibrillator (AED) use; and
+
+      (i) Whether and under what circumstances a person would be permitted to transfer safety training acquired or obtained under one employer to another employer.
+
+
+
+
+
+
+
+
+*§ 16-1009 Whistleblower protections.* ::
+
+
+It shall be unlawful for an awardee or designated carter or the agent of an awardee or designated carter to take or threaten to take a retaliatory personnel action, as defined by section 740 of the labor law, against an employee of such awardee or designated carter for reporting to the officer or employee of any city agency information concerning the conduct of such awardee or designated carter or such agent, which the employee knows or reasonably believes to involve a violation of the provisions of this title or any rules promulgated pursuant thereto or the terms of any applicable agreement entered into pursuant to section 16-1002.
+
+
+
+
+
+
+
+
+*§ 16-1010 Outreach and education.* ::
+
+
+a. The commissioner, together with the chair of the business integrity commission and any other agency designated by the mayor, shall establish an outreach and education program aimed at educating commercial establishments on the implementation of the commercial waste zone collection system, instructions for arranging for collection of commercial waste, and the environmental, health and safety benefits to be yielded through such system. This outreach and education program shall include but not be limited to, seminars, webinars, conferences, and a multilingual public education program.
+
+b. The commissioner may seek the assistance of for-profit and not-for-profit corporations in providing education to commercial establishments pursuant to subdivision a of this section.
+
+c. No later than 90 days following the selection of awardees within a commercial waste zone pursuant to section 16-1002, the commissioner shall distribute a multilingual letter to all commercial establishments within such zone informing them of their obligations to comply with the provisions of this chapter and any rules promulgated pursuant thereto. Failure to receive a letter pursuant to this subdivision shall not eliminate or otherwise affect the obligations of a commercial establishment pursuant to this chapter and any rules promulgated pursuant thereto.
+
+d. The commissioner, together with the chair of the business integrity commission and any other agency designated by the mayor, shall also conduct an outreach and education program aimed at educating businesses within the commercial waste industry about the requirements and procedures for those interested in operating as awardees or designated carters pursuant to this title. Such program shall include but not be limited to, targeted outreach to minority and women-owned business enterprises and the facilitation of information exchange between such business enterprises and other businesses within the commercial waste industry.
+
+
+
+
+
+
+
+
+*§ 16-1011 Agency reporting.* ::
+
+
+On or before September 30, 2020, and annually thereafter, the commissioner shall issue a report to the speaker of the council and the mayor and post such report on the agency’s website. Such report shall include but not be limited to, information regarding the implementation of the commercial waste zone program for each month during the previous fiscal year, disaggregated by zone and further disaggregated by awardee, as applicable, on: (i) the cost and volume of solid waste and recyclables collection and disposal; (ii) feedback from commercial establishments; (iii) the number and types of complaints received regarding commercial waste removal; (iv) outreach and education conducted, including the number of trainings and the number of individuals who have participated in such trainings, if applicable, and materials provided; (v) the number of vehicle miles traveled by trucks used to collect, transport or remove commercial waste within commercial waste zones and any change to such number as compared to the previous fiscal year; (vi) diversion of commercial waste from landfill and any change to such diversion as compared to the previous fiscal year; (vii) any recommendations for improving the commercial waste zone collection system; (viii) the feasibility of accepting commercial waste at marine transfer stations; and (ix) the amount and proportion of commercial waste received at marine transfer stations.
+
+
+
+
+
+
+
+
+*§ 16-1012 Reporting by micro-haulers.* ::
+
+
+On or before February 1, 2022 and each February 1 thereafter, any micro-hauler operating within a commercial waste zone shall submit to the department and the business integrity commission the following information for the previous calendar year in a form and in a manner prescribed by the department:
+
+(i) the amount of source separated organic waste collected from commercial establishments, disaggregated by quarter year;
+
+(ii) the mode of transport of all source separated organic waste collected from commercial establishments, disaggregated by quarter year;
+
+(iii) the disposal location of all source separated organic waste collected from commercial establishments, disaggregated by quarter year; and
+
+(iv) a list of commercial establishments from which source separated commercial waste was collected, disaggregated by zone.
+
+
+
+
+
+
+
+
+*§ 16-1013 Fees.* ::
+
+
+The commissioner shall promulgate rules establishing fees to be collected from any awardee selected pursuant to section 16-1002 for the administration of the commercial waste zone program.
+
+
+
+
+
+
+
+
+*§ 16-1014 Minimum rates.* ::
+
+
+The department may fix by rule and periodically refix minimum rates for the collection, removal or disposal of commercial waste. Such minimum rates shall be based upon a fair and reasonable return to the awardee and consideration of the purposes of this chapter.
+
+
+
+
+
+
+
+
+*§ 16-1015 Penalties, injunction and equitable remedies.* ::
+
+
+a. Any person who violates any provision of section 16-1003 or 16-1004, or any rules promulgated pursuant to such sections or any order issued by the commissioner or chair of the business integrity commission pursuant to such sections shall be liable for a civil penalty of $10,000 for each violation, or, in the case of a continuing violation, $10,000 for each day of such violation.
+
+b. 1. Any person who violates any provision of paragraphs 1 through 9 of subdivision a of section 16-1005 shall be liable for a civil penalty of $2,500 for the first violation, and, for subsequent violations that occur within a two-year period of any previous violation, $5,000 for the second violation and $10,000 for any subsequent violation.
+
+   2. Any person who violates any provision of paragraphs 10 through 12 of subdivision a of section 16-1005 shall be liable for a civil penalty of $500 for the first violation, and, for subsequent violations that occur within a two year period of any previous violation, $750 for the second violation and $1,000 for any subsequent violation.
+
+c. 1. Any person who violates any provision of subdivision c of section 16-1005 shall be liable for a civil penalty of $10,000 per vehicle that is in violation. Each notice of violation shall contain an order of the commissioner or chair of the business integrity commission directing the respondent to correct the condition constituting the violation and to file with the department electronically, or in such other manner as the commissioner shall authorize, a certification that the condition has been corrected within thirty days from the date of the order. In addition to such civil penalty, a separate additional penalty shall be imposed of $500 for each day that the violation is not corrected beyond thirty days from such order.
+
+   2. For the purposes of this section, if a court of competent jurisdiction or the office of administrative trials and hearings, pursuant to section 1049-a of the charter, finds that a certification of correction filed pursuant to this subdivision contained material false statements relating to the correction of a violation, such certification of correction shall be null and void. It shall be an affirmative defense that the respondent neither knew nor should have known that such statements were false.
+
+d. The civil penalty for each violation of section 16-1008 shall be $1,000. A violation of section 16-1008 shall be computed on a per employee basis. Notwithstanding any other provision of this section, any penalty imposed for a violation of subdivision i of section 16-1008 shall be mitigated to zero dollars if, on or before the initial return date stated on the notice of violation, a designated carter who fails to provide the certification required pursuant to subdivision i of section 16-1008 submits proof of having cured such violation at the hearing of such notice of violation.
+
+e. Any person who violates any provision of section 16-1012 shall be liable for a civil penalty of $1,000, except that such penalty shall be mitigated to zero dollars if on or before the initial return date stated on the notice of violation, a micro-hauler who fails to file the report required pursuant to section 16-1012 submits proof of having cured the violation at the hearing of such notice of violation.
+
+f. All civil penalties imposed pursuant to this section may be recovered in a civil action in any court of competent jurisdiction or in a proceeding before the office of administrative trials and hearings, pursuant to section 1049-a of the charter.
+
+g. The corporation counsel is authorized to commence a civil action on behalf of the city for civil penalties or for injunctive relief to restrain or enjoin any activity in violation of this chapter.
+
+h. In addition to or as an alternative to any civil penalty pursuant to subdivision a of this section, any person who violates section 16-1003 or 16-1004 or any of the rules promulgated pursuant thereto shall, upon conviction thereof, be punished for each violation by a criminal fine of not more than $10,000, or in the case of a continuing violation, not more than $10,000 for each day of such violation, or by imprisonment not exceeding six months, or both such criminal fine and imprisonment.
+
+i. Any employee that has been the subject of a retaliatory personnel action or the threat of a retaliatory personnel action in violation of section 16-1009 or any rules promulgated pursuant thereto shall be entitled to all relief necessary to make the employee whole. Such relief may include but not be limited to: (i) an injunction to restrain the retaliatory action or threat of retaliatory action, (ii) reinstatement to the position such employee would have had but for the retaliatory action or to an equivalent position, (iii) reinstatement of full fringe benefits and seniority rights, (iv) payment of two times back pay, plus interest, and (v) compensation for any special damages sustained as a result of the retaliatory action or threat of retaliatory action, including litigation costs and reasonable attorneys’ fees. Such an employee may bring an action in any court of competent jurisdiction for the relief provided in this subdivision.
+
+
+
+
+
+
+
+
+*§ 16-1016 Impoundment and forfeiture.* ::
+
+
+a. Any vehicle that has been used or is being used in the violation of section 16-1003 shall be impounded by the department or the business integrity commission and shall not be released until either all removal charges and storage fees and the applicable fine have been paid or a bond has been posted in an amount satisfactory to the commissioner or as otherwise provided in subdivision c of this section. The commissioner shall have the power to establish rules concerning the impoundment and release of vehicles and the payment of removal charges and storage fees for such vehicles, including the amounts and rates thereof.
+
+b. In addition to any other penalties provided in this section, the interest of an owner in any vehicle impounded pursuant to subdivision a of this section shall be subject to forfeiture upon notice and judicial determination thereof if such owner has been convicted of or found liable for a violation of section 16-1003 in a civil or criminal proceeding or in a proceeding before the office of administrative trials and hearings, pursuant to section 1049-a of the charter two or more times, if at least two of such violations were committed within an eighteen-month period.
+
+c. Except as hereinafter provided, the city agency having custody of a vehicle, after judicial determination of forfeiture, shall no sooner than 30 days after such determination upon a notice of at least five days, sell such forfeited vehicle at public sale. Any person, other than an owner whose interest is forfeited pursuant to this section, who establishes a right of ownership in a vehicle, including a part ownership or security interest, shall be entitled to delivery of the vehicle if such person:
+
+   (1) Redeems the ownership interest which was subject to forfeiture by payment to the city of the value thereof;
+
+   (2) Pays the reasonable expenses of the safekeeping of the vehicle between the time of seizure and such redemption; and
+
+   (3) Asserts a claim within thirty days after judicial determination of forfeiture.
+
+d. Notwithstanding the foregoing provisions, establishment of a claim shall not entitle such person to delivery of the vehicle if the city establishes that the unlawful conduct for which the vehicle was seized was expressly or impliedly permitted by such person.
+
+
+
+
+
+
+
+
+*§ 16-1017 Liability for violations.* ::
+
+
+a. A designated carter shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant hereto committed by any of its employees or agents.
+
+b. An awardee shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant hereto committed by any designated carter or other subcontractor performing services pursuant to any agreement entered into pursuant to section 16-1002.
+
+
+
+
+
+
+
+
+*§ 16-1018 Enforcement.* ::
+
+
+Notices of violation for violations of any provision of this chapter or any rule promulgated hereunder may be issued by the department or the business integrity commission. In addition, such notices of violation may be issued by any other agency of the city as designated by the commissioner.
+
+
+
+
+
+
+
+
+*§ 16-1019 Labor and wage violations.* ::
+
+
+Where the commissioner has reasonable cause to believe that a designated carter has engaged in or is engaging in actions: (i) involving egregious or habitual nonpayment or underpayment of wages, or (ii) that constitute a significant violation of city, state or federal labor or employment law, the commissioner shall inform the New York state attorney general, the New York state department of labor, the United States department of labor or other relevant city, state or federal law enforcement agency of such actions.
+
+
+
+
+
+
+
+
+*§ 16-1020 Administration of commercial waste zones.* ::
+
+
+a. Notwithstanding any inconsistent provision of law, the business integrity commission may, upon approval by a majority of its members, elect to assume, in whole or in part, the powers and duties of the commissioner and the department assigned by the local law that added this section, provided that such commission notifies the mayor, the council and the commissioner in writing of such election either (i) within 30 days of the enactment of the local law that added this section, or (ii) subsequently, no less than six months prior to the date that the assumption of powers and duties pursuant to such election takes effect. In the event of an election that is made pursuant to clause (ii) of the preceding sentence, such commission and the department shall take measures to effect an orderly transfer of such powers and duties. Such commission and the department shall make all necessary arrangements with respect to any relevant property, contracts, personnel, funding, administration, enforcement and pending matters. No judicial or administrative action or proceeding, civil or criminal, pending at the time of such election, or any contract in effect at the time of such election, shall be affected or abated by such assumption; all such actions, proceedings or contracts may be continued, but upon the effective date of the assumption of powers and duties by such commission, the same may be prosecuted, defended or enforced by such commission. Any rules promulgated by the department pursuant to the local law that added this section shall remain in effect as rules of such commission until such time as they are repealed or amended by such commission.
+
+b. Subsequent to any election made pursuant to subdivision a of this section, such commission may elect for the department to assume, in whole or in part, powers and duties assumed by the commission pursuant to such subdivision, provided that such assumption shall take effect no less than six months after such election. In such event, the transitional provisions applicable to the initial assumption by such commission in subdivision a of this section shall apply in a similar manner to the assumption by the department pursuant to this subdivision.
 
 
 

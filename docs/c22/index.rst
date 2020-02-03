@@ -1,620 +1,457 @@
-Title 39: Department of Correction
+Title 20-A: [Shipboard Gambling]
 ===================================================
 
-Chapter 1: Inmate Rule Book
+Chapter 1: Shipboard Gambling
 --------------------------------------------------
 
 
 
-*§ 1-01 Introduction.* ::
+*§ 20-9001 Definitions.* ::
 
 
-This chapter sets forth rules relating to inmates of New York City Department of Correction ("Department") facilities. All inmates will also be provided separately with detailed information relating to their incarceration, including the subjects covered in 39 RCNY § 1-02.
+For the purposes of this chapter, the following terms shall have the following meanings:
 
+a. "Affiliate" shall mean (i) a business entity in which twenty-five percent or more is owned, or is subject to a power or right of control or a power to vote, or is managed by, a shipboard gambling business, or (ii) a business entity that owns twenty-five percent or more of a shipboard gambling business, or that exercises a power or right of control or a power to vote over twenty-five percent or more of a shipboard gambling business, or that manages a shipboard gambling business.
 
+b. "Applicant" shall mean, if a business entity submitting an application for a license pursuant to this chapter, the entity and each principal thereof; if an individual submitting an application for a license, certificate of approval or registration pursuant to this chapter, such individual.
 
+c. "Business entity" shall mean a corporation, partnership, limited liability company, individual or sole proprietorship.
 
+d. "Certificate of approval" shall mean a certificate issued by the commission pursuant to the provisions of this chapter approving the employment in a shipboard gambling business of a gambling employee or agent.
 
+e. "Commission" shall mean the New York city gambling control commission established pursuant to section 20-9002 of this chapter.
 
-*§ 1-02 Rights and Privileges.* ::
+f. "Gambling" shall mean any contest, game, gaming scheme or other activity in which a person stakes or risks something of value upon the outcome of a contest involving an element of chance or a future contingent event not under his or her control or influence, upon the understanding that he or she will receive something of value in the event of a certain outcome.
 
+g. "Gambling device" shall mean a slot machine or any other machine or mechanical device which when operated may deliver or entitle a person to receive, as the result of the application of an element of chance, any money or property.
 
-(a)  Property. When you first come to jail, any property that is taken from you that involves a criminal offense may be forwarded to the appropriate law enforcement agency for possible criminal prosecution and subject you to disciplinary action. Property taken from you that does not involve a criminal offense will be identified, receipted, stored and returned to you after your discharge from Department custody. Upon incarceration, you will be given more information about what property may be kept in jail and how to get other property back after discharge.
+h. "Gambling employee or agent" shall mean a person employed in a shipboard gambling business who is not a key employee or agent and whose duties include (i) the conduct, operation or facilitation of gambling, whether or not involving the use of a gambling device; or (ii) the repair or maintenance of a gambling device. "Gambling employee or agent" shall include, but not be limited to, boxmen, dealers or croupiers, floormen, gambling machine mechanics, casino security personnel, count room personnel, cage personnel, slot machine and slot booth personnel, collection personnel, casino surveillance personnel and data processing personnel. "Gambling employee or agent" may also include any other category of persons identified by rule of the commission whose duties require regular presence in the area or areas of a vessel in which gambling takes place or for whom the commission determines a certificate of approval is appropriate and necessary to effectuate the purposes of this chapter. The job categories specified in such rule shall not include categories of employees, without limitation, such as kitchen personnel, food and beverage servers or vessel's crew, that are not involved in gambling operations.
 
-(b) Recreation. The Department may limit your right to participate in recreation for a security related reason in accordance with State Commission of Correction standards (9 NYCRR § 7028.6). Upon incarceration, you will be given more information about how and when the Department can limit recreation.
+i. "Key employee or agent" shall mean a person employed in a shipboard gambling business in a supervisory or managerial capacity or empowered to make discretionary decisions regarding such business, including, but not limited to, pit bosses, shift bosses, credit executives, casino cashier supervisors, casino facility managers and assistant managers and managers or supervisors of gambling employees or agents. Key employees shall also include any other category of persons identified by rule of the commission for which the commission determines licensure as a key employee is appropriate and necessary to effectuate the purposes of this chapter.
 
-(c) Religious rights. You may attend religious services with general population inmates unless you are found to pose a threat to the safety and security of the institution, including if the Department finds it likely that you will disrupt the service. Upon incarceration, you will be given more information about your religious rights in jail in accordance with New York City Board of Correction standards (40 RCNY § 1-07).
+j. "License" shall mean a shipboard gambling license, a key employee license or a key vendor license issued by the commission pursuant to the provisions of this chapter.
 
-(d) Telephone calls. The Department may limit your telephone calls if they constitute a threat to institutional safety or security, if you abuse the telephone regulations or in accordance with a court order. Upon incarceration, you will be given more information about your rights to telephone calls. If you are affected by a determination made pursuant to this subdivision, you may appeal such determination to the New York City Board of Correction by providing written notice. Written notice must also be provided to the Department of Correction and the Facility. You may also submit any additional relevant materials for the Board's consideration. The Board will issue a written response upon the appeal within five (5) business days after receiving the appeal.
+k. "Parent business" or "parent business entity" shall mean a business entity that owns fifty percent or more of another business entity, or that has a power or right of control or power to vote over fifty percent or more of such business entity, or that manages such other business entity.
 
-(e) Visits. The Department may revoke, deny or limit your contact visits if they constitute a serious threat to institutional safety or security. Upon incarceration, you will be given more information about your right to visits and the permitted schedules of those visits. If you are affected by a determination made pursuant to this subdivision, you may appeal such determination to the New York City Board of Correction and to the Commanding Officer by providing written notice. You may also submit any additional relevant materials for the Board's consideration. The Board, or its designee, will issue a written decision upon the appeal within five (5) business days after receiving notice of the requested review.
+l. "Principal" shall mean, of a sole proprietorship, the proprietor; of a corporation, every officer and director and every stockholder holding ten percent or more of the outstanding shares of the corporation; of a partnership, all the partners; if another type of business entity, the chief operating officer or chief executive officer, irrespective of organizational title, and all persons or entities having an ownership interest of ten percent or more. Where a partner or stockholder holding ten percent or more of the outstanding shares of a corporation is itself a partnership or a corporation, the term "principal" shall also include the partners of such partnership or the officers, directors and stockholders holding the equivalent of ten percent or more ownership interest of the applicant business. For the purposes of this chapter: (1) an individual shall be considered to hold stock in a corporation where such individual participates in the operation of or has a beneficial interest in such corporation and such stock is owned directly or indirectly by or for (i) such individual, (ii) the spouse or domestic partner of such individual (other than a spouse who is legally separated from such individual pursuant to a judicial decree or an agreement cognizable under the laws of the state in which such individual is domiciled), (iii) the children, grandchildren and parents of such individual or (iv) a corporation in which any of such individual, the spouse, domestic partner, children, grandchildren or parents of such individual in the aggregate own fifty percent or more in value of the stock of such corporation; (2) a partnership shall be considered to hold stock in a corporation where such stock is owned, directly or indirectly, by or for a partner in such partnership; and (3) a corporation shall be considered to hold stock in a corporation that is an applicant as defined in this section where such corporation holds fifty percent or more in value of the stock of a third corporation that holds stock in the applicant corporation. Notwithstanding any other provision of this subdivision, where there is reasonable cause to believe that any owner, officer or director of a business entity with an interest in an applicant business not otherwise within the scope of this subdivision lacks good character, honesty and integrity, the commission may designate such person as a principal for the purposes of sections 20-9005, 20-9006, 20-9007 and 20-9010.
 
+m. "Registrant" shall mean a service employee or agent or an auxiliary vendor who has registered with the commission pursuant to the provisions of this chapter.
 
+n. "Service employee or agent" shall mean a person employed in a shipboard gambling business who is not a key employee or agent or a gambling employee or agent.
 
+o. "Shipboard gambling business" shall mean a business in which passengers are transported for the purpose of participating in gambling outside the territorial waters of the United States from a location within New York city and returned to a location within such city; provided that a business shall not be deemed a shipboard gambling business for purposes of this chapter where the gambling cruises or the gambling activities aboard such cruises operated by or on behalf of such business are conducted or proposed to be conducted no more than two times a year or every cruise operated by such business during which gambling activities occur is of at least seventy-two hours duration or where the commission determines, in its discretion, that the gambling offered aboard a vessel owned or operated by such business does not constitute a primary activity conducted aboard such vessel. In reaching a determination that gambling does not constitute a primary activity, the commission shall consider, without limitation, factors including: the passenger capacity of the vessel in relation to the number of gaming positions in the areas in which gambling will occur; the percentage of space devoted to public accommodation in which gambling will occur; the number of hours during which gambling will take place in relation to the total time of the cruise; and the nature of the advertising and other customer solicitation engaged in by the business.
 
+p. "Subsidiary" shall mean any business that is managed by another business entity or any business in which fifty percent or more of the business is owned or in which fifty percent or more of the business is subject to a power or right of control or held with power to vote by another business entity.
 
+q. "Vendor" shall mean any business, except for a business the primary function of which is to provide legal or accounting services or that is required to register as a lobbyist pursuant to section 3-213 of the code or pursuant to the New York state lobbying act (enacted by chapter 1040 of the laws of 1981, as amended) that provides a shipboard gambling business with goods or services used in the operation of such business. "Key vendor" shall mean a vendor, in a category identified by rule of the commission, that furnishes goods or services related to the security operations, gambling operations, gambling equipment, the hiring, supervision or training of gambling employees or agents, the provision of alcoholic beverages, and the provision of food or food services the cost of which exceeds an amount to be set forth by rule of the commission. "Auxiliary vendor" shall mean a vendor, other than a key vendor, that furnishes goods or services to a shipboard gambling business, the cost of which goods or services exceeds an amount to be established for each category of such vendor by rule of the commission, related to maintenance of a vessel or facilities or equipment aboard a vessel, food or non-alcoholic beverages, entertainment or such other activity for which the commission determines by rule that registration is necessary or appropriate to effectuate the provisions of this chapter, provided that the commission may by rule determine that registration of a specific category of auxiliary vendor is unnecessary to achieve the purposes of this chapter. The commission shall by rule list the categories of goods and services and/or the amount of sales of such goods and services that do not require obtaining a key vendor license or an auxiliary vendor registration and may also, in its discretion, waive a requirement for a key vendor license or auxiliary vendor registration upon a determination that such license or registration is unnecessary to achieve the purposes of this chapter. In addition, the commission shall establish, by rule, a procedure whereby a shipboard gambling business may obtain temporary permission, on an expedited basis, to purchase goods or services from an unlicensed or unregistered vendor in a situation where such purchase is necessary to the operation of such business. The commission shall make provision for the issuance of licenses pursuant to sections 20-9005 and 20-9007 to key vendors who furnish goods or services to shipboard gambling licensees and for the registration pursuant to section 20-9006 of auxiliary vendors who furnish goods or services to shipboard gambling licensees. The commission shall maintain a list of all licensed and registered vendors and those vendors to whom a waiver has been granted and shall make such list available upon request.
 
-*§ 1-03 Rules of Conduct.* ::
 
 
-(a)  Introduction. This section sets forth the behavior that is prohibited in Department of Correction ("Department") facilities. The grade of each offense is listed. The acts of conspiracy, attempt, and accessory will be punishable to the same degree as the actual offense involved.
 
-(b) Definitions.
 
-   "Accessory" shall mean assisting in any way in the violation of a Department rule, before, during or after such violation.
 
-   "Any person" shall include, but not be limited to, uniformed and civilian Department staff, medical staff, contractors and their employees, volunteers, visitors and inmates.
 
-   "Attempt" shall mean any act that is intended to and tends to lead to a violation of a Department rule.
 
-   "Contraband" shall mean any item that is not sold in the commissary, that is not on the approved list of permissible items, that is possessed in more than the approved amount, or that the inmate does not have permission to possess. Contraband includes items that may disrupt the safety, security, good order and discipline of the facility. Any item that is illegal for an individual not on Department property to possess is also illegal to use or possess on Department property. Possession of contraband may subject an inmate to criminal prosecution as well as disciplinary action. Any person who tries to introduce contraband into a facility may also be subject to criminal prosecution.
+*§ 20-9002 New York city gambling control commission.* ::
 
-   "Conspiracy" shall mean an agreement between one or more persons to violate a Department rule.
 
-   “Department ID” shall mean any form of Department-issued tag, card, wristband, or other object that serves to identify an inmate.
+a. There is hereby created a New York city gambling control commission. Such commission shall consist of five members appointed by the mayor, two of whom shall be appointed after recommendation by the city council. The mayor shall appoint a chair from among the members of the commission. Each member of the commission shall be appointed for a two year term.
 
-   "Good Time" shall mean a discretionary reduction of up to one third of the term of commitment for a definite sentence or certain civil commitments, as allowed by the New York State Correction Law.
+b. In the event of a vacancy on the commission during the term of office of a member, a successor shall be chosen in the same manner as the original appointment. A member appointed to fill a vacancy shall serve for the balance of the unexpired term.
 
-   "Security Risk Group" shall mean persons such as gang members, intended or actual contraband recipients, and weapons carriers or users, whose actions violate laws or established rules of conduct, or persons who belong to groups whose purpose is antithetical to established law enforcement authority.
+c. The members of the commission shall be compensated on a per diem basis, provided, however, that a member who holds other city office or employment shall receive only the compensation for such office or employment. The chair shall have charge of the organization of the commission and shall have authority to employ, assign and superintend the duties of such officers and employees as may be necessary to carry out the provisions of this chapter.
 
-   “Sexual abuse” means sexual abuse as defined in the Prison Rape Elimination Act.
 
-   “Sexually explicit material” is any printed or displayed material that shows the frontal and or rear nudity of any person, including but not limited to: the fully exposed female breast(s) and/or the genitalia of any gender; sexual excitement; sexual conduct, sexual intercourse; or sadomasochistic abuse.
 
-   “Staff” shall include, but not be limited to, uniformed and civilian Department staff, medical staff, contractors and their employees or volunteers.
 
-   "Unauthorized group" shall mean five or more inmates remaining in close physical proximity to each other when not authorized to do so by Department personnel.
 
-(c) Prohibited conduct. An inmate who violates a rule listed in any subsection of 39 RCNY § 1-03(c) as a “Grade I” offense shall be guilty of the stated Grade I offense; an inmate who violates a rule listed in any subsection of 39 RCNY § 1-03(c) as a “Grade II” offense shall be guilty of the stated Grade II offense; and an inmate who violates a rule listed in any subsection of 39 RCNY § 1-03(c) as a “Grade III” offense shall be guilty of the stated Grade III offense.
 
-   (1) Arson (setting fires)
 
-      Grade I:
 
-      100.10. An inmate is guilty of arson when he or she intentionally starts or attempts to start any fire or causes or attempts to cause any explosion.
+*§ 20-9003 Power and duties of the commission.* ::
 
-   (2) Assault and Fighting
 
-      Grade I:
+The commission shall be responsible for the licensing and regulation of shipboard gambling businesses. The powers and duties of the commission shall include, but not be limited to the following:
 
-      101.10. An inmate is guilty of assault on staff when he or she injures or attempts to injure any staff member, or when he or she spits on or throws any object or substance at any staff member. Assault or attempted assault on staff is always a Grade I offense.
+a. To issue and establish standards for the issuance, renewal, suspension and revocation of licenses, certificates of approval and registrations and waivers therefrom pursuant to this chapter; provided that the commission may by resolution delegate to the chair the authority to make individual determinations regarding the issuance, renewal, suspension and revocation of such licenses, certificates of approval and registrations and the appointment of independent auditors in accordance with the provisions of this chapter, except that a determination to refuse to issue a license, renewal, certificate of approval or registration or to refuse to grant a waiver therefrom pursuant to this chapter shall be made only by a majority vote of the commission.
 
-      101.11: An inmate is guilty of Grade I assault when he or she injures any other person, or when he or she spits on or throws any object or substance at any other person.
+b. To investigate any matter within the jurisdiction conferred by this chapter, including, but not limited to, any matter that relates to the good character, honesty and integrity of any owner, officer or director of an applicant business entity, or affiliate or subsidiary thereof, irrespective of whether such person is a principal of such business as defined in subdivision l of section 20-9001, and to have full power to compel the attendance, examine and take testimony under oath of such persons as it may deem necessary in relation to such investigation, and to require the production of books, accounts, papers and other documents and materials relevant to such investigation.
 
-      101.12: An inmate is guilty of Grade I assault on an inmate when he or she injures any other inmate, or when he or she spits on or throws any object or substance at any other inmate.
+c. To appoint, within the appropriations available therefor, such employees as may be required for the performance of the duties prescribed herein. In addition to such employees, the commission may request that the commissioner of any other appropriate city agency provide staff and other assistance to the commission in conducting background investigations for licenses, certificates of approval and registrations pursuant to this chapter in order that such work may be performed efficiently, within existing city resources.
 
-      101.13: An inmate is guilty of assault with a weapon when he or she uses any item to assault or attempt to assault any person.
+d. To conduct studies or investigations into matters related to gambling in the city and other jurisdictions in order to assist the city in formulating policies relating to the regulation of shipboard gambling.
 
-      101.14: An inmate is guilty of Grade I fighting when he or she engages in a physical struggle with another inmate that results in injury to any person.
+e. To establish standards for the conduct of shipboard gambling businesses.
 
-      101.15: An inmate is guilty of the Grade I offense of Gang Assault on an inmate when the inmate, while acting in concert with two or more inmates, injures, spits on or throws any object or substance at any other inmate.
+f. To set forth requirements necessary to protect the public health, safety and welfare, including but not limited to requirements for the provision of security for patrons on shipboard or on the pier or adjacent area in coordination with appropriate law enforcement authorities, and other measures to provide for the welfare of patrons on such piers and in such areas.
 
-      101.15.1: An inmate is guilty of the Grade I offense of Security Risk Group Assault when the inmate injures, spits on or throws any object or substance at any other inmate based on either inmate’s Security Risk Group status or motivated by a Security Risk Group related purpose.
+g. To establish standards to protect consumers from fraudulent and misleading advertising and other solicitation of customers for shipboard gambling businesses.
 
-      Grade II:
+h. To establish fees and promulgate rules as the commission may deem necessary and appropriate to effectuate the purposes and provisions of this chapter.
 
-      101.16: An inmate is guilty of Grade II assault when he or she attempts to injure any person other than a staff member, without using a weapon, but does not cause injury.
 
-      101.17: An inmate is guilty of Grade II fighting when he or she engages in a physical struggle with another inmate that does not result in injury.
 
-      Grade III:
 
-      101.18: An inmate is guilty of Grade III fighting when he or she engages in a non-violent physical struggle with another person such as horseplay, boxing, wrestling or sparring.
 
-   (3) Bribery
 
-      Grade I:
 
-      102.10: An inmate is guilty of bribery when he or she gives or attempts to give any benefit, including but not limited to money or valuable items, to any person, with the intent of influencing that person's conduct or obtaining a benefit for himself or herself.
 
-   (4) Contraband
+*§ 20-9004 Licenses, certificates of approval, and registration required.* ::
 
-      Grade I:
 
-      103.05: Inmates shall not possess any tobacco-related products including, but not limited to, cigarettes, cigars, loose tobacco, chewing tobacco, rolling paper, matches and lighters.
+a. Unless otherwise provided,
 
-      103.07: Inmates shall not sell, exchange or distribute tobacco-related products including, but not limited to, cigarettes, cigars, loose tobacco, chewing tobacco, matches and lighters.
+   (i) It shall be unlawful to operate a shipboard gambling business unless such business has first obtained a shipboard gambling license from the commission.
 
-      103.08: Inmates shall not make, possess, sell or exchange any amount of alcoholic beverage.
+   (ii) It shall be unlawful for a shipboard gambling licensee to employ a key employee or agent unless such employee or agent has first obtained a key employee license from the commission pursuant to the provisions of this chapter.
 
-      103.10: Inmates shall not make, possess, sell or exchange any type of contraband weapon. Any object that could be used as a weapon may be classified as a weapon.
+   (iii) It shall be unlawful for a shipboard gambling licensee to employ a gambling employee or agent unless such employee or agent has first obtained a certificate of approval from the commission pursuant to the provisions of this chapter.
 
-      103.10.5: Inmates shall not possess or transport a Department-issued razor outside the housing area.
+   (iv) It shall be unlawful for a shipboard gambling licensee to employ a service employee or agent unless such employee or agent has first registered with the commission pursuant to the provisions of this chapter.
 
-      103.10.6: Inmates shall return all Department-issued razors after shaving is completed, in accordance with Department or facility procedures. Razors shall be returned in the same condition as received; for example, blade and handle shall be intact.
+   (v) It shall be unlawful for a shipboard gambling licensee to purchase goods or services from a key vendor or an auxiliary vendor unless such vendor has first obtained a key vendor license or has registered with the commission, whichever is appropriate.
 
-      103.10.7: Inmates shall not possess more than one Department-issued razor.
+b. A license, certificate of approval or registration issued pursuant to this chapter or any rule promulgated hereunder shall not be transferred or assigned or used by any person or entity other than the licensee, holder of a certificate of approval or registrant to whom it was issued.
 
-      103.11: Inmates shall not make, possess, sell, give or exchange any amount of narcotic, narcotic paraphernalia, or any other controlled substance, or a manufactured chemical compound that is not facility issued.
+c. A license, certificate of approval or registration issued pursuant to this chapter shall be valid for a period of two years and shall, upon proper application for renewal pursuant to rule of the commission setting forth an expeditious procedure for the updating and review of the information required to be submitted by the applicant, be renewable for two year periods thereafter, except that the renewal period for a shipboard gambling license shall be for one year for each of the first two renewal periods succeeding the initial issuance of such license, and thereafter for two years.
 
-      103.12: Inmates shall not make, possess, sell, give or exchange any type of escape paraphernalia. Where there is the likelihood that an item can be used to aid an escape, it may be classified as escape paraphernalia. Keys, possession of identification belonging to another person, or fictitious person, transferring an inmate's identification to another, possession of employee clothing, or any other articles which would aid in an escape, or which suggest that an escape is being planned, are contraband.
+d. The commission shall promulgate rules establishing the fees and the manner of payment of fees for any investigation, license, certificate of approval or registration required by this chapter in an amount sufficient to compensate the city for the administrative expense of conducting investigations and issuing or renewing a license, certificate of approval or registration and the expense of inspections and other activities related thereto.
 
-      103.12.5: Inmates shall not possess any type of electronic telecommunications and/or recording device or instrument or any part of such device or instrument, which is designed to transmit and/or receive telephonic, electronic, digital, cellular or radio communications; record or capture sound and/or images;; or charge the power of any such device or instrument. Such devices shall include, but shall not be limited to, cameras (digital or film), video recorders, tape or digital recording devices, electronic storage devices, phone chargers, battery chargers, A/C adapters, A/C cables, cellular or digital phones, pagers, two-way radios, text messaging devices, or modem equipment or devices. (Radios sold in commissary are excluded from this prohibition.)
 
-      103.12.6: Inmates shall not possess any contraband with intent to sell or distribute such contraband.
 
-      103.12.7: Inmates shall not possess money whose value exceeds twenty (20) dollars in cash, checks, credit cards regardless of the credit available on the card, or debit or gift cards regardless of the value stored on the card. Money confiscated as contraband will be deposited in the City's treasury and will not be returned to the inmate.
 
-      Grade II:
 
-      103.13: Inmates shall not sell or exchange prescription drugs or non-prescription drugs. Inmates shall not possess prescription drugs that they are not authorized by medical staff to possess.
 
-      103.13.5: Inmates shall not possess prescription or non-prescription drugs in quantities in excess of that authorized by medical staff. Inmates are not authorized to possess expired prescription medication or drugs.
 
-      103.13.6: Inmates are not authorized to possess any drug that by prescription, or by medical order, must be ingested in view of Department and/or medical staff.
 
-      103.14: Inmates shall not make, possess, sell, exchange, use or display any item that identifies the inmate as a member or associate of a Security Risk Group. Articles of religious significance that are Security Risk Group identifiers shall only be considered contraband if they are displayed. Incidental or inadvertent exposure of the item (for example, while showering, saying the rosary or other religious observance, dressing or undressing or sleeping) shall not be considered "display" under this rule.
+*§ 20-9005 License application; application for certificate of approval.* ::
 
-      103.15: An inmate is guilty of the offense of Possession of Contraband Grade II when such inmate possesses money having a value of up to and including twenty (20) dollars, in the form of cash or checks. Money confiscated as contraband will be deposited in the City's treasury and will not be returned to the inmate.
 
-      Grade III:
+a. An applicant for a license or certificate of approval pursuant to this chapter shall submit an application in the form and containing the information prescribed by the commission. An application for a license shall be accompanied by:
 
-      103.16: Inmates shall not possess unauthorized hobby materials, art supplies or tattooing equipment, or writing implements.
+   (i) in the case of any applicant business, a list of the names and addresses of all principals of such business, and, in the case of a shipboard gambling business, all key employees employed or proposed to be employed in the business; and
 
-      103.17: Inmates shall not possess unauthorized amounts of jewelry, clothing, food, or personal property.
+   (ii) in the case of a shipboard gambling business, a list of the names of all key and auxiliary vendors and prospective and anticipated key and auxiliary vendors and the names and job titles of all gambling and service employees and agents, prospective gambling and service employees and agents of the applicant business who are or who the applicant proposes to be engaged in the operation of the shipboard gambling business;
 
-      103.18: Inmates shall not possess unauthorized amounts of City-issued property.
+   (iii) such other information as the commission shall determine by rule will properly identify employees and agents and prospective employees and agents;
 
-      103.19: Inmates shall not possess any other unauthorized items not specifically listed within this section.
+   (iv) in the case of a shipboard gambling business, a description, accompanied by diagrams where appropriate, detailing the provisions that will be made by the applicant for security and other measures prescribed for the welfare of patrons by rule of the commission;
 
-   (5) Count Procedures
+   (v) in the case of a shipboard gambling business, a description of the financial capacity and cash management system of the shipboard gambling business demonstrating the ability of such business to maintain and operate the business responsibly and to provide payment to patrons; and
 
-      Grade II:
+   (vi) a form signed by each applicant authorizing the release to the city of financial and other information required by the commission and waiving any claims against the city that might arise in connection with the investigation of the applicant or the release of any information resulting from such investigation to other appropriate government officials.
 
-      104.10: Inmates shall not intentionally cause a miscount.
+b. i. An applicant for a license or a certificate of approval shall be fingerprinted by a person designated for such purpose by the commission, the department of investigation or the police department and pay a fee to be submitted to the division of criminal justice services and/or the federal bureau of investigation for the purposes of obtaining criminal history records.
 
-      104.11: Inmates shall not intentionally delay the count.
+   ii. An applicant for a license or a certificate of approval shall provide to the commission, upon a form prescribed by the commission and subject to such minimum dollar thresholds and other reporting requirements set forth on such form, information for the purpose of enabling the commission to determine the good character, honesty and integrity of the applicant, including but not limited to:
 
-   (6) Creating a Fire, Health or Safety Hazard
+      (a) a listing of the names and addresses of any person having a beneficial interest in an applicant business, and the amount and nature of such interest;
 
-      Grade II:
+      (b) a listing of the amounts in which such applicant is indebted, including mortgages on real property, and the names and addresses of all persons to whom such debts are owned;
 
-      105.10: Inmates shall not create a fire hazard, health hazard, or other safety hazard.
+      (c) a listing of such applicant's real property holdings or mortgage or other interest in real property held by such applicant other than a primary residence and the names and addresses of all co-owners of such interest;
 
-      105.11: Inmates shall not tamper with any fire safety equipment.
+      (d) the name and address of any business in which such applicant holds an equity or debt interest, excluding any interest in publicly traded stocks or bonds;
 
-      105.12: Inmates shall not cause any false alarms about a fire, claimed health emergency, or create any kind of disturbance or security problem.
+      (e) the names and addresses of all persons or entities from whom an applicant has received gifts valued at more than one thousand dollars in any of the past three years, and the name of all persons or entities excluding any organization recognized by the Internal Revenue Service under section 501(c)(3) of the Internal Revenue Code to whom the applicant has given such gifts in any of the past three years;
 
-      105.13: Inmates shall not flood any living area or other area in the facility.
+      (f) a listing of all criminal convictions, in any jurisdiction, of the applicant;
 
-      Grade III:
+      (g) a listing of all pending civil or criminal actions to which the applicant knows or should have known that he or she is a party;
 
-      105.14: Inmates shall not store food in their housing area or any work place, except food items bought in the commissary, which must be stored in the food containers provided.
+      (h) a listing of any determination by a federal, state or city regulatory agency of a violation by the applicant of statutes, laws, rules or regulations relating to the applicant's conduct where such violation has resulted in the suspension or revocation of a permit, license or other permission required in connection with the operation of a business or in a civil fine, penalty, settlement or injunctive relief in excess of threshold amounts or of a type established by the commission;
 
-      105.15: Inmates shall not litter, spit, or throw garbage or any kind of waste or substance.
+      (i) a listing of any criminal or civil investigation by a federal, state, or local prosecutorial agency, investigative agency or regulatory agency, in the five year period preceding the application, wherein such applicant:
 
-      105.16: Inmates shall follow all local facility rules relating to fire, health or safety.
+         (A) knew or should have known that the applicant was the subject of such investigation, or
 
-      105.17: Inmates shall clean their cell or living area, toilet bowl, sink and all other furnishings every day. They must keep their cells and beds neatly arranged. Before leaving their cells or living areas for any purpose, they must clean their cells or areas and make their beds.
+         (B) has received a subpoena requiring the production of documents or information in connection with such investigation;
 
-      105.19: Inmates shall not obscure, block, obstruct, mark up, write on, or post any pictures or place any other articles on Department property, including any walls, windows, cells, or lighting fixtures.
+      (j) a certification that an applicant business has paid all federal, state, and local income taxes related to the applicant's business for which the applicant is responsible for the three tax years preceding the date of the application or documentation that the applicant is contesting such taxes in a pending judicial or administrative proceeding;
 
-      105.20: Inmates shall not cook in any living area, including any cell.
+      (k) a listing of any license, permit or other permission held by the applicant to engage in any capacity in a gambling business or activity in any jurisdiction;
 
-      105.22: Inmates must keep themselves and their clothes clean.
+      (l) a listing of any denials to the applicant by any jurisdiction of a license, permit or other permission to engage in any capacity in a gambling business or activity; and
 
-      105.24: Inmates shall not block the view into or out of any cell by putting anything on the bars of the cell or on any cell door, cell door window or cell window, in a manner that would obstruct the view into or out of the cell.
+      (m) such additional information concerning the sources and nature of funding of an applicant business and the good character, honesty and integrity of applicants that the commission may deem appropriate and reasonable. An applicant may submit any additional information that the applicant believes demonstrates the applicant's good character, honesty and integrity, including a licensing determination from another jurisdiction. Notwithstanding any provision of this subdivision, an applicant for a certificate of approval shall not be required to submit information described in subparagraphs (a) and (m) of this paragraph or any other information the commission determines is not necessary or appropriate. An applicant may also submit to the commission any material or explanation which the applicant believes demonstrates that any information submitted pursuant to this paragraph does not reflect adversely upon the applicant's good character, honesty and integrity. The commission may require that applicants pay fees to cover the expenses of fingerprinting and background investigations provided for in this subdivision.
 
-      105.25: Inmates shall not use a food warmer as a personal cooking device.
+   iii. In the case of a shipboard gambling business, the commission may also require that an applicant submit any or all of the information required by this paragraph with respect to any affiliate or subsidiary of the applicant that owns or operates a business in any jurisdiction.
 
-   (7) Demonstrations
+   iv. Notwithstanding any provision of this chapter, for purposes of this section in the case of an applicant shipboard gambling business that has a parent business entity:
 
-      Grade I:
+      (A) fingerprinting and disclosure under this section shall be required of any person acting for or on behalf of the parent business who has direct management or supervisory responsibility for the operations or performance of the applicant;
 
-      106.10: Inmates shall not lead, attempt to lead or encourage others to participate in boycotts, work stoppages, or other demonstrations that interrupt the routine of the facility.
+      (B) the chief executive officer, chief operating officer and chief financial officer, or any other person exercising comparable responsibilities and functions, of any subsidiary or affiliate of such parent business entity over which any person subject to fingerprinting and disclosure under subparagraph (A) of this paragraph exercises similar responsibilities shall be fingerprinted and shall submit the information required pursuant to subparagraphs (f) and (g) of paragraph ii of this subdivision, as well as such additional information pursuant to this paragraph as the commission may find necessary; and
 
-      106.11: Inmates shall not participate in boycotts, work stoppages, or other demonstrations.
+      (C) the listing specified under subparagraph (i) of paragraph ii of this subdivision shall also be provided for any subsidiary or affiliate of the parent business entity for which fingerprinting and disclosure by principals thereof is made pursuant to (B) of this paragraph.
 
-   (8) Destruction of Property
+   v. The chief executive officer, chief operating officer and chief financial officer, or any other person exercising comparable responsibilities and functions, of and subsidiary or affiliate of a shipboard gambling business shall be fingerprinted and shall submit the information required pursuant to subparagraphs (f), (g) and (i) of paragraph ii of this subdivision, as well as such other information pursuant to this paragraph that the commission may find necessary.
 
-      Grade I:
+c. A business required to be licensed pursuant to this chapter shall inform the commission, within a reasonable time, of any changes in the ownership composition of such business, the addition or deletion of any principal at any time subsequent to the issuance of the license, the arrest or criminal conviction of any principal of the business, or any other material change in the information submitted on the application for a license. A business required to be licensed shall provide the commission with notice of at least ten business days of the proposed addition of a new principal to such business. The commission may waive or shorten such period upon a showing that there exists a bona fide business requirement therefor. Except where the commission determines within such period, based upon information available to it, that the addition of such new principal may have a result inimical to the purposes of this chapter, the licensee may add such new principal pending the completion of review by the commission. The licensee shall be afforded an opportunity to demonstrate to the commission that the addition of such new principal pending completion of such review would not have a result inimical to the purposes of this chapter. If upon the completion of such review, the commission determines that such principal has not demonstrated that he or she possesses good character, honesty and integrity, the license shall cease to be valid unless such principal divests his or her interest, or discontinues his or her involvement in the business of such licensee, as the case may be, within a reasonable time period prescribed by the commission.
 
-      107.10: An inmate is guilty of the offense of Destruction of Property Grade I when such inmate misuses, defaces, or destroys City property, or private property belonging to another, with a value greater than one hundred dollars ($100.00).
+d. Each applicant business shall provide the commission with a business address in New York city where notices may be delivered and legal process served and shall designate a person of suitable age and discretion at such address who shall be an agent for service of process.
 
-      Grade II:
 
-      107.11: An inmate is guilty of the offense of Destruction of Property Grade II when such inmate misuses, defaces, or destroys City property, or private property belonging to another, with a value between ten dollars ($10.00) and one hundred dollars ($100.00).
 
-      Grade III:
 
-      107.12: An inmate is guilty of the offense of Destruction of Property Grade III when such inmate defaces or destroys City property, or private property belonging to another, with a value of ten dollars ($10.00) or less.
 
-   (9) Disorderly Conduct
 
-      Grade III:
 
-      108.10: Inmates shall not shout out to, curse, use abusive language, or make obscene gestures towards any person.
 
-      108.11: Inmates shall not behave in a loud and noisy manner.
+*§ 20-9006 Registration application; application for renewal.* ::
 
-   (10) Disrespect for Staff; Sexual Harassment towards Staff
 
-      Grade I:
+a. An applicant for registration or renewal pursuant to this chapter shall submit an application on a form prescribed by the commission and containing such information as the commission determines will adequately identify and establish the background of such applicant. The commission may refuse to register or to renew the registration of an applicant who has knowingly failed to provide the information and/or documentation required by such form, or who has knowingly provided false information or documentation, required by this chapter or any rule promulgated pursuant hereto.
 
-      109.10: An inmate is guilty of the Grade I offense of Disrespect for Staff if the inmate physically resists a staff member, including by pulling or twisting away.
+b. Notwithstanding any other provision of this chapter:
 
-      109.11: An inmate is guilty of the Grade I offense of Disrespect for Staff/Sexual Harassment towards Staff if the inmate harasses or annoys a staff member by touching the staff member.
+   (i) the commission may, where there is reasonable cause to believe that an applicant has not demonstrated to the commission that he or she possesses good character, honesty and integrity, require that such applicant be fingerprinted and provide to the commission the information set forth in subdivisions a and b of section 20-9005 and may, after notice and the opportunity to be heard, refuse to register such applicant for the reasons set forth in subdivision a of section 20-9007; and
 
-      109.11.5: An inmate is guilty of the Grade I offense of Sexual Harassment towards Staff if the inmate engages in unwelcome physical conduct of a sexual nature, including but not limited to: patting, rubbing, kissing, grabbing, pinching or touching of staff.
+   (ii) if at any time subsequent to registration, the commission has reasonable cause to believe that the registrant lacks good character, honesty and integrity, the commission may require that such registrant be fingerprinted and provide the background information required by subdivision b of section 20-9005 and may, after notice and the opportunity to be heard, revoke the registration for the reasons set forth in subdivision a of section 20-9007.
 
-      Grade II:
 
-      109.12 An inmate is guilty of the Grade II offense of Disrespect for Staff/Sexual Harassment towards Staff if the inmate verbally abuses or harasses a staff member, or makes obscene gestures towards any staff member.
 
-      109.13: An inmate is guilty of the Grade II offense of Disrespect for Staff/Sexual Harassment Towards Staff when the inmate, in the plain view of staff, intentionally touches the inmate's own body with or without exposing the genitals, buttocks or breasts, in a manner that demonstrates it is for the purpose of sexual arousal, gratification, annoyance, or offense, and that any reasonable person would consider this conduct offensive.
 
-      109.14: An inmate is guilty of the Grade II offense of Disrespect for Staff/Sexual Harassment Toward Staff when the inmate requests, solicits or otherwise encourages a staff member or any other to engage in sexual activity, or makes repeated and unwelcome sexual advances or verbal comments of a derogatory or offensive nature, including but not limited to: sexually suggestive remarks, jokes, innuendos, leering, comments, and gestures.
 
-      109.15: An inmate is guilty of the Grade II offense of sexual harassment towards staff when the inmate refuses to remove sexually explicit material the inmate has affixed, posted or displayed on Department property after being asked to do so by staff.
 
-      Grade III:
 
-      109.16: An inmate is guilty of the Grade III offense of sexual harassment towards staff when the inmate affixes, posts or displays any sexually explicit material on Department property, including walls, windows, or lighting fixtures.
 
-   (11) Disrupting Institutional Programs
+*§ 20-9007 Refusal to issue or renew a license or certificate of approval.* ::
 
-      Grade II:
 
-      110.10: Inmates shall not interfere with or disrupt institutional services, programs, or special activities.
+a. The commission shall refuse to issue or to renew a license to an applicant who has not demonstrated to the commission that he or she possesses good character, honesty and integrity. In determining that an applicant has not met his or her burden to demonstrate good character, honesty and integrity, the commission may consider, but is not limited to:
 
-   (12) Escape
+   (i) knowing failure by such applicant to provide truthful or complete information in connection with the application;
 
-      Grade I:
+   (ii) a pending indictment or criminal action against such applicant for a crime which under this subdivision would provide a basis for the refusal to issue such license or certificate of approval, or a pending civil or administrative action to which such applicant is a party and which directly relates to the fitness to conduct the business or perform the work for which the license or certificate of approval is sought, in which case the commission may defer consideration of an application until a decision has been reached by the court or administrative tribunal before which such action is pending;
 
-      111.10 Inmates shall not escape or aid others to escape, or attempt to escape or aid others to escape. Exiting Department property, a Department facility, or vehicle without permission from Department staff is an escape.
+   (iii) conviction of such applicant for a crime which, considering the factors set forth in section 753 of the correction law, would provide a basis under such law for the refusal of such license or certificate of approval;
 
-   (13) Extortion
+   (iv) a finding of liability in a civil or administrative action that bears a direct relationship to the fitness of the applicant to conduct the business or to perform the employment for which the license or certificate of approval is sought;
 
-      Grade I:
+   (v) commission of a racketeering activity or knowing association with a person who has been convicted for a racketeering activity when the applicant knew or should have known of such conviction, including but not limited to the offenses listed in subdivision one of section 1961 of the Racketeer Influenced and Corrupt Organizations statute (18 U.S.C. § 1961, et seq.) or of an offense listed in subdivision one of section 460.10 of the penal law, as such statutes may be amended from time to time, or the equivalent offense under the laws of any other jurisdiction;
 
-      112.10: Inmates shall not make threats, spoken, in writing or by gesture, against a staff member for the purpose of obtaining any benefit.
+   (vi) conviction of a gambling offense under 18 U.S.C. § 1081, et seq., 18 U.S.C. §§ 1953 through 1955, article 225 of the penal law or the equivalent offense under the laws of any other jurisdiction;
 
-      Grade II:
+   (vii) association with any member or associate of an organized crime group as identified by a federal, state or city law enforcement or investigative agency when the applicant knew or should have known of the organized crime associations of such person;
 
-      112.11: Inmates shall not make any threats, spoken, in writing or by any gesture, against any person other than a staff member for the purpose of obtaining any benefit.
+   (viii) in the case of an applicant business, failure to pay any tax, fine, penalty, fee related to the applicant's business for which liability has been admitted by the person liable therefor, or for which judgment has been entered by a court or administrative tribunal of competent jurisdiction and such judgment has not been stayed; and
 
-   (14) False Statements
+   (ix) denial of a license or other permission to operate a gambling business or activity in another jurisdiction. For purposes of determining the good character, honesty and integrity of applicants for registration or registrants pursuant to section 20-9006, the term "applicant" as used herein shall be deemed to apply to such applicants for registration or registrants.
 
-      Grade II:
+b. The commission may refuse to issue or to renew a certificate of approval to an applicant who has not demonstrated that he or she possesses good character, honesty and integrity. In reaching such a determination, the commission may consider, but is not limited to, the factors set forth in paragraphs (i) through (ix) of subdivision a of this section.
 
-      112.50: Inmates shall not provide to Department officials, or officials from other governmental entities, false oral or written statements for any purpose.
+c. The commission may refuse to issue or to renew a license or certificate of approval to an applicant who has knowingly failed to provide the information and/or documentation required in the form prescribed by the commission pursuant to section 20-9005, who has knowingly provided false information or documentation required by the commission pursuant to this chapter or any rules promulgated pursuant hereto.
 
-   (15) Gambling
+d. The commission may refuse to issue or to renew a license or certificate of approval to an applicant when such applicant: (i) was previously issued a license or certificate of approval pursuant to this chapter and such license or certificate of approval was revoked pursuant to the provisions of this chapter; or (ii) has been determined to have committed any of the acts which would be a basis for the suspension or revocation of a license or certificate of approval pursuant to this chapter or any rules promulgated hereto.
 
-      Grade III:
+e. The commission may refuse to issue or to renew a license pursuant to this chapter to an applicant business where such applicant business or any of the principals of such applicant business have been principals of a licensee whose license has been revoked pursuant to subdivision a of section 20-9010.
 
-      113.10: Inmates shall not engage in any form of gambling.
 
-   (16) Hostage Taking
 
-      Grade I:
 
-      114.10: Inmates shall not take or hold any person hostage.
 
-   (17) Identification Procedures
 
-      Grade III:
 
-      115.10: Inmates shall carry and display their Department ID at all times when outside their cell or sleeping quarters.
 
-      115.11: Inmates shall promptly produce their Department ID at the direction of any staff member.
+*§ 20-9008 Independent auditing required.* ::
 
-      115.12: Inmates shall report the loss of their Department ID promptly to appropriate staff members. Inmates shall be charged restitution for a new Department ID.
 
-      115.13: Inmates shall not intentionally tamper with or destroy their Department ID.
+a. The commission may, in the event the background investigation conducted pursuant to section 20-9005 produces adverse information, require as a condition of a shipboard gambling license that the licensee enter into a contract with an independent auditor, approved or selected by the commission. Such contract, the cost of which shall be paid by the licensee, shall provide that the auditor investigate the activities of the licensee with respect to the licensee's compliance with the provisions of this chapter, other applicable federal, state and local laws and such other matters as the commission shall determine by rule. The contract shall provide further that the auditor report the findings of such monitoring and investigation to the commission on a periodic basis.
 
-   (18) Impersonation
+b. The commission shall be authorized to prescribe, in any contract required by the commission pursuant to this section, such reasonable terms and conditions as the commission deems necessary to effectuate the purposes of this chapter.
 
-      Grade I:
 
-      116.10: Inmates shall not impersonate any staff member in any way.
 
-      Grade II:
 
-      116.11: Inmates shall not impersonate another inmate or any other person in any way.
 
-   (19) Inmate Movement
 
-      Grade II:
 
-      117.10: Inmates shall follow facility rules and staff orders relating to movement inside and outside the facility, including, but not limited to, rules and orders dealing with seating, lock-in and lock-out.
 
-      Grade III:
+*§ 20-9009 Investigations by the department of investigation or police department.* ::
 
-      117.11: Inmates shall not be out of their assigned area, including being in a cell to which they are not assigned, nor shall inmates leave an assigned area such as a work area or program area, without authorization.
 
-   (20) Purchase, Sale or Exchange of Services or Property
+In addition to any other investigation authorized pursuant to law, the commissioner of the department of investigation or the police commissioner shall, at the request of the commission, conduct a study or investigation of any matter arising under the provisions of this chapter, including but not limited to investigation of the information required to be submitted by applicants for licenses, certificates of approval and registration and the ongoing conduct of licensees, holders of certificates of approval and registrants.
 
-      Grade III:
 
-      119.10: Inmates shall not sell, buy or exchange services or personal property with any other inmate without permission.
 
-   (21) Refusal To Obey a Direct Order
 
-      Grade II:
 
-      120.10: Inmates shall obey all orders of Department staff promptly and completely. It shall be a Grade II offense to fail to obey the following orders: to stop fighting with or assaulting another person, to be frisked, to have a cell searched, to be locked-in and/or locked-out, to disperse an unauthorized assembly, to identify oneself, to go to court, and to cooperate in admission procedures. It shall be a Grade II offense to fail to obey any order given to an inmate when the inmate is outside the facility, and when any order is given in any emergency situation.
 
-      Grade III:
 
-      120.11: It shall be a Grade III offense to refuse to obey any other staff order promptly and completely.
 
-   (22) Rioting
+*§ 20-9010 Revocation or suspension of license, certificate of approval or registration.* ::
 
-      Grade I:
 
-      121.10: Inmates shall not take any action with the intention of taking control over any area of any facility. Inmates in groups must not use or threaten violence against any person or property.
+a. In addition to the penalties provided in section 20-9011, the commission may, after notice and opportunity to be heard, revoke or suspend a license, certificate of approval or registration issued pursuant to the provisions of this chapter when the licensee or a principal, employee or agent of a licensee, a holder of a certificate of approval or a registrant:
 
-      121.12: Inmates shall not encourage or in any way persuade other inmates to take any action in order to take control over any area of the facility, or to use or threaten violence against any person or property.
+   (i) has been found to be in violation of this chapter or any rules promulgated hereunder;
 
-   (23) Sex Offenses
+   (ii) has repeatedly failed to obey the lawful orders of any person authorized to enforce the provisions of this chapter;
 
-      Grade I:
+   (iii) has failed to pay, within the time specified by a court, the commission or an administrative tribunal of competent jurisdiction, any fines or civil penalties imposed pursuant to this chapter or the rules promulgated pursuant hereto;
 
-      122.10: An inmate is guilty of a Grade I Sex Offense when the inmate forces, coerces or attempts sexual abuse against another person, or engages in sexual abuse of a person who is unable to consent or refuse.
+   (iv) whenever, in relation to an investigation conducted pursuant to this chapter, the commission determines, after consideration of the factors set forth in subdivision a of section 20-9007, that the licensee, holder of a certificate of approval or registrant lacks good character, honesty and integrity or lacks the financial capacity to maintain and operate the business responsibly in a manner that will ensure the immediate payment to patrons;
 
-      Grade II:
+   (v) whenever there has knowingly been any false statement or any misrepresentation as to a material fact in the application or accompanying papers upon which the issuance of such license, certificate of approval or registration was based; or
 
-      122.11: An inmate is guilty of a Grade II Sex Offense when the inmate engages in sexual activity with another inmate. All contact between inmates is prohibited, including kissing, embracing, and hand-holding.
+   (vi) whenever a licensee has failed to notify the commission as required by subdivision c of section 20-9005 of any change in the ownership interest of the business or any other material change in the information required on the application for such license, or of the arrest or criminal conviction of a principal of such licensee or any of its employees or agents of which the licensee had knowledge or should have known.
 
-      122.12: An inmate is guilty of a Grade II Sex Offense when the inmate exposes the private parts of the inmate's body in a lewd manner.
+b. Notwithstanding any other provision of this chapter or rules promulgated thereto, the commission may, upon a determination that the operation of a shipboard gambling business or the conduct of an employee of such business creates an imminent danger to life or property, immediately suspend the license of such business or the certificate of approval or registration of such employee without a prior hearing, provided that provision shall be made for an immediate appeal of such suspension to the chair of the commission who shall determine such appeal forthwith. In the event that the chair upholds the suspension, an opportunity for a hearing shall be provided on an expedited basis, within a period not to exceed four business days and the commission shall issue a final determination no later than four days following the conclusion of such hearing.
 
-      Grade III:
 
-      122.13: An inmate is guilty of a Grade III Sex Offense when the inmate requests, solicits or otherwise encourages any other inmate to engage in sexual activity, or makes repeated and unwelcome sexual advances or verbal comments of a derogatory or offensive nature, including but not limited to, sexually suggestive remarks, jokes, innuendos, comments, and gestures.
 
-      122.14: An inmate is guilty of a Grade III Sex Offense when the inmate, in the plain view of any person other than staff, intentionally touches oneself with or without exposing their genitals, buttocks or breasts in a manner that demonstrates it is for the purpose of sexual arousal, gratification, annoyance or offense, and that any reasonable person would consider this conduct offensive.
 
-   (24) Smuggling
 
-      Grade I:
 
-      123.10: Inmates shall be guilty of Grade I smuggling if, by their own actions or acting in concert with others, they smuggle weapons, drugs or drug-related products, manufactured chemical compounds that are not facility issued, alcohol, tobacco or tobacco-related products, or escape paraphernalia into or out of the facility.
 
-      Grade III:
 
-      123.11: Inmates shall be guilty of Grade III smuggling if, by their own actions or acting in concert with others, they smuggle contraband other than that listed in section 123.10 of these rules.
+*§ 20-9011 Penalties.* ::
 
-   (25) Stealing; Possession of Stolen Property
 
-      Grade II:
+In addition to any other penalty provided by law:
 
-      124.10: Inmates shall not steal property belonging to any other person or to the City whether that property is of any or no monetary value.
+a. Except as otherwise provided in subdivision b of this section, any person who violates any provision of this chapter or any of the rules promulgated thereto shall be liable for a civil penalty which shall not exceed ten thousand dollars for each such violation. Such civil penalty may be recovered in a civil action or may be returnable to the department of consumer affairs or other administrative tribunal of competent jurisdiction;
 
-      Grade II:
+b. Any person who violates subdivision a of section 20-9004 shall, upon conviction thereof, be punished for each violation by a criminal fine of not more than ten thousand dollars for each day of such violation or by imprisonment not exceeding six months, or both; and any such person shall also be subject to a civil penalty of not more than five thousand dollars for each day of such violation to be recovered in a civil action or returnable to the department of consumer affairs or other administrative tribunal of competent jurisdiction; and
 
-      124.11: Inmates shall not possess property belonging to any other person or to the City whether that property is of any or no monetary value.
+c. (i) In the event that a shipboard gambling business has violated subdivision f of section 20-9014, the commission, in addition to any other penalty prescribed in this section, shall, after providing notice and the opportunity to be heard, be authorized to order that any gambling device or other gambling equipment used in the violation of such subdivision shall be removed, sealed or otherwise made inoperable. An order pursuant to this paragraph shall be posted on the vessel on which such violation occurs. The commission shall take reasonable measures to provide notice to a person(s) holding a security interest(s) in a gambling device or gambling equipment with respect to which action is taken pursuant to this section.
 
-   (26) Tampering With Documents
+   (ii) Ten days after the posting of an order issued pursuant to paragraph (i) of this subdivision, this order may be enforced by any person so authorized by section 20-9013.
 
-      Grade II:
+   (iii) Any gambling device or gambling equipment removed pursuant to the provisions of this subdivision shall be stored at a dock or in a garage, pound or other place of safety and the owner or other person lawfully entitled to the possession of such item may be charged with reasonable costs for removal and storage payable prior to the release of such item.
 
-      125.10: Inmates shall not destroy, tamper with, change, counterfeit, or give other inmates any institutional documents, passes or ID Cards.
+   (iv) A gambling device or gambling equipment sealed or otherwise made inoperable or removed pursuant to this subdivision shall be unsealed, restored to operability or released upon payment of all outstanding fines and all reasonable costs for removal and storage and upon demonstration satisfactory to the commission that the provisions of subdivision f of section 20-9014 will be complied with in all respects.
 
-      125.11: Inmates shall not forge the signature of staff, an inmate, or any other person on any documents, institutional or otherwise.
+   (v) It shall be a misdemeanor for any person to remove the seal from or make operable any gambling device or gambling equipment sealed or otherwise made inoperable in accordance with an order of the commission.
 
-   (27) Tampering With Security Devices
+   (vi) A gambling device or gambling equipment removed pursuant to this subdivision that is not reclaimed within ninety days of such removal by the owner or other person lawfully entitled to reclaim such item shall be subject to forfeiture upon notice and judicial determination in accordance with provisions of law. Upon forfeiture, the commission shall, upon a public notice of at least ten business days, sell such item at public sale. The net proceeds of such sale, after deduction of the lawful expenses incurred, shall be paid into the general fund of the city.
 
-      Grade I:
+d. The corporation counsel is authorized to commence a civil action on behalf of the city for injunctive relief to restrain or enjoin any activity in violation of this chapter and for civil penalties.
 
-      126.10: Inmates shall not tamper with, destroy, or sabotage any security related devices or equipment.
 
-   (28) Threats
 
-      Grade I:
 
-      127.10 Inmates shall not make any threat whether spoken, in writing, or by gesture, against any staff member.
 
-      Grade II:
 
-      127.11 Inmates shall not make any threat whether spoken, in writing, or by gesture, against any person other than a staff member.
 
-   (29) Unauthorized Assembly
 
-      Grade I:
+*§ 20-9012 Liability for violations.* ::
 
-      128.10: Inmates shall not gather in unauthorized groups anywhere.
 
-   (30) Refusal to Provide Sample for DNA Bank
+A shipboard gambling business required by this chapter to be licensed shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant hereto committed by any of its principals acting within the scope of such business and any of its employees and/or agents within the scope of their employment.
 
-      Grade 1:
 
-      129.10: Inmates shall not refuse to provide a DNA sample if they meet the criteria as set forth in Article 49-B of the New York State Executive Law qualifying a person as a designated offender. A designated offender is a person convicted and sentenced for charges specified in subdivision seven (7) of § 995 of Article 49-B of the New York State Executive Law, including, but not limited to Sex Offenses, Drug Offenses, and Dangerous Weapons Offenses.
 
-   (31) Refusal to Provide Sample for Random Drug/Alcohol Testing
 
-      Grade I:
 
-      130.10: Inmates shall not refuse to provide a urine, hair, saliva, or other sample, according to the Department's policy and procedures, when they have been notified by the head of the facility or his/her designee that they have been selected for drug/alcohol testing, whether by random selection or based on reasonable suspicion.
 
-   (32) Testing Positive for Alcohol or Illegal Drugs/Substances
 
-      Grade I:
 
-      130.11 Inmates shall not test positive for nor be found under the influence of alcohol or illegal drugs/substances.
+*§ 20-9013 Enforcement.* ::
 
-      Grade I:
 
-      130.12: Inmates shall not adulterate or tamper with, or attempt to adulterate or tamper with a urine sample or offer as their own a urine sample of another individual.
+Notices of violation for violations of any provision of this chapter or any rule promulgated hereunder may be issued by authorized employees or agents of the commission or the police department. In addition, such notices of violation may, at the request of the commission and with the consent of the appropriate commissioner, be issued by authorized employees and agents of the department of consumer affairs or the department of investigation.
 
-   (33) Acts of Hate
 
-      Grade I:
 
-      131.00: Inmates shall not engage in acts of hate against any person due to a belief or perception regarding such person's race, color, national origin, affiliation with any group, religion, religious practice, age, gender, disability, or sexual orientation.
 
-      131.10 Any action that targets a person or group in a negative and or hostile manner is strictly prohibited. Inmates shall not intentionally commit any verbal and or physical offense against staff, inmates, or visitors, in whole or substantial part based on the other person's or persons' race, religion, color, national origin, group affiliation, age, gender or sexual orientation.
 
 
 
 
+*§ 20-9014 Conduct of shipboard gambling licensees.* ::
 
 
+a. A shipboard gambling licensee shall be in compliance with all applicable federal, state and local statutes, laws, rules and regulations governing operation of a shipboard gambling business, including but not limited to:
 
+   (i) specifications for design and construction, equipment required to be present on board such vessel, maintenance, inspection, documentation, operation and licensing of such vessels; requirements for the medical fitness, training and other qualifications, drug testing and licensing of the crew of such vessels; environmental requirements; requirements regarding safety and conditions of employment on such vessel; and requirements for accessibility under the Americans with Disabilities Act and any regulations promulgated pursuant thereto, as such regulations may from time to time be amended and analogous provisions of title eight of this code;
 
-*§ 1-04 Hearing Procedures.* ::
+   (ii) prohibitions of gambling activity or the use of gambling devices within the territorial waters of the United States or the state of New York;
 
+   (iii) applicable zoning and building code requirements;
 
-(a) General procedures.
+   (iv) requirements governing the service and provision of food and alcoholic beverages within the territorial waters of the state of New York; and
 
-   (1) When you are placed in any of the most restrictive security categories (other than Pre-Hearing Detention, which is addressed in subsection (b) below), you will be given written notice of:
+   (v) health and sanitary regulations.
 
-      (i) The reasons for the designation.
+b. A shipboard gambling licensee shall maintain audited financial statements, records, ledgers, receipts, bills and such other records as the commission determines are necessary or useful for carrying out the purposes of this chapter. Such records shall be maintained for a period of time not to exceed five years to be determined by rule of the commission, provided, however, that such rule may provide that the commission may, in its discretion, require that records be retained for a period of time exceeding five years. Such records shall be made available for inspection and audit by the commission at its request and, at the option of the commission, at either the licensee's place of business or at the offices of the commission.
 
-      (ii) The evidence relied upon. The Department is not required to provide you with the source of confidential information.
+c. A shipboard gambling licensee shall maintain liability and other insurance as prescribed by rule of the commission.
 
-      (iii) The right to a hearing before an impartial Adjudication Captain appointed from the Adjudication Unit.
+d. A shipboard gambling licensee shall, in accordance with rules of the commission, institute and maintain security and safety measures and shall provide and maintain such other public services for the welfare of patrons required by such rules.
 
-      (iv) Your rights at the hearing.
+e. A shipboard gambling licensee shall, upon request by a passenger who does not wish to leave the vessel carrying cash on his or her person, provide payment of winnings by check.
 
-(b) Disciplinary hearing procedures.
+f. A shipboard gambling licensee shall ensure, by means acceptable to the commission and the department of investigation, that all gambling devices and gambling equipment on board the vessel are secured or made inoperable during any period the vessel is in the territorial waters of New York and shall comply with all rules promulgated by the commission regarding the maintenance, safeguarding and storage of gambling devices.
 
-   (1) Pre-Hearing Detention (PHD). When you are placed in Pre-Hearing Detention (PHD) prior to your disciplinary hearing,
+g. A shipboard gambling licensee shall adopt measures to ensure that persons under eighteen years of age do not engage in gambling aboard a vessel operated by or on behalf of such licensee.
 
-      (i) You will be issued a Notice of Pre-Hearing Detention within twenty-four (24) hours of the placement, which will state the reason for the placement in PHD.
+h. All advertising by a shipboard gambling licensee shall prominently state the age restrictions for engaging in gambling aboard the vessel, and shall comply with all rules governing advertising promulgated by the commission.
 
-      (ii) You will have the opportunity to respond to the Notice of Pre-Hearing Detection, verbally, or in writing in a designated space on the Notice form.
+i. A shipboard gambling licensee shall provide access to the vessel(s) operated by or on behalf of the shipboard gambling business to any person authorized by section 20-9013 to enforce the provisions of this chapter including, but not limited to, regular and permanent access by any person assigned to such vessel by an agency authorized to enforce the provisions of this chapter.
 
-      (iii) The infraction hearing will be completed within three (3) business days of your transfer to PHD whenever possible, but you shall not be held in PHD for more than seven (7) business days. If the hearing is not held in such time, you must be released from PHD.
+j. A shipboard gambling licensee shall not purchase goods or services from a key vendor or an auxiliary vendor unless such vendor has first obtained a license from or registered with the commission, whichever is applicable, unless the shipboard gambling licensee has obtained permission from the commission as provided by rule of the commission pursuant to subdivision q of section 20-9001 or the key vendor or auxiliary vendor has been granted a waiver pursuant to such subdivision.
 
-   (2) Disciplinary Infraction Hearings. If you are not placed in PHD, the infraction hearing will take place within three (3) business days after you receive written notice, unless any further delay is justified in accordance with disciplinary due process Your hearing may be held in absentia (that is, without you present) only if the following occurs: (i) you are notified of the hearing and refuse to appear; or (ii) you appear and are extremely disruptive, causing a situation that is unduly hazardous to institutional safety that necessitates your removal from the hearing room If your hearing is held in absentia, the justification for holding the hearing in absentia shall be clearly documented in the Adjudication Captain's decision.
+k. (i) A shipboard gambling licensee shall not employ any person required to obtain a license, certificate of approval or to register pursuant to the provisions of this chapter unless such person has obtained such license, certificate of approval or registration; provided, however, that the commission shall, by rule, make provision for temporary permission for employment pending completion by the commission of review of an applicant for a certificate of approval or registration and may, in its discretion, permit the employment of a key employee who has not obtained the required license where the employment of such person is necessary for the operation of the shipboard gambling business.
 
-   (3) At your hearing, you have the following rights:
+   (ii) The commission may, upon the request of a shipboard gambling business, make available the names of applicants for employment who have been approved for licenses, certificates of approval or registrations.
 
-      (i) To personally appear;
+l. A shipboard gambling licensee shall demonstrate and ensure for each vessel operated by or on behalf of such licensee, irrespective of the size of the vessel, that (i) every crew member required by the certificate of inspection issued for each such vessel by the United States coast guard or the analogous document issued pursuant to the international convention for the safety of lives at sea meets all marine personnel requirements set forth in such certificate or document and holds the applicable documentation, (ii) at least sixty-five percent of the required number of crew actually manning the vessel, as set forth in the certificate of inspection issued for each such vessel by the United States coast guard or the analogous document issued pursuant to the international convention for the safety of lives at sea, exclusive of those required to be licensed by the United States coast guard or the international maritime organization, have merchant mariners' documents endorsed for a rating of at least able seaman or the international maritime equivalent, and (iii) every person employed on each such vessel has received familiarization training consistent with the standards regarding emergency occupational safety, medical care and survival functions set forth in the seafarer's training, certification and watchkeeping code.
 
-      (ii) To make statements;
+m. A shipboard gambling licensee shall comply with all additional rules governing conduct of a shipboard gambling business promulgated by the commission in order to effectuate the purposes of this chapter.
 
-      (iii) To present material, relevant, and non-duplicative evidence;
 
-      (iv) To have witnesses testify at the hearing, provided they are reasonably available and their attendance at the infraction hearing will not be unduly hazardous to the institutional safety of correctional goals.
 
-      (v) If you are non-English speaking, illiterate, blind, deaf, have poor vision, are hard of hearing, or if your case is very complicated, you have a right to be helped by a "hearing facilitator" (not a lawyer). The hearing facilitator shall be designated by the chief administrative officer, or the chief administrative officer's designee, at least twenty-four (24) hours prior to the hearing. The hearing facilitator may assist you with:
 
-         (aa) Interviewing witnesses;
 
-         (bb) Obtaining evidence and/or written statements;
 
-         (cc) Providing assistance at the disciplinary hearing;
 
-         (dd) Providing assistance understanding administrative segregation decisions;
 
-         (ee) Providing assistance understanding the evidence relied on by the hearing officer and the reasons for action taken;
+*§ 20-9015 Rules.* ::
 
-         (ff) Providing assistance understanding the waiver of any rights; and
 
-         (gg) Providing assistance in filing an appeal.
+The commission may promulgate such rules as it may deem necessary or useful to effectuate the purposes of this chapter.
 
-      (vi) If you do not understand or are not able to communicate in English well enough to conduct the hearing in English, you have a right to an interpreter in addition to a hearing facilitator.
 
-      (vii) You have a right to appeal a decision against you.
 
-      (viii) You have a right to have the hearing recorded.
 
-(c) Protective custody.
 
-   (1) If you are transferred to protective custody (PC), the Department will determine within two (2) business days whether you should continue in such housing. If you do not consent to a decision to continue PC placement, you will be provided with written notice as set forth in 39 RCNY § 1-04(a)(1).
 
-   (2) The hearing will be held no sooner than 24 hours and no later than three (3) business days after you receive the written notice of your PC housing placement, unless an adjournment is required or for one of the reasons set forth in Directive 6007R-A.
 
-   (3) The Adjudication Captain will recommend whether you should remain in PC to the Operations Security Intelligence Unit (OSIU) in writing within one (1) business day after the hearing. You will receive a copy of the decision from OSIU.
 
-   (4) If you are placed in PC the Department will review your placement thirty (30) days after OSIU initially determined the assignment and then every sixty (60) days thereafter to see if you should remain in PC. You will be notified in writing of the results of that review.
+*§ 20-9016 Hearings.* ::
 
-   (5) If you request a hearing you will have the following rights:
 
-      (i) To personally appear;
+a. A hearing pursuant to this chapter may be conducted by the commission, or, in the discretion of the commission, by an administrative law judge employed by the office of administrative trials and hearings or other administrative tribunal of competent jurisdiction. Where a hearing pursuant to a provision of this chapter is conducted by an administrative law judge, such judge shall submit recommended findings of fact and a recommended decision to the commission, which shall make the final determination.
 
-      (ii) To be informed of the evidence against you that resulted in the designation, subject to limitations regarding confidential information to protect another person's safety or facility security;
+b. Notwithstanding the provisions of subdivision a of this section, the commission may provide by rule that hearings or specified categories of hearings pursuant to this subchapter may be conducted by the department of consumer affairs. Where the department of consumer affairs conducts such hearings, the commissioner of consumer affairs shall make the final determination.
 
-      (iii) The opportunity to make a statement;
 
-      (iv) To call witnesses subject to the Adjudication Captain's discretion;
 
-      (v) To present evidence;
 
-      (vi) The right to a written determination with reasons.
 
 
 
 
+*§ 20-9017 Reporting requirements.* ::
 
 
+a. No later than one week following the submission of the mayor's management report, the commission shall submit to the council a report detailing its activities pursuant to this chapter for the period covered by the mayor's management report. The report required by this section shall at a minimum include:
 
+   i. the number of applicants for a license, certificate of approval or registration that were denied by the commission and a statement of the reasons for such denials;
 
-*§ 1-05 Penalties.* ::
+   ii. the number of licenses, certificates of approval and registrations issued by the commission;
 
+   iii. the number of applications for licenses, certificates of approval or registrations, respectively, presently pending;
 
-(a)  Introduction. If you are found guilty of violating a Department rule of conduct, your penalty will depend on the seriousness of your offense. Grade I offenses are the most serious and Grade III offenses are the least serious. The penalty will also depend on the facts and circumstances of your case. If you have a good explanation or justification for your actions – what is known as "mitigating circumstances" – you may receive a less severe penalty. Any of the penalties set forth below, or a combination of them, may be imposed on you for violating Department rules of conduct.
+   iv. the number of licenses, certificates of approval and registations that have been suspended or revoked by the commission pursuant to section 20-9010, a statement of the reasons for such suspensions and revocations, and the average duration of such suspensions;
 
-(b) Reprimand. You may lose one or more privileges, temporarily or permanently, except that:
+   v. the amounts, by category, of all fees relating to implementation of this chapter to which the city is entitled, the amounts actually collected, and the reasons for any difference between the two amounts; and
 
-   (i) You will not be deprived of the right to receive visitors, although contact visits may be replaced with non-contact visits.
+   vi. the amounts, by category, of all expenditures relating to enforcement of the provisions of this chapter.
 
-   (ii) You will not be deprived of the right to send or receive mail.
-
-   (iii) You will not be deprived of the right to contact legal counsel.
-
-   (iv) You will not be deprived of the right to have recreation as a sanction for an infraction.
-
-(c) Loss of Good Time. If you are sentenced and serving your time in a Department facility, you may lose good time.
-
-   (i) You may lose all your good time for a Grade I offense.
-
-   (ii) The maximum that you can lose for a Grade II offense is two-thirds of all of your good time.
-
-   (iii) The maximum that you can lose for a Grade III offense is one-third of all of your good time.
-
-(d) Punitive Segregation.
-
-   (i) The maximum period of punitive segregation for a Grade I offense is ninety (90) days for each disciplinary charge.
-
-   (ii) The maximum period for a Grade II offense is twenty (20) days for each disciplinary charge.
-
-   (iii) The maximum period for a Grade III offense is ten (10) days for each disciplinary charge.
-
-(e) Restitution. If you are found guilty of damaging or destroying City property, you may be ordered to pay restitution, which can be as much as the replacement cost of the item or property, plus the labor costs of fixing or replacing the item you damaged or destroyed. If you are found guilty of an assault that causes a need for medical services, you can be ordered to make a restitution payment towards the cost to the City of providing such medical services.
-
-(f) Repeated offenses. The third time you are found guilty of a rule of conduct violation for the same offense during the same period of incarceration, you may be sentenced to a penalty that applies to the next higher grade of offenses. For example, the third time you are found guilty of violating a specific Grade III offense during the same period of incarceration, you may be given a Grade II penalty. Similarly, the third time you are found guilty of violating a specific Grade II offense during the same period of incarceration, you may be given a Grade I penalty.
-
-(g) Surcharge. A disciplinary surcharge, in the maximum amount allowed by law, may be imposed on you for violating a rule of conduct.
-
-
-
-
-
-
-*§ 1-06 Appeals.* ::
-
-
-You have the right to appeal an adverse decision rendered by the Adjudication Captain within two (2) business days of service of the decision. If you have been sentenced to a total of thirty (30) days or more of punitive segregation or loss of all your good time on any one (1) Notice of Disciplinary Disposition (6500D), your appeal shall be forwarded to the General Counsel in the Department's Legal Division. Within five (5) business days of the receipt of your appeal, you will receive a written decision from the General Counsel regarding such appeal, unless further documentation/information is required by the General Counsel to decide your appeal. In those cases, the five (5) business day limit shall be extended and the reasons for the extensions will be noted on the General Counsel's decision to you. If you receive an unfavorable decision from General Counsel within ten (10) business days of the receipt of your appeal, you may file a petition for a writ under article 78 of the CPLR. If you are sentenced to less than thirty (30) days punitive segregation or loss of less than all of your good time, you may appeal that decision to the Warden of the facility where the infraction occurred.
-
-
-
-
-Chapter 2: Violent or Serious Crimes for Purposes of Honoring Civil Immigration Detainers
---------------------------------------------------
-
-
-
-*§ 2-01 Additional violent or serious crimes.* ::
-
-
-(a) The Department determines that the following Penal Law offenses shall be considered “violent or serious crimes” for purposes of §§ 9-205(a), 9-131(a)(7) and 14-154(a)(6) of the Administrative Code:
-
-   (1) Section 135.37, aggravated labor trafficking.
-
-   (2) Section 135.61, coercion in the second degree.
-
-   (3) Section 230.08, patronizing a person for prostitution in a school zone.
-
-   (4) Section 230.11, aggravated patronizing a minor for prostitution in the third degree.
-
-   (5) Section 230.12, aggravated patronizing a minor for prostitution in the second degree.
-
-   (6) Section 230.13, aggravated patronizing a minor for prostitution in the first degree.
-
-   (7) Section 230.34-a, sex trafficking of a child.
+b. The information required by paragraphs i, ii and iv of subdivision a of this section shall identify the shipboard gambling business to which the information relates.
 
 
 
