@@ -2,7 +2,7 @@ Title 22: Economic Affairs
 ======================================================================================================
 
 Chapter 1: Waterfront Properties Transactions and Trade
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -686,7 +686,7 @@ No taxes shall be payable or required to be paid upon any of such pier propertie
 
 
 Chapter 1-a: Fulton Fish Market Distribution Area and Other Seafood Distribution Areas
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1289,7 +1289,7 @@ b. Unless otherwise provided, all items required to be reported pursuant to para
 
 
 Chapter 1-b: Other Public Markets
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1702,7 +1702,7 @@ b. Unless otherwise provided, all items required to be reported pursuant to para
 
 
 Chapter 2: Business Activities In Public Places
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1717,7 +1717,7 @@ b. It shall be unlawful for any person to conduct, without a permit from such ex
 
 
 Chapter 3: Public Utility Service
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1770,7 +1770,7 @@ Revenues received from the operation of the public utility service shall be paid
 
 
 Chapter 4: Foreign Trade Zones
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1783,7 +1783,7 @@ The city is hereby authorized from time to time to make application to the board
 
 
 Chapter 5: Private Employment
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2244,7 +2244,7 @@ The department, or an agency or office designated by the mayor, shall by March 1
 
 
 Chapter 6: Rebates of Charges For Energy
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2387,7 +2387,7 @@ When used in this chapter the following terms shall have the following meanings:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Months Following Certification
       - Applicable % for Natural Gas
@@ -2463,7 +2463,7 @@ Nothing contained in this title shall be construed as reducing the amount of a r
 
 
 Chapter 6-B: Relocation and Employment Assistance Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2586,7 +2586,7 @@ When used in this chapter the following terms shall have the following meanings:
 
 
 Chapter 6-c: Lower Manhattan Relocation and Employment Assistance Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2691,7 +2691,7 @@ When used in this chapter the following terms shall have the following meanings:
 
 
 Chapter 6-d: Industrial Business Zones
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2736,7 +2736,7 @@ Chapter 6-d: Industrial Business Zones
 
 
 Chapter 7: Empire Zones
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7635,7 +7635,7 @@ c. Pursuant to the provisions of article 18-B of the general municipal law, such
 
 
 Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behalf of the City*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7852,7 +7852,7 @@ Editor's note: Section 2 of L.L. 2017/220 and Section 2 of L.L. 2017/221 provide
 
 
 Chapter 9: Non-Residential Tenant Harassment
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7973,7 +7973,7 @@ It is an affirmative defense to an allegation of commercial tenant harassment of
 
 
 Chapter 10: Small Businesses
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8100,7 +8100,7 @@ c. No later than January 1, 2020, and on or before January 1 annually thereafter
 
 
 Chapter 11: City-Assisted Construction Workforce Disclosure 
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

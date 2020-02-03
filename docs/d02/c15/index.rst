@@ -2,7 +2,7 @@ Title 29: Loft Board
 ======================================================================================================
 
 Chapter 1: Practice and Procedure
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -347,7 +347,7 @@ Administrative authority is vested in the Executive Director of the staff, under
 
 
 Chapter 2: Interim Multiple Dwellings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1106,7 +1106,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Description 
       - Unit
@@ -1155,7 +1155,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Allowance for openings in interior walls for exhausts, vents and heaters
       - per opening 
@@ -1207,7 +1207,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - New metal stair, 2'6"wide, for top floor to roof*
       - floor 
@@ -1247,7 +1247,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Floor joist, 3 × 10
       - lin. ft. 
@@ -1274,7 +1274,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Building entry and/or vestibule, new installation
       - lin. ft. 
@@ -1326,7 +1326,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Painting (primer coat on sheetrock, plus one coat)
       - sq. ft. 
@@ -1390,7 +1390,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Mail Boxes
       - each 
@@ -1423,7 +1423,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Electric or Gas Range
       - each 
@@ -1441,7 +1441,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - ELEVATORS 
       - 
@@ -1471,7 +1471,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - HEAT AND HOT WATER 
       -  
@@ -1655,7 +1655,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Panel Board with Separate Electric Riser, Single Phase, Three Wire Service
       - each 
@@ -1695,7 +1695,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Municipal fees for filing necessary for Code Compliance (e.g. Dept. of Buildings Alteration Application, City Planning Commission Special Permit, etc.). Does not include regular annual filings for inspections or regulation.
       - Actual fee charged
@@ -2118,7 +2118,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Between the hours
       - If Temperature Outside
@@ -2216,7 +2216,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section
       - Violation
@@ -2230,7 +2230,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 29 RCNY § 2-04(b)(1)
       - Failure to provide or maintain a safe water supply or plumbing and drainage systems
@@ -3700,7 +3700,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - VIOLATION DESCRIPTION 
       - SECTION OF LAW 
@@ -3745,7 +3745,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - VIOLATION DESCRIPTION 
       - SECTION OF LAW 
@@ -3780,7 +3780,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - VIOLATION DESCRIPTION 
       - SECTION OF LAW 
@@ -3807,7 +3807,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - VIOLATION DESCRIPTION 
       - SECTION OF LAW 
@@ -3838,7 +3838,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - VIOLATION DESCRIPTION 
       - SECTION OF LAW
@@ -3891,7 +3891,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - VIOLATION DESCRIPTION 
       - SECTION OF LAW 

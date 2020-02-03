@@ -2,7 +2,7 @@ Title 2: Board of Standards and Appeals
 ======================================================================================================
 
 Chapter 1: Rules of Practice and Procedures New York City Board of Standards and Appeals
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -333,7 +333,7 @@ This table is intended to serve as a summary. Please see the full text of the as
 
 
 Chapter 2: Automotive Service Stations and Garages
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -346,7 +346,7 @@ If on any automotive service station or storage garage which has been erected un
 
 
 Chapter 3: Factory Regulations Pursuant to New York State Labor Law*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -420,7 +420,7 @@ Until this Board adopts rules to supplement §§ 260-265 inclusive and 272 of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of stories
       - Contents combustible, no sprinkler 
@@ -516,7 +516,7 @@ FIRE DRILL ORGANIZATION
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Premises  
       -  
@@ -735,7 +735,7 @@ Fireproof windows which meet the requirements of § 376 of the Building Code , c
 
 
 Chapter 4: Regulations Applicable to Existing Installations*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1754,7 +1754,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size of Pipe
       - Maximum No. of Heads Allowed
@@ -1795,7 +1795,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size of Pipe
       - Maximum No. of Heads Allowed
@@ -1832,7 +1832,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size of Pipe
       - Maximum No. of Heads Allowed
@@ -2556,7 +2556,7 @@ Each factory built fireplace shall be equipped with a means of providing it with
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If distant 25 feet from line of adjoining property which may be built upon
       - 16,000 gallons
@@ -3033,7 +3033,7 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
 
 Chapter 5: Rule Repeal and Recodification*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3048,7 +3048,7 @@ TABLE 5-01CROSS-REFERENCE TABLE OF RULES REPEALED, RENUMBERED AND TRANSFERRED
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Prior BSA Section(2 RCNY)
       - Action
@@ -3063,7 +3063,7 @@ TABLE 5-01CROSS-REFERENCE TABLE OF RULES REPEALED, RENUMBERED AND TRANSFERRED
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - N/A
       - New Section

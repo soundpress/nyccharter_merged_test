@@ -2,7 +2,7 @@ Title 24: Environmental Protection and Utilities
 ======================================================================================================
 
 Chapter 1: Air Pollution Control
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2618,7 +2618,7 @@ No person shall cause or permit the shipment or delivery of fuel into the city o
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - TABLE OF CIVIL PENALTIES
       - 
@@ -2988,7 +2988,7 @@ The board shall have authority from time to time to make, amend, and rescind suc
 
 
 Chapter 2: Noise Control
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3798,7 +3798,7 @@ No person shall cause or permit discharge into the open air of the exhaust of an
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Octave Band
       - Maximum Sound Pressure Levels (dB) as measured within a receiving property as specified below
@@ -4259,7 +4259,7 @@ Table I
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Violations related to section and subdivision
       - 
@@ -4657,7 +4657,7 @@ TABLE VI
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Violation related to section or subdivision and order or regulation thereunder 
     * - 24-208
@@ -4825,7 +4825,7 @@ Notwithstanding any inconsistent provision of law, the civil penalties for the v
 
 
 Chapter 3: Water Supply
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5790,7 +5790,7 @@ b. 1. The department may issue a stop work order whenever the department finds t
 
 
 Chapter 4: Gas and Electric Lines
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6049,7 +6049,7 @@ c. By December first 2017, and every third year thereafter, such designated offi
 
 
 Chapter 5: Drainage and Sewer Control
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6598,7 +6598,7 @@ a. Definitions. As used in this section, the following terms shall mean:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - B.O.D. 
       -  1,667 lbs. per million gallons(200 parts per million) or less
@@ -6623,7 +6623,7 @@ a. Definitions. As used in this section, the following terms shall mean:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - B.O.D. 
       - 2,500 lbs. per million gallons(300 parts per million) or less
@@ -6664,7 +6664,7 @@ b. Imposition and computation of sewer surcharge.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - where
       - 
@@ -7248,7 +7248,7 @@ c.  This section expires 15 years after the effective date of the local law that
 
 
 Chapter 5-A: Water Pollution Control
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7771,7 +7771,7 @@ b. Authorized inspection agents shall perform their duties in accordance with th
 
 
 Chapter 6: Hazardous Substance Emergencies
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7999,7 +7999,7 @@ Nothing in this chapter shall be construed to impair or diminish the power of th
 
 
 Chapter 7: Community Right-to-know Law
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8320,7 +8320,7 @@ Within thirty days after a facility inventory form is first required to be filed
 
 
 Chapter 8: New York City Climate Protection Act
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8447,7 +8447,7 @@ The mayor shall include in each long-term sustainability plan required by subdiv
 
 
 Chapter 9: Local Brownfield Cleanup Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8630,7 +8630,7 @@ Where the office has determined that the owner of a local brownfield site or its
 
 
 Chapter 10: Environmental Hazard Remediation.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

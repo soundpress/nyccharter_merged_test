@@ -2,7 +2,7 @@ Title 17: Business Integrity Commission
 ======================================================================================================
 
 Chapter 1: Trade Waste
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1891,7 +1891,7 @@ A registrant that removes, collects or disposes of trade waste shall keep the si
 
 
 Chapter 2: Markets
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2463,7 +2463,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Code/RuleSection
       - Description
@@ -2480,7 +2480,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 17 RCNY § 11-06(a)
       - Failure to obtain identification card
@@ -3661,7 +3661,7 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Code/Rule Section
       - Description
@@ -3677,7 +3677,7 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 17 RCNY § 12-04(a)
       - Failed to obtain identification card
@@ -4643,7 +4643,7 @@ The Commission may by resolution delegate to the Chairperson any authority of th
 
 
 Chapter 3: Rulemaking
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

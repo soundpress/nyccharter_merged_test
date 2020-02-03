@@ -1,7 +1,7 @@
 Chapter 35: Department of Citywide Administrative Services
 ======================================================================================================
 Section 810.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 810. Department, commissioner.*
@@ -13,7 +13,7 @@ There shall be a department of citywide administrative services, the head of whi
 
 
 Section 811.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 811. Powers and duties of the commissioner; general.*
@@ -25,7 +25,7 @@ The commissioner shall be responsible for citywide personnel matters, as set for
 
 
 Section 812.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 812. Personnel management, declaration of intent.*
@@ -39,7 +39,7 @@ b. Consistent with subdivision a of this section, the heads of city agencies sha
 
 
 Section 813.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 813. City civil service commission.*
@@ -61,7 +61,7 @@ f. The commission shall prepare and transmit directly to the mayor departmental 
 
 
 Section 814.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 814. Personnel management; powers and duties of the commissioner.*
@@ -125,7 +125,7 @@ e. The commissioner shall submit a quarterly report to the mayor, the council, t
 
 
 Section 814.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 814. 1. Office of diversity and inclusion.*
@@ -165,7 +165,7 @@ c. Powers and duties. The commissioner, acting through the office, shall have th
 
 
 Section 815.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 815. Agency heads; powers and duties concerning personnel management.*
@@ -239,7 +239,7 @@ k. The head of each city agency shall require each employment agency, or authori
 
 
 Section 815.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 815. 1. Anti-sexual harassment training.*
@@ -281,7 +281,7 @@ d. Compliance.
 
 
 Section 816.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 816. Management service.*
@@ -319,7 +319,7 @@ c. The commissioner shall conduct city-wide programs and functions related to th
 
 
 Section 817.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 817. Appointments and promotions.*
@@ -333,7 +333,7 @@ b. Whenever qualifications for the appointment of persons to public office are p
 
 
 Section 818.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 818. Power of investigation.*
@@ -345,7 +345,7 @@ The commissioner shall have the power to make investigations concerning all matt
 
 
 Section 819.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 819. No compensation to unauthorized employee.*
@@ -357,7 +357,7 @@ No officer of the city whose duty is to sign or countersign warrants shall draw,
 
 
 Section 820.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 820. Examination for licenses.*
@@ -369,7 +369,7 @@ The commissioner shall, unless otherwise provided by law, have power, upon reque
 
 
 Section 821.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 821. Officers or employees designated to serve in exempt civil service positions.*
@@ -389,7 +389,7 @@ e. Upon the termination of the officer or employee's services in such exempt pos
 
 
 Section 822.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 822. Public buildings and facilities.*
@@ -407,7 +407,7 @@ With respect to public buildings and facilities, the commissioner shall have the
 
 
 Section 823.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 823. Procurement of goods, other personal property and services.*
@@ -431,7 +431,7 @@ With respect to the procurement and disposal of goods and other personal propert
 
 
 Section 824.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 824. Real property.*
@@ -455,7 +455,7 @@ With respect to real property, the commissioner shall have the following powers 
 
 
 Section 825.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 825. Communications and energy.*
@@ -471,7 +471,7 @@ With respect to communications and energy, the commissioner shall have the follo
 
 
 Section 826.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 826. Data processing services.*
@@ -483,7 +483,7 @@ The commissioner shall provide data processing support, programming, and compute
 
 
 Section 827.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 827. Automotive services.*
@@ -495,7 +495,7 @@ The commissioner shall acquire by purchase, lease or otherwise, vehicles and oth
 
 
 Section 828.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 828. Right of entry.*
@@ -507,7 +507,7 @@ The commissioner, officers and employees of the department may, in accordance wi
 
 
 Section 829.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 829. Performing administrative functions for the office of administrative trials and hearings and the board of standards and appeals.*

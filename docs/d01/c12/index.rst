@@ -2,7 +2,7 @@ Title 13: Retirement and Pensions
 ======================================================================================================
 
 Chapter 2: Police Pension Funds
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -695,7 +695,7 @@ g. (1) (a) Upon election, the following persons (each of whom has been granted a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Name 
       - Tax Registry #
@@ -2503,7 +2503,7 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Calendar Year
       - Supplement 
@@ -2574,7 +2574,7 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CALENDAR YEAR OF ANNIVERSARYOF RETIREMENT (references hereinafterto"anniversary year"mean calendar year of anniversary)
       - SUPPLEMENT 
@@ -2782,7 +2782,7 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Calendar Year
       - Supplement 
@@ -2845,7 +2845,7 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CALENDAR YEAR OF ANNIVERSARY OF RETIREMENT (references hereinafterto"anniversary year"mean calendar year of anniversary)
       - SUPPLEMENT 
@@ -2960,7 +2960,7 @@ The superintendent of insurance may examine the affairs of the variable suppleme
 
 
 Chapter 5: Miscellaneous Pension and Retirement Provisions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3971,7 +3971,7 @@ b. (1) For the purpose of any actuarial valuation, determination or appraisal wh
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Retirement System
       - Rate of interest per centum per annum, compounded annually
@@ -4012,7 +4012,7 @@ f. (1) Subject to the provisions of subdivision h of this section, during the ap
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Retirement System
       - Rate of interest per centum per annum, compounded annually
@@ -4049,7 +4049,7 @@ g. (1) Subject to the provisions of subdivision h of this section, during the ap
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Retirement System
       - Rate of interest per centum per annum, compounded annually
@@ -4098,7 +4098,7 @@ i. (1) Subject to the provisions of paragraph three of this subdivision, in addi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Retirement System
       - Rate of interest per centum per annum, compounded annually
@@ -4293,7 +4293,7 @@ bb. Subject to the provisions of subdivisions k and l of this section, installme
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - SCHEDULE FOR TWENTY-YEAR AMORTIZATION OF NYCERS, NYCTRS AND BERS 1990 CONSOLIDATED UAL AND 1990 REMAINDER OF BSL(numerical references in parentheses are to paragraph numbers of definitions in subdivision a of this section)
       - 
@@ -4652,7 +4652,7 @@ i. Subject to the provisions of subdivisions k and l of section 13-638.2 of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - SCHEDULE FOR TWENTY-YEAR AMORTIZATIONOF PPF 1990 CONSOLIDATED UAL AND 1990 REMAINDER OF BSL (numerical references in parentheses are to paragraph numbers of definitions in subdivision a of this section)
       - 
@@ -4815,7 +4815,7 @@ i. Subject to the provisions of subdivisions k and l of section 13-638.2 of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - SCHEDULE FOR TWENTY-YEAR AMORTIZATION OF FPF 1990 CONSOLIDATED UAL AND 1990 REMAINDER OF BSL (numerical references in parentheses are to paragraph numbers of definitions in subdivision a of this section)
       - 
@@ -5506,7 +5506,7 @@ a. City retired employees. Notwithstanding any other provision of law, any city 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year of retirement
       - per centum
@@ -5938,7 +5938,7 @@ e. (1) commencing with a payment for the month of July, nineteen hundred eighty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year of retirement
       - Percentage
@@ -5989,7 +5989,7 @@ e. (1) commencing with a payment for the month of July, nineteen hundred eighty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Date of retirement
       - Percentage
@@ -6016,7 +6016,7 @@ e. (1) commencing with a payment for the month of July, nineteen hundred eighty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Date of retirement
       - Percentage
@@ -6043,7 +6043,7 @@ f. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Date of retirement
       - Percentage
@@ -6076,7 +6076,7 @@ h. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Date of retirement
       - Percentage
@@ -6359,7 +6359,7 @@ d. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year of retirement
       - Percentage
@@ -6414,7 +6414,7 @@ d. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Date of retirement
       - Percentage
@@ -6441,7 +6441,7 @@ e. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Date of retirement
       - Percentage
@@ -6474,7 +6474,7 @@ g. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Date of retirement
       - Percentage
@@ -6662,7 +6662,7 @@ f. Commencing September first, two thousand, all retired members who have retire
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year of retirement
       - Percentage
@@ -6701,7 +6701,7 @@ j. Notwithstanding the provisions of subdivision i of this section, or any other
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Fiscal Year
       - Percentage
@@ -6738,7 +6738,7 @@ k. (1) Notwithstanding the provisions of subdivision i or j of this section, or 
 
 
 Chapter 6: Investment By Pension Funds Or Retirement Systems
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

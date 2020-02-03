@@ -2,7 +2,7 @@ Title 47: Commission On Human Rights
 ======================================================================================================
 
 Chapter 1: Practice and Procedure*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -891,7 +891,7 @@ Any complainant, respondent or other person aggrieved by a final order issued pu
 
 
 Chapter 2: Unlawful Discriminatory Practices
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1249,7 +1249,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Employer Size(at the time of the violation)
       - 1st Violation
@@ -1389,7 +1389,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Employer Size(at the time of the violation)
       - 1st Violation
@@ -1511,7 +1511,7 @@ The following requirements apply with respect to Title 8 of the Administrative C
 
 
 Chapter 3: Age Discrimination Exemptions For Public Accommodations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

@@ -2,7 +2,7 @@ Title 19: Transportation
 ======================================================================================================
 
 Chapter 1: Streets and Sidewalks
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -690,7 +690,7 @@ f. Enforcement.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of newsracks owned or controlled by such person
       - A violation of paragraph one of subdivision e, paragraph two of subdivision c or subdivision d of this section
@@ -1206,7 +1206,7 @@ b. 1.    Except as provided in subdivision c of this section, such civil pena
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section of the Administrative Code
       - Maximum Civil Penalty (dollars)
@@ -1219,7 +1219,7 @@ b. 1.    Except as provided in subdivision c of this section, such civil pena
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 19-102
       - 10,000 
@@ -3226,7 +3226,7 @@ e. Public education campaign. The department shall conduct a public education ca
 
 
 Chapter 2: Parking Violations Bureau
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3539,7 +3539,7 @@ c. The department shall keep a record of all notices of violation canceled pursu
 
 
 Chapter 4: Reduced Fare Contracts
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3556,7 +3556,7 @@ c. The separate and additional approval of the mayor shall be necessary to the v
 
 
 Chapter 3: Ferries
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3719,7 +3719,7 @@ k. The commissioner shall conduct a study to determine the feasibility of utiliz
 
 
 Chapter 5: Transportation of Passengers For Hire By Motor Vehicles
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4536,7 +4536,7 @@ b. Effective July first, nineteen hundred seventy-one, all motor vehicles licens
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - 96 Octane No. &amp; Above
@@ -5548,7 +5548,7 @@ c. Requirements imposed by the rules promulgated pursuant to this section shall 
 
 
 Chapter 6: School Buses
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5679,7 +5679,7 @@ Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the 
 
 
 Chapter 8: Citywide Transit Study
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5702,7 +5702,7 @@ b. No later than September 1, 2019 and every two years thereafter through Septem
 
 
 Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Act
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5840,7 +5840,7 @@ Table 1. Clear Deck Spaces
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Passenger capacity of water borne commuter vessel
       - Minimum Number
@@ -5985,7 +5985,7 @@ If any section, subdivision, sentence, clause, phrase or other portion of the lo
 
 
 Chapter 9: Photo Speed Violation Monitoring Program*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6038,7 +6038,7 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 
 
 Chapter 10: Special Hearing Procedures Applicable to Violations of Taxi and Limousine Commission Laws or Regulations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

@@ -2,7 +2,7 @@ Title 62: City Planning
 ======================================================================================================
 
 Chapter 1: Practice and Procedure of City Planning Commission
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -85,7 +85,7 @@ The suspension of any of the rules of Practice and Procedure of the City Plannin
 
 
 Chapter 2: Uniform Land Use Review Procedure (ULURP)
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -486,7 +486,7 @@ In the case of an application not subject to mandatory council review pursuant t
 
 
 Chapter 3: Fees and Contributions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -516,7 +516,7 @@ Except as specifically provided in this section, every application made pursuant
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (Square Footage of Total Project)
       -  
@@ -555,7 +555,7 @@ Except as specifically provided in this section, every application made pursuant
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (Ex: bus franchises)
       -  $1,880
@@ -603,7 +603,7 @@ Except as specifically provided in this section, every type of application liste
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Less than 10,000 square feet
       -  $2,040
@@ -634,7 +634,7 @@ For this purpose the amount of floor area shall be calculated based upon the flo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Less than 10,000 square feet
       -  $2,190
@@ -663,7 +663,7 @@ For this purpose the amount of floor area shall be calculated based upon the flo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Elimination of a mapped but unimproved street
       -  $1,740
@@ -698,7 +698,7 @@ For this purpose the amount of floor area shall be calculated based upon the flo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Certifications
       - For an application for one zoning lot with no more than two existing or proposed dwelling units – $380
@@ -749,7 +749,7 @@ Total amount of floor area, or in the cases of open uses, area of the zoning lot
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Less than 10,000 square feet
       -  $1,060
@@ -790,7 +790,7 @@ In the case of area transfer of development rights or floor area bonus, the fee 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Applications that may result in the development of 500,000 to 999,999 square feet of floor area
       - $80,000 
@@ -829,7 +829,7 @@ The fee for a request that the Department of City Planning verify in writing the
 
 
 Chapter 3: Contributions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -858,7 +858,7 @@ The City Planning Commission retains the ability to adjust the contribution amou
 
 
 Chapter 4: Procedures for New York City Waterfront Revitalization Program (WRP) Consistency Review by the City Coastal Commission and the Department of City Planning
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -955,7 +955,7 @@ The CCC reviews:
 
 
 Chapter 5: City Environmental Quality Review (CEQR)
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1799,7 +1799,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1962,7 +1962,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 Chapter 7: Rules For the Definition of Major Concessions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2041,7 +2041,7 @@ Notwithstanding any other provision of these rules the following shall not be co
 
 
 Chapter 8: Rules For the Processing of Applications For Permitted Parking Pursuant To Section 93-82 of the Zoning Resolution
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2098,7 +2098,7 @@ These rules of procedure are established for the review of applications for cert
 
 
 Chapter 9: Rules For the Processing of Applications For Certification To Allow A Limited Increase In Street Wall Width Pursuant To § 132-51 of the Zoning Resolution
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2161,7 +2161,7 @@ For applications for establishments within the same set of applicable geographic
 
 
 Chapter 10: Pre-application Process: Submission and Meeting Participation Requirements Prior To Filing A Land Use Application Or Application For Environmental Review
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2388,7 +2388,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 APPENDIX A TO TITLE 62: CRITERIA FOR THE LOCATION OF CITY FACILITIES*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

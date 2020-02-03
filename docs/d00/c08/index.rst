@@ -1,7 +1,7 @@
 Chapter 7: Tax Appeals
 ======================================================================================================
 Section 150.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 150. Office of administrative tax appeals.*
@@ -13,7 +13,7 @@ There shall be an office of administrative tax appeals, which shall consist of t
 
 
 Section 153.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 153. Tax commission.*
@@ -27,7 +27,7 @@ b. The tax commission shall be charged with the duty of reviewing and correcting
 
 
 Section 154.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 154. Administrative powers of commissioners.*
@@ -39,7 +39,7 @@ Any commissioner shall exercise such other powers and duties as the president ma
 
 
 Section 155.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 155. Annual report.*
@@ -67,7 +67,7 @@ b. The foregoing information shall be classified, wherever applicable, according
 
 
 Section 156.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 156. Right of entry.*
@@ -79,7 +79,7 @@ The president or any commissioner may enter upon real property and into building
 
 
 Section 163.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 163. Application for correction of assessment for taxation.*
@@ -139,7 +139,7 @@ f. The filing of an application in the manner and form hereinabove described sha
 
 
 Section 164.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 164. Procedure on application.*
@@ -153,7 +153,7 @@ b. The tax commission shall determine the final assessed valuation or taxable as
 
 
 Section 164-a.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 164-a. Procedure on application for correction of an assessment of seven hundred fifty thousand dollars or more.*
@@ -173,7 +173,7 @@ e. Any reduction shall be made public within sixty days after it is rendered. A 
 
 
 Section 164-b.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 164-b. Procedure on application for correction of an assessment of class one property.*
@@ -223,7 +223,7 @@ f. All other provisions of law shall apply to the review of applications for cor
 
 
 Section 165.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 165. Final determination of the tax commission.*
@@ -235,7 +235,7 @@ The final determination of the tax commission upon any application for the corre
 
 
 Section 165-a.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 165-a. Notices of final determination on applications for owner-occupied residential property.*
@@ -247,7 +247,7 @@ On or before the last day provided by law for the rendering of the final determi
 
 
 Section 166.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 166. Proceeding to review final determination of the tax commission.*
@@ -259,7 +259,7 @@ A proceeding to review or correct on the merits any final determination of the t
 
 
 Section 167.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 167. Exemptions for persons sixty-five years of age or over. [Repealed]*
@@ -281,7 +281,7 @@ f. The tribunal shall collect, compile and prepare for publication statistics an
 
 
 Section 169.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 169. Rules of tribunal.*
@@ -305,7 +305,7 @@ Pursuant to chapter forty-five of this charter, the tribunal shall promulgate ru
 
 
 Section 170.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 170. Commencing an appeal before the tribunal.*
@@ -327,7 +327,7 @@ f. The tribunal shall have power to provide that an attorney for any party at a 
 
 
 Section 171.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 171. Decisions of the tribunal and judicial review.*
@@ -349,7 +349,7 @@ d. The tribunal shall not participate in proceedings for judicial review of its 
 
 
 Section 172.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 172. Sanctions.*

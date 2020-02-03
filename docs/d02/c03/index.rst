@@ -2,7 +2,7 @@ Title 6: Department of Consumer Affairs
 ======================================================================================================
 
 Chapter 1: License Enforcement
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -63,7 +63,7 @@ Chapter 1: License Enforcement
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - License 
       - Date (years refer to calendar years)
@@ -76,7 +76,7 @@ Chapter 1: License Enforcement
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Amusement Devices, Arcades and Operators
       - January 16 of Even Years 
@@ -441,7 +441,7 @@ Whenever any licensee has not renewed a license upon its expiration, such former
 
 
 Chapter 3: Weights and Measures
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -851,7 +851,7 @@ Terms designating weight and size must be applied to each lot of eggs in connect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size or Weight Class
       - Minimum Net Weight Per Dozen
@@ -1557,7 +1557,7 @@ Any person engaged in the business of delivering fuel oil to purchasers in the C
 
 
 Chapter 4: Market Regulations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2446,7 +2446,7 @@ The commissioner shall, prior to the publication of the endangered or threatened
 
 
 Chapter 5: Unfair Trade Practices
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3230,7 +3230,7 @@ Retail food stores shall obey the Federal Trade Commission Trade Regulations ent
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - WARNING It is illegal to use this gate on a fire escape window. Use of this gate on a fire escape window is a serious safety hazard and may also subject the user to a fine by the Department of Buildings.
 
@@ -5714,7 +5714,7 @@ The maximum fees are set based on the size of the bond, not the number of people
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Bail Bond Amount
       - Calculation of Fees
@@ -5728,7 +5728,7 @@ The maximum fees are set based on the size of the bond, not the number of people
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - $1 to $200
       - $10
@@ -5798,7 +5798,7 @@ The maximum fees are set based on the size of the bond, not the number of people
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Bail Bond Amount
       - Calculation of Fees
@@ -5812,7 +5812,7 @@ The maximum fees are set based on the size of the bond, not the number of people
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - $1 to $200
       - $10
@@ -5862,7 +5862,7 @@ ________________________________________________________________________________
 
 
 Chapter 7: Office of Labor Policy and Standards
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7332,7 +7332,7 @@ Any agreement by a fast food employee with the intent to prospectively waive or 
 
 
 Chapter 9: Prevailing Wage Law
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7586,7 +7586,7 @@ For purposes of section 4 of subdivision d of the Prevailing Wage Law, "other ap
 
 
 Chapter 11: Living Wage Law
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

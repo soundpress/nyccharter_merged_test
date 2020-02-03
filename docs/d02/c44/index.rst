@@ -2,7 +2,7 @@ Title 63: Landmarks Preservation Commission
 ======================================================================================================
 
 Chapter 1: Practice and Procedure--Public Hearings and Meetings of the Commission
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -67,7 +67,7 @@ The Commission may, upon the adoption of a motion, close the hearing and leave t
 
 
 Chapter 2: Approval of Proposed Work on Designated Buildings and Structures
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2522,7 +2522,7 @@ The Landmarks Preservation Commission shall notify any applicant who has request
 **Appendix A: Resources for Historic Photographs &amp; Drawings**
 
 Chapter 3: Repair and Replacement of Windows In Landmark and Historic District Buildings (Window Guidelines) [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2625,7 +2625,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 Chapter 4: Designated Broadway Theaters
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2728,7 +2728,7 @@ Note: The guidelines are keyed to underlined portions of the Description Section
 
 
 Chapter 5: Historic Preservation Grant Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2873,7 +2873,7 @@ In addition to any other material required by LPC Staff, the following documents
 
 
 Chapter 6: Proposed Alterations and New Construction of Structures and Landscapes In the Riverdale Historic District
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3046,7 +3046,7 @@ Any application for a new structure shall be considered as a request for a certi
 
 
 Chapter 7: Permit Duration, Renewal and Revocation
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3229,7 +3229,7 @@ Permit. The term "permit" means an approval, other than a Notice to Proceed, iss
 
 
 Chapter 8: Proposed Alterations and New Construction of Storefronts In the Jackson Heights Historic District
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3589,7 +3589,7 @@ EXAMPLE THREE – BUILDING WITH MULTIPLE STOREFRONTS
 
 
 Chapter 9: Alterations To Designated Bank Interiors
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3736,7 +3736,7 @@ State-of-the-art banking change. The term "state-of-the-art banking change" shal
 
 
 Chapter 10: Notification To Lessees of Landmarks Designation and Permit Requirements
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3771,7 +3771,7 @@ The language set forth below shall satisfy the notification requirements set for
 
 
 Chapter 11: Administrative Enforcement
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3890,7 +3890,7 @@ Service. A stop work order may be served: (1) by mailing the stop work order to 
 
 
 Chapter 12: Historic District Master Plans
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4199,7 +4199,7 @@ Terms not otherwise defined in these rules or the District Master Plan shall hav
 
 
 Chapter 13: Fees
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

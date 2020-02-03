@@ -2,7 +2,7 @@ Title 43: Mayor
 ======================================================================================================
 
 Chapter 1: Uniform Rules and Regulations for All City Agencies Pertaining to the Administration of the Freedom of Information Law
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -191,7 +191,7 @@ If any provision of these Rules and Regulations or the application thereof to an
 
 
 Chapter 3: City Policy Concerning Aliens
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -236,7 +236,7 @@ Any service provided by a City agency shall be made available to all aliens who 
 
 
 Chapter 2: Percent For Art Law Procedures
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -427,7 +427,7 @@ These Regulations apply to projects listed in the city's capital budget and incl
 
 
 Chapter 4: Charge For Bad Checks [Executive Order No. 125]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -440,7 +440,7 @@ Pursuant to § 85 of the General Municipal Law, a charge of fifteen dollars per 
 
 
 Chapter 5: Petitions For Rulemaking
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -551,7 +551,7 @@ If any provision of these Rules and Regulations or the application thereof to an
 
 
 Chapter 7: New York City Made In New York Film Production Tax Credit Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -752,7 +752,7 @@ The amendments made by the rules that added this section shall not apply to init
 
 
 Chapter 6: City Environmental Quality Review (CEQR) [Executive Order No. 91 of 1977, As Amended]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1261,7 +1261,7 @@ Effective Date.[See new City Planning transition Rules 43 RCNY § 5-08 and 43 RC
 
 
 Chapter 8: Premiere Permits and Fees
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1366,7 +1366,7 @@ For purposes of this chapter, the following terms shall have the following meani
 
 
 Chapter 9: Permits Issued By Mayor's Office of Film, Theatre and Broadcasting
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1575,7 +1575,7 @@ Chapter 9: Permits Issued By Mayor's Office of Film, Theatre and Broadcasting
 
 
 Chapter 10: Green Building Standards
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1632,7 +1632,7 @@ Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - B-1 Storage (moderate hazard)
       - F-3 Assembly (museums, etc.) 
@@ -1701,7 +1701,7 @@ Table A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Estimated Construction Cost
       - Occupancy Group
@@ -1752,7 +1752,7 @@ Table B
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Estimated Construction Cost
       - Occupancy Group
@@ -1787,7 +1787,7 @@ Table C
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Estimated Construction Cost for Plumbing Systems
       - Occupancy Group
@@ -1855,7 +1855,7 @@ Note to Table C: Capital projects required to comply with the provisions of subd
 
 
 Chapter 11: Environmental Preferable Purchasing Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2126,7 +2126,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Product 
       - Volatile Organic Compound
@@ -2171,7 +2171,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Product 
       - Volatile Organic Compound
@@ -2203,7 +2203,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Product 
       - Maximum Concentration of Volatile Organic Compounds in Grams per Liter
@@ -2244,7 +2244,7 @@ Any of the following mercury-added lamps shall comply with the standards specifi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Fluorescent Tube Lamps 
       - 
@@ -2449,7 +2449,7 @@ Any of the following mercury-added lamps shall comply with the standards specifi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Compact Fluorescent Lamps 
       - 
@@ -2490,7 +2490,7 @@ Any of the following composite wood or agrifiber products containing added urea-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Product
       - Formaldehyde Emission Standards (ppm)*
@@ -2533,7 +2533,7 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Product 
       - Standard
@@ -2711,7 +2711,7 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Product 
       - Maximum Percentage (%) of Volatile Organic Compounds by Weight
@@ -2780,7 +2780,7 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 Chapter 12: Waivers from Inclusion In the Doing Business Database
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2917,7 +2917,7 @@ A waiver shall be granted only after substantial efforts have been made by the C
 
 
 Chapter 13: Indigent Defense Plan For the City of New York
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2992,7 +2992,7 @@ Attorneys on the Criminal Panels representing or who have represented indigent p
 
 
 Chapter 15: New York City 'Made In New York Marketing Credit Program'
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3185,7 +3185,7 @@ Each marketing credit recipient must maintain records, in paper or electronic fo
 
 
 Chapter 14: Environmental Remediation
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5406,7 +5406,7 @@ c. Fee for Modifying Special Mixed Use Noise Requirements. An applicant requesti
 
 
 Chapter 16: Unlawful Advertisement for Certain Occupancies*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5457,7 +5457,7 @@ Violations of 43 RCNY § 16-01 will be adjudicated by the Environmental Control 
 
 
 Chapter 17: Required Disclosures of Short-Term Rental Transactions by Booking Services*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

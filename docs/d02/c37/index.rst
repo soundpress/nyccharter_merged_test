@@ -2,7 +2,7 @@ Title 55: Department of Citywide Administrative Services
 ======================================================================================================
 
 Chapter 1: Conduct Within Structures and Grounds Under the Control of the Division of Facilities Management and Construction Services
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -199,7 +199,7 @@ Any disorderly conduct or conduct on the property which creates loud and unusual
 
 
 Chapter 3: Fees
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -228,7 +228,7 @@ Chapter 3: Fees
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (i)
       - Duplicate document (e.g. mortgage, deed)
@@ -322,7 +322,7 @@ A certificate of burial right grants the privilege of interment or entombment in
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Traditional Area
       - $1,995.00
@@ -341,7 +341,7 @@ A certificate of burial right grants the privilege of interment or entombment in
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (ix)
       - Perpetual care. The purchase price of all certificates of burial right includes perpetual care. Plot holders having certificates of burial right purchased prior to January 20, 1949 may provide perpetual care for their plots upon payment of $650 per grave.
@@ -408,7 +408,7 @@ Note: The Twenty-Five ($25.00) Dollar fee is to be applied to each lot within th
 
 
 Chapter 5: Disposition of Personal Property
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -439,7 +439,7 @@ Chapter 5: Disposition of Personal Property
 
 
 Chapter 6: 'Original Equipment Manufacturer Agreements' For Purposes of the City's Anti-Apartheid Law
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -476,7 +476,7 @@ For purposes of the City's anti-apartheid rider, included in City contracts purs
 
 
 Chapter 7: Canarsie Cemetery Rules and Regulations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -771,7 +771,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 Chapter 8: Contracts For the Purchase of Products Containing Secondary Material and Minimum Secondary Material Content Standards For the Purchase of Establishing Price Preference Eligibility
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -848,7 +848,7 @@ Paper and Paper Products1
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Material 
       - Minimum percentage of recovered materials 
@@ -983,7 +983,7 @@ Paper and Paper Products1
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Product
       - Minimum Percentage by Weight of Secondary Material Content
@@ -1011,7 +1011,7 @@ Building Insulation Products 4
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Product 
       - Percentage by Weight of Secondary Material
@@ -1046,7 +1046,7 @@ Plastics 6
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Minimum Percentage by Weight of Secondary Material Content 
       - Minimum Percentage by Weight of Post-Consumer Material Content
@@ -1073,7 +1073,7 @@ Note – The minimum content standards are based on the weight of material (not 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Glass 6
       -  
@@ -1150,7 +1150,7 @@ If any provision or section of these Rules, or the application thereof to partic
 
 
 Chapter 10: Rules For Press Conferences, Demonstrations and Similar Activities In the Immediate Vicinity of City Hall
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1281,7 +1281,7 @@ All permits issued shall include the conditions set forth above.
 
 
 Chapter 11: Personnel Practice and Procedure
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1320,7 +1320,7 @@ Chapter 11: Personnel Practice and Procedure
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Salary Category
       - Fee
@@ -1583,7 +1583,7 @@ These regulations shall be applicable also to examinations conducted by the Depa
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Climber or Tower Crane Rigger
       - $275
@@ -1802,7 +1802,7 @@ The names of successful candidates in the license examinations listed above will
 
 
 Chapter 12: Municipal Employees' Charitable Contributions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1983,7 +1983,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 Chapter 13: [Filming and Photography Authorized By the Department]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2146,7 +2146,7 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 Chapter 14: Security Guards at Nonpublic Schools
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2457,7 +2457,7 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
 
 Appendix A: Personnel Rules and Regulations of the City of New York
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3102,7 +3102,7 @@ The salary grade for positions which are now or may hereafter be made subject to
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Salary Grade
       - Salary Grade Minimum

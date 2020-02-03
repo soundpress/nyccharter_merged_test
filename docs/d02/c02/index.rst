@@ -2,7 +2,7 @@ Title 3: Fire Department
 ======================================================================================================
 
 Chapter 1: Administration
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -417,7 +417,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Category(3 RCNY§ 109-02)
       - Description of Violation
@@ -437,7 +437,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - VC 1
       - Portable Fire Extinguishers and Fire Hoses
@@ -2374,7 +2374,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 Chapter 2: Definitions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2491,7 +2491,7 @@ Chapter 2: Definitions
 
 
 Chapter 3: General Precautions Against Fire
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2863,7 +2863,7 @@ Open-flame decorative device. An open-flame device used for decorative or lighti
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Legend 
       - Letter Size – Capital 
@@ -2992,7 +2992,7 @@ Open-flame decorative device. An open-flame device used for decorative or lighti
 
 
 Chapter 5: Fire Operations Features
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3411,7 +3411,7 @@ Chapter 5: Fire Operations Features
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - R511-01Table 1Commissioning Test and Periodic Maintenance Requirements for In-Building Auxiliary Radio Communication Systems
     * - ARC System Component/System Malfunction
@@ -3458,7 +3458,7 @@ Chapter 5: Fire Operations Features
 
 
 Chapter 6: Building Services and Systems
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3571,7 +3571,7 @@ Table 1Stationary Storage Battery System Size Thresholds
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Battery Technology
       - Aggregate Rated Energy Capacity
@@ -3616,7 +3616,7 @@ Table 2Stationary Storage Battery System Compliance Requirements
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section
       - Compliance Requirement
@@ -3632,7 +3632,7 @@ Table 2Stationary Storage Battery System Compliance Requirements
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (c)
       - General Provisions
@@ -4204,7 +4204,7 @@ h. Except project-specific installation designs. Large installations that utiliz
 
 
 Chapter 8: Interior Furnishings, Decorations and Scenery
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4393,7 +4393,7 @@ Chapter 8: Interior Furnishings, Decorations and Scenery
 
 
 Chapter 9: Fire Protection Systems
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5024,7 +5024,7 @@ Chapter 9: Fire Protection Systems
 
 
 Chapter 10: Means of Egress
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5095,7 +5095,7 @@ Chapter 10: Means of Egress
 
 
 Chapter 14: Fire Safety During Construction, Alteration and Demolition
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5370,7 +5370,7 @@ Chapter 14: Fire Safety During Construction, Alteration and Demolition
 
 
 Chapter 17: Fumigation and Insecticidal Fogging
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5407,7 +5407,7 @@ Chapter 17: Fumigation and Insecticidal Fogging
 
 
 Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5718,7 +5718,7 @@ Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
 
 
 Chapter 26: Welding and Other Hot Work
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5823,7 +5823,7 @@ Chapter 26: Welding and Other Hot Work
 
 
 Chapter 27: Hazardous Materials--General Provisions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6244,7 +6244,7 @@ Chapter 27: Hazardous Materials--General Provisions
 
 
 Chapter 30: Compressed Gases
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6429,7 +6429,7 @@ Chapter 30: Compressed Gases
 
 
 Chapter 34: Flammable and Combustible Liquids
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6664,7 +6664,7 @@ Chapter 34: Flammable and Combustible Liquids
 
 
 Chapter 35: Flammable Gases
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7293,7 +7293,7 @@ Chapter 35: Flammable Gases
 
 
 Chapter 38: Liquefied Petroleum Gases
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7352,7 +7352,7 @@ Table 1 (R3809-01)
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - LPG Container Capacity
       - Number of Containers Requiring Permit
@@ -7781,7 +7781,7 @@ Table 1 (R3809-01)
 
 
 Chapter 46: Fees
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7812,7 +7812,7 @@ Chapter 46: Fees
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Original application (including written examination) (for 3 years) (except fire and life safety director) 
       - $25.00
@@ -7843,7 +7843,7 @@ Chapter 46: Fees
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Original application 
       - $105.00
@@ -7870,7 +7870,7 @@ Chapter 46: Fees
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Original application
       -  $2,940.00
@@ -7893,7 +7893,7 @@ Chapter 46: Fees
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - To maintain and operate an in-building auxiliary radio communication system or other in-building radio communication system
       - 
@@ -7916,7 +7916,7 @@ Chapter 46: Fees
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Review of design and installation documents, except as otherwise provided in FC A03.1(51)
       - $420.00
@@ -7962,7 +7962,7 @@ Chapter 46: Fees
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 9. Document management for fire alarm system, emergency alarm system, auxiliary radio communication system or fire extinguishing system application and for any other application not requiring a work permit from the Department of Buildings (per application)
       - $165.00
@@ -8003,7 +8003,7 @@ Fees for terminals placed in operation after the first day of the month of July 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Quarter First in Operation 
       - Fee per Class E or Class J terminal 
@@ -8083,7 +8083,7 @@ The Department shall, at the beginning of each quarter, bill each entity for an 
 
 
 Chapter 47: Referenced Standard Modifications
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8384,7 +8384,7 @@ NFPA 45-2004. The provisions of NFPA 45-2004, Standard on Fire Protection for La
 
 
 Chapter 49: Miscellaneous
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8416,7 +8416,7 @@ OATH. New York City Office of Administrative Trials and Hearings.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Type of Service
       - Charge

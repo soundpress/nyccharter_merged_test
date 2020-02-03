@@ -2,7 +2,7 @@ Title 19: Department of Finance
 ======================================================================================================
 
 Chapter 1: Amnesty Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -834,7 +834,7 @@ Example 2: A taxpayer was issued a notice of determination with respect to the g
 
 
 Chapter 2: Annual Vault Charge [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1037,7 +1037,7 @@ Chapter 2: Annual Vault Charge [Repealed]
 
 
 Chapter 3: Banking Corporations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1526,7 +1526,7 @@ Branch.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Exact amount 
       - To be reported as 
@@ -2429,7 +2429,7 @@ Example 1: A taxpayer which was subject to tax for all of 1985 reports on a cale
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - New York City
@@ -2458,7 +2458,7 @@ The taxpayer's short period entire net income allocation percentage is computed 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Payroll factor [($60,800/$80,000) × 100]
       -  76% 
@@ -2489,7 +2489,7 @@ $72,000/12 (months) = $6,000$  6,000 × 7 (months) = $42,000$42,000 × 79.6% =
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Entire net income allocated at 100%
       -  $30,000 
@@ -2510,7 +2510,7 @@ Example 2: A banking corporation incorporated outside the United States has been
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - New York City 
@@ -2539,7 +2539,7 @@ Example 2: A banking corporation incorporated outside the United States has been
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Payroll factor [($70,000/$100,000) x 100]
       -  70% 
@@ -2600,7 +2600,7 @@ Example: A banking corporation incorporated outside the United States had been d
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - New York City 
@@ -2629,7 +2629,7 @@ The taxpayer's short period alternative entire net income allocation percentage 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Payroll factor [($80,000/$100,000) × 100]
       -  80% 
@@ -2656,7 +2656,7 @@ $120,000/12 (months) = $10,000$  10,000 × 7 (months) = $70,000 $  70,000 ×
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Alternative entire net income for period 1/1/85-4/30/85 is $40,000 allocated at 0%
       - 0
@@ -2705,7 +2705,7 @@ Example: A taxpayer, which was subject to tax for all of 1985, reports on a cale
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - New York City 
@@ -2734,7 +2734,7 @@ The taxpayer's short period asset allocation percentage is computed as follows:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Payroll factor [($73,000/$100,000) × 100]
       -  73% 
@@ -2765,7 +2765,7 @@ $1,800,000/12 (months) = $150,000$   150,000 × 11 (months) = $1,650,000 $1,6
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Taxable assets allocated at 100%
       -  $150,000
@@ -3088,7 +3088,7 @@ The request must set forth complete information on which the request is made, to
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Form No.
       - Description 
@@ -3333,7 +3333,7 @@ Example 2: The taxpayer makes and files on or before October 15, 1981 a timely d
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Dates for filing the declaration 
       - Dates for installment payments 
@@ -3380,7 +3380,7 @@ Example: In the case of a short taxable year of 11 months, from January 1, 1981 
 
 
 Chapter 4: Cigarette Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3895,7 +3895,7 @@ In the case of so-called "drop-shipments," where an out-of-state manufacturer so
 
 
 Chapter 5: Coin-operated Amusement Devices Tax [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4038,7 +4038,7 @@ Chapter 5: Coin-operated Amusement Devices Tax [Repealed]
 
 
 Chapter 6: Commercial Motor Vehicles
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4327,7 +4327,7 @@ In addition to all other powers granted to the Commissioner of Finance under the
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 20 percent (5% per month for 3 months from June 21 through September 20 and 5% for the fractional part of the month from September 20 through September 30) of the amount due of $l,000 required to be shown on the return
       -  $200
@@ -4348,7 +4348,7 @@ In addition to all other powers granted to the Commissioner of Finance under the
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984 through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)
       -  $12
@@ -4371,7 +4371,7 @@ In addition to all other powers granted to the Commissioner of Finance under the
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Penalty at 5% for maximum of 5 months, or 25% of $500
       -  $125.00
@@ -4486,7 +4486,7 @@ The provisions of the Civil Practice Law and Rules or any other law relative to 
 
 
 Chapter 7: Commercial Rent Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4527,7 +4527,7 @@ Example 1:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Taxable and/or Non-Taxable Premises 
       - 
@@ -4686,7 +4686,7 @@ To illustrate:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - For Tax Periods 
       - Reduction 
@@ -4787,7 +4787,7 @@ For each tax year commencing on or after June 1, 1970 and ending on or before Ma
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - When the base rent was:
       - But not more than:
@@ -4820,7 +4820,7 @@ For tax years beginning on or after June 1, 1977 and ending on or before May 31,
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - When the base rent is:
       - But not more than:
@@ -5007,7 +5007,7 @@ Note: This deduction is not permitted where the tenant of the parking space is e
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CERTIFICATE OF ASSIGNED SPACE USE 
       - 
@@ -5106,7 +5106,7 @@ Example 1: Under the terms of a lease entered into by A, a tenant, with B, his l
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax Periods 
       - Base Rent 
@@ -5251,7 +5251,7 @@ Example 1: Assume the taxpayer filed his tax return for the year June 1, 1982 to
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 20 percent (5% per month for the 3 months from June 21 through September 20 and 5% for the fractional part of the month from September 20 through September 25) of the amount due of $300 ($1,000 required to be shown on the return less $700 paid previously)
       - $60
@@ -5272,7 +5272,7 @@ Example 2: A notice and demand for the $200 deficiency is issued on January 8, 1
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 6 percent (5 1/2% for the 11 months from January 19, 1984 through December 18, 1984, and 0.5% of the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)
       - $12
@@ -5297,7 +5297,7 @@ Example 3: A taxpayer files his tax return for the year June 1, 1982 to May 31, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Penalty at 5 percent for maximum of 5 months, 25 percent of $500
       - $125.00
@@ -5420,7 +5420,7 @@ The provisions of the Civil Practice Law and Rules or any other law relative to 
 
 
 Chapter 8: Court and Trust Funds
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5543,7 +5543,7 @@ Funds may not be transferred from one depositary to another except pursuant to t
 
 
 Chapter 9: Fees
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5556,7 +5556,7 @@ The Commissioner of Finance is entitled to collect fees for the services hereina
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (a) for issuing certificate of payment when original receipt has been lost through the fault of the payor
       - $7.00 
@@ -5721,7 +5721,7 @@ Notwithstanding the foregoing, the commissioner of finance may determine that th
 
 
 Chapter 10: Financial Corporations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5896,7 +5896,7 @@ Chapter 10: Financial Corporations
 
 
 Chapter 11: General Corporation Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6288,7 +6288,7 @@ Example:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Exact amount 
       - To be reported as 
@@ -6477,7 +6477,7 @@ Example 2: For the calendar year 1969, a taxpayer has Federal gross income of $4
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Federal
       - 
@@ -6538,7 +6538,7 @@ Example 3: If the dividends in example 2 were from subsidiaries, the New York Ci
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Federal taxable income (loss)
       - 
@@ -6582,7 +6582,7 @@ Federal
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       -  1966 
@@ -6617,7 +6617,7 @@ Federal
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - 1967 
@@ -6660,7 +6660,7 @@ New York City
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - 1966 
@@ -6710,7 +6710,7 @@ New York City
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - 1967 
@@ -6765,7 +6765,7 @@ Example 6: In 1969 a corporation paid salaries of $30,000 to its officers and st
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Salaries minus $15,00
       -  $15,000
@@ -6794,7 +6794,7 @@ Example 7: In 1966, X Corp. filed a separate New York City General Corporation T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  X Corp. – net operating loss
       - ($10,000)
@@ -6925,7 +6925,7 @@ Example 1: HCO Corporation is a calendar year taxpayer with three shareholders, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Entire net income
       - $400,000 
@@ -6956,7 +6956,7 @@ Example 2: The facts are the same as in example 1 except that only 60% of B's sa
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Entire net income
       - $300,000 
@@ -6989,7 +6989,7 @@ Example 3: The facts are the same as in Example 1 but D is an officer but not a 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Entire net income
       - $400,000 
@@ -7020,7 +7020,7 @@ Example 4: ABC Corporation is a calendar year taxpayer. For calendar year 2000, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Net loss
       - ($100,000)
@@ -7563,7 +7563,7 @@ Calculation of Distributive Share Percentage ("DSP"). The distributive share per
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Distributive Share (DS)
@@ -7969,7 +7969,7 @@ Example: The taxpayer is a New York City sales agent of a Pennsylvania manufactu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax Applicable to Issuer or Obligor:
       - Issuer's Allocation Percentage: 
@@ -8499,7 +8499,7 @@ Example 9: Corporation T and three 80 percent or more owned subsidiaries, Corpor
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - T 
@@ -8643,7 +8643,7 @@ Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic fili
 
 
 Chapter 12: Hotel Room Occupancy Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8762,7 +8762,7 @@ Rent.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the total charge includes:
       - The portion of the total charges subject to tax is: 
@@ -8847,7 +8847,7 @@ Example: A hotel suite contains a kitchenette with a microwave oven, refrigerato
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the rent per day for the room was:
       - The tax was:   
@@ -8872,7 +8872,7 @@ Example: A hotel suite contains a kitchenette with a microwave oven, refrigerato
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the rent per day for the room is:
       - The tax is: 
@@ -9081,7 +9081,7 @@ Example A: (a) Assume the taxpayer filed his tax return for the quarter ending F
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 20 percent (5% per month for the 3 months from March 21 through June 20 and 5% for the fractional part of the month from June 20 through June 25) of the amount due of $l,000 required to be shown on the return
       -  $200 
@@ -9102,7 +9102,7 @@ Example A: (b) A notice and demand for the $200 deficiency is issued on January 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)
       -  $12 
@@ -9125,7 +9125,7 @@ Example B: (a) A taxpayer files his tax return for the quarter ending February, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Penalty at 5% for maximum of 5 months, 25% of $500
       -  $125.00
@@ -9310,7 +9310,7 @@ Whenever an operator shall make a sale, transfer, or assignment in bulk of any p
 
 
 Chapter 13: Foreclosure of Tax Liens By Action In Rem
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9375,7 +9375,7 @@ Chapter 13: Foreclosure of Tax Liens By Action In Rem
 
 
 Chapter 14: Rules Relating To the Industrial and Commercial Incentive Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9724,7 +9724,7 @@ As a condition of eligibility for benefits under this program, there must be no 
 
 
 Chapter 15: Treatment of An International Banking Facility For Purposes of the Financial Corporation Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10099,7 +10099,7 @@ This regulation shall take effect immediately, and shall apply to all taxable ye
 
 
 Chapter 16: Letter Rulings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10226,7 +10226,7 @@ A ruling will identify the person to whom it is addressed by name and address. I
 
 
 Chapter 17: Filing Rules For New York City Income and Excise Taxes
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10343,7 +10343,7 @@ When the last day prescribed under authority of Title 11 of the Administrative C
 
 
 Chapter 18: Municipal Employees' Charitable Contributions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10514,7 +10514,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 Chapter 19: Parking Tax Exemption
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10531,7 +10531,7 @@ Motor vehicle. "Motor vehicle" means a motor vehicle registered by an individual
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Examples:
       -  
@@ -10558,7 +10558,7 @@ Primary residence. "Primary residence" means the dwelling place which is a perma
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Examples:
       -  
@@ -10615,7 +10615,7 @@ Vendor. "Vendor" means a person operating a garage, parking lot, or other place 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Examples:
       -  
@@ -10646,7 +10646,7 @@ Vendor. "Vendor" means a person operating a garage, parking lot, or other place 
 
 
 Chapter 20: Peddler License Renewals (Tax Standards)
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10695,7 +10695,7 @@ In connection with the renewal of licenses by food and general vendors, and purs
 
 
 Chapter 21: Publication of Decisions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10738,7 +10738,7 @@ Requests for copies of decisions of the Commissioner of Finance should be made t
 
 
 Chapter 22: Real Estate Tax Abatement On Rent-controlled Property Occupied By Eligible Senior Citizens
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10777,7 +10777,7 @@ Chapter 22: Real Estate Tax Abatement On Rent-controlled Property Occupied By El
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - In or after the following month (see subdivision (b) below): 
       - For the following rent exemption period: 
@@ -10872,7 +10872,7 @@ Any person who shall make any certification which is willfully false shall be su
 
 
 Chapter 23: Real Property Transfer Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10937,7 +10937,7 @@ To Illustrate: Assume real property is sold for $300,000 with the purchase price
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tentative City Tax:
       - 
@@ -10990,7 +10990,7 @@ Illustration b: X Corporation owns real property in New York City with a fair ma
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Value of real property
       - $500,000
@@ -11447,7 +11447,7 @@ Example 1: A, as an "insider," purchases 2% of the stock of a cooperative housin
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Amount paid for the apartment
       - $200,000 
@@ -11472,7 +11472,7 @@ Example 3: A owns 80 shares in a cooperative housing corporation attributable to
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Cash consideration received for shares
       - $800,000
@@ -11495,7 +11495,7 @@ The consideration received for the transfer of stock attributable to each of the
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Cash consideration received for stock
       - $800,000
@@ -11636,7 +11636,7 @@ To illustrate: A parcel of land situated partly within Westchester County and pa
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Property situated within Bronx County
       - $120,000
@@ -11655,7 +11655,7 @@ The following shows the computation of the consideration subject to tax:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Item  No. 
       -  
@@ -11749,7 +11749,7 @@ Example E: Corporation X has five shareholders (col. 1 of table below) and owns 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - 1. X shares owned 
@@ -11893,7 +11893,7 @@ The electronic return is required to be filed electronically, and the paper retu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Manhattan
       - (New York County)66 John Street, 13th Floor,New York, NY 10038
@@ -11990,7 +11990,7 @@ Example A(a): Assume the grantor filed the tax return in connection with a trans
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 20 percent (5% per month for the 3 months from July 30 through October 30 and 5% for the fractional part of the month from November 1 through November 10) of the amount due of $1,000 required to be shown on the return
       -  $200
@@ -12011,7 +12011,7 @@ Example A(b): A notice and demand for the $200 deficiency is issued on January 8
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984 through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200) 
       - $12
@@ -12034,7 +12034,7 @@ Example B: Grantor or grantee files the tax return in connection with a transfer
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Penalty at 5% for maximum of 5 months, or 25%, of $500
       -  $125.00
@@ -12185,7 +12185,7 @@ Any notice authorized or required by the law may be given by mailing it to the p
 
 
 Chapter 24: Refunds of Real Property Taxes
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -12272,7 +12272,7 @@ Example 4: The facts are the same as in Example 3 except that X Corp. made the o
 
 
 Chapter 26: Creation and Retention of Books and Records
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -12461,7 +12461,7 @@ All records required to be retained under these rules must be preserved pursuant
 
 
 Chapter 25: Retail Licensees of the State Liquor Authority
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -12778,7 +12778,7 @@ Example A(a): Assume the taxpayer filed his tax return for the tax year beginnin
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 20 percent (5% per month for the 3 months from June 26 through September 25 and 5% for the fractional part of the month from September 26 through September 30) of the amount due of $1,000 required to be shown on the return
       -  $200
@@ -12799,7 +12799,7 @@ Example A(b): A notice and demand for the $200 deficiency is issued on January 8
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23)of the amount stated in the notice and demand ($200)
       - $12
@@ -12822,7 +12822,7 @@ Example B: A taxpayer files his tax return for the tax year beginning June 1, 19
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Penalty at 5% for maximum of 5 months, 25% of $500
       -  $125.00
@@ -12923,7 +12923,7 @@ Example B: A taxpayer files his tax return for the tax year beginning June 1, 19
 
 
 Chapter 27: Practice and Procedure
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -13068,7 +13068,7 @@ Chapter 27: Practice and Procedure
 
 
 Chapter 28: Unincorporated Business Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -13535,7 +13535,7 @@ Example 1: Calculation of distributive share percentage ("DSP"). Partnership ABC
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - I Distributive Share (DS) 
@@ -13576,7 +13576,7 @@ Example 3: Basic credit calculation. AB is a partnership doing business in New Y
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Separate UBTI 
@@ -13619,7 +13619,7 @@ Measure 2: A's total UBTI is $500x, on which the tax would be $20x before any UB
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Separate UBTI
@@ -13656,7 +13656,7 @@ Measure 2: A's total UBTI is $200x, on which the tax liability would be $8x. A's
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Separate UBTI
@@ -13695,7 +13695,7 @@ A is allowed a credit of $12x. However, because A's actual tax liability for 199
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Separate UBTI
@@ -13740,7 +13740,7 @@ AB and BC are partnerships doing business in New York City. B is a partner in bo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Separate UBTI
@@ -13797,7 +13797,7 @@ Total Credit for 1995: B's total UBT Paid Credit with respect to AB and BC is $2
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Separate UBTI
@@ -13858,7 +13858,7 @@ Partnership C is a partner in Partnership B. B is a partner in partnership A. Fo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - A
       - 1995
@@ -13888,7 +13888,7 @@ For each year, B's distributive share from A is $400x. Its distributive share pe
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - B
       - 1995
@@ -13933,7 +13933,7 @@ For each year, C's distributive share percentage in B is 50% and C has separate 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - C
       - 1995
@@ -14250,7 +14250,7 @@ Example 1: The computation of a net operating loss under subparagraph (iii) abov
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - 1970 
@@ -14321,7 +14321,7 @@ Example 1: Partnership A &amp; B, which is engaged in the carrying on of an unin
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Net income from business (before deductions for contributions and service of partners)
       - $25,000.00
@@ -14350,7 +14350,7 @@ Recomputation to allow net operating loss deduction for 1975.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Net income of business allocated to New York City per return (before deduction for partners' services)
       - $17,812.50
@@ -14387,7 +14387,7 @@ Example 2: If, in Example 1 above, the partnership had not engaged in business p
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Net income from business (before net operating loss deduction, contributions and partners' service allowance)
       - $25,000
@@ -14416,7 +14416,7 @@ Allocation Schedule
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Balance (after contributions deduction)
       - $16,150.00
@@ -14475,7 +14475,7 @@ Example: Y Co. partnership operated by individuals A, B, C, E and G sustained a 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Name of Partner 
       - 1974
@@ -14535,7 +14535,7 @@ The pertinent items of income and deduction were as follows:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - 1974
@@ -14582,7 +14582,7 @@ On the foregoing information, the unincorporated business net operating loss ded
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - New operating loss as computed for 1976Limitation on loss for 1974-Sum of proportionate interests of A, B, C and E per partnership returns in the 1974 deduction year is 60 percent.
       - $90,000
@@ -14607,7 +14607,7 @@ This entity qualifies for a carryover because the interests of A, B, C and E in 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Net operating loss per 1976 return
       - 
@@ -14952,7 +14952,7 @@ Example (i): Individual A is a manufacturer whose plant is located in Connecticu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - A Description of items used as factors 
       - B Total factors within and without New York City 
@@ -14999,7 +14999,7 @@ Example (ii): The facts are the same as in example (i) except that the figures r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 4.  Total of percentages in Column D adding Item 3 twice
       - 142%
@@ -15208,7 +15208,7 @@ Example 2: Allocation of Business Income – Formula Allocation with a Flow Thro
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - AB
       - Total w\in &amp; w/o the City
@@ -15247,7 +15247,7 @@ Without taking into account its distributive share from AB, A has a 50% business
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - A
       - Total w\in &amp; w/o the City
@@ -15286,7 +15286,7 @@ Without taking into account its distributive share from AB, B has a 90% business
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - B
       - Total w\in &amp; w/o the City
@@ -15329,7 +15329,7 @@ Calculation of A's Allocation Percentage
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - A
       - Total w\in &amp; w/o the City
@@ -15402,7 +15402,7 @@ Calculation of B's Allocation Percentage:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - B
       - Total w\in &amp; w/o the City
@@ -15525,7 +15525,7 @@ Example 6: Assuming the same facts presented in Example 5, except that the busin
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Total taxable income (without deduction for services of partners or unincorporated business exemptions)
       -  $60,000
@@ -15644,7 +15644,7 @@ Example 1: A joint venture is entered into by four individual venturers, and X &
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Joint venture net income (before 19 RCNY § 28-08(a) deduction)
       -  $300,000
@@ -15681,7 +15681,7 @@ Distribution of Joint Venture Income:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Corporation A
       - $100,000
@@ -15706,7 +15706,7 @@ Distribution of Joint Venture Income:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Corp. A 
@@ -15748,7 +15748,7 @@ Example 4: Corporation A, Partnership B and Mr. C enter into a joint venture sub
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Joint venture net income before 19 RCNY § 28-08(a) deduction for services
       - $450,000
@@ -15775,7 +15775,7 @@ Corporation A's proportionate interest in the excess of U.B. gross income over U
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Direct payments not deductible by the partnership
       - $300,000
@@ -15799,7 +15799,7 @@ Partnership B's proportionate interest in the excess of U.B. gross income over U
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Direct payments not deductible by the partnership
       - $0
@@ -15823,7 +15823,7 @@ Mr C's proportionate interest in the excess of U.B. gross income over U.B. deduc
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Direct payments not deductible by the partnership
       - $0
@@ -15850,7 +15850,7 @@ If Corporation A's net income allocable to New York City is $345,000 or more, th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Joint venture net income before 19 RCNY § 28-08(a) deduction for services ($300,000 payment to Corporation A is not an allowable deduction under 19 RCNY § 28-06(d)(1).)
       - $150,000
@@ -15875,7 +15875,7 @@ Corporation A's proportionate interest in the excess of U.B. gross income over U
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Direct payments not deductible by the partnership (not to exceed 100% of the excess)
       - $135,000
@@ -15899,7 +15899,7 @@ Partnership B's proportionate interest in the excess of U.B. gross income over U
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Direct payments not deductible by the partnership
       - $0 
@@ -15923,7 +15923,7 @@ Mr. C's proportionate interest in the excess of U.B. gross income over U.B. dedu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Direct payments not deductible by the partnership
       - $0 
@@ -16082,7 +16082,7 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Date of filing declaration
       - Dates of installment payments
@@ -16189,7 +16189,7 @@ Example: Assume that the taxpayer is an individual proprietor who used the cash 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       -  1981 
@@ -16238,7 +16238,7 @@ Assume further that the taxpayer's books at the beginning of 1983 included the f
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Unincorporated business taxable income on accrual basis before deduction for personal services under 19 RCNY § 28-08 and the exemption under 19 RCNY § 28-09 (new method but before adjustments)
       - $20,000
@@ -16296,7 +16296,7 @@ Since the taxpayer used the cash method for the two years preceding the change-o
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       -  1981 
@@ -16387,7 +16387,7 @@ Example: The computation of the reduction of tax for the adjustment year is illu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - 1981(accrual basis)
@@ -16438,7 +16438,7 @@ Tax attributable to 1981 installment payments in 1982 (first adjustment year), t
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax on 1982 taxable income including gross profit from 1981 sales
       - 
@@ -16485,7 +16485,7 @@ Tax attributable to 1981 installment payments in 1983 (second adjustment year):
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax on 1983 taxable income, including gross profit from 1981 sales
       - 
@@ -16740,7 +16740,7 @@ Example 1:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 20 percent (5% per month for the 3 months from April 16 through July 15 and 5% for the fractional part of the month from July 16 through July 30) of the amount due of $l,000 required to be shown on the return
       -  $200
@@ -16761,7 +16761,7 @@ Example 1:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Addition computed without regard to limitation: 6 percent (5  1/2% for the 11 months from September 19, 1984, through August 18, 1985, and 0.5% for the fractional part of the month from August 19 through August 23) of the amount stated in the notice and demand ($200)
       -  $12
@@ -16784,7 +16784,7 @@ Example 2: A taxpayer files his tax return for the year January 1, 1983 to Decem
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Penalty at 5% for maximum of 5 months, 25% of $500
       -  $125.00
@@ -16913,7 +16913,7 @@ Example 2: A taxpayer files his tax return for the year January 1, 1983 to Decem
 
 
 Chapter 29: Interest Rates On New York City Income and Excise Taxes
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -16932,7 +16932,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Period 
       - Rate 
@@ -16957,7 +16957,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Period 
       - Rate Per Annum 
@@ -17004,7 +17004,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - For Taxable Periods: 
       - Rate Per Annum
@@ -17031,7 +17031,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Period 
       - Rate Per Annum 
@@ -17078,7 +17078,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - For Taxable Periods: 
       - Rate Per Annum 
@@ -17105,7 +17105,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Period 
       - Rate Per Annum 
@@ -17154,7 +17154,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Period 
       - Rate Per Annum 
@@ -17183,7 +17183,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
 
 Chapter 30: Relocation and Employment Assistance Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17512,7 +17512,7 @@ Example: Y, a company with 1,000 employees outside the eligible area in the base
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year 
       - P1 
@@ -17582,7 +17582,7 @@ Step (5) – The percentage reductions are then computed as follows (See: § 30-
 
 
 Chapter 31: Adjudications
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17619,7 +17619,7 @@ After conducting such hearings, Department of Finance Hearing Officers and Admin
 
 
 Chapter 32: Claims Against Fire Insurance Proceeds
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17644,7 +17644,7 @@ The 20 day period provided in Section 331(d) of the New York State Insurance Law
 
 
 Chapter 33: Filing of Income and Expense Statements
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17916,7 +17916,7 @@ Chapter 33: Filing of Income and Expense Statements
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Final Actual Assessed Valuation
       - Penalty Amount
@@ -18175,7 +18175,7 @@ These regulations shall take effect immediately, and shall apply to income and e
 
 
 Chapter 34: Offers-in-compromise
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18470,7 +18470,7 @@ Nothing in this chapter of these rules shall be read or construed to limit, dimi
 
 
 Chapter 35: Refunds of Erroneous Or Excess Payments of Taxes, Assessments, Water Charges and Sewer Rents
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18515,7 +18515,7 @@ Application for refund or transfer of over and double payments of taxes, water c
 
 
 Chapter 36: Rules Relating to the Industrial and Commercial Abatement Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -19156,7 +19156,7 @@ Section 1805 of the real property tax law requires that certain changes to asses
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Actual AV
@@ -19194,7 +19194,7 @@ Example: In this case, the construction was completed by November 2011; therefor
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Actual AV
@@ -19225,7 +19225,7 @@ The abatement base is equal to the post-completion tax liability less 115% of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Post Completion Tax Liability
       - $100,000
@@ -19278,7 +19278,7 @@ Example 1: Commercial construction in special commercial abatement area – reta
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Percent Increase in Taxable Assessed Value
       - Benefit Period
@@ -19296,7 +19296,7 @@ Example 1: Commercial construction in special commercial abatement area – reta
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - YR 1
@@ -19486,7 +19486,7 @@ Example 2: Commercial construction in special commercial abatement area – reta
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Percent Increase in Taxable Assessed Value
       - Benefit Period
@@ -19507,7 +19507,7 @@ Example 2: Commercial construction in special commercial abatement area – reta
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - YR 1
@@ -19696,7 +19696,7 @@ e. The amount of the additional industrial abatement is set forth below:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Years 1 to 4
       - 50% of the initial tax liability
@@ -19741,7 +19741,7 @@ a. Abatement for commercial construction work outside of a special commercial ab
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period
       - Amount of abatement
@@ -19770,7 +19770,7 @@ b. Abatement for industrial construction work or commercial construction work in
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period
       - Amount of abatement
@@ -19807,7 +19807,7 @@ c. Abatement for industrial construction work on a peaking unit. Upon approval b
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period
       - Amount of abatement
@@ -19828,7 +19828,7 @@ d. Abatement for industrial construction work or commercial construction work in
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period
       - Amount of abatement
@@ -19861,7 +19861,7 @@ e. Abatement for renovation construction work in renovation areas.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period
       - Amount of abatement
@@ -19890,7 +19890,7 @@ f. Abatement for renovation construction work in renovation areas. Upon approval
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period
       - Amount of abatement
@@ -19921,7 +19921,7 @@ g. Abatement for commercial construction work on new construction in certain are
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period
       - Amount of abatement
@@ -20068,7 +20068,7 @@ d. This chapter shall apply only to projects for which the preliminary applicati
 
 
 Chapter 37: Change of Tentative Assessments Pursuant To Section 1512 of the New York City Charter
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -20235,7 +20235,7 @@ So that the public will be informed of the results of the changes in assessed va
 
 
 Chapter 38: Conciliation Bureau
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -20426,7 +20426,7 @@ The service of a conciliation decision discontinuing conciliation shall start th
 
 
 Chapter 39: Parking Violations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -20683,7 +20683,7 @@ Scheduled fines. The following schedule of fines shall apply to violations liste
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Violation 
       - 
@@ -21398,7 +21398,7 @@ The Director may determine certain classes of alleged violations as appropriate 
 
 
 Chapter 40: Rules Relating To the Sale of Tax Liens
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -21505,7 +21505,7 @@ If such a class two property has real property tax liens that have been unpaid f
 
 
 Chapter 42: Office of the City Sheriff
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -21538,7 +21538,7 @@ The City Sheriff shall inventory and hold onto all personal property which is fo
 
 
 Chapter 43: Rules Relating To the Office of the City Register
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -21631,7 +21631,7 @@ Any person presenting a document affecting real property to the Office of the Ci
 
 
 Chapter 44: Payment of Real Property Taxes By Electronic Funds Transfer
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -21660,7 +21660,7 @@ Section 11-128 of the Administrative Code of the City of New York authorizes the
 
 
 Chapter 45: Rules Relating To Qualifications As A Responsible Bidder
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -21789,7 +21789,7 @@ If any sentence, paragraph, section or part of these rules shall be adjudged inv
 
 
 Chapter 46: the Real Property Tax Surcharge On Certain Class One Properties
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -21908,7 +21908,7 @@ The Department of Finance may audit such certifications and require and verify p
 
 
 Chapter 47: Horse Race Admissions Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -21939,7 +21939,7 @@ To illustrate: During 2004, Aqueduct Racetrack holds three race meetings and Bel
 
 
 Chapter 48: Rules Relating To the Biotechnology Credit Against Unincorporated Business Tax and General Corporation Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22014,7 +22014,7 @@ The Commissioner of Finance, for the purpose of ascertaining the correctness of 
 
 
 Chapter 49: Rules Relating To Challenges To the Validity of Real Property Taxes
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22057,7 +22057,7 @@ The New York City Charter provides the process for a property owner to apply to 
 
 
 Chapter 50: Rules Relating To the Partial Tax Abatement For Residential Real Property Held In the Cooperative Or Condominium Form of Ownership
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22394,7 +22394,7 @@ The Commissioner may inspect or examine the books and records of the owner or th
 
 
 Chapter 51: Rules Relating To the Rebate For Owners of Certain Real Property Seriously Damaged By Hurricane Sandy
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22411,7 +22411,7 @@ b. that the owner who is entitled to the rebate remains the owner of the real pr
 
 
 Chapter 52: Rules Relating to Senior Citizen Rent Increase Exemption and Disability Rent Increase Exemption Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22448,7 +22448,7 @@ Chapter 52: Rules Relating to Senior Citizen Rent Increase Exemption and Disabil
 
 
 Chapter 53: Power of the Commissioner of Finance to Correct Errors Concerning Assessment or Tax on Real Property
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22569,7 +22569,7 @@ Chapter 53: Power of the Commissioner of Finance to Correct Errors Concerning As
 
 
 Chapter 54: Mergers and Apportionments of Real Property Tax Lots
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22678,7 +22678,7 @@ The Department will notify the applicant concerning the determination rendered b
 
 
 Chapter 55: Adjudication of Certain Notices of Violation and Sealing of Premises
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22855,7 +22855,7 @@ Respondents who admit to the offenses or are found in violation by OATH may be s
 **Schedule B**
 
 Chapter 56: Real Property Tax Abatement for Major Capital Improvements for Certain Class 2 Properties
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

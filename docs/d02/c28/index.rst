@@ -2,7 +2,7 @@ Title 45: Borough Presidents
 ======================================================================================================
 
 Chapter 1: President of the Borough of the Bronx
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -61,7 +61,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Fee 
@@ -94,7 +94,7 @@ Except as specifically provided in this section, every application for the prepa
 
 
 Chapter 2: President of the Borough of Brooklyn
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -224,7 +224,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  (1)  street number application
       - $100.00 per street number
@@ -245,7 +245,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
 
 
 Chapter 3: President of the Borough of Manhattan
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -360,7 +360,7 @@ Note: This situation usually arises with respect to developments where two or mo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (1)  Alteration Map Preparation
       - $12,000.00 for up to two map sheets and $2,500.00 for each additional map sheet, not to exceed a total charge of $18,000.00. 
@@ -395,7 +395,7 @@ Except as specifically provided in this section, every application for the prepa
 
 
 Chapter 4: President of the Borough of Queens
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -589,7 +589,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (1)  Alteration Map Preparation
       - $12,000.00 for up to two map sheets and $2,500.00 for each additional map sheet, not to exceed a total charge of $18,000.00
@@ -628,7 +628,7 @@ Except as specifically provided in this section, every application for the prepa
 
 
 Chapter 5: President of the Borough of Staten Island
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

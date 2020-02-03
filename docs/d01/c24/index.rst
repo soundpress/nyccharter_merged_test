@@ -2,7 +2,7 @@ Title 21-A: Education
 ======================================================================================================
 
 Chapter 1: Definitions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -27,7 +27,7 @@ Whenever used in this title, unless otherwise specified, the following terms sha
 
 
 Chapter 2: Reporting On Co-located Schools
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -44,7 +44,7 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 3: Reporting On Guidance Counselors and social Workers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -67,7 +67,7 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 4: Environmental Data Reporting
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -118,7 +118,7 @@ g. Not later than November first, two thousand fifteen and annually thereafter, 
 
 
 Chapter 5: Reporting on Students Receiving Special Education Services
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -469,7 +469,7 @@ f.*   The annual report required by subdivision e of this section shall be su
 
 
 Chapter 6: Reporting on Demographic Data in New York City Public Schools
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -670,7 +670,7 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 7: Physical Education Reporting
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -765,7 +765,7 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 8: Student Health Services
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -947,7 +947,7 @@ c. The department shall make available such educational materials in English and
 
 
 Chapter 9. Career and Technical Education Reporting
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -994,7 +994,7 @@ e. This chapter expires five years after the effective date of the local law tha
 
 
 Chapter 10: Computer Science Education Reporting
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1037,7 +1037,7 @@ d. This chapter expires ten years after the effective date of the local law that
 
 
 Chapter 11: Sexual Education Task Force
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1092,7 +1092,7 @@ e. No later than December 1, 2017, the task force shall submit to the mayor and 
 
 
 Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1109,7 +1109,7 @@ b. No later than November 1, 2017, and annually thereafter no later than Novembe
 
 
 Chapter 13: School Meal Participation
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1160,7 +1160,7 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 14: Reporting on GSAs
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1193,7 +1193,7 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 15: Distribution of Information Regarding Interactions with Non-Local Law Enforcement
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1226,7 +1226,7 @@ e. Upon any request by non-local law enforcement for access to a student or a st
 
 
 Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1257,7 +1257,7 @@ d. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 17: Distribution of Information Regarding Summer School and Meals
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1294,7 +1294,7 @@ c. No later than June 30 of each year, the department of transportation shall po
 
 
 Chapter 18: Bullying, Harassment, Intimidation and Discrimination
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1397,7 +1397,7 @@ The department shall distribute to each school for distribution to every student
 
 
 Chapter 19: Reports on Discipline and Certain Emergency Transports of Students
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1496,7 +1496,7 @@ b. The chancellor shall submit to the council and post to the department's websi
 
 
 Chapter 20: Reporting on Students in Temporary Housing
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1547,7 +1547,7 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 21: Posting of Information Regarding the Process Used in Determining Identified Seat Need
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1618,7 +1618,7 @@ g. Nothing in this section shall be construed to affect the authority or materia
 
 
 Chapter 22: Posting of Subdistrict Maps
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1635,7 +1635,7 @@ b. The department shall post conspicuously on its website a map indicating the b
 
 
 Chapter 23: PTA and PA Reporting
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1660,7 +1660,7 @@ c. All information required to be reported by this section shall be aggregated c
 
 
 Chapter 24: Distribution of Information Regarding Civil Service Examinations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1691,7 +1691,7 @@ b. No later than November 1, 2019, and annually thereafter no later than Novembe
 
 
 Chapter 25: Reporting on Spending Allocations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1718,7 +1718,7 @@ c. The information contained in the report required by this section shall be in 
 
 
 Chapter 26: Office of Pupil Transportation Reports
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1901,7 +1901,7 @@ b. Such materials shall be made available on the department’s website in Engli
 
 
 Chapter 27: After School Athletic Funding
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1952,7 +1952,7 @@ Editor's note: Section 2 of L.L. 2019/120 provides: "This local law takes effect
 
 
 Chapter 28: School Diversity Advisory Group
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

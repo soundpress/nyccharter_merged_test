@@ -2,7 +2,7 @@ Title 8: Civil Rights
 ======================================================================================================
 
 Chapter 1: Commission on Human Rights
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -851,7 +851,7 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
 
 
-*Editor's note: § 8-107.1 was amended and redesignated as subdivision 27 of § 8-107 by L.L. 2018/063, 1/19/2018, eff. 10/16/2018.
+* Editor's note: § 8-107.1 was amended and redesignated as subdivision 27 of § 8-107 by L.L. 2018/063, 1/19/2018, eff. 10/16/2018.
 
 
 
@@ -1311,7 +1311,7 @@ The commission on human rights, in conjunction with the department of buildings,
 
 
 Chapter 2: Certain Unlawful Real Estate Practices
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1488,7 +1488,7 @@ Any person, firm, partnership, association, or corporation convicted of violatin
 
 
 Chapter 3: Civil Rights Demonstration Protection
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1513,7 +1513,7 @@ Notwithstanding any provision of this code to the contrary, no person shall be d
 
 
 Chapter 4: Civil Action To Eliminate Unlawful Discriminatory Practices
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1566,7 +1566,7 @@ In any civil action commenced pursuant to section 8-402, the trier of fact may, 
 
 
 Chapter 5: Civil Action By Persons Aggrieved By Unlawful Discriminatory Practices
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1599,7 +1599,7 @@ h. 1. The term "person aggrieved" includes a person whose right created, granted
 
 
 Chapter 6: Discriminatory Harassment Or Violence
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1644,7 +1644,7 @@ Any civil penalties recovered by the corporation counsel pursuant to this chapte
 
 
 Chapter 7: Discriminatory Boycotts
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

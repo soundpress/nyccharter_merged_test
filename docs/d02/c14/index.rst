@@ -2,7 +2,7 @@ Title 28: Housing Preservation and Development
 ======================================================================================================
 
 Chapter 1: Rules and Regulations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -337,7 +337,7 @@ Each mortgagor or contractor performing rehabilitation work with proceeds of a m
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (Percentage of Maximum Permitted Income) 
       - 
@@ -450,7 +450,7 @@ Allowable architectural and legal fees and contractor's overhead and profit shal
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Construction Cost 
       - Fee as Percent of Constuction Cost 
@@ -463,7 +463,7 @@ Allowable architectural and legal fees and contractor's overhead and profit shal
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Less than $100,000 
       - 10.0 
@@ -536,7 +536,7 @@ The Agency may waive any of this chapter where the nature of the installation, a
 
 
 Chapter 2: Rules and Regulations Pursuant To Article Viii-a of the Private Housing Finance Law of New York and Title I of the Housing and Community Development Act of 1974
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -841,7 +841,7 @@ Chapter 2: Rules and Regulations Pursuant To Article Viii-a of the Private Housi
 
 
 Chapter 3: City-aided Limited Profit Housing Companies
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -938,7 +938,7 @@ Chapter 3: City-aided Limited Profit Housing Companies
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Type Apartment Desired (Example: 1 Bedroom)
       - 
@@ -1195,7 +1195,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Schedule of Surcharges 
       - 
@@ -1650,7 +1650,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - TO ALL TENANTS OF (Name of Development)NOTICE OF APPLICATION (Housing Company)FOR RENTAL INCREASE
 
@@ -1666,7 +1666,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - PLEASE TAKE NOTICE, that upon the annexed application of (Housing Company) the Department of Housing Preservation and Development of the City of New York will be requested to approve an increase in the maximum average monthly room rental in the housing development of (Housing Company) from (present maximum) to (requested maximum); andPLEASE TAKE NOTICE FURTHER that a public hearing will be held at the time and place designated by HPD in the attached cover letter from HPD, and at that time evidence will be introduced in support of said application by the undersigned. Interested parties may appear in person to comment or may provide written comments to HPD. YOU MAY APPEAR IN PERSON OR BY ATTORNEY (Place) ________________________________________Date (Date of Notice) ________________________________________Date (Date of Notice) Housing Company ________________________________________ (Attorneys)
 
@@ -1746,7 +1746,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size of Housing Development
       - Maximum Total Fee(s)
@@ -2171,7 +2171,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Charge to
@@ -2608,7 +2608,7 @@ Notwithstanding any other provisions of this chapter, HPD may authorize special 
 
 
 Chapter 4: Companies Formed Pursuant To the Redevelopment Companies Law of the State of New York [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2671,7 +2671,7 @@ Chapter 4: Companies Formed Pursuant To the Redevelopment Companies Law of the S
 
 
 Chapter 5: J51 Tax Exemption and Tax Abatement
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2864,7 +2864,7 @@ Targeted Area. "Targeted Area" means a geographic area in the city of New York i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Borough
       - Zip Code
@@ -2878,7 +2878,7 @@ Targeted Area. "Targeted Area" means a geographic area in the city of New York i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Bronx
       - 10458
@@ -3418,7 +3418,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Average Assessment per Dwelling Unit After Completion of Construction 
       - Percent of Increased Assessment Exempt
@@ -3493,7 +3493,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Project 
@@ -3508,7 +3508,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - 28 RCNY § 5-03(a)(1) 
@@ -3607,7 +3607,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of Rooms Per Dwelling Units 
       - Maximum Eligible CRC 
@@ -3776,7 +3776,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (a) General Construction.
       - 
@@ -4067,7 +4067,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (b) Elevator.
       - 
@@ -4163,7 +4163,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (c) Plumbing.
       - 
@@ -4269,7 +4269,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (d) Heating.
       - 
@@ -4335,7 +4335,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (e) Electric.
       - 
@@ -4431,7 +4431,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (f) Moderate Rehabilitation Only.
       - 
@@ -4486,7 +4486,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Boiler/Burner Table(maximum allowance) 
       - 
@@ -4523,7 +4523,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Domestic Hot Water Table(maximum allowance) 
       - 
@@ -4544,7 +4544,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Oil Tank Table(maximum allowance) 
       - 
@@ -4565,7 +4565,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Asbestos Abatement Table(maximum allowance) 
       - 
@@ -4584,7 +4584,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (h) Abatement of Lead-Based Paint Hazards5
       - 
@@ -4811,7 +4811,7 @@ Maximum Allowance for All Buildings
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (a) General Construction.
       - 
@@ -5444,7 +5444,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Boiler/Burner Table(maximum allowance)
       - 
@@ -5481,7 +5481,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Rentals &amp; SGA Condo/Coops2
       - Output in MBH (thousand BTU per hour)
@@ -5519,7 +5519,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Domestic Hot Water Table(maximum allowance)
       - 
@@ -5548,7 +5548,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Oil Tank Table(maximum allowance)
       - 
@@ -5577,7 +5577,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Asbestos Abatement Table(maximum allowance)
       - 
@@ -5606,7 +5606,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (g) Abatement of Lead-Based Paint Hazards6
       - 
@@ -6121,7 +6121,7 @@ FOX HILLS: The area bounded by Vandervilt Avenue; the Upper New York Bay; the St
 
 
 Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Real Property Tax Law and §§ 11-245, 11-245.1 and 11.245.1-b* of the Administrative Code of the City of New York
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6462,7 +6462,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Total Expenses12 
       - =
@@ -6484,7 +6484,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Adjusted Monthly Rent Per Room × Room Count Per Dwelling Unit 
       - = 
@@ -6650,7 +6650,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - TEN YEAR EXEMPTION 
       - 
@@ -6687,7 +6687,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - FIFTEEN YEAR EXEMPTION 
       - 
@@ -6714,7 +6714,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  TWENTY YEAR EXEMPTION 
       - 
@@ -6741,7 +6741,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - TWENTY-FIVE YEAR EXEMPTION 
       - 
@@ -6790,7 +6790,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Paragraph
       - Ratio
@@ -6881,7 +6881,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year After Expiration of Lower Income Housing Plan 
       - Maximum % of Units that can be at Market 
@@ -6894,7 +6894,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - One
       - 0% 
@@ -6985,7 +6985,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Bedroom Size 
       - Minimum Number of People 
@@ -7014,7 +7014,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of Bedrooms
       - Imputed Family Size
@@ -7322,7 +7322,7 @@ Except as otherwise specifically provided therein, the amendments to this chapte
 **APPENDIX A  ANNUAL SCHEDULE OF REASONABLE COSTS**
 
 Chapter 7: Partial Tax Exemption For Private Dwellings Pursuant To § 421-b of the Real Property Tax Law
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7395,7 +7395,7 @@ Reconstruction. "Reconstruction" means reconstruction, alteration or improvement
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year 
       - Percentage of Exemption 
@@ -7472,7 +7472,7 @@ Reconstruction. "Reconstruction" means reconstruction, alteration or improvement
 
 
 Chapter 8: Tax Lien Sales and In Rem Foreclosure Affecting Distressed Properties and Certain Other Properties
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7695,7 +7695,7 @@ Third Party Transfer Process. "Third Party Transfer Process" shall mean the proc
 
 
 Chapter 9: Removal of Violations Issued Pursuant To the Housing Maintenance Code
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7734,7 +7734,7 @@ Each Dismissal Request must be accompanied by a certified check or money order, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Dwelling Classification
       - Fee 
@@ -7799,7 +7799,7 @@ Each Dismissal Request must be accompanied by a certified check or money order, 
 
 
 Chapter 10: Administration of Applications For Certifications of No Harassment
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8042,7 +8042,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the New York City Zoning Resol
 
 
 Chapter 11: [Lead-based Paint Abatement; Dwellings; Children]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8335,7 +8335,7 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Floors:
       - 10 micrograms of lead per square foot. 
@@ -8358,7 +8358,7 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Floors:
       - 5 micrograms of lead per square foot. 
@@ -8831,7 +8831,7 @@ COPIA DEL DUEÑO/COPIA DEL INQUILINO
 
 
 Chapter 12: Smoke Detecting and Carbon Monoxide Detecting Devices and Systems In Multiple Dwellings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8939,7 +8939,7 @@ A sample notice as required by 28 RCNY § 12-01(b) follows:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - NOTICEThe law requires the owner of the premises to provide and install one or more approved and operational smoke detectors in each apartment in this building and to periodically replace such devices upon the expiration of their useful life in accordance with Article 312 of Chapter 3 of Title 28 of the New York City Administrative Code. The tenant of each apartment is responsible for the maintenance and repair of the detectors installed in the apartment and for replacing any or all detectors which are stolen, removed, missing or become inoperable during the occupancy of the apartment with a device meeting the requirements of Article 312 of Chapter 3 of Title 28 of the Administrative Code, unless a detector becomes inoperable within one year of being installed due to a manufacturing defect. The tenant of each apartment in this building in which a battery-operated smoke detector is provided and installed shall pay the owner a maximum of twenty-five dollars or a maximum of fifty dollars where a combined smoke and carbon monoxide detecting device is installed for the cost of providing and installing each detector. The tenant has one (1) year from the date of installation to make such payment to the owner.
 
@@ -9126,7 +9126,7 @@ A sample form for providing notice to occupants pursuant to 28 RCNY § 12-06 fol
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - NOTICEThe law requires the owner of the premises to provide a carbon monoxide alarm in each apartment in this building. The carbon monoxide alarm must be placed within 15 feet of the primary entrance to each sleeping room, must be equipped with an end of life alarm, and must be periodically replaced by the owner as necessary when the suggested useful life of the alarm expires. Tenants are responsible for the maintenance and repair of the alarms installed in the apartment and for replacing any or all alarms that are stolen, removed, missing, or become inoperable during the occupancy of the apartment, unless an alarm becomes inoperable within one year of being installed due to a manufacturing defect. The occupant of each apartment in which a carbon monoxide alarm is provided and installed must pay the owner $25.00 per alarm, or a maximum of $50.00 per device where a combined smoke and carbon monoxide detecting device is installed. This fee covers the cost of the work for the initial installation and each periodic replacement. The occupant has one year from the date of installation to pay the owner.
 
@@ -9187,7 +9187,7 @@ A sample notice, as required by subdivisions (a) and (b) of 28 RCNY § 12-11 fol
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - NOTICEThe law requires the owner of the premises to advise tenants that when they suspect that a gas leak has occurred, they should take the following actions:1. Quickly open nearby doors and windows and then leave the building immediately; do not attempt to locate the leak. Do not turn on or off any electrical appliances, do not smoke or light matches or lighters, and do not use a house-phone or cell-phone within the building;2. After leaving the building, from a safe distance away from the building, call 911 immediately to report the suspected gas leak;3. After calling 911, call the gas service provider for this building as follows:___________________Provider___________________Number
 
@@ -9216,7 +9216,7 @@ Notices for Suspected Gas Leaks, Smoke Detecting Devices, and Carbon Monoxide Al
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - NOTICEThe law requires the owner of the premises to notify tenants regarding the following:Suspected Gas Leak Procedure: When a tenant suspects that a gas leak has occurred, the tenant should take the following actions:1. Quickly open nearby doors and windows and then leave the building immediately; do not attempt to locate the leak. Do not turn on or off any electrical appliances, do not smoke or light matches or lighters, and do not use a house-phone or cell-phone within the building;2. After leaving the building, from a safe distance away from the building, call 911 immediately to report the suspected gas leak;3. After calling 911, call the gas service provider for this building as follows:___________________Provider___________________NumberSmoke Detectors: The law requires the owner of the premises to provide and install one or more approved and operational smoke detectors in each apartment and to periodically replace such devices upon the expiration of their useful life in accordance with Article 312 of Chapter 3 of Title 28 of the New York City Administrative Code. The tenant of each apartment is responsible for the maintenance and repair of the detectors installed in the apartment and for replacing any or all detectors which are stolen, removed, missing or become inoperable during the occupancy of the apartment with a device meeting the requirements of Article 312 of Chapter 3 of Title 28 of the Administrative Code, unless a detector becomes inoperable within one year of being installed due to a manufacturing defect. The tenant of each apartment in this building in which a battery-operated smoke detector is provided and installed shall pay the owner a maximum of twenty-five dollars or a maximum of fifty dollars where a combined smoke and carbon monoxide detecting device is installed for the cost of providing and installing each detector. The tenant has one (1) year from the date of installation to make such payment to the owner.Carbon Monoxide Detectors: The law requires the owner of the premises to provide a carbon monoxide alarm in each apartment in this building. The carbon monoxide alarm must be placed within 15 feet of the primary entrance to each sleeping room, must be equipped with an end of life alarm, and must be periodically replaced by the owner as necessary when the suggested useful life of the alarm expires. Tenants are responsible for the maintenance and repair of the alarms installed in the apartment and for replacing any or all alarms that are stolen, removed, missing, or become inoperable during the occupancy of the apartment, unless an alarm becomes inoperable within one year of being installed due to a manufacturing defect. The occupant of each apartment in which a carbon monoxide alarm is provided and installed must pay the owner $25.00 per alarm, or a maximum of $50.00 per device where a combined smoke and carbon monoxide detecting device is installed. This fee covers the cost of the work for the initial installation and each periodic replacement. The occupant has one year from the date of installation to pay the owner.
 
@@ -9232,7 +9232,7 @@ Notices for Suspected Gas Leaks, Smoke Detecting Devices, and Carbon Monoxide Al
 
 
 Chapter 13: Stays of Legal Action Regarding Violations of the Multiple Dwelling Law and the Housing Maintenance Code
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9419,7 +9419,7 @@ In the event that any section or portion of this chapter shall be held invalid o
 
 
 Chapter 14: Rent Setting and Increases To Tenants In Division of Alternative Management Program Building
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9532,7 +9532,7 @@ Notwithstanding anything to the contrary contained in this chapter, and subject 
 
 
 Chapter 15: Self-inspection of Central Heating Plants
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9627,7 +9627,7 @@ Upon the filing of a certified report of an inspection of a central heating plan
 
 
 Chapter 16: Access To Boiler Rooms In Multiple Dwellings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9668,7 +9668,7 @@ The notices in 28 RCNY § 16-01 above:
 
 
 Chapter 17: Rules Pertaining to Objections to Charges Enforced as Tax Liens Pursuant to §§ 27-2144, 27-2153(q), 27-2091, 27-2115(f)(8), 27-2115(k), 28-215.1.1 and 28-216.11 of the Administrative Code
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9755,7 +9755,7 @@ Any charge without specific objections from an owner shall be considered undispu
 
 
 Chapter 18: Relocation Payments and Services
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9958,7 +9958,7 @@ Table a – Relocation Allowance Payment for Personal Property
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of bedrooms
       - Allowance Payment
@@ -10296,7 +10296,7 @@ Table a – Relocation Allowance Payment for Personal Property
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of rooms vacated
       - Amount
@@ -10345,7 +10345,7 @@ Table a – Relocation Allowance Payment for Personal Property
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of Persons Relocating
       - Amount of Payments 
@@ -10358,7 +10358,7 @@ Table a – Relocation Allowance Payment for Personal Property
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 1
       - $152.00 
@@ -10653,7 +10653,7 @@ The above schedule shall be revised without further amendment to these regulatio
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - No. of Rooms
       - Amount / No. of Rooms
@@ -10747,7 +10747,7 @@ The above schedule shall be revised without further amendment to these regulatio
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - No. Bedrooms
       - Average Sales Price
@@ -10836,7 +10836,7 @@ The above schedule shall be revised without further amendment to these regulatio
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  No. of Bedrooms
       - Average Contract Monthly Rental 
@@ -10925,7 +10925,7 @@ Replacement housing payment under the schedule method is computed by determining
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - No. of Rooms 
       - Tenant Found Apts. 
@@ -10975,7 +10975,7 @@ The above bonus or relocation allowance payments are subject to the following li
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - No. of Rooms
       - Payment
@@ -11040,7 +11040,7 @@ Finders fee for furnished room in a rooming house – $50 per room.
 
 
 Chapter 19: Unauthorized Occupant Policy For the Division of Property Management [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11113,7 +11113,7 @@ Chapter 19: Unauthorized Occupant Policy For the Division of Property Management
 
 
 Chapter 20: Rules Concerning Article 7-a of the Real Property Actions and Proceedings Law
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11174,7 +11174,7 @@ These rules apply to any building for which (i) an administrator is appointed pu
 
 
 Chapter 21: Division of Alternative Management Programs
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11325,7 +11325,7 @@ Tenant. "Tenant" shall mean an authorized residential tenant of record occupying
 
 
 Chapter 22: Disposition of Residential Property Developed or Rehabilitated By A City Loan
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11420,7 +11420,7 @@ HPD may select a Permanent Owner for a Building by any appropriate method, inclu
 
 
 Chapter 24: Successor Tenants In City Owned Buildings Under the Supervision of the Department of Housing Preservation and Development
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11589,7 +11589,7 @@ If an application is rejected, the applicant may appeal such determination withi
 
 
 Chapter 25: Multiple Dwellings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -12701,7 +12701,7 @@ No. 26 U.S. gauge stamped metal over existing plaster when erected without damag
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Length of Balcony 
       - Weight of Channels 
@@ -12735,7 +12735,7 @@ The bracket braces shall be angle iron not less than two and one-half inches by 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Masonry Span 
       - Brackets 
@@ -12906,7 +12906,7 @@ The Department of Housing Preservation and Development has promulgated the follo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Order No.
       - Description 
@@ -12920,7 +12920,7 @@ The Department of Housing Preservation and Development has promulgated the follo
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 51 
       - Discontinue the storage of combustible materials
@@ -13346,7 +13346,7 @@ This department will require that any part of a wall or ceiling required to be r
 
 
 Chapter 26: Commercial Rent Restructuring
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -13543,7 +13543,7 @@ The determination by the Appeals Committee of any objections by a tenant to a re
 
 
 Chapter 27: Tripartite General Orders
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -13575,7 +13575,7 @@ Table IMinimum Tensile Energy Absorption – Extensible
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Dry
@@ -13599,7 +13599,7 @@ Table IIMinimum Tensile Breaking Strengths – Non-Extensible
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Dry
@@ -13828,7 +13828,7 @@ This order may be amended or repealed only upon joint order of the Department of
 
 
 Chapter 28: Tax Syndication Sharing Program Rules
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -14293,7 +14293,7 @@ Chapter 28: Tax Syndication Sharing Program Rules
 
 
 Chapter 29: Sip Occupied Sales Program [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -14376,7 +14376,7 @@ Chapter 29: Sip Occupied Sales Program [Repealed]
 
 
 Chapter 30: Neighborhood Redevelopment Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -14655,7 +14655,7 @@ HPD may select a Sponsor for a Project by any method which it determines will be
 
 
 Chapter 31: Tax Exemptions Under Section 420-c of the Real Property Tax Law
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -15040,7 +15040,7 @@ Tax exemption is not available for portions of Real Property not used for Housin
 
 
 Chapter 32: Tax Exemption and Tax Abatement Under Section 421-g of the Real Property Tax Law
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -15237,7 +15237,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax Year Following Date of Issuance of Certificate of Eligibility
       - Landmarked Eligible Multiple Dwellings
@@ -15361,7 +15361,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 
 Chapter 33: Housing and Urban Renewal Projects and Programs
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -15938,7 +15938,7 @@ Chapter 33: Housing and Urban Renewal Projects and Programs
 
 
 Chapter 34: Tenant Interim Lease Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -16235,7 +16235,7 @@ HPD may remove a Building from the program and terminate the Tenant Interim Leas
 
 
 Chapter 35: Neighborhood Entrepreneurs Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -16522,7 +16522,7 @@ Under satisfactory completion of the Rehabilitation, title for the Building shal
 
 
 Chapter 36: Alternative Enforcement Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -16675,7 +16675,7 @@ Editor's note: the bracketed title of this section was added by the codifier for
 
 
 Chapter 37: Fees For Administration of Loan Programs and Certain Other Municipality-Aided Projects
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -16778,7 +16778,7 @@ The amount of each fee authorized under this chapter shall be as follows:
 
 
 Chapter 38: Campaign Finance Act Implementation
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -16907,7 +16907,7 @@ Editor's note: the bracketed title of this 28 RCNY § 38-03 was added by the cod
 
 
 Chapter 39: Revocation of Tax Benefits
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17068,7 +17068,7 @@ HPD shall deliver all Initial Notices, Pre-Hearing Notices, Hearing Notices, and
 
 
 Chapter 40: [Electronic Submission of Certifications of Correction of Housing Maintenance Code Violations]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17107,7 +17107,7 @@ For purposes of this chapter:
 
 
 Chapter 41: Inclusionary Housing
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17670,7 +17670,7 @@ Wherever the Zoning Resolution states that HPD's approval is required, such appr
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Fee Tier
       - Community District
@@ -17717,7 +17717,7 @@ For New Construction Affordable Housing, Assisted Affordable Units shall not gen
 
 
 Chapter 42: Greenthumb Gardens
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17900,7 +17900,7 @@ Except as provided in 28 RCNY § 42-05, all Lots will be used as Gardens. Lots a
 
 
 Chapter 43: [Notification By Mortgagee Commencing An Action To Recover Residential Real Property]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18007,7 +18007,7 @@ The term "mortgagee" as used in these rules has the meaning set forth in section
 
 
 Chapter 44: Orders By the Department For Repair of Underlying Conditions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18108,7 +18108,7 @@ As used in this chapter, the following terms have the following meaning:
 
 
 Chapter 45: Temporary Posting of Emergency Information
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18171,7 +18171,7 @@ ADDITIONAL INFORMATION (Owners may add any additional information here)
 
 
 Chapter 46: [Housing Information Guide for Tenants and Owners]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18202,7 +18202,7 @@ El gua contiene informacion sobre los siguientes temas:
 
 
 Chapter 47: Rules Pertaining to Recurring Violations and Complaint-Based Inspections
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18241,7 +18241,7 @@ An owner may object, pursuant to Administrative Code § 27-2129, to the impositi
 
 
 Chapter 48: Elevator Violation Referrals
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18282,7 +18282,7 @@ The Department may take such actions as it determines are necessary to address t
 
 
 Chapter 49: Eligibility Requirements Pursuant to Real Property Tax Law Section 421-a(17)
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18397,7 +18397,7 @@ No Twenty Year Benefit Property or Twenty-five Year Benefit Property that is ope
 
 
 Chapter 50: Building Service Employees Prevailing Wage Requirements and Construction Workers Minimum Average Hourly Wage Requirements in Certain Buildings Receiving Benefits Pursuant to Real Property Tax Law § 421-a
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18584,7 +18584,7 @@ e. A contractor or subcontractor who submits an inaccurate Contractor Certified 
 
 
 Chapter 51: Affordable New York Housing Program Rules and Eligibility Requirements Pursuant to Real Property Tax Law § 421-a(16)
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18783,7 +18783,7 @@ c. The Agency may waive the rule regarding the deadline by which to file a Notic
 
 
 Chapter 52: Speculation Watch List
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18898,7 +18898,7 @@ A Listed Building shall be removed from the List if, subsequent to the Qualified
 
 
 Chapter 53: Pilot Program Buildings Certifications of No Harassment
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -19323,7 +19323,7 @@ The criteria used to evaluate prospective Pilot Program Buildings for distress s
 
 
 Chapter 54: [Indoor Allergen Hazards]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -19494,7 +19494,7 @@ Firmado:Nombre en letra de molde:
 
 
 Chapter 55: [Stove Knob Covers]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

@@ -2,7 +2,7 @@ Title 50: Community Assistance Unit
 ======================================================================================================
 
 Chapter 2: Sale of Alcoholic Beverages At Events Authorized By A Street Activity Permit
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -35,7 +35,7 @@ This prohibition shall not apply to entities or persons licensed by the New York
 
 
 Chapter 1: Application, Fees and Charges For Street Activity Permits
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -356,7 +356,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Event Type
       - Fee
@@ -370,7 +370,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Block Party
       - Processing fee only

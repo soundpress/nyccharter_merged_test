@@ -2,7 +2,7 @@ Title 56: Department of Parks and Recreation
 ======================================================================================================
 
 Chapter 1: Use of Parks
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -527,7 +527,7 @@ The Commissioner from time to time shall establish fees for use by the public of
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section/Rule
       - Description
@@ -542,7 +542,7 @@ The Commissioner from time to time shall establish fees for use by the public of
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 56 RCNY § 1-03(a)(3)
       - Unauthorized presence in park when closed to public
@@ -981,7 +981,7 @@ If any of these Rules, or application thereof to any person or circumstances, is
 
 
 Chapter 2: Permits and Fee Schedules
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1337,7 +1337,7 @@ TENNIS PERMITS &amp; FEES
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Seasonal Adult Tennis Permit (18 to 61 years of age)
       - $100.00
@@ -1370,7 +1370,7 @@ ADDITIONAL RECREATIONAL PERMITS
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Lawn Bowling Permit – Annual
       - $30.00
@@ -1399,7 +1399,7 @@ FIELDS AND PLAYING SURFACES
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Field Lights(when used by groups 18 years of age &amp; over)
       - $25.00 per hour
@@ -1424,7 +1424,7 @@ SUMMER DAY CAMP
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Regular Day Session (9:00 A.M. to 5:00 P.M.)Ages 6 - 13
       - $500.00 per child
@@ -1445,7 +1445,7 @@ USE OF BOARDWALK SPACE BY RESTAURANTS
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Self-serve Restaurants
       - $55.00 per linear foot
@@ -1466,7 +1466,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Bid document fewer than 100 pages
       - $25.00
@@ -1539,7 +1539,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Concession Fee Schedule
       -  
@@ -1891,7 +1891,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Season
       - Spring and Summer Season
@@ -1914,7 +1914,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Season
       - Spring and Summer Season
@@ -2083,7 +2083,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Child Athletic Complex Membership Fee
       - Young Adult Athletic Complex Membership Fee
@@ -2110,7 +2110,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Child Track &amp; Field Practice Fee
       - Young Adult Track &amp; Field Practice Fee
@@ -2137,7 +2137,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Track &amp; Field Session Fee
     * - $1,350.00 per two-hour Track &amp; Field Session
@@ -2152,7 +2152,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Fixed-Rate Charges*
       -  
@@ -2242,7 +2242,7 @@ This membership does not include session fees. Membership includes, but is not l
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Type of Recreation Center
       - Child Membership Fee
@@ -2281,7 +2281,7 @@ This membership does not include session fees. Membership includes, but is not l
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Type of Recreation Center
       - Session Fee(Maximum)
@@ -2348,7 +2348,7 @@ This membership does not include session fees. Membership includes, but is not l
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Department Groups
@@ -2470,7 +2470,7 @@ The Department will place automated external defibrillators in the following loc
 
 
 Chapter 3: Rules Governing the West 79th Street Boat Basin, the Sheepshead Bay Piers and the World's Fair Marina
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3005,7 +3005,7 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Seasonal Dockage
       - Summer(May 1 to October 31)
@@ -3084,7 +3084,7 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Summer Dockage
       - 20 feet or less21 to 26 feet27 to 35 feet36 to 45 feet46 to 65 feet66 feet or greater
@@ -3147,7 +3147,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Labor Rate
       -  
@@ -3211,7 +3211,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Yearly Dockage
       -  
@@ -3238,7 +3238,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Summer Dockage
       - May 1 to October 31
@@ -3312,7 +3312,7 @@ Special events and filming at the marina, piers, and boat basin must be pre-appr
 
 
 Chapter 4: Rules Governing Mooring Fields Under the Jurisdiction of the Department
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3613,7 +3613,7 @@ In addition to any penalties provided for in this chapter, violations of these r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - $30/day 
       - $180/week 
@@ -3629,7 +3629,7 @@ In addition to any penalties provided for in this chapter, violations of these r
 
 
 Chapter 5: Rules Governing Tree Replacement
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3746,7 +3746,7 @@ If a person or entity is required under Zoning Resolution Article 2, Chapter 6, 
 
 
 Chapter 6: Greenthumb Gardens
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

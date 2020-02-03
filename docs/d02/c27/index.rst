@@ -2,7 +2,7 @@ Title 44: Comptroller
 ======================================================================================================
 
 Chapter 1: Bond Transfers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -69,7 +69,7 @@ These Rules and Regulations shall be effective immmediately; provided, however, 
 
 
 Chapter 2: Comptroller's Prevailing Wage Law Regulations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -370,7 +370,7 @@ For a full description of violations, refer back to text of section of rule indi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section of Rule
       - Violation Type
@@ -386,7 +386,7 @@ For a full description of violations, refer back to text of section of rule indi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 44 RCNY § 2-07(a)(2)
       - First Construction Poster violationClass 1
@@ -579,7 +579,7 @@ For a full description of violations, refer back to text of section of rule indi
 
 
 Chapter 3: Comptroller’s Living Wage and Minimum Average Hourly Wage Law Regulations.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -752,7 +752,7 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 
 Chapter 4: Hospital Audits
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -929,7 +929,7 @@ Upon determination that overpayments have been made, the BFA shall transmit a "W
 
 
 Chapter 5: Rules For Petitioning
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

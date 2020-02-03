@@ -1,7 +1,7 @@
 Chapter 10: Budget Process
 ======================================================================================================
 Section 225.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 225. Budgetary responsibilities of the mayor, the director of management and budget and the comptroller.*
@@ -17,7 +17,7 @@ c. The comptroller shall produce timely analyses of the preliminary and executiv
 
 
 Section 225-a.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 225-a. Citywide participatory budgeting.*
@@ -31,7 +31,7 @@ The mayor shall, consistent with this charter and other applicable law, establis
 
 
 Section 226.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 226. Fiscal year.*
@@ -43,7 +43,7 @@ The fiscal year of the city shall commence on the first day of July in each year
 
 
 Section 227.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 227. Spending pursuant to appropriations.*
@@ -65,7 +65,7 @@ b. The head of each agency of the city, and each entity the majority of the memb
 
 
 Section 228.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 228. Draft ten-year capital strategy.*
@@ -77,7 +77,7 @@ Not later than the first day of November in each even-numbered year, the directo
 
 
 Section 229.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 229. Revenue reports of the comptroller and mayor.*
@@ -91,7 +91,7 @@ b. Not later than the fifteenth day of November, the mayor shall issue a report 
 
 
 Section 230.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 230. Community board budget priorities.*
@@ -107,7 +107,7 @@ c. Copies of each statement of budget priorities shall be provided expeditiously
 
 
 Section 231.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 231. Departmental estimates.*
@@ -121,7 +121,7 @@ b. In the preparation of such departmental estimates, the head of each agency th
 
 
 Section 232.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 232. Report of the comptroller on capital debt and obligations.*
@@ -133,7 +133,7 @@ Not later than the first day of December, the comptroller shall submit to the ma
 
 
 Section 233.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 233. Report of the comptroller on the state of the city's finances.*
@@ -145,7 +145,7 @@ Not later than the fifteenth day of December, the comptroller shall report to th
 
 
 Section 234.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 234. City planning commission hearing and statement on the draft ten-year capital strategy.*
@@ -157,7 +157,7 @@ Not later than the sixteenth day of January in each odd numbered year, the city 
 
 
 Section 235.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 235. Preliminary certificate of the mayor on capital debt and obligations.*
@@ -169,7 +169,7 @@ No later than the sixteenth day of January, the mayor shall submit to the counci
 
 
 Section 236.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 236. Submission of the preliminary budget.*
@@ -183,7 +183,7 @@ Not later than the sixteenth day of January, the mayor shall submit to the counc
 
 
 Section 237.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 237. Report of independent budget office on revenues and expenditures.*
@@ -195,7 +195,7 @@ On or before the first day of February, the director of the independent budget o
 
 
 Section 238.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 238. Community board review of preliminary budget.*
@@ -207,7 +207,7 @@ Not later than the fifteenth day of February, each community board shall submit 
 
 
 Section 239.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 239. Estimate of assessed valuation, and statement of taxes due and uncollected by the commissioner of finance.*
@@ -223,7 +223,7 @@ b. a certified statement showing as of a specified date the amount of all real p
 
 
 Section 240.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 240. Tax Benefit Report.*
@@ -253,7 +253,7 @@ Not later than the fifteenth day of February the mayor shall submit to the counc
 
 
 Section 241.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 241. Borough board preliminary budget hearings.*
@@ -265,7 +265,7 @@ Not later than the twenty-fifth day of February each borough board shall submit 
 
 
 Section 242.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 242. Statement of debt service by the comptroller.*
@@ -277,7 +277,7 @@ Not later than the first day of March, the comptroller shall submit to the mayor
 
 
 Section 243.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 243. The operating budget of the council.*
@@ -289,7 +289,7 @@ Not later than the tenth day of March, the council shall approve and submit to t
 
 
 Section 244.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 244. Preparation of the executive budget.*
@@ -301,7 +301,7 @@ In preparing the executive budget to be submitted in accordance with section two
 
 
 Section 245.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 245. Borough president recommendations to the mayor.*
@@ -315,7 +315,7 @@ b. Each borough president shall propose such modifications to the preliminary bu
 
 
 Section 246.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 246. Report of independent budget office on preliminary budget.*
@@ -327,7 +327,7 @@ On or before the fifteenth day of March, the director of the independent budget 
 
 
 Section 247.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 247. Council preliminary budget hearings and recommendations.*
@@ -341,7 +341,7 @@ b. Findings and recommendations of the council, or its committees, including rec
 
 
 Section 248.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 248. Ten-year capital strategy.*
@@ -353,7 +353,7 @@ Not later than the twenty-sixth day of April in each odd-numbered year, the mayo
 
 
 Section 249.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 249. Submission of the executive budget.*
@@ -373,7 +373,7 @@ d. Adjustments of capital budget borough allocations. If the executive capital b
 
 
 Section 250.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 250. The budget message.*
@@ -421,7 +421,7 @@ The budget message, which shall not be deemed a part of the budget, shall includ
 
 
 Section 251.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 251. Borough president recommendations on the executive budget.*
@@ -433,7 +433,7 @@ Not later than the sixth day of May, each borough president shall submit to the 
 
 
 Section 252.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 252. Report of independent budget office on executive budget.*
@@ -445,7 +445,7 @@ On or before the fifteenth day of May, the director of the independent budget of
 
 
 Section 253.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 253. Executive budget hearings.*
@@ -457,7 +457,7 @@ Between the sixth day of May and the twenty-fifth day of May, the council shall 
 
 
 Section 254.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 254. Amendment and adoption of the executive budget.*
@@ -477,7 +477,7 @@ e. If a capital budget and a capital program have not been adopted by the fifth 
 
 
 Section 255.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 255. Veto of the mayor.*
@@ -491,7 +491,7 @@ b. The council, by a two-thirds vote of all the council members, may override an
 
 
 Section 256.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 256. Appropriation, certification and publication.*
@@ -503,7 +503,7 @@ Not later than the day after the budget is finally adopted, the budget as finall
 
 
 Section 257.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 257. Comparison of adopted budget and ten-year capital strategy.*
@@ -515,7 +515,7 @@ Not later than thirty days after the budget is finally adopted, the mayor shall 
 
 
 Section 258.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 *Section 258. Standards for budget and financial plan.*

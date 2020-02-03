@@ -2,7 +2,7 @@ Title 34: Department of Transportation
 ======================================================================================================
 
 Chapter 1: Ferry Terminals and Vessels
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -307,7 +307,7 @@ Failure to comply with these rules or the terms or conditions of any permit issu
 
 
 Chapter 4: Traffic Rules and Regulations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2244,7 +2244,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street
       - Limits
@@ -2257,7 +2257,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Astoria Blvd. (North and South)
       - 29th St. to Northern Blvd.
@@ -2342,7 +2342,7 @@ Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street
       - Limits
@@ -2355,7 +2355,7 @@ Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Astoria Blvd. (North and South)
       - 8th Street to Northern Boulevard
@@ -2602,7 +2602,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street
       - Limits
@@ -2615,7 +2615,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Bayonne Bridge
       - Dr. Martin Luther King, Jr. Expressway to New Jersey State Line 
@@ -2646,7 +2646,7 @@ Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street 
       - Limits
@@ -2659,7 +2659,7 @@ Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Amboy Road
       - Richmond Road to Wards Point Avenue
@@ -2878,7 +2878,7 @@ Limited Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street
       - Limits
@@ -2891,7 +2891,7 @@ Limited Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Bradley Avenue
       - Brielle Avenue to South Gannon Avenue 
@@ -2928,7 +2928,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street 
       - Limits
@@ -2941,7 +2941,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Allen Street
       - Delancey Street to Houston Street 
@@ -3012,7 +3012,7 @@ Local Truck Routes
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street
       - Limits
@@ -3025,7 +3025,7 @@ Local Truck Routes
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Adam Clayton Powell, Jr., Blvd.
       - Central Park North to 155th Street 
@@ -3348,7 +3348,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street 
       - Limits
@@ -3361,7 +3361,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Atlantic Avenue
       - Columbia Street to Queens County Line 
@@ -3408,7 +3408,7 @@ Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  Street 
       - Limits
@@ -3421,7 +3421,7 @@ Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Adams Street
       - Sands Street to Front Street
@@ -3746,7 +3746,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street
       - Limits
@@ -3759,7 +3759,7 @@ Through Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Bruckner Boulevard
       - Willis Avenue Bridge to Bruckner Expressway Approach 
@@ -3798,7 +3798,7 @@ Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Street
       - Limits
@@ -3811,7 +3811,7 @@ Local Truck Route Network
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Allerton Avenue
       - White Plains Road to Williamsbridge Road 
@@ -4642,7 +4642,7 @@ Local Truck Route Network
 
 
 Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4715,7 +4715,7 @@ Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
 
 
 Chapter 6: General Provisions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4728,7 +4728,7 @@ New York City Department of Transportation adjudications regarding the fitness a
 
 
 Chapter 7: Revocable Consents
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5108,7 +5108,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Subway Entrance (open side)
       - 15'
@@ -5313,7 +5313,7 @@ Table A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Cross-Section Area
       - 
@@ -5436,7 +5436,7 @@ Table A
 
 
 Chapter 8: Employee Commute Options Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5491,7 +5491,7 @@ Table 1 Average Vehicle Occupancy and Target Average Passenger Occupancy by Subr
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Subregion Number 
       - Boro/County
@@ -5507,7 +5507,7 @@ Table 1 Average Vehicle Occupancy and Target Average Passenger Occupancy by Subr
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 33 
       - M 

@@ -2,7 +2,7 @@ Title 27: Construction and Maintenance
 ======================================================================================================
 
 Chapter 2: Housing Maintenance Code
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4480,7 +4480,7 @@ v. No later than July 31, 2012 and every two years thereafter the department sha
 
 
 Chapter 3: Electrical Code
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4978,7 +4978,7 @@ c. Fees. The fee for a permit for minor electrical work as described in subdivis
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  Sum of units
       - Fee 
@@ -5414,7 +5414,7 @@ Subsection 230.42(A)—Revise to read as follows:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Current Rating of Bus
       - Maximum Current Per Square Inch in Amperes 
@@ -6087,7 +6087,7 @@ Exception: In service equipment and switchboards supplied directly from separate
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Total Number of Branch Overcurrent Devices
       - Minimum Ampacity of Section Bus as a %of the Sum Total of Branch OvercurrentDevices*

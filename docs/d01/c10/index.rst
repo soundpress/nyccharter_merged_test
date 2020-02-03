@@ -2,7 +2,7 @@ Title 11: Taxation and Finance
 ======================================================================================================
 
 Chapter 1: Department of Finance
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -799,7 +799,7 @@ Not less than quarterly, the department of finance shall report to the speaker o
 
 
 Chapter 2: Real Property Assessment, Taxation and Charges
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2470,7 +2470,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2006
       - Percentage Assessed Valuation Exempt From Taxation
@@ -2501,7 +2501,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2007
       - Percentage Assessed Valuation Exempt From Taxation
@@ -2532,7 +2532,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2008
       - Percentage Assessed Valuation Exempt From Taxation
@@ -2563,7 +2563,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2009
       - Percentage Assessed Valuation Exempt From Taxation
@@ -2594,7 +2594,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2017
       - Percentage Assessed Valuation Exempt From Taxation
@@ -2665,7 +2665,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2006
       - Percentage Assessed Valuation Exempt From Taxation
@@ -2696,7 +2696,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2007
       - Percentage Assessed Valuation Exempt From Taxation
@@ -2727,7 +2727,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2008
       - Percentage Assessed Valuation Exempt From Taxation
@@ -2758,7 +2758,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2009
       - Percentage Assessed Valuation Exempt From Taxation
@@ -2789,7 +2789,7 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Annual Income as of July 1, 2017
       - Percentage Assessed Valuation Exempt From Taxation
@@ -3098,7 +3098,7 @@ CONSTRUCTION OR RECONSTRUCTION OF INDUSTRIAL STRUCTURES OR RECONSTRUCTION OF AS 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year following completion of work
       - Percentage of exemption
@@ -3151,7 +3151,7 @@ RECONSTRUCTION OF OTHER COMMERCIAL STRUCTURES OR CONSTRUCTION OF AS OF RIGHT OR 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  Year following completion of work
       - Percentage of exemption
@@ -3186,7 +3186,7 @@ CONSTRUCTION OF OTHER NEW COMMERCIAL STRUCTURES
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year following completion of work
       - Percentage of exemption
@@ -3407,7 +3407,7 @@ a. (1) A recipient who, following the effective date of a certificate of eligibi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following effective date of certificate of eligibility:
       - Amount of exemption:
@@ -3442,7 +3442,7 @@ a. (1) A recipient who, following the effective date of a certificate of eligibi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following effective date of certificate of eligibility:
       - Amount of exemption:
@@ -3477,7 +3477,7 @@ a. (1) A recipient who, following the effective date of a certificate of eligibi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following completion of industrial construction work:
       - Amount of abatement: 
@@ -3526,7 +3526,7 @@ b. (1) A recipient who, following the effective date of a certificate of eligibi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following effectiv edate of certificate of eligibility:
       - Amount of exemption:
@@ -3561,7 +3561,7 @@ b. (1) A recipient who, following the effective date of a certificate of eligibi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following effective date of certificate of eligibility:
       - Amount of exemption:
@@ -3596,7 +3596,7 @@ c. (1) A recipient who, following the effective date of a certificate of eligibi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following effective date of certificate of eligibility:
       - Amount of exemption:
@@ -3623,7 +3623,7 @@ c. (1) A recipient who, following the effective date of a certificate of eligibi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following effective date of certificate of eligibility:
       - Amount of exemption:
@@ -3650,7 +3650,7 @@ d. Except as provided in paragraphs (2) and (3) of subdivision d of section 11-2
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following effective date of certificate of eligibility:
       - Amount of tax payments to be deferred or paid:
@@ -3679,7 +3679,7 @@ e. A recipient who, following the effective date of a certificate of eligibility
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following effective date of certificate of eligibility:
       - Amount of exemption:
@@ -3706,7 +3706,7 @@ e.1. A recipient who, following the effective date of a certificate of eligibili
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year following effective date of certificate of eligibility:
       - Amount of exemption:
@@ -4139,7 +4139,7 @@ c. Industrial and commercial abatements.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period:
       - Amount of abatement:
@@ -4170,7 +4170,7 @@ c. Industrial and commercial abatements.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period:
       - Amount of abatement:
@@ -4229,7 +4229,7 @@ c. Industrial and commercial abatements.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period:
       - Amount of abatement:
@@ -4260,7 +4260,7 @@ c. Industrial and commercial abatements.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period:
       - Amount of abatement:
@@ -4311,7 +4311,7 @@ c. Industrial and commercial abatements.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period:
       - Amount of abatement:
@@ -4338,7 +4338,7 @@ c. Industrial and commercial abatements.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period:
       - Amount of abatement:
@@ -4371,7 +4371,7 @@ c. Industrial and commercial abatements.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period:
       - Amount of additional abatement:
@@ -4408,7 +4408,7 @@ c. Industrial and commercial abatements.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tax year during benefit period:
       - Amount of abatement:
@@ -4779,7 +4779,7 @@ f. The division shall have authority to audit the records maintained by each app
 
 
 Chapter 3: Tax Liens and Tax Sales
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5656,7 +5656,7 @@ d. No later than September first, two thousand sixteen, the task force shall sub
 
 
 Chapter 4: Tax Lien Foreclosure By Action In Rem
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6267,7 +6267,7 @@ b. The balance, if any, remaining after deduction of the amount specified in par
 
 
 Chapter 5: City Unincorporated Business Income Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7992,7 +7992,7 @@ All revenues resulting from the imposition of the taxes under this chapter shall
 
 
 Chapter 7: Commercial Rent Or Occupancy Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8075,7 +8075,7 @@ a. (1) For each tax year commencing on or after June first, nineteen hundred six
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - When the annual rent is:
       - But not more than: 
@@ -8358,7 +8358,7 @@ A tenant whose base rent for the tax year beginning June first, nineteen hundred
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  If the tenant's annualized base rent for such period is:
       - 
@@ -8393,7 +8393,7 @@ If the tenant's annualized base rent for such period is over fifty-nine thousand
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  If the tenant's base rent is:
       - 
@@ -8428,7 +8428,7 @@ If the tenant's base rent is over fifty-nine thousand nine hundred ninety-nine d
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  If the tenant's base rent is:
       - 
@@ -8463,7 +8463,7 @@ If the tenant's base rent is over one hundred thirty-nine thousand nine hundred 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  If the tenant's annualized base rent for such period is:
       - 
@@ -8498,7 +8498,7 @@ If the tenant's annualized base rent for such period is over one hundred thirty-
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  If the tenant's annualized base rent for such period is:
       - 
@@ -8909,7 +8909,7 @@ b. For purposes of the report required by subdivision a of this section, the bas
 
 
 Chapter 8: Tax On Commercial Motor Vehicles and Motor Vehicles For Transportation of Passengers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9454,7 +9454,7 @@ This chapter shall be construed and enforced in conformity with chapter one thou
 
 
 Chapter 9: Tax Upon Foreign and Alien Insurers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9677,7 +9677,7 @@ The tax provided to be paid by this chapter, and the pecuniary penalties and int
 
 
 Chapter 10: Occupancy Tax For Low Rent Housing and Slum Clearance
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9744,7 +9744,7 @@ a. To provide additional funds for the purpose of fulfilling any contract to mak
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - When the rental value is at least:
       - But not more than: 
@@ -9780,7 +9780,7 @@ b. Where the premises are occupied by vending machines which sell tangible perso
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - When the total value of the coins used in such vending machines is:
       - The amount of the tax shall be:
@@ -9805,7 +9805,7 @@ c. Where the premises are occupied by vending machines other than those which se
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - When the total value of the coins used in such vending machines is:
       - The amount of the tax shall be:
@@ -10016,7 +10016,7 @@ If any provision of this chapter shall be adjudged by any court of competent jur
 
 
 Chapter 11: Utility Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10517,7 +10517,7 @@ d. The commissioner of finance, or the commissioner of taxation and finance of t
 
 
 Chapter 12: Horse Race Admissions Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10810,7 +10810,7 @@ b. All revenues resulting from the imposition of the tax under this chapter at r
 
 
 Chapter 13: Cigarette Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10919,7 +10919,7 @@ a. In accordance with section 110 of the public housing law, an excise tax on th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Tobacco Product
       - Price floor (excluding OTP and sales taxes)
@@ -11311,7 +11311,7 @@ Section 11-1302 and the provisions of this chapter related thereto shall be cons
 
 
 Chapter 14: Tax On Transfer of Taxicab Licenses
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11646,7 +11646,7 @@ All revenues resulting from the imposition of the tax under this chapter shall b
 
 
 Chapter 16: Tax On Containers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11919,7 +11919,7 @@ This chapter shall be construed and enforced in conformity with chapter three hu
 
 
 Chapter 17: City Personal Income Tax On Residents
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11944,7 +11944,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -11970,7 +11970,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -11998,7 +11998,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12028,7 +12028,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12054,7 +12054,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12082,7 +12082,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12112,7 +12112,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12138,7 +12138,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12166,7 +12166,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12198,7 +12198,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12226,7 +12226,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12254,7 +12254,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12295,7 +12295,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12324,7 +12324,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12353,7 +12353,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12384,7 +12384,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12413,7 +12413,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12442,7 +12442,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12475,7 +12475,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12504,7 +12504,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12533,7 +12533,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax is: 
@@ -12608,7 +12608,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax surcharge is: 
@@ -12635,7 +12635,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax surcharge is: 
@@ -12664,7 +12664,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax surcharge is: 
@@ -12691,7 +12691,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax surcharge is: 
@@ -12722,7 +12722,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax surcharge is: 
@@ -12749,7 +12749,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the city taxable income is: 
       - The tax surcharge is: 
@@ -12900,7 +12900,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If household gross income is:
       - 
@@ -12928,7 +12928,7 @@ For taxable years beginning after two thousand twenty:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If household gross income is:
       - 
@@ -13001,7 +13001,7 @@ Editor's note: there are two divisions designated (c) in this section.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - For taxable years beginning: 
       - The credit shall be: 
@@ -13026,7 +13026,7 @@ Editor's note: there are two divisions designated (c) in this section.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - For taxable years beginning: 
       - The credit shall be: 
@@ -13476,7 +13476,7 @@ Editor's note: there are two divisions designated (c) in this section.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If city adjusted gross income is:
       - The amount allowable for each dependent is:
@@ -13581,7 +13581,7 @@ Editor's note: there are two divisions designated (c) in this section.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If new business investment held for:
       - The modification is equal to the following proportion of the gain includible in federal adjusted gross income:
@@ -15235,7 +15235,7 @@ This chapter shall be construed and enforced in conformity with article thirty o
 
 
 Chapter 19: Earnings Tax On Nonresidents
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -15325,7 +15325,7 @@ As used in this chapter, the following terms shall mean and include:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Total of wages and net earnings from self-employment
       - Exclusion allowable 
@@ -16182,7 +16182,7 @@ All taxes, penalties and interest imposed under this chapter which are paid to o
 
 
 Chapter 20: Sales, Excise and Related Taxes
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -16629,7 +16629,7 @@ This subchapter shall be construed and enforced in conformity with section four 
 
 
 Chapter 21: Real Property Transfer Tax
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17118,7 +17118,7 @@ Where the conveyance consists of a transfer of property made as a result of an o
 
 
 Chapter 22: Tax On Owners of Motor Vehicles
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17437,7 +17437,7 @@ All revenues resulting from the imposition of the tax under this chapter shall b
 
 
 Chapter 23: Surcharge On off-track Winnings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17470,7 +17470,7 @@ The revenues received from the surcharge imposed by this chapter, plus the break
 
 
 Chapter 23-A: Enhanced 911 Telephone Surcharge
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17585,7 +17585,7 @@ When used in this chapter the following terms shall mean:
 
 
 Chapter 23-B: Wireless Communications Service Surcharge
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17672,7 +17672,7 @@ This chapter shall be known and may be cited as the "wireless communications ser
 
 
 Chapter 23-C: Wireless Communications Surcharge
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -17707,7 +17707,7 @@ Chapter 23-C: Wireless Communications Surcharge
 
 
 Chapter 24: Tax On Retail Licensees of the State Liquor Authority
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18016,7 +18016,7 @@ This chapter shall be construed and enforced in conformity with article twenty-n
 
 
 Chapter 25: Tax On Occupancy of Hotel Rooms
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18067,7 +18067,7 @@ a. (1)    On and after July first, nineteen hundred seventy until and includi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the rent per day for the room is:
       - The tax is:
@@ -18092,7 +18092,7 @@ a. (1)    On and after July first, nineteen hundred seventy until and includi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If the rent per day for the room is:
       - The tax is:
@@ -18455,7 +18455,7 @@ Notwithstanding any provision of law to the contrary, with respect to the additi
 
 
 Chapter 26: Tax On Mortgages
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18522,7 +18522,7 @@ The tax imposed by this chapter shall be in addition to any taxes imposed by sec
 
 
 Chapter 27: Annual Vault Charge
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18905,7 +18905,7 @@ This chapter shall take effect July first, nineteen hundred sixty-two and shall 
 
 
 Chapter 28: Claims Against Fire Insurance Proceeds
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18972,7 +18972,7 @@ Chapter 28: Claims Against Fire Insurance Proceeds
 
 
 Chapter 29: Tax Expenditure Evaluation*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -19013,7 +19013,7 @@ Upon submission to the speaker of the council, the evaluator shall make each suc
 
 
 Chapter 30: New York City Sustainable Energy Loan Program*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -19144,7 +19144,7 @@ The mayor shall, in writing, designate one or more offices or agencies to implem
 
 
 Chapter 30: Ground Floor and Second Floor Commercial Premises Registry*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -19275,7 +19275,7 @@ h. Dataset. No later than six months after receiving owner submissions required 
 
 
 Chapter 40: Crimes and Other offenses: Seizures And Forfeitures
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

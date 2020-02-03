@@ -2,7 +2,7 @@ Title 51: City Clerk
 ======================================================================================================
 
 Chapter 1: Lobbying
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -681,7 +681,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Days a violation was not cured after the expiration of the cure period
       - Civil penalty per violation not cured within the cure period
@@ -694,7 +694,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 1 - 30
       - $1,000
@@ -901,7 +901,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
 
 Chapter 2: Commissioner of Deeds
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1180,7 +1180,7 @@ Forgery in the second degree is a Class D felony.
 
 
 Chapter 3: Marriages
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1337,7 +1337,7 @@ Pursuant to § 11-B of the Domestic Relations Law, the Office of the City Clerk 
 
 
 Chapter 4: Domestic Partner Registration
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

@@ -2,7 +2,7 @@ Title 68: Human Resources Administration
 ======================================================================================================
 
 Chapter 1: Granting of Licenses For Public Solicitation
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -111,7 +111,7 @@ Any violation of these regulations or of any ordinance or law may result in the 
 
 
 Chapter 2: Burial Claims
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -330,7 +330,7 @@ Notwithstanding any other provision of law or regulation to the contrary, where 
 
 
 Chapter 3: Employment Training Programs For Public Assistance Recipients
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -577,7 +577,7 @@ OES shall not approve the application for training related expenses and/or an ex
 
 
 Chapter 4: Distribution of Food and Administrative Funds To Emergency Food Providers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -664,7 +664,7 @@ The EFAP food budget will consist of two components: a food supplement and a mea
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - EFAP Food Supplement
       - +
@@ -684,7 +684,7 @@ Correspondingly each provider's food allocation may consist of two components: a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Food Supplement (Discretionary)
       - +
@@ -706,7 +706,7 @@ Correspondingly each provider's food allocation may consist of two components: a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Total EFAP Food Budget
       - -
@@ -726,7 +726,7 @@ Each provider will receive a meal budget per cycle based on its number of funded
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - EFAP Meal Budget
       - ÷
@@ -746,7 +746,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - # of Funded Meals for Provider
       - ×
@@ -766,7 +766,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - The Total # of Individuals Served in each Soup Kitchen for Twelve Month Period
       - =
@@ -782,7 +782,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - The Total # of Individuals Served in Each Food Pantry for Twelve Month Period
       - ×
@@ -802,7 +802,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Meal Category
       - Percent of Programs Within Category
@@ -816,7 +816,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 1
       - 10%
@@ -848,7 +848,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Meal Category
       - Meal Factor
@@ -871,7 +871,7 @@ One would determine the total number of funded meals for a provider serving 6,00
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 2,799 × 8 =
       - 22,392
@@ -924,7 +924,7 @@ The amount of food and administrative funds allocated to each provider may be ch
 
 
 Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptomatic HIV Illness Or With AIDS
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1023,7 +1023,7 @@ Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptom
 
 
 Chapter 6: IDNYC Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1138,7 +1138,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Document
       - Description
@@ -1227,7 +1227,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Document 
       - Description
@@ -1243,7 +1243,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - U.S. Passport or U.S. Passport Card 
       - U.S. passport or passport card. 
@@ -1331,7 +1331,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Document 
       - Description
@@ -1347,7 +1347,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Foreign Passport (Not Machine Readable)
       - Foreign Passport that is not machine readable.
@@ -1457,7 +1457,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Document 
       - Description
@@ -1473,7 +1473,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Educational Institution ID Card: middle, secondary, post-secondary schools, colleges and universities
       - Photo ID issued by an accredited U.S. educational institution, including New York City Department of Education and CUNY schools.
@@ -1607,7 +1607,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Document 
       - Description
@@ -1622,7 +1622,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Cable, Phone, or Utility Bill or Statement
       - Must be dated no more than 60 days prior to the date submitted and include home address of applicant. Includes account summary sheets and account statements.
@@ -1757,7 +1757,7 @@ The following documents are worth four points and establish identity and residen
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Document 
       - Description
@@ -1820,7 +1820,7 @@ An applicant is not required to provide photo identification if accompanied by a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Document 
       - Description
@@ -1865,7 +1865,7 @@ An applicant is not required to provide photo identification if accompanied by a
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Document
       - Description
@@ -2021,7 +2021,7 @@ An applicant is not required to provide photo identification if accompanied by a
 
 
 Chapter 7: LINC Programs
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2257,7 +2257,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Household Size
       - 1
@@ -2294,7 +2294,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Household Size
       - 1
@@ -2669,7 +2669,7 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Household Size
       - 1
@@ -2990,7 +2990,7 @@ HRA shall administer the LINC VI Rental Assistance Program, except that HRA shal
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Household Size
       - 1 - 2
@@ -3163,7 +3163,7 @@ HRA shall administer the LINC VI Rental Assistance Program, except that HRA shal
 
 
 Chapter 8: CITYFEPS Programs; SEPS Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3334,7 +3334,7 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Household Size
       - 1
@@ -3704,7 +3704,7 @@ HRA shall administer the Special Exit and Prevention Supplement Program, except 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Household Size
       - 1
@@ -3891,7 +3891,7 @@ HRA shall administer the Special Exit and Prevention Supplement Program, except 
 
 
 Chapter 9: HRA HOME TBRA Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4155,7 +4155,7 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Household Size
       - Unit Size
@@ -4480,7 +4480,7 @@ An applicant or program participant may request an agency review conference and/
 
 
 Chapter 10: City Fighting Homelessness and Eviction Prevention Supplement (CityFHEPS)
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4715,7 +4715,7 @@ HRA will administer the CityFHEPS Program and will make eligibility determinatio
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Maximum rents for apartments
       - 
@@ -5095,7 +5095,7 @@ The Commissioner shall transfer all households in a qualifying City rental assis
 
 
 Chapter 11: Pathway Home
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5212,7 +5212,7 @@ HRA shall administer the Pathway Home Program, except that HRA shall make initia
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Pathway Home Payments
       - 
@@ -5389,7 +5389,7 @@ HRA shall administer the Pathway Home Program, except that HRA shall make initia
 
 
 Chapter 12: Fair Fares NYC Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

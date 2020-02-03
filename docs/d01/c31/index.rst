@@ -2,7 +2,7 @@ Title 28: New York City Construction Codes
 ======================================================================================================
 
 Chapter 1: Administration
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1827,7 +1827,7 @@ Table 104.7.6.1
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - BRONX Elevations
       - To obtain equivalency: 
@@ -1851,7 +1851,7 @@ Table 104.7.6.2
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - BROOKLYN Elevations
       - To obtain equivalency: 
@@ -1875,7 +1875,7 @@ Table 104.7.6.3
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - MANHATTAN Elevations
       - To obtain equivalency: 
@@ -1899,7 +1899,7 @@ Table 104.7.6.4
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - QUEENS Elevations
       - To obtain equivalency: 
@@ -1923,7 +1923,7 @@ Table 104.7.6.5
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - STATEN ISLAND Elevations
       - To obtain equivalency: 
@@ -3591,7 +3591,7 @@ Table 28-112.2
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Permit Type
       - Filing Fee
@@ -3606,7 +3606,7 @@ Table 28-112.2
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - New Buildings
       - 
@@ -3975,7 +3975,7 @@ Table 28-112.7.1
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Equipment Type
       - Filing Fee
@@ -3990,7 +3990,7 @@ Table 28-112.7.1
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Prototype approval of one configuration of a mobile crane. One configuration shall be comprised of the crane with a main boom, one fixed jib and one set of counterweights.
       - $2,500 when testing has been monitored and certified by a competent individual or group, other than the manufacturer, acceptable to the commissioner;$4000 when, in lieu of moni- toring and certification of tests, the commissioner shall require design calculations for such items as the commissioner deems necessary to supplement the tests.
@@ -4089,7 +4089,7 @@ Table 28-112.7.2
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Report Type
       - Filing Fee
@@ -4138,7 +4138,7 @@ Table 28-112.7.3
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Inspection Type
       - Filing Fee
@@ -4191,7 +4191,7 @@ Table 28-112.7.4
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Equipment Inspection Type
       - Filing Fee
@@ -4232,7 +4232,7 @@ Table 28-112.8
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Service Type
       - Fee
@@ -4247,7 +4247,7 @@ Table 28-112.8
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Accelerated plan review.
       - As provided by department rules.
@@ -5835,7 +5835,7 @@ Editor's note: Article 120 has been added by L.L. 2019/106, 6/8/2019, eff. 3/8/2
 
 
 Chapter 2: Enforcement
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -8109,7 +8109,7 @@ Exceptions:
 
 
 Chapter 3: Maintenance of Buildings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9264,7 +9264,7 @@ The first energy efficiency reports for covered buildings in existence on the ef
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Last digit of taxblock number
       - 0 
@@ -11845,7 +11845,7 @@ Exception: Lighting that is required by this code or other applicable laws or ru
 
 
 Chapter 4: Licensing and Registration of Businesses, Trades And Occupations Engaged In Building Work
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -14674,7 +14674,7 @@ The commissioner shall accept an elevator mechanic's license issued to any perso
 
 
 Chapter 5: Miscellaneous Provisions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

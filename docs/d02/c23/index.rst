@@ -2,7 +2,7 @@ Title 40: Board of Correction
 ======================================================================================================
 
 Chapter 1: Correctional Facilities
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1417,7 +1417,7 @@ Provided, however, that, where the Department is permitted to consider an inmate
 
 
 Chapter 2: Mental Health Minimum Standards
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1840,7 +1840,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 Chapter 3: Health Care Minimum Standards
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3113,7 +3113,7 @@ The policies, procedures, criteria, plans, programs and forms required by the va
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Subdivision
       - Implementation
@@ -3244,7 +3244,7 @@ Dated: April 10, 1991
 
 
 Chapter 4: [Procedures For Consideration of Petitions For Rulemaking Submitted To the Board of Correction]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3317,7 +3317,7 @@ This rule shall govern the procedures by which any person or entity may petition
 
 
 Chapter 5: Elimination of Sexual Abuse and Sexual Harassment in Correctional Facilities
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

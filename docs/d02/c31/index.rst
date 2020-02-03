@@ -2,7 +2,7 @@ Title 48: Office of Administrative Trials and Hearings (OATH)
 ======================================================================================================
 
 Chapter 1: Rules of Practice Applicable To Cases at the OATH Trials Division
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -635,7 +635,7 @@ Post-trial motions must be made in writing, in conformity with the requirements 
 
 
 Chapter 2: Additional Rules of Practice Applicable To Particular Types of Cases at the OATH Trials Division
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -977,7 +977,7 @@ Notwithstanding 48 RCNY § 1-51, the recording of the trial or of other proceedi
 
 
 Chapter 3: Rules of Practice Applicable to Proceedings Brought Before the Environmental Control Board Pursuant to 
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1355,7 +1355,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section/Rule
       - Description
@@ -1370,7 +1370,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 751.4(a)
       - Unauthorized presence in park when closed to public
@@ -1755,7 +1755,7 @@ Unless otherwise indicated all citations are to the New York City Administrative
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section/Rule
       - Description
@@ -1770,7 +1770,7 @@ Unless otherwise indicated all citations are to the New York City Administrative
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Admin. Code § 23-402
       - Install/Operate/Maintain Public Pay Telephone without permit
@@ -1869,7 +1869,7 @@ The following citations are to the NYC Administrative Code. Pursuant to 48 RCNY 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section/Rule
       - Description
@@ -1922,7 +1922,7 @@ A repeat violation is a violation by the same respondent, at the same place of o
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section/Rule
       - Description
@@ -1937,7 +1937,7 @@ A repeat violation is a violation by the same respondent, at the same place of o
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Residential Premises
@@ -2292,7 +2292,7 @@ Worker Penalty: Where the Hearing Officer finds that the respondent is a worker 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Rules
       - Description
@@ -3001,7 +3001,7 @@ Exceptions:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section/Rule
       - Description
@@ -3017,7 +3017,7 @@ Exceptions:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Admin. Code § 16-116(a)
       - Removal of commercial waste
@@ -3879,7 +3879,7 @@ All Citations are to the NY State Vehicle and Traffic Law.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section/Rule
       - Description
@@ -3924,7 +3924,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section
       - Description
@@ -3939,7 +3939,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Stage I Drought Emergency
@@ -4282,7 +4282,7 @@ SMALL BUSINESS SERVICES PENALTY SCHEDULE
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section/Rule
       - Description
@@ -4307,7 +4307,7 @@ SMALL BUSINESS SERVICES PENALTY SCHEDULE
 
 
 Chapter 4: Fitness and Discipline Hearings For OATH Employees
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4320,7 +4320,7 @@ The chief administrative law judge or, upon his or her designation, an administr
 
 
 Chapter 5: Rules Applicable to Violations of Laws or Regulations Enforced by the Taxi and Limousine Commission
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4461,7 +4461,7 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 
 
 Chapter 6: OATH Hearings Division - Rules of Practice
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5705,7 +5705,7 @@ The administration of justice in our City depends on tribunals that adjudicate f
 
 
 Chapter 7: [Community Service Program]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5741,7 +5741,7 @@ As used in this chapter:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Citation in Summons
       - Description in Summons
@@ -5756,7 +5756,7 @@ As used in this chapter:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Admin. Code § 10-125
       - Public Consumption of Alcohol

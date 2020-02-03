@@ -2,7 +2,7 @@ Title 16: Department of Sanitation
 ======================================================================================================
 
 Chapter 1: Collection
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -263,7 +263,7 @@ Editor's note: the amendments to this 16 RCNY § 1-01 that were effective on 3/6
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Average Total Number of 20 Gallon Bags Generate Per Week, Including Designated Recyclable Materials 
       - Annual Collection and Disposal Fee 
@@ -906,7 +906,7 @@ For purposes of this section, the “floor area” of an establishment has the s
 
 
 Chapter 2: Use of Department Disposal Facilities
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1245,7 +1245,7 @@ In addition to 16 RCNY §§ 2-01, 2-02, 2-03, and 2-06, the following provisions
 
 
 Chapter 3: Lands, Land Under Water and Landfills
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1378,7 +1378,7 @@ For the purpose of these Rules and Regulations:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Land Contour Permit
       - NYC Department of Transportation,Bureau of Highway Operations
@@ -1401,7 +1401,7 @@ If the property is marginal land, land under water or designated wet lands, the 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Work Permit
       - NYC Department of Ports and Trade,Battery Maritime Building
@@ -1498,7 +1498,7 @@ A contractor shall not commence the requested landfill operation before the rece
 
 
 Chapter 4: Transfer Stations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1792,7 +1792,7 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Impacted Zones
       - Time of Day 
@@ -2017,7 +2017,7 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Impacted Zones
       - Time of Day 
@@ -2401,7 +2401,7 @@ Every person who owns, operates, maintains or otherwise controls a putrescible s
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Impacted Zones
       - Time of Day
@@ -2653,7 +2653,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Percentage of Existing, Lawfully Operating Transfer Stations in NYC
       - Community Districts
@@ -3212,7 +3212,7 @@ Every person who owns, operates, maintains or otherwise controls a recycling pro
 
 
 Chapter 5: Specifications For Trucks and Vehicles Conveying Rubbish Through the Streets and the Impoundment of Vehicles
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3585,7 +3585,7 @@ Class 6: Transportation of swill.
 
 
 Chapter 6: Vacant Lots
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3636,7 +3636,7 @@ Nothing contained herein shall be deemed to prevent the Commissioner from acting
 
 
 Chapter 7: Enforcement of Certain Matters Within the Jurisdiction of the Environmental Control Board
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3665,7 +3665,7 @@ Proof of such service shall be filed with the Environmental Control Board within
 
 
 Chapter 8: Transport, Storage and Disposal of Asbestos Waste
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3896,7 +3896,7 @@ If any portion of these Rules and Regulations are lawfully determined to be inva
 
 
 Chapter 9: Tripartite General Orders
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3928,7 +3928,7 @@ Table I Minimum Tensile Energy Absorption – Extensible
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Dry 
@@ -3952,7 +3952,7 @@ Table II Minimum Tensile Breaking Strengths – Non-Extensible
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Dry
@@ -4177,7 +4177,7 @@ This order may be amended or repealed only upon joint order of the Department of
 
 
 Chapter 10: Adjudications
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4210,7 +4210,7 @@ After a hearing has been conducted by OATH or the Commissioner's designee, the A
 
 
 Chapter 11: Generator Filing Requirements For New York State Department of Environmental Conservation Annual Or Additional Reports and Department of Sanitation Solid Waste Removal Plans Or Amended Plans
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4329,7 +4329,7 @@ The filing of any initial solid waste removal plan and solid waste removal plan 
 
 
 Chapter 12: Disposition of Forfeited Vehicles
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4538,7 +4538,7 @@ All notices required by these Rules shall be sent by certified, return receipt m
 
 
 Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equipment
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4583,7 +4583,7 @@ Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equ
 
 
 Chapter 14: Street Events
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4730,7 +4730,7 @@ At least one week prior to the street event, the sponsor or his or her represent
 
 
 Chapter 15: Residential Enforcement Routing
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4757,7 +4757,7 @@ This chapter shall apply only to residential premises and shall not apply to com
 
 
 Chapter 16: Advertisements On Private Property
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4844,7 +4844,7 @@ Nothing in this chapter shall be construed to preclude an enforcement agent from
 
 
 Chapter 17: Recovery of Refrigerants
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4977,7 +4977,7 @@ When used in this chapter:
 
 
 Chapter 18: Publicly Accessible Collection Bins
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5108,7 +5108,7 @@ When used in this chapter:
 
 
 Chapter 19: Penalty Schedule
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

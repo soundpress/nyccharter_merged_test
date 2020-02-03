@@ -2,7 +2,7 @@ Title 1: Department of Buildings
 ======================================================================================================
 
 Chapter 3: Vacant and Unguarded Buildings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -205,7 +205,7 @@ Where buildings are vacant, unguarded, open to unauthorized entry and are requir
 
 
 Chapter 4: Certificates of Occupancy, Live Loads and Occupancy Loads
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -242,7 +242,7 @@ Chapter 4: Certificates of Occupancy, Live Loads and Occupancy Loads
 
 
 Chapter 5: Concrete
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -265,7 +265,7 @@ Table 1. Volume of Course Aggregate per Unit of Volume of Concrete*
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Maximum size of aggregate, in.
       - Volume of dry-rodded coarse aggregate per unit. Volume of concrete for different fineness moduli of sand**
@@ -329,7 +329,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  Maximum size lightweight aggregate, in 
       - Fineness Modules of Natural Sand 
@@ -500,7 +500,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - C29-78
       - Test for Unit Weight and Voids in Aggregate.
@@ -837,7 +837,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 Chapter 6: Cranes [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -850,7 +850,7 @@ Chapter 6: Cranes [Repealed]
 
 
 Chapter 8: Demolition [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -863,7 +863,7 @@ Chapter 8: Demolition [Repealed]
 
 
 Chapter 9: Rigging Operations [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -886,7 +886,7 @@ Chapter 9: Rigging Operations [Repealed]
 
 
 Chapter 10: Drums For Derrick Load and Boom Hoists
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -899,7 +899,7 @@ Drums for derrick load and boom hoists shall be contained on the same bedframe o
 
 
 Chapter 11: Elevators, Escalators, Personnel Hoists and Moving Walks
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1064,7 +1064,7 @@ If any of the provisions of these rules are found by a court of competent jurisd
 
 
 Chapter 15: Fire Protection
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1225,7 +1225,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Occupancy
       - Net Floor Area Per Occupancy (Square Feet) 
@@ -1732,7 +1732,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Length of Balcony
       - Weight of Channels 
@@ -1766,7 +1766,7 @@ The bracket braces shall be angle iron not less than two and one-half inches by 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Masonry Span
       - Brackets 
@@ -1920,7 +1920,7 @@ Angle irons to support balconies where regulation braces cannot be used shall no
 
 
 Chapter 16: Inspection of Existing Structures During Construction Operations
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1975,7 +1975,7 @@ Chapter 16: Inspection of Existing Structures During Construction Operations
 
 
 Chapter 17: Testing Laboratories and Testing Services
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2012,7 +2012,7 @@ Chapter 17: Testing Laboratories and Testing Services
 
 
 Chapter 18: Resistance To Progressive Collapse Under Extreme Local Loads [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2025,7 +2025,7 @@ Chapter 18: Resistance To Progressive Collapse Under Extreme Local Loads [Repeal
 
 
 Chapter 19: Master Plumbers and Licensed Fire Suppression Piping Contractors
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2122,7 +2122,7 @@ Chapter 19: Master Plumbers and Licensed Fire Suppression Piping Contractors
 
 
 Chapter 20: Piping Systems
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2219,7 +2219,7 @@ AMSI/ASME B 31.1 – 1980
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Piping Pressure 
       - Percentage 
@@ -2308,7 +2308,7 @@ However, if in the opinion of the engineer responsible for Controlled Inspection
 
 
 Chapter 21: Plans
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2431,7 +2431,7 @@ Chapter 21: Plans
 
 
 Chapter 22: Pressure Tanks
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2480,7 +2480,7 @@ Chapter 22: Pressure Tanks
 
 
 Chapter 23: Noncommercial Greenhouses
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2533,7 +2533,7 @@ Greenhouse. A greenhouse shall be defined as a glass or slow burning plastic enc
 
 
 Chapter 24: Refuse Chutes and Refuse Rooms
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2574,7 +2574,7 @@ Chapter 24: Refuse Chutes and Refuse Rooms
 
 
 Chapter 25: Climber and Tower Crane Riggers [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2587,7 +2587,7 @@ Chapter 25: Climber and Tower Crane Riggers [Repealed]
 
 
 Chapter 27: Signs
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2724,7 +2724,7 @@ Chapter 27: Signs
 
 
 Chapter 28: Smoke Detecting Devices and Systems and Carbon Monoxide Detecting Devices and Systems [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2747,7 +2747,7 @@ Chapter 28: Smoke Detecting Devices and Systems and Carbon Monoxide Detecting De
 
 
 Chapter 29: Sprinkler Systems
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2780,7 +2780,7 @@ Chapter 29: Sprinkler Systems
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Size of pipe diameters
       - Maximum number or sprinkler heads allowed
@@ -2921,7 +2921,7 @@ Effective February 25, 1949, automatic wet-pipe sprinklers used in certain Class
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 1 inch pipe
       - 2 sprinkler heads 
@@ -3042,7 +3042,7 @@ Branch lines should not exceed eight sprinkler heads on either side of a cross m
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Diameter of Pipe
       - Maximum number of sprinklers allowed 
@@ -3221,7 +3221,7 @@ Extract from the Multiple Dwelling Law  Section 248, Subdivision 4, Paragraph b.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Hangers and Supports
       - 
@@ -3274,7 +3274,7 @@ Table A Maximum Support Spacing Distance End Line Sprinkler Head Drop Elbow
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Nominal Pipe Size (In)
       - Less than 100 psi (689kPa)
@@ -3304,7 +3304,7 @@ Table B Maximum Support Spacing Distance Inline Sprinkler Head Drop Tee
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Nominal Pipe Size (In)
       - Less than 100 psi (689kPa)
@@ -3357,7 +3357,7 @@ Table B Maximum Support Spacing Distance Inline Sprinkler Head Drop Tee
 
 
 Chapter 30: Storage of Certain Waste Materials
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3476,7 +3476,7 @@ Chapter 30: Storage of Certain Waste Materials
 
 
 Chapter 32: Walls [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3489,7 +3489,7 @@ Chapter 32: Walls [Repealed]
 
 
 Chapter 34: Electrical Code Rules
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3573,7 +3573,7 @@ In accordance with section 27-3005(a)(7) of the Administrative Code the Commissi
 
 
 Chapter 35: Electrical Inspection
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3644,7 +3644,7 @@ Chapter 35: Electrical Inspection
 
 
 Chapter 36: Electrical Contractors
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3679,7 +3679,7 @@ Chapter 36: Electrical Contractors
 
 
 Chapter 37: Reference Standards [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3692,7 +3692,7 @@ Chapter 37: Reference Standards [Repealed]
 
 
 Chapter 38: Ventilation
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3709,7 +3709,7 @@ Chapter 38: Ventilation
 
 
 Chapter 39: Cooling Towers and Evaporative Condensers [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3722,7 +3722,7 @@ Chapter 39: Cooling Towers and Evaporative Condensers [Repealed]
 
 
 Chapter 40: Installation and Maintenance of Gas-fueled Water and Space Heaters In All Portions of Dwellings Used Or Occupied For Living Purposes
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4049,7 +4049,7 @@ Where there is a practical difficulty in carrying out the strict letter of the p
 
 
 Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dwellings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4090,7 +4090,7 @@ Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dw
 
 
 Chapter 42: Entrance Doors, Locks and Intercommunication Systems
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4125,7 +4125,7 @@ Chapter 42: Entrance Doors, Locks and Intercommunication Systems
 
 
 Chapter 43: Installation of Security Items In Multiple Dwellings
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4196,7 +4196,7 @@ Chapter 43: Installation of Security Items In Multiple Dwellings
 
 
 Chapter 45: Building Permit Application Procedures
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4223,7 +4223,7 @@ Chapter 45: Building Permit Application Procedures
 
 
 Chapter 46: Authorized Representatives
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4260,7 +4260,7 @@ Chapter 46: Authorized Representatives
 
 
 Chapter 48: Construction Superintendents [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4323,7 +4323,7 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 Chapter 49: Outdoor Signs
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4731,7 +4731,7 @@ Absent evidence that revenue from the sign is clearly incidental to the revenue 
 
 
 Chapter 50: Distributed Energy Resource Standards
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4864,7 +4864,7 @@ Chapter 50: Distributed Energy Resource Standards
 
 
 Chapter 51: Dormitories
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4905,7 +4905,7 @@ Chapter 51: Dormitories
 
 
 Chapter 52: Notification To the Department of Commencement of Work Pursuant To An Earthwork Permit
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4934,7 +4934,7 @@ Chapter 52: Notification To the Department of Commencement of Work Pursuant To A
 
 
 Chapter 300: Use and Occupancy Classification
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4979,7 +4979,7 @@ Figure 1 Summary chart of fire safety requirements
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Pre-2008-code buildings (1968, 1938, etc) 
@@ -5026,7 +5026,7 @@ Figure 1 Summary chart of fire safety requirements
 
 
 Chapter 400: Special Detailed Requirements Based On Use and Occupancy [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5039,7 +5039,7 @@ Chapter 400: Special Detailed Requirements Based On Use and Occupancy [Repealed]
 
 
 Chapter 900: Fire Protection Systems
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5158,7 +5158,7 @@ Chapter 900: Fire Protection Systems
 
 
 Chapter 1000: Means of Egress
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5203,7 +5203,7 @@ Chapter 1000: Means of Egress
 
 
 Chapter 1100: Accessibility
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5328,7 +5328,7 @@ Figure 8
 
 
 Chapter 3000: Elevators and Conveying Systems
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5666,7 +5666,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - "THE FOLLOWING PEOPLE SHOULD NOT RIDE THIS AMUSEMENT DEVICE:People under the influence of alcohol.People under the influence of drugs or medications that could impair judgment.People with heart conditions.Pregnant women.People with disabilities that may interfere with their safety during the operation of the amusement device.People with motion sickness.People with any physical ailments that could be aggravated by this amusement device."
 
@@ -5934,7 +5934,7 @@ These standards are adopted in full, except to the extent there is a conflict wi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
@@ -6002,7 +6002,7 @@ These standards are adopted in full, except to the extent there is a conflict wi
 
 
 Chapter 3300: Safeguards During Construction and Demolition
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6258,7 +6258,7 @@ Table 1General Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6319,7 +6319,7 @@ Table 2 Safety Netting Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6355,7 +6355,7 @@ Table 3 Maintenance of Site and Adjacent Area Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6388,7 +6388,7 @@ Table 4 Housekeeping Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement
@@ -6421,7 +6421,7 @@ Table 5 Removal and Storage of Material Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6458,7 +6458,7 @@ Table 6 Protection of Sidewalks Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6501,7 +6501,7 @@ Table 7 Warning Signs and Lights Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement
@@ -6525,7 +6525,7 @@ Table 8 Scaffolds, Structural Ramps, Runways and Platform Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6546,7 +6546,7 @@ Table 9 Material Handling and Hoisting Equipment Inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement 
@@ -6630,7 +6630,7 @@ Table 10 Facade project inspections
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * -  
       - Requirement
@@ -7691,7 +7691,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
@@ -9828,7 +9828,7 @@ Table A – Minimum Clear Distances
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Voltage(nominal, kV, alternating current)1
       - Minimum clearance distance(feet)
@@ -9959,7 +9959,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Voltage(nominal, kV, alternating current)1
       - While traveling – minimum clearance distance(feet)
@@ -10102,7 +10102,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
@@ -10116,7 +10116,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - American Society of Civil Engineers (ASCE)
       - 
@@ -10373,7 +10373,7 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
@@ -10437,7 +10437,7 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
 
 
 Chapter 3500: Referenced Standards
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10452,7 +10452,7 @@ Table 1
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - ACI
       - American Concrete Institute38800 Country Club DriveFarmington Hills, MI 48331
@@ -10488,7 +10488,7 @@ Table 2
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - ANSI
       - American National Standards Institute25 West 43rd Street, Fourth FloorNew York, NY 10036 
@@ -10510,7 +10510,7 @@ Table 2
 
 
 Chapter 3600: Appendices
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -10538,7 +10538,7 @@ Chapter 3600: Appendices
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Market Value of Structure 
@@ -10592,7 +10592,7 @@ or, at the option of the owner, or where the assessment roll method would not re
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Market Value of Structure 
       - = 
@@ -10626,7 +10626,7 @@ or, at the option of the owner, or where the assessment roll method would not re
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - DESCRIPTION
       - LAND 
@@ -10661,7 +10661,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Market Value of Structure 
       - = 
@@ -10698,7 +10698,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - DESCRIPTION
       - LAND 
@@ -10727,7 +10727,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Market Value of Structure 
       - = 
@@ -10764,7 +10764,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - DESCRIPTION
       - LAND 
@@ -10793,7 +10793,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Market Value of Structure 
       - = 
@@ -10890,7 +10890,7 @@ Pursuant to § 28-103.19 of the Administrative Code, the reference standard FEMA
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - FEMAFIRMs 360497
       - Flood Insurance Rate Map, Community Number 360497, Panel Numbers 1 through 0457, Revised September 5, 2007;Federal Emergency Management Agency, with the following Letters of Map Revision:Letter of Map Revision effective September 29, 2008, FEMA case # 08-02-0948P, revising FIRM panel 0111 andLetter of Map Revision effective April 18, 2018, FEMA case # 17-02-1503P, revising FIRM panels 0092F, 0094F, 0111F, and 0113F.
@@ -11528,7 +11528,7 @@ Delivered Audio Quality (DAQ). A measure of audio quality over a transmission me
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Delivered Audio Quality (DAQ) 
       - Faded Subjective Performance Description
@@ -11617,7 +11617,7 @@ Add 24.5.2.5.5.2 Dedicated Radio Console Enclosure. The DRC shall be enclosed an
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - AUXILIARY RADIO COMMUNICATIONS 
 
@@ -11711,7 +11711,7 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 Chapter 4000: Electrical Code
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11846,7 +11846,7 @@ Chapter 4000: Electrical Code
 
 
 Chapter 6000: Fuel Gas Code [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11864,7 +11864,7 @@ Chapter 6000: Fuel Gas Code [Repealed]
 
 
 Chapter 7000: Mechanical Code [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11877,7 +11877,7 @@ Chapter 7000: Mechanical Code [Repealed]
 
 
 Chapter 8000: New York City Plumbing Code
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -12072,7 +12072,7 @@ Table 1Minimum Distances Between Sewage System Components and Between Components
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 
       - Building Foundation Wall
@@ -12210,7 +12210,7 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Percolation Rate(min/inch)
       - Daily Flow Rate (Q) (GPD) a,b
@@ -12478,7 +12478,7 @@ Table 3Minimum Septic Tank Capacities for One- and Two-Family Homes
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Number of Bedrooms
       - Minimum Tank Capacity (gallons)
@@ -12650,7 +12650,7 @@ Table 4Cylindrical Seepage Pits – Required Absorptive Area (Sq Ft)
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Diameter of Seepage Pit (feet)
       - Effective Strata Depth Below Frost Line (below inlet)
@@ -12832,7 +12832,7 @@ Table 5Specification for Sand and Aggregate
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Specification for Concrete Sand Used in the Sand Collar around the Seepage Pit and in the Sand Columns (ASTM C-33)
       - 
@@ -12950,7 +12950,7 @@ Table 6Sand Filter Field Design Flow
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Sewage Application (GPD/SF)
       - Daily Flow Rate (Q) (GPD) a,b
@@ -13124,7 +13124,7 @@ Table 7Special Inspection
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY
       - TOPIC
@@ -13155,7 +13155,7 @@ Table 7Special Inspection
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Standard
       - Name
@@ -13191,7 +13191,7 @@ Table 7Special Inspection
 
 
 Chapter 9000: Zoning
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

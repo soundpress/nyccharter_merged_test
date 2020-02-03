@@ -2,7 +2,7 @@ Title 35: Taxi and Limousine Commission
 ======================================================================================================
 
 Chapter 51: Definitions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -701,7 +701,7 @@ Wiring Harness means any wire or collection of wires that is connected in any ma
 
 
 Chapter 52: Rules Governing the Taxi and Limousine Commission
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1178,7 +1178,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1258,7 +1258,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-04(b)
       - Fine: $400
@@ -1277,7 +1277,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-04(c)
       - Fine: $400
@@ -1296,7 +1296,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-04(d)
       - Fine: $400
@@ -1336,7 +1336,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-06(a)
       - Fine: $200
@@ -1356,7 +1356,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-06(b)(1)
       - Fine: $150 if plead guilty before a hearing and $200 if found guilty after a hearing. Suspension of Vehicle License until condition is corrected
@@ -1374,7 +1374,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-06(b)(2)
       - Fine: $100 per day until compliance
@@ -1394,7 +1394,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-06(b)(3)(i)
       - Fine: $250
@@ -1414,7 +1414,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-06(b)(3)(ii)-(iii)
       - Fine: $250 and suspension until compliance
@@ -1438,7 +1438,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-06(c)(1) - (3)
       - Fine: $250
@@ -1456,7 +1456,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-06(c)(4)
       - Fine: $500
@@ -1482,7 +1482,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-06(d)
       - Fine: $350 and/or suspension up to 30 days
@@ -1526,7 +1526,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-08(a)
       - Fine: $100 per day
@@ -1544,7 +1544,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-08(b)
       - Fine: $100
@@ -1576,7 +1576,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-09(b)(1)
       - Fine: $100, in addition to any Mandatory Penalties required under 35 RCNY § 80-17(a)
@@ -1594,7 +1594,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-09(b)(2)
       - Fine: $50
@@ -1631,7 +1631,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-10(a)
       - Fine: $200
@@ -1650,7 +1650,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-10(b)
       - Fine: $50
@@ -1669,7 +1669,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-10(c)
       - Fine: Mandatory penalties as set forth in 35 RCNY § 80-02(e).
@@ -1688,7 +1688,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-10(d)
       - Fine: $50
@@ -1714,7 +1714,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-10(e)
       - Fine: $50
@@ -1731,7 +1731,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 53-10(f)
       - Fine: $50
@@ -1749,7 +1749,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2052,7 +2052,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 Chapter 55: For-Hire Drivers [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2335,7 +2335,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 Chapter 56: Paratransit Drivers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2382,7 +2382,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Violation Description
       - Rule 
@@ -2674,7 +2674,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-10(a)
       - Fine: $250
@@ -2692,7 +2692,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-10(b)
       - Fine: $15-$150
@@ -2710,7 +2710,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-10(c)
       - Fine: $50
@@ -2730,7 +2730,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-10(d)(1)
       - Fine: $50
@@ -2748,7 +2748,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-10(d)(2)
       - Fine: $50
@@ -2766,7 +2766,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-10(e)
       - Fine: $50
@@ -2790,7 +2790,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-10(f)
       - Fine: $25
@@ -2808,7 +2808,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-10(g)
       - Fine: $1,000 to be paid if Driver applies for a new License of any type.
@@ -2834,7 +2834,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-11(a)
       - MANDATORY PENALTIES: See 35 RCNY § 56-02
@@ -2852,7 +2852,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-11(b)
       - Fine: First Violation: $1,500Second Violation in 36 months: $2,000Third Violation: revocation.
@@ -2870,7 +2870,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-11(c)
       - Fine: First Violation: $1,500 and Suspension until compliance.Second Violation in 36 months: $2,000 and Suspension until compliance.Third Violation: revocation.
@@ -2890,7 +2890,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-11(d)(1)
       - MANDATORY PENALTIES: See 35 RCNY § 56-02
@@ -2908,7 +2908,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-11(e)
       - Fine: $100
@@ -2928,7 +2928,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-11(g)
       - Fine:$100 – 1st Offense$250 – 2nd Offense$350 – 3rd OffenseOATH – 4 or more offenses within 12 months
@@ -2954,7 +2954,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(a)
       - Fine: $10,000 and revocation
@@ -2972,7 +2972,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(b)
       - Fine: $1,000 and/or suspension up to 30 days or revocation
@@ -2990,7 +2990,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(c)
       - Fine: $350-$1,000 and/or suspension up to 60 days or revocation
@@ -3008,7 +3008,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(d)
       - Fine: $150-$350 and/or suspension up to 30 days or revocation
@@ -3026,7 +3026,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(e)
       - Fine: $150-$350 and/or suspension up to 30 days or revocation
@@ -3048,7 +3048,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(f)
       - Fine: $100 if plead guilty before a hearing; $250 if found guilty following a hearing.
@@ -3070,7 +3070,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(g)(1)(2)
       - Fine: $300 and Suspension until compliance
@@ -3088,7 +3088,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(g)(3)(i)
       - Fine: $100
@@ -3108,7 +3108,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(h)
       - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing.
@@ -3126,7 +3126,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(i)
       - Fine: $350 - $1,000 and/or suspension up to 30 days
@@ -3144,7 +3144,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(j)
       - Fine: $500 - $1,500 and/or suspension up to 60 days or revocation.
@@ -3162,7 +3162,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(k)
       - Fine: $25 - $350 and/or suspension up to 30 days
@@ -3180,7 +3180,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(l)
       - Fine: $10,000 and revocation.
@@ -3198,7 +3198,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(m)
       - Fine: $1,000 and mandatory suspension of 30 days and/or revocation.Points: 3
@@ -3216,7 +3216,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-12(n)
       - Fine: $2,000 and mandatory revocation.
@@ -3246,7 +3246,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-13(a)(1)
       - Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -3264,7 +3264,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-13(a)(2)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -3310,7 +3310,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-13(a)(3)
       - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing, for each violation below.
@@ -3366,7 +3366,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-14(b)
       - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period.
@@ -3390,7 +3390,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-14(c)(1)
       - Fine: $350 and/or suspension up to 30 days or revocation if Driver is found guilty of having violated this rule more than three times within a 12-month period.
@@ -3408,7 +3408,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-14(c)(2)
       - Fine: $100
@@ -3426,7 +3426,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-14(d)
       - Fine: $50 - $300 and/or suspension or revocation.
@@ -3446,7 +3446,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-14(f)
       - Fine: $25.
@@ -3474,7 +3474,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-14(g)
       - Fine: $25 - $1,000 possible suspension or revocation (OATH).
@@ -3496,7 +3496,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-14(h)
       - Fine: $25 - $250 and/or suspension up to 30 days
@@ -3516,7 +3516,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-14(i)(1)
       - Fine: $250 if plead guilty before a hearing; $350 if found guilty following a hearing.
@@ -3562,7 +3562,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(a)
       - Fine: $100 and/or suspension up to 30 days.
@@ -3582,7 +3582,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(c)
       - Fine: No Penalty Noted.
@@ -3610,7 +3610,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(g)(1)-(2)
       - MANDATORY PENALTIES: See 35 RCNY § 56-02
@@ -3628,7 +3628,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(g)(3)
       - Fine: $25 - $150.
@@ -3646,7 +3646,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(g)(4)
       - Fine: $50.
@@ -3666,7 +3666,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(i)
       - Fine: $25.
@@ -3688,7 +3688,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(k)(1)
       - MANDATORY PENALTIES: See 35 RCNY § 56-02
@@ -3706,7 +3706,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(k)(2)
       - Fine: $50-$100.
@@ -3726,7 +3726,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(m)
       - Fine: $50.
@@ -3752,7 +3752,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(n)(1)-(4)
       - Fine: $100 - $340 and/or suspension up to 30 days and possible revocation (OATH).
@@ -3770,7 +3770,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(o)
       - Fine: $25.
@@ -3792,7 +3792,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(p)
       - Fine: $50 - $150.
@@ -3810,7 +3810,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-15(q)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -3836,7 +3836,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-16(a)
       - Fine: $25 - $150.
@@ -3854,7 +3854,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-16(b)
       - Fine: $25 - $150.
@@ -3872,7 +3872,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-16(c)
       - Fine: $50 - $100.
@@ -3894,7 +3894,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-16(d)
       - Fine: $25.
@@ -3918,7 +3918,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-16(e)
       - Fine: $25.
@@ -3936,7 +3936,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-16(f)
       - Fine: $25.
@@ -3964,7 +3964,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-17(b)
       - Fine: $25.
@@ -3994,7 +3994,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-18(a)
       - Fine: $50 - $250.
@@ -4012,7 +4012,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-18(b)
       - Fine: $25.
@@ -4038,7 +4038,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-19(a)
       - MANDATORY PENALTIES: See 35 RCNY § 56-02
@@ -4064,7 +4064,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-20(a)
       - MANDATORY PENALTIES: See 35 RCNY § 56-02
@@ -4106,7 +4106,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-22(a)
       - Fine: $25.
@@ -4124,7 +4124,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-22(b)
       - Fine: $15 - $150.
@@ -4144,7 +4144,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-22(d)
       - Fine: $25.
@@ -4162,7 +4162,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-22(e)
       - Fine: $25 - $200 and/or suspension up to 30 days.
@@ -4202,7 +4202,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-23(a)
       - Fine: $15 each violation.
@@ -4242,7 +4242,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-24(a)
       - Fine: $50 for each violation of this rule; however, no fine for a violation of this rule will exceed $100 for each vehicle stop.
@@ -4270,7 +4270,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-24(b)
       - Fine: $250.
@@ -4292,7 +4292,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-24(c)
       - Fine: $50 for each violation of this Rule; however, no fine shall exceed $100 for each Vehicle stop.
@@ -4318,7 +4318,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-24(d)
       - Fine: $30.
@@ -4368,7 +4368,7 @@ Chapter 56: Paratransit Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 56-26(a)
       - Fine: $25 - $250 and/or suspension up to 30 days.
@@ -4408,7 +4408,7 @@ and the Driver may incur the penalties specified as a result. A Paratransit Driv
 
 
 Chapter 57: Commuter Van Drivers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4457,7 +4457,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section
       - Topic
@@ -4742,7 +4742,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-10(a)
       - Fine: $50
@@ -4760,7 +4760,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-10(b)
       - Fine: $50
@@ -4778,7 +4778,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-10(c)
       - Fine: $50
@@ -4796,7 +4796,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-10(d)
       - Fine: $50
@@ -4814,7 +4814,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-10(e)
       - Fine: $1,000 to be paid if Driver applies for a new License of any type.
@@ -4840,7 +4840,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-11(a)
       - Fine: $400
@@ -4858,7 +4858,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-11(b)
       - Fine: $400 and Suspension until compliance.
@@ -4876,7 +4876,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-11(c)
       - Fine: $400 and Suspension until compliance.
@@ -4896,7 +4896,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-11(d)(1)
       - Fine: $300
@@ -4914,7 +4914,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-11(d)(2)
       - Fine: $1,000 first violation; $2,000 subsequent violations within 24 months
@@ -4942,7 +4942,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-11(e)(1) &amp; (2)(A)
       - Fine: $500 first violation; $1,000 subsequent violations within 24 months
@@ -4960,7 +4960,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-11(e)(2)(B)
       - Fine: $1,000 first violation; $2,000 subsequent violations within 24 months
@@ -4992,7 +4992,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(a)(1)
       - Fine: $10,000 and revocation.
@@ -5010,7 +5010,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(a)(2)
       - Fine: $1,000 and/or suspension up to 30 days or revocation.
@@ -5028,7 +5028,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(b)
       - Fine: $350 - $1,000 and/or suspension up to 60 days or revocation.
@@ -5046,7 +5046,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(c)
       - Fine: $500 - $1,500 and or suspension up to 60 days or revocation.
@@ -5064,7 +5064,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(d)
       - Fine: $100 if plead guilty before a hearing; $250 if found guilty following a hearing.
@@ -5084,7 +5084,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(e)(1)
       - Fine: $300 and Suspension until compliance
@@ -5102,7 +5102,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(e)(2)
       - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing.
@@ -5120,7 +5120,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(e)(3)
       - Fine: $300 and Suspension until compliance
@@ -5138,7 +5138,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(e)(4)(i)
       - Fine: $100
@@ -5158,7 +5158,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(f)
       - Fine: $150 - $350 and/or suspension up to 30 days or revocation.
@@ -5176,7 +5176,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(g)
       - Fine: $150 - $350 and/or suspension up to 30 days or revocation.
@@ -5194,7 +5194,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(h)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -5212,7 +5212,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(i)
       - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation.
@@ -5230,7 +5230,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(j)
       - Fine: $10,000 and revocation.
@@ -5248,7 +5248,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(k)
       - Fine: $1,000 and mandatory suspension of 30 days and/or revocation.Points: 3
@@ -5266,7 +5266,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-12(l)
       - Fine: $2,000 and mandatory revocation.
@@ -5322,7 +5322,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-13(c)(1)
       - Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -5340,7 +5340,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-13(c)(2)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -5374,7 +5374,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-13(c)(3)
       - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing, for each violation below.
@@ -5402,7 +5402,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-14(a)
       - Fine: $350 - $1,000 and/or suspension up to 30 days, or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period
@@ -5422,7 +5422,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-14(b)(1)
       - Fine: $250 if plead guilty before a hearing; $350 if found guilty following a hearing, and suspension.
@@ -5456,7 +5456,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-14(c)(1)
       - Fine: $350 and/or suspension up to 30 days or revocation if Driver is found guilty of having violated this rule more than three times within a 12-month period.
@@ -5474,7 +5474,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-14(c)(2)
       - Fine: $100
@@ -5510,7 +5510,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-15(b)
       - Fine: $25
@@ -5528,7 +5528,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-15(c)
       - Fine: $25
@@ -5556,7 +5556,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-15(g)
       - Fine: $100 - $250 and order restitution for any overcharge passenger
@@ -5574,7 +5574,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-15(g)(3)
       - Fine: $50
@@ -5606,7 +5606,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-15(o)
       - Fine: $50
@@ -5648,7 +5648,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-16(e)
       - Fine: $25
@@ -5666,7 +5666,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-16(f)
       - Fine: $25
@@ -5692,7 +5692,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-19(a)
       - Fine: $50
@@ -5714,7 +5714,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-19(b)
       - Fine: $75 first and second violation; Revocation for third violation within six months (see Mandatory Penalties, 35 RCNY § 57-02(d))
@@ -5740,7 +5740,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-20(a)
       - Fine: $200 - $350 for first violation; $350 - $500 for each subsequent violation within 36 months
@@ -5778,7 +5778,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-20(c)
       - Fine: $100 - $250 and order restitution for any overcharge to the passenger
@@ -5796,7 +5796,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-20(d)
       - Fine: $200 - $350
@@ -5828,7 +5828,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-22(d)
       - Fine: $25
@@ -5868,7 +5868,7 @@ Chapter 57: Commuter Van Drivers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 57-23(a)(1)-(4)
       - Fine: $25 per missing item; maximum penalty $50
@@ -5894,7 +5894,7 @@ Chapter 57: Commuter Van Drivers
 
 
 Chapter 58: Medallion Taxicab Service
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6259,7 +6259,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-06(c)
       - Fine: $1,000 and suspension up to 30 days for failure to file by April 30.
@@ -6403,7 +6403,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-11(a)
       - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
@@ -6421,7 +6421,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-11(b)
       - Fine: $200 and suspension until compliance
@@ -6445,7 +6445,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-11(c)(1)-(2)
       - Fine: $200
@@ -6467,7 +6467,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-11(d)
       - Fine: $200 for the first violation; $350 - $500 for the second or subsequent violation(s) within 36 months
@@ -6491,7 +6491,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-11(e)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -6509,7 +6509,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-11(f)
       - Fine: $200 and suspension until compliance
@@ -6541,7 +6541,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-12(a)
       - Fine: $300 and/or suspension up to 30 days
@@ -6559,7 +6559,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-12(b)
       - Fine: $50 - $350 and/or suspension up to 30 days
@@ -6581,7 +6581,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-12(c)
       - Fine: $100 - $350 and/or suspension up to 30 days; Suspension until compliance
@@ -6601,7 +6601,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-12(d)(1)
       - Fine: $400 and/or suspension up to 30 days
@@ -6629,7 +6629,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-12(d)(2)
       - Fine: $400 and/or suspension up to 30 days
@@ -6663,7 +6663,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-13(a)
       - Fine: $150 - $350 and/or suspension up to 30 days
@@ -6681,7 +6681,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-13(b)
       - Fine: $100
@@ -6705,7 +6705,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-13(c)
       - Fine: $100
@@ -6729,7 +6729,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-13(d)(1)
       - Fine: $350 and suspension until compliance
@@ -6747,7 +6747,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-13(d)(2)
       - Fine: $50 - $350 and/or suspension up to 30 days
@@ -6767,7 +6767,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-13(e)(1)
       - Fine: $500 - $1,000
@@ -6789,7 +6789,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-13(e)(2)
       - Fine: $150 and $25 for each day of violation thereafter and suspension until compliance
@@ -6811,7 +6811,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-13(f)
       - Fine: $50
@@ -6839,7 +6839,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-14(a)
       - Fine: $25 for each day in violation
@@ -6857,7 +6857,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-14(b)
       - Fine: $200
@@ -6875,7 +6875,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-14(c)
       - Fine: $200
@@ -6897,7 +6897,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-14(d)
       - Fine: $100 - $250
@@ -6925,7 +6925,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(a)(1)
       - Fine: Up to $10,000 per Medallion implicated in the violation plus mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner.
@@ -6943,7 +6943,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(a)(2)
       - Fine: $10,000 plus revocation
@@ -6962,7 +6962,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(a)(3)
       - Fine: $1,000 and/or suspension up to 30 days or revocation.
@@ -6980,7 +6980,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(a)(4)
       - Fine: $50
@@ -6998,7 +6998,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(b)
       - Fine: $350 - $1,000 and suspension up to 60 days or revocation
@@ -7016,7 +7016,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(c)
       - Fine: $150 - $350 and/or Suspension up to 30 days or revocation.
@@ -7034,7 +7034,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(d)
       - Fine: $150 - $350 and/or Suspension up to 30 days or revocation.
@@ -7052,7 +7052,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(e)
       - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation
@@ -7070,7 +7070,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(f)
       - Fine: $500 - $1,500 and/or suspension up to 60 days or revocation
@@ -7092,7 +7092,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(g)
       - Fine: $50 - $250
@@ -7110,7 +7110,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(h)
       - Fine: $50 - $350
@@ -7130,7 +7130,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(i)(1)
       - Fine: $300 and Suspension until compliance
@@ -7148,7 +7148,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(i)(2)
       - Fine: $500
@@ -7166,7 +7166,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-15(j)
       - Fine: $10,000 and revocation.
@@ -7196,7 +7196,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(a)(1)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -7220,7 +7220,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(a)(2)(ii) and (iii)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -7240,7 +7240,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(b)(1)
       - Fine: 35 RCNY Chapter 53 penalties apply
@@ -7261,7 +7261,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(b)(2)
       - Fine: 35 RCNY Chapter 53 penalties apply
@@ -7282,7 +7282,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(c)(1) and (2)
       - Fine: Up to $10,000 per Medallion implicated in the violation and/or mandatory divestiture of any and all interests in any Taxicab Licenses held by the Owner, shareholder, officer, director or partner in violation
@@ -7302,7 +7302,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(d)(1)
       - Fine: $350 - 1,000 and/or suspension up to 30 days or revocation
@@ -7320,7 +7320,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(d)(2)
       - Fine: $350 - 1,000 and/or suspension up to 30 days or revocation
@@ -7338,7 +7338,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(d)(3)
       - Fine: $100 - $350 and/or suspension up to 30 days
@@ -7358,7 +7358,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(e)(1)
       - Fine: Up to $10,000 per Medallion implicated in the violation plus mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner
@@ -7376,7 +7376,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(e)(2)
       - Fine: Mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner, plus a fine of up to $10,000 per Medallion implicated in the violation
@@ -7394,7 +7394,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(e)(3)
       - Fine: Mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner, plus a fine of up to $10,000 per Medallion implicated in the violation
@@ -7416,7 +7416,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(f)
       - Fine: $1,000 and suspension until compliance
@@ -7440,7 +7440,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-16(g)
       - Fine: $1,000 and suspension until compliance
@@ -7480,7 +7480,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-17(b)(1)
       - Suspension until condition is corrected
@@ -7498,7 +7498,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-17(b)(2)
       - Suspension until condition is corrected
@@ -7524,7 +7524,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-17(b)(3)
       - Fine: $250 if plead guilty before a hearing; $500 if found guilty following a hearing.
@@ -7542,7 +7542,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-17(c)
       - Fine: $100
@@ -7560,7 +7560,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-17(d)
       - Fine: $100
@@ -7616,7 +7616,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-18(c)(1)
       - Fine: $500 - 1,000 and/or suspension up to 30 days
@@ -7634,7 +7634,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-18(c)(2)
       - Fine: $200
@@ -7652,7 +7652,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-18(c)(3)
       - Fine: $200
@@ -7678,7 +7678,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-18(d)(1)
       - Fine: $200
@@ -7696,7 +7696,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-18(d)(2)
       - Fine: $200
@@ -7714,7 +7714,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-18(d)(3)
       - Fine: $200
@@ -7734,7 +7734,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-18(d)(4)(i)
       - Fine: $500 - 1,000 and/or suspension up to 30 days
@@ -7772,7 +7772,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-20(a)
       - Fine: $50
@@ -7794,7 +7794,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-20(b)(1)
       - Fine: $250 - $500 and suspension until compliance
@@ -7816,7 +7816,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-20(b)(2)(i)-(ii)
       - Fine: $250 - $500 and suspension until compliance
@@ -7834,7 +7834,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-20(b)(2)(iii)
       - Fine: $100
@@ -7854,7 +7854,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-20(c)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -7889,7 +7889,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(a)
       - Fine: $75 - $150 for the first violation,$150 - $300 for a second violation,$300 - $500 for a third violation within 24 months, andSuspension until compliance
@@ -7913,7 +7913,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(b)
       - First violation $500Second and subsequent violations: $1,000 and/or suspension of the Medallion for up to 30 days. In addition to the penalty payable to the Commission, the administrative law judge must order the owner to pay restitution to the driver, equal to the excess that was charged to the driver.
@@ -8123,7 +8123,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(c)(5)(viii)(B)
       - Fine: $1,000 and suspension until compliance
@@ -8175,7 +8175,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - When the Index is:
       - The surcharge will be:
@@ -8188,7 +8188,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - $2.49 or less
       - $13 per shift (or $78 per week)
@@ -8215,7 +8215,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(c)
       - Fine: First violation: $500Second and subsequent violations; $1,000 and/or suspension of the Medallion for up to 30 days.In addition to the penalty payable to the Commission, the ALJ must order the Owner to pay restitution to the Driver, equal to the excess that was charged to the Driver or the extra fuel the driver had to pay for.
@@ -8253,7 +8253,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(e)(3)
       - Fine: First violation: $250;Second violation: $350;Third and subsequent violations $500 and/or suspension of the Medallion for up to thirty days.In addition to the penalty payable to the Commission, the ALJ must order the Owner to pay restitution to the Driver, equal to the excess that was withheld from the Driver, or equal to the amount that the Driver paid, at the requirement of the Owner, to satisfy any summons against the Owner.
@@ -8285,7 +8285,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(e)(4)
       - Fine: $200In addition to the penalty payable to the Commission, the Hearing Officer must order the lessor to pay restitution to the Driver, equal to the amount charged to the Driver in violation of this rule.
@@ -8307,7 +8307,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(e)(5)
       - Fine: $50
@@ -8329,7 +8329,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(e)(6)
       - Fine: $50In addition to the penalty payable to the Commission, the Hearing Officer must order the lessor to pay restitution to the Driver, equal to the amount not returned to the Driver in violation of this rule.
@@ -8353,7 +8353,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(e)(7)
       - Fine: $50
@@ -8377,7 +8377,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(f)(1) &amp; (2)
       - Fine: $100In addition to the penalty payable to the Commission, the ALJ must order the Owner to pay restitution to the Driver, equal to the cost to the Driver.
@@ -8395,7 +8395,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(f)(3)
       - Fine: First violation: $200Second violation: $300Third violation: $500In addition to the penalty payable to the Commission, the ALJ must order the Owner to pay restitution to the Driver, equal to the excess amount that was charged to the Driver.
@@ -8445,7 +8445,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(g)
       - Fine: $200
@@ -8466,7 +8466,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(h)
       - Fine: $500
@@ -8522,7 +8522,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(i)
       - Fine: First violation $500Second and subsequent violations: $1,000 and/or suspension of the Medallion for up to thirty days.In addition to the penalty payable to the Commission, the administrative law judge must order the owner to pay restitution to the driver, equal to the excess or non-authorized charge that was charged to the driver.
@@ -8544,7 +8544,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-21(j)
       - Fine: $1,000 plus restitution to the driver for losses for the first offense and a fine of $10,000 plus restitution to the driver for the second offense within five years.
@@ -8608,7 +8608,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-22(c)(3)
       - Fine: $25
@@ -8630,7 +8630,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-22(d)(2)
       - Fine: $50
@@ -8648,7 +8648,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-22(d)(3)
       - Fine: $50
@@ -8666,7 +8666,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-22(d)(4)
       - Fine: $100 - $350 and/or suspension up to 30 days
@@ -8702,7 +8702,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-23(a)(1)-(4)
       - Fine: $100
@@ -8722,7 +8722,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-23(a)(6)
       - Fine: $100
@@ -8740,7 +8740,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-23(b)
       - Fine: $100
@@ -8768,7 +8768,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-24(a)
       - Fine: $250
@@ -8798,7 +8798,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-24(b)
       - Fine: $25
@@ -8834,7 +8834,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-24(c)(1)-(9)
       - Fine: $100 for each missing item.
@@ -8852,7 +8852,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-24(d)
       - Fine: $50
@@ -8884,7 +8884,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-25(a)
       - Fine: $100
@@ -8902,7 +8902,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-25(b)
       - Fine: $100
@@ -9084,7 +9084,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-26(h) (3)
       - Fine: $500
@@ -9125,7 +9125,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-27(a)
       - Fine: $100 and suspension until compliance
@@ -9153,7 +9153,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-27(b)
       - Fine: $100 and suspension until compliance
@@ -9183,7 +9183,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-27(d)(1)
       - Fine: $250
@@ -9211,7 +9211,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-27(d)(2)
       - Fine: $250 plus restitution to the Driver of any replenishment account improperly retained by an Owner or Agent
@@ -9237,7 +9237,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-28(a)
       - Fine: $25 - $250
@@ -9255,7 +9255,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-28(b)
       - Fine: $25
@@ -9277,7 +9277,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-28(c)
       - Fine: $50 - $200
@@ -9295,7 +9295,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-28(d)
       - Fine: $100
@@ -9321,7 +9321,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-29(a)
       - Fine: $100 and seizure of the vehicle
@@ -9339,7 +9339,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-29(b)
       - Fine: (penalties below are cumulative)0 - 30 days past inspection due date:$100 and Suspension until compliance31 - 60 days past inspection due date:$100 - $250 and Suspension until compliance61 - 120 days past inspection due date:$250 - $500 and Suspension until complianceMore than 120 days past inspection due date: $500 and/or revocation.
@@ -9367,7 +9367,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-30(a)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -9385,7 +9385,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-30(b)
       - Fine: $50 and suspension until the defective condition is corrected.
@@ -9403,7 +9403,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-30(c)
       - Fine: $100 - $350 and/or suspension up to 30 daysSuspension until compliance
@@ -9429,7 +9429,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(a)
       - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
@@ -9447,7 +9447,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(b)
       - Fine: $75
@@ -9467,7 +9467,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(c)(1)
       - Fine: $100 - $250
@@ -9485,7 +9485,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(c)(2)
       - Fine: $100 - $250
@@ -9503,7 +9503,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(d)
       - Fine: $100
@@ -9521,7 +9521,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(e)
       - Fine: $100 - $350 and/or suspension up to 30 days
@@ -9539,7 +9539,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(f)
       - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
@@ -9559,7 +9559,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(g)(1)
       - Fine: $25
@@ -9577,7 +9577,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(g)(2)
       - Fine: $200
@@ -9595,7 +9595,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(g)(3)
       - Fine: $200
@@ -9613,7 +9613,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-31(h)
       - Fine: $50 - $350 and/or suspension up to 30 days
@@ -9647,7 +9647,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-32(a)(1)-(3)
       - Fine: $75
@@ -9679,7 +9679,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-32(b)(1)-(3)
       - Fine: $200
@@ -9713,7 +9713,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-32(c)
       - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
@@ -9731,7 +9731,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-32(d)
       - Fine: $75
@@ -9749,7 +9749,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-32(e)
       - Fine: $200
@@ -9772,7 +9772,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-32(f)(2)
       - Fine: $50
@@ -9818,7 +9818,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-32(g)(2)
       - Fine: $100. No penalty for missing plaque, if condition is corrected within forty-eight hours
@@ -9846,7 +9846,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-32(h)
       - Fine: $200
@@ -9864,7 +9864,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - INSCRIPTION* 
       - LOCATION 
@@ -9878,7 +9878,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (a) Rate of fare decals [Reserved]
       -  
@@ -9969,7 +9969,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-33(a)(1)-(3)
       - Fine: $25 for each not in vehicle, not to exceed $75 in the aggregate
@@ -10001,7 +10001,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-34(a)(1)
       - Fine: $50 - $350 and/or suspension up to 30 days
@@ -10023,7 +10023,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-34(b)
       - Fine: $100 - $350 And removal of radio
@@ -10041,7 +10041,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-34(c)
       - Fine: $50
@@ -10059,7 +10059,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-34(d)
       - Fine: $175 and suspension until the condition is corrected. Respondent must provide a condition corrected form issued by the TLC's Safety and Emissions Division.
@@ -10085,7 +10085,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-34(e)(1)-(4)
       - Fine: $200
@@ -10103,7 +10103,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-34(e)(5)
       - Fine: $150 for every thirty days the advertising material is posted on the taxicab, if plead guilty before a hearing; $200 for every thirty days the advertising material is posted on the taxicab, if found guilty following a hearing.
@@ -10121,7 +10121,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-34(f)
       - Fine: $75
@@ -10150,7 +10150,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-34(g)
       - Fine: $350 if plead guilty before a hearing; $500 if found guilty following a hearing.
@@ -10184,7 +10184,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-35(a)
       - Fine: $300 and suspension until the condition is corrected
@@ -10216,7 +10216,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-35(c)
       - Fine: $300 and suspension until the condition is corrected
@@ -10244,7 +10244,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-36(a)
       - Fine: $350 if plead guilty before a hearing and supply a condition corrected form issued by TLC's Safety and Emissions Division; $450 if found guilty following a hearing. Suspension until the condition is corrected.
@@ -10262,7 +10262,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-36(b)
       - Fine: $50
@@ -10280,7 +10280,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-36(c)
       - Fine: $50
@@ -10308,7 +10308,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-37(a)(1)
       - Fine: $50
@@ -10327,7 +10327,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-37(a)(2)
       - Fine: $50
@@ -10346,7 +10346,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-37(a)(3)
       - Fine: $500
@@ -10364,7 +10364,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-37(a)(4)
       - Fine: $50
@@ -10382,7 +10382,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-37(a)(5)
       - Fine: $500
@@ -10401,7 +10401,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-37(a)(6)
       - Fine: $500
@@ -10447,7 +10447,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-38(a)-(c)
       - Fine: $100
@@ -10465,7 +10465,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-38(d)
       - Fine: $75
@@ -10503,7 +10503,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-39(a) &amp; (b)
       - Fine: $250 - 1,500 and/or suspension up to 30 days. suspension until compliance under to 35 RCNY § 68-16
@@ -10551,7 +10551,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-39(d) (1)-(4)
       - Fine: $500 - $1,000 and/or suspension up to 60 days or revocation
@@ -10577,7 +10577,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-39(e)(3)(i)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -10596,7 +10596,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-39(e)(3)(ii)
       - Fine: $100
@@ -10614,7 +10614,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-39(e)(3)(iii)
       - Fine: $50
@@ -10632,7 +10632,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-39(e)(3)(iv)
       - Fine: $50
@@ -10650,7 +10650,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-39(e)(3)(v)
       - Fine: $100
@@ -10678,7 +10678,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-40(a)
       - Fine: $1,000 and suspension until compliance
@@ -10697,7 +10697,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-40(b)
       - Fine: $350 if plead guilty before a hearing; $500 if found guilty following a hearing.
@@ -10726,7 +10726,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-41(a)
       - Fine: $150 if plead guilty before a hearing and supply a condition corrected form issued by TLC’s Safety and Emissions Division; $200 if found guilty following a hearing. Suspension until the condition is corrected.
@@ -10753,7 +10753,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-41(c)
       - Fine: $250 and suspension until compliance
@@ -10772,7 +10772,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-41(d)
       - Fine: $250
@@ -10814,7 +10814,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-42(a)-(e)
       - Fine: $50 - 350 and/or suspension up to 30 days.
@@ -10870,7 +10870,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-43(b)(7)
       - Fine: $250
@@ -10892,7 +10892,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-43(c)
       - Fine: $10,000 per entity, per Medallion and attempted transfer invalid, applicable to any person or persons (transferor, transferee or both) whose actions constituted a violation;Revocation may be ordered.
@@ -11360,7 +11360,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-47(e)
       - Fine: $10,000
@@ -11386,7 +11386,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-48(a)
       - Fine: $250 for failure to notify.
@@ -11446,7 +11446,7 @@ EZ-Pass
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 58-48(c)
       - Revocation may be ordered if medallion operated beyond, or not transferred by, the periods specified.
@@ -11530,7 +11530,7 @@ EZ-Pass
 
 
 Chapter 60: Paratransit Vehicles and Bases
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -11582,7 +11582,7 @@ Chapter 60: Paratransit Vehicles and Bases
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Description of Violation 
       - Rule 
@@ -11867,7 +11867,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If a license expires during:
       - The licensee must make an interim payment of:
@@ -11966,7 +11966,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-09(a)
       - Mandatory Penalties See 35 RCNY § 60A-02(d)
@@ -11984,7 +11984,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-09(b)
       - Fine: $25
@@ -12002,7 +12002,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-09(c)
       - Fine: $100
@@ -12026,7 +12026,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-09(d)
       - Fine: $50
@@ -12044,7 +12044,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-09(e)
       - Fine: $50
@@ -12070,7 +12070,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-10(a)
       - Mandatory Penalties. See 35 RCNY § 60A-02(d)
@@ -12088,7 +12088,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-10(b)
       - Mandatory Penalties See 35 RCNY § 60A-02(d)
@@ -12106,7 +12106,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-10(c)
       - Mandatory Penalties See 35 RCNY § 60A-02(d)
@@ -12124,7 +12124,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-10(d)
       - Mandatory Penalties See 35 RCNY § 60A-02(d)
@@ -12142,7 +12142,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-10(e)
       - Fine: $150
@@ -12160,7 +12160,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-10(f)
       - Mandatory Penalties See 35 RCNY § 60A-02(d)
@@ -12192,7 +12192,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-11(a) (1) and (2)
       - Fine: $50
@@ -12214,7 +12214,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-11(b) (1) and (2)
       - Fine: $50
@@ -12238,7 +12238,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-11(c)
       - Fine: $100
@@ -12260,7 +12260,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-11(d)
       - Fine: $100
@@ -12286,7 +12286,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(a)
       - Fine: $10,000 and revocation
@@ -12304,7 +12304,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(b)
       - Fine: $1,000 and/or suspension up to 30 days or revocation
@@ -12322,7 +12322,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(c)
       - Fine: $350 - $1,000 and suspension up to 60 days or revocation.
@@ -12340,7 +12340,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(d)
       - Fine: $150 - $350 and/or suspension up to 30 days or revocation
@@ -12358,7 +12358,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(e)
       - Fine: $150 - $350 and/or suspension up to 30 days or revocation
@@ -12376,7 +12376,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(f)
       - Fine: $50 - $350 and/or suspension up to 30 days
@@ -12394,7 +12394,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(g)
       - Fine: $20 - $350 and/or suspension up to 30 days; possible revocation (OATH)
@@ -12416,7 +12416,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(h)
       - Fine: $50 - $250
@@ -12438,7 +12438,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(i)
       - Fine: $50 to 150
@@ -12458,7 +12458,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(j)(1)
       - Fine: $300 and suspension until compliance
@@ -12476,7 +12476,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(j)(2)
       - Fine: $500
@@ -12494,7 +12494,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(k)
       - Fine: $25
@@ -12512,7 +12512,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(l)
       - Fine: $25 - $350 and/or suspension up to 30 days
@@ -12530,7 +12530,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(m)
       - Fine: $10,000 and revocation.
@@ -12552,7 +12552,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-12(n)
       - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
@@ -12580,7 +12580,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-13(a)
       - Fine: $50
@@ -12604,7 +12604,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-13(b)
       - Fine: $400 and suspensionuntil compliance
@@ -12630,7 +12630,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-16(a)
       - Fine: $25
@@ -12648,7 +12648,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-16(b)
       - Fine: $50
@@ -12666,7 +12666,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-16(c)
       - Fine: $50 - $250 and/or suspension until a monitoring procedure is devised and/or other appropriate action is taken to the satisfaction of the Commission
@@ -12688,7 +12688,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-16(d)
       - Mandatory Penalties. See 35 RCNY § 60A-02(d)
@@ -12716,7 +12716,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-17(a)(1)
       - Fine: $50 - $150
@@ -12734,7 +12734,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-17(a)(2)
       - Fine: $50 - $150
@@ -12772,7 +12772,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-18(a)
       - Fine: $50 for each violation of this rule; however, no violation of this rule may exceed $100 for each vehicle stop
@@ -12792,7 +12792,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-18(c)
       - Fine: $500 if plead guilty before a hearing; $1,000 if found guilty following a hearing. Suspension until compliance.
@@ -12810,7 +12810,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-18(d)
       - Fine: $75 - $350 and/or suspension up to 30 days
@@ -12832,7 +12832,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-18(e)
       - Fine: $30
@@ -12854,7 +12854,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-18(f)(1)-(2)
       - Fine: $50 for each violation of this rule; however, no violation of this rule may exceed $100 for each vehicle stop
@@ -12874,7 +12874,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-18(f)(3)-(4)
       - Fine: $25
@@ -12896,7 +12896,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-18(g)
       - Fine: $30
@@ -12934,7 +12934,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-19(a)(3)
       - Fine: $100
@@ -12958,7 +12958,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-19(b)
       - Fine: $100
@@ -12990,7 +12990,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-20(a)
       - Fine: $50
@@ -13016,7 +13016,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-21(a)
       - Fine: $50
@@ -13040,7 +13040,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-21(b)
       - Fine: $50 - $250
@@ -13060,7 +13060,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-21(d)
       - Fine: $50
@@ -13090,7 +13090,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-22(a)
       - Mandatory Penalty: See 35 RCNY § 60A-02(d) 
@@ -13117,7 +13117,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-25(a)(1)
       - Fine: $50 - $500
@@ -13137,7 +13137,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-25(b)
       - Fine: $100 - $500
@@ -13155,7 +13155,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-25(c)
       - Fine: $100
@@ -13181,7 +13181,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-26(a)
       - Fine: $100
@@ -13199,7 +13199,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-26(b)
       - Fine: $100
@@ -13221,7 +13221,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-26(c)
       - Fine: $100 - $500 and/or suspension for 30 days
@@ -13241,7 +13241,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-26(d)(1)
       - Fine: $25 - $1,000 and possible suspension or revocation (OATH)
@@ -13259,7 +13259,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-26(d)(2)
       - Fine: $25 - $1,000 and possible suspension or revocation (OATH)
@@ -13277,7 +13277,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-26(d)(3)
       - Fine: $25 - $1,000 and possible suspension or revocation
@@ -13305,7 +13305,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-26(d)(4)
       - Fine: $25 - $1,000 and possible suspension or revocation (OATH)
@@ -13331,7 +13331,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-26(d)(5)
       - Fine: $25 - $1,000 and possible suspension or revocation (OATH)
@@ -13349,7 +13349,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-26(d)(6)
       - Fine: $25 - $1,000 and possible suspension or revocation (OATH)
@@ -13375,7 +13375,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-27(a)
       - Fine: $25
@@ -13401,7 +13401,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-28(a)
       - Fine: $50
@@ -13419,7 +13419,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-28(b)
       - Fine: $100
@@ -13437,7 +13437,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-28(c)
       - Fine: $50
@@ -13455,7 +13455,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-28(d)
       - Fine: $25
@@ -13473,7 +13473,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-28(e)
       - Fine: $50
@@ -13495,7 +13495,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-28(f)(1) and (2)
       - Fine: $75
@@ -13519,7 +13519,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-28(h)(1)
       - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
@@ -13543,7 +13543,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-28(j)(1)
       - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
@@ -13591,7 +13591,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-29(a)
       - Fine: $15 for each violation
@@ -13623,7 +13623,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-30(a)
       - Fine: $30 - $300 and/or suspension up to 30 days
@@ -13649,7 +13649,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-33(a)
       - Fine: $250 and suspension until compliance
@@ -13667,7 +13667,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60A-33(b)
       - Fine: $500
@@ -13780,7 +13780,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Description of Violation
       - Rule 
@@ -14026,7 +14026,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-08(a)
       - Fine: $100
@@ -14048,7 +14048,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-08(d)
       - Fine: $100
@@ -14074,7 +14074,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-10(a)
       - Mandatory Penalties. See 35 RCNY § 60B-02(d)
@@ -14092,7 +14092,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-10(b)
       - Mandatory Penalties See 35 RCNY § 60B-02(d)
@@ -14110,7 +14110,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-10(c)
       - Mandatory Penalties See 35 RCNY § 60B-02(d)
@@ -14128,7 +14128,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-10(d)
       - Mandatory Penalties See 35 RCNY § 60B-02(d)
@@ -14146,7 +14146,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-10(e)
       - Fine: $150
@@ -14174,7 +14174,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-11(a)
       - Fine: $25 for each day of non-compliance and either suspension until compliance or license revocation
@@ -14200,7 +14200,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(a)
       - Fine: $10,000 and revocation
@@ -14218,7 +14218,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(b)
       - Fine: $1,000 and/or suspension up to 30 days or revocation
@@ -14236,7 +14236,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(c)
       - Fine: $350 - $1,000 and suspension up to 60 days or revocation.
@@ -14254,7 +14254,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(d)
       - Fine: $150 - $350 and/or suspension up to 30 days or revocation.
@@ -14272,7 +14272,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(e)
       - Fine: $150 - $350 and/or suspension up to 30 days or revocation.
@@ -14294,7 +14294,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(f)
       - Fine: $25 - $350 and/or suspension up to 30 days
@@ -14312,7 +14312,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(g)
       - Fine: $20 - $350 and/or suspension up to 30 days; possible revocation (OATH)
@@ -14334,7 +14334,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(h)
       - Fine: $50 - $250
@@ -14352,7 +14352,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(i)
       - Fine: $15 - $150
@@ -14372,7 +14372,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(j)(1)
       - Fine: $300 and Suspension until compliance
@@ -14390,7 +14390,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(j)(2)
       - Fine: $500
@@ -14408,7 +14408,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(k)
       - Fine: $25
@@ -14426,7 +14426,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(l)
       - Fine: $10,000 and revocation.
@@ -14448,7 +14448,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-12(m)
       - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
@@ -14478,7 +14478,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-14(b)
       - Fine: $50 
@@ -14506,7 +14506,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-16(a)
       - Mandatory Penalties. See 35 RCNY § 60B-02(d)
@@ -14524,7 +14524,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-16(b)
       - Fine: $25
@@ -14542,7 +14542,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-16(c)
       - Fine: $50
@@ -14560,7 +14560,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-16(d)
       - Fine: $50 - $250 and/or suspension until a monitoring procedure is devised and/or other appropriate action is taken to the satisfaction of the Commission
@@ -14586,7 +14586,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-17(a)
       - Fine: $50
@@ -14608,7 +14608,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-17(b)
       - Fine: $50
@@ -14648,7 +14648,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-18(a)
       - Fine: $250 and suspension until compliance
@@ -14666,7 +14666,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-18(b)
       - Fine: $500 if plead guilty before a hearing; $1,000 if found guilty following a hearing. Suspension until compliance.
@@ -14684,7 +14684,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-18(c)
       - Fine: $30
@@ -14702,7 +14702,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-18(d)
       - Fine: $30
@@ -14734,7 +14734,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-19(a)(2)-(3)
       - Fine: $100
@@ -14760,7 +14760,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-19(b)
       - Fine: $100
@@ -14792,7 +14792,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-20(a)
       - Fine: $50
@@ -14818,7 +14818,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-21(a)
       - Fine: $50
@@ -14836,7 +14836,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-21(b)
       - Fine: $50
@@ -14854,7 +14854,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-21(c)
       - Fine: $50
@@ -14882,7 +14882,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-22
       - Fine: $50
@@ -14910,7 +14910,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-25
       - Fine: $50 - $500
@@ -14936,7 +14936,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-28(a)
       - Fine: $50
@@ -14954,7 +14954,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-28(b)
       - Fine: $50
@@ -14972,7 +14972,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-28(c)
       - Fine: $25
@@ -14990,7 +14990,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-28(d)
       - Fine: $50
@@ -15012,7 +15012,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-28(e)(1) and (2)
       - Fine: $75
@@ -15036,7 +15036,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-28(g)(1)
       - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
@@ -15060,7 +15060,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-28(i)(1)
       - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
@@ -15100,7 +15100,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-29(a)
       - Fine: $15 for each violation
@@ -15126,7 +15126,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-30(a)
       - Fine: $15
@@ -15144,7 +15144,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-30(b)
       - Fine: $50 - $250
@@ -15170,7 +15170,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-33(a)
       - Fine: $250 and suspension until compliance
@@ -15188,7 +15188,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-33(b)
       - Fine: $500
@@ -15208,7 +15208,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-33(c)(1)
       - Fine: $250
@@ -15230,7 +15230,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 60B-33(c)(2)
       - Fine: $250
@@ -15246,7 +15246,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 Chapter 61: Commuter Van Vehicles and Owners
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -15304,7 +15304,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section
       - Violation
@@ -15537,7 +15537,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - If a license expires during:
       - The licensee must make an interim payment of:
@@ -15636,7 +15636,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-10(a)
       - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
@@ -15654,7 +15654,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-10(b)
       - Fine: $1,000 – first violation; $2,000 – subsequent violation within twenty-four months
@@ -15672,7 +15672,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-10(c)
       - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
@@ -15696,7 +15696,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-10(d)
       - Fine: $500 and Suspension of Commuter-Van license until compliance
@@ -15720,7 +15720,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-10(e)(1) and (3)
       - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
@@ -15769,7 +15769,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-11(a)
       - Fine: $300 and/or revocation of Commuter-Van license
@@ -15787,7 +15787,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Type of Liability
       - Minimum Coverage Required
@@ -15818,7 +15818,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-11(b)
       - Fine: $300 and suspension until complianceThree or more violations within one year: License revocation (see Mandatory Penalties 35 RCNY § 61A-02(e))
@@ -15874,7 +15874,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(a)
       - Fine: $1,000 and/orsuspension or revocation
@@ -15892,7 +15892,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(b)
       - Fine: $1,000 and/orsuspension or revocation
@@ -15910,7 +15910,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(c)
       - Fine: $50 – $350 and/orsuspension or revocation
@@ -15932,7 +15932,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(d)
       - Fine: $100
@@ -15952,7 +15952,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(e)(1)
       - Fine: $300 and Suspension until compliance
@@ -15970,7 +15970,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(e)(2)
       - Fine: $50 - $150
@@ -15988,7 +15988,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(e)(3)
       - Fine: $75 - $350 and/orsuspension until compliance
@@ -16006,7 +16006,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(e)(4)
       - Fine: $75 - $350 and/orsuspension until compliance
@@ -16024,7 +16024,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(e)(5)
       - Fine: $500
@@ -16042,7 +16042,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12 (f)
       - Fine: $150 - $350 and/orsuspension up to 30 days or revocation
@@ -16060,7 +16060,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12 (g)
       - Fine: $150 - $350 and/orsuspension up to 30 days or revocation
@@ -16078,7 +16078,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12 (h)
       - Fine: $350 - $1,000 andsuspension up to 60 days or revocation
@@ -16096,7 +16096,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(i)
       - Fine: $10,000 and revocation.
@@ -16118,7 +16118,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-12(j)
       - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
@@ -16160,7 +16160,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-13(b)
       - Fine: $25 for each day of non-compliance, and either suspension until compliance or license revocation.
@@ -16178,7 +16178,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-13(c)
       - Fine: $200 - $350
@@ -16196,7 +16196,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-13(d)
       - Fine: $300 and suspension of the Commuter-Van license until compliance
@@ -16220,7 +16220,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-13(e)
       - Fine: $400 and suspensionuntil compliance
@@ -16256,7 +16256,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-16(a), (b)
       - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
@@ -16274,7 +16274,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-16(c)
       - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
@@ -16294,7 +16294,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-16(e)
       - Fine: $50
@@ -16330,7 +16330,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-17
       - Fine: $200 - $350
@@ -16366,7 +16366,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-19(a)
       - Fine: $100
@@ -16388,7 +16388,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-19(b)(2)
       - Fine: $100
@@ -16418,7 +16418,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-24(a)
       - Fine: $50
@@ -16444,7 +16444,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-25(a)
       - Fine: $300
@@ -16462,7 +16462,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-25(b)
       - Fine: $100
@@ -16488,7 +16488,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-26(a)
       - Fine: $100 - $500 and/or suspension or revocation of Commuter-Van LicenseThree or more violations within one year: License revocation (see Mandatory Penalties 35 RCNY § 61A-02(e))
@@ -16506,7 +16506,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-26(b)
       - Fine: $100
@@ -16544,7 +16544,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-27(a)
       - Fine: $50
@@ -16568,7 +16568,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-27(b)
       - Fine: $50
@@ -16598,7 +16598,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-27(c)
       - First violation in a 1-monthperiod: $500Second and subsequent violations within a 12-month period: $1,000 and suspension of the Commuter-Van License until compliance
@@ -16638,7 +16638,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-27(d)
       - Fine: $100
@@ -16656,7 +16656,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-27(e)
       - Fine: $100
@@ -16678,7 +16678,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-27(f)(1) and (2)
       - Fine: $75
@@ -16702,7 +16702,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-27(h)(1)
       - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
@@ -16726,7 +16726,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-27(j)(1)
       - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
@@ -16760,7 +16760,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-28(a)
       - Fine: $25 per missing item; maximum penalty $50
@@ -16784,7 +16784,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-28(b)
       - Fine: $100
@@ -16812,7 +16812,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-29(a)
       - Fine: $100
@@ -16830,7 +16830,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61A-29(b)
       - Fine: $50
@@ -16895,7 +16895,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Section
       - Violation
@@ -17220,7 +17220,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-10(a)
       - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
@@ -17238,7 +17238,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-10(b)
       - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four monthsMultiple violations: See Mandatory Penalties (35 RCNY § 61B-02(d))
@@ -17262,7 +17262,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-10(c)
       - Fine: $500 and Suspension of Commuter-Van license until complianceMultiple violations: See Mandatory Penalties (35 RCNY § 61B-02(d))
@@ -17290,7 +17290,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-10(d)
       - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
@@ -17334,7 +17334,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-11(a)
       - Fine: $300 and/or revocation of Commuter-Van licenseIf each one of a group of at least 30% of the Vehicles affiliated with a Commuter-Van Service fails to maintain liability insurance three times within a 12 month period, the Service's Authorization will be revoked
@@ -17352,7 +17352,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Type of Liability
       - Minimum Coverage Required
@@ -17383,7 +17383,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-11(b)
       - Fine: $300 and suspension until complianceMultiple violations: See Mandatory Penalties (35 RCNY § 61B-02(d))
@@ -17439,7 +17439,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(a)
       - Fine: $1,000 and/or suspension or revocation
@@ -17457,7 +17457,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(b)
       - Fine: $1,000 and/or suspension or revocation
@@ -17475,7 +17475,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(c)
       - Fine: $50 – $350 and/or suspension or revocation
@@ -17497,7 +17497,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(d)
       - Fine: $100
@@ -17517,7 +17517,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(e)(1)
       - Fine: $300 and Suspension until compliance
@@ -17535,7 +17535,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(e)(2)
       - Fine: $50 - $150
@@ -17553,7 +17553,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(e)(3)
       - Fine: $75 - $350 and/or suspension until compliance
@@ -17571,7 +17571,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(e)(4)
       - Fine: $75 - $350 and/or suspension until compliance
@@ -17589,7 +17589,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(e)(5)
       - Fine: $500
@@ -17607,7 +17607,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12 (f)
       - Fine: $150 - $350 and/orsuspension up to 30 days or revocation
@@ -17625,7 +17625,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12 (g)
       - Fine: $150 - $350 and/orsuspension up to 30 days or revocation
@@ -17643,7 +17643,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12 (h)
       - Fine: $350 - $1,000 andsuspension up to 60 days or revocation
@@ -17661,7 +17661,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(i)
       - Fine: $10,000 and revocation.
@@ -17683,7 +17683,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-12(j)
       - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
@@ -17725,7 +17725,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-13(b)
       - Fine: $25 for each day of non-compliance, and either suspension until compliance or license revocation.
@@ -17743,7 +17743,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-13(c)
       - Fine: $200 - $350
@@ -17761,7 +17761,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-13(d)
       - Fine: $300 and suspension of the Commuter-Van license until compliance
@@ -17787,7 +17787,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-16(a)
       - Fine: $50 if plead guiltybefore a hearing; $100 if found guilty following a hearing.
@@ -17807,7 +17807,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-16(b)(1)
       - Fine: $50 if plead guiltybefore a hearing; $100 if found guilty following a hearing.
@@ -17831,7 +17831,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-16(c)
       - Fine: $50 if plead guiltybefore a hearing; $100 if found guilty following a hearing.
@@ -17867,7 +17867,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-17
       - Fine: $200 - $350
@@ -17895,7 +17895,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-18(a)(1)
       - Fine: $50
@@ -17913,7 +17913,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-18(a)(2)
       - Fine: $300
@@ -17941,7 +17941,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-19(a)
       - Fine: $100
@@ -17963,7 +17963,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-19(b)(1)-(2)
       - Fine: $100
@@ -18007,7 +18007,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-20(a)
       - Fine: $300
@@ -18025,7 +18025,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-20(b)
       - Fine: $300
@@ -18051,7 +18051,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-24(a)
       - Fine: $50
@@ -18081,7 +18081,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-25(a)
       - Fine: $300
@@ -18099,7 +18099,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-25(b)
       - Fine: $100
@@ -18125,7 +18125,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-26(a)
       - Fine: $100 - $500 and/or suspension or revocation of Commuter-Van licenseMultiple violations: See Mandatory Penalties(35 RCNY § 61B-02(d))
@@ -18157,7 +18157,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-27(a)
       - Fine: $50
@@ -18179,7 +18179,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-27(b)
       - Fine: $50
@@ -18207,7 +18207,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-27(c)
       - First violation in a 12-monthperiod: $500Second and subsequent violations within a 12-month period: $1,000 and suspension of the Commuter-Van License until compliance
@@ -18250,7 +18250,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-27(d)
       - Fine: $100
@@ -18268,7 +18268,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-27(e)
       - Fine: $100
@@ -18290,7 +18290,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-27(f)(1) and (2)
       - Fine: $75
@@ -18314,7 +18314,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-27(h)(1)
       - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
@@ -18338,7 +18338,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-27(j)(1)
       - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
@@ -18374,7 +18374,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-28(a)
       - Fine: $25 per missing item; maximum penalty $50
@@ -18402,7 +18402,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 61B-29(a)
       - Fine: $100
@@ -18418,7 +18418,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 Chapter 62: Taxicab Brokers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -18733,7 +18733,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-12(a)
       - Fine: $500 - $1,500
@@ -18751,7 +18751,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-12(b)
       - Fine: $100
@@ -18769,7 +18769,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-12(c)
       - Fine: $500 - $1,500
@@ -18787,7 +18787,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-12(d)
       - Fine: $25
@@ -18805,7 +18805,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-12(e)
       - Fine: $2,500 and suspension
@@ -18823,7 +18823,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-12(f)
       - Fine: $2,500 and suspension
@@ -18851,7 +18851,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-13(a)(1)
       - Fine: $500 - $1,000
@@ -18869,7 +18869,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-13(a)(2)
       - Fine: $250 - $1,000
@@ -18887,7 +18887,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-13(b)
       - Fine: $500 - $1,000
@@ -18905,7 +18905,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-13(c)
       - Fine: $250 - $1,000
@@ -18923,7 +18923,7 @@ Chapter 62: Taxicab Brokers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-13(d)
       - Fine: $250 - $2,000
@@ -18949,7 +18949,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-14
       - Fine: $100 - $750
@@ -18975,7 +18975,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-15(a)
       - Fine: $500 - $2,000
@@ -18993,7 +18993,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-15(b)
       - Fine: $250 - $750
@@ -19011,7 +19011,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-15(c)
       - Fine: $250 - $2,000
@@ -19039,7 +19039,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-16(a)-(b)
       - Fine: $50 - $500 and/or suspension
@@ -19061,7 +19061,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-16(c)(1)-(2)
       - Fine: $100
@@ -19093,7 +19093,7 @@ An "Exclusive Right to Sell" listing with a Broker is one where the owner has su
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-17(a)
       - Fine: $100 - $500
@@ -19111,7 +19111,7 @@ An "Exclusive Right to Sell" listing with a Broker is one where the owner has su
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-17(b)
       - Fine: $100 - $750
@@ -19137,7 +19137,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-18
       - Fine: $100 - $1,000
@@ -19171,7 +19171,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-19(a)(1)-(4)
       - Fine: $400 - $2,000 and/or suspension
@@ -19189,7 +19189,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-19(a)(5)
       - Fine: $500 - $1,000
@@ -19209,7 +19209,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-19(b)(1)
       - Fine: $400 - $2,000 and/or suspension
@@ -19243,7 +19243,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-19(b)(2)(i)-(viii)
       - Fine: $500 - $2,000
@@ -19261,7 +19261,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-19(b)(3)
       - Fine: $1,000-$2,500 and/or suspension or revocation
@@ -19301,7 +19301,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-20(a)(1)-(7)
       - Fine: $250 - $1,000
@@ -19319,7 +19319,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-20(b)
       - Fine: $500 - $1,500 and/or suspension
@@ -19345,7 +19345,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-21(a)
       - Fine: $1,000 - $2,500
@@ -19363,7 +19363,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-21(b)
       - Fine: $1,000 - $2,500
@@ -19381,7 +19381,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-21(c)
       - Fine: $100 - $500
@@ -19399,7 +19399,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-21(d)
       - Fine: $100 - $500
@@ -19425,7 +19425,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-22(a)
       - Fine: $100 - $750
@@ -19443,7 +19443,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-22(b)
       - Fine: $500 - $2,000
@@ -19469,7 +19469,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(a)
       - $2,000 and/or suspension or revocation
@@ -19487,7 +19487,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(b)
       - $500 - $1,000 and/or suspension or revocation
@@ -19505,7 +19505,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(c)
       - $100 - $2,500 and/or suspension or revocation
@@ -19523,7 +19523,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(d)
       - $100 - $2,500 and/or suspension or revocation
@@ -19541,7 +19541,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(e)
       - $100 - $2,500 and/or suspension or revocation
@@ -19559,7 +19559,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(f)
       - $1,000 - $2,500
@@ -19577,7 +19577,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(g)
       - $2,000 - $5,000 and/or suspension or revocation
@@ -19599,7 +19599,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(h)
       - $500 - $1,000
@@ -19617,7 +19617,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(i)
       - $500 - $1,500 and/or suspension
@@ -19637,7 +19637,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(j)(1)
       - $250 - $750 and/or suspension
@@ -19655,7 +19655,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 62-23(j)(2)
       - $250 - $750 and/or suspension 
@@ -19671,7 +19671,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 Chapter 63: Taxicab Agent Rules
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -19756,7 +19756,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-04(a)
       - Fine: $500 - $1,000
@@ -19898,7 +19898,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-05(d)(3)
       - Fine: $500 - $1,500
@@ -19982,7 +19982,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-08(a)(1)-(4)
       - Fine: $1,000 - $10,000 and/or revocation
@@ -20000,7 +20000,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-08(b)
       - Fine: $1,000 - $5,000
@@ -20018,7 +20018,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-08(c)
       - Fine: $1,000 - $5,000
@@ -20036,7 +20036,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-08(d)
       - Fine: $1,000 - $5,000
@@ -20058,7 +20058,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-08(e)
       - Fine: $500 - $1,500 and Suspension until compliance.
@@ -20076,7 +20076,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-08(f)
       - Fine: $100 - $350 and/or suspension up to 30 days
@@ -20094,7 +20094,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-08(g)
       - Fine: $100 - $350 and/or suspension up to 30 days
@@ -20112,7 +20112,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-08(h)
       - Fine: $100
@@ -20134,7 +20134,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-08(i)(1)-(2)
       - Fine: $100
@@ -20166,7 +20166,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-09(a)
       - Fine: $500 - $2,000 and/or suspension up to 30 days
@@ -20184,7 +20184,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-09(b)
       - Fine: $500 - $2,000 and/or suspension up to 30 days
@@ -20222,7 +20222,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-10(a)-(d)
       - Fine: $500 - $1,000 and suspension until compliance
@@ -20248,7 +20248,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-10(e)
       - Fine: $250 if plead guilty before a hearing; $500 if found guilty following a hearing.
@@ -20274,7 +20274,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-11(a)
       - Fine: $250 and suspension until compliance
@@ -20292,7 +20292,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-11(b)
       - Fine: $100
@@ -20316,7 +20316,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-11(c)(1)(i)-(ii)
       - Fine: $350
@@ -20334,7 +20334,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-11(c)(2)
       - $500 - $2,000 and/or suspension up to 30 days
@@ -20354,7 +20354,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-11(d)(1)
       - Fine: $1,000 -$10,000 per medallion and/or suspension until compliance
@@ -20378,7 +20378,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-11(e)(1)
       - Fine: $400 and/or suspension up to 30 days 
@@ -20402,7 +20402,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-11(e)(2)
       - Fine: $500 and suspension until compliance
@@ -20422,7 +20422,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-11(g)
       - Fine: $1,000 and suspension until compliance.
@@ -20468,7 +20468,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-12(c)(1)-(2)
       - Fine: $250 - $1,500 and/or suspension up to 30 days
@@ -20489,7 +20489,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-12(d)(1)
       - Fine: $200
@@ -20508,7 +20508,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-12(d)(2)
       - Fine: $250 and suspension until compliance
@@ -20527,7 +20527,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-12(d)(3)
       - Fine: $250 and suspension until compliance
@@ -20554,7 +20554,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-12d)(4)(i-iv)
       - Fine: $350 and/or suspension up to 30 days
@@ -20604,7 +20604,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-14(a)
       - Fine: $1,000 and suspension until compliance
@@ -20623,7 +20623,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-14(b)
       - Fine: $250 and suspension until compliance
@@ -20647,7 +20647,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-14(c)(1)-(3)
       - Fine: $250 and suspension until compliance
@@ -20666,7 +20666,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-14(d)
       - Fine: $250 and suspension until compliance
@@ -20684,7 +20684,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 63-14(e)
       - Fine: $250
@@ -20718,7 +20718,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 Chapter 64: Licensing and Rules For Taximeter Businesses and Manufacturers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -20997,7 +20997,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-10(a)-(d)
       - Penalty: $500 - $1,000 fine and/or suspension until compliance
@@ -21023,7 +21023,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-11(a)
       - Penalty: $350 - $1,000 fine and/or suspension up to 30 days or revocation
@@ -21041,7 +21041,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-11(b)
       - Penalty: $350 - $1,000 fine and/or suspension up to 30 days or revocation
@@ -21059,7 +21059,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-11(c)
       - Penalty: $100 - $350 fine and/or suspension up to 30 days
@@ -21077,7 +21077,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-11(d)
       - Penalty: $10,000 fine and revocation
@@ -21103,7 +21103,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-12(a)
       - Penalty: $500 - $1,000 fine and/or suspension up to 30 days
@@ -21121,7 +21121,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-12(b)
       - Penalty: $500 - $1,000 fine and suspension until compliance
@@ -21147,7 +21147,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-13(a)
       - Penalty: $50 fine
@@ -21165,7 +21165,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-13(b)
       - Penalty: $50 fine
@@ -21183,7 +21183,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-13(c)
       - Penalty: $50 fine
@@ -21201,7 +21201,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-13(d)
       - Penalty: $50 fine
@@ -21235,7 +21235,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-14(a)(1)-(4)
       - Penalty: $500 - $1,000 fine and suspension until compliance
@@ -21261,7 +21261,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-14(a)(5)
       - Fine: $250 if plead guilty before a hearing; $500 if found guilty following a hearing.
@@ -21279,7 +21279,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-14(b)
       - Penalty: $500 - $1,000 fine
@@ -21297,7 +21297,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-14(c)
       - Penalty: $500 - $1,000 fine and suspension until compliance
@@ -21325,7 +21325,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-15(a)
       - Penalty: $500 - $1,000 fine
@@ -21343,7 +21343,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-15(b)
       - Penalty: $500 - $1,000 fine
@@ -21371,7 +21371,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-16(a)-(b)
       - Penalty: $100 fine
@@ -21401,7 +21401,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-17(a)-(c)
       - Fine: $100
@@ -21437,7 +21437,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-18(d)
       - Penalty: $500 - $1,000 fine and/or suspension up to 60 days or revocation
@@ -21455,7 +21455,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-18(e)
       - Penalty: $500 fine and suspension until compliance
@@ -21473,7 +21473,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-18(f)
       - Penalty: $500 - $1,000 fine and suspension
@@ -21525,7 +21525,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-19(a)-(b)
       - Penalty: $500 - $1,500 and/or suspension up to 60 days or revocation (If the failure to report relates to a medallion in which the Taximeter Business has a financial or other interest, the penalty may include fine or revocation of the medallion or loss of medallion owner's privileges as provided in the Commission's rules)
@@ -21563,7 +21563,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-20(a)-(f)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -21605,7 +21605,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-21(a)-(h)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation for each subdivision violated
@@ -21631,7 +21631,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-22(a)
       - Penalty: $1,000 - $5,000 fine and suspension until consent of Commission is obtained or change in business ownership is withdrawn, or revocation
@@ -21649,7 +21649,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-22(b)
       - Penalty: $500 - $1,000 fine
@@ -21677,7 +21677,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-23(a)-(b)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -21723,7 +21723,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-24(a)-(e)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -21761,7 +21761,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-25(a)-(b)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -21797,7 +21797,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-26(a)-(e)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -21825,7 +21825,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-27(a)
       - Penalty: $500 fine and suspension until compliance
@@ -21843,7 +21843,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-277(b)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -21861,7 +21861,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-27(c)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -21885,7 +21885,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-27(d)
       - Penalty: $500 fine and suspension until compliance
@@ -21915,7 +21915,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-28(a)-(c)
       - Penalty: $500 fine
@@ -21953,7 +21953,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-29(a)-(g)
       - Penalty: $500 fine for each subdivision violated
@@ -22005,7 +22005,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-31(a)-(c)
       - Penalty: $10,000 fine and revocation if the Taximeter Business License is suspended
@@ -22037,7 +22037,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-32(a)-(c)
       - Penalty: $10,000 fine and revocation
@@ -22058,7 +22058,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-32(e)
       - Penalty: $10,000 fine and revocation
@@ -22080,7 +22080,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-32(f)
       - Penalty: $150 - $350 and/or suspension up to 30 days or revocation
@@ -22102,7 +22102,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-32(g)
       - Penalty: $500 - $1,000 and/or suspension up to 30 days
@@ -22120,7 +22120,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-32(h)
       - Penalty: $350 - $1,000 and/or suspension up to 30 days or revocation
@@ -22138,7 +22138,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-32(i)
       - Penalty: $500 - $1,500 and/or suspension up to 60 days or revocation
@@ -22156,7 +22156,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-32(j)
       - Penalty: $250 fine
@@ -22174,7 +22174,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 64-32(k)
       - Penalty: $250 fine and suspension until compliance
@@ -22210,7 +22210,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 Chapter 65: Sale of Taxicab Medallions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22520,7 +22520,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 65-08(a)
       - Penalty: $10,000 fine and either disqualification of bid or, if sale has closed, revocation of Taxicab License(s)
@@ -22538,7 +22538,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 65-08(b)
       - Penalty: $10,000 fine and either disqualification of bid or, if sale has closed, revocation of Taxicab License(s)
@@ -22673,7 +22673,7 @@ Reissued Medallions are Medallions that meet the following criteria:
 
 
 Chapter 66: Licensing &amp; Rules for Technology System Providers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22791,7 +22791,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-02(d)
       - Penalty: $500 - $1,000 fine
@@ -23073,7 +23073,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-08
       - Penalty: $10,000
@@ -23107,7 +23107,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-09(a)-(d)
       - Penalty: $500 - $1,000 fine and/or suspension until compliance
@@ -23139,7 +23139,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-10(a)-(b)
       - Penalty: $500 - $1,000 fine and/or suspension until compliance
@@ -23168,7 +23168,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-11(a)
       - Penalty: $350 - $1,000 fine and/or suspension up to 30 days or revocation
@@ -23187,7 +23187,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-11(b)
       - Penalty: $350 - $1,000 fine and/or suspension up to 30 days or revocation
@@ -23206,7 +23206,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-11(c)
       - Penalty: $100 - $350 fine and/or suspension up to 30 days
@@ -23225,7 +23225,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-11 (d)
       - Penalty: $10,000 fine and revocation
@@ -23253,7 +23253,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-12(a)
       - Penalty: $500 - $1,000 fine and/or suspension up to 30 days
@@ -23271,7 +23271,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-12(b)
       - Penalty: $500 - $1,000 fine and suspension until compliance
@@ -23289,7 +23289,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-12(c)
       - Penalty: $1,000
@@ -23322,7 +23322,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-13(a)-(c)
       - Fine: $100
@@ -23354,7 +23354,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-14(a)
       - Penalty: $1,000 - $5,000 fine and suspension until consent of Commission is obtained or change in business ownership is withdrawn, or revocation
@@ -23372,7 +23372,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-14(b)
       - Penalty: $500 - $1,000 fine
@@ -23421,7 +23421,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-15(a)
       - Penalty: First Violation: $1,000 fineSecond Violation: $1,000 and/or suspension
@@ -23439,7 +23439,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-15(b)
       - Penalty: First Violation: $1,000 fineSecond Violation: $1,000 and/or suspension
@@ -23457,7 +23457,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-15(c)
       - Penalty: First Violation: $1,000 fineSecond Violation: $1,000 and/or suspension
@@ -23494,7 +23494,7 @@ All of the following conditions apply with regard to a Technology System Provide
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-16(a)-(d)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation for each subdivision violated
@@ -23615,7 +23615,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-18(a)(1)-(3)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation for each paragraph violated
@@ -23648,7 +23648,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-19(a)(1)-(2)
       - Penalty: $500 per day payment is late and/or suspension up to 60 days or revocation for each paragraph violated
@@ -23671,7 +23671,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-19(b)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -23689,7 +23689,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-19(c)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -23707,7 +23707,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-19(d)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -23725,7 +23725,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-19(e)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -23743,7 +23743,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-19(f)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -23761,7 +23761,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-19(g)
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation
@@ -23808,7 +23808,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-20(h)*
       - Penalty: $500 - $1,000 fine and/or suspension up to 60 days or revocation
@@ -23828,7 +23828,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-20(i)
       - Penalty: $500 - $1,000 fine and/or suspension up to 60 days or revocation
@@ -23846,7 +23846,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-20(j)
       - Penalty: $500 fine and suspension until compliance
@@ -23864,7 +23864,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-20(k)
       - Penalty: $500 - $1,000 fine and suspension
@@ -23893,7 +23893,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-21
       - Penalty: $500 - $1,000 fine and suspension
@@ -23924,7 +23924,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-22(a)
       - Penalty: $5,000 and suspension until compliance
@@ -23953,7 +23953,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-22(b)
       - Penalty: $5,000 and suspension until compliance
@@ -23972,7 +23972,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-22(c)
       - Penalty: Suspension until compliance
@@ -24004,7 +24004,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-23(a)-(c)
       - Penalty: $10,000 fine and revocation
@@ -24033,7 +24033,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-23(e)
       - Penalty: $10,000 fine and revocation
@@ -24055,7 +24055,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-23(f)
       - Penalty: $150 - $350 and/or suspension up to 30 days or revocation
@@ -24078,7 +24078,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-23(g)
       - Penalty: $500 - $1,000 and/or suspension up to 30 days
@@ -24096,7 +24096,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-23(h)
       - Penalty: $350 - $1,000 and/or suspension up to 30 days or revocation
@@ -24114,7 +24114,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-23(i)
       - Penalty: $500 - $1,500 and/or suspension up to 60 days or revocation
@@ -24132,7 +24132,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-23(j)
       - Penalty: $250 fine
@@ -24150,7 +24150,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 66-23(k)
       - Penalty: $250 fine and suspension until compliance
@@ -24474,7 +24474,7 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
 
 Chapter 67: Rules For Taxicab Hack-up and Maintenance
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -25153,7 +25153,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 Chapter 68: Procedures Relating To Enforcement
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -25966,7 +25966,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 Chapter 70: Transition Rules
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -26105,7 +26105,7 @@ This chapter is informational in nature and does not provide for any penalties.
 
 
 Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -26358,7 +26358,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 Chapter 76: Information Security Rules For Taxicab Technology Service Providers [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -26391,7 +26391,7 @@ Chapter 76: Information Security Rules For Taxicab Technology Service Providers 
 
 
 Chapter 77: Licensing and Rules for Dispatch Service Providers
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -26472,7 +26472,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY §77-02(d)
       - Penalty: $1,000 fine
@@ -26676,7 +26676,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-05(h) 
       - Penalty: $1,500 fine and/or suspension up to 60 days or revocation
@@ -26790,7 +26790,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-09
       - Penalty: $10,000
@@ -26824,7 +26824,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-10
       - Penalty: $1,000 fine and/or suspension until compliance
@@ -26854,7 +26854,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-11(a)-(b)
       - Penalty: $1,000 fine and/or suspension until compliance
@@ -26882,7 +26882,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-12 (a)
       - Penalty: $10,000 fine and revocation
@@ -26910,7 +26910,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-13(a)*
       - Penalty: $1,000 fine and/or suspension up to 30 days
@@ -26928,7 +26928,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-13(b)*
       - Penalty: $1,000 fine and suspension until compliance
@@ -26946,7 +26946,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-13(c)*
       - Penalty: $1,000 fine and suspension until compliance
@@ -26980,7 +26980,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-14(a)-(c)
       - Fine: $100
@@ -27022,7 +27022,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-15(a)
       - Penalty: $1,000 fine
@@ -27066,7 +27066,7 @@ All of the following conditions apply with regard to a Dispatch Service Provider
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-16
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation for each subdivision violated
@@ -27094,7 +27094,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-17
       - Penalty: $500 fine and suspension until compliance
@@ -27126,7 +27126,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-18(a)-(c)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -27158,7 +27158,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-19(a)-(c)
       - Penalty: $10,000 fine and revocation
@@ -27178,7 +27178,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-19(d)-(e)
       - Penalty: $10,000 fine and revocation
@@ -27200,7 +27200,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-19(f)
       - Penalty: $350 and/or suspension up to 30 days or revocation
@@ -27222,7 +27222,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-19(g)
       - Penalty: $500 and/or suspension up to 30 days
@@ -27240,7 +27240,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-19(h)
       - Penalty: $500 and/or suspension up to 30 days or revocation
@@ -27258,7 +27258,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-19(i)
       - Penalty: $500 and/or suspension up to 60 days or revocation
@@ -27276,7 +27276,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-19(j)
       - Penalty: $250 fine
@@ -27294,7 +27294,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-19(k)
       - Penalty: $250 fine and suspension until compliance
@@ -27354,7 +27354,7 @@ No Dispatch Service Provider will be approved by the Commission pursuant to this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-20(a)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -27380,7 +27380,7 @@ No Dispatch Service Provider will be approved by the Commission pursuant to this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-20(b)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -27412,7 +27412,7 @@ No Dispatch Service Provider will be approved by the Commission pursuant to this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-20(c)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -27456,7 +27456,7 @@ No Dispatch Service Provider will be approved by the Commission pursuant to this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-20(d)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -27474,7 +27474,7 @@ No Dispatch Service Provider will be approved by the Commission pursuant to this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-20(e)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -27496,7 +27496,7 @@ No Dispatch Service Provider will be approved by the Commission pursuant to this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-20(f)
       - Penalty: $1,000 fine and/or suspension up to 60 days or revocation 
@@ -27514,7 +27514,7 @@ No Dispatch Service Provider will be approved by the Commission pursuant to this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 77-20(g)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -27532,7 +27532,7 @@ No Dispatch Service Provider will be approved by the Commission pursuant to this
 
 
 Chapter 78: Licensing and Rules for Providers of E-Hail Applications
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -27613,7 +27613,7 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY §78-02(d)
       - Penalty: $1,000 fine
@@ -27875,7 +27875,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-05(e)
       - Penalty: $1,500 fine and/or suspension up to 60 days or revocation
@@ -28001,7 +28001,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-09
       - Penalty: $10,000
@@ -28033,7 +28033,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-10
       - Penalty: $1,000 fine and/or suspension until compliance
@@ -28063,7 +28063,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-11(a)-(b)
       - Penalty: $1,000 fine and/or suspension until compliance
@@ -28089,7 +28089,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-12 (a)
       - Penalty: $10,000 fine and revocation
@@ -28115,7 +28115,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-13(a)
       - Penalty: $1,000 fine and/or suspension up to 30 days
@@ -28133,7 +28133,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-13(b)
       - Penalty: $1,000 fine and suspension until compliance
@@ -28151,7 +28151,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-13(c)
       - Penalty: $1,000 fine and suspension until compliance
@@ -28181,7 +28181,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-14(a)-(c)
       - Fine: $100
@@ -28219,7 +28219,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-15(a)
       - Penalty: $200 fine
@@ -28238,7 +28238,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-15(b)
       - Penalty: $1,000 fine
@@ -28282,7 +28282,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-16
       - Penalty: $500 - $1,500 fine and/or suspension up to 60 days or revocation for each subdivision violated
@@ -28316,7 +28316,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-17(a)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation for each paragraph violated
@@ -28335,7 +28335,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-17(b)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -28354,7 +28354,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-17(c)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -28373,7 +28373,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-17(d)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -28392,7 +28392,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-17(e)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -28411,7 +28411,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-17(f)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -28445,7 +28445,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-18(a)
       - Penalty: $500 fine and suspension until compliance for each subdivision violated
@@ -28475,7 +28475,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-19(a)-(c)
       - Penalty: $500 fine and/or suspension up to 60 days or revocation
@@ -28505,7 +28505,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-20(a)-(c)
       - Penalty: $10,000 fine and revocation
@@ -28529,7 +28529,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-20(d)-(e)
       - Penalty: $10,000 fine and revocation
@@ -28551,7 +28551,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-20(f)
       - Penalty: $350 and/or suspension up to 30 days or revocation
@@ -28573,7 +28573,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-20(g)
       - Penalty: $500 and/or suspension up to 30 days
@@ -28591,7 +28591,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-20(h)
       - Penalty: $500 and/or suspension up to 30 days or revocation
@@ -28609,7 +28609,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-20(i)
       - Penalty: $500 and/or suspension up to 60 days or revocation
@@ -28627,7 +28627,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-20(j)
       - Penalty: $250 fine
@@ -28645,7 +28645,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-20(k)
       - Penalty: $250 fine and suspension until compliance
@@ -28675,7 +28675,7 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 78-21(a)(1)
       - Penalty: $400 fine and/or suspension up to 30 days
@@ -28815,7 +28815,7 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 
 
 Chapter 80: Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -28866,7 +28866,7 @@ Chapter 80: Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - VIOLATION Description
       - Rule
@@ -29293,7 +29293,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-10(a)
       - Fine: $50
@@ -29311,7 +29311,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-10(b)
       - Fine: $50
@@ -29329,7 +29329,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-10(c)
       - Fine: $50
@@ -29347,7 +29347,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-10(d)
       - Fine: $50
@@ -29365,7 +29365,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-10(e)
       - Fine: $50
@@ -29383,7 +29383,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-10(f)
       - Fine: $1,000 to be paid if Driver applies for a new License of any type.
@@ -29415,7 +29415,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-11(a)
       - Fine: First Violation: $350.Second Violation in 36 months: $500.Third Violation: revocation.
@@ -29439,7 +29439,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-11(c)(1)-(2)
       - Fine: First Violation: $350 and Suspension until compliance.Second Violation in 36 months: $500 and Suspension until compliance.Third Violation: revocation.
@@ -29457,7 +29457,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-11(c)(3)
       - Fine: $100
@@ -29475,7 +29475,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-11(d)
       - Fine: $350 and/or minimum 5 day to maximum 30 day suspension.
@@ -29493,7 +29493,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-11(e)
       - Fine: $10,000 and revocation.
@@ -29513,7 +29513,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-11(f)(1)
       - Fine: $250 and/or minimum 5 day to maximum 30 day suspension.
@@ -29531,7 +29531,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-11(f)(2)
       - Fine: $50
@@ -29573,7 +29573,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(a)(1)-(2)
       - Fine: $10,000 and revocation.
@@ -29591,7 +29591,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(b)
       - Fine: $1,000 and/or minimum 5day to maximum 30 day suspension.
@@ -29609,7 +29609,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(c)
       - Fine: $350 - $1,000 and/or minimum 5 day to maximum 60 day suspension, plus restitution if theft.Points: 4
@@ -29627,7 +29627,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(d)
       - Fine: $150 - $350 and/or minimum 5 day to maximum 30 day suspension.Points: 3
@@ -29645,7 +29645,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(e)
       - Fine: $350 - $1,000 and/or minimum 5 day to maximum 30 day suspension.Points: 3
@@ -29663,7 +29663,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(f)
       - Fine: $500 - $1,500 and/or minimum 5 day to maximum 60 day suspension.Points: 4
@@ -29681,7 +29681,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(g)
       - Fine: $500 - $1,500 and/or minimum 5 day to maximum 60 day suspension.Points: 4
@@ -29703,7 +29703,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(h)
       - Fine: $100 if plead guilty before a hearing; $250 if found guilty following a hearing.
@@ -29725,7 +29725,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(i)(1)-(2)
       - Fine: $300 and Suspension until compliance.
@@ -29743,7 +29743,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(i)(3)
       - Fine: $25 if plead guilty before a hearing; $50 if found guilty following a hearing.
@@ -29763,7 +29763,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(i)(4)
       - Fine: $50
@@ -29781,7 +29781,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(i)(5)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -29803,7 +29803,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(j)
       - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing.
@@ -29821,7 +29821,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(k)
       - Fine: $250 and/or minimum 5 day to maximum 30 day suspension.
@@ -29839,7 +29839,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(l)
       - Fine: $200
@@ -29857,7 +29857,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(m)
       - Fine: $350 - $1,000 and/or suspension up to 30 days.
@@ -29875,7 +29875,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(n)
       - Fine: $10,000 and revocation.
@@ -29893,7 +29893,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(o)
       - Fine: $1,000 and mandatory suspension of 30 days and/or revocation.Points: 3
@@ -29911,7 +29911,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-12(p)
       - Fine: $2,000 and mandatory revocation.
@@ -29943,7 +29943,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(a)(1)
       - Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -29961,7 +29961,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(a)(2)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -29979,7 +29979,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(a)(3)
       - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing, for each violation below.Points: As listed below.
@@ -29995,7 +29995,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Rule
       - VIOLATION
@@ -30009,7 +30009,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(a)(3)(i)(A)
       - SPEEDING 1 to 10 miles above posted speed limit
@@ -30083,7 +30083,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(a)(4)
       - Fine: $350 and/or suspension up to 30 days or revocation if Driver is found guilty of having violated this rule more than 3 times within a 12-month period.Points: 3
@@ -30101,7 +30101,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(a)(5)
       - Fine: $100Points: 3
@@ -30119,7 +30119,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(a)(5)
       - Fine: $100Points: 3
@@ -30141,7 +30141,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(b)(1)(i)
       - Fine: $75
@@ -30159,7 +30159,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(b)(1)(ii)
       - Fine: $150
@@ -30189,7 +30189,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-13(c)(1)
       - Fine: $50 per occurrence
@@ -30217,7 +30217,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(a)
       - Fine: $350 - $1,000 and/or suspension up to 30 days, or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period.Points: 4
@@ -30241,7 +30241,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(b)
       - Fine: Revocation.
@@ -30259,7 +30259,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(c)
       - Fine: Summary suspension until compliance.
@@ -30283,7 +30283,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(d)(3)
       - Summary suspension until compliance. $200 if compliance is more than 30 days after the deadline.
@@ -30301,7 +30301,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(d)(4)
       - Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing and suspension until compliance.
@@ -30319,7 +30319,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(d)(5)
       - If the Driver fails to be tested within this time period, his or her License will expire and will not be renewed.
@@ -30337,7 +30337,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(e)
       - Penalty: Summary suspension and revocation.
@@ -30367,7 +30367,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(f)(2)
       - Hours above the daily limit:No more than 1 hour: $50 if plead guilty before a hearing; and $75 if found guilty following a hearing.Over 1 hour but no more than 2 hours: $100 if plead guilty before a hearing; and $150 if found guilty following a hearing.Over 2 hours but no more than 3 hours: $150 if plead guilty before a hearing; and $200 if found guilty following a hearing.Over 3 hours but no more than 4 hours: $200 if plead guilty before a hearing; and $300 if found guilty following a hearing.Over 4 hours: $300 if plead guilty before a hearing; and $400 if found guilty following a hearing.If guilty of three or more violations in a calendar month for exceeding the daily limit by four or more hours, penalty shall also include a suspension of at least 5 days but no more than 15 days.
@@ -30385,7 +30385,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(f)(3)
       - Hours above the weekly limit:No more than 1 hour: $50 if plead guilty before a hearing; and $75 if found guilty following a hearing.Over 1 hour but no more than 2 hours: $100 if plead guilty before a hearing; and $150 if found guilty following a hearing.Over 2 hours but no more than 3 hours: $150 if plead guilty before a hearing; and $200 if found guilty following a hearing.Over 3 hours but no more than 4 hours: $200 if plead guilty before a hearing; and $300 if found guilty following a hearing.Over 4 hours: $300 if plead guilty before a hearing; and $400 if found guilty following a hearing.If guilty of three or more violations in a calendar month for exceeding the weekly limit by four or more hours, penalty shall also include a suspension of at least 5 days but not more than 15 days.
@@ -30405,7 +30405,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-14(g)(1)
       - Fine: $250 if plead guilty before a hearing; $350 if found guilty following a hearing, and suspension. The suspension is deferred for 60 days; if the Driver completes a Distracted Driving Course within the 60-day period then the Driver will not be suspended.Points: 3 for the first offense and for the second offense in any 15-month period; 4 for the third offense in any 15-month period.
@@ -30459,7 +30459,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(a)
       - Fine: Revocation.
@@ -30477,7 +30477,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(b)
       - Fine: $150
@@ -30497,7 +30497,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(c)(1)
       - Fine if Passenger inside the Vehicle: $300 if plead guilty before a hearing; $400 if found guilty following a hearing and/or minimum 5 day to maximum 30 day suspension.Points: 2Fine if Passenger outside the Vehicle: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
@@ -30523,7 +30523,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(d)(1)-(3)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -30543,7 +30543,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(d)(4)-(5)
       - Fine: $50 plus restitution to the E-ZPass® tag holder of any amount not reimbursed.
@@ -30565,7 +30565,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(e)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -30589,7 +30589,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(f)
       - Fine: $75
@@ -30607,7 +30607,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(g)
       - Fine: $50
@@ -30625,7 +30625,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(h)
       - Fine: First Violation: $100.Second Violation: $200.Third Violation: $300 and/or minimum 5 day to maximum 30 day suspension.
@@ -30643,7 +30643,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(i)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -30661,7 +30661,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(j)
       - Fine: $50
@@ -30685,7 +30685,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(k)
       - Fine: $50
@@ -30703,7 +30703,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-15(l)
       - Fine: $50
@@ -30731,7 +30731,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-16(a)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -30749,7 +30749,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-16(b)
       - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
@@ -30767,7 +30767,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-16(c)
       - Fine: $50
@@ -30815,7 +30815,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-16(d)
       - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.Points: 1
@@ -30839,7 +30839,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-16(e)
       - Fine: $25
@@ -30857,7 +30857,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-16(f)
       - Fine: $25
@@ -30875,7 +30875,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-16(g)
       - Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -30893,7 +30893,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-16(h)
       - Fine: $50
@@ -30927,7 +30927,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(a)(1)-(3)
       - Mandatory penalties as set forth in 35 RCNY § 80-02(e).
@@ -30945,7 +30945,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(a)(4)
       - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.Points: 2
@@ -30963,7 +30963,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(a)(5)
       - Fine: $50
@@ -30983,7 +30983,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(c)
       - Fine: $50
@@ -31011,7 +31011,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(d)
       - Fine: $25
@@ -31041,7 +31041,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(e)(1)(i)-(v)
       - Fine: $100
@@ -31059,7 +31059,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(e)(1)(vi)
       - Fine: First violation: $200.Second violation: $300.Third violation: $500.In addition to the penalty payable to the Commission, the administrative law judge may order the Driver to pay restitution to the Passenger, equal to the excess amount that was charged to the Passenger.
@@ -31079,7 +31079,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(e)(2)(i)
       - Fine: $100
@@ -31103,7 +31103,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(f)(1)
       - Fine: $100
@@ -31123,7 +31123,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(f)(2)(i)
       - Fine: $100
@@ -31145,7 +31145,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(f)(2)(ii-iii)
       - Fine: $25
@@ -31167,7 +31167,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(f)(3)(i)
       - Fine: $100
@@ -31187,7 +31187,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(f)(3)(ii)
       - Fine: $25
@@ -31227,7 +31227,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(i)
       - Fine: $50 per occurrence
@@ -31245,7 +31245,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(j)
       - Fine: $50 per occurrence
@@ -31265,7 +31265,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(k)(1)
       - Fine: $100
@@ -31283,7 +31283,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(k)(2)
       - Mandatory penalties as set forth in 35 RCNY § 80-02(e).
@@ -31305,7 +31305,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-17(k)(5)
       - Fine: $200
@@ -31333,7 +31333,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-18(a)
       - Fine: $25
@@ -31355,7 +31355,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-18(b)
       - Fine: $100
@@ -31373,7 +31373,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-18(c)
       - Fine: $100
@@ -31391,7 +31391,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-18(d)
       - Fine: $25
@@ -31421,7 +31421,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(a)(1)
       - Fine: $50
@@ -31439,7 +31439,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(a)(2)
       - Fine: $100
@@ -31457,7 +31457,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(a)(3)
       - Fine: $50
@@ -31483,7 +31483,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(a)(4)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -31507,7 +31507,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(a)(5)
       - Fine: $75 if plead guilty before a hearing; $100 if found guilty following a hearing.
@@ -31531,7 +31531,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(b)(1)
       - Fine: First Violation: $500 and suspension;Second Violation in 24 months: $750 and suspension;Third Violation in 120 months: Revocation.
@@ -31553,7 +31553,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(b)(2)(ii)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -31571,7 +31571,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(b)(2)(iii)
       - Fine: $50
@@ -31589,7 +31589,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(b)(3)
       - Fine: $100
@@ -31607,7 +31607,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(b)(4)
       - Fine: $50
@@ -31625,7 +31625,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(b)(5)
       - Fine: $75 if plead guilty before a hearing; $100 if found guilty following a hearing.
@@ -31651,7 +31651,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(b)(6)
       - Fine: $75 if plead guilty before a hearing; $100 if found guilty following a hearing.
@@ -31671,7 +31671,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(c)(1)
       - Fine: First Violation: $500.Second Violation in 24 months: $1,500.Third Violation in 36 months: Revocation.
@@ -31689,7 +31689,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(c)(2)
       - Fine: First Violation: $2,000.Second Violation in 24 months: $4,000.Third Violation in 120 months: $10,000 and Revocation.
@@ -31707,7 +31707,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(c)(3)
       - Fine: $100
@@ -31729,7 +31729,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(d)(1)
       - Fine: $75
@@ -31747,7 +31747,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(d)(2)
       - Fine: First Violation: $350.Second Violation in 24 months: $500.Third Violation in 36 months: Revocation.
@@ -31765,7 +31765,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(d)(3)
       - Fine: $50
@@ -31783,7 +31783,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(d)(4)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -31801,7 +31801,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(d)(5)
       - Fine: $50
@@ -31819,7 +31819,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(d)(6)
       - Fine: $75
@@ -31837,7 +31837,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(d)(7)
       - Fine: $50
@@ -31865,7 +31865,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(e)(2)
       - Fine: $50
@@ -31887,7 +31887,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(e)(3)
       - Fine: $100
@@ -31905,7 +31905,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-19(f)
       - Fine: $250
@@ -31935,7 +31935,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-20(a)(1)
       - Mandatory penalties as set forth in 35 RCNY § 80-02(e).
@@ -31953,7 +31953,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-20(a)(2)
       - Mandatory penalties as set forth in 35 RCNY § 80-02(e).
@@ -31971,7 +31971,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-20(a)(3)
       - Mandatory penalties as set forth in 35 RCNY § 80-02(e).
@@ -31991,7 +31991,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-20(a)(4)
       - Mandatory penalties as set forth in 35 RCNY § 80-02(e).
@@ -32009,7 +32009,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-20(a)(5)
       - Mandatory penalties as set forth in 35 RCNY § 80-02(e).
@@ -32031,7 +32031,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-20(a)(6)
       - Mandatory penalties as set forth in 35 RCNY § 80-02(e).
@@ -32096,7 +32096,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-21(a)(1)
       - Fine: $350
@@ -32114,7 +32114,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-21(a)(2)
       - Fine: $100
@@ -32132,7 +32132,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-21(a)(3)
       - Fine: $350
@@ -32150,7 +32150,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-21(a)(4)
       - Fine: $300
@@ -32224,7 +32224,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-22(a)
       - Fine: $25
@@ -32242,7 +32242,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-22(b)
       - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
@@ -32260,7 +32260,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-22(c)
       - Fine: $25
@@ -32278,7 +32278,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-22(d)
       - Fine: $50
@@ -32296,7 +32296,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-22(e)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32314,7 +32314,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-22(f)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32336,7 +32336,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-22(g)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32358,7 +32358,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-22(h)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32376,7 +32376,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-22(i)
       - Fine: $25
@@ -32406,7 +32406,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-23(a)(1)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -32424,7 +32424,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-23(a)(2)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32442,7 +32442,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-23(a)(3)
       - Fine: $50
@@ -32460,7 +32460,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-23(a)(4)
       - Fine: $25 if plead guilty before a hearing; $50 if found guilty following a hearing.
@@ -32480,7 +32480,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-23(b)(1)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32498,7 +32498,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-23(b)(2)
       - Fine: $25
@@ -32532,7 +32532,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-24(a)(1)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -32552,7 +32552,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-24(a)(2)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -32572,7 +32572,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-24(c)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32600,7 +32600,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(a)
       - Fine: $250 and/or minimum 5 day to maximum 30 day suspension.
@@ -32618,7 +32618,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(b)
       - Fine: $250 and/or minimum 5 day to maximum 30 day suspension.
@@ -32638,7 +32638,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(c)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32656,7 +32656,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(d)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32674,7 +32674,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(e)
       - Fine: $25
@@ -32694,7 +32694,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(f)(1)
       - Fine: $75
@@ -32712,7 +32712,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(f)(2)
       - Fine: $250
@@ -32760,7 +32760,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(f)(3)
       - Fine: $250 if Driver fails to submit written trip records or, in the event the Driver keeps incomplete written trip records, $15 per missing entry not to exceed $30 per written trip record.
@@ -32784,7 +32784,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(f)(4)
       - Fine: $25
@@ -32802,7 +32802,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(f)(5)
       - Fine: $250
@@ -32826,7 +32826,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-25(g)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32856,7 +32856,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(a)(1)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.Points: 1
@@ -32878,7 +32878,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(a)(2)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -32904,7 +32904,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(a)(3)
       - Fine: $75 if plead guilty before a hearing; $100 if found guilty following a hearing.
@@ -32922,7 +32922,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(a)(4)
       - Fine: $75
@@ -32942,7 +32942,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(a)(5)
       - Fine: $100
@@ -32960,7 +32960,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(a)(6)
       - Fine: $25
@@ -32980,7 +32980,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(b)(1)
       - Fine: $200Points: 1
@@ -32998,7 +32998,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(b)(2)
       - Fine: $100Points: 1
@@ -33016,7 +33016,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(b)(3)
       - Fine: $100
@@ -33034,7 +33034,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(b)(4)
       - Fine: $100
@@ -33052,7 +33052,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(b)(5)
       - Fine: $50
@@ -33070,7 +33070,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(b)(6)
       - Fine: $50
@@ -33094,7 +33094,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(c)(1)-(3)
       - Fine: $50 - $350 and/or suspension up to 30 days.Points: 3
@@ -33126,7 +33126,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(d)
       - Fine: $100
@@ -33154,7 +33154,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(e)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -33178,7 +33178,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 80-26(f)
       - Fine: $50 - $350 and/or suspension up to 30 days.Points: 3
@@ -33264,7 +33264,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 Chapter 82: Street Hail Livery Service
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -33472,7 +33472,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-06(a)
       - Fine: Revocation
@@ -33544,7 +33544,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-06(d)
       - Fine: $1,000 and suspension until compliance; revocation may be ordered
@@ -33754,7 +33754,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-11(a)
       - Fine: $350 for first violation$500 for second violation in 24 monthsRevocation for third violation in 36 months
@@ -33772,7 +33772,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-11(b)
       - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
@@ -33790,7 +33790,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-11(c)
       - Fine: $200 and suspension until compliance
@@ -33814,7 +33814,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-11(d)(1)-(2)
       - Fine: $200
@@ -33836,7 +33836,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-11(e)
       - Fine: $200 for the first violation; $350 - $500 for the second or subsequent violation(s) within 36 months.
@@ -33864,7 +33864,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-11(f)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -33882,7 +33882,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-11(g)
       - Fine: $200 and suspension until compliance
@@ -33910,7 +33910,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-12(a)
       - Fine: $300 and/or suspension up to 30 days
@@ -33932,7 +33932,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-12(b)(1)(i)
       - Vehicle Fine: $350 and suspension until compliancePenalty Points: 1
@@ -33950,7 +33950,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-12(b)(1)(ii)
       - Vehicle Fine: $1,500 for the first offense; $2,000 for the second and subsequent offenses within a 36-month period.Penalty Points: 1
@@ -33970,7 +33970,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-12(c)
       - Fine: $ 1,500 and/or suspension up to 30 days
@@ -33994,7 +33994,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-12(d)
       - Fine: $100 - $350 and/or suspension up to 30 days; Suspension until compliance
@@ -34014,7 +34014,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-12(e)(1)
       - Fine: $1,500 for the first offense; $2,000 for the second and subsequent offenses within a 36-month period.Penalty Points: 1
@@ -34038,7 +34038,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-12(e)(3)
       - Fine: $100Penalty Points: 1
@@ -34062,7 +34062,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-12(f)
       - Fine: $400 and Suspension until compliance.
@@ -34084,7 +34084,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-12(g)
       - Fine: $100 per day for each day unaffiliated beginning 7 days AFTER the vehicle first becomes unaffiliated and suspension
@@ -34116,7 +34116,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-13(a)(1)-(2)
       - Fine: $500 for the first violation and suspension;$750 for the second violation in 24 months and suspension for up to 30 days;Revocation for third violation in 120 months
@@ -34134,7 +34134,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-13(a)(3)
       - Fine: $500
@@ -34172,7 +34172,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-14(a)
       - Fine: $150 - $350 and/or suspension up to 30 days
@@ -34190,7 +34190,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-14(b)
       - Fine: $100
@@ -34214,7 +34214,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-14(c)
       - Fine: $100
@@ -34238,7 +34238,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-14(d)(1)
       - Fine: $350 and suspension until compliance
@@ -34260,7 +34260,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-14(d)(2)
       - Fine: $350 and suspension until compliance
@@ -34282,7 +34282,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-14(d)(3)
       - Fine: $350 and suspension until compliance
@@ -34302,7 +34302,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-14(e)(1)
       - Fine: $500 - $1,000
@@ -34324,7 +34324,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-14(e)(2)
       - Fine: $150 and $25 for each day of violation thereafter and suspension until compliance
@@ -34346,7 +34346,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-14(f)
       - Fine: $50
@@ -34386,7 +34386,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(a)(1)
       - Fine: Up to $10,000 per Street Hail Livery implicated in the violation plus mandatory divestiture of Street Hail Livery License.
@@ -34404,7 +34404,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(a)(2)
       - Fine: $10,000 plus revocation
@@ -34423,7 +34423,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(a)(3)
       - Fine: $1,000 and/or suspension up to 30 days or revocation.
@@ -34441,7 +34441,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(a)(4)
       - Licensee Fine: $250 – 1,000
@@ -34459,7 +34459,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(a)(5)
       - Fine: $50
@@ -34477,7 +34477,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(b)
       - Fine: $350 - $1,000 and suspension up to 60 days or revocation
@@ -34495,7 +34495,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(c)
       - Fine: $150 - $350 and/or Suspension up to 30 days or revocation.
@@ -34513,7 +34513,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(d)
       - Fine: $150 - $350 and Suspension up to 30 days or revocation.
@@ -34531,7 +34531,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(e)
       - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation
@@ -34549,7 +34549,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(f)
       - Fine: $500 - $1,500 and/or suspension up to 60 days or revocation
@@ -34567,7 +34567,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(g)
       - Fine: $500 - $1,500 and/or suspension up to 60 days or revocation
@@ -34589,7 +34589,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(h)
       - Fine: $50 - $250
@@ -34607,7 +34607,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(i)
       - Fine: $50 - $350
@@ -34629,7 +34629,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16 (j)(1)-(2)
       - Fine: $300 and Suspension until compliance
@@ -34647,7 +34647,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(j)(3)
       - Fine: $500
@@ -34665,7 +34665,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(k)
       - Fine: $150
@@ -34687,7 +34687,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-16(l)
       - Fine: $1,000 plus restitution to the driver or vehicle owner for losses for the first violation and a fine of $10,000 plus restitution to the driver or vehicle owner for the second violation within five years.
@@ -34715,7 +34715,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(a)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -34733,7 +34733,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(b)
       - Fine: $10,000 and revocation
@@ -34751,7 +34751,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(c)
       - Penalty: Suspension until satisfaction or payment
@@ -34771,7 +34771,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(d)(1)
       - Fine: Up to $10,000
@@ -34791,7 +34791,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(e)(1)
       - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation
@@ -34809,7 +34809,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(e)(2)
       - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation
@@ -34827,7 +34827,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(e)(3)
       - Fine: $100 - $350 and/or suspension up to 30 days
@@ -34847,7 +34847,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(f)(1)
       - Fine: Up to $10,000 per Street Hail Livery implicated in the violation, plus mandatory divestiture of Street Hail Livery License
@@ -34865,7 +34865,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(f)(2)
       - Fine: Mandatory divestiture of Street Hail Livery License, plus a fine of up to $10,000 per Street Hail Livery implicated in the violation
@@ -34883,7 +34883,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(f)(3)
       - Fine: Mandatory divestiture of Street Hail Livery License, plus a fine of up to $10,000 per Street Hail Livery implicated in the violation
@@ -34907,7 +34907,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-17(g)(1)-(3)
       - Fine: $1,000
@@ -34943,7 +34943,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-18(c)(1)
       - Fine: $200
@@ -34975,7 +34975,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-19(a)
       - Fine: $100
@@ -35003,7 +35003,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-20(a)
       - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
@@ -35077,7 +35077,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-22(c)(3)
       - Fine: $50
@@ -35099,7 +35099,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-22(d)(2)
       - Fine: $50
@@ -35119,7 +35119,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-22(d)(4)
       - Fine: $100 – $350 and/or suspension up to 30 days
@@ -35163,7 +35163,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-23(a)(1) -(6)
       - Fine: $100
@@ -35183,7 +35183,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-23(a)(8)
       - Fine: $100
@@ -35201,7 +35201,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-23(b)
       - Fine: $100
@@ -35239,7 +35239,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-24(b)(1)-(7)
       - Fine: $50 for violation of each paragraph hereof.
@@ -35257,7 +35257,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-24(c)
       - Fine: $50
@@ -35287,7 +35287,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-25(a)
       - Fine: $100
@@ -35305,7 +35305,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-25(b)
       - Fine: $100
@@ -35469,7 +35469,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-26(h)
       - Fine: $350 if plead guilty before a hearing; $500 if found guilty following a hearing.
@@ -35501,7 +35501,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-27(a)
       - Fine: $100 and suspension until compliance
@@ -35529,7 +35529,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-27(b)
       - Fine: $100 and suspension until compliance
@@ -35559,7 +35559,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-29(a)
       - Vehicle: During any license term, $100 for the first violation during such term, with the penalty increasing by $100 for each subsequent violation up to a maximum of $10,000.
@@ -35577,7 +35577,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-29(b)
       - Fine: $25 – 250
@@ -35595,7 +35595,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-29(c)
       - Fine: $25
@@ -35621,7 +35621,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-30(a)
       - Fine: $100 and seizure of the vehicle
@@ -35639,7 +35639,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-30(b)
       - Fine: (penalties below are cumulative)0 - 30 days past inspection due date: $100 and Suspension until compliance31 - 60 days past inspection due date: $100 - $250 and Suspension until compliance61 - 120 days past inspection due date: $250 - $500 and Suspension until complianceMore than 120 days past inspection due date: $500 and/or revocation.
@@ -35687,7 +35687,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-31(a)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -35705,7 +35705,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-31(b)
       - Fine: $50 and suspension until the defective condition is corrected.
@@ -35731,7 +35731,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-31(c)
       - Fine: $100 – $350 and/or suspension up to 30 daysSuspension until compliance
@@ -35757,7 +35757,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(a)
       - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
@@ -35775,7 +35775,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(b)
       - Fine: $75
@@ -35795,7 +35795,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(c)(1)
       - Fine: $100 – $250
@@ -35813,7 +35813,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(c)(2)
       - Fine: $100 – $250
@@ -35831,7 +35831,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(d)
       - Fine: $50 and suspension until the defective condition is corrected
@@ -35849,7 +35849,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(e)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -35877,7 +35877,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(g)(1)
       - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
@@ -35895,7 +35895,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(g)(2)
       - Fine: $100
@@ -35913,7 +35913,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(g)(3)
       - Fine: See § 82-12(b) and penalties for violation which apply here
@@ -35931,7 +35931,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(h)
       - Fine: Suspension of the Street Hail Livery License
@@ -35949,7 +35949,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(i)
       - Fine: $100 – $350 and/or suspension up to 30 days
@@ -35967,7 +35967,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(j)
       - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
@@ -35987,7 +35987,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(k)(1)
       - Fine: $25
@@ -36005,7 +36005,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(k)(2)
       - Fine: $200
@@ -36023,7 +36023,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(k)(3)
       - Fine: $200
@@ -36041,7 +36041,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-32(l)
       - Fine: $50 – $350 and/or suspension up to 30 days
@@ -36091,7 +36091,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(a)
       - Fine: $75
@@ -36119,7 +36119,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(b)(1)-(2)
       - Fine: $200
@@ -36151,7 +36151,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(c)
       - Fine: $25
@@ -36173,7 +36173,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(d)
       - Fine: $25
@@ -36191,7 +36191,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(e)
       - Fine: $75
@@ -36214,7 +36214,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(f)
       - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing
@@ -36260,7 +36260,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(g)(2)
       - Fine: $100. No penalty for missing plaque, if condition is corrected within forty-eight hour
@@ -36278,7 +36278,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(h)
       - Fine: $100
@@ -36296,7 +36296,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(i)
       - Fine: $100 and suspension of the Street Hail Livery License until any defect found is correctedPenalty Points: 1.
@@ -36322,7 +36322,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-33(k)(1)
       - Fine: $50
@@ -36340,7 +36340,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - INSCRIPTION* 
       - LOCATION 
@@ -36354,7 +36354,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - (a) Rate of fare decals (required). (Non-detachable type only.)
       - Both rear doors centered left to right and located in the upper half of the flat surface between the bottom edge of the door and the door handle.The base line of the rate of fare and Street Hail Livery logo decals must be parallel and the same distance to the bottom door edge.
@@ -36454,7 +36454,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-34(a)(1)-(4)
       - Fine: $25 for each item not in vehicle, not to exceed $75 in the aggregate
@@ -36492,7 +36492,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-35(a)(1)
       - Fine: $50 – $350 and/or suspension up to 30 days
@@ -36510,7 +36510,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-35(b)
       - Fine: $50 per day
@@ -36528,7 +36528,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-35(c)
       - Fine: $175 and suspension until the condition is corrected. Respondent must provide a condition corrected form issued by the TLC's Safety and Emissions Division.
@@ -36554,7 +36554,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-35(d)(1)-(4)
       - Fine: $200
@@ -36572,7 +36572,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-35(d)(5)
       - Fine: $150 for every thirty days the advertising material is posted on the street hail livery, if plead guilty before a hearing; $200 for every thirty days the advertising material is posted on the street hail livery, if found guilty following a hearing.
@@ -36604,7 +36604,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-36(a)
       - Fine: $350 if plead guilty before a hearing and supply a condition corrected form issued by TLC's Safety and Emissions Division; $450 if found guilty following a hearing. Suspension until the condition is corrected.
@@ -36638,7 +36638,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-36(c)
       - Fine: $300 and suspension until the condition is corrected
@@ -36664,7 +36664,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-37(a)
       - Fine: $350 if plead guilty before a hearing and supply a condition corrected form issued by TLC's Safety and Emissions Division; $450 if found guilty following a hearing. Suspension until the condition is corrected.
@@ -36682,7 +36682,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-37(b)
       - Fine: $50
@@ -36700,7 +36700,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-37(c)
       - Fine: $50
@@ -36728,7 +36728,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-38(a)(1)
       - Fine: $50
@@ -36747,7 +36747,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-38(a)(2)
       - Fine: $50
@@ -36766,7 +36766,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-38(a)(3)
       - Fine: $500
@@ -36784,7 +36784,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-38(a)(4)
       - Fine: $50
@@ -36802,7 +36802,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-38(a)(5)
       - Fine: $500
@@ -36821,7 +36821,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-38(a)(6)
       - Fine: $500
@@ -36867,7 +36867,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-39(a)-(c)
       - Fine: $100
@@ -36885,7 +36885,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-39(d)
       - Fine: $75
@@ -36923,7 +36923,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-40(a) &amp; (b)
       - Fine: $250 – 1,500 and/or suspension up to 30 days. Suspension until compliance under to 35 RCNY § 68-16
@@ -36971,7 +36971,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-40(d)(1)-(4)
       - Fine: $500 - $1,000 and/or suspension up to 60 days or revocation
@@ -36997,7 +36997,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-40(e)(3)(i)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
@@ -37016,7 +37016,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-40(e)(3)(ii)
       - Fine: $100
@@ -37034,7 +37034,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-40(e)(3)(iii)
       - Fine: $50
@@ -37052,7 +37052,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-40(e)(3)(iv)
       - Fine: $50
@@ -37070,7 +37070,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-40(e)(3)(v)
       - Fine: $100
@@ -37099,7 +37099,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-41(a)
       - Fine: $ 1,000 and suspension until compliance
@@ -37130,7 +37130,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-42(a)
       - Fine: $250 and suspension until compliance
@@ -37157,7 +37157,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-42(c)
       - Fine: $250 and suspension until compliance
@@ -37176,7 +37176,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-42(d)
       - Fine: $ 250
@@ -37296,7 +37296,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-44(c)
       - Fine: $10,000 per entity, per License and attempted transfer invalid, applicable to any person or persons (transferor, transferee or both) whose actions constituted a violation;Revocation may be ordered.
@@ -37340,7 +37340,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-45(c)(1)
       - Fine: $250 for failure to comply
@@ -37376,7 +37376,7 @@ Chapter 82: Street Hail Livery Service
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 35 RCNY § 82-45(c)
       - Revocation may be ordered if Street Hail Livery License is operated beyond, or not transferred by, the periods specified.
@@ -37940,7 +37940,7 @@ Chapter 82: Street Hail Livery Service
 
 
 Chapter 83: Licensing and Rules For Street Hail Livery Technology System Providers [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -38253,7 +38253,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 Chapter 84: Information Security Rules For Street Hail Livery Technology System Providers [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

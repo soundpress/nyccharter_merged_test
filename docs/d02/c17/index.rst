@@ -2,7 +2,7 @@ Title 31: Mayor&apos;s Office of Homelessness and Single Room Occupancy
 ======================================================================================================
 
 Chapter 1: Eligibility of Homeless Families and Individuals To Rent City-Owned Apartment
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -25,7 +25,7 @@ Chapter 1: Eligibility of Homeless Families and Individuals To Rent City-Owned A
 
 
 Chapter 2: Single Adult Homeless Shelter
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -48,7 +48,7 @@ Chapter 2: Single Adult Homeless Shelter
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Code
       - Complaint Category Description 
@@ -81,7 +81,7 @@ Chapter 2: Single Adult Homeless Shelter
 
 
 Chapter 3: Single Adult Homeless Shelter
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -134,7 +134,7 @@ If one or more of these factors are present, the Returnee must be assigned a bed
 
 
 Chapter 4: Income Savings Plan Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

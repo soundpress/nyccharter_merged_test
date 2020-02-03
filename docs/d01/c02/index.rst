@@ -2,7 +2,7 @@ Title 3: Elected officials
 ======================================================================================================
 
 Chapter 1: Mayor
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -997,7 +997,7 @@ d. 1. Where the use of such screening tool required pursuant to subdivision c of
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Year
       - Dollar value per metric ton of carbon dioxide equivalent
@@ -1628,7 +1628,7 @@ The office shall provide all individuals receiving services at family justice ce
 
 
 Chapter 2: City Council and City Clerk
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2593,7 +2593,7 @@ b. "Members of a marriage that is not recognized by the state of New York" for p
 
 
 Chapter 3: Comptroller
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2850,7 +2850,7 @@ b. Whenever any such award or compensation shall be paid to any person not entit
 
 
 Chapter 4: Board of Estimate
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2931,7 +2931,7 @@ The board of estimate may transfer the jurisdiction and control of any street fr
 
 
 Chapter 5: Borough Presidents
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3046,7 +3046,7 @@ Any person who shall make any excavation or embankment, or lay or take up any pa
 
 
 Chapter 6: Advisory Commission For the Review of Compensation Levels Of Elected Officials
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3077,7 +3077,7 @@ i. The commission may hold public hearings and may consult with compensation exp
 
 
 Chapter 7: Campaign Financing
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3510,7 +3510,7 @@ Each participating candidate for nomination for election or election in a covere
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - mayor:
       - $6,158,000 
@@ -3543,7 +3543,7 @@ Each participating candidate for nomination for election or election in a covere
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - mayor, public advocate or comptroller:
       - $290,000 
@@ -4036,7 +4036,7 @@ f. For participating candidates and their principal committees seeking office in
 
 
 Chapter 8: Transition and Inaugural Donations And Expenditures
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4095,7 +4095,7 @@ Chapter 8: Transition and Inaugural Donations And Expenditures
 
 
 Chapter 9: Organizations Affiliated with Elected Officials.
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4272,7 +4272,7 @@ The conflicts of interest board shall promulgate such rules as are necessary to 
 
 
 Chapter 10: Environmental Justice
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4579,7 +4579,7 @@ c. By no later than December 31, 2018, the office of long-term planning and sust
 
 
 Chapter 11: Legal Defense Trusts
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

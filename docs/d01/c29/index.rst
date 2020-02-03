@@ -2,7 +2,7 @@ Title 26: Housing and Buildings
 ======================================================================================================
 
 Chapter 2: Relocation Services
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -131,7 +131,7 @@ The relocation advisory commission shall meet at least once a month. It shall be
 
 
 Chapter 3: Rent Control
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -890,7 +890,7 @@ As provided in subdivision three of section one of the local emergency housing r
 
 
 Chapter 4: Rent Stabilization
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1485,7 +1485,7 @@ This chapter shall expire on April 1, 2021 unless rent control shall sooner term
 
 
 Chapter 5: Unlawful Eviction
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1596,7 +1596,7 @@ The remedies and penalties provided for herein shall be in addition to any other
 
 
 Chapter 6: Increase of Rentals
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1613,7 +1613,7 @@ c. No increase in maximum rental per room or surcharge thereto or any other pena
 
 
 Chapter 7: Rent Increase Exemption For Low Income Elderly Persons and Persons With Disabilities
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1842,7 +1842,7 @@ To qualify as a person with a disability for the purposes of this section, an in
 
 
 Chapter 8: Cooperative and Condominium Conversions
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1961,7 +1961,7 @@ e. The department of housing preservation and development is empowered to enforc
 
 
 Chapter 9: Right of First Refusal and First Opportunity To Purchase
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2214,7 +2214,7 @@ Any person aggrieved by an appraisal determination made pursuant to section 26-8
 
 
 Chapter 10: Housing Development Project Reporting Requirements
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2371,7 +2371,7 @@ b. In addition to any other penalty provided by law, any contractor or subcontra
 
 
 Chapter 11: Housing Information Guide for Tenants and Owners
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2446,7 +2446,7 @@ Any owner who violates the provisions of subdivision a of section 26-1103 of thi
 
 
 Chapter 12: Improperly Conditioning Residential Occupancy on Medical Treatment
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2497,7 +2497,7 @@ d. Nothing contained in this chapter shall be construed as creating any private 
 
 
 Chapter 13: Provision of Legal Services in Eviction Proceedings*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2660,7 +2660,7 @@ The coordinator may promulgate such rules as may be necessary to carry out the p
 
 
 Chapter 13: Certification of Certain Rent Payment*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2685,7 +2685,7 @@ Chapter 13: Certification of Certain Rent Payment*
 
 
 Chapter 15: Audits for Compliance with 421-a Tax Exemption Affordability Requirements
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2728,7 +2728,7 @@ Where an audit performed pursuant to section 26-1502 reveals that a building own
 
 
 Chapter 16: Audits for Compliance with 421-a Tax Exemption Rent Registration Requirements
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2773,7 +2773,7 @@ Where an audit performed pursuant to section 26-1602 reveals that a building own
 
 
 Chapter 17: Periodic Reports on Inclusionary Housing Programs
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2828,7 +2828,7 @@ On or before September 30, 2018, and annually thereafter, the department shall p
 
 
 Chapter 18: Housing Portal
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3011,7 +3011,7 @@ d. Upon receipt of a credible complaint alleging that an owner has violated any 
 
 
 Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development of Affordable Housing
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3026,7 +3026,7 @@ By no later than November 1, 2018, and by November 1 of each year thereafter, th
 
 
 Chapter 20: Community Land Trust Regulatory Agreements
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3049,7 +3049,7 @@ b. The supervising agency may enter into a regulatory agreement with an eligible
 
 
 Chapter 21: Affordable Housing Plan Report*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3158,7 +3158,7 @@ In developing a citywide plan for the creation and preservation of affordable ho
 
 
 Chapter 21: Short-Term Residential Rentals*
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3261,7 +3261,7 @@ b. The administering agency shall establish rules governing retention and dispos
 
 
 Chapter 22: Expiring Affordable Housing
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3378,7 +3378,7 @@ b. The department shall conduct outreach to council members representing expirin
 
 
 Chapter 24: Buyout Agreement Filing Requirements
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3463,7 +3463,7 @@ An owner who is required to file a buyout agreement under this chapter and who f
 
 
 Chapter 25: Audits of Certifications of Correction
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3510,7 +3510,7 @@ By March 31, 2020 and no later than March 31 annually thereafter, the department
 
 
 Chapter 26: Affordable Housing Placements
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3581,7 +3581,7 @@ f. If a category disaggregated in subdivisions b, c or d contains between 0 and 
 
 
 Chapter 27: Mitchell-Lama Development Reporting Requirements
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3630,7 +3630,7 @@ By September 1, 2021 and by September 1 of each year thereafter, the department 
 
 
 Chapter 28: Set Asides in Housing Development Projects for Homeless Individuals and Families
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

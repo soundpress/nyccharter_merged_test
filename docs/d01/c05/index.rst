@@ -2,7 +2,7 @@ Title 6: Contracts, Purchases and Franchises
 ======================================================================================================
 
 Chapter 1: Contracts and Purchases
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1525,7 +1525,7 @@ For construction contracts:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Category:
       - Participation goal:
@@ -1552,7 +1552,7 @@ For construction contracts:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Category:
       - Participation goal:
@@ -1577,7 +1577,7 @@ For standard services contracts:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Category:
       - Participation goal:
@@ -1604,7 +1604,7 @@ For goods contracts under one hundred thousand dollars:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Category:
       - Participation goal:
@@ -2673,7 +2673,7 @@ e. Nothing in this section shall be construed to limit an agency's authority to 
 
 
 Chapter 2: Franchises
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2778,7 +2778,7 @@ Within five days after the final execution of any contract made pursuant to chap
 
 
 Chapter 3: Environmental Purchasing
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 

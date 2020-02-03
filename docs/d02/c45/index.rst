@@ -2,7 +2,7 @@ Title 66: Department of Small Business Services
 ======================================================================================================
 
 Chapter 2: Waterfront and Related Property
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -327,7 +327,7 @@ Any person violating or failing to comply with any of the foregoing rules and re
 
 
 Chapter 3: Aviation
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -668,7 +668,7 @@ The failure on the part of the licensee or permittee to comply with any of the r
 
 
 Chapter 4: Fees
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -697,7 +697,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY I NEW BUILDING
       - FEE
@@ -710,7 +710,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 0 to 1,000 Square Feet
       - $55.00
@@ -739,7 +739,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY II OPEN AREA FEE
       - FEE
@@ -752,7 +752,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 0 to 10,000 Square Feet
       - $28.00
@@ -783,7 +783,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY III MISCELLANEOUS FEE
       - FEE
@@ -796,7 +796,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - $0 to $1,000
       - $28.00
@@ -859,7 +859,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY IV AMENDMENTS
       - 
@@ -876,7 +876,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY V CHANGE OF USE
       - 
@@ -893,7 +893,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - CATEGORY VI SPECIAL FEESThe department shall be entitled to charge the following fees: 
       - 
@@ -964,7 +964,7 @@ Contract documents may be obtained at the Department of Business Services, 110 W
 
 
 Chapter 5: New York City Energy Cost Savings Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1468,7 +1468,7 @@ Schedule of Special Rebates
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Months During Benefit Period 
       - Applicable % for Natural Gas
@@ -1527,7 +1527,7 @@ Schedule of Special Rebates
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Month of Benefit Period
       -  Adjustment Factor
@@ -1756,7 +1756,7 @@ Schedule of Special Rebates
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Gross Square Footage of Applicant's Premises
       - Fee
@@ -1976,7 +1976,7 @@ ATTACHMENT D-1: KEYSPAN NATURAL GAS SERVICEPSC No. 12 Gas Rate ScheduleTemporary
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Average Monthly Consumption
       - 
@@ -2021,7 +2021,7 @@ ATTACHMENT J [Repealed]
 
 
 Chapter 5-A: New York City Lower Manhattan Energy Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2386,7 +2386,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Months During Benefit Period
       - Special Rebate for Energy Services
@@ -2413,7 +2413,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Months During Benefit Period
       - Special Rebate for Energy Services
@@ -2458,7 +2458,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Month of Benefit Period
       - Adjustment Factor
@@ -2485,7 +2485,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Month of Benefit Period
       - Adjustment Factor
@@ -2652,7 +2652,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Square Footage of Building
       - Fee 
@@ -2898,7 +2898,7 @@ ATTACHMENT D [Repealed]
 
 
 Chapter 6: Industry Ownership Program [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -2961,7 +2961,7 @@ Chapter 6: Industry Ownership Program [Repealed]
 
 
 Chapter 7: Industrial Security Grant Program [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3034,7 +3034,7 @@ Chapter 7: Industrial Security Grant Program [Repealed]
 
 
 Chapter 8: Commercial Security Grant Program [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3137,7 +3137,7 @@ Chapter 8: Commercial Security Grant Program [Repealed]
 
 
 Chapter 9: Energy Services [Repealed]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -3320,7 +3320,7 @@ Chapter 9: Energy Services [Repealed]
 
 
 Chapter 10: Division of Labor Services
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -4138,7 +4138,7 @@ By the power vested in me as Mayor of the City of New York, it is hereby ordered
 
 
 Chapter 11: Division of Economic and Financial Opportunity
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -5148,7 +5148,7 @@ a   Effective July 1, 1989, Tompkins will merge with Broome-Tioga to form the
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - 1989 POVERTY INCOME GUIDELINES
       - 
@@ -5536,7 +5536,7 @@ As used in this subchapter, the following terms have the following meanings:
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - For construction contracts:Category:Black AmericansAsian AmericansHispanic AmericansWomenEmerging
       - Participation goal:8% of total annual agency expenditures on such contracts8% of total annual agency expenditures on such contracts4% of total annual agency expenditures on such contracts18% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
@@ -6513,7 +6513,7 @@ The total amount of the grants authorized by this subchapter shall be limited to
 
 
 Chapter 12: Adjudications
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6526,7 +6526,7 @@ New York City Department of Business Services adjudications regarding the fitnes
 
 
 Chapter 13: [Financial Hardship Waiver of Prohibition of Use of Certain Expanded Polystyrene Items]
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6651,7 +6651,7 @@ A business may request renewal of a waiver no later than 30 days before the term
 
 
 Chapter 14: Neighborhood 360 Grant Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6834,7 +6834,7 @@ e. Any additional program requirements established by DSBS.
 
 
 Chapter 15: Love Your Local Small Business Grant Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6987,7 +6987,7 @@ c. Initial Business Needs Assessment.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Financial Management
       - 
@@ -7088,7 +7088,7 @@ c. Initial Business Needs Assessment.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Financial Position
       - 
@@ -7199,7 +7199,7 @@ c. Initial Business Needs Assessment.
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Implementation Feasibility
       - 
@@ -7324,7 +7324,7 @@ e. A schedule for reporting and monitoring Grant use and impact, including shari
 
 
 Chapter 16: Jerome Avenue Relocation Grant Program
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -7605,7 +7605,7 @@ Chart A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - Borough
       - Block
@@ -7621,7 +7621,7 @@ Chart A
 
 
 .. list-table::
-    :header-rows: 1
+    :header-rows: 0
 
     * - BX
       - 2489
