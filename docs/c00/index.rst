@@ -1,26 +1,10 @@
-Introductory
-===================================================
-Section 1.
---------------------------------------------------
+New sub chapter
+=================================
 
+XXXXXXXXXXXXXXX This document is updated every week from source material at `NYC Laws, Codes and Rules <https://www1.nyc.gov/nyc-resources/service/4080/nyc-charter-laws-codes-and-rules>`_. It was last updated: February 2nd, 2020. More information about this project at `MyGov.nyc/laws <http://mygov.nyc/>`_.
 
-*Section 1. The city.* ::
+.. toctree::
+    :maxdepth: 1
+    :glob:
 
-
-The city of New York as now existing shall continue with the boundaries and with the powers, rights and property, and subject to the obligations and liabilities which exist at the time when this charter shall take effect.
-
-
-
-
-Section 2.
---------------------------------------------------
-
-
-*Section 2. The boroughs.* ::
-
-
-The boroughs of the city are continued as existing at the time of the adoption of this charter.
-
-
-
-
+    */*
