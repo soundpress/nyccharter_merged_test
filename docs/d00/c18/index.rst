@@ -1,10 +1,10 @@
 Chapter 15: Property of the City
-===================================================
+======================================================================================================
 Section 381.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 381. Authority to acquire real property.* ::
+*Section 381. Authority to acquire real property.*
 
 
 The city may acquire title in fee to real property or any interest therein whenever required for any public or municipal use or purpose or for the promotion of public utility, comfort, health, enjoyment or adornment. Such title or interest shall be acquired according to law by purchase, condemnation or otherwise.
@@ -13,10 +13,10 @@ The city may acquire title in fee to real property or any interest therein whene
 
 
 Section 382.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 382. Notice to owners of proceeding to acquire property.* ::
+*Section 382. Notice to owners of proceeding to acquire property.*
 
 
 In addition to all other requirements of law, written notice of the application to have compensation for real property ascertained in any proceeding brought by the city to acquire title to real property shall be given by the corporation counsel to the owners of all property affected by the proceeding at least ten days prior to such application, by mailing the same to such owners at the address registered or filed with the commissioner of finance for the purpose of forwarding to them bills for taxes, assessments and frontage water rates. Such notice shall state the purpose for which the property is to be acquired and the date when such application will be presented and shall contain a copy of such application. Upon request by the corporation counsel, the commissioner of finance shall furnish a certified list of the registered or filed names and addresses of such owners. Failure to comply with the directions contained in this section shall not invalidate or affect the proceeding.
@@ -25,10 +25,10 @@ In addition to all other requirements of law, written notice of the application 
 
 
 Section 383.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 383. Inalienable property.* ::
+*Section 383. Inalienable property.*
 
 
 The rights of the city in and to its water front, ferries, wharf property, bridges, land under water, public landings, wharves, docks, streets, avenues, highways, parks, waters, waterways and all other public places are hereby declared to be inalienable; but upon the closing or discontinuance of any street, avenue, park or other public place, the property may be sold or otherwise disposed of as may be provided by law, and leases of land under water, wharf property, wharves, docks and piers may be made as may be provided by law. Nothing herein contained shall prevent the granting of franchises, permits and licenses in respect to inalienable property.
@@ -37,10 +37,10 @@ The rights of the city in and to its water front, ferries, wharf property, bridg
 
 
 Section 384.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 384. Disposal of property of the city.* ::
+*Section 384. Disposal of property of the city.*
 
 
 a. No real property of the city may be sold, leased, exchanged or otherwise disposed of except with the approval of the mayor and as may be provided by law unless such power is expressly vested by law in another agency.

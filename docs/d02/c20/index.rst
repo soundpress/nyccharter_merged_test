@@ -1,12 +1,12 @@
 Title 38: Police Department
-===================================================
+======================================================================================================
 
 Chapter 1: Dealers In Rifles and Shotguns
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Introduction.* ::
+*§ 1-01 Introduction.*
 
 
 The following rules and regulations are hereby promulgated for the licensing and regulating of dealers in rifles and shotguns. Licensees are held responsible for the strict enforcement of and adherence to these rules. Any violation thereof is cause for suspension and/or revocation of the subject license.
@@ -16,7 +16,7 @@ The following rules and regulations are hereby promulgated for the licensing and
 
 
 
-*§ 1-02 Definitions.* ::
+*§ 1-02 Definitions.*
 
 
 Ammunition. The term "ammunition" shall mean any explosives suitable to be fired from a rifle or shotgun.
@@ -52,7 +52,7 @@ Storage permit. The term "storage permit" shall mean the permit for the storage 
 
 
 
-*§ 1-03 Applications.* ::
+*§ 1-03 Applications.*
 
 
 (a) A fee of $150 shall accompany the application. All permits expire on the first day of the second January following the date of issuance of the permit and may be renewed thereafter. The renewal fee is also $150. The applicant shall pay the applicable fee with a certified check or money order payable to "N.Y.C. Police Department."
@@ -88,7 +88,7 @@ Storage permit. The term "storage permit" shall mean the permit for the storage 
 
 
 
-*§ 1-04 Licenses and Licensees.* ::
+*§ 1-04 Licenses and Licensees.*
 
 
 (a) For purposes of this section, all employees of a licensed dealer in rifles and shotguns shall personally be in possession of a valid rifle/shotgun permit to purchase and possess rifles and shotguns issued by the Rifle/Shotgun Section. Applications for dealer in rifles and shotguns and for possession of rifles and/or shotguns shall be processed together if submitted together.
@@ -136,7 +136,7 @@ Storage permit. The term "storage permit" shall mean the permit for the storage 
 
 
 
-*§ 1-05 Rifles/Shotguns and Ammunition.* ::
+*§ 1-05 Rifles/Shotguns and Ammunition.*
 
 
 (a) No rifle or shotgun shall be sold, or given away, or disposed of, unless the transferee is authorized by law to possess such rifle or shotgun. Any police officer or peace officer shall produce a shield and proper identification before purchasing a rifle or shotgun. A peace officer whose status does not confer authorization to possess firearms pursuant to § 2.10 of the New York State Criminal Procedure Law shall possess a rifle/shotgun permit in order to be a lawful transferee. Therefore, before delivering a rifle or shotgun to a peace officer without a rifle/shotgun permit, the licensee shall verify that person's status as a peace officer by telephoning the License Division Incident Section at (212) 374-5538 or 5539.
@@ -394,7 +394,7 @@ AMMUNITION SOLD**
 
 
 
-*§ 1-06 Security.* ::
+*§ 1-06 Security.*
 
 
 A licensee shall take all reasonable precautions to make the premises secure. These precautions shall include but not be limited to all applicable measures as listed below:
@@ -421,11 +421,11 @@ A licensee shall take all reasonable precautions to make the premises secure. Th
 
 
 Chapter 2: Organizations Possessing Rifles and Shotguns
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Introduction.* ::
+*§ 2-01 Introduction.*
 
 
 The following Rules have been promulgated by the Police Commissioner for the registration and regulation of organizations possessing rifles and shotguns. Such organizations are held responsible for the strict enforcement of and adherence to these Rules. Any violation thereof is cause for suspension or revocation of the privilege to possess rifles and shotguns.
@@ -435,7 +435,7 @@ The following Rules have been promulgated by the Police Commissioner for the reg
 
 
 
-*§ 2-02 Definitions.* ::
+*§ 2-02 Definitions.*
 
 
 Ammunition. The term "ammunition" shall mean any explosives suitable to be fired from a rifle or shotgun.
@@ -467,7 +467,7 @@ Storage permit. The term "storage permit" shall mean the permit for the storage 
 
 
 
-*§ 2-03 Applicability.* ::
+*§ 2-03 Applicability.*
 
 
 These Rules shall apply to any person, firm, partnership, corporation, company or other entity, association, educational institution, cultural institution, or paramilitary organization possessing rifles and/or shotguns for the purpose of holding itself out to the general public as a business providing security or protection services for compensation; or instructing individuals in the use of rifles and/or shotguns; or engaging in a military drill or parade with rifles and/or shotguns; or organizing and supervising a competition or target practice involving the use of rifles and/or shotguns.
@@ -477,7 +477,7 @@ These Rules shall apply to any person, firm, partnership, corporation, company o
 
 
 
-*§ 2-04 Original Applications and Renewals.* ::
+*§ 2-04 Original Applications and Renewals.*
 
 
 (a) All applications, renewals, requests for information and inquiries by an organization pursuant to these Regulations shall be made to the Rifle/Shotgun Section, License Division, New York City Police Department, 120-55 Queens Blvd., Kew Gardens, N.Y. 11424, (718) 520-9300. The Rifle/Shotgun Section shall prescribe and enforce the manner in which an organization may be registered to possess rifles and shotguns.
@@ -507,7 +507,7 @@ These Rules shall apply to any person, firm, partnership, corporation, company o
 
 
 
-*§ 2-05 Custodian Appointment and Duties.* ::
+*§ 2-05 Custodian Appointment and Duties.*
 
 
 (a) Upon application an organization shall appoint two (2) active members or employees of the organization to be personally responsible for all rifles and shotguns possessed by the organization, its employees or members. These individuals shall be known as the custodian and alternate custodian.
@@ -571,7 +571,7 @@ These Rules shall apply to any person, firm, partnership, corporation, company o
 
 
 
-*§ 2-06 Storage of Rifles and Shotguns and Ammunition.* ::
+*§ 2-06 Storage of Rifles and Shotguns and Ammunition.*
 
 
 (a)  Pursuant to New York City Administrative Code § 10-312, it shall be a criminal violation for any person who is the lawful owner or lawful custodian of a rifle or shotgun to store or otherwise place or leave such weapon in such a manner or under circumstances that it is out of her/his immediate possession or control, without having rendered such weapon inoperable by employing a safety locking device as defined in 38 RCNY § 2-05(j). Such offense shall constitute a misdemeanor if the offender has previously been found guilty of such violation or if the violation is committed under circumstances which create a substantial risk of physical injury to another person. The Rifle/Shotgun Section recognizes that all organizations have incurred an obligation by being registered to maintain and use rifles and shotguns in a responsible fashion. In order to assist organizations, the Rifle/Shotgun Section has issued the following safety guidelines for storing rifles and shotguns on the premises:
@@ -611,7 +611,7 @@ These Rules shall apply to any person, firm, partnership, corporation, company o
 
 
 
-*§ 2-07 Security Plan.* ::
+*§ 2-07 Security Plan.*
 
 
 In order to properly protect an organization's premises and the rifles, shotguns and ammunition stored within, the Rifle/Shotgun Section requires that custodians utilize the New York City Police Department's Crime Prevention Security Survey. A member of the New York City Police Department will come to an organization's premises and inspect the building for security measures. After the inspection, the officer will recommend and suggest various methods designed to better protect the premises. These recommendations may include the choice of locks, gates, and alarm systems suitable for the premises. The inspection is free of charge. An organization shall contact its local police precinct, and request an appointment with the Crime Prevention Officer or the Community Policing Supervisor for a survey of the premises of the organization.
@@ -621,7 +621,7 @@ In order to properly protect an organization's premises and the rifles, shotguns
 
 
 
-*§ 2-08 Separability.* ::
+*§ 2-08 Separability.*
 
 
 If any clause, sentence, paragraph, or part of these Rules of the application to any organization, custodian, or circumstances shall be determined to be invalid, such determination shall not affect, impair or invalidate the remainder thereof.
@@ -630,11 +630,11 @@ If any clause, sentence, paragraph, or part of these Rules of the application to
 
 
 Chapter 3: Rifle/shotgun Permits
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Introduction.* ::
+*§ 3-01 Introduction.*
 
 
 All New York City rifle and shotgun permittees shall be aware of the responsibilities incurred by accepting a permit. The permittee should especially be familiar with the rules applicable to the possession of a rifle or shotgun or both. The following rules for the proper and safe use of rifles and shotguns have been promulgated by the Police Commissioner of the New York City Police Department. A violation of these provisions may be cause for suspension or revocation of a rifle/shotgun permit.
@@ -644,7 +644,7 @@ All New York City rifle and shotgun permittees shall be aware of the responsibil
 
 
 
-*§ 3-02 Application for Permit.* ::
+*§ 3-02 Application for Permit.*
 
 
 (a) The applicant shall complete the application supplied to her/him by the Police Department.
@@ -674,7 +674,7 @@ All New York City rifle and shotgun permittees shall be aware of the responsibil
 
 
 
-*§ 3-03 Grounds for Denial of Permit.* ::
+*§ 3-03 Grounds for Denial of Permit.*
 
 
 In addition to other bases for disqualification pursuant to federal, state, and local law and this chapter, an application for a rifle/shotgun permit may be denied where it is determined that an applicant lacks good moral character or that other good cause exists for denial, pursuant to § 10-303 of the Administrative Code of the City of New York. Such a determination shall be made based upon consideration of the following factors:
@@ -712,7 +712,7 @@ In addition to other bases for disqualification pursuant to federal, state, and 
 
 
 
-*§ 3-04 Right to Appeal Following Denial of Permit.* ::
+*§ 3-04 Right to Appeal Following Denial of Permit.*
 
 
 If for any reason her/his application is denied the applicant has the right to an appeal.
@@ -726,7 +726,7 @@ If for any reason her/his application is denied the applicant has the right to a
 
 
 
-*§ 3-05 Suspension or Revocation of Permit.* ::
+*§ 3-05 Suspension or Revocation of Permit.*
 
 
 (a)  The permittee shall immediately notify the Rifle/Shotgun Section by telephone, followed by written notice within ten (10) calendar days, of any incident or violation of law or rules of federal, state, or local jurisdictions. For purposes of this subdivision, an incident includes:
@@ -760,7 +760,7 @@ If for any reason her/his application is denied the applicant has the right to a
 
 
 
-*§ 3-06 Renewal of Permit.* ::
+*§ 3-06 Renewal of Permit.*
 
 
 Prior to the expiration of her/his rifle/shotgun permit the permittee shall be sent a renewal notice. The permittee shall answer all questions, comply with all instructions, submit a certified check or money order made payable to the N.Y.C. Police Department as required, sign and date the notice and forward it to the Rifle/Shotgun Section. In the event the permittee does not wish to renew her/his permit, s/he shall surrender her/his permit and all rifles/shotguns to her/his local precinct or otherwise lawfully dispose of the rifles/shotguns in accordance with 38 RCNY § 3-10 or 38 RCNY § 3-12 below. Any delays in renewing the permit may result in confiscation of all the permittee's rifles/shotguns by the New York City Police Department. Renewal of the permit may be disapproved if the permittee makes a false statement in connection with the renewal.
@@ -770,7 +770,7 @@ Prior to the expiration of her/his rifle/shotgun permit the permittee shall be s
 
 
 
-*§ 3-07 Possession and Registration of Permit.* ::
+*§ 3-07 Possession and Registration of Permit.*
 
 
 (a) The permit issued to the permittee by the Rifle/Shotgun Section enables the permittee to possess only rifles or shotguns that are properly registered under her/his permit.
@@ -786,7 +786,7 @@ Prior to the expiration of her/his rifle/shotgun permit the permittee shall be s
 
 
 
-*§ 3-08 Change of Address.* ::
+*§ 3-08 Change of Address.*
 
 
 The permittee shall notify the Rifle/Shotgun Section of any change in address within ten (10) calendar days.
@@ -796,7 +796,7 @@ The permittee shall notify the Rifle/Shotgun Section of any change in address wi
 
 
 
-*§ 3-09 Lost or Stolen Documents and Rifles/Shotguns.* ::
+*§ 3-09 Lost or Stolen Documents and Rifles/Shotguns.*
 
 
 All lost or stolen documents and rifles/shotguns shall be reported to the precinct in which the permittee resides or the theft or loss was discovered. The permittee shall obtain a complaint number from the precinct and report in person the loss or theft to the Rifle/Shotgun Section within five (5) calendar days of the loss. A fee of two (2) dollars is charged for each document for which a replacement is requested. This fee shall be paid by certified check or money order made payable to the N.Y.C. Police Department and shall accompany the report. The permittee shall not send cash. For lost permits two color photos of permittee, 11/2 × 11/2 inches, from the chest up, taken within the past thirty (30) days shall also be provided. The wearing of any article of clothing or other adornment obscuring the identification of the wearer is not acceptable.
@@ -806,7 +806,7 @@ All lost or stolen documents and rifles/shotguns shall be reported to the precin
 
 
 
-*§ 3-10 Request to Cancel Permit.* ::
+*§ 3-10 Request to Cancel Permit.*
 
 
 The permittee shall notify the Rifle/Shotgun Section if s/he wishes to cancel or decline to renew her/his rifle/shotgun permit by forwarding the permit, certificate(s) of registration, and an affirmed letter to the Rifle/Shotgun Section. The letter shall inform the Rifle/Shotgun Section where the rifles/shotguns are located or how they have otherwise been disposed of.
@@ -816,7 +816,7 @@ The permittee shall notify the Rifle/Shotgun Section if s/he wishes to cancel or
 
 
 
-*§ 3-11 Purchase of Ammunition.* ::
+*§ 3-11 Purchase of Ammunition.*
 
 
 The certificate of registration shall be presented to a dealer in rifles and shotguns at time of purchase of ammunition to confirm calibre or gauge of said specified rifle or shotgun.
@@ -826,7 +826,7 @@ The certificate of registration shall be presented to a dealer in rifles and sho
 
 
 
-*§ 3-12 Disposal of Rifles and Shotguns.* ::
+*§ 3-12 Disposal of Rifles and Shotguns.*
 
 
 (a)  The permittee may sell or dispose of her/his rifle/shotgun only to a licensed dealer in rifles and shotguns, to the holder of a valid rifle/shotgun permit, or to an individual who is exempt from the permit requirements of the City of New York. When the permittee sells her/his rifle or shotgun, s/he shall complete a certificate of registration. These forms may be obtained from the Rifle/Shotgun Section or the licensed dealer purchasing the rifle/shotgun and shall be forwarded to the Rifle/Shotgun Section within 72 hours of disposition.
@@ -846,7 +846,7 @@ The certificate of registration shall be presented to a dealer in rifles and sho
 
 
 
-*§ 3-13 Transfer of Rifles/Shotguns from an Estate.* ::
+*§ 3-13 Transfer of Rifles/Shotguns from an Estate.*
 
 
 The following procedures shall be followed to dispose of any rifles/shotguns belonging to an estate:
@@ -868,7 +868,7 @@ The following procedures shall be followed to dispose of any rifles/shotguns bel
 
 
 
-*§ 3-14 Supplemental Rules.* ::
+*§ 3-14 Supplemental Rules.*
 
 
 (a) The permittee's rifle or shotgun shall not be loaded in a public place within New York City at any time except when using it at a licensed rifle and shotgun range.
@@ -905,11 +905,11 @@ The following procedures shall be followed to dispose of any rifles/shotguns bel
 
 
 Chapter 4: Gunsmiths and Dealers In Firearms
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Introduction.* ::
+*§ 4-01 Introduction.*
 
 
 The following rules are hereby promulgated for the licensing and regulation of gunsmiths, manufacturers, dealers in firearms and dealers in air pistols, air rifles or similar instruments. Licensees are held responsible for the strict enforcement of and adherence to these rules. Any violation thereof is cause for suspension and/or revocation of the subject license.
@@ -919,7 +919,7 @@ The following rules are hereby promulgated for the licensing and regulation of g
 
 
 
-*§ 4-02 Definitions.* ::
+*§ 4-02 Definitions.*
 
 
 Air pistols, air rifles, or similar instruments. The terms "air pistols," "air rifles," or "similar instruments" shall mean any instrument designed or redesigned, made or remade to use the energy of a spring or air to fire a projectile.
@@ -957,7 +957,7 @@ Shotgun. The term "shotgun" shall mean a "shotgun" as defined in § 265.00 of th
 
 
 
-*§ 4-03 Requirements of Applicants.* ::
+*§ 4-03 Requirements of Applicants.*
 
 
 (a) Applications for dealer in firearms, gunsmith, manufacturer and dealer in air pistols and air rifles shall be filed in the precinct in which the business premises is located.
@@ -1023,7 +1023,7 @@ Shotgun. The term "shotgun" shall mean a "shotgun" as defined in § 265.00 of th
 
 
 
-*§ 4-04 Licensee Requirements.* ::
+*§ 4-04 Licensee Requirements.*
 
 
 (a) For purposes of this section, all employees, as defined in 38 RCNY § 4-02, of a licensed gunsmith or dealer in firearms, shall personally be in possession of the required, valid license(s) or permit(s) issued by the License Division to possess handguns, rifles and/or shotguns. No person shall be employed who has been convicted anywhere of a felony, misdemeanor, serious offense as defined in § 265.00(17) of the New York State Penal Law, or a misdemeanor crime of domestic violence, as defined in § 921(a) of title 18 of the United States Code. No person shall be employed who is the subject of a suspension or ineligibility order issued pursuant to § 530.14 of the New York State Criminal Procedure Law or § 842-a of the New York State Family Court Act. The fitness of any employee for continued employment is subject to review by the Commissioner. The licensee may be directed to terminate such employment if such employment involves access in any manner to firearms, rifles, shotguns, machine-guns, or assault weapons, based upon an arrest for any offense, or upon previous connection with a premises wherein the license was revoked or denied, or on said employee's character or reputation, or upon the employee's being or becoming the recipient or subject of an order of protection or a temporary order of protection. Licensees shall submit a roster of employees in triplicate on a form prescribed by the Commissioner, together with original application and with each renewal application. A report of any change of personnel, or change of residence address of an employee shall be filed in writing with the Commanding Officer of the precinct wherein the premises is located, within 48 hours after such change becomes effective.
@@ -1263,7 +1263,7 @@ AMMUNITION SOLD
 
 
 
-*§ 4-05 Rules Affecting Gunsmiths Only.* ::
+*§ 4-05 Rules Affecting Gunsmiths Only.*
 
 
 (a) Every gunsmith shall keep a bound record book with pages numbered consecutively, in which the following information shall be entered:
@@ -1285,7 +1285,7 @@ AMMUNITION SOLD
 
 
 
-*§ 4-06 Rules Affecting Dealers in Firearms Only.* ::
+*§ 4-06 Rules Affecting Dealers in Firearms Only.*
 
 
 (a) Every dealer in firearms shall keep a bound record book with pages numbered consecutively, in which the following information shall be entered:
@@ -1307,7 +1307,7 @@ AMMUNITION SOLD
 
 
 
-*§ 4-07 Rules Affecting Air Pistol and Air Rifle Dealers Only.* ::
+*§ 4-07 Rules Affecting Air Pistol and Air Rifle Dealers Only.*
 
 
 Every dealer shall keep a record of the name and address of each person purchasing air pistols, air rifles, or similar instruments, together with place of delivery and said record shall be open to inspection during regular business hours by a member of the New York City Police Department.
@@ -1317,7 +1317,7 @@ Every dealer shall keep a record of the name and address of each person purchasi
 
 
 
-*§ 4-08 Validity of Licenses.* ::
+*§ 4-08 Validity of Licenses.*
 
 
 (a) A license issued to a dealer in firearms, gunsmith or manufacturer shall be valid until the 1st day of the second January after date of issuance, and may be renewed annually thereafter.
@@ -1329,7 +1329,7 @@ Every dealer shall keep a record of the name and address of each person purchasi
 
 
 
-*§ 4-09 Familiarity with Rules and Law.* ::
+*§ 4-09 Familiarity with Rules and Law.*
 
 
 All licensees shall be required to sign an acknowledgment that they shall be responsible for compliance with all laws, rules, regulations, standards, and procedures promulgated by federal, state, or local jurisdictions, and by federal, state, or local law enforcement agencies, that are applicable to each type of license or permit issued to them. Licensees are specifically reminded of the prohibitions against possession of assault weapons in New York City pursuant to New York City Administrative Code, Title 10, Chapter 3. The License Division shall provide the licensee with the acknowledgment statement to be executed. This acknowledgment statement shall be notarized. Failure to execute the acknowledgment statement and to have it notarized shall result in the license application being denied.
@@ -1338,7 +1338,7 @@ All licensees shall be required to sign an acknowledgment that they shall be res
 
 
 Chapter 5: Handgun Licenses
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -1347,7 +1347,7 @@ Chapter 5: Handgun Licenses
 
 
 
-*§ 5-01 Types of Handgun Licenses.* ::
+*§ 5-01 Types of Handgun Licenses.*
 
 
 As used in this chapter, the term "handgun" shall mean a pistol or revolver. This section contains a description of the various types of handgun licenses issued by the Police Department. 38 RCNY § 5-09 contains a description of the procedure for obtaining an exemption from New York State Penal Law Article 265, allowing pre-license possession of a handgun for the purpose of possessing and using a handgun for instructional purposes with a certified instructor in small arms at an authorized small arms range/shooting club.
@@ -1375,7 +1375,7 @@ As used in this chapter, the term "handgun" shall mean a pistol or revolver. Thi
 
 
 
-*§ 5-02 Premises Licenses.* ::
+*§ 5-02 Premises Licenses.*
 
 
 The requirements for the issuance of a Premises License are listed below. The license application shall be investigated, including a review of the circumstances relevant to the information provided in the application. During the pendency of the application, the applicant shall notify the License Division of any necessary correction to or modification of the information provided in the original application, or any change in her/his status or circumstances, which may be relevant to the application. The applicant shall:
@@ -1403,7 +1403,7 @@ The requirements for the issuance of a Premises License are listed below. The li
 
 
 
-*§ 5-03 Carry and Special Handgun Licenses.* ::
+*§ 5-03 Carry and Special Handgun Licenses.*
 
 
 In addition to the requirements in 38 RCNY § 5-02, an applicant seeking a carry or special handgun license shall be required to show "proper cause" pursuant to § 400.00(2)(f) of the New York State Penal Law. "Proper cause" is determined by a review of all relevant information bearing on the claimed need of the applicant for the license. The following are examples of factors which will shall be considered in such a review.
@@ -1421,7 +1421,7 @@ In addition to the requirements in 38 RCNY § 5-02, an applicant seeking a carry
 
 
 
-*§ 5-04 Carry Guard License/Gun Custodian License and Special Carry Guard License/Gun Custodian License.* ::
+*§ 5-04 Carry Guard License/Gun Custodian License and Special Carry Guard License/Gun Custodian License.*
 
 
 (a) In addition to the requirements in 38 RCNY § 5-02 an applicant shall demonstrate the employer's need to employ armed security guards/gun custodians.
@@ -1441,7 +1441,7 @@ In addition to the requirements in 38 RCNY § 5-02, an applicant seeking a carry
 
 
 
-*§ 5-05 Application Form.* ::
+*§ 5-05 Application Form.*
 
 
 (a) An application form shall be distributed, one per person, at the License Division during normal business hours. Assistance in completing the form shall be made available at the License Division. The application form shall be completely filled out and submitted in person at the License Division, and only an original application form shall be accepted. Special license applicants should also specifically refer to paragraph (9) of subdivision (b) of this section for application requirements.
@@ -1503,7 +1503,7 @@ In addition to the requirements in 38 RCNY § 5-02, an applicant seeking a carry
 
 
 
-*§ 5-06 Gun Custodian, Carry Guard and Special Licenses. Establishing Company Need for Handgun Licensing.* ::
+*§ 5-06 Gun Custodian, Carry Guard and Special Licenses. Establishing Company Need for Handgun Licensing.*
 
 
 (a) An applicant shall initially submit a typed license application, which shall be affirmed in writing, in accordance with general handgun license rules, including all personal and business documentation requested. Examples of business documentation would be a company's corporate book, including filing receipt; certificate of incorporation; minutes of the corporate meeting reflecting current corporate officers; business certificate or partnership agreement, whichever is applicable.
@@ -1527,7 +1527,7 @@ In addition to the requirements in 38 RCNY § 5-02, an applicant seeking a carry
 
 
 
-*§ 5-07 License Approval/Disapproval Procedures.* ::
+*§ 5-07 License Approval/Disapproval Procedures.*
 
 
 (a) It takes approximately six months to process an application. If her/his application is approved the applicant shall receive a "Notice of Application Approval" in the mail. If the applicant moves during the time her/his application is being processed, the applicant shall immediately notify the License Division's Handgun License Application Section, Room 110A, One Police Plaza, New York, New York 10038, (212) 374-5553, and be guided by their instructions. Failure to make timely notification may result in the disapproval/cancellation of the applicant's application.
@@ -1547,7 +1547,7 @@ In addition to the requirements in 38 RCNY § 5-02, an applicant seeking a carry
 
 
 
-*§ 5-08 Limitations.* ::
+*§ 5-08 Limitations.*
 
 
 Applicants issued licenses pursuant to this subchapter shall be subject to such conditions and limitations as established by the Police Commissioner regarding, but not necessarily limited to the permissible number, type, transportation and safeguarding of handguns.
@@ -1557,7 +1557,7 @@ Applicants issued licenses pursuant to this subchapter shall be subject to such 
 
 
 
-*§ 5-09 Application for Pre-License Exemption.* ::
+*§ 5-09 Application for Pre-License Exemption.*
 
 
 Each applicant desiring to obtain the exemption set forth in New York State Penal Law § 265.20(a)(7-b), allowing pre-license possession of a handgun for the purpose of possessing and using a handgun for instructional purposes with a certified instructor in small arms at an authorized small arms range/shooting club, shall make such request in writing to the Division Head, License Division at the time the application for a handgun license is filed. Such request shall include a signed and verified statement by the person authorized to instruct and supervise the applicant, that s/he has met with the applicant and s/he has determined that, in her/his judgment, said applicant does not appear to be or pose a threat to be a danger to her/himself or others. S/he shall include a copy of her/his certificate as an instructor in small arms, if s/he is required to be certified, and state her/his address and telephone number. S/he shall specify the exact location by name, address and telephone number where such instruction shall take place. The Division Head, License Division shall, no later than ten (10) business days after such filing, commence an investigation and ascertain whether the applicant has a criminal record. The Division Head, License Division shall no later than ten (10) business days after the completion of such investigation determine if the applicant has been previously denied a license, been convicted of a felony, been convicted of a serious offense as defined in Penal Law § 265.00(17), been convicted of a misdemeanor crime of domestic violence, as defined in § 921(a) of Title 18 of the United States Code, been the subject or recipient of an order of protection or a temporary order of protection, been the subject of a suspension or ineligibility order issued pursuant to § 530.14 of the New York State Criminal Procedure Law or § 842-a of the New York State Family Court Act, or appears to be, or poses a threat to be, a danger to her/himself or others, and either approve or disapprove the applicant for exemption purposes based upon such determinations. If the applicant is approved for the exemption, the Division Head, License Division shall notify the applicant. Such exemption shall terminate if the application for the license is denied, or at any earlier time based upon any information obtained by the Division Head, License Division which would cause the application to be rejected. The applicant shall be notified of any such rejection.
@@ -1567,7 +1567,7 @@ Each applicant desiring to obtain the exemption set forth in New York State Pena
 
 
 
-*§ 5-10 Grounds for Denial of Handgun License.* ::
+*§ 5-10 Grounds for Denial of Handgun License.*
 
 
 In addition to other bases for disqualification pursuant to federal, state, and local law and this chapter, an application for a handgun license may be denied where it is determined that an applicant lacks good moral character or that other good cause exists for denial, pursuant to New York State Penal Law § 400.00 (1). Such a determination shall be made based upon consideration of the following factors:
@@ -1605,7 +1605,7 @@ In addition to other bases for disqualification pursuant to federal, state, and 
 
 
 
-*§ 5-11 Grounds for Suspension for Defined Period or Revocation of Handgun License.* ::
+*§ 5-11 Grounds for Suspension for Defined Period or Revocation of Handgun License.*
 
 
 A handgun license may be suspended for a defined period or revoked upon evidence of any disqualification pursuant to this chapter. A handgun license shall be revoked upon the conviction in this state or elsewhere of a felony or a serious offense, as defined in subdivision seventeen of section 265.00 of the penal law. Evidence of disqualification may be demonstrated by an investigation, by a licensee's failure to cooperate with such an investigation, or by other evidence.
@@ -1620,7 +1620,7 @@ A handgun license may be suspended for a defined period or revoked upon evidence
 
 
 
-*§ 5-21 Introduction.* ::
+*§ 5-21 Introduction.*
 
 
 Any violation of this subchapter and/or the restrictions of the license, if any, may result in the suspension and/or revocation of the license.
@@ -1630,7 +1630,7 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
 
 
-*§ 5-22 Conditions of Issuance.* ::
+*§ 5-22 Conditions of Issuance.*
 
 
 (a) A handgun license is issued under the following conditions:
@@ -1706,7 +1706,7 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
 
 
-*§ 5-23 Types of Handgun Licenses.** ::
+*§ 5-23 Types of Handgun Licenses.**
 
 
 (a) Premises License – Residence or Business. This is a restricted handgun license, issued for the protection of a business or residence premises.
@@ -1750,7 +1750,7 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
 
 
-*§ 5-24 Gun Custodians and Carry Guards.* ::
+*§ 5-24 Gun Custodians and Carry Guards.*
 
 
 (a) Gun Custodian. 
@@ -1836,7 +1836,7 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
 
 
-*§ 5-25 Handgun Purchase Authorizations.* ::
+*§ 5-25 Handgun Purchase Authorizations.*
 
 
 (a) The licensee may not obtain a handgun without prior written authorization from the Division Head, License Division. This authorization shall be provided in the nature of a "Handgun Purchase Authorization" form. The following are the rules concerning handgun acquisition:
@@ -1982,7 +1982,7 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
 
 
-*§ 5-26 Disposal of a Handgun Listed on the License.* ::
+*§ 5-26 Disposal of a Handgun Listed on the License.*
 
 
 (a)  Any person lawfully in possession of a handgun who disposes of the same without first notifying the License Division in writing shall be guilty of a Class A Misdemeanor in accordance with the provisions of New York State Penal Law § 265.10(7). Pursuant to New York City Administrative Code § 10-311(a), it shall be unlawful for any person or business enterprise to dispose of any handgun which does not contain a safety locking device, defined as a design adaptation or attachable accessory that will prevent the use of the weapon by an unauthorized user. The following types of safety locking devices will be deemed to comply with this provision:
@@ -2056,7 +2056,7 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
 
 
-*§ 5-27 Cancellation of the Handgun License.* ::
+*§ 5-27 Cancellation of the Handgun License.*
 
 
 (a) Anyone cancelling a New York City Handgun License shall:
@@ -2090,7 +2090,7 @@ Any violation of this subchapter and/or the restrictions of the license, if any,
 
 
 
-*§ 5-28 Renewal of the Handgun License.* ::
+*§ 5-28 Renewal of the Handgun License.*
 
 
 The licensee is required to renew her/his handgun license every three (3) years. The license expires on the licensee's birthday.
@@ -2122,7 +2122,7 @@ The licensee is required to renew her/his handgun license every three (3) years.
 
 
 
-*§ 5-29 License Amendments.* ::
+*§ 5-29 License Amendments.*
 
 
 (a) Originals of all verifying documents shall be presented along with photocopies. After the original documents have been reviewed, they shall be returned to the licensee.
@@ -2170,7 +2170,7 @@ The licensee is required to renew her/his handgun license every three (3) years.
 
 
 
-*§ 5-30 Incidents Involving Suspension.* ::
+*§ 5-30 Incidents Involving Suspension.*
 
 
 (a) Whenever a handgun licensee is involved in an "Incident," the licensee shall immediately report said incident to the License Division's Incident Section – Telephone number (212) 374-5538 or 5539. Certain "Incidents" shall also be reported to the "Precinct of Occurrence" (where the incident took place).
@@ -2238,7 +2238,7 @@ The licensee is required to renew her/his handgun license every three (3) years.
 
 
 
-*§ 5-31 Mutilated, Lost or Stolen Licenses.* ::
+*§ 5-31 Mutilated, Lost or Stolen Licenses.*
 
 
 (a) If her/his license was lost or stolen, the licensee shall report the loss/theft to the "Precinct of Occurrence" and obtain a "Complaint Report Number."
@@ -2288,7 +2288,7 @@ The licensee is required to renew her/his handgun license every three (3) years.
 
 
 
-*§ 5-32 Transfer of Records.* ::
+*§ 5-32 Transfer of Records.*
 
 
 New York City handgun licensees who have moved out of New York City may request a transfer of their records to their new licensing jurisdiction, in accordance with § 400.00, Subdivision 5, of the New York State Penal Law.
@@ -2304,7 +2304,7 @@ New York City handgun licensees who have moved out of New York City may request 
 
 
 
-*§ 5-33 Familiarity with Rules and Law.* ::
+*§ 5-33 Familiarity with Rules and Law.*
 
 
 All licensees shall be required to sign an acknowledgment that they shall be responsible for compliance with all laws, rules, regulations, standards, and procedures promulgated by federal, state, or local jurisdictions, and by federal, state, or local law enforcement agencies, that are applicable to this license. The License Division shall provide the licensee with the acknowledgment statement. This acknowledgment statement shall be affirmed in writing. Failure to affirm the acknowledgment statement shall result in denial of the license application.
@@ -2313,11 +2313,11 @@ All licensees shall be required to sign an acknowledgment that they shall be res
 
 
 Chapter 6: Use of Amber Lights By Volunteer Civilian Patrol Members
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 6-01 Possession and Use of Amber Lights by Volunteer Civilian Patrol Members.* ::
+*§ 6-01 Possession and Use of Amber Lights by Volunteer Civilian Patrol Members.*
 
 
 (a) Only a member of a Civilian Observation Patrol sponsored by the New York City Police Department shall be eligible for a permit to possess and use an amber light pursuant to these Regulations.
@@ -2348,11 +2348,11 @@ Chapter 6: Use of Amber Lights By Volunteer Civilian Patrol Members
 
 
 Chapter 7: Radio Receiving Set Permits
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 7-01 Introduction.* ::
+*§ 7-01 Introduction.*
 
 
 Radio receiving set permits are issued pursuant to § 397 of the New York State Vehicle and Traffic Law and § 10-102 of the New York City Administrative Code. Violation of these statutes may result in the arrest and/or summons of the violator.
@@ -2362,7 +2362,7 @@ Radio receiving set permits are issued pursuant to § 397 of the New York State 
 
 
 
-*§ 7-02 Permit Requirement.* ::
+*§ 7-02 Permit Requirement.*
 
 
 It shall be unlawful for any person to equip an automobile with a radio receiving set capable of receiving signals on the frequencies allocated for police use, or use or possess an automobile so equipped, without a permit issued by the Police Commissioner, or designee in his or her discretion, and in accordance with such rules as the Commissioner may prescribe (Administrative Code § 10-102).
@@ -2372,7 +2372,7 @@ It shall be unlawful for any person to equip an automobile with a radio receivin
 
 
 
-*§ 7-03 Application Process.* ::
+*§ 7-03 Application Process.*
 
 
 (a) Basic procedure. To have his application for a radio receiving set permit processed, an applicant must comply with the following instructions:
@@ -2462,7 +2462,7 @@ It shall be unlawful for any person to equip an automobile with a radio receivin
 
 
 
-*§ 7-04 Permit Conditions.* ::
+*§ 7-04 Permit Conditions.*
 
 
 The radio receiving set permit is issued subject to the following conditions/terms:
@@ -2530,7 +2530,7 @@ The radio receiving set permit is issued subject to the following conditions/ter
 
 
 
-*§ 7-05 Radio Receiving Set Permit Renewals.* ::
+*§ 7-05 Radio Receiving Set Permit Renewals.*
 
 
 (a) Renewal process. The permit must be renewed on an annual basis. It is the permittee's responsibility to ensure that he begins the renewal process at least one month prior to the expiration of his permit.
@@ -2563,11 +2563,11 @@ The radio receiving set permit is issued subject to the following conditions/ter
 
 
 Chapter 8: Sound Device Permits
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 8-01 Definition.* ::
+*§ 8-01 Definition.*
 
 
 Sound device. "Sound device" shall mean any radio or device or apparatus for the amplification of any sound from any radio, phonograph or other sound making or sound producing device, or any device or apparatus for the reproduction or amplification of the human voice.
@@ -2577,7 +2577,7 @@ Sound device. "Sound device" shall mean any radio or device or apparatus for the
 
 
 
-*§ 8-02 Applications.* ::
+*§ 8-02 Applications.*
 
 
 (a) An application for a permit will be made at least five days prior to date upon which the sound device or apparatus is to be used or operated, except in a case of a sudden event of great public interest where applicant was unable, through no fault of his or her own, to file the application within the required time.
@@ -2603,7 +2603,7 @@ Sound device. "Sound device" shall mean any radio or device or apparatus for the
 
 
 
-*§ 8-03 Fees.* ::
+*§ 8-03 Fees.*
 
 
 The fee for use of each sound device or apparatus is five dollars for each day, regardless of number of locations specified in application. No fee is required for a permit issued to any agency of the United States Government, State or City of New York. The fee will be required upon approval of application and be paid to the precinct of application.
@@ -2613,7 +2613,7 @@ The fee for use of each sound device or apparatus is five dollars for each day, 
 
 
 
-*§ 8-04 Approval/Disapproval Procedures.* ::
+*§ 8-04 Approval/Disapproval Procedures.*
 
 
 (a) The permittee will be notified by the precinct if his application for a permit is approved. If the permit is approved the permittee will be directed to pay the fee and to pick up the permit on the morning of the event. The permittee will be given a receipt for his application fee.
@@ -2625,7 +2625,7 @@ The fee for use of each sound device or apparatus is five dollars for each day, 
 
 
 
-*§ 8-05 Permit Conditions.* ::
+*§ 8-05 Permit Conditions.*
 
 
 Sound device permits are issued under the following conditions:
@@ -2647,7 +2647,7 @@ Sound device permits are issued under the following conditions:
 
 
 
-*§ 8-06 Prohibitions.* ::
+*§ 8-06 Prohibitions.*
 
 
 A sound device permit will not be issued for:
@@ -2670,11 +2670,11 @@ A sound device permit will not be issued for:
 
 
 Chapter 9: Certificate of Conduct
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 9-01 Instructions for Obtaining a Certificate of Conduct.* ::
+*§ 9-01 Instructions for Obtaining a Certificate of Conduct.*
 
 
 An applicant for a Certificate of Conduct must apply in person at the Public Inquiry &amp; Request Section, located at One Police Plaza, New York, New York, Room 152-A, Monday through Friday, from 9:00 A.M. to 3:00 P.M. except for legal holidays.
@@ -2688,7 +2688,7 @@ In cases where the taking of fingerprints is an impossibility due to the applica
 
 
 
-*§ 9-02 Required Documentation.* ::
+*§ 9-02 Required Documentation.*
 
 
 (a) United States Citizens. A United States citizen is required to bring the following as proof of citizenship:
@@ -2713,11 +2713,11 @@ In cases where the taking of fingerprints is an impossibility due to the applica
 
 
 Chapter 10: Padlock Hearings
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-01 Notice of Violation.* ::
+*§ 10-01 Notice of Violation.*
 
 
 The owner or managing agent of a building, erection or place shall be given written notice of arrests occurring thereat for offenses which constitute a public nuisance as defined in § 10-155, Administrative Code of the City of New York. The notice shall set forth the section of law violated, the date of violation, the address and location therein at which the violation occurred, and the court, county and docket number pertaining thereto. The notice shall further state that in the event that such arrests and/or future arrests result in two or more convictions for such public nuisance violations within a twelve month period, proceedings to close the building, erection or place may be commenced.
@@ -2727,7 +2727,7 @@ The owner or managing agent of a building, erection or place shall be given writ
 
 
 
-*§ 10-02 Commencement of Proceedings.* ::
+*§ 10-02 Commencement of Proceedings.*
 
 
 All Public Nuisance hearings shall be commenced by service of a Notice of Hearing on the owner, lessor, lessee and mortgagee (hereinafter called "respondent(s)") of a building, erection or place wherein the public nuisance is being conducted, maintained or permitted.
@@ -2757,7 +2757,7 @@ All Public Nuisance hearings shall be commenced by service of a Notice of Hearin
 
 
 
-*§ 10-03 Hearing Officials.* ::
+*§ 10-03 Hearing Officials.*
 
 
 (a) Public hearing. Hearings are generally open to the public except that if good cause is shown by either party, the Hearing Officer may exclude the public from a particular hearing or portion of a hearing.
@@ -2779,7 +2779,7 @@ All Public Nuisance hearings shall be commenced by service of a Notice of Hearin
 
 
 
-*§ 10-04 Proceedings Upon Default.* ::
+*§ 10-04 Proceedings Upon Default.*
 
 
 (a) Inquest. Upon the respondent's failure to appear at the hearing or any adjournment thereof, respondent may be deemed to have pleaded "no contest" and an order closing the building, erection or place may be issued. In such event, a closing order shall not be issued unless the Hearing Officer is satisfied that a Notice of Hearing was duly served and that the evidence offered in support of the closing constitutes a public nuisance as defined in § 10-155 of the Administrative Code of the City of New York. For the purpose of making this determination, the Hearing Officer shall convene the proceeding and receive all evidence in support of the closing as prescribed herein.
@@ -2791,7 +2791,7 @@ All Public Nuisance hearings shall be commenced by service of a Notice of Hearin
 
 
 
-*§ 10-05 Conduct of Hearings.* ::
+*§ 10-05 Conduct of Hearings.*
 
 
 (a) General provisions. The Hearing Officer shall rule upon matters of procedure and introduction of evidence and shall conduct the hearing in such manner as will best serve the attainment of justice.
@@ -2845,7 +2845,7 @@ All Public Nuisance hearings shall be commenced by service of a Notice of Hearin
 
 
 
-*§ 10-06 Decisions and Orders.* ::
+*§ 10-06 Decisions and Orders.*
 
 
 (a) Hearing Officer's recommendation. After the conclusion of the hearing, the Hearing Officer prepares a recommendation in a written report and forwards it, with all other materials necessary for reaching a decision, to the Commissioner. The report includes a statement of (1) a recommended decision which shall consist of findings (with specific references to principal supporting items in the record) and conclusions, as well as the reasons or basis therefor, upon all the material issues of fact and law presented on the record, and (2) an appropriate recommended ruling or order. Upon request made at or before the date of the hearing, the respondent shall be given a reasonable opportunity to review the Hearing Officer's report and submit in writing any objections thereto. Respondent's objections shall be forwarded to the Commissioner with the Hearing Officer's written report.
@@ -2857,7 +2857,7 @@ All Public Nuisance hearings shall be commenced by service of a Notice of Hearin
 
 
 
-*§ 10-07 Consent Judgments.* ::
+*§ 10-07 Consent Judgments.*
 
 
 Any respondent wishing to settle the charges on or before the date set for a hearing may do so by entering into a consent judgment/order which shall have the effect of a decision and order. The judgment/order shall contain such terms and conditions as in the discretion of the Hearing Officer are necessary to attain the purposes of § 10-155 and § 10-156 of the Administrative Code of the City of New York.
@@ -2867,7 +2867,7 @@ Any respondent wishing to settle the charges on or before the date set for a hea
 
 
 
-*§ 10-08 Vacation of Order.* ::
+*§ 10-08 Vacation of Order.*
 
 
 Where the Commissioner issues an order closing a building, erection or place, the order may be vacated on such terms and conditions as shall satisfy the Commissioner that the nuisance shall be abated and will not be created, maintained or permitted for such period of time as the building, erection or place has been directed to be closed by the order of the Commissioner. Such terms and conditions may include but are not limited to a posting of a bond or cash security.
@@ -2877,7 +2877,7 @@ Where the Commissioner issues an order closing a building, erection or place, th
 
 
 
-*§ 10-09 Bond.* ::
+*§ 10-09 Bond.*
 
 
 Any bond filed with the Department pursuant to these Regulations shall be delivered to the Hearing Officer for safekeeping until such time as its terms have been fulfilled or violated, as the case may be, or as otherwise directed by the Commissioner. In the event that the terms of the bond have been violated, such bond shall be forfeited and the proceeds thereof shall be paid into the general fund of the City.
@@ -2887,7 +2887,7 @@ Any bond filed with the Department pursuant to these Regulations shall be delive
 
 
 
-*§ 10-10 Construction.* ::
+*§ 10-10 Construction.*
 
 
 As used herein, terms in the singular shall include the plural.
@@ -2896,7 +2896,7 @@ As used herein, terms in the singular shall include the plural.
 
 
 Chapter 11: Press Credentials
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -2905,7 +2905,7 @@ Chapter 11: Press Credentials
 
 
 
-*§ 11-01 Press Card.* ::
+*§ 11-01 Press Card.*
 
 
 (a)  The bearer of a Press Card is entitled to (i) subject to safety and evidence preservation concerns, cross police, fire lines or other restrictions, limitations or barriers established by the City of New York at emergency, spot, or breaking news events and public events of a non-emergency nature where police, fire lines or other restrictions, limitations or barriers established by the City of New York have been set up for security or crowd control purposes, within the City of New York; and (ii) subject to space limitations, attend events sponsored by the City of New York which are open to members of the press. When the bearer's ability to cross police, fire lines or other restrictions, limitations or barriers established by the City of New York or attend events sponsored by the City of New York is denied, such denial must come from a supervising officer or a member of the Office of the Deputy Commissioner, Public Information of the New York City Police Department.
@@ -2939,7 +2939,7 @@ Chapter 11: Press Credentials
 
 
 
-*§ 11-02 Reserve Press Card.* ::
+*§ 11-02 Reserve Press Card.*
 
 
 (a)  The bearer of a Reserve Press Card has the same rights and privileges as a bearer of a Press Card under subdivision (a) of 38 RCNY § 11-01.
@@ -2975,7 +2975,7 @@ Chapter 11: Press Credentials
 
 
 
-*§ 11-03 Single Event Press Card.* ::
+*§ 11-03 Single Event Press Card.*
 
 
 (a)  The bearer of a Single Event Press Card has the same rights and privileges as a bearer of a Press Card under subdivision (a) of 38 RCNY § 11-01 for only a Single Event.
@@ -3005,7 +3005,7 @@ Chapter 11: Press Credentials
 
 
 
-*§ 11-04 Press Identification Card. [Repealed]* ::
+*§ 11-04 Press Identification Card. [Repealed]*
 
 
 (a)  Any person who is denied any of the above-described press credentials may appeal and request a hearing with respect to such decision, in writing, to the Commanding Officer, Public Information Division, within twenty (20) days from the date of the denial. The applicant will be notified of a hearing date which shall be no more than thirty (30) days from receipt of the request for a hearing, unless there is a mutual agreement to another date. Any person denied a Single Event Press Card may request that the hearing be waived.
@@ -3023,7 +3023,7 @@ Chapter 11: Press Credentials
 
 
 
-*§ 11-12 Review by the Deputy Commissioner, Public Information.* ::
+*§ 11-12 Review by the Deputy Commissioner, Public Information.*
 
 
 If, after a hearing, the decision to deny the applicant's request for a press credential is upheld, the applicant will be advised in writing of the basis for denial of the application. An appeal of this decision may be made, in writing, to the Deputy Commissioner, Public Information, within twenty (20) days of the date contained in the "Notice of Hearing Result." Any documentation in support of the appeal should be submitted with the request to the Deputy Commissioner, Public Information. The Deputy Commissioner, Public Information shall issue a written decision, setting forth the basis for denial in the event the denial is upheld, within thirty (30) days of the date when the appeal is received.
@@ -3032,7 +3032,7 @@ If, after a hearing, the decision to deny the applicant's request for a press cr
 
 
 Chapter 12: Return of Property from Property Clerk Division
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -3041,7 +3041,7 @@ Chapter 12: Return of Property from Property Clerk Division
 
 
 
-*§ 12-01 Introduction.* ::
+*§ 12-01 Introduction.*
 
 
 The Property Clerk Division has established procedures regarding the return of property when claimed by the public. The classification of the property, arrest evidence, decedent's property, found property, etc., determines the documentation the claimant must provide in order to gain possession. In all cases, in addition to the necessary documentation, proper identification of the claimant is required. This can be in the form of licenses, credit cards, passports, bankbooks and utility bills (see appendix A of this chapter). In cases where the owner of property sends another person to pick up that property, the owner must provide such person a notarized letter authorizing such person to act on the owner's behalf, to be presented to the Property Clerk Division. Listed below in this subchapter are categories and general procedures for claimants to follow, in order to obtain property in our custody. Subchapter A of this chapter contains general provisions. Subchapter B of this chapter sets forth special procedures, which are followed by the Property Clerk and the District Attorneys with respect to claims for the return of property taken or obtained in connection with an arrest. Subchapter C of this chapter sets forth special procedures that shall be followed by the Property Clerk with respect to items of jewelry recovered in the vicinity of the World Trade Center site subsequent to the terrorist attack of September 11, 2001. The claim submission procedures contained within this subchapter will be applicable until May 31, 2005.
@@ -3051,7 +3051,7 @@ The Property Clerk Division has established procedures regarding the return of p
 
 
 
-*§ 12-02 Arrest Evidence – Crime Victim is the Owner.* ::
+*§ 12-02 Arrest Evidence – Crime Victim is the Owner.*
 
 
 Released to owner upon presentation of a court order which directs the return of specified property on a specified voucher to a specifically named individual. In other cases, upon presentation of a letter from the Property Clerk, which is sent to identifiable owners, 90 days after the termination of criminal proceedings.
@@ -3061,7 +3061,7 @@ Released to owner upon presentation of a court order which directs the return of
 
 
 
-*§ 12-03 Arrest Evidence – Prisoner is the Owner. [Repealed]* ::
+*§ 12-03 Arrest Evidence – Prisoner is the Owner. [Repealed]*
 
 
 Property vouchered for investigation will require the claimant to obtain a release from the investigating officer, in writing, usually on department letterhead. (Police Department Patrol Guide, procedure 113-22.)
@@ -3071,7 +3071,7 @@ Property vouchered for investigation will require the claimant to obtain a relea
 
 
 
-*§ 12-07 Decedent's Property.* ::
+*§ 12-07 Decedent's Property.*
 
 
 Claimants must produce letters testamentary or of Administration, naming the executor of the estate, when a will is involved. If there is no will, the claimant must obtain a written release from the Public Administrator of the county in which the property is held. In either case, if assets exceed $30,000.00 or if a safe deposit box key is in the Property Clerk's custody, the claimant must obtain a notice of waiver issued by the New York State Tax Commission.
@@ -3081,7 +3081,7 @@ Claimants must produce letters testamentary or of Administration, naming the exe
 
 
 
-*§ 12-08 Safekeeping.* ::
+*§ 12-08 Safekeeping.*
 
 
 This category covers property casesremoved from aided and prisoner's personal property not required as evidence. The claimant generally produces the pink copy of the voucher or, if not issued, obtains the voucher number from the Precinct in which the property was taken. If the claimant is listed as the owner on the Property Clerk's copy, the property is returned immediately. If ownership cannot be determined, the claimant is referred to the vouchering command to obtain a letter identifying the claimant as the owner (in a limited number of cases the Property Clerk can do this by telephone).
@@ -3091,7 +3091,7 @@ This category covers property casesremoved from aided and prisoner's personal pr
 
 
 
-*§ 12-09 Found Property – Owner Known.* ::
+*§ 12-09 Found Property – Owner Known.*
 
 
 Returned to owners upon demand or upon presentation of a letter of notification from Stolen Property Inquiry Section or the Property Clerk, informing them that their property has been found.
@@ -3101,7 +3101,7 @@ Returned to owners upon demand or upon presentation of a letter of notification 
 
 
 
-*§ 12-10 Found Property – Finder.* ::
+*§ 12-10 Found Property – Finder.*
 
 
 When a person turns in property and the owner cannot be determined, it must be held by the Property Clerk for specific time periods as listed below:
@@ -3121,7 +3121,7 @@ The Property Clerk notifies finders by mail that property is ready for release. 
 
 
 
-*§ 12-11 Peddlers Property – Unlicensed General Vendor and Food Vendor.* ::
+*§ 12-11 Peddlers Property – Unlicensed General Vendor and Food Vendor.*
 
 
 This property is forfeited and will not be returned unless forfeiture is waived, in writing, by the Corporation Counsel. The Corporation Counsel also specifies whether any or all storage and removal fees are waived.
@@ -3131,7 +3131,7 @@ This property is forfeited and will not be returned unless forfeiture is waived,
 
 
 
-*§ 12-12 Peddler's Property – Licensed General Vendor.* ::
+*§ 12-12 Peddler's Property – Licensed General Vendor.*
 
 
 Property is delivered on demand – no removal and storage fees are collected. Claimant must produce pink copy of voucher and/or be listed as the owner on Property Clerk's copy.
@@ -3141,7 +3141,7 @@ Property is delivered on demand – no removal and storage fees are collected. C
 
 
 
-*§ 12-13 Peddler's Property – Licensed Food Vendor.* ::
+*§ 12-13 Peddler's Property – Licensed Food Vendor.*
 
 
 Deliver property on demand and collect appropriate removal and storage fees. Claimant must provide pink copy of voucher and/or be listed as the owner on Property Clerk's copy.
@@ -3151,7 +3151,7 @@ Deliver property on demand and collect appropriate removal and storage fees. Cla
 
 
 
-*§ 12-14 Claiming Vehicle at Whitestone Auto Pound.* ::
+*§ 12-14 Claiming Vehicle at Whitestone Auto Pound.*
 
 
 To claim a vehicle that is being stored at the Whitestone Auto Pound, the owner must appear at the auto pound with documents authorizing release, showing proof of ownership and proof that driver of vehicle is licensed.
@@ -3161,7 +3161,7 @@ To claim a vehicle that is being stored at the Whitestone Auto Pound, the owner 
 
 
 
-*§ 12-15 Proof of Ownership.* ::
+*§ 12-15 Proof of Ownership.*
 
 
 Present title for all vehicles 1973 and newer. For older vehicles, registration certificate is acceptable. Additional proof of identity of owner is also required, i.e., Driver's License, Employee Identification Card, etc.
@@ -3171,7 +3171,7 @@ Present title for all vehicles 1973 and newer. For older vehicles, registration 
 
 
 
-*§ 12-16 Evidence Vehicle.* ::
+*§ 12-16 Evidence Vehicle.*
 
 
 If vehicle is being held as evidence, a District Attorneys release, Court Order or Court Disposition is required in addition; If vehicle is not currently registered and/or insured this vehicle will not be driven from the pound. It must be towed by either a tow truck or tow chain by another properly registered vehicle. If vehicle is allowed to be driven from the pound a current driver's license must be produced by the person removing the vehicle.
@@ -3181,7 +3181,7 @@ If vehicle is being held as evidence, a District Attorneys release, Court Order 
 
 
 
-*§ 12-17 Owner's Representative Claiming Vehicle.* ::
+*§ 12-17 Owner's Representative Claiming Vehicle.*
 
 
 Whenever a vehicle owner sends a representative to claim his vehicle, a notarized letter of authorization must be presented in addition to all other documents that the owner is required to present. Any towing and storage charge accrued to this vehicle must be paid in U.S. currency or certified check before vehicle will be released.
@@ -3191,7 +3191,7 @@ Whenever a vehicle owner sends a representative to claim his vehicle, a notarize
 
 
 
-*§ 12-18 Vehicles Being Claimed by Insurance Company.* ::
+*§ 12-18 Vehicles Being Claimed by Insurance Company.*
 
 
 (a) Insurance company representative present at pound need only to present identification and a notarized "Receipt for Release of Vehicle" (referred to as a 167E letter). Payment of accrued towing and storage charges, if any, is also required.
@@ -3205,7 +3205,7 @@ Whenever a vehicle owner sends a representative to claim his vehicle, a notarize
 
 
 
-*§ 12-19 Vehicles Being Claimed by Lienholder.* ::
+*§ 12-19 Vehicles Being Claimed by Lienholder.*
 
 
 Lienholders must present a copy of sales agreement which was signed by owner and a notarized statement on company letterhead stating said person is in arrears in payment. All other regulations pertaining to payment of towing and storage charges, proof of identity, District Attorney's release, Court Disposition, Court Orders and the driving or towing of vehicles from the pound are applicable for all vehicles being released.
@@ -3220,7 +3220,7 @@ Lienholders must present a copy of sales agreement which was signed by owner and
 
 
 
-*§ 12-31 Definitions.* ::
+*§ 12-31 Definitions.*
 
 
 Arrest Evidence. The term "arrest evidence" shall mean property taken from the person or possession of an individual prior to, simultaneous with, or subsequent to an arrest because of its relation to the matter for which the person has been arrested. No property shall be deemed arrest evidence prior to the person's arrest. No property taken from a person and held by the Police Property Clerk merely for safekeeping shall be deemed arrest evidence.
@@ -3246,7 +3246,7 @@ Termination of criminal proceedings. The term "termination of criminal proceedin
 
 
 
-*§ 12-32 Vouchering Procedures.* ::
+*§ 12-32 Vouchering Procedures.*
 
 
 The police department and the district attorney, where applicable, of each of the five counties of the city have implemented the following procedures governing the taking or obtaining of non-contraband property from a person's possession at the time of arrest:
@@ -3278,7 +3278,7 @@ The police department and the district attorney, where applicable, of each of th
 
 
 
-*§ 12-33 Distribution and Posting of Notices Setting Forth the Procedures to be Followed to Obtain the Return of Property.* ::
+*§ 12-33 Distribution and Posting of Notices Setting Forth the Procedures to be Followed to Obtain the Return of Property.*
 
 
 The police department shall make available to any person requesting information about property in the possession of the police property clerk copies of the notice described in subdivision e of 38 RCNY § 12-32 at each station house and at each facility maintained by the property clerk. The police department shall post such notices, in no smaller than 24-point type, in the holding areas of all station houses, in all central booking facilities within the city and in each courthouse holding area within the city, that is within the control of the police department.
@@ -3288,7 +3288,7 @@ The police department shall make available to any person requesting information 
 
 
 
-*§ 12-34 District Attorney's Release.* ::
+*§ 12-34 District Attorney's Release.*
 
 
 The district attorney of each of the five counties of the city have implemented the following procedures governing the giving of releases for property that is arrest evidence:
@@ -3320,7 +3320,7 @@ The district attorney of each of the five counties of the city have implemented 
 
 
 
-*§ 12-35 Disposition of Property by the Police Property Clerk Where There Has Been an Arrest.* ::
+*§ 12-35 Disposition of Property by the Police Property Clerk Where There Has Been an Arrest.*
 
 
 Where there has been an arrest prior to, simultaneous with, or subsequent to the taking or obtaining of the property, the property clerk shall take the following steps with regard to all vouchered property, subject to a different disposition required by other applicable federal, state or local law:
@@ -3346,7 +3346,7 @@ Where there has been an arrest prior to, simultaneous with, or subsequent to the
 
 
 
-*§ 12-36 Property Clerk Forfeiture Proceedings.* ::
+*§ 12-36 Property Clerk Forfeiture Proceedings.*
 
 
 Where the property clerk has reasonable cause to believe that property was unlawfully obtained or was the proceeds or instrumentality of a crime or otherwise may be subject to forfeiture under any applicable provision of law, the property clerk may refuse to return the property and may cause a civil forfeiture proceeding or other similar civil proceeding to be initiated in accordance with the following:
@@ -3360,7 +3360,7 @@ Where the property clerk has reasonable cause to believe that property was unlaw
 
 
 
-*§ 12-37 Property Not Subject to Forfeiture but Subject to More Than One Claim.* ::
+*§ 12-37 Property Not Subject to Forfeiture but Subject to More Than One Claim.*
 
 
 When property is not subject to forfeiture under 38 RCNY § 12-36, but is, or may be, subject to more than one claim, the police property clerk shall take the following action:
@@ -3374,7 +3374,7 @@ When property is not subject to forfeiture under 38 RCNY § 12-36, but is, or ma
 
 
 
-*§ 12-38 Investigatory Property.* ::
+*§ 12-38 Investigatory Property.*
 
 
 Investigatory property unconnected to an arrest (as distinguished from property seized at the time of an arrest or property seized in a case in which an arrest is later made) is not within the scope of this subchapter.
@@ -3383,11 +3383,11 @@ Investigatory property unconnected to an arrest (as distinguished from property 
 
 
 Chapter 12: Procedures Relating To Property Recovered In the Vicinity of the World Trade Center Site Subsequent To the Terrorist Attack of September 11, 2001
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 12-51 Introduction.* ::
+*§ 12-51 Introduction.*
 
 
 Following the attack of September 11, 2001, the City of New York undertook extraordinary efforts to locate and preserve items of personal property recovered in the vicinity of the World Trade Center site. Property was found and vouchered at three major locations: Ground Zero itself, the Office of the Chief Medical Examiner, and a special facility at Fresh Kills landfill where police officers sorted through tons of material recovered from the disaster site. The Property Clerk has cleansed, sorted, collated, and categorized all property that came into the custody of the Police Department following the terrorist attack. The Property Clerk has conducted and continues to conduct comprehensive investigations, utilizing available technology, with the goal of determining ownership of each piece of property, regardless of the property's value. Where the Police Department has been able to establish the ownership of specific items that were recovered, those items have been returned to their owners. Thus far, property from approximately 72% of the 26,779 vouchers containing items recovered, has been returned. Ownership of the remaining vouchered property has yet to be determined. The Police Department recognizes that, whatever the monetary value of an individual piece of property may be, it may have great value to the survivors and family members of those whose lives were lost. As demonstrated by numerous requests from family members, this is particularly so as to jewelry that has been recovered. Therefore, the Police Department has committed special resources to examine and classify lost jewelry and has created a special questionnaire to assist individuals who may wish to make a claim for such items. Out of respect and concern for those who were killed and their family members, and the survivors of the attack, the City is establishing special procedures for individuals to provide the Property Clerk with information needed to determine the ownership of unclaimed jewelry remaining in the custody of the Property Clerk. The Police Department will also continue to process requests for the return of property other than jewelry made pursuant to the regular procedures of the Property Clerk. Because of the volume of items and the number of possible claims, it may be some time before ownership of claimed items can be determined. In many cases, claims may be made for items that have never been recovered. In many other cases, claims may be made for items with respect to which it is not possible to make a determination of ownership. For example, it may ultimately prove virtually impossible to ascertain ownership of certain property because of its generic nature or its condition when recovered. The ultimate disposition of items which are not claimed, or of items ownership of which cannot be determined, will be decided at a future time after people have had the opportunity to file claims as provided in this subchapter.
@@ -3397,7 +3397,7 @@ Following the attack of September 11, 2001, the City of New York undertook extra
 
 
 
-*§ 12-52 Property Covered by This Subchapter.* ::
+*§ 12-52 Property Covered by This Subchapter.*
 
 
 This subchapter applies to claims for personal property recovered in the vicinity of the World Trade Center site following the attack of September 11, 2001, and within the custody of the Property Clerk as of no later than May 30, 2002.
@@ -3407,7 +3407,7 @@ This subchapter applies to claims for personal property recovered in the vicinit
 
 
 
-*§ 12-53 Time for Making Claims.* ::
+*§ 12-53 Time for Making Claims.*
 
 
 (a)  All claims pursuant to this subchapter shall be submitted on or before Tuesday, May 31, 2005. If the claim is mailed, it shall be deemed to have been submitted on the date the envelope is postmarked.
@@ -3421,7 +3421,7 @@ This subchapter applies to claims for personal property recovered in the vicinit
 
 
 
-*§ 12-54 Review of Claims.* ::
+*§ 12-54 Review of Claims.*
 
 
 (a)  The Property Clerk shall review the claims submitted pursuant to this subchapter and may require additional information, including but not limited to evidence of identity, ownership and letters testamentary or letters of administration.
@@ -3434,11 +3434,11 @@ This subchapter applies to claims for personal property recovered in the vicinit
 
 
 Chapter 13: Special Patrolmen
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 13-01 Appointment.* ::
+*§ 13-01 Appointment.*
 
 
 (a)  Pursuant to New York City Administrative Code § 14-106, the Police Commissioner may appoint Special Patrolmen upon application by individuals whose employers demonstrate need for such appointment.
@@ -3516,7 +3516,7 @@ Chapter 13: Special Patrolmen
 
 
 
-*§ 13-02 Cancellations, Suspensions and Revocations.* ::
+*§ 13-02 Cancellations, Suspensions and Revocations.*
 
 
 (a) A Special Patrolman and her/his employer shall immediately notify the License Division of the Police Department, Special Patrolman Section, whenever an employee, appointed as Special Patrolman is:
@@ -3546,7 +3546,7 @@ Chapter 13: Special Patrolmen
 
 
 
-*§ 13-03 Appeal from Written Notice of Determination of Suspension or Revocation.* ::
+*§ 13-03 Appeal from Written Notice of Determination of Suspension or Revocation.*
 
 
 (a) An employer or suspended/former Special Patrolman may within thirty (30) calendar days from the date of the Notice of Determination Letter notifying the employer or Special Patrolman of suspension or revocation make a written request for a hearing to the Commanding Officer, License Division, One Police Plaza, Room 110A, New York, New York 10038.
@@ -3558,7 +3558,7 @@ Chapter 13: Special Patrolmen
 
 
 
-*§ 13-04 Uniform and Equipment.* ::
+*§ 13-04 Uniform and Equipment.*
 
 
 (a) The shield of a Special Patrolman shall be of a design and color approved by the Police Commissioner. The Special Patrolman's uniform shall be prescribed by the employer, shall not resemble in any way the uniform of a New York City Police Officer, and shall be worn at all times while the Special Patrolman is on duty unless the Special Patrolman's identification card authorizes the wearing of civilian clothes or s/he is otherwise excused by the Police Commissioner. A Special Patrolman shall not wear her/his uniform while off-duty. (New York City Administrative Code § 14-107.)
@@ -3578,7 +3578,7 @@ Chapter 13: Special Patrolmen
 
 
 
-*§ 13-05 Conduct.* ::
+*§ 13-05 Conduct.*
 
 
 (a) It is a crime for a Special Patrolman to represent her/himself as a Police Officer (§ 190.25 of the New York State Penal Law).
@@ -3602,7 +3602,7 @@ Chapter 13: Special Patrolmen
 
 
 
-*§ 13-06 Training.* ::
+*§ 13-06 Training.*
 
 
 (a) Persons appointed as Special Patrolmen by the Police Commissioner are mandated to have received training pursuant to New York State Criminal Procedure Law § 2.30(1), within 12 months of their designation. Employers are solely responsible for providing such training.
@@ -3616,7 +3616,7 @@ Chapter 13: Special Patrolmen
 
 
 
-*§ 13-07 Required Reports.* ::
+*§ 13-07 Required Reports.*
 
 
 (a) Agencies, institutions, et al., employing persons appointed as Special Patrolmen are solely responsible for compliance with mandatory reporting requirements as established by the New York State Division of Criminal Justice Services. Tel: (518) 457-6101.
@@ -3627,11 +3627,11 @@ Chapter 13: Special Patrolmen
 
 
 Chapter 14: Fees
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 14-01 Vehicle Accident Photograph Request.* ::
+*§ 14-01 Vehicle Accident Photograph Request.*
 
 
 The fee for provision of authorized persons with motor vehicle accident photographs shall be fifteen dollars ($15) for each set of photographs requested.
@@ -3641,7 +3641,7 @@ The fee for provision of authorized persons with motor vehicle accident photogra
 
 
 
-*§ 14-02 Vehicles or Boats in Police Custody.* ::
+*§ 14-02 Vehicles or Boats in Police Custody.*
 
 
 (a) Definition. Vehicle or boat in police custody. A motor vehicle or boat abandoned, involved in an accident, or an unoccupied boat found adrift which has been taken to a department facility. (Does not include motor vehicles or boats impounded as evidence.)
@@ -3659,7 +3659,7 @@ The fee for provision of authorized persons with motor vehicle accident photogra
 
 
 
-*§ 14-03 Removal and Storage Fees for Licensed Vendors Equipment and Goods.* ::
+*§ 14-03 Removal and Storage Fees for Licensed Vendors Equipment and Goods.*
 
 
 When the owner or person lawfully entitled to possession of a peddler's vehicle, cart, stand or goods appears at a Police Department facility to claim property, the following fees shall be collected:
@@ -3689,7 +3689,7 @@ When the owner or person lawfully entitled to possession of a peddler's vehicle,
 
 
 
-*§ 14-04 Fees For Non-Criminal Fingerprinting.* ::
+*§ 14-04 Fees For Non-Criminal Fingerprinting.*
 
 
 When a person requests a member of the Department to take his or her fingerprints for purposes not related to criminal proceedings, the following fees shall be collected:
@@ -3704,7 +3704,7 @@ When a person requests a member of the Department to take his or her fingerprint
 
 
 Chapter 15: Adjudications
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -3713,7 +3713,7 @@ Chapter 15: Adjudications
 
 
 
-*§ 15-01 Definitions.* ::
+*§ 15-01 Definitions.*
 
 
 Advocate. "Advocate" means the Department Advocate or Assistant Advocates of the New York City Police Department and also means an attorney designated by the Commissioner to prosecute a disciplinary proceeding before the Deputy Commissioner of Trials, including an attorney conducting such prosecution on behalf of the Civilian Complaint Review Board in accordance with a Memorandum of Understanding executed on April 2, 2012 by the CCRB and the Department during the period that such MOU is applicable.
@@ -3733,7 +3733,7 @@ Respondent. "Respondent" means a uniform or civilian member of the Department ag
 
 
 
-*§ 15-02 Jurisdiction.* ::
+*§ 15-02 Jurisdiction.*
 
 
 The Deputy Commissioner of Trials shall have jurisdiction over disciplinary matters adjudicated by the Department. This jurisdiction shall include the authority to render any ruling or order necessary and appropriate for the efficient adjudication of disciplinary proceedings instituted against civilian and uniform members of the Department.
@@ -3747,7 +3747,7 @@ The Deputy Commissioner of Trials shall have jurisdiction over disciplinary matt
 
 
 
-*§ 15-03 Pre-Hearing Proceeding.* ::
+*§ 15-03 Pre-Hearing Proceeding.*
 
 
 (a) Charges and Specifications. Charges and specifications shall be served upon the respondent and shall include a brief statement of the disciplinary matters to be adjudicated, including the activity, behavior or incident which is the subject of the disciplinary action and, where appropriate, the date, time and place of occurrence. Additionally, the Charges and Specifications shall identify the contract provision, law, policy, regulation or rule that was allegedly violated. Charges and Specifications may be amended upon notice to all parties.
@@ -3789,7 +3789,7 @@ The Deputy Commissioner of Trials shall have jurisdiction over disciplinary matt
 
 
 
-*§ 15-04 Hearings.* ::
+*§ 15-04 Hearings.*
 
 
 (a) Consolidation and severance of Hearings. In the furtherance of justice, efficiency or convenience, all or portions of separate cases may be consolidated for Hearing. Additionally, portions of a single case may be severed for separate Hearing. Cases may be consolidated or severed at the discretion of the Deputy Commissioner of Trials.
@@ -3823,7 +3823,7 @@ The Deputy Commissioner of Trials shall have jurisdiction over disciplinary matt
 
 
 
-*§ 15-05 Rules of Conduct.* ::
+*§ 15-05 Rules of Conduct.*
 
 
 (a) Conduct. Individuals appearing before the Deputy Commissioner of Trials shall conduct themselves in a dignified and orderly manner at all times. Disruptive conduct, including failure to comply with the orders and directives of the Deputy Commissioner of Trials, will not be tolerated. The Deputy Commissioner of Trials may bar a disruptive individual from the proceedings.
@@ -3837,7 +3837,7 @@ The Deputy Commissioner of Trials shall have jurisdiction over disciplinary matt
 
 
 
-*§ 15-06 Report to Police Commissioner.* ::
+*§ 15-06 Report to Police Commissioner.*
 
 
 (a) (1) After the Hearing is concluded the Deputy Commissioner of Trials will review the testimony and evidence adduced and prepare a Draft Report and Recommendation.
@@ -3855,7 +3855,7 @@ The Deputy Commissioner of Trials shall have jurisdiction over disciplinary matt
 
 
 
-*§ 15-07 Penalties.* ::
+*§ 15-07 Penalties.*
 
 
 (a) The penalty imposed upon a respondent should take into account the respondent's employment history as well as the nature of the proven misconduct.
@@ -3869,7 +3869,7 @@ The Deputy Commissioner of Trials shall have jurisdiction over disciplinary matt
 
 
 
-*§ 15-08 Final Review.* ::
+*§ 15-08 Final Review.*
 
 
 (a) After reviewing the record of the proceeding and the Report and Recommendation of the Trial Commissioner, the Police Commissioner will make a final determination. The Police Commissioner may approve the recommendation or modify the findings or the penalty consistent with the record.
@@ -3888,7 +3888,7 @@ The Deputy Commissioner of Trials shall have jurisdiction over disciplinary matt
 
 
 
-*§ 15-11 Definitions.* ::
+*§ 15-11 Definitions.*
 
 
 Chair. "Chair" means the Chair of the New York City Civilian Complaint Review Board.
@@ -3914,7 +3914,7 @@ Police Commissioner. "Police Commissioner" or "Commissioner" means the Police Co
 
 
 
-*§ 15-12 Prosecution of Charges and Specifications.* ::
+*§ 15-12 Prosecution of Charges and Specifications.*
 
 
 (a) Upon substantiation by the Civilian Complaint Review Board (CCRB) of one or more FADO allegations contained in a civilian complaint against a uniformed member of the NYPD, CCRB shall notify the Police Commissioner of the substantiation and CCRB's disciplinary recommendation. Subject to the provisions of subdivision (b) of this section, civilian complaints found to be substantiated by the CCRB in which CCRB has recommended that Charges and Specifications be preferred shall be prosecuted by the CCRB pursuant to a Memorandum of Understanding (MOU) executed on April 2, 2012 by the CCRB and the Department during the period that such MOU is applicable.
@@ -3932,7 +3932,7 @@ The Commissioner may deny such rejection within five business days of receipt of
 
 
 
-*§ 15-13 Expedited Cases.* ::
+*§ 15-13 Expedited Cases.*
 
 
 Upon receipt of notification that a complaint has been found to be substantiated by the CCRB accompanied by a recommendation that Charges and Specifications be preferred, the DAO shall inquire as to whether the nature of the substantiated allegation and the status of the subject officer requires expedited prosecution of the substantiated case. In such cases, or in similar cases where the need for such expedited prosecution arises while the prosecution is pending, the DAO shall advise CCRB's Chair and Executive Director of the need for expedited prosecution. CCRB shall make every reasonable effort to conclude the prosecution within the required time frame. If CCRB determines that it will not be able to conclude the prosecution within the required time frame, CCRB will decline to prosecute the case and request that the DAO undertake the prosecution of such case.
@@ -3942,7 +3942,7 @@ Upon receipt of notification that a complaint has been found to be substantiated
 
 
 
-*§ 15-14 Other Misconduct.* ::
+*§ 15-14 Other Misconduct.*
 
 
 If during the course of its prosecution of a substantiated civilian complaint, CCRB becomes aware of possible misconduct falling outside its FADO jurisdiction (such as the making of a false statement), which is alleged to have been committed by the subject officer, CCRB shall immediately refer the allegation of such other misconduct to NYPD for investigation. CCRB shall not itself undertake the prosecution of such other misconduct. CCRB shall provide assistance to NYPD as requested for purposes of investigation or prosecution of the alleged misconduct. If necessary, CCRB and the Department Advocate shall coordinate their prosecutions of such related cases.
@@ -3952,7 +3952,7 @@ If during the course of its prosecution of a substantiated civilian complaint, C
 
 
 
-*§ 15-15 Assistance by Department and Application of Department Procedures and Disciplinary Policies.* ::
+*§ 15-15 Assistance by Department and Application of Department Procedures and Disciplinary Policies.*
 
 
 CCRB personnel conducting administrative prosecutions pursuant to the MOU executed on April 2, 2012 shall familiarize themselves with and apply Department disciplinary policies and standards to the extent practicable and relevant. Attorneys and support staff shall be trained in all aspects of Department procedures and policies as they affect such administrative prosecution, including the provisions of Subchapter A of this Chapter. The Department shall provide all reasonable assistance requested by CCRB in the creation of a unit of attorneys and support staff responsible for conducting administrative prosecutions, including training and guidance in both legal and administrative matters. During the course of its administrative prosecution, CCRB's prosecutorial staff may contact the DAO to request the assistance of Department personnel as needed to effectively evaluate, prepare, and prosecute the case. The DAO shall arrange for Department personnel to provide reasonable assistance to CCRB.
@@ -3962,7 +3962,7 @@ CCRB personnel conducting administrative prosecutions pursuant to the MOU execut
 
 
 
-*§ 15-16 Conclusion of Administrative Prosecution.* ::
+*§ 15-16 Conclusion of Administrative Prosecution.*
 
 
 At the conclusion of the administrative prosecution, in all instances other than cases culminating in a report and recommendation by the Deputy Commissioner of Trials, the CCRB shall forward to the Commissioner a final recommendation reflecting the results of its prosecution of the case. The CCRB shall include all relevant forms, memoranda and background information to assist the Commissioner in making a final disciplinary determination. If the case culminated in a hearing before the Deputy Commissioner of Trials, the provisions of Subchapter A of this Chapter shall apply, subject to the provisions of 38 RCNY § 15-19.
@@ -3972,7 +3972,7 @@ At the conclusion of the administrative prosecution, in all instances other than
 
 
 
-*§ 15-17 Police Commissioner's Determination.* ::
+*§ 15-17 Police Commissioner's Determination.*
 
 
 (a)  In all instances other than cases culminating in a report and recommendation by the Deputy Commissioner of Trials, upon receiving the final recommendation of CCRB with accompanying documents, the Commissioner may accept, reject, or modify the recommendation presented, or may ask CCRB for additional investigative or background information in its possession. He or she may also request further investigation or development of the record in the case to enable him or her to make a final determination in the case. If CCRB's recommendation is rejected or modified, CCRB will then be responsible for taking any appropriate follow-up action, such as proceeding with prosecution of the subject officer, engaging in additional investigation, or further developing the record in the case.
@@ -3984,7 +3984,7 @@ At the conclusion of the administrative prosecution, in all instances other than
 
 
 
-*§ 15-18 Correspondence Following Final Determination of Substantiated Civilian Complaints.* ::
+*§ 15-18 Correspondence Following Final Determination of Substantiated Civilian Complaints.*
 
 
 In any case substantiated by the CCRB in which the Police Commissioner intends to impose discipline that is of a lower level than that recommended by CCRB or by the Deputy Commissioner of Trials, the Commissioner shall notify the CCRB, with notice to the subject officer, at least ten business days prior to the imposition of such discipline. Such notification shall be in writing and include a detailed explanation of the reasons for deviating from CCRB's recommendation including but not limited to each factor the Commissioner considered in making his or her decision. The CCRB and the subject officer may respond to such a notification within five business days of its receipt, after which the Commissioner shall make a final determination.
@@ -3994,7 +3994,7 @@ In any case substantiated by the CCRB in which the Police Commissioner intends t
 
 
 
-*§ 15-19 Confidentiality.* ::
+*§ 15-19 Confidentiality.*
 
 
 (a) Documents or verbal information provided to CCRB by the Department or created by CCRB pursuant to the MOU executed on April 2, 2012 shall be considered confidential to the extent provided by New York State Civil Rights Law § 50-a or any other applicable law. CCRB shall not disclose any such document or verbal information to any person, organization or agency without first notifying the Department's Deputy Commissioner, Legal Matters and providing the Deputy Commissioner, Legal Matters a reasonable opportunity to review the proposed disclosure. This restriction on disclosure shall not apply to disclosures to the Deputy Commissioner of Trials, DAO, or the Department's Internal Affairs Bureau.
@@ -4011,7 +4011,7 @@ In any case substantiated by the CCRB in which the Police Commissioner intends t
 
 
 
-*§ 15-21 Definitions.* ::
+*§ 15-21 Definitions.*
 
 
 Department. The term "Department" shall mean the New York City Police Department.
@@ -4039,7 +4039,7 @@ Suspension. The term "Suspension" shall mean temporary removal of a license and 
 
 
 
-*§ 15-22 Commencement of Proceedings.* ::
+*§ 15-22 Commencement of Proceedings.*
 
 
 (a) Entitlement to a Hearing. A licensee shall be entitled to submit a written request for a hearing following issuance of a Notice of Determination Letter notifying the licensee of suspension or revocation of a license and the opportunity for a hearing.
@@ -4053,7 +4053,7 @@ Suspension. The term "Suspension" shall mean temporary removal of a license and 
 
 
 
-*§ 15-23 Proceedings upon Default.* ::
+*§ 15-23 Proceedings upon Default.*
 
 
 (a) Failure to Appear. 
@@ -4069,7 +4069,7 @@ Suspension. The term "Suspension" shall mean temporary removal of a license and 
 
 
 
-*§ 15-24 Adjournments.* ::
+*§ 15-24 Adjournments.*
 
 
 (a) A request for an adjournment shall be made at least 72 hours prior to the date of the hearing. An adjournment shall not be granted except for good cause shown.
@@ -4083,7 +4083,7 @@ Suspension. The term "Suspension" shall mean temporary removal of a license and 
 
 
 
-*§ 15-25 Evidence.* ::
+*§ 15-25 Evidence.*
 
 
 (a) Evidence. 
@@ -4105,7 +4105,7 @@ Suspension. The term "Suspension" shall mean temporary removal of a license and 
 
 
 
-*§ 15-26 Hearing Officers and Representation of Parties.* ::
+*§ 15-26 Hearing Officers and Representation of Parties.*
 
 
 (a) Hearing Officer. 
@@ -4123,7 +4123,7 @@ Suspension. The term "Suspension" shall mean temporary removal of a license and 
 
 
 
-*§ 15-27 Conduct of Hearings.* ::
+*§ 15-27 Conduct of Hearings.*
 
 
 (a) Public Access to Hearings. Hearings are generally open to the public. If good cause is shown by either party, the Hearing Officer may exclude the public from a particular hearing or portion of a hearing. Additionally, the public may be excluded at the Hearing Officer's discretion.
@@ -4147,7 +4147,7 @@ Suspension. The term "Suspension" shall mean temporary removal of a license and 
 
 
 
-*§ 15-28 Hearing Officer's Report and Recommendation.* ::
+*§ 15-28 Hearing Officer's Report and Recommendation.*
 
 
 (a) After the conclusion of the hearing, the Hearing Officer shall prepare a written hearing report and recommended disposition. The report shall include a statement of the issues, findings of fact, and conclusions of law, as well as the reasons and basis therefor. Findings of fact shall be based exclusively upon all the material issues of fact and law presented in the record. The Division Head, License Division shall review the report and recommendation and make a final determination. S/he may approve the recommendation or modify the findings or the penalty consistent with the record. The Division Head's determination is the final administrative determination.
@@ -4159,7 +4159,7 @@ Suspension. The term "Suspension" shall mean temporary removal of a license and 
 
 
 
-*§ 15-29 Penalties.* ::
+*§ 15-29 Penalties.*
 
 
 Appropriate penalties may be imposed upon a licensee including suspension or revocation of the license.
@@ -4168,11 +4168,11 @@ Appropriate penalties may be imposed upon a licensee including suspension or rev
 
 
 Chapter 16: Transport Or Delivery of Weapons
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 16-01 Definitions.* ::
+*§ 16-01 Definitions.*
 
 
 License Division. The term "License Division" shall mean the License Division of the New York City Police Department.
@@ -4194,7 +4194,7 @@ Weapons Dealer. For purposes of this chapter, the term "weapons dealer" shall me
 
 
 
-*§ 16-02 Applicability.* ::
+*§ 16-02 Applicability.*
 
 
 This chapter shall apply to all persons who transport or deliver one or more weapons into or within any location in the City of New York, except that it shall not apply to:
@@ -4224,7 +4224,7 @@ This chapter shall apply to all persons who transport or deliver one or more wea
 
 
 
-*§ 16-03 Authorization to Transport or Deliver Firearms.* ::
+*§ 16-03 Authorization to Transport or Deliver Firearms.*
 
 
 (a) No person shall transport or deliver, or cause to be transported or delivered, weapons into or within the City of New York where s/he knows or has reasonable means of ascertaining what s/he is transporting, without first obtaining written authorization to do so from the Police Commissioner.
@@ -4258,7 +4258,7 @@ This chapter shall apply to all persons who transport or deliver one or more wea
 
 
 
-*§ 16-04 Surrender of Firearms Not Authorized for Transportation or Delivery.* ::
+*§ 16-04 Surrender of Firearms Not Authorized for Transportation or Delivery.*
 
 
 Any person who transports or delivers weapons without obtaining authorization pursuant to the requirements of this chapter shall be liable for the penalties set forth in Article 265 of the New York State Penal Law and the New York City Administrative Code, and shall further be directed by any member of the Police Department to surrender the weapons to the Police Department. In addition, the property being transported, as well as the means of transport, may be seized and forfeited pursuant to law.
@@ -4268,7 +4268,7 @@ Any person who transports or delivers weapons without obtaining authorization pu
 
 
 
-*§ 16-05 Required Security Measures for Weapons Shipments in Transit.* ::
+*§ 16-05 Required Security Measures for Weapons Shipments in Transit.*
 
 
 Any person, corporation, partnership, or other business entity using a vehicle to transport weapons within or through the City of New York shall, at a minimum, employ the following security measures while such weapons are in transit:
@@ -4296,7 +4296,7 @@ Any person, corporation, partnership, or other business entity using a vehicle t
 
 
 
-*§ 16-06 Requirement to Report Theft, Loss or Misdelivery.* ::
+*§ 16-06 Requirement to Report Theft, Loss or Misdelivery.*
 
 
 (a)  Any person, firm, corporation, or other business entity who has received permission to transport weapons pursuant to the provisions of this chapter, and who suffers a loss or theft of any part of her/his weapons shipment while it is located within New York City, shall forthwith report such loss or theft to the nearest Police Department facility and shall comply with all reasonable requests for assistance by police officers who investigate the circumstances of the loss or theft.
@@ -4307,11 +4307,11 @@ Any person, corporation, partnership, or other business entity using a vehicle t
 
 
 Chapter 17: Prohibited Assault Weapons
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 17-01 Assault Weapons Designated.* ::
+*§ 17-01 Assault Weapons Designated.*
 
 
 (a) Pursuant to Subparagraph 7 of Paragraph a of Subdivision 16 of § 10-301 of the New York City Administrative Code, the following makes and models of weapons are determined to be particularly suitable for military and not sporting purposes and are determined to be within the statutory definition of assault weapon as set forth in § 10-301 (16) of the New York City Administrative Code:
@@ -4389,7 +4389,7 @@ Chapter 17: Prohibited Assault Weapons
 
 
 
-*§ 17-02 Disposition of Assault Weapons by Permittees, Licensees and Previously Exempt Persons.* ::
+*§ 17-02 Disposition of Assault Weapons by Permittees, Licensees and Previously Exempt Persons.*
 
 
 (a) Permittees, licensees and previously exempt persons, as described in Subdivision d of § 10-303.1 of the New York City Administrative Code, shall, within ninety days of the effective date of these Rules, dispose of their assault weapons pursuant to such subdivision. All assault weapons possessed by such permittees, licensees and previously exempt persons shall be subject to the provisions of such subdivision, whether defined as assault weapons in subdivision 16 of § 10-301 or in these Rules.
@@ -4399,7 +4399,7 @@ Chapter 17: Prohibited Assault Weapons
 
 
 
-*§ 17-03 Effective Date.* ::
+*§ 17-03 Effective Date.*
 
 
 (a) These Rules shall take effect in accordance with the provisions of Section 1043 of the New York City Charter, provided, however, that these Rules shall not take effect prior to the effective date of Local Law 78 of 1991.
@@ -4408,11 +4408,11 @@ Chapter 17: Prohibited Assault Weapons
 
 
 Chapter 18: Seizure of Bicycles Pursuant To Administrative Code § 19-176
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 18-01 Seizure of Bicycles.* ::
+*§ 18-01 Seizure of Bicycles.*
 
 
 Pursuant to Administrative Code § 19-176(c) a bicycle operated on a sidewalk under circumstances which create a substantial risk of physical injury to another person may be seized and impounded by a police officer or designated employee of the Department of Transportation, Department of Parks and Recreation or the Department of Sanitation.
@@ -4422,7 +4422,7 @@ Pursuant to Administrative Code § 19-176(c) a bicycle operated on a sidewalk un
 
 
 
-*§ 18-02 Notice.* ::
+*§ 18-02 Notice.*
 
 
 At the time of such seizure the operator shall be given a written notice explaining the procedures for obtaining release of the bicycle. The notice shall include a brief description of the bicycle, the location where the bicycle may be claimed, the applicable charges for removal and storage, and instructions on the steps necessary to request an Environmental Control Board hearing. The notice shall also include a conspicuous notification to the operator and/or owner that he or she is required to contact the agency in possession of the bicycle to inform that agency if and when a hearing is scheduled on the matter. If the operator is not the owner of the bicycle notice to the operator is deemed to be notice to the owner. If the operator is less than eighteen years old, the notice shall either be personally delivered to the operator's parent or guardian or shall be mailed to the parent, guardian, or, where applicable, employer if the name and address of that person is reasonably ascertainable.
@@ -4432,7 +4432,7 @@ At the time of such seizure the operator shall be given a written notice explain
 
 
 
-*§ 18-03 Procedure for Obtaining Release of Bicycles.* ::
+*§ 18-03 Procedure for Obtaining Release of Bicycles.*
 
 
 (a)  A bicycle seized pursuant to Administrative Code § 19-176 shall not be released to the owner or other person lawfully entitled to possession unless:
@@ -4458,7 +4458,7 @@ At the time of such seizure the operator shall be given a written notice explain
 
 
 
-*§ 18-04 Abandoned Bicycles.* ::
+*§ 18-04 Abandoned Bicycles.*
 
 
 Any bicycle seized pursuant to Administrative Code § 19-176, which is not released and removed from City property pursuant to 38 RCNY § 18-3 of these rules within 10 days following the making of a request by a representative of the Police Commissioner or of the Commissioner of Transportation or Parks and Recreation, or Sanitation to remove it, shall be deemed to be abandoned. Such request shall be mailed to the operator of the bicycle, or to the owner of the bicycle if the owner's identity is reasonably ascertainable. If the operator is less than 18 years old, the notice shall be mailed to the operator's parent or guardian, if the name and address of that person is reasonably ascertainable, in lieu of a mailing to the operator. A bicycle will not be deemed abandoned while a respondent is awaiting a hearing or adjudication in reference to such bicycle provided the respondent complies with all sections of this chapter. A respondent awaiting a hearing regarding a seized bicycle is required to notify the agency in possession of the bicycle of the date(s) of all hearings to be held in reference to such bicycle. If a bicycle is deemed abandoned pursuant to this section it may be disposed of in the same manner that the Department disposes of other abandoned property.
@@ -4468,7 +4468,7 @@ Any bicycle seized pursuant to Administrative Code § 19-176, which is not relea
 
 
 
-*§ 18-05 Removal and Storage Charges.* ::
+*§ 18-05 Removal and Storage Charges.*
 
 
 The charge for removal of a bicycle pursuant to this section shall be twenty-five dollars ($25.00). The storage fee for storing a bicycle pursuant to this section shall be five dollars ($5.00) per day or fraction thereof computed from the day the bicycle arrives at the storage facility. All charges must be paid in cash, by certified check or by money order payable to the City of New York.
@@ -4477,11 +4477,11 @@ The charge for removal of a bicycle pursuant to this section shall be twenty-fiv
 
 
 Chapter 19: Rules For Processions and Parades
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 19-01 [Definitions of Disorderly Parade and Occasions of Extraordinary Public Interest.]* ::
+*§ 19-01 [Definitions of Disorderly Parade and Occasions of Extraordinary Public Interest.]*
 
 
 (a)  For purposes of § 10-110(a)(1) of the administrative code of the city of New York, a parade or procession that is "disorderly in character or tends to disturb the public peace" is one that violates subdivisions 1, 4, 5, 6 or 7 of § 240.20 of the Penal Law, and would otherwise present an unreasonable danger to the health or safety of the applicant, parade participants or other members of the public, or cause damage to public or private property.
@@ -4493,7 +4493,7 @@ Chapter 19: Rules For Processions and Parades
 
 
 
-*§ 19-02 Definitions.* ::
+*§ 19-02 Definitions.*
 
 
 For purposes of these rules, the following terms shall have the following meanings:
@@ -4521,7 +4521,7 @@ For purposes of these rules, the following terms shall have the following meanin
 
 
 
-*§ 19-03 Applications.* ::
+*§ 19-03 Applications.*
 
 
 (a)  An application for a permit will be made at least thirty-six hours prior to the date upon which the parade is to occur.
@@ -4559,7 +4559,7 @@ For purposes of these rules, the following terms shall have the following meanin
 
 
 
-*§ 19-04 Approval/Disapproval Procedures.* ::
+*§ 19-04 Approval/Disapproval Procedures.*
 
 
 (a)  The permittee will be notified by the precinct, relevant patrol borough or office of the Chief of Department if his or her application for a permit is approved or disapproved.
@@ -4609,7 +4609,7 @@ For purposes of these rules, the following terms shall have the following meanin
 
 
 
-*§ 19-05 Fees for Non-Charitable Athletic Parades.* ::
+*§ 19-05 Fees for Non-Charitable Athletic Parades.*
 
 
 (a) The Chief of Department shall assess the fees set forth in subdivision c of this section for non-charitable athletic parades occurring on or after January 1, 2012.
@@ -4686,11 +4686,11 @@ For purposes of these rules, the following terms shall have the following meanin
 
 
 Chapter 21: Recordkeeping For Pawnbrokers and Second-Hand Dealers and Related Inspections
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 21-01 Introduction.* ::
+*§ 21-01 Introduction.*
 
 
 38 RCNY §§ 21-02 through 21-09 have been promulgated by the Police Commissioner to implement the provisions of Local Law No. 149 of 2013 ("the Local Law"), which establishes new requirements for recordkeeping by pawnbrokers and certain second-hand dealers in New York City. 38 RCNY §§ 21-10 and 21-11 generally codify certain, long-standing written recordkeeping requirements and address related administrative inspections.
@@ -4704,7 +4704,7 @@ Editor's note: the Local Law referenced in this section amended §§ 20-267, 20-
 
 
 
-*§ 21-02 Definitions.* ::
+*§ 21-02 Definitions.*
 
 
 Dealer in Second-Hand Articles. "Dealer in Second-Hand Articles" or "Second-Hand Dealer" means a dealer in second-hand articles as such person is defined in § 20-264 of the New York City Administrative Code.
@@ -4732,7 +4732,7 @@ Second-Hand Articles Store Log. "Second-Hand Articles Store Log" means the blank
 
 
 
-*§ 21-03 Pawnbrokers Required to Create and Upload Electronic Records.* ::
+*§ 21-03 Pawnbrokers Required to Create and Upload Electronic Records.*
 
 
 (a) In addition to the physical records of transactions required to be created and maintained pursuant to the provisions of the New York City Administrative Code and the New York State General Business Law, pawnbrokers are required to create an electronic record of each transaction at the time such transaction takes place. The electronic record must be uploaded immediately, or on a daily basis no later than midnight of the day of such transaction, to a web-based electronic data transfer service designated by the Police Commissioner.
@@ -4744,7 +4744,7 @@ Second-Hand Articles Store Log. "Second-Hand Articles Store Log" means the blank
 
 
 
-*§ 21-04 Second-Hand Dealers Required to Create and Upload Electronic Records.* ::
+*§ 21-04 Second-Hand Dealers Required to Create and Upload Electronic Records.*
 
 
 (a) In addition to the physical records of transactions required to be created and maintained pursuant to the provisions of the New York City Administrative Code, second-hand dealers subject to electronic recordkeeping requirements must create an electronic record of certain transactions at the time such transactions take place, as provided in subdivision (c) or (d) of this section, as applicable. The electronic record must be uploaded immediately, or on a daily basis no later than midnight of the day of such transaction, to a web-based electronic data transfer service designated by the Police Commissioner.
@@ -4760,7 +4760,7 @@ Second-Hand Articles Store Log. "Second-Hand Articles Store Log" means the blank
 
 
 
-*§ 21-05 Descriptions of Items Containing Gold, Silver, Platinum or Other Precious Metals or Other Jewelry.* ::
+*§ 21-05 Descriptions of Items Containing Gold, Silver, Platinum or Other Precious Metals or Other Jewelry.*
 
 
 When providing descriptions of articles purchased, sold, pawned or redeemed which are composed wholly or in part of precious metals, or are otherwise commonly described as jewelry, pawnbrokers and second-hand dealers subject to electronic recordkeeping requirements must include the following information as relevant: (i) type of precious metal; (ii) weight of precious metal in karats; (iii) number of precious stones on item; (iv) type(s) of precious stones on item; (v) unique marks or inscriptions on item, including any specific words; and (vi) any visible alterations, modifications or damage to the item.
@@ -4770,7 +4770,7 @@ When providing descriptions of articles purchased, sold, pawned or redeemed whic
 
 
 
-*§ 21-06 Descriptions of Electrical Appliances, Electronic Equipment and Computers.* ::
+*§ 21-06 Descriptions of Electrical Appliances, Electronic Equipment and Computers.*
 
 
 When providing descriptions of electrical appliances, electronic equipment, computers or their component parts, pawnbrokers and second-hand dealers subject to electronic recordkeeping requirements must include the following information as relevant: (i) manufacturer; (ii) make; (iii) model number; (iv) serial number; (v) IMEI number; (vi) identifying numbers including any numbers etched on the item pursuant to a crime prevention program of the New York City Police Department or any other entity; and (vii) any visible alterations, modifications or damage to the item, including altered or missing serial or IMEI numbers.
@@ -4780,7 +4780,7 @@ When providing descriptions of electrical appliances, electronic equipment, comp
 
 
 
-*§ 21-07 Creation and Uploading of Electronic Records.* ::
+*§ 21-07 Creation and Uploading of Electronic Records.*
 
 
 (a) The electronic records required by the Local Law and this Chapter must be created accurately and in English, and contain all required items of information. All digital photographs must reasonably capture the likeness of the subject article. Such electronic records and photographs must be uploaded immediately, or on a daily basis no later than midnight of the day of such transactions, to the web-based electronic data transfer service designated by the Police Commissioner for this purpose.
@@ -4800,7 +4800,7 @@ When providing descriptions of electrical appliances, electronic equipment, comp
 
 
 
-*§ 21-08 Required Equipment.* ::
+*§ 21-08 Required Equipment.*
 
 
 Pawnbrokers and second-hand dealers subject to electronic recordkeeping requirements must acquire and maintain in good working order the electronic equipment necessary to create, maintain and upload the electronic records required by the Local Law and by this Chapter, including but not limited to a computer with internet connection and a digital camera utilizing a jpeg file format so that the required information may be transmitted to the web-based electronic data transfer service designated by the Police Commissioner.
@@ -4810,7 +4810,7 @@ Pawnbrokers and second-hand dealers subject to electronic recordkeeping requirem
 
 
 
-*§ 21-09 Retention of Records.* ::
+*§ 21-09 Retention of Records.*
 
 
 The electronic records created pursuant to this Chapter must be retained for a minimum of six years from the date of transaction.
@@ -4820,7 +4820,7 @@ The electronic records created pursuant to this Chapter must be retained for a m
 
 
 
-*§ 21-10 Compliance with Written Record-Keeping and Reporting Requirements.* ::
+*§ 21-10 Compliance with Written Record-Keeping and Reporting Requirements.*
 
 
 (a) A member of the Police Department must provide each pawnbroker and second-hand dealer with a Second-Hand Articles Store Log and a copy of instructions.
@@ -4836,7 +4836,7 @@ The electronic records created pursuant to this Chapter must be retained for a m
 
 
 
-*§ 21-11 Administrative Inspections.* ::
+*§ 21-11 Administrative Inspections.*
 
 
 (a) Members of the Police Department must conduct administrative inspections of each pawnbroker and second-hand dealer to ensure compliance with the record-keeping and reporting requirements set forth in the New York City Administrative Code and New York State General Business Law. These inspections must occur regularly, and in no event less often than once per quarter during the calendar year. In conducting these inspections, a member of the Police Department must:
@@ -4855,11 +4855,11 @@ The electronic records created pursuant to this Chapter must be retained for a m
 
 
 Chapter 22: Requesting Certifications for U Nonimmigrant Status (U Certifications)
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 22-01 Introduction.* ::
+*§ 22-01 Introduction.*
 
 
 In 2000, Congress passed the Victims of Trafficking and Violence Prevention Act to encourage victims regardless of immigration status to report crimes and contribute to investigations and prosecutions and to support law enforcement efforts to investigate and prosecute crimes committed against immigrant victims. The law authorized U nonimmigrant status, which can be sought by immigrant victims of certain crimes who previously assisted, are currently assisting, or are likely to be helpful to law enforcement in the investigation or prosecution of the crime. U nonimmigrant status is issued by the United States Citizenship and Immigration Services ("USCIS"), and once granted it provides these victims with temporary nonimmigrant status so that they can remain in the United States while assisting law enforcement.
@@ -4873,7 +4873,7 @@ To be eligible for U nonimmigrant status, immigrant victims must satisfy several
 
 
 
-*§ 22-02 Definitions.* ::
+*§ 22-02 Definitions.*
 
 
 "Applicant" means a victim of a qualifying crime who requests U certification, or a person or organization who requests a U certification on behalf of a victim of a qualifying crime.
@@ -4895,7 +4895,7 @@ To be eligible for U nonimmigrant status, immigrant victims must satisfy several
 
 
 
-*§ 22-03 Request for U Certification.* ::
+*§ 22-03 Request for U Certification.*
 
 
 (a) Letter required. An applicant requesting a U certification from the Department must submit a letter in accordance with the requirements of this section. The applicant must type or clearly print the letter. The letter may be printed in the applicant's preferred language.
@@ -4927,7 +4927,7 @@ To be eligible for U nonimmigrant status, immigrant victims must satisfy several
 
 
 
-*§ 22-04 Department Response and Appeals.* ::
+*§ 22-04 Department Response and Appeals.*
 
 
 (a) Department response. Within 45 days of receiving a request for U certification, the Department will notify the applicant, in a letter sent to the applicant's designated return mailing address, that: (1) the request is approved or denied, or (2) the request requires more than 45 days of review. If the request is denied, the Department will also notify the applicant of the basis for the denial and the process for appealing the denial ("Department denial letter"). If the request requires more than 45 days of review, the Department will also provide a reasonable estimate of when a determination will be made.
@@ -4950,11 +4950,11 @@ To be eligible for U nonimmigrant status, immigrant victims must satisfy several
 
 
 Chapter 23: Requesting Declarations for T Nonimmigrant Status (T Declarations)
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 23-01 Introduction.* ::
+*§ 23-01 Introduction.*
 
 
 In 2000, Congress passed the Victims of Trafficking and Violence Protection Act to encourage victims, regardless of immigration status, to report crimes, and to support law enforcement efforts to investigate and prosecute human trafficking, such as sex or labor trafficking as defined by federal law. The law authorized T nonimmigrant status (commonly referred to as "T visa"), which can be sought by immigrants who are victims of a severe form of human trafficking and who assist law enforcement in the investigation or prosecution of human trafficking. T nonimmigrant status is issued by the United States Citizenship and Immigration Services ("USCIS"), and once granted it provides these victims with temporary nonimmigrant status so that they can remain in the United States.
@@ -4970,7 +4970,7 @@ Victims may apply for declarations on their own, and the assistance of an attorn
 
 
 
-*§ 23-02 Definitions.* ::
+*§ 23-02 Definitions.*
 
 
 "Applicant" means a victim of human trafficking who is petitioning USCIS for T nonimmigrant status, or a person or organization who requests a T declaration on behalf of such a victim of human trafficking.
@@ -4992,7 +4992,7 @@ Victims may apply for declarations on their own, and the assistance of an attorn
 
 
 
-*§ 23-03 Request for T Declaration.* ::
+*§ 23-03 Request for T Declaration.*
 
 
 (a) Letter or electronic mail (e-mail) submission required. An applicant requesting a T declaration from the Department must send a letter or e-mail in accordance with the requirements of this section. The applicant must type or clearly print the letter or type the e-mail. The letter or e-mail may be typed or printed in the applicant's preferred language.
@@ -5024,7 +5024,7 @@ Victims may apply for declarations on their own, and the assistance of an attorn
 
 
 
-*§ 23-04 Department Response and Appeals.* ::
+*§ 23-04 Department Response and Appeals.*
 
 
 (a) Department response. Within 45 days of receiving a request for T declaration, the Department will notify the applicant, either in a letter or e-mail sent to the applicant's designated return mailing address or e-mail address, that: (1) the request is approved or denied, or (2) the request requires more than 45 days of review. If the request is denied, the Department will also notify the applicant of the basis for the denial and the process for appealing the denial ("Department denial letter or e-mail"). If the request requires more than 45 days of review, the Department will also provide a reasonable estimate of when a determination will be made.

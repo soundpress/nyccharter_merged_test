@@ -1,10 +1,10 @@
 Introductory
-===================================================
+======================================================================================================
 Section 1.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1. The city.* ::
+*Section 1. The city.*
 
 
 The city of New York as now existing shall continue with the boundaries and with the powers, rights and property, and subject to the obligations and liabilities which exist at the time when this charter shall take effect.
@@ -13,10 +13,10 @@ The city of New York as now existing shall continue with the boundaries and with
 
 
 Section 2.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2. The boroughs.* ::
+*Section 2. The boroughs.*
 
 
 The boroughs of the city are continued as existing at the time of the adoption of this charter.

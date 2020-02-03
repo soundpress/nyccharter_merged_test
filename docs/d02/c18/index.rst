@@ -1,12 +1,12 @@
 Title 34: Department of Transportation
-===================================================
+======================================================================================================
 
 Chapter 1: Ferry Terminals and Vessels
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Definitions.* ::
+*§ 1-01 Definitions.*
 
 
 Commissioner. "Commissioner" means the Commissioner of Transportation or his/her designee, or any successor in function to the Commissioner of any successor agency thereof.
@@ -48,7 +48,7 @@ Terminals. "Terminals," used in the plural, includes both the ferry terminal loc
 
 
 
-*§ 1-02 Prohibited Uses.* ::
+*§ 1-02 Prohibited Uses.*
 
 
 (a) Gambling prohibited. No person shall gamble or conduct or engage in any game of chance in the terminals or on the ferries unless such game of chance is permitted by local, state or federal law and has been approved by the Commissioner.
@@ -106,7 +106,7 @@ Terminals. "Terminals," used in the plural, includes both the ferry terminal loc
 
 
 
-*§ 1-03 Regulated Uses.* ::
+*§ 1-03 Regulated Uses.*
 
 
 (a) Permission to use terminals and ferries is conditional. Any permission granted by the Department directly or indirectly, expressly or by implication, to any person to enter upon or use the terminals or ferries, or any part thereof, is conditioned upon acceptance of and compliance with this chapter, as from time to time may be amended, and entry upon or into the terminals or ferries by any person shall be deemed to constitute an agreement by such person to comply with such rules; provided, further, that such rules shall apply to premises or spaces occupied or used under the provisions of a written agreement made with the Department unless provision is made therein that such rules do not apply.
@@ -230,7 +230,7 @@ Terminals. "Terminals," used in the plural, includes both the ferry terminal loc
 
 
 
-*§ 1-04 Vehicles.* ::
+*§ 1-04 Vehicles.*
 
 
 No vehicles shall be permitted on the ferries except with permission from the Chief Operating Officer.
@@ -240,7 +240,7 @@ No vehicles shall be permitted on the ferries except with permission from the Ch
 
 
 
-*§ 1-05 Elevators, Escalators, and Loading Docks.* ::
+*§ 1-05 Elevators, Escalators, and Loading Docks.*
 
 
 (a) Freight prohibition. Passenger elevators and escalators may not be used to carry freight.
@@ -254,7 +254,7 @@ No vehicles shall be permitted on the ferries except with permission from the Ch
 
 
 
-*§ 1-06 Penalty.* ::
+*§ 1-06 Penalty.*
 
 
 Failure to comply with these rules or the terms or conditions of any permit issued shall be punishable as provided in the administrative code of the city of New York.
@@ -264,7 +264,7 @@ Failure to comply with these rules or the terms or conditions of any permit issu
 
 
 
-*§ 1-07 Boarding.* ::
+*§ 1-07 Boarding.*
 
 
 (a) All passengers must board a ferry through the boarding doors on the ferry’s upper level, unless otherwise authorized by this section.
@@ -307,11 +307,11 @@ Failure to comply with these rules or the terms or conditions of any permit issu
 
 
 Chapter 4: Traffic Rules and Regulations
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Words and Phrases Defined.* ::
+*§ 4-01 Words and Phrases Defined.*
 
 
 (a)Vehicle and Traffic Law definitions apply. Whenever any words and phrases used in these rules are not defined herein but are defined in Article 1 of the New York State Vehicle and Traffic Law, any such definition shall be deemed to apply to such words and phrases used herein.
@@ -461,7 +461,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-02 Compliance With and Effect of Traffic Rules.* ::
+*§ 4-02 Compliance With and Effect of Traffic Rules.*
 
 
 (a) Applicability of rules. The provisions of these rules apply to all vehicles, operators of vehicles, bicycles, operators of bicycles and pedestrians upon highways, parkways, shopping center parking lots and municipal areas including public housing, public hospital parking lots, and municipal lots and garages. These rules also apply on wharf property and marginal streets, in off-street parking facilities operated by the Department of Transportation, on vacant lots, and upon private roads open to public motor vehicle traffic, which for the purpose of application of these rules shall be considered streets, highways or parkways, except where a different place is specifically referred to.
@@ -497,7 +497,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-03 Traffic Signals.* ::
+*§ 4-03 Traffic Signals.*
 
 
 (a) Traffic control signals. Whenever traffic is controlled by traffic control signals exhibiting different colored lights successively, the following colors shall indicate and apply to operators of vehicles and to pedestrians, except as superseded by pedestrian control signals, as follows:
@@ -551,7 +551,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-04 Pedestrians.* ::
+*§ 4-04 Pedestrians.*
 
 
 (a) Pedestrians subject to traffic rules, except as otherwise provided herein. Pedestrians shall be subject to traffic control signals and pedestrian control signals as provided in 34 RCNY § 4-03(a) and (c) and to the lawful orders and directions of any law enforcement officer, but at all other places pedestrians shall be accorded the privileges and shall be subject to the restrictions stated in this section.
@@ -593,7 +593,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-05 Turns.* ::
+*§ 4-05 Turns.*
 
 
 (a) Compliance with turning restrictions. Whenever a traffic control device regulates any turn or other movement at an intersection or other location, no operator of any vehicle shall disregard the direction of such device, unless directed to do so by a law enforcement officer.
@@ -609,7 +609,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-06 Speed Restrictions.* ::
+*§ 4-06 Speed Restrictions.*
 
 
 (a) Maximum speed limits and basic rule.
@@ -625,7 +625,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-07 Other Restrictions on Movement.* ::
+*§ 4-07 Other Restrictions on Movement.*
 
 
 (a) Yield signs. The operator of a vehicle approaching a YIELD or YIELD-RIGHT-OF-WAY sign shall slow to a reasonable speed for existing conditions of traffic and visibility, stopping if necessary, and shall yield the right-of-way to all traffic on the intersecting street which is so close as to constitute an immediate hazard. Proceeding past such sign with resultant collision or other impediment or interference with traffic on the intersecting street shall be deemed prima facie evidence of a violation of this rule.
@@ -905,7 +905,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-08 Parking, Stopping, Standing.* ::
+*§ 4-08 Parking, Stopping, Standing.*
 
 
 (a) General provisions.
@@ -1705,7 +1705,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-09 Equipment.* ::
+*§ 4-09 Equipment.*
 
 
 (a) Brakes. No person shall operate or park a motor vehicle unless such vehicle is in compliance with § 375(1) of the Vehicle and Traffic Law.
@@ -1727,7 +1727,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-10 Buses.* ::
+*§ 4-10 Buses.*
 
 
 (a) Franchise regulations.
@@ -1915,7 +1915,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-11 Taxis, Commuter Vans, For-Hire and Certain Diplomatic and Consular Vehicles.* ::
+*§ 4-11 Taxis, Commuter Vans, For-Hire and Certain Diplomatic and Consular Vehicles.*
 
 
 (a) Standing. No operator of a taxi, while awaiting employment shall stand his/her vehicle in any street except:
@@ -1957,7 +1957,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-12 Miscellaneous.* ::
+*§ 4-12 Miscellaneous.*
 
 
 (a) Compliance with directions of law enforcement officers. 
@@ -2223,7 +2223,7 @@ Chapter 4: Traffic Rules and Regulations
 
 
 
-*§ 4-13 Truck Routes.* ::
+*§ 4-13 Truck Routes.*
 
 
 (a) General provisions. 
@@ -4021,7 +4021,7 @@ Local Truck Route Network
 
 
 
-*§ 4-14 Parkways and Parks.* ::
+*§ 4-14 Parkways and Parks.*
 
 
 (a) Parkways. The following provisions shall govern the use of all parkways:
@@ -4067,7 +4067,7 @@ Local Truck Route Network
 
 
 
-*§ 4-15 Limitations Upon Dimensions and Weights of Vehicles.* ::
+*§ 4-15 Limitations Upon Dimensions and Weights of Vehicles.*
 
 
 (a) Definitions. 
@@ -4415,7 +4415,7 @@ Local Truck Route Network
 
 
 
-*§ 4-16 Pedestrian Plazas.* ::
+*§ 4-16 Pedestrian Plazas.*
 
 
 (a) Proposals and Applications to Designate Pedestrian Plazas. In addition to areas selected by the Department to be designated as pedestrian plazas pursuant to § 19-157(b)(1) of the Administrative Code, the Department shall accept proposals and applications for areas under its jurisdiction to be designated as pedestrian plazas.
@@ -4620,21 +4620,11 @@ Local Truck Route Network
 
 
 Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 5-01 Definitions. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 5-02 [Reserved]* ::
+*§ 5-01 Definitions. [Repealed]*
 
 
 
@@ -4644,7 +4634,7 @@ Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
 
 
 
-*§ 5-03 Subscription and Advance-Reservation Trips. [Repealed]* ::
+*§ 5-02 [Reserved]*
 
 
 
@@ -4654,7 +4644,7 @@ Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
 
 
 
-*§ 5-04 Cancellations. [Repealed]* ::
+*§ 5-03 Subscription and Advance-Reservation Trips. [Repealed]*
 
 
 
@@ -4664,7 +4654,7 @@ Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
 
 
 
-*§ 5-05 Participant Obligations For Pick-Up. [Repealed]* ::
+*§ 5-04 Cancellations. [Repealed]*
 
 
 
@@ -4674,7 +4664,7 @@ Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
 
 
 
-*§ 5-06 Eligibility Review Board. [Repealed]* ::
+*§ 5-05 Participant Obligations For Pick-Up. [Repealed]*
 
 
 
@@ -4684,7 +4674,17 @@ Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
 
 
 
-*§ 5-07 Participant Behavior. [Repealed]* ::
+*§ 5-06 Eligibility Review Board. [Repealed]*
+
+
+
+
+
+
+
+
+
+*§ 5-07 Participant Behavior. [Repealed]*
 
 
 
@@ -4693,11 +4693,11 @@ Chapter 5: Paratransit Program (Access-a-Ride) [Repealed]
 
 
 Chapter 6: General Provisions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 6-01 Adjudications.* ::
+*§ 6-01 Adjudications.*
 
 
 New York City Department of Transportation adjudications regarding the fitness and discipline of agency employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Commissioner.
@@ -4706,11 +4706,11 @@ New York City Department of Transportation adjudications regarding the fitness a
 
 
 Chapter 7: Revocable Consents
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 7-01 Definitions.* ::
+*§ 7-01 Definitions.*
 
 
 Administrative Code. "Administrative Code" means the Administrative Code of the City of New York.
@@ -4738,7 +4738,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure as set out in §§ 19
 
 
 
-*§ 7-02 Requirement to Obtain a Revocable Consent.* ::
+*§ 7-02 Requirement to Obtain a Revocable Consent.*
 
 
 With the exception of the city of New York and/or its agents, no person or entity shall install or maintain any of the improvements listed in 34 RCNY § 7-04 without first obtaining a revocable consent from the Department. The Department shall not issue a revocable consent for any improvement which, in the judgment of DCP, has land use impacts or implications, unless such revocable consent has been reviewed and approved pursuant to ULURP. Revocable consents may not be assigned, transferred or otherwise conveyed without the prior written approval of the Commissioner.
@@ -4748,7 +4748,7 @@ With the exception of the city of New York and/or its agents, no person or entit
 
 
 
-*§ 7-03 DCP Review.* ::
+*§ 7-03 DCP Review.*
 
 
 (a)  The Department shall submit to DCP petitions for those improvements listed in 34 RCNY § 7-04(a) that do not meet the locational or dimensional standards in such 34 RCNY § 7-04(a). The Department shall also submit to DCP all petitions for the following improvements: bridge, above-ground cable, guard booth, information sign/kiosk, parking area for private use, and above-ground pipe/fuel line.
@@ -4772,7 +4772,7 @@ With the exception of the city of New York and/or its agents, no person or entit
 
 
 
-*§ 7-04 Eligible Improvements; Standards; Annual Rates.* ::
+*§ 7-04 Eligible Improvements; Standards; Annual Rates.*
 
 
 (a)  The Commissioner may, in his or her discretion, grant, renew, modify, or rescind revocable consents for any of the improvements listed in this subdivision to be constructed or maintained on, over, or under City streets, in accordance with the requirements set forth in § 364 of the Charter. Except as otherwise provided, annual compensation for the improvements listed in this subdivision shall be as set forth herein and, unless otherwise provided, shall not increase during the term of the revocable consent.
@@ -5053,7 +5053,7 @@ With the exception of the city of New York and/or its agents, no person or entit
 
 
 
-*§ 7-05 Revocable Consents for Telecommunications Purposes.* ::
+*§ 7-05 Revocable Consents for Telecommunications Purposes.*
 
 
 Petitions for revocable consents for telecommunications purposes shall be reviewed and may be granted by DoITT, subject to approval by the Department and review by DCP, where appropriate. Petitions for such consents shall be filed with the Department and shall be forwarded by the Department to DoITT for processing. Petitioners shall submit any additional information which may be required by DoITT.
@@ -5063,7 +5063,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
 
 
-*§ 7-06 General Conditions.* ::
+*§ 7-06 General Conditions.*
 
 
 (a)  Advertising prohibited. No advertising shall appear on any improvement which is the subject of a revocable consent agreement.
@@ -5149,7 +5149,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
 
 
-*§ 7-07 Application Requirements.* ::
+*§ 7-07 Application Requirements.*
 
 
 (a)  Petition form. An application for a new revocable consent or for a renewal, modification, assignment or rescission of an existing revocable consent shall be made on a petition form obtained from the Department, and shall be signed by the petitioner or a person authorized to enter into binding agreements on behalf of the petitioner. In the case of a new consent, the petitioner shall submit the original plus ten copies of the completed form; in the case of a renewal, modification, assignment or rescission, petitioner shall submit the original plus five copies.
@@ -5189,7 +5189,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
 
 
-*§ 7-08 Filing Fees.* ::
+*§ 7-08 Filing Fees.*
 
 
 (a)  General information. Filing fees for petitions shall be submitted with the petition form and any required plans or supporting documents. Filing fees shall be non-refundable.
@@ -5231,7 +5231,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
 
 
-*§ 7-09 Action by the Department.* ::
+*§ 7-09 Action by the Department.*
 
 
 (a)  The Department shall, within 30 calendar days of receipt of a complete petition for a revocable consent, forward a copy of such petition to: the Borough President for the borough in which the proposed improvement is to be located; all Community Boards in whose districts the proposed improvement is to be located; DCP, if required to do so pursuant to 34 RCNY § 7-03; and all other City agencies affected by the proposed consent. The Department shall allow 30 calendar days for the Borough President, Community Board, and other affected agencies to comment on the petition.
@@ -5249,7 +5249,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
 
 
-*§ 7-10 Annual Rate Schedule for Revocable Consent Improvements.* ::
+*§ 7-10 Annual Rate Schedule for Revocable Consent Improvements.*
 
 
 For all improvements that do not have an annual rate set forth in 34 RCNY § 7-04(a), the annual rate of compensation for the first year of the term of each revocable consent shall be calculated in accordance with the following:
@@ -5412,11 +5412,11 @@ Table A
 
 
 Chapter 8: Employee Commute Options Program
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 8-01 Background and Authority.* ::
+*§ 8-01 Background and Authority.*
 
 
 Section 182(d)(1)(B) of the Clean Air Act Amendments of 1990, 42 U.S.C. § 7511(a)(d)(1)(B), requires states with severe or extreme nonattainment areas for ozone to revise their state implementation plans by adopting new regulations to reduce work-related vehicle trips and miles traveled by employees. The New York State Consolidated Metropolitan Statistical Area, which includes New York City was designated by the Federal Environmental Protection Agency ("EPA") as a severe ozone nonattainment area, 40 C.F.R. § 81.333. Section 14(31) of the New York State Transportation Law authorizes the State Department of Transportation to promulgate rules and regulations to implement the requirements of § 182(d)(1)(B) of the Clean Air Act Amendments and to establish an employee commute options ("ECO") program. The state rules require employers of one hundred or more employees at work locations within severe ozone nonattainment areas in New York State to develop and implement employee trip reduction programs and to make a good faith effort to achieve a twenty-five percent increase in average vehicle occupancy for commuting trips by November 15, 1996. The state transportation law and the rules promulgated pursuant to it also delegate the local administration of the program to counties in the severe ozone nonattainment areas and pursuant to such delegation, the New York City Department of Transportation ("the Department") has been designated the local administrative agency.
@@ -5426,7 +5426,7 @@ Section 182(d)(1)(B) of the Clean Air Act Amendments of 1990, 42 U.S.C. § 7511(
 
 
 
-*§ 8-02 Applicability.* ::
+*§ 8-02 Applicability.*
 
 
 This chapter shall apply to any affected employer in the City of New York who is subject to the ECO rules of the New York State Department of Transportation, codified at 17 NYCRR Part 38. This chapter shall apply with respect to any and all affected worksites. Pursuant to 17 NYCRR § 38.4(b)(3), the counties of New York (Region 1) and Bronx, Kings, Queens, and Richmond (Region 2) shall be consolidated into a single region consisting of the subregions identified in table one below.
@@ -5436,7 +5436,7 @@ This chapter shall apply to any affected employer in the City of New York who is
 
 
 
-*§ 8-03 Definitions.* ::
+*§ 8-03 Definitions.*
 
 
 For purposes of ECO, the definitions set forth in 17 NYCRR Part 38 shall apply; provided, however, that in this chapter, "Commissioner" shall mean the Commissioner of the New York City Department of Transportation and "Department" shall mean the New York City Department of Transportation.
@@ -5446,7 +5446,7 @@ For purposes of ECO, the definitions set forth in 17 NYCRR Part 38 shall apply; 
 
 
 
-*§ 8-04 AVO Subregions.* ::
+*§ 8-04 AVO Subregions.*
 
 
 The Average Vehicle Occupancy ("AVO") subregions established pursuant to 17 NYCRR Part 38.4(c) are specified in table one below.
@@ -5456,7 +5456,7 @@ The Average Vehicle Occupancy ("AVO") subregions established pursuant to 17 NYCR
 
 
 
-*§ 8-05 Target APOs.* ::
+*§ 8-05 Target APOs.*
 
 
 The specific target Average Passenger Occupancy ("APO") for each subregion is specified in Table one below.
@@ -6027,7 +6027,7 @@ Target APOs for each subregion were established by increasing the AVO for each s
 
 
 
-*§ 8-06 Schedule for Submission of Initial Compliance Plans.* ::
+*§ 8-06 Schedule for Submission of Initial Compliance Plans.*
 
 
 (a) For each affected worksite, the affected employer shall prepare and submit to the Department an initial compliance plan not later than November 15, 1994.
@@ -6043,7 +6043,7 @@ Target APOs for each subregion were established by increasing the AVO for each s
 
 
 
-*§ 8-07 Schedule for Submission of Compliance Plan Updates and Maintenance Reports.* ::
+*§ 8-07 Schedule for Submission of Compliance Plan Updates and Maintenance Reports.*
 
 
 (a) For each affected worksite, the affected employer shall prepare and submit to the Department a compliance plan update or maintenance report not later than November 15, 1996.
@@ -6061,7 +6061,7 @@ Target APOs for each subregion were established by increasing the AVO for each s
 
 
 
-*§ 8-08 Fees.* ::
+*§ 8-08 Fees.*
 
 
 (a) Each affected employer shall submit its annual fee on the date its initial compliance plan is submitted, and thereafter on each subsequent anniversary of such date.
@@ -6087,7 +6087,7 @@ Target APOs for each subregion were established by increasing the AVO for each s
 
 
 
-*§ 8-09 Penalties.* ::
+*§ 8-09 Penalties.*
 
 
 (a) The Department shall send a notice of violation fo any provision of this chapter by registered mail to the affected employer. Such notice shall specify the nature of the violation and the fine due.
@@ -6101,7 +6101,7 @@ Target APOs for each subregion were established by increasing the AVO for each s
 
 
 
-*§ 8-10 Department Conference.* ::
+*§ 8-10 Department Conference.*
 
 
 (a) Any affected employer who receives a notice of violation may request a conference with the Commissioner or his/her representative at which the employer shall have the opportunity to explain or justify the actions that are the subhect of the notice. Such request must be made in writing and sent by registered mail within thirty (30) days of the date of receipt of such notice. If a conference is not requested, the full amount of the penalty shall be due not later than thirty days from the receipt of the notice.
@@ -6113,7 +6113,7 @@ Target APOs for each subregion were established by increasing the AVO for each s
 
 
 
-*§ 8-11 Hearings.* ::
+*§ 8-11 Hearings.*
 
 
 (a) Any affected employer who has received a notice of violation from the Department, has had a Department conference, and does not consent to a settlement agreement with a settlement officer, may appeal the determination of the Department, as provided in 17 NYCRR § 38.13, by requesting a hearing with the New York City Office of Administrative Trials and Hearings ("Oath"). A petition appealing the determination, as well as a copy of the notice of violation, and the factual findings and decision of the Department shall be filed with OATH, with proof that copies were sent to the Department, not later than fifteen (15) days after the date of the settlement offer of the Department.
@@ -6127,7 +6127,7 @@ Target APOs for each subregion were established by increasing the AVO for each s
 
 
 
-*§ 8-12 Post Hearing Relief.* ::
+*§ 8-12 Post Hearing Relief.*
 
 
 An employer may make a motion to reopen a proceeding at OATH if such employer alleges that the violation that is the subject of the proceeding has been cured and that the Department has rejected such determination.
@@ -6137,7 +6137,7 @@ An employer may make a motion to reopen a proceeding at OATH if such employer al
 
 
 
-*§ 8-13 Severability.* ::
+*§ 8-13 Severability.*
 
 
 If any provision of this rule is deemed to be invalid or unenforceable by any court of competent jurisdiction, such provision shall be severed from this rule and the remainder of this rule shall continue in full force and effect.

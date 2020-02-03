@@ -1,12 +1,12 @@
 Title 12: Franchise and Concession Review Committee
-===================================================
+======================================================================================================
 
 Chapter 1: Concessions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Scope.* ::
+*§ 1-01 Scope.*
 
 
 This Chapter shall apply to initial grants of concessions as well as to resolicitations and renewals of concessions.
@@ -16,7 +16,7 @@ This Chapter shall apply to initial grants of concessions as well as to resolici
 
 
 
-*§ 1-02 Definitions.* ::
+*§ 1-02 Definitions.*
 
 
 For the purpose of this Chapter:
@@ -92,7 +92,7 @@ VENDEX. "VENDEX" shall mean a computerized citywide system providing comprehensi
 
 
 
-*§ 1-03 Construction of Rules.* ::
+*§ 1-03 Construction of Rules.*
 
 
 The rules in this Chapter shall be liberally construed to achieve the purpose for which they are intended.
@@ -102,7 +102,7 @@ The rules in this Chapter shall be liberally construed to achieve the purpose fo
 
 
 
-*§ 1-04 Decision to Permit Use of City Property for Administrative Cost.* ::
+*§ 1-04 Decision to Permit Use of City Property for Administrative Cost.*
 
 
 The concession manager must document any decision to issue any permit for the use of City property for a period of over 30 days for a fee to cover administrative costs, rather than a concession. A copy of such documentation shall be forwarded to the Committee.
@@ -112,7 +112,7 @@ The concession manager must document any decision to issue any permit for the us
 
 
 
-*§ 1-05 Term of Concession.* ::
+*§ 1-05 Term of Concession.*
 
 
 No agency shall enter into a concession agreement for a term of more than 20 years (including option periods). Notwithstanding the foregoing, in extraordinary circumstances described in a detailed written statement to the Committee, an agency may issue a solicitation for a concession with a term in excess of twenty (20) years upon the unanimous approval of the Committee. Thereafter, an agency may enter into a concession agreement with the successful bidder/proposer.
@@ -122,7 +122,7 @@ No agency shall enter into a concession agreement for a term of more than 20 yea
 
 
 
-*§ 1-06 Responsiveness of Bids/Proposals.* ::
+*§ 1-06 Responsiveness of Bids/Proposals.*
 
 
 (a)  Policy. The award of concessions shall be made only to bids/proposals received that are responsive to the solicitation, as set forth below.
@@ -182,7 +182,7 @@ No agency shall enter into a concession agreement for a term of more than 20 yea
 
 
 
-*§ 1-07 Concessionaire Responsibility.* ::
+*§ 1-07 Concessionaire Responsibility.*
 
 
 (a)  Policy. Concessions shall be awarded to responsible prospective concessionaires only.
@@ -296,7 +296,7 @@ No agency shall enter into a concession agreement for a term of more than 20 yea
 
 
 
-*§ 1-08 Protest of Solicitations and Awards of Concessions.* ::
+*§ 1-08 Protest of Solicitations and Awards of Concessions.*
 
 
 (a)  Protests. Any actual or prospective bidder or proposer may protest any determination regarding a concession, unless another appeal or protest provision is provided in these Rules. The protestor shall send a copy of its protest to the New York City Comptroller, for informational purposes, at the Office of the New York City Comptroller, Office of Contract Administration, 1 Centre Street, New York, New York 10007, (212) 669-2323.
@@ -320,7 +320,7 @@ No agency shall enter into a concession agreement for a term of more than 20 yea
 
 
 
-*§ 1-09 Publication Requirements for the Award of a Concession.* ::
+*§ 1-09 Publication Requirements for the Award of a Concession.*
 
 
 (a)  Notice of the award of a concession shall be published in the City Record within 15 calendar days after registration of the concession, shall be posted on the City's website in a location that is accessible by the public simultaneously with its publication, and a copy shall be provided to the members of the Committee within five days of its publication.
@@ -342,7 +342,7 @@ No agency shall enter into a concession agreement for a term of more than 20 yea
 
 
 
-*§ 1-10 Annual Report, Concession Plan and Opportunity for Public Comment.* ::
+*§ 1-10 Annual Report, Concession Plan and Opportunity for Public Comment.*
 
 
 (a)  The CCPO shall submit an annual report to the Committee no later than each September 1st summarizing the currently effective concessions awarded pursuant to this Chapter. The summary shall include the date each concession was submitted to the Comptroller for registration, a brief description of each concession awarded, the method by which each concession was awarded and the approximate gross revenues received by the City for each concession during the prior fiscal year.
@@ -372,7 +372,7 @@ No agency shall enter into a concession agreement for a term of more than 20 yea
 
 
 
-*§ 1-11 Ratification of Minor Rules Violations.* ::
+*§ 1-11 Ratification of Minor Rules Violations.*
 
 
 (a)  Prior to Registration. If, prior to registration, it is determined by the concession manager that a violation of these Rules has occurred and the violation has been deemed to have had no significant, adverse impact on the competitive process, then as soon as practicable after discovery, the concession manager shall either:
@@ -404,7 +404,7 @@ No agency shall enter into a concession agreement for a term of more than 20 yea
 
 
 
-*§ 1-12 Competitive Sealed Bids.* ::
+*§ 1-12 Competitive Sealed Bids.*
 
 
 (a)  General.
@@ -582,7 +582,7 @@ No agency shall enter into a concession agreement for a term of more than 20 yea
 
 
 
-*§ 1-13 Competitive Sealed Proposals.* ::
+*§ 1-13 Competitive Sealed Proposals.*
 
 
 (a)  General.
@@ -756,7 +756,7 @@ To the best of my knowledge, information and belief, neither I nor any member of
 
 
 
-*§ 1-14 Negotiated Concessions.* ::
+*§ 1-14 Negotiated Concessions.*
 
 
 (a)  Policy. Agencies may award negotiated concessions under the circumstances and subject to the conditions set forth in this section.
@@ -824,7 +824,7 @@ To the best of my knowledge, information and belief, neither I nor any member of
 
 
 
-*§ 1-15 Small Concessions.* ::
+*§ 1-15 Small Concessions.*
 
 
 (a)  Definition. Small concessions are those concessions, otherwise deemed by the concession manager to be appropriate for competitive sealed bid, for which the agency anticipates compensation to the City of not more than $10,000 per year over the course of the concession term, which may not exceed five years. This shall be known as the small concession limit. Small concessions may be awarded only by the method set forth in this Section or by competitive sealed bids as set forth in 12 RCNY § 1-12. The only compensation that may be accepted under the solicitation method set forth in this Section is monetary compensation.
@@ -884,7 +884,7 @@ To the best of my knowledge, information and belief, neither I nor any member of
 
 
 
-*§ 1-16 Committee Approval of Different Procedures.* ::
+*§ 1-16 Committee Approval of Different Procedures.*
 
 
 (a)  No agency shall enter into a concession agreement other than through the processes set forth in 12 RCNY §§ 1-12, 1-13, 1-14, and 1-15 of this Chapter unless the Committee reviews and approves a different procedure. Agencies that wish to enter into Agreements such as Not-for-Profit Concession Agreements and Sole Source Concession Agreements must therefore obtain prior Committee approval of different procedures.
@@ -912,7 +912,7 @@ To the best of my knowledge, information and belief, neither I nor any member of
 
 
 
-*§ 1-17 Registration With the Comptroller.* ::
+*§ 1-17 Registration With the Comptroller.*
 
 
 (a)  Definition. Registration of concession agreements is the process through which the Comptroller:

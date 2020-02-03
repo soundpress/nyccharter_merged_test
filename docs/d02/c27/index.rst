@@ -1,12 +1,12 @@
 Title 44: Comptroller
-===================================================
+======================================================================================================
 
 Chapter 1: Bond Transfers
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Issuance of New Bond.* ::
+*§ 1-01 Issuance of New Bond.*
 
 
 Upon registration of the transfer of a registered bond, the transferee may be provided with a new bond.
@@ -16,7 +16,7 @@ Upon registration of the transfer of a registered bond, the transferee may be pr
 
 
 
-*§ 1-02 Form of New Bond.* ::
+*§ 1-02 Form of New Bond.*
 
 
 The new bond shall be of substantially the same form and tenor as the bond presented, except as provided below.
@@ -26,7 +26,7 @@ The new bond shall be of substantially the same form and tenor as the bond prese
 
 
 
-*§ 1-03 Signing and Attesting of New Bond.* ::
+*§ 1-03 Signing and Attesting of New Bond.*
 
 
 The new bond shall be signed and attested, either:
@@ -40,7 +40,7 @@ The new bond shall be signed and attested, either:
 
 
 
-*§ 1-04 Execution and Authentication of New Bond.* ::
+*§ 1-04 Execution and Authentication of New Bond.*
 
 
 The new bond shall be executed as of the date of the bond presented and shall be authenticated as of the date of delivery of the new bond.
@@ -50,7 +50,7 @@ The new bond shall be executed as of the date of the bond presented and shall be
 
 
 
-*§ 1-05 Destruction of Old Bond.* ::
+*§ 1-05 Destruction of Old Bond.*
 
 
 The bond presented shall be destroyed in such manner as is set forth in any agreement between the City and its fiscal agent and a certificate of destruction shall be prepared as set forth in such agreement.
@@ -60,7 +60,7 @@ The bond presented shall be destroyed in such manner as is set forth in any agre
 
 
 
-*§ 1-06 Effectiveness.* ::
+*§ 1-06 Effectiveness.*
 
 
 These Rules and Regulations shall be effective immmediately; provided, however, that neither delivery of new bonds prior to the effective date hereof nor the application of procedures inconsistent with the requirements of these Rules and Regulations shall affect the validity of new bonds.
@@ -69,11 +69,11 @@ These Rules and Regulations shall be effective immmediately; provided, however, 
 
 
 Chapter 2: Comptroller's Prevailing Wage Law Regulations
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Applicability.* ::
+*§ 2-01 Applicability.*
 
 
 These regulations apply to Comptroller investigations, determinations, hearings, reports and recommendations, and orders under New York state labor law articles eight and nine and New York City Administrative Code § 19-142; Comptroller investigations, determinations, hearings and reports and recommendations made to the New York city department of housing preservation and development under New York state real property tax law § 421-a(8), (16)(h) and (17)(g); and Comptroller investigations, determinations, hearings and reports and recommendations made to city agencies under the prevailing wage provisions of New York City Administrative Code § 6-109.
@@ -85,7 +85,7 @@ These regulations apply to Comptroller investigations, determinations, hearings,
 
 
 
-*§ 2-02 Definitions.* ::
+*§ 2-02 Definitions.*
 
 
 As used in this chapter, the following terms have the following meanings. Capitalized terms that are not specifically defined in this chapter have the meanings set forth in the laws designated in 44 RCNY § 2-01.
@@ -123,7 +123,7 @@ Worker Notice. “Worker Notice” means a notice in the form provided on the co
 
 
 
-*§ 2-03 Annual Prevailing Wage and Supplement Determinations.* ::
+*§ 2-03 Annual Prevailing Wage and Supplement Determinations.*
 
 
 (a) Prevailing Wage Schedules. On June 1 of each year, the Bureau preliminarily determines and publishes Prevailing Wage and Supplement rates for each trade classification. The Bureau then considers any comments from interested persons asserting errors or omissions in the preliminary Prevailing Wage and Supplement rates if such comments are submitted in writing on or before June 15 of the same year. On July 1 of each year, the Bureau determines and publishes the Prevailing Wage and Supplement rates for each trade classification effective from the date of publication until June 30 of the following year. In January of each year, the Bureau may publish updated Prevailing Wage and Supplement rates for each trade classification, without a comment period, effective from the date of publication until June 30 of the same year.
@@ -145,7 +145,7 @@ Worker Notice. “Worker Notice” means a notice in the form provided on the co
 
 
 
-*§ 2-04 Prevailing Wage and Supplement Requirements and Recordkeeping.* ::
+*§ 2-04 Prevailing Wage and Supplement Requirements and Recordkeeping.*
 
 
 (a) Applicable rates. The Prevailing Wage and Supplement rates that are required for Covered Work are the rates that are published and effective as set forth in 44 RCNY § 2-03(a) at the time that the Covered Work is performed.
@@ -191,7 +191,7 @@ Worker Notice. “Worker Notice” means a notice in the form provided on the co
 
 
 
-*§ 2-05 Compliance Investigations, Compliance Determinations, Settlements, Interest and Penalties.* ::
+*§ 2-05 Compliance Investigations, Compliance Determinations, Settlements, Interest and Penalties.*
 
 
 (a) The Bureau investigates and determines underpayments of Prevailing Wages and Supplements by Covered Employers under labor law articles eight and nine, real property tax law § 421-a(8), (16)(h), and (17)(g) and New York City Administrative Code § 19-142 for Covered Work performed within the two-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint by a Covered Worker with the Bureau or the New York State Department of Labor.
@@ -247,7 +247,7 @@ Worker Notice. “Worker Notice” means a notice in the form provided on the co
 
 
 
-*§ 2-06 Hearings, Reports and Recommendations and Orders.* ::
+*§ 2-06 Hearings, Reports and Recommendations and Orders.*
 
 
 (a) Designation. All hearings required by New York labor law articles eight and nine; real property tax law § 421-a(8), (16)(h) and (17)(g); and New York City Administrative Code §§ 6-109 and 19-142 are held by the office of administrative trials and hearings trials division.
@@ -285,7 +285,7 @@ Worker Notice. “Worker Notice” means a notice in the form provided on the co
 
 
 
-*§ 2-07 Civil Penalties for Violations of Employer Notice Requirements.* ::
+*§ 2-07 Civil Penalties for Violations of Employer Notice Requirements.*
 
 
 (a) Penalties for Construction Poster violations with opportunity to cure.
@@ -361,7 +361,7 @@ Worker Notice. “Worker Notice” means a notice in the form provided on the co
 
 
 
-*Appendix A* ::
+*Appendix A*
 
 
 For a full description of violations, refer back to text of section of rule indicated
@@ -577,11 +577,11 @@ For a full description of violations, refer back to text of section of rule indi
 
 
 Chapter 3: Comptroller’s Living Wage and Minimum Average Hourly Wage Law Regulations.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Applicability.* ::
+*§ 3-01 Applicability.*
 
 
 These regulations apply to Comptroller investigations, determinations, hearings, reports and recommendations, and orders under New York state real property tax law § 421-a(16)(c) and to Comptroller investigations, determinations, hearings and reports and recommendations made to City agencies under the living wage provisions of New York City Administrative Code § 6-109.
@@ -593,7 +593,7 @@ These regulations apply to Comptroller investigations, determinations, hearings,
 
 
 
-*§ 3-02 Definitions.* ::
+*§ 3-02 Definitions.*
 
 
 As used in this chapter, the following terms have the following meanings. Capitalized terms that are not specifically defined in this chapter have the meanings set forth in the laws designated in 44 RCNY § 3-01.
@@ -625,7 +625,7 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 
 
-*§ 3-03 Wage and Supplement Required Records.* ::
+*§ 3-03 Wage and Supplement Required Records.*
 
 
 (a) Covered Employers must maintain Documents consisting of the following records for six years after Covered Work is performed, must preserve the records immediately when notified by the Bureau of a compliance investigation, and must produce true copies of all such records within the time requested by the Bureau after notice of the right to counsel described in 44 RCNY § 3-04(f):
@@ -675,7 +675,7 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 
 
-*§ 3-04 Compliance Investigations, Compliance Determinations, Settlements, Interest and Penalties.* ::
+*§ 3-04 Compliance Investigations, Compliance Determinations, Settlements, Interest and Penalties.*
 
 
 (a) The Bureau investigates and determines underpayments of Living Wage and Health Benefits or Health Benefits Supplement Rate by Covered Employers under New York City Administrative Code § 6-109 for Covered Work performed within the three-year period immediately preceding the earlier of: (i) the commencement of the compliance investigation by the Bureau, or (ii) the filing of a written complaint with the Bureau by a Covered Worker, the representative of a Covered Worker or a labor union with an interest in the Covered Work at issue.
@@ -715,7 +715,7 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 
 
-*§ 3-05 Hearings, Reports and Recommendations and Orders.* ::
+*§ 3-05 Hearings, Reports and Recommendations and Orders.*
 
 
 (a) Designation. All hearings required by New York real property tax law § 421-a(16)(c) and New York City Administrative Code § 6-109 are held by the office of administrative trials and hearings trials division.
@@ -750,11 +750,11 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 
 Chapter 4: Hospital Audits
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Final Audit Report.* ::
+*§ 4-01 Final Audit Report.*
 
 
 (a) After the receipt of the hospital's objections to the draft audit report, or if no objections have been received within 30 days after mailing the draft audit report to the hospital, a final report shall be issued. In preparing the final audit report, the Bureau of Financial Audit (BFA) of the New York City Comptroller's Office (Comptroller) shall consider the objections, any supporting documents and materials submitted therewith, the draft audit report, and any additional material which may become available.
@@ -788,7 +788,7 @@ Chapter 4: Hospital Audits
 
 
 
-*§ 4-02 Request for Hearing.* ::
+*§ 4-02 Request for Hearing.*
 
 
 (a) A hospital has the right to an administrative hearing to challenge the final audit report and may request such a hearing within 30 days of receipt of the final audit report which shall be presumed to be five days from the date of mailing.
@@ -830,7 +830,7 @@ Chapter 4: Hospital Audits
 
 
 
-*§ 4-03 The Hearing Officer.* ::
+*§ 4-03 The Hearing Officer.*
 
 
 The hearing shall be conducted by an Administrative Law Judge employed by OATH for that purpose. The judge shall have all the powers conferred by law to administer oaths, issue subpoenas, require the attendance of witnesses and production of records, rule upon requests for adjournment, rule upon evidentiary matters and to otherwise regulate the hearing, observe requirements of due process and effectuate the purposes and provisions of applicable law.
@@ -842,7 +842,7 @@ The hearing shall be conducted by an Administrative Law Judge employed by OATH f
 
 
 
-*§ 4-04 Authorization of Representative.* ::
+*§ 4-04 Authorization of Representative.*
 
 
 An individual, other than an attorney, representing the hospital, shall have written authorization signed by an officer or director of the hospital.
@@ -854,7 +854,7 @@ An individual, other than an attorney, representing the hospital, shall have wri
 
 
 
-*§ 4-05 Conduct of Hearings; Rights of Hospital.* ::
+*§ 4-05 Conduct of Hearings; Rights of Hospital.*
 
 
 (a) The judge shall preside over the hearing, make all procedural rulings, and make a statement on the record describing the nature of the proceedings, the issues, and the manner in which the hearing will be conducted.
@@ -900,7 +900,7 @@ An individual, other than an attorney, representing the hospital, shall have wri
 
 
 
-*§ 4-06 Decision After Hearing.* ::
+*§ 4-06 Decision After Hearing.*
 
 
 (a) The hearing decision shall be made and issued by the Comptroller and shall be based exclusively on the record and transcript of the hearing. In reaching a decision, the Comptroller may review the memoranda of law of the parties, if any. The Comptroller shall not be bound by the judge's recommendation but may adopt, reject or modify such recommendation, in whole or in part, as may be appropriate. The decision shall be in writing and shall state reasons for the determinations and, when appropriate, direct specific action.
@@ -916,7 +916,7 @@ An individual, other than an attorney, representing the hospital, shall have wri
 
 
 
-*§ 4-07 Recoupment of Overpayments.* ::
+*§ 4-07 Recoupment of Overpayments.*
 
 
 Upon determination that overpayments have been made, the BFA shall transmit a "Withholding Request for Provider Recoupment Initiated by the Local District" to NYSDSS. NYSDSS' fiscal agent shall recover overpayments by withholding against the hospital's current or future payments on claims submitted or a percentage of payments otherwise payable on such claims, at the option of NYSDSS. Such withholding may be made at any time after the issuance of a decision after hearing or, if a hearing has not been requested in accordance with this chapter, at any time after expiration of the time period allowed (30 days) for the making of such request.
@@ -927,11 +927,11 @@ Upon determination that overpayments have been made, the BFA shall transmit a "W
 
 
 Chapter 5: Rules For Petitioning
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 5-01 Scope.* ::
+*§ 5-01 Scope.*
 
 
 These Rules and Regulations shall govern the procedures by which the public may submit petitions for rulemaking to the Comptroller pursuant to § 1043(f) of the New York City Charter (City Administrative Procedures Act).
@@ -943,7 +943,7 @@ These Rules and Regulations shall govern the procedures by which the public may 
 
 
 
-*§ 5-02 Definitions.* ::
+*§ 5-02 Definitions.*
 
 
 Person. "Person" shall mean an individual, partnership, corporation or other legal entity, and any individual or entity acting in a fiduciary or representative capacity.
@@ -965,7 +965,7 @@ Rule. "Rule" shall have the meaning set forth in § 1041(5) of the City Administ
 
 
 
-*§ 5-03 Procedures for Submitting Petitions; Responses to Petitions.* ::
+*§ 5-03 Procedures for Submitting Petitions; Responses to Petitions.*
 
 
 (a) Any person may petition the Comptroller to consider the adoption of a rule. The petition must contain the following information:
@@ -999,7 +999,7 @@ Rule. "Rule" shall have the meaning set forth in § 1041(5) of the City Administ
 
 
 
-*§ 5-04 Public Notice; Promulgation of Rules and Regulations.* ::
+*§ 5-04 Public Notice; Promulgation of Rules and Regulations.*
 
 
 (a) The Comptroller shall publicize by posting in a conspicuous location:
@@ -1017,7 +1017,7 @@ Rule. "Rule" shall have the meaning set forth in § 1041(5) of the City Administ
 
 
 
-*§ 5-05 Severability.* ::
+*§ 5-05 Severability.*
 
 
 If any provision of these Rules and Regulations or the application thereof to any person or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the other provisions of these Rules and Regulations or the application thereof to other persons and circumstances.

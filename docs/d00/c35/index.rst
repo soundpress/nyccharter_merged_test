@@ -1,10 +1,10 @@
 Chapter 24-B: Administration For Children's Services
-===================================================
+======================================================================================================
 Section 615.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 615. Administration; commissioner.* ::
+*Section 615. Administration; commissioner.*
 
 
 There shall be an administration for children's services, the head of which shall be the commissioner of children's services.
@@ -13,10 +13,10 @@ There shall be an administration for children's services, the head of which shal
 
 
 Section 616.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 616. Deputies.* ::
+*Section 616. Deputies.*
 
 
 The commissioner shall appoint at least three deputy commissioners.
@@ -25,10 +25,10 @@ The commissioner shall appoint at least three deputy commissioners.
 
 
 Section 617.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 617. Powers and duties.* ::
+*Section 617. Powers and duties.*
 
 
 a. The commissioner shall have the powers and perform the duties of a commissioner of social services under the social services law for the purpose of fulfilling his or her responsibilities under this section. The commissioner shall have the power to perform functions related to the care and protection of children including, but not limited to:
@@ -51,10 +51,10 @@ c. No agency practice, including but not limited to any tracking system, record 
 
 
 Section 618.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 618. [Additional powers and duties.]* ::
+*Section 618. [Additional powers and duties.]*
 
 
 The commissioner shall, in addition:
@@ -75,10 +75,10 @@ The commissioner shall, in addition:
 
 
 Section 619.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 619. Advisory board.* ::
+*Section 619. Advisory board.*
 
 
 a. There shall be in the department a juvenile justice advisory board consisting of eleven members.

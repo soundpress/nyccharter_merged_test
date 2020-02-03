@@ -1,10 +1,10 @@
 Chapter 40: New York City Human Rights Commission
-===================================================
+======================================================================================================
 Section 900.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 900. Declaration of intent.* ::
+*Section 900. Declaration of intent.*
 
 
 It is the public policy of the city to promote equal opportunity and freedom from unlawful discrimination through the provisions of the city's human rights law.
@@ -15,10 +15,10 @@ It is the public policy of the city to promote equal opportunity and freedom fro
 
 
 Section 901.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 901. Executive orders.* ::
+*Section 901. Executive orders.*
 
 
 The mayor may issue such executive orders as the mayor deems appropriate to provide for city agencies and contractors to act in accordance with the policy set forth in this chapter.
@@ -29,10 +29,10 @@ The mayor may issue such executive orders as the mayor deems appropriate to prov
 
 
 Section 902.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 902. Commission on human rights.* ::
+*Section 902. Commission on human rights.*
 
 
 a.  The New York city commission on human rights is hereby established and continued.
@@ -45,10 +45,10 @@ b. The commission has general jurisdiction and power to eliminate and prevent un
 
 
 Section 903.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 903. Commission membership; chairperson; appointment; vacancy.* ::
+*Section 903. Commission membership; chairperson; appointment; vacancy.*
 
 
 The commission shall consist of 15 members, to be appointed by the mayor, one of whom shall be designated by the mayor as its chairperson and shall serve as such at the pleasure of the mayor. The chairperson shall devote the chairperson's entire time to the chairperson's duties and shall not engage in any other occupation, profession or employment. Members other than the chairperson shall serve without compensation for a term of three years. In the event of the death or resignation of any member, such member's successor shall be appointed to serve for the unexpired portion of the term for which such member had been appointed.
@@ -59,10 +59,10 @@ The commission shall consist of 15 members, to be appointed by the mayor, one of
 
 
 Section 904.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 904. Functions.* ::
+*Section 904. Functions.*
 
 
 The functions of the commission are:
@@ -81,10 +81,10 @@ d. To make such investigations and studies in the field of human relations as in
 
 
 Section 905.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 905. Powers and duties.* ::
+*Section 905. Powers and duties.*
 
 
 The powers and duties of the commission shall be exercised in a manner consistent with this chapter, title 8 of the administrative code and all other applicable laws and include but are not limited to the following:
@@ -137,10 +137,10 @@ j. Rules. To adopt rules to carry out the powers and duties delegated to the com
 
 
 Section 906.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 906. Relations with city departments and agencies.* ::
+*Section 906. Relations with city departments and agencies.*
 
 
 So far as practicable and subject to the approval of the mayor, the services of all other city departments and agencies shall be made available by their respective heads to the commission for the carrying out of the functions stated in this chapter. The head of any department or agency shall furnish information in the possession of such department or agency when the commission so requests. The corporation counsel, upon request of the chairperson, may assign counsel to assist the commission in the conduct of its investigative or prosecutorial functions.

@@ -1,10 +1,10 @@
 Chapter 63: Business Integrity Commission
-===================================================
+======================================================================================================
 Section 2100.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2100. Business integrity commission.* ::
+*Section 2100. Business integrity commission.*
 
 
 a. There shall be a business integrity commission, which shall consist of a full-time chairperson appointed by the mayor and of the commissioners of the department of small business services, the department of consumer affairs, the department of investigation, the police department and the department of sanitation, or their designees.
@@ -17,10 +17,10 @@ c. The chairperson shall have charge of the organization of the commission and s
 
 
 Section 2101.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2101. Jurisdiction; powers and duties.* ::
+*Section 2101. Jurisdiction; powers and duties.*
 
 
 a. The business integrity commission shall be responsible for the regulation of the trade waste industry, the shipboard gambling industry, the fulton fish market distribution area and other seafood distribution areas and the public wholesale markets. In regulating such industries, areas and markets, the commission shall have the powers and duties conferred by this chapter and such other powers and duties as are conferred by law, except as provided by title 16-B of the administrative code and the local law that added such title.
@@ -49,10 +49,10 @@ b. The powers and duties of the business integrity commission shall be exercised
 
 
 Section 2102.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2102. Cooperation with other agencies.* ::
+*Section 2102. Cooperation with other agencies.*
 
 
 The business integrity commission shall provide such assistance to the mayor and other agencies as requested and shall establish liaison and information-sharing arrangements with other law enforcement, prosecutorial, investigative and regulatory agencies as it deems appropriate.

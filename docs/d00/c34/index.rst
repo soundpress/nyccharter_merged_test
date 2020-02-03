@@ -1,10 +1,10 @@
 Chapter 24-A: Department of Homeless Services
-===================================================
+======================================================================================================
 Section 610.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 610. Department; commissioner.* ::
+*Section 610. Department; commissioner.*
 
 
 There shall be a department of homeless services, the head of which shall be the commissioner of homeless services.
@@ -13,10 +13,10 @@ There shall be a department of homeless services, the head of which shall be the
 
 
 Section 611.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 611. Deputies.* ::
+*Section 611. Deputies.*
 
 
 The commissioner shall appoint at least one deputy.
@@ -25,10 +25,10 @@ The commissioner shall appoint at least one deputy.
 
 
 Section 612.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 612. Powers and duties.* ::
+*Section 612. Powers and duties.*
 
 
 a. The commissioner shall have the powers and perform the duties of a commissioner of social services under the social services law for the purpose of fulfilling his or her responsibilities under this chapter. In the performance of his or her functions, the commissioner shall:
@@ -59,10 +59,10 @@ b. In addition to the duties set forth in subdivision a of this section, the com
 
 
 Section 613.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 613. Transitional housing inventory.* ::
+*Section 613. Transitional housing inventory.*
 
 
 Beginning on May 1, 1999 and on May first of each succeeding year thereafter, the commissioner shall report to the speaker of the council in writing on the transitional housing maintained by the department and such transitional housing operated by any entity pursuant to a contract with the department. Such report shall include, but not be limited to, the percentage and types of transitional housing disaggregated by the borough in which they are located.
@@ -71,10 +71,10 @@ Beginning on May 1, 1999 and on May first of each succeeding year thereafter, th
 
 
 Section 614.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 614. Permanent housing needs, annual report.* ::
+*Section 614. Permanent housing needs, annual report.*
 
 
 Beginning on May 1, 1999 and on May first of each succeeding year thereafter, the commissioner shall report to the speaker of the council in writing on the permanent housing and the transitional housing and services, respectively, projected to be needed to house homeless families and individuals expected to be housed within the system during the fiscal year to begin on each July first thereafter. Such annual report shall include, but not be limited to, the sources, including, but not being limited to, the department of housing preservation and development and the New York city housing authority, from which the commissioner of homeless services projects to meet the permanent housing identified in such report as needed during such fiscal year and the number of permanent housing to be provided by each source.

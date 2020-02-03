@@ -1,12 +1,12 @@
 Title 63: Landmarks Preservation Commission
-===================================================
+======================================================================================================
 
 Chapter 1: Practice and Procedure--Public Hearings and Meetings of the Commission
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Quorum.* ::
+*§ 1-01 Quorum.*
 
 
 A quorum of the Landmarks Preservation Commission shall consist of six Commissioners. Public hearings and public meetings may be conducted without a quorum.
@@ -16,7 +16,7 @@ A quorum of the Landmarks Preservation Commission shall consist of six Commissio
 
 
 
-*§ 1-02 Calendaring.* ::
+*§ 1-02 Calendaring.*
 
 
 The Landmarks Preservation Commission may, upon the adoption of a motion, calendar an item to be considered for landmark designation. A motion to calendar must be approved by the majority of the Commissioners present in order to be adopted. The date of the public hearing on the proposed designation may be set by the motion to calendar or it may be set at some later time by the Chairman, acting at his or her discretion.
@@ -26,7 +26,7 @@ The Landmarks Preservation Commission may, upon the adoption of a motion, calend
 
 
 
-*§ 1-03 Withdrawing and Laying Over Certificate of Appropriateness Items.* ::
+*§ 1-03 Withdrawing and Laying Over Certificate of Appropriateness Items.*
 
 
 Once an application has been included on a Certificate of Appropriateness public hearing calendar, it may be withdrawn or laid-over as follows:
@@ -48,7 +48,7 @@ Once an application has been included on a Certificate of Appropriateness public
 
 
 
-*§ 1-04 Final Actions.* ::
+*§ 1-04 Final Actions.*
 
 
 No final determination or action will be made or taken except by concurring vote of at least six Commissioners.
@@ -58,7 +58,7 @@ No final determination or action will be made or taken except by concurring vote
 
 
 
-*§ 1-05 Submissions to the Record.* ::
+*§ 1-05 Submissions to the Record.*
 
 
 The Commission may, upon the adoption of a motion, close the hearing and leave the Record open on a particular item until a stated date to allow for the submission of additional written information. Submissions received after the stated date will be included in the Record provided they are received prior to the Commission's determination or action on the item. The Commission will neither make a final determination nor take any final action on an item while the Record is open on that item.
@@ -67,7 +67,7 @@ The Commission may, upon the adoption of a motion, close the hearing and leave t
 
 
 Chapter 2: Approval of Proposed Work on Designated Buildings and Structures
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -76,7 +76,7 @@ Chapter 2: Approval of Proposed Work on Designated Buildings and Structures
 
 
 
-*§ 2-01 Application Signatures Necessary for Work Permits.* ::
+*§ 2-01 Application Signatures Necessary for Work Permits.*
 
 
 All application forms to perform any work on a designated landmark or on a property in a designated historic district must be signed by the owner of the property. An application for work on or in a cooperative building must be signed by the President or other appropriate officer of the Co-op Board. The signature of the managing agent of the cooperative building is not sufficient. An application for work on or in the areas and portions of a condominium building in common ownership must be signed by the President or other appropriate officer of the Condominium Association. An application for work on or in an individual condominium unit must be signed by the owner of that unit.
@@ -86,7 +86,7 @@ All application forms to perform any work on a designated landmark or on a prope
 
 
 
-*§ 2-02 Master Plans and Authorizations to Proceed.* ::
+*§ 2-02 Master Plans and Authorizations to Proceed.*
 
 
 An owner of a designated property may apply for approval of a master plan when the proposal involves repetitive alteration of architectural features (such as windows, through-wall air conditioning installations, storefronts, etc.) and when those alterations are not planned to occur all at once, but rather in increments through time. A master plan can be approved by a Certificate of Appropriateness or by a Permit for Minor Work depending on the work which it covers. In both cases the master plan sets a standard for future changes involving the architectural features in question and specifically identifies drawings and other documents which contain the approved design in detail. Once a master plan is approved and the owner wishes to move forward with a portion of the work covered by the master plan, a completed application form is filed with the Commission describing the scope of work (for example: 8 front windows on the 12th floor) and stating that the work will conform to the approved master plan drawings and other documents on file with the Landmarks Preservation Commission. The staff of the Preservation Department will review the application to ascertain that all proposed work is covered by a master plan, and will send the owner an "Authorization to Proceed" letter allowing the work to proceed. The Authorization to Proceed is sent prior to the commencement of the work and is contingent on adherence to the approved master plan drawings.
@@ -96,7 +96,7 @@ An owner of a designated property may apply for approval of a master plan when t
 
 
 
-*§ 2-03 Process for Completing Application: Staff Withdrawal of the Application.* ::
+*§ 2-03 Process for Completing Application: Staff Withdrawal of the Application.*
 
 
 (a)  All applications for work on designated properties received by the Landmarks Preservation Commission are assigned to a professional staff member in the Preservation Department who will handle the project. The staff person will review the proposal to ascertain whether the materials submitted are sufficient for a determination to be made. If the materials are sufficient, staff will certify the application as complete and issue the appropriate permit or take other action. If the completed application requires a Certificate of Appropriateness, staff will arrange for the item to be included in the next scheduled Certificate of Appropriateness public hearing calendar. If the application requires further clarification and/or additional documentary materials, staff will contact the owner and/or applicant by telephone to discuss the proposal and, if necessary, arrange a meeting or site visit. Staff will follow the conversation up by providing a materials checklist calling out those supplementary materials required to certify the application as complete. If contact has been limited to a telephone conversation, the checklist will be mailed to the applicant. If a meeting is set up, the checklist may be supplied during the course of the meeting. As soon as all the materials requested have been received, staff will certify the application as complete and process the application. However, if the required materials have not been received 60 working days from the date on the materials checklist, staff will send a follow-up letter to the applicant reminding him/her that the application is still incomplete and informing him/her that unless the materials required are received within the next 30 working days the application will be deemed withdrawn. A copy of the most recent materials checklist will be included with the letter. If the applicant does not submit sufficient material within 90 days of the date on the materials checklist, staff should withdraw the application by sending a staff withdrawal letter including the docket number of the application and a "Withdrawn at Staff Level" number generated by "Permit Application Training System". The application will then be closed. The staff withdrawal letter will be sent to the owner and applicant with copies forwarded to the file, supervisor, and the Director of Preservation. Along with the withdrawal letter a blank "Application for Work on Designated Properties" will be included for the use of the applicant should he or she wish to re-apply.
@@ -108,7 +108,7 @@ An owner of a designated property may apply for approval of a master plan when t
 
 
 
-*§ 2-04 Summonses – New Applications.* ::
+*§ 2-04 Summonses – New Applications.*
 
 
 The Landmarks Preservation Commission will not process an application for work on a designated property when a Landmarks Preservation Commission Summons is in effect against that property. A Summons in effect against that property indicates non-compliance with the Landmarks Law. With respect to Chapter 63* of the Rules of the City of New York and §§ 25-301 through 25-322 of the Administrative Code, the term "Summons" will be construed to include and apply to any previously issued "Notice of Violation."
@@ -138,7 +138,7 @@ The Landmarks Preservation Commission will not process an application for work o
 
 
 
-*§ 2-05 Temporary Installations.* ::
+*§ 2-05 Temporary Installations.*
 
 
 LPC Staff is authorized to approve and issue a Certificate of No Effect (CNE) or Permit for Minor Work (PMW) for proposals calling for the temporary installation of signs, banners or other temporary installations such as various forms of artwork or kiosks, if the following criteria are met:
@@ -167,7 +167,7 @@ LPC Staff is authorized to approve and issue a Certificate of No Effect (CNE) or
 
 
 
-*§ 2-11 Repair, Restoration, Replacement and Re-creation of Building Facades and Related Exterior Elements.* ::
+*§ 2-11 Repair, Restoration, Replacement and Re-creation of Building Facades and Related Exterior Elements.*
 
 
 (a) Introduction. This section authorizes LPC Staff to approve applications for work to repair, restore and re-create building facades and related exterior elements in order to maintain, restore, replace, re-create and, in certain instances, recall original or historic exterior architectural elements. LPC Staff reviews these applications with the presumption that historic materials should be maintained, repaired and replaced in-kind whenever possible. This approach results in the most authentic and sympathetic interventions and preserves the design, materiality and engineering of the historic building or improvement and its features. Furthermore, the use of historic materials and methods typically ensures compatibility with surrounding materials in terms of expansion and contraction, permeability and absorption, and structural capacity, among other things. Most historic material are proven to be long-lasting and durable when properly maintained, and will age and perform in a predicable way in support of the long-term economic viability of their continued use. Notwithstanding the preference for original and historic materials, LPC Staff may consider alternative repair methods and substitute materials in certain situations as set forth in this subdivision, while in other situations use of substitute materials is prohibited.
@@ -379,7 +379,7 @@ For purposes of this section, the term "primary facade" means: (1) a facade fron
 
 
 
-*§ 2-12 Storefronts, Awnings and Canopies.* ::
+*§ 2-12 Storefronts, Awnings and Canopies.*
 
 
 (a) Definitions. As used in this section, the following terms have the following meanings:
@@ -679,7 +679,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
 
 
-*§ 2-13 Signage.* ::
+*§ 2-13 Signage.*
 
 
 (a) Introduction. Signage was a typical feature of historic buildings that contained commercial or manufacturing uses. Such signage included signs painted or affixed above storefronts in signbands, signs within display windows, bracket signs, and signs hanging from underneath canopies. This rule sets forth the requirements for LPC Staff approval of some types of storefront signage and associated lighting for such signage. All proposals for signage not seeking a discretionary approval from another City agency must comply with the Zoning Resolution in terms of size, placement, projection and illumination.
@@ -847,7 +847,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
 
 
-*§ 2-14 Windows and Doors.* ::
+*§ 2-14 Windows and Doors.*
 
 
 (a) Introduction. These rules apply to proposals for work involving the installation of windows and doors at buildings that are Individual Landmarks or are within a historic district or scenic landmark in existing window and door openings. The rules are categorized according to types of facades (e.g., primary facades; visible secondary facades; and minimally visible and non-visible facades) and building types (e.g., small residential and commercial buildings; large residential and commercial buildings). In addition, these rules govern the creation of modified window openings and new window and door openings, and the installation of windows and doors in such openings. Finally, the rules cover window and door "add-ons", such as storm windows and doors, screens and applied films.
@@ -1211,7 +1211,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
 
 
-*§ 2-15 Additions: Rooftop and Rear Yard Additions or Enlargements.* ::
+*§ 2-15 Additions: Rooftop and Rear Yard Additions or Enlargements.*
 
 
 (a) Applicability.
@@ -1333,7 +1333,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
 
 
-*§ 2-16 Excavation.* ::
+*§ 2-16 Excavation.*
 
 
 (a) Introduction. Excavation on landmark sites or within historic districts must comply with all requirements of the Department of Buildings. The purpose of this section is to ensure that applicants demonstrate they have an understanding of the physical and structural conditions of the building and, where relevant, adjacent buildings, and to protect these buildings.
@@ -1377,7 +1377,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
 
 
-*§ 2-17 Front, Side and Rear Yards.* ::
+*§ 2-17 Front, Side and Rear Yards.*
 
 
 (a) Alterations to Front Areaways of Rowhouses, Townhouses, Flats, Tenements and Other Attached Buildings.
@@ -1579,7 +1579,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
 
 
-*§ 2-18 Barrier-Free Access.* ::
+*§ 2-18 Barrier-Free Access.*
 
 
 (a) Introduction.
@@ -1755,7 +1755,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
 
 
-*§ 2-19 Sidewalks.* ::
+*§ 2-19 Sidewalks.*
 
 
 (a) General Requirements.
@@ -1867,7 +1867,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
 
 
-*§ 2-20 Health, Safety and Utility Equipment.* ::
+*§ 2-20 Health, Safety and Utility Equipment.*
 
 
 (a) Introduction. Buildings may be required to have a variety of equipment related to particular health, safety and utility maintenance. These types of installations can be mandated by the Fire and Building Codes (e.g., fire alarm bells and Siamese connections) or by utilities (e.g., gas and electricity meters). Other equipment is not required by law but is commonly used for safety reasons (e.g., window security bars, security cameras, lighting and intercom panels). Given the relatively small and/or discrete nature of these types of installations, their physical requirements and constraints, and their ubiquitous presence throughout the city, these types of equipment can be installed without having a significant effect on architectural features or detracting from such features or the building or, in the case of buildings in historic districts, from adjacent buildings or the streetscape.
@@ -1945,7 +1945,7 @@ Terms not otherwise defined in these rules have the meanings given them in the L
 
 
 
-*§ 2-21 Installation of Heating, Ventilation, Air Conditioning and other Mechanical Equipment.* ::
+*§ 2-21 Installation of Heating, Ventilation, Air Conditioning and other Mechanical Equipment.*
 
 
 (a) Introduction. These rules set forth criteria for LPC Staff approval of heating, ventilation and air conditioning ("HVAC") or other mechanical equipment in buildings which are designated landmarks or are within designated historic districts or scenic landmarks. These rules are based on the following principles:
@@ -2195,7 +2195,7 @@ Terms not otherwise defined in these rules have the meanings ascribed to them in
 
 
 
-*§ 2-22 Fire Escapes.* ::
+*§ 2-22 Fire Escapes.*
 
 
 (a) Removal of an Existing Fire Escape. LPC Staff will approve the removal of an existing fire escape if the proposal satisfies the following relevant criteria:
@@ -2263,7 +2263,7 @@ Terms not otherwise defined in these rules have the meanings ascribed to them in
 
 
 
-*§ 2-23 Rules Relating to Installation of Public Pay Telephones and Public Communications Structures.* ::
+*§ 2-23 Rules Relating to Installation of Public Pay Telephones and Public Communications Structures.*
 
 
 (a) Introduction. Public pay telephones have been part of the city's streetscape for half a century. First introduced in the 1950s pursuant to a franchise agreement with the city, legally permitted public pay telephones contribute to the urban experience as well as provide an important communication link for business, pleasure and public health and safety. Public pay telephones have traditionally had a quiet presence on the streetscape that allowed for their identification without calling undue attention to themselves. The provisions set forth below are intended to ensure that public pay telephones and public communications structures installed in areas under the jurisdiction of the Landmarks Preservation Commission are installed in a manner that does not damage or destroy historic fabric and that the design and placement of such phones and structures shall not call undue attention to themselves or detract from the significant architectural features of an improvement or a historic district or adversely affect a historic district's distinct sense of place.
@@ -2342,7 +2342,7 @@ Terms not otherwise defined in these rules have the meanings ascribed to them in
 
 
 
-*§ 2-31 Definitions.* ::
+*§ 2-31 Definitions.*
 
 
 As used in these Rules, the following terms have the following meanings:
@@ -2376,7 +2376,7 @@ Terms not otherwise defined in these rules have the meaning given them in the La
 
 
 
-*§ 2-32 Expedited Review Procedures.* ::
+*§ 2-32 Expedited Review Procedures.*
 
 
 (a) General. The expedited review procedures set forth in this section are available for certain interior work as detailed below. Expedited review is predicated upon the statements and representations of the architect or engineer and the owner and upon the satisfaction of certain terms and conditions, all as set forth in this section.
@@ -2448,7 +2448,7 @@ Terms not otherwise defined in these rules have the meaning given them in the La
 
 
 
-*§ 2-33 Effect of Failure to Meet Conditions for an Expedited Review.* ::
+*§ 2-33 Effect of Failure to Meet Conditions for an Expedited Review.*
 
 
 The Landmarks Preservation Commission shall notify any applicant who has requested an expedited review of his or her application under these rules of the reason for their failure to satisfy the conditions for expedited review.
@@ -2458,7 +2458,7 @@ The Landmarks Preservation Commission shall notify any applicant who has request
 
 
 
-*§ 2-34 Remedies for False Statements and Procedures for Action.* ::
+*§ 2-34 Remedies for False Statements and Procedures for Action.*
 
 
 (a) Grounds for action.
@@ -2508,7 +2508,7 @@ The Landmarks Preservation Commission shall notify any applicant who has request
 
 
 
-*§ 2-35 Miscellaneous. [Repealed]* ::
+*§ 2-35 Miscellaneous. [Repealed]*
 
 
 
@@ -2522,11 +2522,11 @@ The Landmarks Preservation Commission shall notify any applicant who has request
 **Appendix A: Resources for Historic Photographs &amp; Drawings**
 
 Chapter 3: Repair and Replacement of Windows In Landmark and Historic District Buildings (Window Guidelines) [Repealed]
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Introduction. [Repealed]* ::
+*§ 3-01 Introduction. [Repealed]*
 
 
 
@@ -2536,7 +2536,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-*§ 3-02 Repairs, Rehabilitation and Restoration. [Repealed]* ::
+*§ 3-02 Repairs, Rehabilitation and Restoration. [Repealed]*
 
 
 
@@ -2546,7 +2546,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-*§ 3-03 Storm Windows. [Repealed]* ::
+*§ 3-03 Storm Windows. [Repealed]*
 
 
 
@@ -2556,7 +2556,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-*§ 3-04 Replacement of Sash and Frames. [Repealed]* ::
+*§ 3-04 Replacement of Sash and Frames. [Repealed]*
 
 
 
@@ -2566,7 +2566,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-*§ 3-05 Master Plans. [Repealed]* ::
+*§ 3-05 Master Plans. [Repealed]*
 
 
 
@@ -2576,7 +2576,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-*§ 3-06 Application Procedure. [Repealed]* ::
+*§ 3-06 Application Procedure. [Repealed]*
 
 
 
@@ -2586,7 +2586,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-*§ 3-07 Pre-Qualified Open Market Manufactured Windows. [Repealed]* ::
+*§ 3-07 Pre-Qualified Open Market Manufactured Windows. [Repealed]*
 
 
 
@@ -2596,7 +2596,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-*Appendix A: Illustrations of Windows. [Repealed]* ::
+*Appendix A: Illustrations of Windows. [Repealed]*
 
 
 
@@ -2606,7 +2606,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-*Appendix B: Parts of a Double-Hung Window. [Repealed]* ::
+*Appendix B: Parts of a Double-Hung Window. [Repealed]*
 
 
 
@@ -2616,7 +2616,7 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 
-*Appendix C: Window Guidelines – Definitions. [Repealed]* ::
+*Appendix C: Window Guidelines – Definitions. [Repealed]*
 
 
 
@@ -2625,11 +2625,11 @@ Chapter 3: Repair and Replacement of Windows In Landmark and Historic District B
 
 
 Chapter 4: Designated Broadway Theaters
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Treatment of Designated Broadway Theater Interiors (Theater Interior Guidelines).* ::
+*§ 4-01 Treatment of Designated Broadway Theater Interiors (Theater Interior Guidelines).*
 
 
 (a) Preface. Work may be done on designated interior portions of theaters either without application to the Commission, or with a Certificate of No Effect on Protected Architectural Features (CNE) if the proposed work is in accordance with the following guidelines:
@@ -2671,7 +2671,7 @@ Note: The guidelines are keyed to underlined portions of the Description Section
 
 
 
-*§ 4-02 Treatment of Designated Broadway Theater Exteriors (Theater Exterior Guidelines).* ::
+*§ 4-02 Treatment of Designated Broadway Theater Exteriors (Theater Exterior Guidelines).*
 
 
 (a) Preface. Work may be done on designated exterior portions of theaters either without application to the Commission, or with a Certificate of No Effect on Protected Architectural Features (CNE) if the proposed work is in accordance with the following guidelines:
@@ -2728,11 +2728,11 @@ Note: The guidelines are keyed to underlined portions of the Description Section
 
 
 Chapter 5: Historic Preservation Grant Program
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 5-01 Introduction.* ::
+*§ 5-01 Introduction.*
 
 
 The Historic Preservation Grant Program provides grants to eligible nonprofit organizations and homeowners for the preservation of designated landmark properties through restoration, repair and rehabilitation work. All grants must meet the guidelines laid out for historic preservation activities under the federal Community Block Grant program regulations. 24 C.F.R. § 570.202(d).
@@ -2746,7 +2746,7 @@ Application forms and fact sheets for the Historic Preservation Grant Program ma
 
 
 
-*§ 5-02 General Eligibility Requirements.* ::
+*§ 5-02 General Eligibility Requirements.*
 
 
 In addition to any applicable federal regulations regarding the Community Block Grant Program, grant applicants must also meet the following criteria:
@@ -2784,7 +2784,7 @@ In addition to any applicable federal regulations regarding the Community Block 
 
 
 
-*§ 5-03 Selection Board and Criteria.* ::
+*§ 5-03 Selection Board and Criteria.*
 
 
 (a) Grant applications will be evaluated and funds will be awarded by a board composed of the director of the Historic Preservation Grant Program and other staff members of the Landmarks Preservation Commission as the Chair shall in his or her discretion appoint.
@@ -2808,7 +2808,7 @@ In addition to any applicable federal regulations regarding the Community Block 
 
 
 
-*§ 5-04 Application Materials.* ::
+*§ 5-04 Application Materials.*
 
 
 In addition to any other material required by LPC Staff, the following documents, as applicable, must be submitted in support of an application for a grant:
@@ -2873,11 +2873,11 @@ In addition to any other material required by LPC Staff, the following documents
 
 
 Chapter 6: Proposed Alterations and New Construction of Structures and Landscapes In the Riverdale Historic District
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 6-01 Introduction.* ::
+*§ 6-01 Introduction.*
 
 
 The purpose of these rules is to establish the Landmarks Preservation Commission's regulatory policy in the Riverdale Historic District. The Riverdale Historic District which was developed as an early railroad suburb is characterized as a distinct area of the city by its dramatic and verdant topography and its fine examples of nineteenth and early twentieth century dwellings and carriage houses. The houses and other buildings in the district are harmoniously sited within the landscape and are separated from each other by landscape Improvements. Landscaping in the Riverdale Historic District provides the picturesque setting which is a defining element of a romantic style suburb of the nineteenth century. Landscape Improvements such as trees, stone walls and hedges, used to define property lines, and additional plantings within the expansive gardens and alongside the houses, add to the special character of the Historic District. The district contains 34 buildings of varied type and age. The development of the Riverdale Historic District is important in understanding the district's historic character. Originally, the area was comprised of only seven estates which were served by a common carriage alley (Sycamore Avenue). All of the estates were developed in the 1850s. Several early estate houses remain, as well as stables and carriage houses (later converted for residential use). The configuration of these estates remained intact until 1935, when the original parcels began to be subdivided for development. Four new houses were built between 1935 and 1938. No new buildings were built thereafter until 1950. From 1950 to 1980 twelve new structures were constructed. These newer structures are stylistically diverse but are generally compatible with the older buildings in terms of their placement, height, materials and finish.
@@ -2887,7 +2887,7 @@ The purpose of these rules is to establish the Landmarks Preservation Commission
 
 
 
-*§ 6-02 Definitions.* ::
+*§ 6-02 Definitions.*
 
 
 As used in these Rules the following terms shall have the following meanings:
@@ -2935,7 +2935,7 @@ Special natural area district. "Special natural area district" shall refer to a 
 
 
 
-*§ 6-03 Statement of Regulatory Policy.* ::
+*§ 6-03 Statement of Regulatory Policy.*
 
 
 (a) In regulating modifications and additions to any existing improvement and construction of any new structures or any work affecting landscape improvements in the Riverdale Historic District, the Landmarks Preservation Commission seeks to preserve the Riverdale Historic District's important landscape qualities and special architectural and historic character.
@@ -2949,7 +2949,7 @@ Special natural area district. "Special natural area district" shall refer to a 
 
 
 
-*§ 6-04 Modifications of and Additions to Existing Buildings.* ::
+*§ 6-04 Modifications of and Additions to Existing Buildings.*
 
 
 (a) Applications for proposed work. An application shall be filed for any proposed modification or addition to any existing improvement or the construction of any new structure within the Riverdale Historic District for review by the Landmarks Preservation Commission and no work shall commence until the Landmarks Preservation Commission has issued a permit approving such work.
@@ -3001,7 +3001,7 @@ Special natural area district. "Special natural area district" shall refer to a 
 
 
 
-*§ 6-05 Regulation of Landscape Improvements.* ::
+*§ 6-05 Regulation of Landscape Improvements.*
 
 
 (a) Actions not Subject to Regulation.
@@ -3037,7 +3037,7 @@ Special natural area district. "Special natural area district" shall refer to a 
 
 
 
-*§ 6-06 Construction of New Structures.* ::
+*§ 6-06 Construction of New Structures.*
 
 
 Any application for a new structure shall be considered as a request for a certificate of appropriateness and shall be reviewed at a public hearing. In determining the appropriateness of any new structure the Landmarks Preservation Commission shall take into consideration such new structure's location, its proximity to and impact on any Pre-1940 building or any significant landscape improvement, its placement into the landscape and its compatibility with the visual and architectural character of the Riverdale Historic District. Additional considerations shall include the new structure's proximity to a public thoroughfare and the extent of its visibility from a public thoroughfare.
@@ -3046,11 +3046,11 @@ Any application for a new structure shall be considered as a request for a certi
 
 
 Chapter 7: Permit Duration, Renewal and Revocation
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 7-01 Definitions.* ::
+*§ 7-01 Definitions.*
 
 
 As used in this section, the following terms have the following meanings:
@@ -3080,7 +3080,7 @@ Permit. The term "permit" means an approval, other than a Notice to Proceed, iss
 
 
 
-*§ 7-02 Duration of Permits.* ::
+*§ 7-02 Duration of Permits.*
 
 
 (a) General.
@@ -3116,7 +3116,7 @@ Permit. The term "permit" means an approval, other than a Notice to Proceed, iss
 
 
 
-*§ 7-03 Renewal of Permits.* ::
+*§ 7-03 Renewal of Permits.*
 
 
 (a) Number of Renewals. An approval may be renewed twice, as set forth below: once by LPC Staff renewal and once by a Chair's renewal. An expired approval may be reinstated one time.
@@ -3192,7 +3192,7 @@ Permit. The term "permit" means an approval, other than a Notice to Proceed, iss
 
 
 
-*§ 7-04 Effect of Expiration of Permits.* ::
+*§ 7-04 Effect of Expiration of Permits.*
 
 
 (a) Upon expiration of any permit, such permit will terminate and be of no further effect, except if the permit is renewed or reinstated pursuant to 63 RCNY § 7-03 or otherwise complies with the provisions of 63 RCNY § 7-02(a)(3). Work done after an approval has expired, except for reasonable and necessary work undertaken to stabilize and secure the site pending application for and issuance of a renewed or reinstated approval subject to 63 RCNY § 7-03, or a new approval, will constitute a violation of the Landmarks Law and may be subject to enforcement proceedings. A renewed or reinstated permit will not be a defense against any enforcement proceedings related to work occurring after the expiration and before such renewal or reinstatement.
@@ -3206,7 +3206,7 @@ Permit. The term "permit" means an approval, other than a Notice to Proceed, iss
 
 
 
-*§ 7-05 Revocation of Approvals.* ::
+*§ 7-05 Revocation of Approvals.*
 
 
 (a) The Commission may revoke the approval of any certificate of no effect, certificate of appropriateness, permit for minor work, binding or advisory report, notice to proceed, or any amendments thereof, whenever:
@@ -3229,11 +3229,11 @@ Permit. The term "permit" means an approval, other than a Notice to Proceed, iss
 
 
 Chapter 8: Proposed Alterations and New Construction of Storefronts In the Jackson Heights Historic District
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 8-01 Introduction.* ::
+*§ 8-01 Introduction.*
 
 
 These Rules are issued to assist the public in applying to the Landmarks Preservation Commission (the "Commission") for approval for the restoration, rehabilitation, alteration, or replacement of storefronts and associated fixtures in existing buildings within the Jackson Heights Historic District. These Rules enunciate the Commission's policy with respect to such work, and allow the staff of the Commission ("LPC staff") to issue permits for work conforming to these Rules. These Rules will ensure that new storefronts will be consistent with the architectural features that establish the aesthetic, historical, and architectural value and significance of the Jackson Heights Historic District. The Jackson Heights Historic District represents one of the first areas in the city in which the commercial thoroughfares were designed to complement and integrate with the residential buildings through the use of the same architectural styles and features of adjoining residential buildings. The majority of buildings within the Jackson Heights Historic District were built between 1910 and the 1950s. The styles found in both the residential and commercial buildings of the Jackson Heights Historic District include the neo-Tudor (e.g., English Gables at 37-12 to 37-34 82nd Street), the neo-Romanesque (e.g., Ravenna Court at 80-01 to 80-29 37th Avenue), the neo-Georgian (e.g., Georgian Hall at 83-01 to 83-27 37th Avenue), and the Moderne (e.g., 78-01 to 78-15 37th Avenue).
@@ -3243,7 +3243,7 @@ These Rules are issued to assist the public in applying to the Landmarks Preserv
 
 
 
-*§ 8-02 Definitions.* ::
+*§ 8-02 Definitions.*
 
 
 As used in the Jackson Heights Historic District Storefront Rules, the following terms shall have the following meanings:
@@ -3329,7 +3329,7 @@ Transom. "Transom" shall mean a glazed area above a display window or door separ
 
 
 
-*§ 8-03 Routine Maintenance.* ::
+*§ 8-03 Routine Maintenance.*
 
 
 A permit is not required to undertake minor ordinary repairs and cleaning such as:
@@ -3347,7 +3347,7 @@ A permit is not required to undertake minor ordinary repairs and cleaning such a
 
 
 
-*§ 8-04 Storefront Alterations.* ::
+*§ 8-04 Storefront Alterations.*
 
 
 LPC staff will issue a CNE or a PMW (if the work does not require a permit from the Department of Buildings) for storefront alterations and replacement provided the work meets all of the following criteria:
@@ -3525,7 +3525,7 @@ LPC staff will issue a CNE or a PMW (if the work does not require a permit from 
 
 
 
-*§ 8-05 Procedure.* ::
+*§ 8-05 Procedure.*
 
 
 (a)  Submission of application. The rules for making an application are set forth in 63 RCNY Chapter 2, Subchapter A ("Application Procedure") of these Rules. The illustrations included in Appendix B provide hypothetical examples of the types of storefronts and storefront installations which are permitted under these rules.
@@ -3545,7 +3545,7 @@ LPC staff will issue a CNE or a PMW (if the work does not require a permit from 
 
 
 
-*Appendix A: Illustrations of Definitions of Architectural Element* ::
+*Appendix A: Illustrations of Definitions of Architectural Element*
 
 
 
@@ -3561,7 +3561,7 @@ LPC staff will issue a CNE or a PMW (if the work does not require a permit from 
 
 
 
-*Appendix B: Application Drawings* ::
+*Appendix B: Application Drawings*
 
 
 
@@ -3589,11 +3589,11 @@ EXAMPLE THREE – BUILDING WITH MULTIPLE STOREFRONTS
 
 
 Chapter 9: Alterations To Designated Bank Interiors
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 9-01 Introduction.* ::
+*§ 9-01 Introduction.*
 
 
 (a)  These rules are issued to assist building owners in applying to the Landmarks Preservation Commission (LPC) for approval of applications to undertake repair, rehabilitation, replacement of, or alterations to interior architectural features within designated bank interiors. The rules set forth Commission policy with respect to such repair, rehabilitation, replacement, or alteration and explain the procedures required to apply for a permit. The goal of these rules is to facilitate and encourage the continued historic use of these interiors as banking floors and to facilitate the adaptive reuse of the interior if it ceases to be used as a banking floor.
@@ -3615,7 +3615,7 @@ Chapter 9: Alterations To Designated Bank Interiors
 
 
 
-*§ 9-02 Definitions.* ::
+*§ 9-02 Definitions.*
 
 
 As used in these Rules, the following terms shall have the following meanings:
@@ -3643,7 +3643,7 @@ State-of-the-art banking change. The term "state-of-the-art banking change" shal
 
 
 
-*§ 9-03 Eligible Interiors &amp; Significant Features.* ::
+*§ 9-03 Eligible Interiors &amp; Significant Features.*
 
 
 (a)  The following interior landmarks are subject to these rules:
@@ -3675,7 +3675,7 @@ State-of-the-art banking change. The term "state-of-the-art banking change" shal
 
 
 
-*§ 9-04 Changes to Non-significant Features.* ::
+*§ 9-04 Changes to Non-significant Features.*
 
 
 (a)  The LPC staff will issue a Certificate of No Effect on Protected Architectural Features (CNE) or a Permit for Minor Work (PMW) (if the work does not require a permit from the Department of Buildings) within five working days of receipt of a completed application for any proposed work to a non-significant feature if the following conditions are met:
@@ -3689,7 +3689,7 @@ State-of-the-art banking change. The term "state-of-the-art banking change" shal
 
 
 
-*§ 9-05 State-of-the-Art Banking Changes.* ::
+*§ 9-05 State-of-the-Art Banking Changes.*
 
 
 (a)  The LPC staff will issue a CNE or PMW within fifteen working days of receipt of a completed application for a state-of-the-art banking change, if all of the following conditions are met:
@@ -3707,7 +3707,7 @@ State-of-the-art banking change. The term "state-of-the-art banking change" shal
 
 
 
-*§ 9-06 Applications for Partial or Complete Removal of Teller Counters.* ::
+*§ 9-06 Applications for Partial or Complete Removal of Teller Counters.*
 
 
 (a)  Any C of A application that includes the partial or complete removal of the teller counter or the complete or partial removal of the teller counter and its associated fixtures may include a written statement setting forth the reasons why such removal is appropriate.
@@ -3719,7 +3719,7 @@ State-of-the-art banking change. The term "state-of-the-art banking change" shal
 
 
 
-*§ 9-07 Application Procedures.* ::
+*§ 9-07 Application Procedures.*
 
 
 (a)  Submission of Application. See 63 RCNY Chapter 2, Subchapter A ("Application Procedure") of these Rules.
@@ -3736,11 +3736,11 @@ State-of-the-art banking change. The term "state-of-the-art banking change" shal
 
 
 Chapter 10: Notification To Lessees of Landmarks Designation and Permit Requirements
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-01 Introduction.* ::
+*§ 10-01 Introduction.*
 
 
 These rules are issued to assist the owners and other persons in charge of improvements or property that is a landmark, interior landmark or located on a landmark site or in a historic district in complying with the nonresidential tenant notification requirements set forth in § 25-322 of the Administrative Code of the City of New York.
@@ -3750,7 +3750,7 @@ These rules are issued to assist the owners and other persons in charge of impro
 
 
 
-*§ 10-02 Notice to Tenant of Landmarks Designation.* ::
+*§ 10-02 Notice to Tenant of Landmarks Designation.*
 
 
 The language set forth below shall satisfy the notification requirements set forth in § 25-322 of the Landmarks Law. "The tenant [lessee] is hereby notified that the leased premises are subject to the jurisdiction of the Landmarks Preservation Commission. In accordance with §§ 25-305, 25-306, 25-309 and 25-310 of the Administrative Code of the City of New York and the rules set forth in Title 63 of the Rules of the City of New York, any demolition, construction, reconstruction, alteration or minor work as described in such sections and such rules may not be commenced within or at the leased premises without the prior written approval of the Landmarks Preservation Commission. Tenant is notified that such demolition, construction, reconstruction, alterations or minor work includes, but is not limited to, (a) work to the exterior of the leased premises involving windows, signs, awnings, flagpoles, banners and storefront alterations and (b) interior work to the leased premises that (i) requires a permit from the Department of Buildings or (ii) changes, destroys or affects an interior architectural feature of an interior landmark or an exterior architectural feature of an improvement that is a landmark or located on a landmark site or in a historic district."
@@ -3760,7 +3760,7 @@ The language set forth below shall satisfy the notification requirements set for
 
 
 
-*§ 10-03 Notification.* ::
+*§ 10-03 Notification.*
 
 
 (a)  Lease Notification: Any nonresidential lease or sublease (including any renewal thereof) executed after December 13, 1996 for property or an improvement that is a landmark, interior landmark or located on a landmark site or in a historic district shall include the notice set forth in 63 RCNY § 10-02 above. Such notification shall be highlighted in bold or underscored or otherwise highlighted so that it is conspicuously set forth.
@@ -3771,11 +3771,11 @@ The language set forth below shall satisfy the notification requirements set for
 
 
 Chapter 11: Administrative Enforcement
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 11-01 Definitions.* ::
+*§ 11-01 Definitions.*
 
 
 The following definitions shall apply to this chapter:
@@ -3809,7 +3809,7 @@ The following definitions shall apply to this chapter:
 
 
 
-*§ 11-02 Enforcement of Summonses.* ::
+*§ 11-02 Enforcement of Summonses.*
 
 
 All Summonses or previously issued Notices of Violation will be heard at the Office of Administrative Trials and Hearings-Hearing Division ("OATH") or its successor. For purposes of this subchapter, OATH is authorized to issue final, binding decisions.
@@ -3821,7 +3821,7 @@ All Summonses or previously issued Notices of Violation will be heard at the Off
 
 
 
-*§ 11-03 Service of Summons.* ::
+*§ 11-03 Service of Summons.*
 
 
 In addition to the service requirements of the court or tribunal at which a Summons is to be heard, a Summons may be served by mailing such Summons to a respondent.
@@ -3833,7 +3833,7 @@ In addition to the service requirements of the court or tribunal at which a Summ
 
 
 
-*§ 11-04 Warning Letter.* ::
+*§ 11-04 Warning Letter.*
 
 
 Subject to the exceptions set forth in § 25-317.1(b)(1) of the Administrative Code, the LPC shall mail a warning letter to a respondent prior to the issuance of a Summons. The warning letter shall inform the respondent that the LPC believes a violation of the Landmarks Law has occurred at the subject premises and shall also: (1) describe the violation in general detail; (2) warn the respondent that the law authorizes civil and criminal penalties for violations; (3) notify the respondent that a Summons may be served unless, within 20 working days of the date of the warning letter, the violation is corrected or an application to legalize or cure the violation is received by the Commission.
@@ -3845,7 +3845,7 @@ Subject to the exceptions set forth in § 25-317.1(b)(1) of the Administrative C
 
 
 
-*§ 11-05 Summons; Grace Period.* ::
+*§ 11-05 Summons; Grace Period.*
 
 
 (a) A respondent will qualify for the grace period set forth in § 25-317.1(b)(6) of the Administrative Code, and not be subject to a fine, by delivering, at least fourteen (14) days prior to the hearing date set forth in the Summons or previously issued Notice of Violation, the following to the Commission:
@@ -3867,7 +3867,7 @@ Subject to the exceptions set forth in § 25-317.1(b)(1) of the Administrative C
 
 
 
-*§ 11-06 Stop Work Order.* ::
+*§ 11-06 Stop Work Order.*
 
 
 Service. A stop work order may be served: (1) by mailing the stop work order to the respondent; (2) by affixing the stop work order to the place where the violation is occurring; or (3) orally. Where the stop work order is affixed or given orally, the Commission must within two (2) business days thereof mail a copy of the stop work order to the respondent.
@@ -3879,7 +3879,7 @@ Service. A stop work order may be served: (1) by mailing the stop work order to 
 
 
 
-*Appendix A: Penalty Schedule* ::
+*Appendix A: Penalty Schedule*
 
 
 “C of A” means “Certificate of Appropriateness”; “CNE” means “Certificate of No Effect”; “PMW” means “Permit for Minor Work”
@@ -3890,11 +3890,11 @@ Service. A stop work order may be served: (1) by mailing the stop work order to 
 
 
 Chapter 12: Historic District Master Plans
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 12-01 District Master Plans and Authorizations to Proceed.* ::
+*§ 12-01 District Master Plans and Authorizations to Proceed.*
 
 
 (a)  Introduction. The Commission may develop master plans for the historic district, specific types of buildings within a historic district, distinctive areas within the historic district or for landmark sites containing multiple buildings. A district master plan may address common design issues such as storefront design, signage, sidewalk and areaway alterations as well as set forth specific alterations for individual buildings in an historic district or on a landmark site in a comprehensive manner that respects the significant architectural features and particular history of the historic district with allowances for specific building conditions. A district master plan may serve as a research tool or design guide for owners or tenants who wish to make alterations to their buildings. Upon the adoption of implementation rules as set forth in this rule, Commission staff can also issue authorizations to proceed for certain types of alterations or work set forth in the district master plan. A District Master Plan does not preclude the Commission's consideration and approval of applications for proposed work that is not in compliance with the District Master Plan.
@@ -3916,7 +3916,7 @@ Chapter 12: Historic District Master Plans
 
 
 
-*§ 12-02 Stone Street Historic District Master Plan Implementation Rules.* ::
+*§ 12-02 Stone Street Historic District Master Plan Implementation Rules.*
 
 
 (a)  Introduction. The Stone Street Historic District is a low-scale cluster of early nineteenth-century commercial structures, complemented by several picturesque early twentieth-century buildings designed by prominent architects. The Stone Street Historic District is a distinct enclave amidst the surrounding twentieth-century skyscrapers and is sited on narrow winding streets originally laid out by Dutch Colonists. The Stone Street Historic District Master Plan Implementation Rules ("Rules") are promulgated to assist building owners who own buildings located within the Stone Street Historic District in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake repair, rehabilitation, replacement, or alterations to storefronts (including but not limited to storefront infill, lighting, signage, security gates) and cellar entrances, and to make such buildings accessible to persons with disabilities, that are in accordance with the Stone Street Master Plan approved by the Commission. The Stone Street Master Plan is a master plan governing work to storefronts and cellar entrances, as well as alterations to make buildings within the historic district accessible to persons with disabilities. The Stone Street Master Plan will be the subject of a Certificate of Appropriateness determination at the same public hearing as these Rules. The Rules set forth herein will permit the LPC staff to issue Authorization to Proceed letters ("ATP") for work that complies with the approved Stone Street Master Plan. The goal of these Rules is to encourage appropriate repair, rehabilitation, replacement and alterations in the Stone Street Historic District by expediting the process of obtaining permits to perform such work. Work that is not in accordance with the Stone Street Master Plan will be reviewed by the Commission in accordance with its usual review procedures as set forth in the Landmarks Law.
@@ -3960,7 +3960,7 @@ Chapter 12: Historic District Master Plans
 
 
 
-*§ 12-03 Implementation Rules for the District Master Plan for Storefronts on Madison Avenue in the Upper East Side Historic District.* ::
+*§ 12-03 Implementation Rules for the District Master Plan for Storefronts on Madison Avenue in the Upper East Side Historic District.*
 
 
 (a)  Introduction. The implementation rules ("Rules") for the District Master Plan for Storefronts on Madison Avenue in the Upper East Side Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake repair, rehabilitation, replacement, or alterations to storefronts (including but not limited to storefront infill, lighting, signage, security gates, windows and doors) along Madison Avenue within the Upper East Side Historic District that are in accordance with the District Master Plan approved by the Commission. The rules set forth herein permit the LPC staff to issue Authorizations to Proceed letters ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The objective of the District Master Plan is to provide owners, architects and store tenants with design criteria which will allow timely review of storefront alterations while protecting the architecturally and historically significant features of the buildings. The District Master Plan will cover buildings on Madison Avenue that fall within the Upper East Side Historic District. Additionally, at corner buildings the District Master Plan will cover the building facades facing both Madison Avenue and the side streets.
@@ -4006,7 +4006,7 @@ Chapter 12: Historic District Master Plans
 
 
 
-*§ 12-04 Implementation Rules for the District Master Plan for Storefronts on Madison Avenue in the Metropolitan Museum Historic District.* ::
+*§ 12-04 Implementation Rules for the District Master Plan for Storefronts on Madison Avenue in the Metropolitan Museum Historic District.*
 
 
 (a)  Introduction. The implementation rules ("Rules") for the District Master Plan for Storefronts on Madison Avenue in the Metropolitan Museum Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake repair, rehabilitation, replacement, or alterations to storefronts (including but not limited to storefront infill, lighting, signage, security gates, windows and doors) along Madison Avenue within the Metropolitan Museum Historic District that are in accordance with the District Master Plan approved by the Commission. The rules set forth herein permit the LPC staff to issue Authorizations to Proceed letters ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The objective of the District Master Plan is to provide owners, architects and store tenants with design criteria which will allow timely review of storefront alterations while protecting the architecturally and historically significant features of the buildings. The District Master Plan will cover buildings on Madison Avenue that fall within the Metropolitan Museum Historic District. Additionally, at corner buildings the District Master Plan will cover the building facades facing both Madison Avenue and the side streets.
@@ -4052,7 +4052,7 @@ Chapter 12: Historic District Master Plans
 
 
 
-*§ 12-05 Implementation Rules for the District Master Plan for Storefronts on Madison Avenue in the Carnegie Hill (and Extension) Historic District.* ::
+*§ 12-05 Implementation Rules for the District Master Plan for Storefronts on Madison Avenue in the Carnegie Hill (and Extension) Historic District.*
 
 
 (a)  Introduction. The implementation rules ("Rules") for the District Master Plan for Storefronts on Madison Avenue in the Carnegie Hill (and Extension) Historic District ("District Master Plan") are promulgated to passist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake repair, rehabilitation, replacement, or alterations to storefronts (including but not limited to storefront infill, lighting, signage, security gates, windows and doors) along Madison Avenue within the Carnegie Hill (and Extension) Historic District that are in accordance with the District Master Plan approved by the Commission. The rules set forth herein permit the LPC staff to issue Authorizations to Proceed letters ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The objective of the District Master Plan is to provide owners, architects and store tenants with design criteria which will allow timely review of storefront alterations while protecting the architecturally and historically significant features of the buildings. The District Master Plan will cover buildings on Madison Avenue that fall within the Carnegie Hill (and Extension) Historic District. Additionally, at corner buildings the District Master Plan will cover the building facades facing both Madison Avenue and the side streets.
@@ -4098,7 +4098,7 @@ Chapter 12: Historic District Master Plans
 
 
 
-*§ 12-06 Implementation Rules for the District Master Plan for the Douglaston Historic District.* ::
+*§ 12-06 Implementation Rules for the District Master Plan for the Douglaston Historic District.*
 
 
 (a)  Introduction. The implementation rules ("Rules") for The District Master Plan for the Douglaston Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake various types of work on properties located within the Douglaston Historic District, including additions, outbuildings, window replacement, heating, venting and air conditioning, and work on or affecting significant landscape improvements. The rules set forth herein permit the LPC staff to issue Authorizations to Proceed ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The objective of the District Master Plan is to provide owners, architects and store tenants with design criteria which will allow timely review of proposed alterations while protecting the architecturally and historically significant features of the buildings and historic district's sense of place. The District Master Plan will cover all buildings in the Douglaston Historic District.
@@ -4146,7 +4146,7 @@ Chapter 12: Historic District Master Plans
 
 
 
-*§ 12-07 Implementation Rules for the District Master Plan for the Fieldston Historic District.* ::
+*§ 12-07 Implementation Rules for the District Master Plan for the Fieldston Historic District.*
 
 
 (a) Introduction. The implementation rules ("Rules") for The District Master Plan for the Fieldston Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake various types of work on properties located within the Fieldston Historic District, including additions, outbuildings, window replacement, heating, venting and air conditioning, and work on or affecting significant landscape improvements. The Rules set forth herein permit the LPC staff to issue Authorizations to Proceed ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The provisions of the District Master Plan will take precedence over other rules that are not specifically tailored to the Fieldston Historic District.
@@ -4199,11 +4199,11 @@ Terms not otherwise defined in these rules or the District Master Plan shall hav
 
 
 Chapter 13: Fees
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 13-01 Requirement of Fee.* ::
+*§ 13-01 Requirement of Fee.*
 
 
 All applicants for a certificate of appropriateness or a certificate of no effect shall pay a fee, as established in accordance with the provisions of this Chapter, except that no fees shall be payable by an owner of the designated building or property affected if the owner is a corporation or association organized and operated exclusively for religious, charitable or educational purposes, or for one or more such purposes, no part of the earnings of which enures to the benefit of any private shareholder or individual, and provided that the property affected is used exclusively by such corporation or association for one or more of such purposes.
@@ -4213,7 +4213,7 @@ All applicants for a certificate of appropriateness or a certificate of no effec
 
 
 
-*§ 13-02 Fee for Approval and Consideration of Applications.* ::
+*§ 13-02 Fee for Approval and Consideration of Applications.*
 
 
 The fees required to be paid under this Chapter are for filing and processing of aplications for certificates of appropriateness and certificates of no effect. The total fee for such work shall be paid by or on behalf of the owner or lessee of the designated building or property before the Department of Buildings issues a work permit or other approval for such work approved in the certificate of appropriateness or certificate of no effect. The fees required to be paid under this Chapter shall be payable each time the owner or lessee of the designated building or property shall apply for a permit or approval from the Department of Buildings for work approved in a certificate of appropriateness or certificate of no effect.
@@ -4223,7 +4223,7 @@ The fees required to be paid under this Chapter are for filing and processing of
 
 
 
-*§ 13-03 Definitions.* ::
+*§ 13-03 Definitions.*
 
 
 "Administrative Code" shall mean the Administrative Code of the City of New York.
@@ -4235,7 +4235,7 @@ The fees required to be paid under this Chapter are for filing and processing of
 
 
 
-*§ 13-04 Computation of Fees.* ::
+*§ 13-04 Computation of Fees.*
 
 
 Fees shall be computed as hereinafter provided:
@@ -4263,7 +4263,7 @@ Fees shall be computed as hereinafter provided:
 
 
 
-*§ 13-05 Effective Date.* ::
+*§ 13-05 Effective Date.*
 
 
 The fees required pursuant to this Chapter shall apply to certificates of appropriateness and certificates of no effect issued on or after July 1, 2004.

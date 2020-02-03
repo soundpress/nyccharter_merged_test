@@ -1,10 +1,10 @@
 Chapter 14: Franchises, Revocable Consents and Concessions
-===================================================
+======================================================================================================
 Section 362.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 362. Definitions.* ::
+*Section 362. Definitions.*
 
 
 For the purposes of this charter:
@@ -21,10 +21,10 @@ For the purposes of this charter:
 
 
 Section 363.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 363. Franchises.* ::
+*Section 363. Franchises.*
 
 
 a. Franchises shall be awarded only in accordance with the provisions of an authorizing resolution adopted by the council pursuant to the provisions of this section.
@@ -59,10 +59,10 @@ h. All franchises shall be consistent with the following requirements:
 
 
 Section 364.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 364. Revocable consents.* ::
+*Section 364. Revocable consents.*
 
 
 a. A revocable consent shall not be granted for a use that would interfere with the use of inalienable property of the city for public purposes, nor shall a revocable consent be granted for a purpose for which a franchise may be granted.
@@ -79,10 +79,10 @@ e. Notwithstanding any provision of this charter or the administrative code, rev
 
 
 Section 365.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 365. Terms of agreements; enforcement.* ::
+*Section 365. Terms of agreements; enforcement.*
 
 
 a. Every agreement memorializing the terms and conditions of a franchise, revocable consent or concession shall contain adequate provisions by way of forfeiture or otherwise (1) to secure efficiency of public service at reasonable rates, if a public service is to be provided, (2) to assure the maintenance of the property of the city in good condition throughout the term of the agreement, and (3) to provide for adequate compensation to the city.
@@ -95,10 +95,10 @@ c. The responsible agency shall also monitor the performance of the grantee and 
 
 
 Section 371.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 371. Public hearing on proposed agreement; publication of notice.* ::
+*Section 371. Public hearing on proposed agreement; publication of notice.*
 
 
 The franchise and concession review committee in the case of a franchise, or the responsible agency in the case of a revocable consent, shall hold a public hearing on the proposed agreement memorializing the terms and conditions of each proposed franchise or revocable consent before final approval of the proposed franchise or consent. Any such public hearing conducted by the franchise and concession review committee shall be held within thirty days of the filing with the committee by the responsible agency of a proposed agreement containing the terms and conditions of the proposed franchise. No hearing held by the franchise and concession review committee or by the responsible agency shall be held until after notice thereof and a summary of the terms and conditions of the proposed agreement shall have been published for at least fifteen days, except Sundays and legal holidays, immediately prior thereto in the City Record, nor until a notice of such hearing, indicating the place where copies of the proposed agreement may be obtained by all those interested therein, shall have been published at least twice at the expense of the proposed grantee in a daily newspaper designated by the mayor which is published in the city of New York and having a circulation in the borough or boroughs in which the affected property of the city is located and a weekly newspaper or newspapers designated by the mayor which are published in the city of New York and have a circulation in the community district or districts in which the affected property of the city is located. In the event a franchise or revocable consent relates to property of the city located in more than one borough, notice of hearing in a weekly newspaper shall not be required; however, in that event, notice of hearing in two daily newspapers, and mailing by the grantee, no later than fifteen days immediately prior to the date of the public hearing, of such notice to the borough presidents and community boards and council members in whose districts the affected property of the city is located, shall be required. In the case of a franchise for a bus route which crosses one or more borough boundaries, notice of hearing in a weekly newspaper shall not be required; however, in that event, notice of hearing in two daily newspapers, and mailing by the grantee, no later than fifteen days immediately prior to the date of the public hearing, of such notice to the borough presidents and community boards and council members in whose districts the bus route is located, and posting of such notice in the buses operating upon such route, shall be required.
@@ -107,10 +107,10 @@ The franchise and concession review committee in the case of a franchise, or the
 
 
 Section 372.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 372. Powers of the mayor.* ::
+*Section 372. Powers of the mayor.*
 
 
 a. The separate and additional approval of the mayor shall be necessary to the validity of every franchise agreement and revocable consent agreement.
@@ -121,10 +121,10 @@ b. Every such agreement shall before it takes effect be presented, duly certifie
 
 
 Section 373.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 373. Franchise and concession review committee.* ::
+*Section 373. Franchise and concession review committee.*
 
 
 a. A franchise and concession review committee is hereby established. The committee shall consist of the following officials or their designees: the mayor, who shall serve as chair; the director of the office of management and budget; the corporation counsel; the comptroller; and one additional appointee of the mayor. Whenever the committee reviews a proposed franchise or concession or the procedures for granting a particular concession, the borough president of the borough in which such franchise or concession is located or his or her designee shall also serve as a member of the committee. If such a franchise, concession or procedure relates to more than one borough, the borough presidents of such boroughs shall designate one of such borough presidents or another individual to serve as a member of the committee for the purpose of considering such matter.
@@ -147,10 +147,10 @@ d. The committee shall:
 
 
 Section 374.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 374. Concessions.* ::
+*Section 374. Concessions.*
 
 
 a. No city agency shall grant a concession without either complying with the procedures established by the franchise and concession review committee or obtaining the approval of the committee prior to granting the concession.
@@ -161,10 +161,10 @@ b. The city planning commission shall adopt rules that either list major concess
 
 
 Section 375.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 375. Registration with the comptroller.* ::
+*Section 375. Registration with the comptroller.*
 
 
 All agreements memorializing the terms of franchises, revocable consents or concessions shall be agreements subject to the applicable registration requirements and other provisions of section three hundred twenty-eight except that the terms "vendor" and "contractor" as used in section three hundred twenty-eight shall be deemed to apply to the holders of franchises, revocable consents and concessions.
@@ -173,10 +173,10 @@ All agreements memorializing the terms of franchises, revocable consents or conc
 
 
 Section 376.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 376. Central file.* ::
+*Section 376. Central file.*
 
 
 Copies of all franchise and revocable consent agreements shall be filed with the department of transportation. The department of transportation shall compile and keep up to date a listing of all current franchises and revocable consents which shall be available to the public and shall include the date, terms, names of the parties, description of the permitted use and location of each franchise and revocable consent. Such listing shall be arranged and indexed so as to enable a member of the public to determine what current franchises and revocable consents involving use or occupancy of streets and sidewalks have been granted for any location in the city and the identity of the holder of each such franchise or revocable consent.
@@ -185,10 +185,10 @@ Copies of all franchise and revocable consent agreements shall be filed with the
 
 
 Section 377.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 377. Bureau of Franchises.* ::
+*Section 377. Bureau of Franchises.*
 
 
 The bureau of franchises shall be discontinued as of the first day of July, nineteen hundred ninety. The records and staff of the bureau of franchises shall be transferred to the department of transportation, except that the records and staff of the bureau relating to telecommunications franchises shall be transferred to the department of telecommunications and the records relating to energy shall be transferred to such agency as the mayor shall designate.
@@ -197,10 +197,10 @@ The bureau of franchises shall be discontinued as of the first day of July, nine
 
 
 Section 378.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 378. Transition.* ::
+*Section 378. Transition.*
 
 
 a. All franchises, revocable consents and concessions granted prior to the effective date of this section shall remain in full force and effect for the terms which they were granted.

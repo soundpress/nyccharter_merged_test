@@ -1,10 +1,10 @@
 Chapter 57: Department of Environmental Protection
-===================================================
+======================================================================================================
 Section 1401.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1401. Department; commissioner.* ::
+*Section 1401. Department; commissioner.*
 
 
 There shall be a department of environmental protection, the head of which shall be the commissioner of environmental protection.
@@ -13,10 +13,10 @@ There shall be a department of environmental protection, the head of which shall
 
 
 Section 1402.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1402. Deputies.* ::
+*Section 1402. Deputies.*
 
 
 The commissioner may appoint three deputies.
@@ -25,10 +25,10 @@ The commissioner may appoint three deputies.
 
 
 Section 1403.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1403. Powers and duties of the commissioner.* ::
+*Section 1403. Powers and duties of the commissioner.*
 
 
 Except as otherwise provided by law, the commissioner shall have charge and control of and be responsible for all those functions and operations of the city relating to the provision of a pure, wholesome and adequate supply of water, the disposal of sewage and the prevention of air, water and noise pollution, and shall be authorized to respond to emergencies caused by releases or threatened releases of hazardous substances and to collect and manage information concerning the amount, location and nature of hazardous substances. The powers and duties of the commissioner shall include, without limitation, the following:
@@ -87,10 +87,10 @@ Except as otherwise provided by law, the commissioner shall have charge and cont
 
 
 Section 1404.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1404. Office of environmental remediation.* ::
+*Section 1404. Office of environmental remediation.*
 
 
 There shall be an office of environmental remediation within the department. The office shall be headed by the director of the office of environmental remediation in accordance with subdivision e of section fifteen of the New York city charter. The office shall exercise such powers and duties as the director shall determine, including, but not limited to, the power and duty to administer the E-Designation program, as defined in section 11-15 of the zoning resolution of the city of New York.

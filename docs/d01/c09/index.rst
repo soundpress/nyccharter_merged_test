@@ -1,12 +1,12 @@
 Title 10: Public Safety
-===================================================
+======================================================================================================
 
 Chapter 1: Public Safety
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-101 Communication of alarms.* ::
+*§ 10-101 Communication of alarms.*
 
 
 The owners and proprietors of all manufactories, hotels, tenement houses, apartment houses, office buildings, boarding and lodging-houses, warehouses, stores and offices, theatres and music halls, and the authorities or persons having charge of all hospitals and asylums, and of the public schools and other public buildings, churches and other places where large numbers of persons are congregated for purposes of worship, instruction or amusement, and all piers, bulkheads, wharves, pier sheds, bulkhead sheds or other waterfront structures, shall provide such means of communicating alarms of accident or danger to the police department, as the police commissioner may prescribe.
@@ -16,7 +16,7 @@ The owners and proprietors of all manufactories, hotels, tenement houses, apartm
 
 
 
-*§ 10-102 Permit for equipping automobiles with radio receiving sets capable of receiving signals on frequencies allocated for police use; fee.* ::
+*§ 10-102 Permit for equipping automobiles with radio receiving sets capable of receiving signals on frequencies allocated for police use; fee.*
 
 
 a. It shall be unlawful for any person to equip an automobile with a radio receiving set capable of receiving signals on the frequencies allocated for police use, or use or possess an automobile so equipped, without a permit issued by the police commissioner, in his or her discretion, and in accordance with such regulations as the commissioner may prescribe. Such permit shall expire one year from the date of issuance thereof, unless sooner revoked by the commissioner, and shall not be transferred from the vehicle in which it was installed at the time the license was issued. The annual fee shall be twenty-five dollars for each automobile so equipped. A permit may be renewed upon the payment of a like sum and under like conditions.
@@ -30,7 +30,7 @@ c. Violations. Any person who shall violate any provision of this section, upon 
 
 
 
-*§ 10-103 Use of devices to decode coded police transmission via radio or television prohibited.* ::
+*§ 10-103 Use of devices to decode coded police transmission via radio or television prohibited.*
 
 
 a. It shall be unlawful in the city of New York for any person to unscramble or decode or possess or use any instrument or article capable of unscrambling or decoding, scrambled or coded police broadcasts by radio or television, unless such person is duly authorized to do so by permit issued by the police commissioner of the city of New York.
@@ -42,7 +42,7 @@ b. A person who violates this section is guilty of a misdemeanor.
 
 
 
-*§ 10-104 Suppression of gaming and other houses.* ::
+*§ 10-104 Suppression of gaming and other houses.*
 
 
 If any two or more householders shall report in writing, over their signatures, to the police commissioner or to a deputy police commissioner, that there are good grounds, stating the same, for believing any house, room or premises within the city to be kept or used as a common gambling-house, common gaming-room, or common gaming premises, for playing for wagers of money at any game of chance therein, or to be kept or used for lewd and obscene purposes or amusements, or the deposit or sale of lottery tickets or lottery policies, it shall be lawful for the police commissioner or either of the commissioner's deputies to authorize, in writing, any member or members of the force to enter the same who may forthwith arrest all persons there found offending against law, but none other; and seize all implements of gaming or lottery policies, and convey any person so arrested before a judge of the criminal court, and bring the articles so seized to the office of the property clerk. It shall be the duty of such police commissioner or deputy police commissioner to cause such arrested person to be rigorously prosecuted, and such articles seized to be destroyed, as the orders, rules and regulations of the commissioner shall direct.
@@ -52,7 +52,7 @@ If any two or more householders shall report in writing, over their signatures, 
 
 
 
-*§ 10-105 Duties re-elections.* ::
+*§ 10-105 Duties re-elections.*
 
 
 It shall be the duty of the police force, or any member thereof, to prevent any booth, or box, or structure for the distribution of tickets at any election from being erected or maintained within one hundred fifty feet of any polling place within the city, and summarily to remove any such booth, box or structure, or to close and prevent the use thereof.
@@ -62,7 +62,7 @@ It shall be the duty of the police force, or any member thereof, to prevent any 
 
 
 
-*§ 10-106 Reporting and depositing lost money or property.* ::
+*§ 10-106 Reporting and depositing lost money or property.*
 
 
 a. Any person who finds any lost money or property of or exceeding the value of ten dollars shall report such finding to and deposit such money or property in a police station house within ten days after the finding thereof. Such money or property shall thereupon be transmitted to the property clerk who shall make entry of such deposit in his or her records. Such money or property as shall remain in the custody of the property clerk for a period of three months without a lawful claimant entitled thereto shall be turned over to the person who found and deposited the same. If the person who so found and deposited such money or property shall not appear and claim the same within thirty days after notice by registered mail of the expiration of said three months' period, such money or property shall, in the case of money, be paid into the general fund of the city established pursuant to section one hundred nine of the charter, and in the case of property be sold at public auction after having been advertised in "the City Record" for a period of ten days and the proceeds of such sale shall be paid into such fund.
@@ -74,7 +74,7 @@ b. Any person who shall violate, or refuse, or neglect to comply with any provis
 
 
 
-*§ 10-107 Yellow flashing lights on volunteer emergency vehicles.* ::
+*§ 10-107 Yellow flashing lights on volunteer emergency vehicles.*
 
 
 a. Definitions.
@@ -90,7 +90,7 @@ b. Regulation. A flashing yellow light which must be revolving, rotating, flashi
 
 
 
-*§ 10-108 Regulation of sound devices or apparatus.* ::
+*§ 10-108 Regulation of sound devices or apparatus.*
 
 
 a. Legislative declaration. It is hereby declared that the use or operation of any radio device or apparatus or any device or apparatus for the amplification of sounds from any radio, phonograph or other sound-making or sound-producing device, or any device or apparatus for the reproduction or amplification of the human voice or other sounds, in front of or outside of any building, place or premises, or in or through any window, doorway or opening of such building, place or premises, abutting or adjacent to a public street, park or place, or in or upon any vehicle operated, standing or being in or upon any public street, park or place, where the sounds therefrom may be heard upon any public street, park or place, or from any stand, platform or other structure, or from any airplane or other device used for flying, flying over the city, or on a boat or on the waters within the jurisdiction of the city, or anywhere on or in the public streets, parks or places, is detrimental to the health, welfare and safety of the inhabitants of the city, in that such use or operation diverts the attention of pedestrians and vehicle operators in the public streets, parks and places, thus increasing traffic hazards and causing injury to life and limb. It is hereby further declared that such use or operation disturbs the public peace and comfort and the peaceful enjoyment by the people of their rights to use the public streets, parks and places for street, park and other public purposes and disturbs the peace, quiet and comfort of the neighboring inhabitants. Therefore, it is hereby declared as a matter of legislative determination that the prohibition of such use or operation for commercial or business advertising purposes and the proper regulation of such use and operation for all other purposes is essential to protect the health, welfare and safety of the inhabitants of the city, to secure the health, safety, comfort, convenience, and peaceful enjoyment by the people of their rights to use the public streets, parks and places for street, park and other public purposes and to secure the peace, quiet and comfort of the city's inhabitants. It is hereby further declared as a matter of legislative determination that the expense of supervising and regulating the use and operation of such sound devices and apparatus for purposes other than commercial and business advertising purposes should be borne by the persons using or operating such devices and apparatus and that the requirement of a nominal fee for the issuance of a permit for such use and operation as hereinafter prescribed is intended to defray the expenses of regulating such use or operation for the health, welfare and safety of all the people.
@@ -144,7 +144,7 @@ l. The police department and the department of environmental protection shall ha
 
 
 
-*§ 10-110 Processions and parades.* ::
+*§ 10-110 Processions and parades.*
 
 
 a. Permits. A procession, parade, or race shall be permitted upon any street or in any public place only after a written permit therefor has been obtained from the police commissioner. Application for such permit shall be made in writing, upon a suitable form prescribed and furnished by the department, not less than thirty-six hours previous to the forming or marching of such procession, parade or race. The commissioner shall, after due investigation of such application, grant such permit subject to the following restrictions:
@@ -174,7 +174,7 @@ c. Violations. Every person participating in any procession, parade or race, for
 
 
 
-*§ 10-111 Unattended vehicles.* ::
+*§ 10-111 Unattended vehicles.*
 
 
 a. It shall be unlawful for any person driving or in charge of a motor vehicle to permit it to stand unattended on the streets or thoroughfares of the city, without first stopping the engine, locking the ignition and, where the ignition is locked or unlocked by a key or other device, removing such key or other device.
@@ -188,7 +188,7 @@ c. The provisions of this section shall not apply to any person driving or in ch
 
 
 
-*§ 10-112 Parking of trailers in vacant lots.* ::
+*§ 10-112 Parking of trailers in vacant lots.*
 
 
 It shall be unlawful to park any automobile trailer or house car for living or sleeping purposes in any vacant lot unless the owner or operator of such trailer or house car shall have obtained the written permission of the owner of such vacant lot and there has been full compliance with the provisions of the health code. Any person who shall violate the provisions of this section shall be guilty of a misdemeanor.
@@ -198,7 +198,7 @@ It shall be unlawful to park any automobile trailer or house car for living or s
 
 
 
-*§ 10-113 Parking of motor vehicles in vacant lots.* ::
+*§ 10-113 Parking of motor vehicles in vacant lots.*
 
 
 It shall be unlawful to park any motor vehicle in any vacant lot for which a driveway across the sidewalk has not been authorized pursuant to the provisions of the code. Any person who shall violate the provisions of this section and the owner of any motor vehicle parked in violation of this section by any person using the same with the permission, express or implied, of said owner, shall be guilty of an offense punishable by a fine of not to exceed fifty dollars or by imprisonment not to exceed ten days or by both such fine and imprisonment. The provisions of this section shall not apply to parking lots or parking spaces referred to in section 20-322 of the code. An appearance ticket charging violation of this section may be issued and served pursuant to the provisions of article one hundred fifty of the criminal procedure law.
@@ -208,7 +208,7 @@ It shall be unlawful to park any motor vehicle in any vacant lot for which a dri
 
 
 
-*§ 10-114 Street shows.* ::
+*§ 10-114 Street shows.*
 
 
 a. It shall be unlawful to give any exhibition of climbing or scaling on the front or exterior of any house or building.
@@ -222,7 +222,7 @@ c. Violations. Any person who shall violate any provision of this section, upon 
 
 
 
-*§ 10-115 Solicitation of pedestrians by pullers-in.* ::
+*§ 10-115 Solicitation of pedestrians by pullers-in.*
 
 
 a. It shall be unlawful for any person to stand, or cause or permit any person to stand on the sidewalk or street in front of, or in the entrance or hallway of any store or building for the purpose of calling the attention of passersby to goods, wares or merchandise displayed or on sale in such store or any other store or building, or to solicit patronage for any business or service, or to attempt by word of mouth or gesture, or by the distribution of handbills or other printed matter, or by the use of mechanical or sound making devices, to entice or persuade passersby to enter such store or building, or any other store or building, or to accept the services of any business.
@@ -234,7 +234,7 @@ b. Any person who shall violate any provision of this section shall, upon convic
 
 
 
-*§ 10-116 Damaging houses of religious worship or religious articles therein prohibited.* ::
+*§ 10-116 Damaging houses of religious worship or religious articles therein prohibited.*
 
 
 Any person who wilfully and without authority breaks, defaces or otherwise damages any house of religious worship or any portion thereof, or any appurtenances thereto, including religious figures or religious monuments, or any book, scroll, ark, furniture, ornaments, musical instrument, article of silver or plated ware, or any other chattel contained therein for use in connection with religious worship, or any person who knowingly aids, abets, conceals or in any way assists any such person shall be guilty of a misdemeanor punishable by imprisonment of not more than one year or by a fine of not more than two thousand five hundred nor less than five hundred dollars, or both. In addition, any person violating this section shall be subject to a civil penalty of not less than ten thousand dollars and not more than twenty-five thousand dollars. Such civil penalty shall be in addition to any criminal penalty or sanction that may be imposed, and such civil penalty shall not limit or preclude any cause of action available to any person or entity aggrieved by any of the acts prohibited by this section.
@@ -244,7 +244,7 @@ Any person who wilfully and without authority breaks, defaces or otherwise damag
 
 
 
-*§ 10-117 Defacement of property, possession, sale and display of aerosol spray paint cans, broad tipped markers and etching acid prohibited in certain instances.* ::
+*§ 10-117 Defacement of property, possession, sale and display of aerosol spray paint cans, broad tipped markers and etching acid prohibited in certain instances.*
 
 
 a. No person shall write, paint or draw any inscription, figure or mark or affix, attach or place by whatever means a sticker or decal of any type on any public or private building or other structure or any other real or personal property owned, operated or maintained by a public benefit corporation, the city of New York or any agency or instrumentality thereof or by any person, firm, or corporation, or any personal property maintained on a city street or other city-owned property pursuant to a franchise, concession or revocable consent granted by the city, unless the express permission of the owner or operator of the property has been obtained.
@@ -294,7 +294,7 @@ l. For the purposes of imposing a criminal fine or civil penalty pursuant to thi
 
 
 
-*§ 10-117.1 Anti-graffiti task force.* ::
+*§ 10-117.1 Anti-graffiti task force.*
 
 
 a. There is hereby established an anti-graffiti task force consisting of at least seven members. The speaker of the council shall appoint three members, and the mayor shall appoint the balance of the members, one of whom shall serve as chairperson. The members of the task force shall be appointed within thirty days of the effective date of this section and shall serve without compensation. The task force shall have a duration of twelve months.
@@ -324,7 +324,7 @@ c. The task force shall meet at least quarterly and shall issue a final report t
 
 
 
-*§ 10-117.2 Rewards for providing information leading to apprehension, prosecution or conviction of a person for crimes involving graffiti vandalism.* ::
+*§ 10-117.2 Rewards for providing information leading to apprehension, prosecution or conviction of a person for crimes involving graffiti vandalism.*
 
 
 The mayor, upon the recommendation of the police commissioner, shall be authorized to offer and pay a reward in an amount not exceeding five hundred dollars to any person who provides information leading to the apprehension, prosecution or conviction of any person who may have violated the provisions of subdivision a or b of section 10-117 of this chapter, or who may have committed any other crime where the unlawful conduct included the conduct described in subdivision a or b of such section. No police officer, peace officer or any other law enforcement officer, and no officer, official or employee of the city of New York shall be entitled, directly or indirectly, to collect or receive any such reward.
@@ -334,7 +334,7 @@ The mayor, upon the recommendation of the police commissioner, shall be authoriz
 
 
 
-*§ 10-117.3 Remedies for failure to remove graffiti from certain premises.* ::
+*§ 10-117.3 Remedies for failure to remove graffiti from certain premises.*
 
 
 a. Definitions. For purposes of this section, the following terms shall have the following meanings:
@@ -398,7 +398,7 @@ j. Rulemaking. The agency or agencies designated by the mayor to provide graffit
 
 
 
-*§ 10-118 Destruction or removal of property in buildings or structures.* ::
+*§ 10-118 Destruction or removal of property in buildings or structures.*
 
 
 (a) No person other than the owner of a building or structure, the duly authorized agent of such owner, or an appropriate legal authority shall destroy or remove any part of such building or structure.
@@ -414,7 +414,7 @@ j. Rulemaking. The agency or agencies designated by the mayor to provide graffit
 
 
 
-*§ 10-118.1 Theft of manhole covers.* ::
+*§ 10-118.1 Theft of manhole covers.*
 
 
 a. Except as provided in subdivision d of this section, no person shall remove, or transport through, along or across a public street, any manhole cover, including but not limited to the cover of an opening in the ground, street or sidewalk used by a public utility or authority to access underground vaults, structures, installations, or other enclosed space; or the cover of such an opening that is part of a sewer system, fuel storage system, or water supply system.
@@ -430,7 +430,7 @@ d. The prohibition in this section shall not apply to the owner of such cover, t
 
 
 
-*§ 10-119 Posting.* ::
+*§ 10-119 Posting.*
 
 
 a. It shall be unlawful for any person to paste, post, paint, print, nail or attach or affix by any means whatsoever any handbill, poster, notice, sign, advertisement, sticker or other printed material upon any curb, gutter, flagstone, tree, lamppost, awning post, telegraph pole, telephone pole, public utility pole, public garbage bin, bus shelter, bridge, elevated train structure, highway fence, barrel, box, parking meter, mail box, traffic control device, traffic stanchion, traffic sign (including pole), tree box, tree pit protection device, bench, traffic barrier, hydrant, public pay telephone, city-owned grassy area adjacent to a street, any personal property maintained on a street or other city-owned property pursuant to a franchise, concession or revocable consent granted by the city or other such item or structure in any street, or to direct, suffer or permit any servant, agent, employee or other person under his or her control to engage in such activity; provided, however, that this section shall not apply to any handbill, poster, notice, sign, advertisement, sticker or other printed material so posted by or under the direction of the council, or by or under the direction of any city agency, or pursuant to a franchise, concession or revocable consent granted pursuant to chapter fourteen of the charter.
@@ -446,7 +446,7 @@ d. The commissioner of the department of sanitation shall be authorized to issue
 
 
 
-*§ 10-120 Protection of city advertisements.* ::
+*§ 10-120 Protection of city advertisements.*
 
 
 It shall be unlawful for any person to tear down, deface or destroy any notice, handbill, sign, advertisement, poster, sticker or other printed material, put up or posted by, or under the direction of the council, or by or under the direction of any city agency or pursuant to a franchise, concession or revocable consent granted pursuant to chaper fourteen of the charter.
@@ -456,7 +456,7 @@ It shall be unlawful for any person to tear down, deface or destroy any notice, 
 
 
 
-*§ 10-121 Violation.* ::
+*§ 10-121 Violation.*
 
 
 a. Any person convicted of a violation of any of the provisions of section 10-119 or 10-120 of the code shall be punished by a fine of not less than seventy-five dollars nor more than one hundred fifty dollars, for the first offense and not less than one hundred fifty dollars nor more than two hundred fifty dollars for the second and each subsequent offense within a twelve month period, plus the cost of the removal of the unauthorized signs, imprisonment for not more than ten days, or both; provided, however, that subdivision b of section 10-119 of the code shall not apply with respect to criminal prosecutions brought pursuant to this subdivision.
@@ -478,7 +478,7 @@ g. For the purposes of imposing a criminal fine or civil penalty pursuant to thi
 
 
 
-*§ 10-121.1 Rewards for providing information leading to criminal conviction of a person for unlawful posting.* ::
+*§ 10-121.1 Rewards for providing information leading to criminal conviction of a person for unlawful posting.*
 
 
 The mayor, upon the recommendation of the sanitation commissioner, the transportation commissioner, the parks and recreation commissioner, the citywide administrative services commissioner or the police commissioner, shall be authorized to offer and pay a reward in an amount not exceeding five hundred dollars to any person who provides information leading to the criminal conviction of any person who may have violated the provisions of section 10-119 or section 10-120 of the code. No police officer, peace officer or any other law enforcement officer, and no officer, official or employee of the city of New York shall be entitled, directly or indirectly, to collect or receive any such reward.
@@ -488,7 +488,7 @@ The mayor, upon the recommendation of the sanitation commissioner, the transport
 
 
 
-*§ 10-122 Motor boats; operation adjacent to bathing beaches.* ::
+*§ 10-122 Motor boats; operation adjacent to bathing beaches.*
 
 
 It shall be unlawful for any person to operate a motor boat within three hundred feet of any public beach used by bathers. Any person who shall violate or refuse to comply with the provisions of this section shall, upon conviction thereof, be punished by a fine of not more than one hundred dollars or by imprisonment not exceeding three months or by both such fine and imprisonment.
@@ -498,7 +498,7 @@ It shall be unlawful for any person to operate a motor boat within three hundred
 
 
 
-*§ 10-123 Bathing in public.* ::
+*§ 10-123 Bathing in public.*
 
 
 It shall be unlawful for any person to swim or bathe in any of the waters within the jurisdiction of the city, except in public or private bathing houses, unless covered with a bathing suit so as to prevent any indecent exposure of the person; and it shall be unlawful for any person to dress or undress in any place exposed to view. Any person who shall violate or refuse to comply with the provisions of this section shall, upon conviction thereof, be punished by a fine of not more than ten dollars or by imprisonment not exceeding ten days or by both such fine and imprisonment.
@@ -508,7 +508,7 @@ It shall be unlawful for any person to swim or bathe in any of the waters within
 
 
 
-*§ 10-124 Wearing of bathing suits on streets prohibited. [Repealed]* ::
+*§ 10-124 Wearing of bathing suits on streets prohibited. [Repealed]*
 
 
 a. Definitions. Whenever used in this section, the following terms are defined as follows:
@@ -534,7 +534,7 @@ f. Any person who violates subdivision b of this section shall be liable for a c
 
 
 
-*§ 10-126 Avigation in and over the city.* ::
+*§ 10-126 Avigation in and over the city.*
 
 
 a. Definitions. When used in this section the following words or terms shall mean or include:
@@ -578,7 +578,7 @@ i. Violations. Any person who violates any of the provisions of this section sha
 
 
 
-*§ 10-127 Commercial vehicles to display name and address of owner.* ::
+*§ 10-127 Commercial vehicles to display name and address of owner.*
 
 
 a. Definition. When used herein:
@@ -594,7 +594,7 @@ c. Violations. Any person convicted of a violation of this section shall be puni
 
 
 
-*§ 10-128 Declaration of intent; dress of female employees in places of public accommodation.* ::
+*§ 10-128 Declaration of intent; dress of female employees in places of public accommodation.*
 
 
 It is hereby declared, as a matter of public policy, that the attire and appearance of females employed in cabarets, dance halls, catering establishments, coffee houses, hotels, restaurants or other places of public accommodations as hostesses, waitresses, cashiers, barmaids or in any capacity in which any such female comes in contact with or is likely to come in contact with the patrons of such establishments, attired in such a manner so that the breasts of such female employees are completely uncovered or covered only by a device attached to the nipples of each breast, is offensive to common decency, abhorrent to the standards of continence of the community and inimical to the general welfare of the people of the city of New York and in order that the peace, health, safety and general welfare of the inhabitants of the city may be protected and insured such conduct is prohibited as hereinafter provided.
@@ -604,7 +604,7 @@ It is hereby declared, as a matter of public policy, that the attire and appeara
 
 
 
-*§ 10-129 Prohibited acts.* ::
+*§ 10-129 Prohibited acts.*
 
 
 a. It shall be unlawful for any female while employed in, or who in any other way is engaged by any cabaret, dance hall, catering establishment, coffee house, hotel, restaurant or other place of public assembly or public accommodation, as a hostess, waitress, cashier, barmaid or in any other capacity wherein she comes in contact with or is likely to come in contact with the patrons thereof, to be clothed or costumed in such a manner so as to appear before the patrons of such place with less than an opaque covering of any portion of the breast below the top of the aerola.*
@@ -616,7 +616,7 @@ b.    No person or persons having control of or being in charge of any cabare
 
 
 
-*§ 10-130 Punishment.* ::
+*§ 10-130 Punishment.*
 
 
 Any person or persons who violate any of the provisions of section 10-129 shall be guilty of an offense and upon conviction thereof shall be punished by imprisonment for not more than thirty days or by a fine of not less than fifty dollars nor more than one hundred dollars or by both such fine and imprisonment and if any person shall have been previously convicted of a violation of section 10-129, he or she shall upon any subsequent conviction be punished by imprisonment of not less than ten days nor more than sixty days or by a fine of not less than one hundred dollars nor more than five hundred dollars or by both such fine and imprisonment.
@@ -626,7 +626,7 @@ Any person or persons who violate any of the provisions of section 10-129 shall 
 
 
 
-*§ 10-131 Firearms.* ::
+*§ 10-131 Firearms.*
 
 
 a. Pistols or revolvers, keeping or carrying.
@@ -822,7 +822,7 @@ j. Deceptively colored firearms, rifles, shotguns, and assault weapons.
 
 
 
-*§ 10-132 Sale of broad head, bladed or hunting arrows.* ::
+*§ 10-132 Sale of broad head, bladed or hunting arrows.*
 
 
 a. It shall be unlawful for any person to sell or dispose of to a person under sixteen a broad head, bladed or hunting arrow or arrowhead.
@@ -834,7 +834,7 @@ b. Any person who shall violate this section shall, upon conviction, be punished
 
 
 
-*§ 10-133 Possession of knives or instruments.* ::
+*§ 10-133 Possession of knives or instruments.*
 
 
 a. Legislative findings. It is hereby declared and found that the possession in public places, streets and parks of the city, of large knives is a menace to the public health, peace, safety and welfare of the people of the city; that the possession in public places, streets and parks of such knives has resulted in the commission of many homicides, robberies, maimings and assaults of and upon the people of the city; that this condition encourages and fosters the commission of crimes, and contributes to juvenile delinquency, youth crime and gangsterism; that unless the possession or carrying in public places, streets and parks of the city of such knives without a lawful purpose is prohibited, there is danger of an increase in crimes of violence and other conditions detrimental to public peace, safety and welfare. It is further declared and found that the wearing or carrying of knives in open view in public places while such knives are not being used for a lawful purpose is unnecessary and threatening to the public and should be prohibited.
@@ -852,7 +852,7 @@ e. Violation of this section shall be an offense punishable by a fine of not mor
 
 
 
-*§ 10-134 Prohibition on sale of certain knives.* ::
+*§ 10-134 Prohibition on sale of certain knives.*
 
 
 a. Legislative findings. It is hereby declared and found that the possession in public places, streets and parks of the city, of folding knives which lock upon opening, is a menace to the public health, peace, safety and welfare of the people of the city; that the possession in public places, streets and parks of such knives has resulted in the commission of many homicides, robberies, maimings and assaults of and upon the people of the city, that this condition encourages and fosters the commission of crimes, and contributes to juvenile delinquency, youth crime and gangsterism; that if this situation is not addressed, then there is a danger of an increase in crimes of violence, and other conditions detrimental to public peace, safety and welfare. It has been found that folding knives with a blade of four (4) inches or more that locks in an open position are designed and used almost exclusively for the purpose of stabbing or the threat thereof. Therefore for the safety of the city, such weapons should be prohibited from sale within the jurisdiction of the city of New York.
@@ -868,7 +868,7 @@ d. Violation of this section shall be an offense punishable by a fine of not mor
 
 
 
-*§ 10-134.1 Prohibition on sale of box cutters to persons under twenty-one years of age, open displays of box cutters by sellers, and possession of box cutters in a public place, or on school premises by persons under twenty-two years of age.* ::
+*§ 10-134.1 Prohibition on sale of box cutters to persons under twenty-one years of age, open displays of box cutters by sellers, and possession of box cutters in a public place, or on school premises by persons under twenty-two years of age.*
 
 
 a. Legislative findings. The council hereby finds that the number of school safety incidents which take place in the city's schools are disturbingly high and are rising, and that these incidents place students and staff at unacceptable risk of injury and disrupt the learning environment. Board of education statistics reveal that for the first half of the 1994-95 school year, 8,333 school safety incidents occurred, representing a 27.6 percent increase as compared with the same period in the prior year. Board of education statistics also reveal that for the entire 1994-95 school year, 19,814 school safety incidents were reported, representing an increase of 16 percent as compared to the prior school year. The council further finds that the board of education's school safety statistics reveal that over 2,000 box cutters and other similar implements were seized during the 1994-95 school year, indicating that these instruments have become the "weapon of choice" in the city's schools. These implements are used as weapons by students as they are relatively inexpensive, readily available, and easily deployable. Used as weapons, box cutters and similar instruments can cause great injury. It is the council's belief that banning the sale of box cutters to minors under eighteen year of age, requiring that those who sell box cutters ensure that they are not displayed in a manner that increases opportunities for minors to steal them, and banning the possession of box cutters by persons under twenty-two years of age on school premises, will significantly help in reducing the number of violent school safety incidents and in ensuring that schools are the safe havens of knowledge and education that children need and deserve.
@@ -906,7 +906,7 @@ g. Any person who violates the provisions of this section shall be guilty of a m
 
 
 
-*§ 10-134.2 Regulation of laser pointers.* ::
+*§ 10-134.2 Regulation of laser pointers.*
 
 
 a. Definitions. For purposes of this section:
@@ -948,7 +948,7 @@ h. Any person who violates subdivision b, c or e of this section shall be guilty
 
 
 
-*§ 10-135 Prohibition on sale and possession of electronic stun guns.* ::
+*§ 10-135 Prohibition on sale and possession of electronic stun guns.*
 
 
 a. As used in this section, "electronic stun gun" shall mean any device designed primarily as a weapon, the purpose of which is to stun, render unconscious or paralyze a person by passing an electronic shock to such person, but shall not include an "electronic dart gun" as such term is defined in section 265.00 of the penal law.
@@ -966,7 +966,7 @@ e. The provisions of this section shall not apply to manufacturers of electronic
 
 
 
-*§ 10-136 Prohibition against certain forms of aggressive solicitation.* ::
+*§ 10-136 Prohibition against certain forms of aggressive solicitation.*
 
 
 a. Definitions. For purposes of this section:
@@ -1010,7 +1010,7 @@ d. Penalties. Any violation of the provisions of this section shall constitute a
 
 
 
-*§ 10-137* Prevention of harassment on school premises.* ::
+*§ 10-137* Prevention of harassment on school premises.*
 
 
 a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
@@ -1066,7 +1066,7 @@ e. Protection of people who report incidents of harassment. Any person subjected
 
 
 
-*§ 10-137* Prohibition on the sale or installation of audible burglar alarms for motor vehicles.* ::
+*§ 10-137* Prohibition on the sale or installation of audible burglar alarms for motor vehicles.*
 
 
 a. Definitions. For the purposes of this section:
@@ -1118,7 +1118,7 @@ f. A proceeding to recover any civil penalty pursuant to this section shall be c
 
 
 
-*§ 10-138 Distribution of a Model Code of Conduct to participants in youth sports programs.* ::
+*§ 10-138 Distribution of a Model Code of Conduct to participants in youth sports programs.*
 
 
 a. Legislative findings and intent. Participation in youth sports programs should be a rewarding experience. Through sports programs, our youth learn the importance of teamwork, cooperation, effort, discipline and commitment. Furthermore, regular physical activity is the cornerstone of an active and healthy lifestyle. Unfortunately, good sportsmanship is sometimes lacking on the part of coaches, parents, players, spectators and other persons involved in youth sports programs, resulting in the creation of a hostile environment for participants. The City Council finds that in order to realize the full potential and value of youth sports programs, participants in such programs should follow a Code of Conduct that reflects principles of good sportsmanship at all youth sports events. Furthermore, the City Council finds that organizations that administer youth sports programs should have the option of banning coaches, parents, players, spectators and other participants in youth sports programs from attending youth sports events if they engage in certain egregious behavior at such events. Additionally, such organizations should have the option of requiring individuals to complete some form of anger management counseling before being allowed to resume attendance at youth sports events.
@@ -1160,7 +1160,7 @@ f. In the event that any official, coach, parent, player, spectator or other par
 
 
 
-*§ 10-145 Licensing and regulation of towing cars. [Repealed]* ::
+*§ 10-145 Licensing and regulation of towing cars. [Repealed]*
 
 
 Any person who sells or gives any motor vehicle or motorcycle to any minor under eighteen years of age who has not been licensed to operate a motor vehicle or motorcycle within the city of New York, is guilty of a misdemeanor punishable by a fine of not more than two hundred fifty dollars, imprisonment for not more than six months, or both.
@@ -1170,7 +1170,7 @@ Any person who sells or gives any motor vehicle or motorcycle to any minor under
 
 
 
-*§ 10-147 Possession of handcuffs, thumb-cuffs or leg irons by unauthorized persons prohibited.* ::
+*§ 10-147 Possession of handcuffs, thumb-cuffs or leg irons by unauthorized persons prohibited.*
 
 
 a. It shall be unlawful for any person to knowingly possess any type of handcuffs, including disposable cinch cuffs, thumb cuffs or leg irons. This section shall not prohibit the possession of toy handcuffs which by their construction cannot be used to restrain an individual.
@@ -1202,7 +1202,7 @@ c. Any person found in violation of this section shall be punished by a fine of 
 
 
 
-*§ 10-148 Fines for unlawful cutting of trees on city property other than trees under the jurisdiction of the department of parks and recreation.* ::
+*§ 10-148 Fines for unlawful cutting of trees on city property other than trees under the jurisdiction of the department of parks and recreation.*
 
 
 It shall be unlawful for any individual, firm, corporation, agent, employee or person under the control of such individual, firm or corporation to cut, remove or in any way destroy or cause to be destroyed, any tree or other form of vegetation on any public property, without acquiring written consent from the agency having jurisdiction or control of such property. The foregoing provision shall not apply to employees of any agency who are engaged in the proper and authorized performance of their assigned duties.
@@ -1212,7 +1212,7 @@ It shall be unlawful for any individual, firm, corporation, agent, employee or p
 
 
 
-*§ 10-149 Violation.* ::
+*§ 10-149 Violation.*
 
 
 a. Any individual, firm, corporation, agent, employee or person under the control of such individual, firm or corporation violating the provisions of section 10-148 of this code concerning a tree shall be liable to arrest and upon conviction thereof shall be deemed guilty of a misdemeanor and shall be punished by a fine of not more than fifteen thousand dollars or by imprisonment of not more than one year or by both such fine and imprisonment for each such violation. Such individual, firm, corporation, agent, employee or person under the control of such individual, firm or corporation shall also be liable for a civil penalty of not more than ten thousand dollars for each such violation which may be recovered in a proceeding before the environmental control board. A proceeding to recover any civil penalty authorized by this section shall be commenced by the service of a notice of violation returnable to the environmental control board. The environmental control board shall have the power to impose the civil penalties prescribed herein.
@@ -1226,7 +1226,7 @@ c. Any individual, firm, corporation, agent, employee or person under the contro
 
 
 
-*§ 10-150 Declaration and findings; election for non-public office.* ::
+*§ 10-150 Declaration and findings; election for non-public office.*
 
 
 The council hereby finds that it is in the public interest to hold certain elections on days other than those which the vast majority of the people of the city respect as a day of worship and a day of rest. The holding of elections on such days of worship is unfair to those citizens who observe such days of worship in that they are unable to participate fully in the election process on an equal basis unless they violate their religious precepts. This poses a threat to the free exercise of religion and equality of access to the electoral process. The council further finds and declares that bigotry, prejudice and intolerance will be discouraged if such elections are forbidden on those days of worship, and that holding elections on other days will permit the participation of a greater number of people.
@@ -1236,7 +1236,7 @@ The council hereby finds that it is in the public interest to hold certain elect
 
 
 
-*§ 10-151 Elections for non-public office or position.* ::
+*§ 10-151 Elections for non-public office or position.*
 
 
 a. It shall be unlawful to conduct any election for a non-public office or position on Friday after sundown, Saturday or Sunday in which members of the general public are eligible to cast a vote by virtue of the fact that they reside in a particular area of the city.
@@ -1248,7 +1248,7 @@ b. It shall be unlawful for any person to direct, mandate, supervise or assist i
 
 
 
-*§ 10-152 Penalty.* ::
+*§ 10-152 Penalty.*
 
 
 a. Any person who shall violate any provision of section 10-151, upon conviction thereof, shall be punished by a fine of not more than one hundred dollars, or imprisonment for not more than ten days, or both such fine and imprisonment.
@@ -1260,7 +1260,7 @@ b. The results of any election held in violation of section 10-151 shall be null
 
 
 
-*§ 10-153 First aid kits on vehicles for hire.* ::
+*§ 10-153 First aid kits on vehicles for hire.*
 
 
 a. All motor vehicles for hire, used to transport any persons, with a seating capacity of ten or more persons, including the driver, whether by charter or for a term of months shall provide equipment and maintain on board the vehicle at all times, a complete first aid kit containing all that equipment reasonably calculated to provide emergency medical aid to injured persons.
@@ -1272,7 +1272,7 @@ b. Any person, firm or corporation, convicted of a violation of the provisions o
 
 
 
-*§ 10-154 False statements in certificates, forms, written statements, applications or reports.* ::
+*§ 10-154 False statements in certificates, forms, written statements, applications or reports.*
 
 
 Any person who shall knowingly make a false statement or who shall knowingly falsify or allow to be falsified any certificate, form, signed statement, application or report required under the provisions of this code or any rule or regulation of any agency promulgated thereunder, shall be guilty of an offense and upon conviction thereof shall be punishable by a fine of not more than five hundred dollars or imprisonment of a term of not more than sixty days or both.
@@ -1282,7 +1282,7 @@ Any person who shall knowingly make a false statement or who shall knowingly fal
 
 
 
-*§ 10-155 Public nuisance defined. [Repealed]* ::
+*§ 10-155 Public nuisance defined. [Repealed]*
 
 
 
@@ -1292,7 +1292,7 @@ Any person who shall knowingly make a false statement or who shall knowingly fal
 
 
 
-*§ 10-156 Powers of the police commissioner with respect to public nuisances. [Repealed]* ::
+*§ 10-156 Powers of the police commissioner with respect to public nuisances. [Repealed]*
 
 
 
@@ -1302,7 +1302,7 @@ Any person who shall knowingly make a false statement or who shall knowingly fal
 
 
 
-*§ 10-157 Bicycles used for commercial purposes.* ::
+*§ 10-157 Bicycles used for commercial purposes.*
 
 
 a. For purposes of this section and section 10-157.1, the following terms have the following meanings:
@@ -1356,7 +1356,7 @@ k. A business using a bicycle for commercial purposes shall not possess any moto
 
 
 
-*§ 10-157.1 Signs with bicycle safety procedures.* ::
+*§ 10-157.1 Signs with bicycle safety procedures.*
 
 
 a. A business using a bicycle for commercial purposes, as defined in subdivision a of section 10-157, shall post one or more signs at each site of such business, provided that, if such business has only a post office address within the city, such business shall provide a written notice to each of its bicycle operators. Such sign or notice shall summarize:
@@ -1386,7 +1386,7 @@ e. The provisions of this section shall be enforceable by an authorized employee
 
 
 
-*§ 10-158 Vessel regulation zone.* ::
+*§ 10-158 Vessel regulation zone.*
 
 
 a. Description. That portion of the body of water contained within the county of the Bronx, known as the lagoon within pelham bay park, whose limits are: on the northeast, latitude 40° 52' 40", longitude 73° 47'; on the northwest, latitude 40° 52' 57", longitude 73° 47' 38" on the southeast, latitude 40° 51' 54", longitude 73° 49' 12" and on the southwest, latitude 40° 52' 4", longitude 73° 48' 25", and which does not exceed one thousand feet from the shore line at low water mark, shall be designated a vessel regulation zone, as set forth under section 46 of the navigation law of the state of New York.
@@ -1404,7 +1404,7 @@ e. Exemptions. The provisions of this section shall not apply to any vessel whil
 
 
 
-*§ 10-158.1 Harlem River no wake area.* ::
+*§ 10-158.1 Harlem River no wake area.*
 
 
 a. For the purposes of this section the following terms shall be defined as follows:
@@ -1438,7 +1438,7 @@ f. The provisions of this section shall not apply to the following:
 
 
 
-*§ 10-158.2 Wake reduction educational material.* ::
+*§ 10-158.2 Wake reduction educational material.*
 
 
 The commissioner of parks and recreation, in consultation with the police commissioner, shall prepare and make available to operators of water-borne vessels, as defined in section 19-306 of this code, within the city of New York or its territorial waters, and operators of piers, marinas and boat repair yards educational materials related to the dangers of wakes to the safety of boaters in water-borne vessels in the water; the potentially adverse impact of wakes to piers and other shoreline structures, waterfront recreational facilities and parks, the shoreline itself, and wetlands along the city's waterfront; the importance of minimizing wakes as a water-borne vessel operates in a vessel regulation zone or "no wake area;" and which government entities have jurisdiction over rule-making and enforcement in the territorial waters of the city of New York.
@@ -1448,7 +1448,7 @@ The commissioner of parks and recreation, in consultation with the police commis
 
 
 
-*§ 10-159 Safe streets, safe city advisory board.* ::
+*§ 10-159 Safe streets, safe city advisory board.*
 
 
 (a) There is hereby established a safe streets, safe city advisory board. The safe streets, safe city advisory board shall consist of the deputy mayor for public safety, the police commissioner, one person appointed by the speaker of the city council, one additional person appointed by the mayor, one person appointed by the governor, one person appointed by the temporary president of the state senate, one person appointed by the minority leader of the senate, one person appointed by the speaker of the state assembly and one person appointed by the minority leader of the assembly.
@@ -1470,7 +1470,7 @@ The commissioner of parks and recreation, in consultation with the police commis
 
 
 
-*§ 10-160 Security measures at automated teller machine facilities.* ::
+*§ 10-160 Security measures at automated teller machine facilities.*
 
 
 a. Definitions. For purposes of this section:
@@ -1562,7 +1562,7 @@ j. Exemptions. The provisions of this section shall not apply to any unenclosed 
 
 
 
-*§ 10-161 Three-card Monte Prohibited.* ::
+*§ 10-161 Three-card Monte Prohibited.*
 
 
 a. Definitions. For the purposes of this section, "three-card monte" shall mean a game or scheme in which the player is to receive money if he or she correctly selects one of any number of objects, which object was designated by the dealer, operator or any individual working with said dealer or operator of the game or scheme, as the winning object prior to shuffling or rearranging the position of such objects. "Objects" shall be defined as any item capable of being shuffled or rearranged on a surface, including, but not limited to, cards, shells or caps.
@@ -1576,7 +1576,7 @@ c. Any person who violates subdivision b of this section shall be guilty of a mi
 
 
 
-*§ 10-162 Interference with professional sporting event.* ::
+*§ 10-162 Interference with professional sporting event.*
 
 
 a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
@@ -1624,7 +1624,7 @@ d. Civil penalties.
 
 
 
-*§ 10-163 Speed contests and races.* ::
+*§ 10-163 Speed contests and races.*
 
 
 a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
@@ -1650,7 +1650,7 @@ f. A violation of subdivision b or c shall constitute a misdemeanor and be punis
 
 
 
-*§ 10-164 Operation of vehicles on approach of authorized emergency vehicles.* ::
+*§ 10-164 Operation of vehicles on approach of authorized emergency vehicles.*
 
 
 a. Upon the immediate approach of an authorized emergency vehicle, as defined in the vehicle and traffic law, equipped with at least one lighted lamp exhibiting red light visible under normal atmospheric conditions from a distance of five hundred feet to the front of such vehicle other than a police vehicle or bicycle when operated as an authorized emergency vehicle, and when audible signals are sounded from any said vehicle by siren, exhaust whistle, bell, air-horn or electronic equivalent; the driver of every other vehicle shall yield the right of way and shall immediately drive to a position parallel to, and as close as possible to the right-hand edge or curb of the roadway, or to either edge of a one-way roadway three or more lanes in width, clear of any intersection, and shall stop and remain in such position until the authorized emergency vehicle has passed, unless otherwise directed by a police officer or other authorized employee of the police department.
@@ -1662,7 +1662,7 @@ b. Any person who violates the provisions of this section shall be guilty of a m
 
 
 
-*§ 10-165 Serial acts of public lewdness.* ::
+*§ 10-165 Serial acts of public lewdness.*
 
 
 A person is guilty of serial acts of public lewdness when two or more times within any three-year period he or she intentionally exposes the private or intimate parts of his or her body in a lewd manner or commits any other lewd act (a) in a public place, or (b) in private premises under circumstances in which he or she may readily be observed from either a public place or from other private premises, and with intent that he or she be so observed. A person who commits serial acts of public lewdness shall be guilty of a class A misdemeanor.
@@ -1672,7 +1672,7 @@ A person is guilty of serial acts of public lewdness when two or more times with
 
 
 
-*§ 10-166 Use of cellular telephones by schoolchildren.* ::
+*§ 10-166 Use of cellular telephones by schoolchildren.*
 
 
 a. Definitions. For the purposes of this section:
@@ -1694,7 +1694,7 @@ d. Nothing in this section shall be construed to affect or limit the right of an
 
 
 
-*§ 10-167 Climbing, jumping or suspending of oneself from structures prohibited.* ::
+*§ 10-167 Climbing, jumping or suspending of oneself from structures prohibited.*
 
 
 a. For purposes of this section, the term "structure" shall mean any building, monument, statue, crane, bridge, sign, tower or other object, or any combination thereof, exceeding fifty feet in height.
@@ -1714,7 +1714,7 @@ d. Any person who violates the provisions of subdivision b of this section shall
 
 
 
-*§ 10-168 Prohibition of use of non-wood bats.* ::
+*§ 10-168 Prohibition of use of non-wood bats.*
 
 
 a. Definitions. When used herein, the following terms shall have the following meanings:
@@ -1734,7 +1734,7 @@ b. Only wood bats shall be used in any competitive baseball game in which high s
 
 
 
-*§ 10-169 Regulation of publicly accessible collection bins.* ::
+*§ 10-169 Regulation of publicly accessible collection bins.*
 
 
 a. Definitions. For purposes of this section: "Commissioner" shall mean the commissioner of sanitation. "Department" shall mean the department of sanitation. "Publicly accessible collection bin" shall mean any outdoor container, other than any container placed by any government or governmental agency, or its contractors or licensees, that allows for any member of the public to deposit items into the container for the purpose of collection by the owner of such container.
@@ -1772,7 +1772,7 @@ e. The commissioner may promulgate such rules as are necessary to implement the 
 
 
 
-*§ 10-170 Criminal street gang initiation activity.* ::
+*§ 10-170 Criminal street gang initiation activity.*
 
 
 a. A person is guilty of criminal street gang initiation activity when, in the course of his or her own or another person's initiation or affiliation into a criminal street gang, he or she:
@@ -1794,7 +1794,7 @@ c. Penalties. Any person who violates the provisions of this section shall be gu
 
 
 
-*§ 10-171 Prohibited acts during a local state of emergency.* ::
+*§ 10-171 Prohibited acts during a local state of emergency.*
 
 
 a. Definitions. For purposes of this section, the following terms shall have the following meanings:
@@ -1832,7 +1832,7 @@ f. It shall not constitute a defense to an enforcement action taken pursuant to 
 
 
 
-*§ 10-172 Security guards in nonpublic schools.* ::
+*§ 10-172 Security guards in nonpublic schools.*
 
 
 a.    Definitions. For the purposes of this section, the following terms shall have the following meanings:
@@ -1908,7 +1908,7 @@ m. The administering agency may promulgate any rules as may be necessary for the
 
 
 
-*§ 10-173 Uniform civil penalties for possessing an open container of alcohol.* ::
+*§ 10-173 Uniform civil penalties for possessing an open container of alcohol.*
 
 
 Notwithstanding any inconsistent provision of law, the civil penalty for the violation of 56 RCNY § 1-05(f)(1), or any successor rule of the department of parks and recreation that prohibits or restricts the consumption or possession with intent to consume an open container of alcohol, shall be no greater than the civil penalties established by section 10-125 of the code.
@@ -1920,7 +1920,7 @@ Notwithstanding any inconsistent provision of law, the civil penalty for the vio
 
 
 
-*§ 10-174 Next generation 911.* ::
+*§ 10-174 Next generation 911.*
 
 
 a.    As used in this section, the following terms have the following meanings:
@@ -1942,7 +1942,7 @@ Editor's note: this section's enacting legislation provides that "[t]his local l
 
 
 
-*§ 10-175 Neighborhood support teams.* ::
+*§ 10-175 Neighborhood support teams.*
 
 
 a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
@@ -1962,7 +1962,7 @@ b. Commencing September 1, 2016, and on or before September 1 annually thereafte
 
 
 
-*§ 10-176 Direct telephone access to emergency services.* ::
+*§ 10-176 Direct telephone access to emergency services.*
 
 
 a. As used in this section:
@@ -2002,7 +2002,7 @@ g. The mayor shall, in writing, designate one or more offices or agencies to adm
 
 
 
-*§ 10-177 Security measures at certain eating or drinking establishments.* ::
+*§ 10-177 Security measures at certain eating or drinking establishments.*
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -2064,7 +2064,7 @@ f. Penalties. Any violation of this section shall be subject to a civil penalty 
 
 
 
-*§ 10-178 Immigration enforcement.* ::
+*§ 10-178 Immigration enforcement.*
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -2088,7 +2088,7 @@ e. Nothing in this section shall prohibit city officers and employees from perfo
 
 
 
-*§ 10-179 Disorderly behavior.* ::
+*§ 10-179 Disorderly behavior.*
 
 
 a. Prohibition. A person is guilty of disorderly behavior when, with intent to cause public inconvenience, annoyance or alarm, or recklessly or with criminal negligence creating a risk thereof, such person:
@@ -2118,7 +2118,7 @@ c. Civil penalty. Any person who violates subdivision a of this section shall be
 
 
 
-*§ 10-180 Unlawful disclosure of an intimate image.* ::
+*§ 10-180 Unlawful disclosure of an intimate image.*
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -2175,11 +2175,11 @@ e. Provisos. The prohibitions contained in subdivision b do not apply if:
 
 
 Chapter 2: Unlawful Sale or Possession of Controlled Substances
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-201 Unlawful possession of controlled substances.* ::
+*§ 10-201 Unlawful possession of controlled substances.*
 
 
 No person shall unlawfully posses or sell any controlled substance the possession or sale of which would constitute a felony pursuant to articles two hundred twenty or two hundred twenty-one of the penal law.
@@ -2189,7 +2189,7 @@ No person shall unlawfully posses or sell any controlled substance the possessio
 
 
 
-*§ 10-202 Civil Action.* ::
+*§ 10-202 Civil Action.*
 
 
 a. Any person who has been convicted of the possession or sale of a controlled substance in an amount which constitutes a felony pursuant to articles two hundred twenty or two hundred twenty-one of the penal law shall be liable to the city for a civil penalty in the amount of not less than ten thousand dollars nor more than one hundred thousand dollars for each count of an indictment for unlawful possession or sale which has resulted in a conviction under the penal law.
@@ -2203,7 +2203,7 @@ c. In any civil action brought pursuant to this section, the city may recover, i
 
 
 
-*§ 10-203 Unlawful manufacture, distribution or sale of a synthetic cannabinoid or synthetic phenethylamine.* ::
+*§ 10-203 Unlawful manufacture, distribution or sale of a synthetic cannabinoid or synthetic phenethylamine.*
 
 
 a. No person or entity shall knowingly manufacture, sell, offer for sale, display for sale, distribute for sale, or possess with intent to sell:
@@ -2244,11 +2244,11 @@ h. Any person who engages in business as a retail dealer pursuant to section 20-
 
 
 Chapter 3: Firearms
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-301 Control and regulation of the disposition, purchase and possession of firearms, rifles, shotguns and assault weapons.* ::
+*§ 10-301 Control and regulation of the disposition, purchase and possession of firearms, rifles, shotguns and assault weapons.*
 
 
 Definitions. Whenever used in this chapter the following terms shall mean and include:
@@ -2334,7 +2334,7 @@ Definitions. Whenever used in this chapter the following terms shall mean and in
 
 
 
-*§ 10-302 Licensing of gunsmiths, of wholesale manufacturers of firearms, or assemblers of firearms, dealers in firearms, dealers in rifles and shotguns, and special theatrical dealers.* ::
+*§ 10-302 Licensing of gunsmiths, of wholesale manufacturers of firearms, or assemblers of firearms, dealers in firearms, dealers in rifles and shotguns, and special theatrical dealers.*
 
 
 a. It shall be unlawful for any person or business enterprise to engage in the business of gunsmith, wholesale manufacturer of firearms, assembler of firearms, dealer in firearms, dealer in rifles and shotguns, or special theatrical dealer, unless such person, or business enterprise, has obtained a license to engage in such business in the manner prescribed in this section. No person shall engage in the business of dealer in rifles and shotguns or special theatrical dealer unless he or she has been issued a permit for the possession of shotguns and rifles pursuant to the provisions of this chapter. No person or business enterprise shall be eligible to apply for or to hold a license as a special theatrical dealer unless such person or business enterprise (1) possesses both a license as a dealer in firearms and a license as a dealer in rifles and shotguns and (2) has possessed such licenses and engaged in such businesses for at least one year.
@@ -2410,7 +2410,7 @@ s. Any suspension, denial or revocation of a license may be appealed by the appl
 
 
 
-*§ 10-302.1 Preventing the diversion of firearms, rifles and shotguns to criminals.* ::
+*§ 10-302.1 Preventing the diversion of firearms, rifles and shotguns to criminals.*
 
 
 a. No dealer in firearms and no dealer in rifles and shotguns shall: (i) sell or otherwise dispose of more than one firearm or more than one rifle or shotgun to any individual as part of the same sales transaction; or (ii) sell or otherwise dispose of a rifle or shotgun to any individual if the dealer knows or should know that such individual has purchased a rifle or shotgun within the prior ninety days, or (iii) sell or otherwise dispose of a firearm to any individual if the dealer knows or should know that such individual has purchased a firearm within the prior ninety days.
@@ -2466,7 +2466,7 @@ i. The commissioner may make and promulgate such rules and regulations as are ne
 
 
 
-*§ 10-303 Permits for possession and purchase of rifles and shotguns.* ::
+*§ 10-303 Permits for possession and purchase of rifles and shotguns.*
 
 
 It shall be unlawful to dispose of any rifle or shotgun to any person unless said person is the holder of a permit for possession and purchase of rifles and shotguns; it shall be unlawful for any person to have in his or her possession any rifle or shotgun unless said person is the holder of a permit for the possession and purchase of rifles and shotguns. The disposition of a rifle or shotgun, by any licensed dealer in rifles and shotguns, to any person presenting a valid rifle and shotgun permit issued to such person, shall be conclusive proof of the legality of such disposition by the dealer.
@@ -2524,7 +2524,7 @@ h. Non-residents. Non-residents of the city of New York may apply for a rifle or
 
 
 
-*§ 10-303.1 Prohibition of the possession or disposition of assault weapons.* ::
+*§ 10-303.1 Prohibition of the possession or disposition of assault weapons.*
 
 
 a. It shall be unlawful for any person to possess or dispose of any assault weapon within the city of New York, except as provided in subdivision d, e or f of this section or section 10-305. A person who peaceably surrenders an assault weapon to the commissioner pursuant to subdivision d, e or f of this section or subdivision f of section 10-305 shall not be subject to the criminal or civil penalties set forth in this section.
@@ -2556,7 +2556,7 @@ h. Surrender of firearms. At the discretion of the police commissioner, any pers
 
 
 
-*§ 10-303.2 Civil penalty; firearms dealers and manufacturers.* ::
+*§ 10-303.2 Civil penalty; firearms dealers and manufacturers.*
 
 
 a. Definitions. For purposes of this section, the terms "firearm," "handgun," "dealer," "collector," and "manufacturer" shall have the meanings set forth in 18 U.S.C. § 921, as such section may be amended from time to time, or any successor provision thereto. The term "transfer" shall be deemed to include any sale, assignment, pledge, lease, loan, gift or other disposition. References to "statutes, laws or regulations" shall be deemed to include federal, state and local statutes, laws, local laws, ordinances, rules and regulations.
@@ -2598,7 +2598,7 @@ c. Exceptions.
 
 
 
-*§ 10-304 Certificates of registration.* ::
+*§ 10-304 Certificates of registration.*
 
 
 a. It shall be unlawful for any person to have in his or her possession any rifle or shotgun unless said person is the holder of a certificate of registration for such rifle or shotgun.
@@ -2624,7 +2624,7 @@ g. Notwithstanding any other provision of this section concerning the transfer, 
 
 
 
-*§ 10-305 Exemptions.* ::
+*§ 10-305 Exemptions.*
 
 
 The sections requiring rifle and shotgun permits and certificates and prohibiting the possession or disposition of assault weapons shall not apply as follows:
@@ -2670,7 +2670,7 @@ q. Notwithstanding the provisions of this chapter prohibiting the possession or 
 
 
 
-*§ 10-306 Disposition, purchase and possession of ammunition and ammunition feeding devices.* ::
+*§ 10-306 Disposition, purchase and possession of ammunition and ammunition feeding devices.*
 
 
 a. No person, except a dealer in rifles and shotguns, may dispose of to another person an ammunition feeding device which is designed for use in a rifle or shotgun and which is capable of holding more than five rounds of rifle or shotgun ammunition, except in the manner provided in this chapter for the disposition of assault weapons, provided that a person in lawful possession of such ammunition feeding devices may dispose of such ammunition feeding devices to a dealer in rifles and shotguns. No dealer in rifles and shotguns may dispose of such ammunition feeding devices except to a person who is exempt from subdivision a of section 10-303.1 pursuant to section 10-305.
@@ -2694,7 +2694,7 @@ h. Dealers in rifles and shotguns and special theatrical dealers may lease ammun
 
 
 
-*§ 10-307 Supply of forms.* ::
+*§ 10-307 Supply of forms.*
 
 
 The commissioner shall provide all dealers in rifles and shotguns with adequate supplies of all forms including applications for permits as required by this chapter, without charge.
@@ -2704,7 +2704,7 @@ The commissioner shall provide all dealers in rifles and shotguns with adequate 
 
 
 
-*§ 10-308 Vehicles, rooms, dwellings or structures; possession therein.* ::
+*§ 10-308 Vehicles, rooms, dwellings or structures; possession therein.*
 
 
 The presence of a rifle, or shotgun, or rifle or shotgun ammunition, in a vehicle, room, dwelling or structure, without a rifle and shotgun permit therefor and a certificate of registration therefor, or the presence of an assault weapon in a vehicle, room, dwelling or structure, shall be presumptive evidence of possession thereof by all persons occupying the vehicle, room, dwelling or structure at the time.
@@ -2714,7 +2714,7 @@ The presence of a rifle, or shotgun, or rifle or shotgun ammunition, in a vehicl
 
 
 
-*§ 10-309 Identifying marks.* ::
+*§ 10-309 Identifying marks.*
 
 
 a. Defacing. Any person who alters, changes, removes, disfigures, obliterates or defaces the name of the maker, model, manufacturer's or serial number of a rifle, shotgun or assault weapon shall be in violation of this section.
@@ -2726,7 +2726,7 @@ b. Any rifle or shotgun sold or otherwise disposed of by a licensed dealer, whic
 
 
 
-*§ 10-310 Violation.* ::
+*§ 10-310 Violation.*
 
 
 Except as is otherwise provided in sections 10-302 and 10-303.1, violation of sections 10-301 through 10-309 and of rules and regulations issued by the commissioner pursuant thereto shall be a misdemeanor punishable by a fine of not more than one thousand dollars or imprisonment of not more than one year or both, provided that the first violation of such sections involving possession of an unregistered rifle or shotgun or rifle or shotgun ammunition or an ammunition feeding device which is designed for use in a rifle or shotgun and which is capable of holding no more than five rounds of rifle or shotgun ammunition shall be an offense punishable by a fine of not more than three hundred dollars or imprisonment of not more than fifteen days, or both on condition that (a) the first violation of possession of an unregistered rifle and shotgun or rifle and shotgun ammunition or an ammunition feeding device which is designed for use in a rifle or shotgun and which is capable of holding no more than five rounds of rifle or shotgun ammunition is not in conjunction with the commission of a crime and (b) the possessor has not been previously convicted of a felony or a serious offense and (c) the possessor has not previously applied for and been denied a permit for such possession.
@@ -2736,7 +2736,7 @@ Except as is otherwise provided in sections 10-302 and 10-303.1, violation of se
 
 
 
-*§ 10-311 Sale of weapons without safety locking device prohibited.* ::
+*§ 10-311 Sale of weapons without safety locking device prohibited.*
 
 
 a. It shall be unlawful for any person or business enterprise to dispose of any weapon which does not contain a safety locking device. For the purposes of this section and section 10-312: (1) weapon shall mean a firearm, rifle, shotgun, or assault weapon, as such terms are defined in section 10-301; or a machine gun, as defined in the penal law; and (2) a safety locking device shall mean a design adaptation or attachable accessory that will prevent the use of the weapon by an unauthorized user, and includes, but is not limited to, a trigger lock, which prevents the pulling of the trigger without the use of a key, or a combination handle, which prevents the use of the weapon without the alignment of the combination tumblers.
@@ -2756,7 +2756,7 @@ e. Any violation of subdivisions a or b of this section or any rule promulgated 
 
 
 
-*§ 10-312 Use of safety locking device required under certain circumstances.* ::
+*§ 10-312 Use of safety locking device required under certain circumstances.*
 
 
 a. It shall be unlawful for any person who is the lawful owner or lawful custodian of a weapon, as that term is defined in section 10-311, to store or otherwise place or leave such weapon in such a manner or under circumstances that it is out of his or her immediate possession or control, without having rendered such weapon inoperable by employing a safety locking device. Any person who violates this subdivision shall be guilty of a violation, punishable by imprisonment of not more than ten days or by a fine of not more than two hundred fifty dollars, or both.
@@ -2770,7 +2770,7 @@ c. The provisions of this section shall not apply to weapons owned or lawfully p
 
 
 
-*§ 10-313 Mandatory disclosure of gun violence information.* ::
+*§ 10-313 Mandatory disclosure of gun violence information.*
 
 
 Prior to issuing a license or permit for possession of a firearm, the department must provide applicants with the following statement in printed form:“Warning: The presence of a firearm in the home is associated with an increased risk of suicide, death during domestic violence disputes, and unintentional deaths to children and others.”
@@ -2782,7 +2782,7 @@ Prior to issuing a license or permit for possession of a firearm, the department
 
 
 
-*§ 10-314 Prohibition on unfinished frames or receivers.* ::
+*§ 10-314 Prohibition on unfinished frames or receivers.*
 
 
 a. Restriction of possession. Notwithstanding any other provision of this chapter, no person shall dispose of or possess an unfinished frame or receiver.
@@ -2795,11 +2795,11 @@ b. Penalties. The violation of this section constitutes a class A misdemeanor fo
 
 
 Chapter 4: Actions By Victims of Violent Crime
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-401 Short title.* ::
+*§ 10-401 Short title.*
 
 
 This local law shall be known as the "Victims of Violent Crime Protection Act".
@@ -2809,7 +2809,7 @@ This local law shall be known as the "Victims of Violent Crime Protection Act".
 
 
 
-*§ 10-402 Definition.* ::
+*§ 10-402 Definition.*
 
 
 For purposes of this chapter:
@@ -2821,7 +2821,7 @@ a. "Crime of violence" means an act or series of acts that would constitute a mi
 
 
 
-*§ 10-403 Civil cause of action.* ::
+*§ 10-403 Civil cause of action.*
 
 
 Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
@@ -2839,7 +2839,7 @@ Except as otherwise provided by law, any person claiming to be injured by an ind
 
 
 
-*§ 10-404 Limitations.* ::
+*§ 10-404 Limitations.*
 
 
 a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
@@ -2851,7 +2851,7 @@ b. Nothing in this section requires a prior criminal complaint, prosecution or c
 
 
 
-*§ 10-405 Burden of proof.* ::
+*§ 10-405 Burden of proof.*
 
 
 Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
@@ -2861,7 +2861,7 @@ Conviction of a crime arising out of the same transaction, occurrence or event g
 
 
 
-*§ 10-406 Severability.* ::
+*§ 10-406 Severability.*
 
 
 If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
@@ -2870,11 +2870,11 @@ If any section, subsection, sentence, clause, phrase or other portion of this lo
 
 
 Chapter 5: Disclosure of Security Breach
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-501 Definitions.* ::
+*§ 10-501 Definitions.*
 
 
 For the purposes of this chapter,
@@ -2888,7 +2888,7 @@ b. The term "breach of security" shall mean the unauthorized disclosure or use b
 
 
 
-*§ 10-502 Agency disclosure of a security breach.* ::
+*§ 10-502 Agency disclosure of a security breach.*
 
 
 a. Any city agency that owns or leases data that includes personal identifying information and any city agency that maintains but does not own data that includes personal identifying information, shall immediately disclose to the police department any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach if such personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
@@ -2912,7 +2912,7 @@ e. Should disclosure pursuant to paragraph one, two or three of subdivision d be
 
 
 
-*§ 10-503 Agency disposal of personal identifying information.* ::
+*§ 10-503 Agency disposal of personal identifying information.*
 
 
 An agency that discards records containing any individual's personal identifying information shall do so in a manner intended to prevent retrieval of the information contained therein or thereon.
@@ -2922,7 +2922,7 @@ An agency that discards records containing any individual's personal identifying
 
 
 
-*§ 10-504 Agency disposal of electronics.* ::
+*§ 10-504 Agency disposal of electronics.*
 
 
 a. Any agency that disposes of electronic equipment that contains a hard disk drive, solid state drive or similar device capable of storing information while powered off, including but not limited to printers, copiers and computers, shall ensure, before its disposal, the erasure of all information contained therein, either through degaussing, physical destruction of the drive, a data wiping that includes at least two full overwrites or another erasure method specified by the department of information technology and telecommunications after consultation with all relevant agencies. This requirement shall not apply to boot related firmware.
@@ -2937,11 +2937,11 @@ c. For the purposes of this section, the term "dispose" includes a transfer of e
 
 
 Chapter 6: Gun offender Registration Act
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-601 Short Title.* ::
+*§ 10-601 Short Title.*
 
 
 This local law shall be known as the "Gun Offender Registration Act."
@@ -2951,7 +2951,7 @@ This local law shall be known as the "Gun Offender Registration Act."
 
 
 
-*§ 10-602 Definitions.* ::
+*§ 10-602 Definitions.*
 
 
 For purposes of this chapter:
@@ -2979,7 +2979,7 @@ i. "State correctional facility" shall mean a correctional facility as defined i
 
 
 
-*§ 10-603 Duty to register and to verify.* ::
+*§ 10-603 Duty to register and to verify.*
 
 
 a. A gun offender shall register with the department at the time sentence is imposed on a form prescribed by the department.
@@ -3017,7 +3017,7 @@ g. Any gun offender shall, within ten calendar days after establishing residence
 
 
 
-*§ 10-604 Duration of registration and verification.* ::
+*§ 10-604 Duration of registration and verification.*
 
 
 A gun offender shall register and verify for a period of four years from the date of conviction of a gun offense, if the conviction does not include imprisonment, or for a period of four years from the date of release after conviction of a gun offense, in the event the gun offender receives a sentence of imprisonment.
@@ -3027,7 +3027,7 @@ A gun offender shall register and verify for a period of four years from the dat
 
 
 
-*§ 10-605 Sharing of registration information.* ::
+*§ 10-605 Sharing of registration information.*
 
 
 The department is authorized to make the registry available to any regional or national government-operated registry of gun offenders for the purpose of sharing information. The department may accept files from any regional or national registry of gun offenders. The department is also authorized to make the registry available to other City agencies.
@@ -3037,7 +3037,7 @@ The department is authorized to make the registry available to any regional or n
 
 
 
-*§ 10-606 Cooperation with other agencies.* ::
+*§ 10-606 Cooperation with other agencies.*
 
 
 The department is authorized to cooperate with state and City agencies and the judiciary to facilitate implementation of this chapter. Assistance and cooperation in the implementation of this chapter shall be provided by other City departments and agencies upon request by the commissioner.
@@ -3047,7 +3047,7 @@ The department is authorized to cooperate with state and City agencies and the j
 
 
 
-*§ 10-607 Regulations.* ::
+*§ 10-607 Regulations.*
 
 
 The commissioner may make and promulgate such rules and regulations and establish such forms as are necessary to carry out the provisions of this chapter.
@@ -3057,7 +3057,7 @@ The commissioner may make and promulgate such rules and regulations and establis
 
 
 
-*§ 10-608 Penalties.* ::
+*§ 10-608 Penalties.*
 
 
 Any violation by a gun offender of this chapter or of rules and regulations established pursuant to this chapter, including any failure to register or to verify pursuant in the manner and within the time periods provided for in this chapter, shall be a misdemeanor punishable by a fine of not more than one thousand dollars or imprisonment of not more than one year or both. Failure to receive any form shall not excuse any violation of this chapter.
@@ -3066,11 +3066,11 @@ Any violation by a gun offender of this chapter or of rules and regulations esta
 
 
 Chapter 7: Unauthorized Recording In A Place of Public Performance
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-701 Definitions.* ::
+*§ 10-701 Definitions.*
 
 
 Whenever used in this chapter, the following terms shall have the following meanings:
@@ -3086,7 +3086,7 @@ c. "Unauthorized operation" means operation conducted without written authority 
 
 
 
-*§ 10-702 Unauthorized operation of a recording device in a place of public performance prohibited.* ::
+*§ 10-702 Unauthorized operation of a recording device in a place of public performance prohibited.*
 
 
 No person may engage in or cause or permit another to engage in the unauthorized operation of a recording device in a place of public performance.
@@ -3096,7 +3096,7 @@ No person may engage in or cause or permit another to engage in the unauthorized
 
 
 
-*§ 10-703 Penalties.* ::
+*§ 10-703 Penalties.*
 
 
 Any person who violates the provisions of this chapter shall be guilty of a misdemeanor which, upon a first conviction, shall be punishable by a term of imprisonment not to exceed six months, by a fine of not less than one thousand dollars nor more than five thousand dollars, or both such fine and imprisonment, and be subject to a civil penalty not to exceed five thousand dollars. Any person who violates the provisions of this chapter shall be guilty of a misdemeanor which, upon a second and any subsequent conviction occurring within one year of a first conviction, shall be punishable by a term of imprisonment not to exceed one year, by a fine of not less than five thousand dollars nor more than ten thousand dollars, or both such fine and imprisonment, and be subject to a civil penalty not to exceed ten thousand dollars. Such penalty shall be in addition to any other penalties or sanctions that may be imposed, and such penalties shall not limit or preclude any cause of action available to any person or entity injured or aggrieved by such action.
@@ -3106,7 +3106,7 @@ Any person who violates the provisions of this chapter shall be guilty of a misd
 
 
 
-*§ 10-704 Exception.* ::
+*§ 10-704 Exception.*
 
 
 This section shall not be interpreted to impair or restrict any law enforcement personnel or employees of governmental agencies or other entities, public or private, who, in the course of their employment, attempt to capture any visual image, sound recording, or other physical impression: (i) of a person engaging in criminal or otherwise illegal activity; or (ii) while conducting an investigation, surveillance, or monitoring of any person to obtain evidence of suspected illegal activity, including the suspected violation of any administrative rule or regulation, a suspected fraudulent insurance claim, or any other suspected fraudulent conduct or activity involving a violation of law or pattern of business practices adversely affecting public health or safety.
@@ -3116,7 +3116,7 @@ This section shall not be interpreted to impair or restrict any law enforcement 
 
 
 
-*§ 10-705 Signage.* ::
+*§ 10-705 Signage.*
 
 
 The operator of a venue as defined by paragraph (2) of subdivision b of § 10-701 of this subchapter may prominently display at the entrance to such venue, a sign stating in conspicuous letters that are at least three-fourths of an inch high that the unauthorized operation of a recording device at such place of public performance is prohibited by law and is punishable by criminal and civil penalties.
@@ -3126,7 +3126,7 @@ The operator of a venue as defined by paragraph (2) of subdivision b of § 10-70
 
 
 
-*§ 10-706 Rule-making authority.* ::
+*§ 10-706 Rule-making authority.*
 
 
 The police department may promulgate rules as necessary to carry out the provisions of this chapter.
@@ -3135,11 +3135,11 @@ The police department may promulgate rules as necessary to carry out the provisi
 
 
 Chapter 8: Silver Alert System
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-801 Definitions.* ::
+*§ 10-801 Definitions.*
 
 
 a. "Administering agency" shall mean any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor shall designate.
@@ -3153,7 +3153,7 @@ c. "Vulnerable senior" shall mean a person who is sixty-five years of age or old
 
 
 
-*§ 10-802 Silver alert system.* ::
+*§ 10-802 Silver alert system.*
 
 
 The administering agency shall establish a silver alert system, pursuant to the provisions of this chapter of the code, that will provide rapid notification to the public when a vulnerable senior is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
@@ -3163,7 +3163,7 @@ The administering agency shall establish a silver alert system, pursuant to the 
 
 
 
-*§ 10-803 Procedures.* ::
+*§ 10-803 Procedures.*
 
 
 a. The administering agency shall develop a protocol for notification to organizations such as media organizations, senior service providers, medical facilities and community organizations when a silver alert is issued.
@@ -3180,11 +3180,11 @@ e. The administering agency may use its discretion to issue a silver alert for a
 
 
 Chapter 9: Hit-and-Run Alert
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-901 Definitions.* ::
+*§ 10-901 Definitions.*
 
 
 As used in this chapter, the following terms have the following meanings:
@@ -3202,7 +3202,7 @@ Serious physical injury. The term "serious physical injury" has the same meaning
 
 
 
-*§ 10-902 Hit-and-run alert system.* ::
+*§ 10-902 Hit-and-run alert system.*
 
 
 a. The administering agency shall establish a hit-and-run alert system, pursuant to the provisions of this section, to provide rapid notification to the public when a hit-and-run involving serious physical injury or death occurs.
@@ -3217,11 +3217,11 @@ c. The administering agency shall issue a hit-and-run alert within 24 hours of t
 
 
 Chapter 10: Prevention of Interference With Reproductive Health Services
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-1001 Short title.* ::
+*§ 10-1001 Short title.*
 
 
 This chapter shall be known and may be cited as the "access to reproductive health care facilities law".
@@ -3233,7 +3233,7 @@ This chapter shall be known and may be cited as the "access to reproductive heal
 
 
 
-*§ 10-1002 Definitions.* ::
+*§ 10-1002 Definitions.*
 
 
 As used in this chapter, the following terms have the following meanings:
@@ -3251,7 +3251,7 @@ Reproductive health care facility. The term "reproductive health care facility" 
 
 
 
-*§ 10-1003 Prohibition of activities to prevent access to reproductive health care facilities.* ::
+*§ 10-1003 Prohibition of activities to prevent access to reproductive health care facilities.*
 
 
 a. Unlawful conduct. It is unlawful for any person:
@@ -3277,7 +3277,7 @@ b. Violations. Any person who violates any provision of subdivision a of this se
 
 
 
-*§ 10-1004 Civil cause of action.* ::
+*§ 10-1004 Civil cause of action.*
 
 
 Where there has been a violation of subdivision a of section 10-1003, any person whose ability to access a reproductive health care facility has been interfered with, and any owner or operator of a reproductive health care facility or owner of a building in which such a facility is located, may bring a civil action in any court of competent jurisdiction for any or all of the following relief:
@@ -3295,7 +3295,7 @@ c. Attorney's fees and costs.
 
 
 
-*§ 10-1005 Civil action by city to enjoin interference with access to reproductive health care facilities.* ::
+*§ 10-1005 Civil action by city to enjoin interference with access to reproductive health care facilities.*
 
 
 The corporation counsel may bring a civil action on behalf of the city in any court of competent jurisdiction for injunctive and other appropriate equitable relief in order to prevent or cure a violation of subdivision a of section 10-1003.
@@ -3307,7 +3307,7 @@ The corporation counsel may bring a civil action on behalf of the city in any co
 
 
 
-*§ 10-1006 Joint and several liability.* ::
+*§ 10-1006 Joint and several liability.*
 
 
 If it is found, in any action brought pursuant to the provisions of this chapter, that two or more of the named defendants acted in concert pursuant to a common plan or design to violate any provision of subdivision a of section 10-1003, such defendants shall be held jointly and severally liable for any fines or penalties imposed or any damages awarded.
@@ -3319,7 +3319,7 @@ If it is found, in any action brought pursuant to the provisions of this chapter
 
 
 
-*§ 10-1007 Construction.* ::
+*§ 10-1007 Construction.*
 
 
 a. This chapter does not limit the right of any person or entity to seek other available criminal penalties or civil remedies. The penalties and remedies provided under this chapter are cumulative and are not exclusive.
@@ -3334,11 +3334,11 @@ c. This chapter does not limit the lawful exercise of any authority vested in th
 
 
 Chapter 11: Actions By Victims of Gender-Motivated Violence
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-1101 Short title.* ::
+*§ 10-1101 Short title.*
 
 
 This chapter shall be known and may be cited as the "Victims of Gender-Motivated Violence Protection Law".
@@ -3350,7 +3350,7 @@ This chapter shall be known and may be cited as the "Victims of Gender-Motivated
 
 
 
-*§ 10-1102 Declaration of legislative findings and intent.* ::
+*§ 10-1102 Declaration of legislative findings and intent.*
 
 
 Gender-motivated violence inflicts serious physical, psychological, emotional and economic harm on its victims. Congressional findings have documented that gender-motivated violence is widespread throughout the United States, representing the leading cause of injuries to women ages 15 to 44. Further statistics have shown that three out of four women will be the victim of a violent crime sometime during their lives, and as many as 4,000,000 women a year are victims of domestic violence. Senate hearings, various task forces and the United States department of justice have concluded that victims of gender-motivated violence frequently face a climate of condescension, indifference and hostility in the court system and have documented the legal system's hostility towards sexual assault and domestic violence claims. Recognizing this widespread problem, congress in 1994 provided victims of gender-motivated violence with a cause of action in federal court through the violence against women act (VAWA) (section 13981 of title 42 of the United States code). In a May 15, 2000, decision, the United States supreme court held that the constitution provided no basis for a federal cause of action by victims of gender-motivated violence against perpetrators of offenses committed against them either under the commerce clause or the equal protection clause of the fourteenth amendment. In so ruling, the court held that it could "think of no better example of the police power, which the Founders denied the National Government and reposed in the States, than the suppression of violent crime and vindication of its victims."
@@ -3362,7 +3362,7 @@ Gender-motivated violence inflicts serious physical, psychological, emotional an
 
 
 
-*§ 10-1103 Definitions.* ::
+*§ 10-1103 Definitions.*
 
 
 As used in this chapter, the following terms have the following meanings:
@@ -3378,7 +3378,7 @@ Crime of violence motivated by gender. The term "crime of violence motivated by 
 
 
 
-*§ 10-1104 Civil cause of action.* ::
+*§ 10-1104 Civil cause of action.*
 
 
 Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence motivated by gender has a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
@@ -3398,7 +3398,7 @@ d. Such other relief as a court may deem appropriate.
 
 
 
-*§ 10-1105 Limitations.* ::
+*§ 10-1105 Limitations.*
 
 
 a. A civil action under this chapter shall be commenced within seven years after the alleged crime of violence motivated by gender occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to seven years after the inability to commence the action ceases.
@@ -3414,7 +3414,7 @@ c. Nothing in this section requires a prior criminal complaint, prosecution or c
 
 
 
-*§ 10-1106 Burden of proof.* ::
+*§ 10-1106 Burden of proof.*
 
 
 Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter is conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence motivated by gender must be proved by a preponderance of the evidence.
@@ -3426,7 +3426,7 @@ Conviction of a crime arising out of the same transaction, occurrence or event g
 
 
 
-*§ 10-1107 Severability.* ::
+*§ 10-1107 Severability.*
 
 
 If any section, subsection, sentence, clause, phrase or other portion of this chapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction, such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.

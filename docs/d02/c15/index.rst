@@ -1,12 +1,12 @@
 Title 29: Loft Board
-===================================================
+======================================================================================================
 
 Chapter 1: Practice and Procedure
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Organization and Voting.* ::
+*§ 1-01 Organization and Voting.*
 
 
 (a) Organization. The Loft Board (hereinafter referred to as "the Board") shall consist of no fewer than 5 and no more than 9 members, including the Commissioner of the Department of Buildings, serving ex officio as chair, the Commissioner of the Fire Department, serving ex officio as a member, and one representative of loft manufacturing interests, one representative of the real estate industry and one representative of loft residential tenants, respectively. All other members of the Board shall represent the public. The Board may conduct business with fewer than the full complement of its appointed members when one or more vacancies are created by the death, resignation, or inability of a member or members to continue serving on the Board for any reason, until the appointment of replacement(s) by the Mayor.
@@ -20,7 +20,7 @@ Chapter 1: Practice and Procedure
 
 
 
-*§ 1-02 Rules and Regulations, Method of Adoption.* ::
+*§ 1-02 Rules and Regulations, Method of Adoption.*
 
 
 The Board shall issue rules and regulations governing its procedures and the exercise of its powers under Article 7-C of the New York State Multiple Dwelling Law and Executive Order No. 129 of Mayor Michael R. Bloomberg, or any successor Executive Order thereto. Loft Board staff shall be responsible for drafting rules, regulations, guidelines and procedures at the direction of the Chair or by vote of the Board. In addition, draft rules, regulations, guidelines and procedures may be presented to the Board for consideration by Board members or other interested parties. Loft Board staff shall comply with § 1043 of the New York City Charter in the promulgation of all rules and regulations. All draft rules and regulations proposed shall be submitted to the Board for comment and review before they are published for comment. Draft rules and regulations may be modified at the direction of the Chair or by vote of the Board. Upon vote of the Board, rules and regulations shall be adopted and ordered into effect following periods for public notification and comment, mandated by § 1043 of the New York City Charter, and hearings when required by § 282(d) of Article 7-C of the New York State Multiple Dwelling Law, except that emergency regulations or guidelines may be adopted without prior public notification and comment. Following consideration of comments received and public testimony, the Board may modify or amend the proposed rules or regulations in response thereto.
@@ -30,7 +30,7 @@ The Board shall issue rules and regulations governing its procedures and the exe
 
 
 
-*§ 1-03 Meetings.* ::
+*§ 1-03 Meetings.*
 
 
 (a) The Board shall meet in regularly scheduled sessions. It may also meet in special sessions at the request of the Chair or by affirmative vote of 5 members.
@@ -50,7 +50,7 @@ The Board shall issue rules and regulations governing its procedures and the exe
 
 
 
-*§ 1-04 Minutes and Transcripts.* ::
+*§ 1-04 Minutes and Transcripts.*
 
 
 (a) Minutes shall be taken at every regular session of the Board and shall be made available to Board members and the public no later than two weeks from the date of a session.
@@ -66,7 +66,7 @@ The Board shall issue rules and regulations governing its procedures and the exe
 
 
 
-*§ 1-05 Public Access to Minutes and Records/Procedures.* ::
+*§ 1-05 Public Access to Minutes and Records/Procedures.*
 
 
 Minutes of open and Executive sessions and all records of the Board available under Article 6 of the New York State Public Officers Law (The Freedom of Information Law) shall be available for public inspection, by mail or by appointment upon prior written request, at the offices of the New York City Loft Board, weekdays, between the hours of 10 a.m. and 4 p.m. and during other business hours of the office. Copies of all such minutes and records may be obtained by the public at a charge of 25 per page no bigger than 9 x 14 inches. Requests for inspection or for copies of materials available under the Freedom of Information Law should be addressed to: Records Access Officer, New York City Loft Board. When the Records Access Officer denies access to records in whole or in part, such determination may be appealed within 30 days by written application to: Records Access Officer, New York City Loft Board.
@@ -76,7 +76,7 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 
 
-*§ 1-06 Applications to the Loft Board.* ::
+*§ 1-06 Applications to the Loft Board.*
 
 
 (a) (1) All applications to the Loft Board concerning coverage, hardship claims, rent adjustments, fixture fee disputes, exemption, and any other matters within the purview of the Loft Board under Article 7-C of the Multiple Dwelling Law ("MDL"), must be submitted to the Office of the Loft Board, on forms approved by the Loft Board, together with any additional information as may be required. The forms may not be altered or re-typed. Except as otherwise described in the Loft Board rules, the applicant must submit 5 copies of the application, and shall be required to list, to the best of his or her knowledge, all affected parties when filing the application. The failure of an applicant to list all of the affected parties on an application may result in a delay in processing the application, or return of the application to the applicant as incomplete.
@@ -178,7 +178,7 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 
 
-*§ 1-06.1 Limitations on Applications.* ::
+*§ 1-06.1 Limitations on Applications.*
 
 
 (a)  Filing deadline. In accordance with the terms and provisions of § 282-a of the MDL, a coverage application or an initial registration application form for coverage pursuant to Article 7-C must be filed with the Loft Board on or before March 11, 2014, which is 6 months following the effective date of this subdivision (a).
@@ -194,7 +194,7 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 
 
-*§ 1-07 Reconsideration of Loft Board Determination.* ::
+*§ 1-07 Reconsideration of Loft Board Determination.*
 
 
 (a)  Reconsideration Application.
@@ -236,7 +236,7 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 
 
-*§ 1-07.1 Appeal from a Determination of the Loft Board Staff or the Environmental Control Board, or Determination of a Hearing Officer Under 29 RCNY § 2-04.* ::
+*§ 1-07.1 Appeal from a Determination of the Loft Board Staff or the Environmental Control Board, or Determination of a Hearing Officer Under 29 RCNY § 2-04.*
 
 
    (1) Appeal from a Determination of the Loft Board Staff or Hearing Officer.
@@ -266,7 +266,7 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 
 
-*§ 1-08 Ex Parte Communications on Pending Applications.* ::
+*§ 1-08 Ex Parte Communications on Pending Applications.*
 
 
 (a) After an application has been filed with the Loft Board, an employee of the Board assigned to conduct a conference or hearing, or make findings of fact and recommendations on that application, shall not communicate on any substantive matter involving the merits of the application with one party to a dispute without notice and opportunity for all parties to participate.
@@ -280,7 +280,7 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 
 
-*§ 1-09 Action by the Board on Its Own Initiative.* ::
+*§ 1-09 Action by the Board on Its Own Initiative.*
 
 
 The Board on its own initiative may commence appropriate proceedings or investigations pursuant to its powers or duties under Article 7-C of the Multiple Dwelling Law, including, but not limited to, findings, determinations or enforcement proceedings concerning coverage, hardship claims, rent adjustments, fixture fee disputes, exemptions and compliance with requirements of Article 7-C, including the minimum housing maintenance standards promulgated by the Board. Prior to making a finding or determination pursuant to Article 7-C, the Board shall afford the party against whom a proceeding is directed an opportunity to be heard on not less than 10 days notice by regular mail.
@@ -290,7 +290,7 @@ The Board on its own initiative may commence appropriate proceedings or investig
 
 
 
-*§ 1-10 Administrative Authority and Correspondence.* ::
+*§ 1-10 Administrative Authority and Correspondence.*
 
 
 Administrative authority is vested in the Executive Director of the staff, under the direction of the Chair. Official correspondence regarding administrative matters shall be signed by the Executive Director or by his or her designees. Official correspondence to the Board may be addressed to the New York City Loft Board or to the attention of the Chair or the Executive Director at the New York City Loft Board.
@@ -300,7 +300,7 @@ Administrative authority is vested in the Executive Director of the staff, under
 
 
 
-*§ 1-11 Petitioning Board to Adopt Rules.* ::
+*§ 1-11 Petitioning Board to Adopt Rules.*
 
 
 (a) Definitions. 
@@ -347,11 +347,11 @@ Administrative authority is vested in the Executive Director of the staff, under
 
 
 Chapter 2: Interim Multiple Dwellings
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Code Compliance Deadlines, the Narrative Statement Process, Code Compliance Work and Removal from the Loft Board's Jurisdiction.* ::
+*§ 2-01 Code Compliance Deadlines, the Narrative Statement Process, Code Compliance Work and Removal from the Loft Board's Jurisdiction.*
 
 
 (a)  Code compliance timetable for Interim Multiple Dwellings (IMD's). The owner of any building, structure or portion thereof that meets the criteria for an IMD set forth in § 281 of Article 7-C and Loft Board coverage regulations, shall comply with the code compliance deadlines set forth below. Any building or unit that is not covered by Article 7-C because of the denial of a grandfathering application or expiration of study area status is not required to be legalized pursuant to these regulations, unless either the area in which the building is located is rezoned to permit residential use or a unit or units at the building qualify for coverage pursuant to M.D.L. § 281(4) or § 281(5). However, the building must still comply with all other applicable laws and regulations. Definitions. When used in this section, the following definitions apply, unless context clearly dictates otherwise:
@@ -1719,7 +1719,7 @@ The following Department of Buildings memoranda are included here for informatio
 
 
 
-*§ 2-01.1 Failure to Take Reasonable and Necessary Action to Legalize Building.* ::
+*§ 2-01.1 Failure to Take Reasonable and Necessary Action to Legalize Building.*
 
 
 (a)  Definition of Reasonable and Necessary Action.
@@ -1815,7 +1815,7 @@ The following Department of Buildings memoranda are included here for informatio
 
 
 
-*§ 2-02 Harassment.* ::
+*§ 2-02 Harassment.*
 
 
 (a) Applicability. These harassment rules apply to all harassment applications filed with the Loft Board, after September 11, 2013, the effective date of this amended rule. Harassment applications are subject to the harassment rule in effect on the date of the initial filing of the application.
@@ -1941,7 +1941,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 
-*§ 2-03 Hardship Applications.* ::
+*§ 2-03 Hardship Applications.*
 
 
 (a) Procedures.
@@ -2083,7 +2083,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 
-*§ 2-04 Minimum Housing Maintenance Standards.* ::
+*§ 2-04 Minimum Housing Maintenance Standards.*
 
 
 (a) Definitions. As used in these rules, the below terms have the following meanings:
@@ -2320,7 +2320,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 
-*§ 2-05 Registration.* ::
+*§ 2-05 Registration.*
 
 
 (a)  Definitions.
@@ -2400,7 +2400,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 
-*§ 2-06 Interim Rent Guidelines.* ::
+*§ 2-06 Interim Rent Guidelines.*
 
 
 (For time limitations on filing applications for rent overcharges, see 29 RCNY § 1-06.1).
@@ -2448,7 +2448,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 
-*§ 2-06.1 Interim Rent Guidelines (II).* ::
+*§ 2-06.1 Interim Rent Guidelines (II).*
 
 
 (a) Coverage. 
@@ -2502,7 +2502,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 
-*§ 2-06.2 Interim Rent Guidelines and Rent Adjustments pursuant to MDL § 286(2)(i).* ::
+*§ 2-06.2 Interim Rent Guidelines and Rent Adjustments pursuant to MDL § 286(2)(i).*
 
 
 (a) Coverage.
@@ -2554,7 +2554,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 
-*§ 2-07 Sales of Improvements.* ::
+*§ 2-07 Sales of Improvements.*
 
 
 (a)  Definitions. The following terms shall have the following definitions unless context clearly indicates otherwise.
@@ -2784,7 +2784,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 
 
-*§ 2-08 Coverage and Issues of Status.* ::
+*§ 2-08 Coverage and Issues of Status.*
 
 
 Registration as an interim multiple dwelling (hereinafter "IMD") with the New York City Loft Board (hereinafter "Loft Board") shall be required when a building, structure or portion thereof meets the criteria for an IMD set forth in §§ 281, 282-a of Article 7-C of the Multiple Dwelling Law (hereinafter "MDL") and these rules.
@@ -3116,7 +3116,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
 
 
-*§ 2-08.1 Eviction of Residential Occupants.* ::
+*§ 2-08.1 Eviction of Residential Occupants.*
 
 
 (a)  Grounds for eviction. The landlord of an IMD registered with the Loft Board may bring eviction proceedings against the residential occupant of a unit in a court of competent jurisdiction on any of the following grounds:
@@ -3186,7 +3186,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
 
 
-*§ 2-09 Occupant Qualified for Article 7-C Protection, Privity, Subletting and Recovery of Subdivided Unit.* ::
+*§ 2-09 Occupant Qualified for Article 7-C Protection, Privity, Subletting and Recovery of Subdivided Unit.*
 
 
 (a) Definitions.
@@ -3428,7 +3428,7 @@ Otherwise, the rent adjustments apply to the next regular rent payment due after
 
 
 
-*§ 2-10 Sales of Rights.* ::
+*§ 2-10 Sales of Rights.*
 
 
 (a) Right to sell and the limitations on an occupant's right to sell.
@@ -3542,7 +3542,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 
-*§ 2-11 Fees.* ::
+*§ 2-11 Fees.*
 
 
 (a) Collection of fees. The Loft Board may charge and collect reasonable fees in the execution of its responsibilities. The Loft Board may, by amending these rules, add to, delete from or modify the types of applications for which fees are charged and/or revise the amount of the fee imposed.
@@ -3672,7 +3672,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 
-*§ 2-11.1 Fine Schedule.* ::
+*§ 2-11.1 Fine Schedule.*
 
 
 (a) Collection of fines. The Loft Board may charge and collect fines for violation of its rules. The Loft Board may, by amending these rules, modify the types of violations for which fines are assessed and/or revise the amount of the fine imposed.
@@ -3912,7 +3912,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 
-*§ 2-12 MDL § 286(2)(ii) Rent Adjustments.* ::
+*§ 2-12 MDL § 286(2)(ii) Rent Adjustments.*
 
 
 (a) Definitions.

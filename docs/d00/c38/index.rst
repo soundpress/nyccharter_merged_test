@@ -1,10 +1,10 @@
 Chapter 27: Board of Standards and Appeals
-===================================================
+======================================================================================================
 Section 659.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 659. Constitution and appointment.* ::
+*Section 659. Constitution and appointment.*
 
 
 a. There shall be an independent board of standards and appeals located within the office of administrative trials and hearings. The board of standards and appeals shall consist of five members to be termed commissioners to be appointed by the mayor each for a term of six years.
@@ -19,10 +19,10 @@ d. Vacancies shall be filled by the mayor for the unexpired term of the member w
 
 
 Section 660.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 660. Executive director of standards and appeals.* ::
+*Section 660. Executive director of standards and appeals.*
 
 
 a. There shall be an executive director of standards and appeals who shall be appointed by and shall hold office at the pleasure of the board of standards and appeals.
@@ -33,10 +33,10 @@ b. The executive director shall have had at least five years' experience in admi
 
 
 Section 661.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 661. Staff, powers and duties.* ::
+*Section 661. Staff, powers and duties.*
 
 
 a. The executive director may appoint such engineers, architects, and experts and other officers and employees as may be required to perform the duties of his or her office, with the approval of the board and within the appropriation provided therefor. The executive director shall also ensure the board has access to the advice of a state certified general real estate appraiser, either by engaging the services of an appraiser employed or retained by a city agency, retaining the services of a third party, or appointing at least one staff member, provided that such state certified general real estate appraiser shall have no less than five years' experience in analyzing and auditing real estate investments, with the approval of the board and within the appropriation provided therefor.
@@ -49,10 +49,10 @@ b. The executive director shall assign and supervise all members of his or her s
 
 
 Section 662.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 662. Removal by mayor after hearing.* ::
+*Section 662. Removal by mayor after hearing.*
 
 
 Any member may be removed by the mayor on proof of official misconduct, or of negligence in official duties, or of conduct in any manner connected with his or her official duties which tends to discredit his or her office, or of mental or physical inability to perform his or her duties; but before removal he or she shall receive a copy of the charges and shall be entitled to a hearing before the mayor and to the assistance of counsel at such hearing.
@@ -61,10 +61,10 @@ Any member may be removed by the mayor on proof of official misconduct, or of ne
 
 
 Section 663.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 663. Meetings.* ::
+*Section 663. Meetings.*
 
 
 Meetings of the board shall be held at the call of the chair and at such other times as the board may determine. The chair, or in his or her absence the vice-chair may administer oaths and compel the attendance of witnesses. All hearings before the board shall be open to the public and shall be before at least three members of the board, and a concurring vote of at least three members shall be necessary to a decision to grant an application or an appeal, to revoke or modify a variance, special permit or other decision of the board, or to make, amend or repeal a rule or regulation. The board shall keep minutes of its proceedings, showing the vote of each member upon every question, or if absent or failing to vote, indicating such fact, and shall also keep records of its examinations and other official action. Such minutes and such records shall be public records.
@@ -73,10 +73,10 @@ Meetings of the board shall be held at the call of the chair and at such other t
 
 
 Section 665.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 665. Rules and regulations; bulletin.* ::
+*Section 665. Rules and regulations; bulletin.*
 
 
 a. Every rule or regulation and every amendment or repeal thereof, and every order, requirement, decision or determination of the board shall immediately be filed in the office of the board and shall be a public record.
@@ -89,10 +89,10 @@ c. [Repealed.]
 
 
 Section 666.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 666. Jurisdiction.* ::
+*Section 666. Jurisdiction.*
 
 
 The board shall have power:
@@ -131,10 +131,10 @@ The board shall have power:
 
 
 Section 667.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 667. Inspections.* ::
+*Section 667. Inspections.*
 
 
 Any member of the board or any subordinate thereof shall, when authorized in writing by the chair, and the director or any officer or employee designated by the chair in writing shall have power at any time to enter, inspect and examine any premises, buildings, structures, vehicles or vessels for the purpose of carrying out the duties of the board and shall report his or her findings in writing to the board. Refusal to permit such entry shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days' imprisonment, or by a fine of not more than fifty dollars, or both.
@@ -143,10 +143,10 @@ Any member of the board or any subordinate thereof shall, when authorized in wri
 
 
 Section 668.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 668. Variances and special permits.* ::
+*Section 668. Variances and special permits.*
 
 
 a. The applicant, the property owner, and the preparer of any document accompanying an application to vary the zoning resolution or an application for a special permit shall certify, executed under penalty of perjury, that the statements made in the application and accompanying documents are correct. Such certifications shall be notarized.
@@ -197,10 +197,10 @@ l. The board of standards and appeals may promulgate such rules and prescribe su
 
 
 Section 669.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 669. Procedure on appeals.* ::
+*Section 669. Procedure on appeals.*
 
 
 a. An appeal may be taken by any person aggrieved or by the head of any agency.
@@ -215,10 +215,10 @@ d. Any decision of the board under this section may be reviewed in accordance wi
 
 
 Section 670.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 670. False statements.* ::
+*Section 670. False statements.*
 
 
 a. It shall be a violation of this section for any person to knowingly make or allow to be made a material false statement in any certificate, professional certification, form, signed statement, application or report that is either submitted directly to the board of standards and appeals or that is generated with the intent that the board rely on its assertions.

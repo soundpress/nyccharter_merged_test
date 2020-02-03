@@ -1,10 +1,10 @@
 Chapter 8: City Planning
-===================================================
+======================================================================================================
 Section 191.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 191. Department and director of city planning.* ::
+*Section 191. Department and director of city planning.*
 
 
 a. There shall be a department of city planning, the head of which shall be the director of city planning. The director of city planning shall be the chair and a member of the city planning commission and shall serve at the pleasure of the mayor.
@@ -41,10 +41,10 @@ c. The department shall employ such planning experts, engineers, architects and 
 
 
 Section 192.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 192. City planning commission.* ::
+*Section 192. City planning commission.*
 
 
 a. There shall be a city planning commission to consist of the chair and twelve other members. The mayor shall appoint the chair and six other members of the commission, the public advocate shall appoint one member, and each borough president shall appoint one member. Members shall be chosen for their independence, integrity and civic commitment. Appointments of all members, except for the chair, shall be subject to the advice and consent of the council. For such appointments by officials other than the mayor, the procedure for obtaining the advice and consent of the council shall be the same as the procedure provided for in section thirty-one for appointments by the mayor. Except as otherwise provided in section one hundred ninety-one, no member shall hold any other city office. Members other than the chair shall be appointed for a term of five years; provided, however, that of the members other than the chair, one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-one; one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-two; one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-three; one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-four; and two members appointed by the mayor, the member appointed by the public advocate and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-five. The borough presidents shall determine by lot the length of the term to be served by the member first appointed by each borough president. The appointing officials shall make their first appointments to the commission on or before the first day of March, nineteen hundred ninety. The commission members so appointed shall assume office on the first day of July, nineteen hundred ninety. Members of the commission shall serve until their successors have been confirmed. Any vacancy occurring other than by expiration of term shall be filled by the official who appointed the member in the same manner as the original appointment. A person so appointed shall serve for the unexpired portion of the term of the member succeeded. Terms shall begin on the next date after the expiration date of the preceding term.
@@ -63,10 +63,10 @@ f. Not later than the thirty-first day of December, nineteen hundred ninety-two 
 
 
 Section 193.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 193. Removal of commission members.* ::
+*Section 193. Removal of commission members.*
 
 
 A member of the commission other than the chair may be removed by the appointing official only upon proof of official misconduct, neglect of official duties, conduct in any manner connected with his or her official duties which tends to discredit his or her office, or mental or physical inability to perform his or her office, or mental or physical inability to perform his or her duties. Before removal, any such member shall receive a copy of the charges and shall be entitled to a hearing on a record by the office of administrative trials and hearings, which shall make final findings of fact, recommend a decision and submit such findings and recommended decision to the appointing official for final action.
@@ -75,10 +75,10 @@ A member of the commission other than the chair may be removed by the appointing
 
 
 Section 195.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 195. Acquisitions of office space.* ::
+*Section 195. Acquisitions of office space.*
 
 
 Acquisitions by the city of office space or existing buildings for office use, whether by purchase, condemnation, exchange or lease, shall be subject to the following review and approval procedure:
@@ -95,10 +95,10 @@ Acquisitions by the city of office space or existing buildings for office use, w
 
 
 Section 196.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 196. Affected boards and borough presidents.* ::
+*Section 196. Affected boards and borough presidents.*
 
 
 For purposes of this chapter: the term "affected community board" shall mean the community board for a community district in which land included in a plan or an application pursuant to this chapter is located; the term "affected borough president" shall mean the president of a borough in which land included in such a plan or an application is located; and a borough board shall be deemed "affected" if such a plan or application includes land within two or more community districts within the borough represented by such borough board.
@@ -107,10 +107,10 @@ For purposes of this chapter: the term "affected community board" shall mean the
 
 
 Section 197-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 197-a. Plans.* ::
+*Section 197-a. Plans.*
 
 
 a. Plans for the development, growth, and improvement of the city and of its boroughs and community districts may be proposed by (1) the mayor, (2) the city planning commission, (3) the department of city planning, (4) a borough president with respect to land located within his or her borough, (5) a borough board with respect to land located within its borough, or (6) a community board with respect to land located within its community district. A community board, borough board or borough president that proposes any such plan shall submit the plan together with a written recommendation to the city planning commission for determinations pursuant to subdivision b of this section. Any such submission may be made by a community board, borough board or borough president only after the board or borough president proposing such a plan has held a public hearing on the plan.
@@ -125,10 +125,10 @@ d. Within a reasonable time period following review and recommendation of a plan
 
 
 Section 197-b.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 197-b. Notification of plans and proposals.* ::
+*Section 197-b. Notification of plans and proposals.*
 
 
 a. Advance notice of all preliminary and final plans of public agencies and public benefit corporations or of private agencies, entities or developers filed with the city that relate to the use, development or improvement of land subject to city regulation shall be given to the affected community board or boards and the office of the affected borough president, provided that exceptions may be made in matters of no appreciable public concern by agency rule.
@@ -139,10 +139,10 @@ b. Copies of (1) all requests for proposals and other solicitations of proposals
 
 
 Section 197-c.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 197-c. Uniform land use review procedure.* ::
+*Section 197-c. Uniform land use review procedure.*
 
 
 a. Except as otherwise provided in this charter, applications by any person or agency for changes, approvals, contracts, consents, permits or authorization thereof, respecting the use, development or improvement of real property subject to city regulation shall be reviewed pursuant to a uniform review procedure in the following categories:
@@ -207,10 +207,10 @@ m. A community or borough board may review an application which is subject to th
 
 
 Section 197-d.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 197-d. Council Review.* ::
+*Section 197-d. Council Review.*
 
 
 a. The city planning commission shall file with the council and with the affected borough president a copy of its decisions to approve or approve with modifications (1) all matters described in subdivision a of section one hundred ninety-seven-c, (2) plans pursuant to section one hundred ninety-seven-a, and (3) changes in the text of the zoning resolution pursuant to sections two hundred and two hundred one. Any such filing of a decision pursuant to section one hundred ninety-seven-c shall be completed prior to the expiration of the sixty-day period for action by the commission. Any such filing with the council shall include copies of all written recommendations of community boards, borough boards and borough presidents with respect to the decision being filed.
@@ -237,10 +237,10 @@ g. If a decision of the commission approving an application is not subject to co
 
 
 Section 198.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 198. City map.* ::
+*Section 198. City map.*
 
 
 a. The city map is hereby continued.
@@ -253,10 +253,10 @@ c. The city map shall be on file in the office of the department of city plannin
 
 
 Section 199.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 199. Projects and changes in city map.* ::
+*Section 199. Projects and changes in city map.*
 
 
 a. No improvement or project affecting the city map and no addition to or change in the city map shall be authorized otherwise than as provided in this charter.
@@ -267,10 +267,10 @@ b. The review of any proposed addition to or change in the city map initiated by
 
 
 Section 200.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 200. Zoning resolution.* ::
+*Section 200. Zoning resolution.*
 
 
 a. Except as provided in subdivision b, any existing resolution or regulation of the council, the board of estimate or of the city planning commission to regulate and limit the height and bulk of buildings, to regulate and determine the area of yards, courts and other open spaces, to regulate density of population or to regulate and restrict the locations of trades and industries and location of buildings designed for specific uses or creating districts for any such purpose, including any such regulation which provides that the board of standards and appeals may determine and vary the application of such resolutions or regulations in harmony with their general purpose and intent and in accordance with general or specific rules contained in such regulations, may be amended, repealed or added to only in the following manner:
@@ -293,10 +293,10 @@ b. Designations of zoning districts under the zoning resolution and the issuance
 
 
 Section 201.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 201. Applications for zoning changes and special permits.* ::
+*Section 201. Applications for zoning changes and special permits.*
 
 
 a. Applications for changes in the zoning resolution may be filed by any taxpayer, community board, borough board, borough president, by the mayor or by the land use committee of the council if two-thirds of the members of the committee shall have voted to approve such filing with the city planning commission. All such applications involving changes in the designation of zoning districts under the zoning resolution shall be subject to review and approval pursuant to section one hundred ninety-seven-c, and one hundred ninety-seven-d. For applications involving other changes in zoning resolutions and regulations, the commission prior to taking action upon any such application shall refer it to the affected community boards or borough boards for a public hearing and recommendation.
@@ -307,10 +307,10 @@ b. Applications for special permits within the jurisdiction of the city planning
 
 
 Section 202.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 202. Platting of land and dedication of streets and public places.* ::
+*Section 202. Platting of land and dedication of streets and public places.*
 
 
 a. No map of a subdivision or platting of land into streets, avenues or public places and blocks within the limits of the city shall be received for filing in the office in which instruments affecting real property are required to be recorded in the county in which the land is situated, unless such map shall have been reviewed and approved pursuant to section one hundred ninety-seven-c and section one hundred ninety-seven-d. If such map is disapproved, the chair of the city planning commission shall certify such fact in writing upon such map, and such map shall be received only for record without such approval.
@@ -321,10 +321,10 @@ b. No street, avenue, highway or public place, the layout of which has not been 
 
 
 Section 203.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 203. Criteria for location of city facilities.* ::
+*Section 203. Criteria for location of city facilities.*
 
 
 a. Not later than the first day of July, nineteen hundred ninety, the mayor, after consulting with each of the borough presidents, shall file with the city planning commission proposed rules establishing criteria for (1) the location of new city facilities and (2) the significant expansion, closing or significant reduction in size or capacity for service delivery of existing facilities. The criteria shall be designed to further the fair distribution among communities of the burdens and benefits associated with city facilities, consistent with community needs for services and efficient and cost effective delivery of services and with due regard for the social and economic impacts of such facilities upon the areas surrounding the sites. Not later than thirty days after the filing of such proposed rules, the city planning commission shall publish a notice of proposed rule making under section one thousand forty-three with regard to such rules, as proposed by the mayor or as proposed to be modified by the commission. Promptly thereafter, the commission shall approve or approve with modifications the rules and shall file the rules as approved with the council.
@@ -337,10 +337,10 @@ c. For purposes of this chapter, "city facility" shall mean a facility used or o
 
 
 Section 204.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 204. Citywide statement of needs.* ::
+*Section 204. Citywide statement of needs.*
 
 
 a. Each year not later than the fifteenth day of November, the mayor shall submit to the council, borough presidents, borough boards and community boards a citywide statement of needs concerning city facilities prepared in accordance with the criteria established pursuant to section two hundred three. Copies of the statement shall also be made available to the public in the main branch of the public library in each borough. The statement shall identify by agency and program: (1) all new city facilities and all significant expansions of city facilities for which the mayor or an agency intends to make or propose an expenditure or to select or propose a site during the ensuing two fiscal years and (2) all city facilities which the city plans to close or to reduce significantly in size or in capacity for service delivery during the ensuing two fiscal years.
@@ -371,10 +371,10 @@ i.*   The map and explanatory text accompanying the statement of needs shall 
 
 
 Section 205.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 205. Comprehensive waterfront plan.* ::
+*Section 205. Comprehensive waterfront plan.*
 
 
 Not later than the thirty-first day of December, two thousand and ten and not less than every ten years thereafter, the department of city planning shall file with the mayor, the council, the public advocate, the borough presidents, and the community boards, a comprehensive waterfront plan. Such plan shall be drafted in consultation with the appropriate city, state, and federal agencies and regulatory bodies, and with input from the public, and shall include (1) an assessment of waterfront resources for the natural waterfront, the public waterfront, the working waterfront and the developing waterfront, (2) a statement of the planning policy of the department of city planning, which policy shall take into consideration, among other things, the ten year capital strategy, the assessment of waterfront resources included pursuant to (1) above, the four year capital plan, the strategic policy statements provided for in section seventeen and plans approved pursuant to section one hundred ninety-seven-a and (3) proposals for implementing the planning policy of the department whether by amendment of the zoning resolution, development of plans or otherwise.
@@ -383,10 +383,10 @@ Not later than the thirty-first day of December, two thousand and ten and not le
 
 
 Section 206.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 206. Tracking of commitments.* ::
+*Section 206. Tracking of commitments.*
 
 
 a. For the purposes of this section:

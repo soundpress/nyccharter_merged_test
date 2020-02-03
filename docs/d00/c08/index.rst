@@ -1,10 +1,10 @@
 Chapter 7: Tax Appeals
-===================================================
+======================================================================================================
 Section 150.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 150. Office of administrative tax appeals.* ::
+*Section 150. Office of administrative tax appeals.*
 
 
 There shall be an office of administrative tax appeals, which shall consist of the tax commission established by section one hundred fifty-three of this charter and the tax appeals tribunal established by section one hundred sixty-eight of this charter and shall provide staff and administrative assistance to such commission and such tribunal. The office of administrative tax appeals shall operate pursuant to a written agreement between the president of the tax commission and the president of the tax appeals tribunal, and shall be headed by a director appointed in accordance with such agreement. Such director may be the president of the tax commission or the president of the tax appeals tribunal or both. If there is no such agreement, such office shall provide staff and administrative assistance to such commission and such tribunal in accordance with the respective powers of such presidents.
@@ -13,10 +13,10 @@ There shall be an office of administrative tax appeals, which shall consist of t
 
 
 Section 153.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 153. Tax commission.* ::
+*Section 153. Tax commission.*
 
 
 a. There shall be within the office of administrative tax appeals a tax commission to consist of the president and six commissioners who shall be appointed by the mayor for a term of six years, except the term of two commissioners first appointed pursuant to this section shall be two years, the term of the president and two additional commissioners shall be four years and the term of the remaining two commissioners shall be six years. Each commissioner shall have at least three years business experience in the field of real estate or real estate law. At least one resident of each borough shall be included among the commissioners.
@@ -27,10 +27,10 @@ b. The tax commission shall be charged with the duty of reviewing and correcting
 
 
 Section 154.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 154. Administrative powers of commissioners.* ::
+*Section 154. Administrative powers of commissioners.*
 
 
 Any commissioner shall exercise such other powers and duties as the president may from time to time assign to him.
@@ -39,10 +39,10 @@ Any commissioner shall exercise such other powers and duties as the president ma
 
 
 Section 155.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 155. Annual report.* ::
+*Section 155. Annual report.*
 
 
 a. The tax commission shall issue an annual report to the city council and the mayor not later than the first day of March in each year. Such report shall include the following information compiled for the previous calendar year:
@@ -67,10 +67,10 @@ b. The foregoing information shall be classified, wherever applicable, according
 
 
 Section 156.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 156. Right of entry.* ::
+*Section 156. Right of entry.*
 
 
 The president or any commissioner may enter upon real property and into buildings and structures at all reasonable times to ascertain the character of the property. Refusal by the owner or his agent to permit such entry shall be triable by a judge of the criminal court and punishable by not more than thirty days' imprisonment, or by a fine of not more than fifty dollars, or both.
@@ -79,10 +79,10 @@ The president or any commissioner may enter upon real property and into building
 
 
 Section 163.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 163. Application for correction of assessment for taxation.* ::
+*Section 163. Application for correction of assessment for taxation.*
 
 
 a. When used in this chapter:
@@ -139,10 +139,10 @@ f. The filing of an application in the manner and form hereinabove described sha
 
 
 Section 164.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 164. Procedure on application.* ::
+*Section 164. Procedure on application.*
 
 
 a. Between the fifteenth day of January and the twenty-fifth day of May, the tax commission may itself or by a commissioner or assessor thereunto authorized by the commission or any other person with qualifications relevant to the review of real property tax assessments, including real estate and real estate law, as determined by the commission and consistent with state law, act upon applications, compel the attendance of witnesses, administer oaths or affirmations and examine applicants and other witnesses under oath. It shall make rules of practice for proceedings before the tax commission, and such rules and regulations as may be appropriate and expedient to the end that the taxpayers may have a hearing in the borough in which they reside or in which their property is located, except that all applications with respect to property indicated on the tax maps by identification numbers shall be heard by the tax commission sitting as a body at its main office.
@@ -153,10 +153,10 @@ b. The tax commission shall determine the final assessed valuation or taxable as
 
 
 Section 164-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 164-a. Procedure on application for correction of an assessment of seven hundred fifty thousand dollars or more.* ::
+*Section 164-a. Procedure on application for correction of an assessment of seven hundred fifty thousand dollars or more.*
 
 
 a. Notwithstanding any other provision of this charter or the administrative code, the tax commission may itself or by a commissioner or assessor authorized by the commission act upon applications for correction of an assessment of real property assessed at seven hundred fifty thousand dollars or more between the first day of February and the first day of September. Any such application shall specify all income received or accrued and all expenses paid or incurred in the operation of the property during the calendar year preceding the date of application, or during the applicant's last fiscal year preceding the date of the application if the applicant's books and records are maintained on a fiscal year basis for federal income tax purposes which ends six months or more prior to the date of application, or during any part of such calendar or fiscal year in which the property was operated by the applicant, except that where the applicant has not operated the property and is without knowledge of the income and expenses of the operation, it shall state such facts under oath in lieu thereof. In the event that the statement of income and expenses is not filed as part of the application, such statement, when duly verified, shall be filed prior to the twenty-fifth day of March.
@@ -173,10 +173,10 @@ e. Any reduction shall be made public within sixty days after it is rendered. A 
 
 
 Section 164-b.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 164-b. Procedure on application for correction of an assessment of class one property.* ::
+*Section 164-b. Procedure on application for correction of an assessment of class one property.*
 
 
 a. When used in this section:
@@ -223,10 +223,10 @@ f. All other provisions of law shall apply to the review of applications for cor
 
 
 Section 165.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 165. Final determination of the tax commission.* ::
+*Section 165. Final determination of the tax commission.*
 
 
 The final determination of the tax commission upon any application for the correction of an assessment shall be rendered not later than the twenty-fifth day of May. Otherwise, the assessment objected to shall be deemed to be the final determination of the tax commission.
@@ -235,10 +235,10 @@ The final determination of the tax commission upon any application for the corre
 
 
 Section 165-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 165-a. Notices of final determination on applications for owner-occupied residential property.* ::
+*Section 165-a. Notices of final determination on applications for owner-occupied residential property.*
 
 
 On or before the last day provided by law for the rendering of the final determination of the tax commission pursuant to section one hundred sixty-five of this charter the tax commission shall mail to each applicant who has filed an application for the correction of the assessment of a one, two or three family residential structure, except such property held in a cooperative or condominium form of ownership, a notice of the tax commission's determination of his or her assessment. Such notice shall also contain the statement: "If you are dissatisfied with the determination of the New York city tax commission and you are the owner of a one, two or three family residential structure and reside at such residence, you may seek judicial review of your assessment either under title one of article seven of the real property tax law or under the small claims assessment review law provided by title one-A of article seven of the real property tax law." Such notice shall also state the last date to file petitions for judicial review and the location where small claims assessment review petitions may be obtained. Failure to mail any such notice or failure of the applicant to receive the same shall not affect the validity of the assessment.
@@ -247,10 +247,10 @@ On or before the last day provided by law for the rendering of the final determi
 
 
 Section 166.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 166. Proceeding to review final determination of the tax commission.* ::
+*Section 166. Proceeding to review final determination of the tax commission.*
 
 
 A proceeding to review or correct on the merits any final determination of the tax commission may be had as provided by law, and if brought to review a determination mentioned in section one hundred sixty-five must be commenced before the twenty-fifth day of October following the time when the determination sought to be reviewed or corrected was made.
@@ -259,10 +259,10 @@ A proceeding to review or correct on the merits any final determination of the t
 
 
 Section 167.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 167. Exemptions for persons sixty-five years of age or over. [Repealed]* ::
+*Section 167. Exemptions for persons sixty-five years of age or over. [Repealed]*
 
 
 a. An independent tax appeals tribunal is hereby established. Such tribunal shall be within the office of administrative tax appeals established under section one hundred fifty of this charter. The tribunal shall have jurisdiction to hear and determine cases initiated by the filing of petitions protesting notices issued by the commissioner of finance, which give a person the right to a hearing, including but not limited to any notice of determination of tax due, of a tax deficiency, of a denial of a refund or credit application or of the refusal to grant, the suspension or the revocation of a license issued pursuant to chapter thirteen of title eleven of the administrative code, which notices relate to nonproperty taxes, excise taxes and annual vault charges imposed by the city, except those taxes and charges administered by the State of New York on behalf of the City of New York. For purposes of the preceding sentence, if the commissioner of finance fails to act with respect to a refund application before the expiration of the time period after which the taxpayer may file a petition for refund with the tribunal pursuant to subdivision (c) of section 11-529 or subdivision three of section 11-680 of the administrative code, such failure shall be deemed to be a notice of denial of a refund issued by the commissioner of finance pursuant to such subdivision. The tribunal shall review petitions and other documents submitted to it, hold hearings, and render decisions as provided in this chapter. In rendering its decisions on claims asserted by taxpayers or the commissioner of finance, the tribunal shall have the same power and authority as the commissioner of finance to impose, modify or waive any taxes within its jurisdiction, interest thereon, and any applicable civil penalties. In appeals in which the rules of the commissioner of finance are at issue, the tribunal shall have the power and authority to rule on the legality of such rules.
@@ -281,10 +281,10 @@ f. The tribunal shall collect, compile and prepare for publication statistics an
 
 
 Section 169.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 169. Rules of tribunal.* ::
+*Section 169. Rules of tribunal.*
 
 
 Pursuant to chapter forty-five of this charter, the tribunal shall promulgate rules of procedure, which shall include, but not be limited to, rules on the following matters:
@@ -305,10 +305,10 @@ Pursuant to chapter forty-five of this charter, the tribunal shall promulgate ru
 
 
 Section 170.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 170. Commencing an appeal before the tribunal.* ::
+*Section 170. Commencing an appeal before the tribunal.*
 
 
 a. Any taxpayer who has been issued a notice referred to in subdivision a of section one hundred sixty-eight of the charter by the commissioner of finance may petition the tribunal for administrative review. To commence a proceeding, such a taxpayer must, within ninety days after being issued the notice at issue by the commissioner of finance or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the administrative code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of the conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serve a petition upon the commissioner of finance and (2) file the petition with the tribunal. Notwithstanding the time specified in the preceding sentence for filing a petition, a petition for refund filed pursuant to subdivision (c) of section 11-529 of the administrative code or subdivision three of section 11-680 of such code may be filed within the time specified in such subdivision (c) or such subdivision three. The tribunal shall not extend the time limitations for commencing a proceeding for any petitioner failing to comply with such time limitations. The petition shall contain a plain and concise statement of the facts and law on which the proceeding is based.
@@ -327,10 +327,10 @@ f. The tribunal shall have power to provide that an attorney for any party at a 
 
 
 Section 171.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 171. Decisions of the tribunal and judicial review.* ::
+*Section 171. Decisions of the tribunal and judicial review.*
 
 
 a. (1) The determinations of the administrative law judges and the decisions of the tribunal sitting en banc shall be in writing. Each determination or decision, with the exception of those rendered pursuant to the small claims procedure, shall contain findings of fact and conclusions of law. A final decision of the tribunal may (i) grant in whole or in part the relief sought by the petitioner and/or the commissioner of finance, or (ii) dismiss the petition or request for counter-relief either on the merits or with leave to renew.
@@ -349,10 +349,10 @@ d. The tribunal shall not participate in proceedings for judicial review of its 
 
 
 Section 172.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 172. Sanctions.* ::
+*Section 172. Sanctions.*
 
 
 a. The failure of any party to appear for a conference or hearing without having obtained an extension from all the opposing parties or the tribunal at least forty-eight hours in advance of such conference or hearing shall be grounds for the tribunal to enter a decision in favor of the opposing party or parties.

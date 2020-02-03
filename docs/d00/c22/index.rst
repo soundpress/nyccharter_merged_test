@@ -1,10 +1,10 @@
 Chapter 18-A: Civilian Complaint Review Board
-===================================================
+======================================================================================================
 Section 440.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 440. Public complaints against members of the police department.* ::
+*Section 440. Public complaints against members of the police department.*
 
 
 (a) It is in the interest of the people of the city of New York and the New York city police department that the investigation of complaints concerning misconduct by officers of the department towards members of the public be complete, thorough and impartial. These inquiries must be conducted fairly and independently, and in a manner in which the public and the police department have confidence. An independent civilian complaint review board is hereby established as a body comprised solely of members of the public with the authority to investigate allegations of police misconduct as provided in this section.

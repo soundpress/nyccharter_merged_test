@@ -1,10 +1,10 @@
 Chapter 68: Conflicts of Interest
-===================================================
+======================================================================================================
 Section 2600.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2600. Preamble.* ::
+*Section 2600. Preamble.*
 
 
 Public service is a public trust. These prohibitions on the conduct of public servants are enacted to preserve the trust placed in the public servants of the city, to promote public confidence in government, to protect the integrity of government decision-making and to enhance government efficiency.
@@ -13,10 +13,10 @@ Public service is a public trust. These prohibitions on the conduct of public se
 
 
 Section 2601.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2601. Definitions.* ::
+*Section 2601. Definitions.*
 
 
 As used in this chapter:
@@ -73,10 +73,10 @@ As used in this chapter:
 
 
 Section 2602.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2602. Conflicts of interest board.* ::
+*Section 2602. Conflicts of interest board.*
 
 
 a.  There shall be a conflicts of interest board consisting of five members. Three members shall be appointed by the mayor, one member shall be appointed by the public advocate, and one member shall be appointed by the comptroller. All members shall be appointed with the advice and consent of the council. The mayor shall designate a chair.
@@ -101,10 +101,10 @@ h. The board shall meet at least once a month and at such other times as the cha
 
 
 Section 2603.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2603. Powers and obligations.* ::
+*Section 2603. Powers and obligations.*
 
 
 a. Rules. The board shall promulgate rules as are necessary to implement and interpret the provisions of this chapter, consistent with the goal of providing clear guidance regarding prohibited conduct. The board, by rule, shall once every four years adjust the dollar amount established in subdivision sixteen of section twenty-six hundred one of this chapter to reflect changes in the consumer price index for the metropolitan New York-New Jersey region published by the United States bureau of labor statistics.
@@ -197,10 +197,10 @@ k. Except as otherwise provided in this chapter, the records, reports, memoranda
 
 
 Section 2604.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2604. Prohibited interests and conduct.* ::
+*Section 2604. Prohibited interests and conduct.*
 
 
 a. Prohibited interests in firms engaged in business dealings with the city.
@@ -329,10 +329,10 @@ e. Allowed positions. A public servant or former public servant may hold or nego
 
 
 Section 2605.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2605. Reporting.* ::
+*Section 2605. Reporting.*
 
 
 No public servant shall attempt to influence the course of any proposed legislation in the legislative body of the city without publicly disclosing on the official records of the legislative body the nature and extent of any direct or indirect financial or other private interest the public servant may have in such legislation.
@@ -341,10 +341,10 @@ No public servant shall attempt to influence the course of any proposed legislat
 
 
 Section 2606.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2606. Penalties.* ::
+*Section 2606. Penalties.*
 
 
 a. Upon a determination by the board that a violation of section twenty-six hundred four or twenty-six hundred five of this chapter, involving a contract work, business, sale or transaction, has occurred, the board shall have the power, after consultation with the head of the agency involved, or in the case of an agency head, with the mayor, to render forfeit and void the transaction in question.
@@ -361,10 +361,10 @@ d. Notwithstanding the provisions of subdivisions a, b and c of this section, no
 
 
 Section 2607.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2607. Gifts by lobbyists.* ::
+*Section 2607. Gifts by lobbyists.*
 
 
 Complaints made pursuant to subchapter three of chapter two of title three of the administrative code shall be made, received, investigated and adjudicated in a manner consistent with investigations and adjudications of conflicts of interest pursuant to this chapter and chapter thirty-four.

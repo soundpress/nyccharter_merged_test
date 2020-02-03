@@ -1,12 +1,12 @@
 Title 62: City Planning
-===================================================
+======================================================================================================
 
 Chapter 1: Practice and Procedure of City Planning Commission
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 General Rules.* ::
+*§ 1-01 General Rules.*
 
 
 (a)  The regular public hearings of the City Planning Commission shall be held twice monthly on Wednesday at 10 a.m. in City Hall, unless otherwise ordered by the Chair. Other regular public meetings of the City Planning Commission, also known as Review Sessions, shall be held twice monthly on Monday at 22 Reade Street, Spector Hall unless otherwise ordered by the Chair. The time and location of any meeting may be confirmed by contacting the Office of the Calendar Officer at the Department of City Planning.
@@ -52,7 +52,7 @@ Chapter 1: Practice and Procedure of City Planning Commission
 
 
 
-*§ 1-02 The Calendar Officer: Notices, Calendars, Minutes, Record, and Communications.* ::
+*§ 1-02 The Calendar Officer: Notices, Calendars, Minutes, Record, and Communications.*
 
 
 (a)  Notices of all special meetings shall be given to each member by the Calendar Officer.
@@ -76,7 +76,7 @@ Chapter 1: Practice and Procedure of City Planning Commission
 
 
 
-*§ 1-03 Suspension of Rules.* ::
+*§ 1-03 Suspension of Rules.*
 
 
 The suspension of any of the rules of Practice and Procedure of the City Planning Commission may be ordered by unanimous vote.
@@ -85,11 +85,11 @@ The suspension of any of the rules of Practice and Procedure of the City Plannin
 
 
 Chapter 2: Uniform Land Use Review Procedure (ULURP)
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Actions Subject to Procedure.* ::
+*§ 2-01 Actions Subject to Procedure.*
 
 
 The land use review procedure which is set out herein shall govern the following actions:
@@ -127,7 +127,7 @@ The land use review procedure which is set out herein shall govern the following
 
 
 
-*§ 2-01.1 Zoning Resolution Amendments Adopted Pursuant to City Charter § 200 or § 201.* ::
+*§ 2-01.1 Zoning Resolution Amendments Adopted Pursuant to City Charter § 200 or § 201.*
 
 
 Applications to amend the Zoning Resolution pursuant to City Charter § 201 and actions to amend the Zoning Resolution initiated by the Commission pursuant to Charter § 200, which concern revisions to the text of the Zoning Resolution, shall be subject to the provisions of subdivisions (b), (c), (d) and (g) of 62 RCNY § 2-06 and subdivision (c) of 62 RCNY § 2-02.
@@ -137,7 +137,7 @@ Applications to amend the Zoning Resolution pursuant to City Charter § 201 and 
 
 
 
-*§ 2-02 Applications.* ::
+*§ 2-02 Applications.*
 
 
 (a)  Applications: general provisions.
@@ -207,7 +207,7 @@ Applications to amend the Zoning Resolution pursuant to City Charter § 201 and 
 
 
 
-*§ 2-03 Community Board Actions.* ::
+*§ 2-03 Community Board Actions.*
 
 
 (a) General provisions.
@@ -267,7 +267,7 @@ Applications to amend the Zoning Resolution pursuant to City Charter § 201 and 
 
 
 
-*§ 2-04 Borough President Actions.* ::
+*§ 2-04 Borough President Actions.*
 
 
 A Borough President may submit a written recommendation on an application, or waive the right to submit a recommendation to the City Planning Commission. Such recommendation or waiver shall be submitted on the form provided not later than 30 days after the receipt of a recommendation or waiver by the City Planning Commission and the Borough President from an affected community board, by the latest to respond of all affected community boards or if any affected community board shall fail to act within the time period, thirty (30) days after the expiration of the time allowed for such community board(s) to act.
@@ -277,7 +277,7 @@ A Borough President may submit a written recommendation on an application, or wa
 
 
 
-*§ 2-05 Borough Board Actions.* ::
+*§ 2-05 Borough Board Actions.*
 
 
 (a) General provisions. Except as provided below in 62 RCNY § 2-05(b), an affected borough board may conduct a public hearing on an application and submit a written recommendation to the Commission. Such recommendation or waiver shall be submitted on the form provided not later than thirty (30) days after the filing of a recommendation or waiver with the Borough President by the last to respond of all affected community boards, or if any affected community board shall fail to act within the time period, thirty (30) days after the expiration of the time allowed for such community boards to act.
@@ -321,7 +321,7 @@ A Borough President may submit a written recommendation on an application, or wa
 
 
 
-*§ 2-06 City Planning Commission Actions.* ::
+*§ 2-06 City Planning Commission Actions.*
 
 
 (a) General provisions. The Commission shall hold a public hearing on all applications made pursuant to § 197-c of the Charter not later than sixty (60) calendar days after the expiration of the time allowed for the filing of a recommendation or waiver with it by an affected Borough President. Following its hearing and within its applicable sixty (60) day period, the Commission shall approve, approve with modifications or disapprove such application and file its decision pursuant to 62 RCNY § 2-05(h)(4) below.
@@ -415,7 +415,7 @@ A Borough President may submit a written recommendation on an application, or wa
 
 
 
-*§ 2-07 Borough President Initiation of City Council Review.* ::
+*§ 2-07 Borough President Initiation of City Council Review.*
 
 
 In the case of an application not subject to mandatory council review pursuant to Charter § 197-d(b)(1), which receives an unfavorable recommendation by both an affected community board and affected Borough President and either a favorable vote or favorable vote with modification by the Commission, such application shall be subject to council review and action if the affected Borough President shall file, within five (5) days of receiving the report of the Commission, a written objection to the Commission's vote with the Council and the Commission.
@@ -425,7 +425,7 @@ In the case of an application not subject to mandatory council review pursuant t
 
 
 
-*§ 2-08 Board of Standards and Appeals.* ::
+*§ 2-08 Board of Standards and Appeals.*
 
 
 (a) Variance and special permit applications.
@@ -445,7 +445,7 @@ In the case of an application not subject to mandatory council review pursuant t
 
 
 
-*§ 2-09 Administrative Provisions.* ::
+*§ 2-09 Administrative Provisions.*
 
 
 (a) Referrals and filings. Unless otherwise provided herein, any referrals and filings required under this chapter shall be directed to the entities below as follows:
@@ -473,7 +473,7 @@ In the case of an application not subject to mandatory council review pursuant t
 
 
 
-*§ 2-10 Interpretation and Amendment of Regulations.* ::
+*§ 2-10 Interpretation and Amendment of Regulations.*
 
 
 (a) Interpretation. This chapter shall be interpreted in accordance with the ordinary meaning of the language herein, and any ambiguities arising herefrom shall be referred to and definitively interpreted in written opinions by the Director of City Planning.
@@ -486,7 +486,7 @@ In the case of an application not subject to mandatory council review pursuant t
 
 
 Chapter 3: Fees and Contributions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -495,7 +495,7 @@ Chapter 3: Fees and Contributions
 
 
 
-*§ 3-01 Fee for CEQR Applications.* ::
+*§ 3-01 Fee for CEQR Applications.*
 
 
 Except as specifically provided in this section, every application made pursuant to Executive Order 91 and 62 RCNY Ch. 5 requires a non-refundable fee which shall be submitted to the lead agency for the action or to an agency that could be the lead agency pursuant to 62 RCNY § 5-03. The fee for an application shall be as prescribed in the following Schedule of Charges, 62 RCNY § 3-02. The fee for modification for an action, which modification is not subject to § 197-c of the New York City Charter shall be twenty percent of the amount prescribed in the Schedule of Charges for an initial application. The fee for any modification for an action, which is subject to § 197-c of the New York City Charter shall be the amount set forth in the Schedule of Charges (62 RCNY § 3-02) as if the modification were an initial application for the action. Where the fee for an application is set pursuant to 62 RCNY § 3-02(a), and the square footage of the proposed modification is different from the square footage of the original action, the fee for an application for the modification shall be based upon the square footage of the modified action or as set forth in 62 RCNY § 3-02(b), as determined by the lead agency. Agencies of the federal, state or city governments shall not be required to pay fees, nor shall a neighborhood, community or similar association consisting of local residents or homeowners organized on a non-profit basis be required to pay fees, if the proposed action for purposes of CEQR review consists of a zoning map amendment for an area of at least two blocks in size, in which one or more of its members or constituents reside. Fees shall be paid in the forms indicated on the Department of City Planning's website when the application is filed. No application shall be processed by the lead agency until the fee has been paid. Additional fees may be charged by service providers in connection with electronic payment processing.
@@ -507,7 +507,7 @@ Except as specifically provided in this section, every application made pursuant
 
 
 
-*§ 3-02 Schedule of Charges.* ::
+*§ 3-02 Schedule of Charges.*
 
 
 (a)  Projects measurable in square feet.
@@ -578,7 +578,7 @@ Except as specifically provided in this section, every application made pursuant
 
 
 
-*§ 3-06 Fees for Applications Pursuant to City Charter § 197-c and Other Applications.* ::
+*§ 3-06 Fees for Applications Pursuant to City Charter § 197-c and Other Applications.*
 
 
 Except as specifically provided in this section, every type of application listed in 62 RCNY § 3.07, Schedule of Charges, shall include a non-returnable fee which shall be paid in the forms indicated on the Department of City Planning's website when the application is filed. The fee for an initial application, or for a modification, renewal or follow-up action, shall be as prescribed in the following Schedule of Charges, provided that if an applicant simultaneously submits applications for several actions relating to the same project, the maximum fee imposed shall be two hundred percent of the single highest fee, provided that such maximum fee limitation shall not apply to supplemental fees. An additional fee shall be charged for any applications later filed in relation to the same project, while such project is pending review and determination. Agencies of the federal, state or city governments shall not be required to pay fees nor shall any fees be charged if a neighborhood, community or similar association consisting of local residents or homeowners organized on a non-profit basis applies for a zoning map amendment for an area of at least two blocks in size, in which one or more of its members or constituents reside. Additional fees may be charged by service providers in connection with electronic payment processing.
@@ -590,7 +590,7 @@ Except as specifically provided in this section, every type of application liste
 
 
 
-*§ 3-07 Schedule of Charges.* ::
+*§ 3-07 Schedule of Charges.*
 
 
 (a)  Applications for Special Permits and Zoning Map amendments pursuant to § 197-c of the City Charter:
@@ -802,7 +802,7 @@ In the case of area transfer of development rights or floor area bonus, the fee 
 
 
 
-*§ 3-08 Natural Feature Restoration Fee.* ::
+*§ 3-08 Natural Feature Restoration Fee.*
 
 
 In the event that an application, pursuant to §§ 105-45, 107-321, 107-65, and 119-40 of the Zoning Resolution, for the restoration of trees that have been removed or topography that has been altered without the prior approval of the City Planning Commission pursuant to §§ 105-40, 107-60, 119-10, 119-20, or 119-30 of the Zoning Resolution is filed, the fee for such application shall be $.10 per square foot, based upon the total area of the zoning lot, but in no case to exceed $18,900.00. This section shall not apply to developments for which zoning applications have been approved by the City Planning Commission prior to January 6, 1983 and for which an application for a building permit has been filed prior to January 6, 1983.
@@ -812,7 +812,7 @@ In the event that an application, pursuant to §§ 105-45, 107-321, 107-65, and 
 
 
 
-*§ 3-09 Fee for Zoning Verification.* ::
+*§ 3-09 Fee for Zoning Verification.*
 
 
 The fee for a request that the Department of City Planning verify in writing the zoning district(s) in which a property is located shall be $110 per request. Each zoning verification request shall be made in writing, and shall include the address, borough, tax block and lot(s) of the property. Each separate property shall be a separate request; however, a property comprised of multiple contiguous tax lots shall be treated as a single request.
@@ -821,11 +821,11 @@ The fee for a request that the Department of City Planning verify in writing the
 
 
 Chapter 3: Contributions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-10 Contributions to Theater Subdistrict Fund Pursuant to § 81-744 of the New York City Zoning Resolution.* ::
+*§ 3-10 Contributions to Theater Subdistrict Fund Pursuant to § 81-744 of the New York City Zoning Resolution.*
 
 
 Contributions to the Theater Subdistrict Fund pursuant to § 81-744 of the New York City Zoning Resolution shall be made in an amount equal to $17.60 per square foot of floor area transferred.
@@ -835,7 +835,7 @@ Contributions to the Theater Subdistrict Fund pursuant to § 81-744 of the New Y
 
 
 
-*§ 3-11 Contributions to the West Chelsea Affordable Housing Fund Pursuant to § 98-262(c) of the New York City Zoning Resolution.* ::
+*§ 3-11 Contributions to the West Chelsea Affordable Housing Fund Pursuant to § 98-262(c) of the New York City Zoning Resolution.*
 
 
 Contributions to the West Chelsea Affordable Housing Fund pursuant to § 98-262(c) of the New York City Zoning Resolution shall be made in an amount equal to $625 per square foot of floor area increase as of the effective date of this rule.
@@ -850,11 +850,11 @@ The City Planning Commission retains the ability to adjust the contribution amou
 
 
 Chapter 4: Procedures for New York City Waterfront Revitalization Program (WRP) Consistency Review by the City Coastal Commission and the Department of City Planning
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Applicability.* ::
+*§ 4-01 Applicability.*
 
 
 This chapter sets forth the procedures applicable to the review of actions located in the New York City Coastal Zone by the City Planning Commission (the Commission), in its capacity as the City Coastal Commission (CCC), and by the Department of City Planning (the Department) as provided in the WRP. Three separate categories of actions are subject to such review process:
@@ -874,7 +874,7 @@ The Department's or the CCC's review of state and federal actions, as referenced
 
 
 
-*§ 4-02 CCC and Department Review.* ::
+*§ 4-02 CCC and Department Review.*
 
 
 As the administrator of the WRP with the CCC, the Department is responsible for coordinating all WRP consistency reviews. The Department evaluates all actions covered by 62 RCNY § 4-01 to determine which warrant CCC review, in accordance with the criteria set forth in this section. The Department reviews all actions covered by this chapter that do not warrant CCC review.
@@ -892,7 +892,7 @@ The CCC reviews:
 
 
 
-*§ 4-03 Reviews for Consistency with the WRP.* ::
+*§ 4-03 Reviews for Consistency with the WRP.*
 
 
 (a) Local actions. Except as provided in 62 RCNY § 4-04(a), no CEQR lead or involved agency may make a final decision to undertake, fund, or approve an action unless and until the lead agency, or the CCC when the lead agency is the Commission, finds that such action will not substantially hinder the achievement of any WRP policy and determines that the action is consistent with the WRP, in accordance with the standards set forth in the WRP. When the lead agency is other than the Commission, the Department must concur with such finding.
@@ -920,7 +920,7 @@ The CCC reviews:
 
 
 
-*§ 4-04 Substantial Hindrance to the WRP.* ::
+*§ 4-04 Substantial Hindrance to the WRP.*
 
 
 (a) Local actions.
@@ -947,11 +947,11 @@ The CCC reviews:
 
 
 Chapter 5: City Environmental Quality Review (CEQR)
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 5-01 Source of Authority and Statement of Purpose.* ::
+*§ 5-01 Source of Authority and Statement of Purpose.*
 
 
 Section 192(e) of the Charter provides that the City Planning Commission "shall oversee implementation of laws that require environmental reviews of actions taken by the city" and that the Commission "shall establish by rule procedures for environmental reviews of proposed actions by the city where such reviews are required by law." These rules are intended to exercise that mandate by redefining lead agencies within the city in accordance with law, prescribing the relationship of the new Office of Environmental Coordination with those agencies and regulating scoping. The organization and numbering of the various sections of these rules are not intended to correspond precisely to Executive Order 91. [;43 RCNY Chapter 6, also, see Appendix A hereto];. Rather, these rules are an overlay on Executive Order 91. Where these rules conflict with Executive Order 91, these rules supersede the Executive Order. In deciding upon the appropriate lead agency for certain classes of actions taken by the city, the City Planning Commission has selected the involved agency "principally responsible for carrying out, funding or approving" those actions. 6 NYCRR § 617.2(v). For private ULURP applications, for § 197-a plans and for all actions primarily involving a zoning map or text change, the City Planning Commission, responsible under the Charter "for the conduct of planning relating to the orderly growth, improvement and future development of the city" (Charter § 192(d)), is the lead agency. For other ULURP applications, the city agency applicant, the agency that will generally be involved with ensuring programmatic implementation of the action, is the lead agency. Most of the remaining lead agency designations in the rules similarly address other approvals required by the Charter by designating the agency charged with ensuring programmatic implementation as the lead agency for those approvals. In appropriate cases, a lead agency designated by the rules may transfer its lead agency status to another involved agency. The rules ensure that lead agencies have access to the technical and administrative expertise of the Office of Environmental Coordination. Finally, the rules provide for involved and interested agencies, including the City Council, to participate in the environmental review process, and ensure a role for the public in scoping.
@@ -961,7 +961,7 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
 
 
-*§ 5-02 General Provisions.* ::
+*§ 5-02 General Provisions.*
 
 
 (a) Continuation of Executive Order No. 91 [43 RCNY §§ 6-01 et seq.] [See Appendix A to these rules]. Until the City Planning Commission promulgates further rules governing environmental review of actions taken by the city, Executive Order No. 91 of August 24, 1977, as amended (Executive Order 91), shall continue to govern environmental quality review in the city except where inconsistent with these rules, provided, however, that the following provisions of Executive Order 91 shall not apply: the definitions of "Agency", "Lead Agencies" and "Project data statement" defined in 43 RCNY § 6-02, 43 RCNY § 6-03(b), 43 RCNY § 6-05(a), the introductory paragraph of 43 RCNY § 6-05(b), paragraphs one and two of 43 RCNY § 6-12(a), 43 RCNY § 6-14, and subdivision (b) of the TYPE II part of 43 RCNY § 6-15.
@@ -1009,7 +1009,7 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
 
 
-*§ 5-03 Establishment of Lead Agency.* ::
+*§ 5-03 Establishment of Lead Agency.*
 
 
 (a) General Rule. Where only one agency is involved in an action, that agency shall be the lead agency.
@@ -1075,7 +1075,7 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
 
 
-*§ 5-04 The Office of Environmental Coordination.* ::
+*§ 5-04 The Office of Environmental Coordination.*
 
 
 (a) The Director of City Planning and the Commissioner of the Department of Environmental Protection shall designate persons from the staffs of the Departments of City Planning and Environmental Protection who shall comprise the Office of Environmental Coordination (OEC). The OEC shall provide assistance to all city agencies in fulfilling their environmental review responsibilities.
@@ -1117,7 +1117,7 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
 
 
-*§ 5-05 Environmental Review Procedures.* ::
+*§ 5-05 Environmental Review Procedures.*
 
 
 (a) Threshold Determination.
@@ -1193,7 +1193,7 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
 
 
-*§ 5-06 Involved and Interested Agencies; Required Circulation.* ::
+*§ 5-06 Involved and Interested Agencies; Required Circulation.*
 
 
 (a) The lead agency and the OEC shall make every reasonable effort to keep involved and interested agencies informed during the environmental review process and to facilitate their participation in such process. If the City Council is involved in an action, staff of the lead agency and/or staff of the OEC shall be made available to explain determinations made by the lead agency to the City Council or the appropriate City Council committee or staff.
@@ -1209,7 +1209,7 @@ Section 192(e) of the Charter provides that the City Planning Commission "shall 
 
 
 
-*§ 5-07 Scoping.* ::
+*§ 5-07 Scoping.*
 
 
 After a notice of determination (positive declaration) is issued, the lead agency shall coordinate the scoping process, which shall ensure that all interested and involved agencies (including the City Council where it is interested or involved), the applicant, the OEC, community and borough boards, borough presidents and the public are able to participate. The scoping process shall include a public scoping meeting and take place in accordance with the following procedure:
@@ -1233,7 +1233,7 @@ After a notice of determination (positive declaration) is issued, the lead agenc
 
 
 
-*§ 5-08 Applications and Fees.* ::
+*§ 5-08 Applications and Fees.*
 
 
 (a) Applications. Applications submitted for City Environmental Quality Review for actions that require such review shall be submitted to the lead agency prescribed by these rules, or to an agency that could be the lead agency for the particular action pursuant to 62 RCNY § 5-03. Such applications shall include information required to be obtained from applicants in order for the lead agency to complete or cause to be completed the standardized environmental assessment statement, and such other documents and additional information as the lead agency may require to make a determination of significance. In addition, except as otherwise provided in these rules, such applications shall conform to the requirements of Executive Order 91.
@@ -1247,7 +1247,7 @@ After a notice of determination (positive declaration) is issued, the lead agenc
 
 
 
-*§ 5-09 Transition Section.* ::
+*§ 5-09 Transition Section.*
 
 
 (a) An action shall not be subject to these rules, but shall comply with Executive Order 91, as in effect prior to the effective date of these rules, where:
@@ -1267,7 +1267,7 @@ After a notice of determination (positive declaration) is issued, the lead agenc
 
 
 
-*§ 5-10 Severability.* ::
+*§ 5-10 Severability.*
 
 
 The provisions of these rules shall be severable and if any phrase, clause, sentence, paragraph, subdivision or section of these rules, or the applicability thereof to any person or circumstance, shall be held invalid, the remainder of these rules and the application thereof shall not be affected thereby.
@@ -1277,7 +1277,7 @@ The provisions of these rules shall be severable and if any phrase, clause, sent
 
 
 
-*§ 5-11 Effective Date.* ::
+*§ 5-11 Effective Date.*
 
 
 These rules shall take effect on October 1, 1991.
@@ -1292,7 +1292,7 @@ These rules shall take effect on October 1, 1991.
 
 
 
-*§ 6-01 Applicability.* ::
+*§ 6-01 Applicability.*
 
 
 (Except as modified by City Planning Rules, § 502(a) and (d).)
@@ -1304,7 +1304,7 @@ No final decision to carry out or approve any action which may have a significan
 
 
 
-*§ 6-02 Definitions.* ::
+*§ 6-02 Definitions.*
 
 
 (Additional definitions, City Planning Rules 62 RCNY § 5-02(c).)
@@ -1366,7 +1366,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-03 Actions Involving Federal or State Participation.* ::
+*§ 6-03 Actions Involving Federal or State Participation.*
 
 
 (a) (See also City Planning Rules 62 RCNY § 5-04(e)) If an action under consideration by an agency may involve a "major federal action significantly affecting the quality of the human environment under the National Environmental Policy Act of 1969," then the following procedures shall apply:
@@ -1382,7 +1382,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-04 Exempt Actions.* ::
+*§ 6-04 Exempt Actions.*
 
 
 (See also City Planning Rules 62 RCNY § 5-02(d).)
@@ -1438,7 +1438,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-05 Determination of Significant Effect – Applications.* ::
+*§ 6-05 Determination of Significant Effect – Applications.*
 
 
 (a) (Inapplicable, City Planning Rules 62 RCNY § 5-02(a). Superseded by City Planning Rules 62 RCNY § 5-05(a). See also City Planning Rules 62 RCNY § 5-02(b)(2) and 62 RCNY § 5-02(d).)
@@ -1462,7 +1462,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-06 Determination of Significant Effect – Criteria.* ::
+*§ 6-06 Determination of Significant Effect – Criteria.*
 
 
 (a) An action may have a significant effect on the environment if it can reasonably be expected to lead to one of the following consequences:
@@ -1494,7 +1494,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-07 Determination of Significant Effect – Notification.* ::
+*§ 6-07 Determination of Significant Effect – Notification.*
 
 
 (a) (Error. Reference to § 6-05(a) should be to § 6-05(b).) The lead agencies shall determine within 15 calendar days following notification of completion of the application pursuant to § 6-05(a) of this chapter whether the proposed action may have a significant effect on the environment;
@@ -1544,7 +1544,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-08 Draft Environmental Impact Statements – Responsibility for Preparation.* ::
+*§ 6-08 Draft Environmental Impact Statements – Responsibility for Preparation.*
 
 
 (a) Non-agency applicants.
@@ -1568,7 +1568,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-09 Environmental Impact Statements – Content.* ::
+*§ 6-09 Environmental Impact Statements – Content.*
 
 
 (a) (Lead to be guided by technical standards and methodologies developed by Office of Environ. Coord., City Planning Rules 62 RCNY § 5-04(c).) Environmental impact statements should be clearly written in a brief and concise manner capable of being read and understood by the public. Within the framework presented in subdivision (d) of this section, such statements should deal only with the specific significant environmental impacts which can be reasonably anticipated. They should not contain more detail than is appropriate considering the nature and magnitude of the proposed action and the significance of its potential impacts.
@@ -1620,7 +1620,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-10 Draft Environmental Impact Statements – Procedures.* ::
+*§ 6-10 Draft Environmental Impact Statements – Procedures.*
 
 
 (a) Notice of Completion. Upon the satisfactory completion of a draft EIS, the lead agencies shall immediately prepare, file and make available for public inspection a Notice of Completion as provided in paragraphs (1), (2) and (3) of this subdivision. Where a proposed action is simultaneously subject to the Uniform Land Use Review Procedure ("ULURP"), the City Planning Commission shall not certify an application pursuant to ULURP until a Notice of Completion has been filed as provided in paragraph (3) of this subdivision.
@@ -1678,7 +1678,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-11 Final Environmental Impact Statements – Procedures.* ::
+*§ 6-11 Final Environmental Impact Statements – Procedures.*
 
 
 (a)    (Interested and involved agencies assist with FEIS on request, City Planning Rules 62 RCNY § 5-05(b)(2).) Except as provided in paragraph (1) of this subdivision, the lead agencies shall prepare or cause to be prepared a final EIS within 30 calendar days after the close of a public hearing.
@@ -1696,7 +1696,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-12 Agency Decision Making.* ::
+*§ 6-12 Agency Decision Making.*
 
 
 (a) No final decision to carry out or approve an action which may have a significant effect on the environment shall be made until after the filing and consideration of a final EIS.
@@ -1718,7 +1718,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-13 Programmatic Environmental Impact Statements.* ::
+*§ 6-13 Programmatic Environmental Impact Statements.*
 
 
 (a) Whenever possible, agencies shall identify programs or categories of actions, particularly projects or plans which are wide in scope or implemented over a long time frame, which would most appropriately serve as the subject of a single EIS. Broad program statements, master or area wide statements, or statements for comprehensive plans are often appropriate to assess the environmental effects of the following:
@@ -1744,7 +1744,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-14 Rules and Regulations.* ::
+*§ 6-14 Rules and Regulations.*
 
 
 (Inapplicable, City Planning Rules 62 RCNY § 5-02(a).)
@@ -1754,7 +1754,7 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 
-*§ 6-15 Lists of Actions.* ::
+*§ 6-15 Lists of Actions.*
 
 
 (a) Type I.(See City Planning Rules 62 RCNY § 5-02(d).) Type I actions enumerated in § 617.12 of 6 NYCRR 617 are likely to, but will not necessarily, require the preparation of an EIS because they will in almost every instance significantly affect the environment. However, ministerial actions never require the preparation of an EIS except where such actions may directly affect a critical area or an historic resource enumerated in paragraphs (22) and (23), respectively, of subdivision (a) of § 617.12. In addition, for the purpose of defining paragraph (2) of said subdivision and section, the following thresholds shall apply:
@@ -1791,11 +1791,11 @@ The following actions shall not be subject to the provisions of this chapter:
 
 
 Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 6-01 Purpose and Authority.* ::
+*§ 6-01 Purpose and Authority.*
 
 
 (a) Authority. These rules of procedure and minimum standards are established for the review of plans for the development, growth and improvement of the city, its boroughs and communities. Such plans may be sponsored by the Mayor, the City Planning Commission (the "Commission"), the Department of City Planning (the "Department"), and any Borough President, borough board or community board, (which agencies shall be referred to as the "sponsor" herein) pursuant to § 197-a(b) of the New York City Charter.
@@ -1807,7 +1807,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 
-*§ 6-02 Plan Submission.* ::
+*§ 6-02 Plan Submission.*
 
 
 (a) Notification of Intent. To assist the Department in anticipating the need for technical assistance for the preparation of plans in the efficient scheduling of their review, the sponsor of a plan shall notify the Department of its intent to prepare and submit a plan. This notice shall be given not less than ninety (90) days prior to the submission of a proposed plan. Periodically, the Department shall report to the Commission on the notices received and on the progress of 197-a plans underway.
@@ -1821,7 +1821,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 
-*§ 6-03 Threshold Review and Determination.* ::
+*§ 6-03 Threshold Review and Determination.*
 
 
 (a) Department Review. Each proposed plan shall be reviewed by the Department staff who shall report to the Commission not later than 90 days after the plan's submission as to whether the plan appears to meet the standards for form and content and for consistency with sound planning, as set forth in 62 RCNY § 6-04. Prior to making the report, the staff shall inform the sponsor of all deficiencies with respect to form and content and any changes, additions or deletions which, in the opinion of the staff, may correct such deficiencies. The sponsor may, thereupon, indicate its willingness to make such changes, additions or deletions in which case the Department will defer its report to the Commission until the changes have been made. The sponsor may, instead, request that the plan be presented without change to the Commission for its threshold findings of form and content and sound planning policy. At the time of any Department report on a proposed plan, the Commission may receive a similar report from representatives of the sponsor.
@@ -1839,7 +1839,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 
-*§ 6-04 Standards.* ::
+*§ 6-04 Standards.*
 
 
 (a) Plan Form and Content. The form and content of all proposed plans shall be consistent with the following:
@@ -1873,7 +1873,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 
-*§ 6-05 Environmental Review.* ::
+*§ 6-05 Environmental Review.*
 
 
 (a) Lead Agency. The City Planning Commission shall be the lead agency for all 197-a plans in accordance with the City Environmental Quality Review Regulations. For a plan sponsored by the mayor, the Commission may transfer the lead status to another city agency if it determines that the proposed plan is part of a broader set of actions for which the sponsoring agency is principally responsible.
@@ -1887,7 +1887,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 
-*§ 6-06 Plan Distribution and Review.* ::
+*§ 6-06 Plan Distribution and Review.*
 
 
 (a) Plan Distribution. When pursuant to 62 RCNY § 6-03(b), the Commission directs the Department to distribute a proposed plan, the Department shall transmit the plan simultaneously to all affected community boards, Borough Presidents and borough boards, as defined in Charter §§ 196 and 197-a(c). The Commission may also direct its distribution to other agencies whose interests may be affected including neighboring community boards and Borough Presidents, and any city and state agency with jurisdiction over elements of the plan.
@@ -1909,7 +1909,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 
-*§ 6-07 City Planning Commission Review.* ::
+*§ 6-07 City Planning Commission Review.*
 
 
 (a) Schedule for Review. When the affected community board(s), Borough President(s) and/or borough boards shall have completed their review of any proposed plan involving land in their respective districts, the City Planning Commission shall commence its review and schedule a public hearing. Such hearing shall take place within a period of sixty (60) days following receipt of the last affected community board's, borough board's or Borough President's recommendation, or the final day of the time period provided for their respective review(s), whichever is earlier.
@@ -1925,7 +1925,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 
-*§ 6-08 Modifications.* ::
+*§ 6-08 Modifications.*
 
 
 (a) If the City Council, acting pursuant to the City Charter § 197-d(d) has transmitted to the Commission a proposed modification of a plan, the Commission shall, within fifteen (15) days, review the proposed modification and transmit back to the Council its findings and recommendations. In determining whether the modification must be subject to additional environmental review, the Commission may consult appropriate staff or the Office of Environmental Coordination, and it must consult the lead agency if the lead has not been the Commission itself. In determining whether the modification requires a new process of community, borough and Commission review, the Commission shall consider whether the proposed modification:
@@ -1939,7 +1939,7 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 
-*§ 6-09 Filing, Review and Revision.* ::
+*§ 6-09 Filing, Review and Revision.*
 
 
 (a) Filing. Upon final adoption of a plan by the City Council, the plan shall be filed and indexed by the Calendar Officer of the Department. The Department shall make the plan available for review by the public and shall transmit the plan to all affected agencies for their use.
@@ -1954,11 +1954,11 @@ Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
 
 
 Chapter 7: Rules For the Definition of Major Concessions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 7-01 [Concession Subject to ULURP and Council Review.]* ::
+*§ 7-01 [Concession Subject to ULURP and Council Review.]*
 
 
 A concession shall be considered a major concession and therefore subject to §§ 197-c and 197-d of the Charter only if:
@@ -1972,7 +1972,7 @@ A concession shall be considered a major concession and therefore subject to §�
 
 
 
-*§ 7-02 [Major Concession Defined; Specific Uses, Thresholds e.g. Marinas, Spectator Sport Use, Parks.]* ::
+*§ 7-02 [Major Concession Defined; Specific Uses, Thresholds e.g. Marinas, Spectator Sport Use, Parks.]*
 
 
 A concession shall be considered a major concession if it will cause one or more of the thresholds given for the specific uses listed below to be exceeded:
@@ -2000,7 +2000,7 @@ A concession shall be considered a major concession if it will cause one or more
 
 
 
-*§ 7-03 [Concessions That are not Major Concessions.]* ::
+*§ 7-03 [Concessions That are not Major Concessions.]*
 
 
 Notwithstanding any other provision of these rules the following shall not be considered major concessions unless an EIS is required:
@@ -2033,11 +2033,11 @@ Notwithstanding any other provision of these rules the following shall not be co
 
 
 Chapter 8: Rules For the Processing of Applications For Permitted Parking Pursuant To Section 93-82 of the Zoning Resolution
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 8-01 Purpose.* ::
+*§ 8-01 Purpose.*
 
 
 These rules of procedure are established for the review of applications for certification to allow permitted parking pursuant to § 93-82 of the Zoning Resolution (ZR).
@@ -2049,7 +2049,7 @@ These rules of procedure are established for the review of applications for cert
 
 
 
-*§ 8-02 Pre-Filing Process.* ::
+*§ 8-02 Pre-Filing Process.*
 
 
 (a) Pre-Filing Review.
@@ -2067,7 +2067,7 @@ These rules of procedure are established for the review of applications for cert
 
 
 
-*§ 8-03 Filing of Applications.* ::
+*§ 8-03 Filing of Applications.*
 
 
 (a) Filing. Following notification pursuant to 62 RCNY § 8-02(a)(ii) that a draft application is complete, the applicant shall file the application pursuant to 62 RCNY § 10-09 with the Department of City Planning. Applications which have not been reviewed and determined to be complete pursuant to 62 RCNY § 8-02 shall not be accepted for filing. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid concurrently with the submission of the application. Applications accepted for filing in accordance herewith shall be stamped by the Department with the date and time of filing.
@@ -2079,7 +2079,7 @@ These rules of procedure are established for the review of applications for cert
 
 
 
-*§ 8-04 Certification for Permitted Parking Spaces.* ::
+*§ 8-04 Certification for Permitted Parking Spaces.*
 
 
 (a) Filing Date. Review of applications for certification for permitted parking spaces shall be made, in accordance with the provisions of ZR § 93-82, in the order of application filing date and time, except as provided in paragraph (b) hereof. If, pursuant to ZR § 93-82, fewer permitted parking spaces are available than the number of spaces requested in an application, the Chairperson shall only grant a certification for the number of spaces as are available at the time, and shall issue subsequent certifications for such application at such time as additional spaces become available in accordance with ZR § 93-82. Except as provided in paragraph (b) below, certification of parking spaces shall not be made with respect to an application with a later filing date and time until the entire number of parking spaces requested in an application with an earlier filing date and time has been certified.
@@ -2090,11 +2090,11 @@ These rules of procedure are established for the review of applications for cert
 
 
 Chapter 9: Rules For the Processing of Applications For Certification To Allow A Limited Increase In Street Wall Width Pursuant To § 132-51 of the Zoning Resolution
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 9-01 Purpose.* ::
+*§ 9-01 Purpose.*
 
 
 These rules of procedure are established for the review of applications for Certification to Allow a Limited Increase in Street Wall Width pursuant to § 132-51 of the Zoning Resolution (ZR).
@@ -2104,7 +2104,7 @@ These rules of procedure are established for the review of applications for Cert
 
 
 
-*§ 9-02 Pre-Filing Process.* ::
+*§ 9-02 Pre-Filing Process.*
 
 
 (a) The applicant must submit for review a draft application which must include material required by the Department of City Planning ("the Department") demonstrating the information and items set forth in ZR § 132-51. Draft applications must be submitted to the specific division of the Department that is designated on the application form for receipt of an application filed pursuant to ZR § 132-51, by submission to the division so named on the application form at the New York City Department of City Planning. Upon receipt, the Department will record the date and time of receipt.
@@ -2120,7 +2120,7 @@ These rules of procedure are established for the review of applications for Cert
 
 
 
-*§ 9-03 Filing of Applications.* ::
+*§ 9-03 Filing of Applications.*
 
 
 Filing. Following notification pursuant to 62 RCNY § 9-02(b) or (c) that a draft application is complete, the applicant must file the application pursuant to 62 RCNY § 10-09 with the Department of City Planning. Applications that have not been reviewed and determined to be complete pursuant to 62 RCNY § 9-02 will not be accepted for filing. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid concurrently with the submission of the application. Applications accepted for filing in accordance with these rules will be stamped by the Department with the date and time of filing.
@@ -2132,7 +2132,7 @@ Filing. Following notification pursuant to 62 RCNY § 9-02(b) or (c) that a draf
 
 
 
-*§ 9-04 Review and Certification of Applications.* ::
+*§ 9-04 Review and Certification of Applications.*
 
 
 For applications for establishments within the same set of applicable geographic boundaries as set forth in ZR § 132-51(c), review and certification of applications will be made in the order of application filing date and time. As set forth in ZR § 132-51(c), the set of applicable geographic boundaries means the same block frontage containing the applicant's establishment, the block frontage directly across the street from the block containing such establishment, and the blocks fronting on the commercial street immediately adjacent to the north and south of the block containing the applicant's establishment.
@@ -2142,7 +2142,7 @@ For applications for establishments within the same set of applicable geographic
 
 
 
-*§ 9-05 Lapse of Certification.* ::
+*§ 9-05 Lapse of Certification.*
 
 
 (a) Effect of Lapse. If a certification granted pursuant to ZR § 132-51 lapses in accordance with the provisions set forth in the final paragraph of that section, or if an authorization granted pursuant to ZR § 132-52 lapses in accordance with the provisions set forth in ZR § 11-42, the effect of such lapse is that the underlying application for such certification or authorization will not be considered an "approved application" for purposes of ZR § 132-51(c)(2).
@@ -2153,11 +2153,11 @@ For applications for establishments within the same set of applicable geographic
 
 
 Chapter 10: Pre-application Process: Submission and Meeting Participation Requirements Prior To Filing A Land Use Application Or Application For Environmental Review
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 10-01 Purpose.* ::
+*§ 10-01 Purpose.*
 
 
 These rules establish submission and meeting participation requirements ("Pre-Application Process") prior to the filing of land use applications pursuant to the Zoning Resolution and §§ 197-a, 197-c, 197-d, 199, 200, and 201 of the New York City Charter or of applications for environmental review pursuant to 62 RCNY Chapter 5. The purpose of these rules is to:
@@ -2171,7 +2171,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 
-*§ 10-02 Applicability.* ::
+*§ 10-02 Applicability.*
 
 
 (a) An Applicant must follow the applicable requirements of this chapter prior to filing any land use application or application for environmental review.
@@ -2191,7 +2191,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 
-*§ 10-03 Informational Meeting.* ::
+*§ 10-03 Informational Meeting.*
 
 
 (a) Before filing a land use application or application for environmental review, an Applicant must contact the Department Borough Office in the borough where a proposed project is to be located in order to schedule an Informational Meeting with the Department.
@@ -2227,7 +2227,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 
-*§ 10-04 Pre-Application Statement.* ::
+*§ 10-04 Pre-Application Statement.*
 
 
 (a) Following the issuance of a Project ID number and notification pursuant to 62 RCNY § 10-03(d) that the provisions of this section apply, an Applicant must submit a Pre-Application Statement ("PAS") to the Department. If an Applicant submits a PAS without a Project ID number pursuant to 62 RCNY § 10-03(e), the Department must issue the Project ID number to such Applicant upon receipt of the PAS. A PAS consists of the PAS form and any accompanying materials required by the form. The PAS form is available on the Department's website or in hard copy from the Department. The completed PAS must be submitted to the division or office of the Department indicated on the form.
@@ -2261,7 +2261,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 
-*§ 10-05 Interdivisional Meeting.* ::
+*§ 10-05 Interdivisional Meeting.*
 
 
 (a) Within ninety (90) days of notifying an Applicant pursuant to 62 RCNY § 10-04(b)(3)(i) that the Department will hold an ID Meeting, the Department must hold such a meeting with the Applicant subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the ID Meeting as soon as practicable at a time at which both the Department and the Applicant are available.
@@ -2291,7 +2291,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 
-*§ 10-06 Reasonable Worst Case Development Scenario.* ::
+*§ 10-06 Reasonable Worst Case Development Scenario.*
 
 
 (a) Following notification to an Applicant pursuant to 62 RCNY § 10-04(b)(3)(ii)(A) or 62 RCNY § 10-05(b)(2)(i), as applicable, that the Applicant's project is classified as Type I or Unlisted, an Applicant proceeding with filing a land use application or application for environmental review must submit a RWCDS Memorandum. The memorandum must be on a form provided by the Department that is available on the Department's website. The memorandum must set forth a description of, and the basis for, the RWCDS that may result from the land use actions that facilitate the proposed project. A RWCDS is a conservative projection of the development that may occur pursuant to a discretionary action and is used by the Department to make reasonable conclusions regarding a land use action's likely effects on the environment, consistent with the requirements of SEQR/CEQR and the guidance of the City's CEQR Technical Manual.
@@ -2315,7 +2315,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 
-*§ 10-07 Draft Land Use Application.* ::
+*§ 10-07 Draft Land Use Application.*
 
 
 (a) The Department may request a draft land use application where a high degree of technical expertise is necessary to produce the land use application materials for an Applicant's proposed project. Following notification to an Applicant pursuant to 62 RCNY § 10-03(d)(2)(ii), 62 RCNY § 10-04(b)(3)(ii)(B), 62 RCNY § 10-05(b)(2)(ii), or 62 RCNY § 10-06(b)(2), as applicable, that the Applicant is subject to the procedures set forth in 62 RCNY § 10-07, an Applicant proceeding with filing a land use application must submit a draft land use application to the Department for review. The Applicant must submit the draft land use application to the Department. Such application must include all required forms, documents, and exhibits as required by instructions for submitting a land use application which are set forth on the Department's website and available upon request in hard copy from the Department.
@@ -2335,7 +2335,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 
-*§ 10-08 Draft City Environmental Quality Review.* ::
+*§ 10-08 Draft City Environmental Quality Review.*
 
 
 (a) Following notification to an Applicant pursuant to 62 RCNY § 10-06(b)(1) that the Applicant may proceed to submit a draft CEQR short/full form, an Applicant proceeding with filing an application for environmental review must submit a draft CEQR short/full form to the Department for review. The Applicant must submit the draft CEQR short/full form to the Department and notify the Environmental Assessment Review division project manager handling the Applicant's project. Such application must include all required forms, documents, and exhibits as required by instructions for submitting a CEQR short/full form as provided by the Mayor's Office of Environmental Coordination.
@@ -2355,7 +2355,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 
-*§ 10-09 Filing of Land Use Application.* ::
+*§ 10-09 Filing of Land Use Application.*
 
 
 (a) After an Applicant receives notification pursuant to 62 RCNY § 10-03(d)(2)(ii), 62 RCNY § 10-04(b)(3)(ii)(B), 62 RCNY § 10-05(b)(2)(ii), 62 RCNY § 10-06(b)(2), or 62 RCNY § 10-07(b), as applicable, that it may proceed to file a land use application, the Applicant may file such application with the Department in accordance with 62 RCNY § 2-02(a)(1).
@@ -2369,7 +2369,7 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 
-*§ 10-10 Filing of Application for Environmental Review.* ::
+*§ 10-10 Filing of Application for Environmental Review.*
 
 
 (a) After an Applicant receives notification pursuant to 62 RCNY § 10-08(b) that it may proceed to file an application for environmental review, the Applicant may file such application pursuant to 62 RCNY Chapter 5.
@@ -2380,11 +2380,11 @@ These rules establish submission and meeting participation requirements ("Pre-Ap
 
 
 APPENDIX A TO TITLE 62: CRITERIA FOR THE LOCATION OF CITY FACILITIES*
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*Preface* ::
+*Preface*
 
 
 These criteria are intended to guide the siting of city facilities, as provided by Section 203 of the City Charter. The fair distribution of city facilities will depend on balancing a number of factors, such as community needs for services, efficient and cost effective delivery of those services, effects on community stability and revitalization, and broad geographic distribution of facilities. Furthermore, these factors can be weighed more effectively, and siting decisions can be accepted more readily, when communities have been meaningfully informed and consulted early in the siting process. The intent of these guidelines is to improve, not to obstruct, the process of siting facilities.
@@ -2400,7 +2400,7 @@ Since the principles and procedures contained in these guidelines are new and un
 
 
 
-*Article 1 Authority.* ::
+*Article 1 Authority.*
 
 
 Pursuant to Section 203 of the New York City Charter, the City Planning Commission is authorized to establish criteria for the location of new city facilities, the significant expansion of existing facilities, and the closing or significant reduction in size or service capacity of existing facilities.
@@ -2410,7 +2410,7 @@ Pursuant to Section 203 of the New York City Charter, the City Planning Commissi
 
 
 
-*Article 2 Purpose and Goals.* ::
+*Article 2 Purpose and Goals.*
 
 
 The purpose of these criteria is to foster neighborhood stability and revitalization by furthering the fair distribution among communities of city facilities. Toward this end, the city shall seek to:
@@ -2436,7 +2436,7 @@ h) Promote government accountability by fully considering all potential negative
 
 
 
-*Article 3 Definitions.* ::
+*Article 3 Definitions.*
 
 
 For purposes of these rules, the following definitions apply.
@@ -2464,7 +2464,7 @@ g) Significant reduction: A surrender or discontinuance of the use of real prope
 
 
 
-*Article 4 Criteria for Siting or Expanding Facilities.* ::
+*Article 4 Criteria for Siting or Expanding Facilities.*
 
 
 The following criteria and procedures apply to the siting of all new facilities other than administrative offices and data processing facilities ar.d the significant expansion of such facilities.
@@ -2492,7 +2492,7 @@ b) Consider any comments received from the Community Boards or Borough President
 
 
 
-*Article 5 Criteria for Siting or Expanding Local/Neighborhood Facilities.* ::
+*Article 5 Criteria for Siting or Expanding Local/Neighborhood Facilities.*
 
 
 In addition to the criteria and procedures stated in Article 4, the following criteria and procedures apply to the siting of new local or neighborhood facilities other than administrative offices and data processing facilities, and the significant expansion of such facilities (see Attachment A).
@@ -2510,7 +2510,7 @@ b) Accessibility of the site to those it is intended to serve.
 
 
 
-*Article 6 Criteria for Siting or Expanding Regional/Citywide Facilities.* ::
+*Article 6 Criteria for Siting or Expanding Regional/Citywide Facilities.*
 
 
 In addition to the criteria and procedures stated in Article 4, the following criteria and procedures apply to the siting of new regional and citywide facilities other than administrative offices and data processing facilities, and the significant expansion of such facilities (see Attachment B).
@@ -2558,7 +2558,7 @@ To facilitate this evaluation, the Department of City Planning will publish annu
 
 
 
-*Article 7 Criteria for Siting or Expanding Administrative Offices and Data Processing Facilities.* ::
+*Article 7 Criteria for Siting or Expanding Administrative Offices and Data Processing Facilities.*
 
 
 The following criteria apply to the siting of new city administrative offices and data processing facilities and the significant expansion of such facilities, pursuant to Section 195 of the City Charter.
@@ -2578,7 +2578,7 @@ d) Whether the facility can be located so as to support development and revitali
 
 
 
-*Article 8 Criteria for Closing or Reducing Facilities.* ::
+*Article 8 Criteria for Closing or Reducing Facilities.*
 
 
 The following criteria and procedures apply to the closing of existing facilities and the significant reduction in size or capacity to deliver service of existing facilities.
@@ -2596,7 +2596,7 @@ b) Consistency with the specific criteria for selecting the facility for closure
 
 
 
-*Article 9 Actions not Subject to the Uniform Land Use Review Procedure or Section 195.* ::
+*Article 9 Actions not Subject to the Uniform Land Use Review Procedure or Section 195.*
 
 
 9.1 Whenever an agency takes an action with respect to a city facility that is subject to these criteria but is not subject to ULURP or to Charter Section 195 review, the agency shall submit a statement to the Mayor, with copies to the affected Community Board(s), Borough President, and Department of City Planning, which describes the agency's consideration and application of the relevant sections of these criteria, and states the reasons for any inconsistencies.
@@ -2606,7 +2606,7 @@ b) Consistency with the specific criteria for selecting the facility for closure
 
 
 
-*Attachment A* ::
+*Attachment A*
 
 
 Local / Neighborhood Facilities*
@@ -2646,7 +2646,7 @@ Senior centers
 
 
 
-*Attachment B* ::
+*Attachment B*
 
 
 Regional / Citywide Facilities:*
@@ -2714,7 +2714,7 @@ Transitional housing
 
 
 
-*Attachment C* ::
+*Attachment C*
 
 
 Types of Residential Facilities (as referenced in Section 6.53)*

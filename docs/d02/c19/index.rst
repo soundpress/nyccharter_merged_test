@@ -1,12 +1,12 @@
 Title 35: Taxi and Limousine Commission
-===================================================
+======================================================================================================
 
 Chapter 51: Definitions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 51-01 Scope of this Chapter.* ::
+*§ 51-01 Scope of this Chapter.*
 
 
 (a) Other than words that are capitalized in the normal course (such as "Mayor of the City of New York" or the first word in a sentence) any word (or group of words) in these Rules that has its first letter capitalized will be a "defined term."
@@ -20,7 +20,7 @@ Chapter 51: Definitions
 
 
 
-*§ 51-02 Penalties.* ::
+*§ 51-02 Penalties.*
 
 
 This Chapter is informational in nature and does not contain penalties.
@@ -30,7 +30,7 @@ This Chapter is informational in nature and does not contain penalties.
 
 
 
-*§ 51-03 Definitions.* ::
+*§ 51-03 Definitions.*
 
 
 Accessible Conversion Start Date is the date which is the earlier of (1) the date on which there is available an Accessible Taxicab Model that meets the specifications of 35 RCNY § 67-05.2 and the requirements of § 19-533 of the Administrative Code, as certified by the Chairperson, or (2) January 1, 2016. To the extent possible, the Chairperson will place a notice of the Accessible Conversion Start Date on the Commission's Web site at least 60 days prior to the Accessible Conversion Start Date.
@@ -701,7 +701,7 @@ Wiring Harness means any wire or collection of wires that is connected in any ma
 
 
 Chapter 52: Rules Governing the Taxi and Limousine Commission
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -710,7 +710,7 @@ Chapter 52: Rules Governing the Taxi and Limousine Commission
 
 
 
-*§ 52-01 Creation and Purpose of the Commission.* ::
+*§ 52-01 Creation and Purpose of the Commission.*
 
 
 Pursuant to §§ 2300 and 2301 of the New York City Charter, there will be a nine-member New York City Taxi and Limousine Commission (the "Commission" or the "TLC") whose overall purpose will be to continue, further develop, and improve taxi and limousine service in New York City. To promote public comfort and convenience, and taking into account the overall public transportation network of the City, the Commission will establish an overall public transportation policy governing for-hire transportation services in the City, including taxi, limousine, paratransit and commuter van services.
@@ -720,7 +720,7 @@ Pursuant to §§ 2300 and 2301 of the New York City Charter, there will be a nin
 
 
 
-*§ 52-02 Jurisdiction of the Commission.* ::
+*§ 52-02 Jurisdiction of the Commission.*
 
 
 The Commission will issue licenses and adopt and enforce rules regulating the business and industry of the following for-hire transportation services in the City:
@@ -738,7 +738,7 @@ The Commission will issue licenses and adopt and enforce rules regulating the bu
 
 
 
-*§ 52-03 General Powers of the Commission.* ::
+*§ 52-03 General Powers of the Commission.*
 
 
 (a) Issuance of Licenses. The TLC has the power to issue and regulate Licenses or Authorizations that include, but need not be limited to the following:
@@ -784,7 +784,7 @@ The Commission will issue licenses and adopt and enforce rules regulating the bu
 
 
 
-*§ 52-04 Specific Powers and Duties of the Commission.* ::
+*§ 52-04 Specific Powers and Duties of the Commission.*
 
 
 (a) Powers and Duties with Respect to Regulating.
@@ -867,7 +867,7 @@ The Commission will issue licenses and adopt and enforce rules regulating the bu
 
 
 
-*§ 52-11 Scope of this Subchapter.* ::
+*§ 52-11 Scope of this Subchapter.*
 
 
 This Subchapter establishes the process by which any person may petition the Commission to consider adoption of a new Rule or Rules.
@@ -877,7 +877,7 @@ This Subchapter establishes the process by which any person may petition the Com
 
 
 
-*§ 52-12 Penalties.* ::
+*§ 52-12 Penalties.*
 
 
 This Subchapter is informational in nature and does not provide for any penalties.
@@ -887,7 +887,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-13 Definitions Specific to this Subchapter. [Reserved]* ::
+*§ 52-13 Definitions Specific to this Subchapter. [Reserved]*
 
 
 (a) Who May Petition. Any person may petition the TLC to consider the adoption of rules.
@@ -919,7 +919,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-15 Procedures for Consideration of Petitions.* ::
+*§ 52-15 Procedures for Consideration of Petitions.*
 
 
 (a) Initial Process. When a petition submitted in proper form is received, the TLC will do the following:
@@ -951,7 +951,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-16 Appeal.* ::
+*§ 52-16 Appeal.*
 
 
 No Appeal. The Commission's decision to deny or grant a petition is final and not subject to judicial review.
@@ -966,7 +966,7 @@ No Appeal. The Commission's decision to deny or grant a petition is final and no
 
 
 
-*§ 52-21 Scope of this Subchapter.* ::
+*§ 52-21 Scope of this Subchapter.*
 
 
 (a) As part of the development and implementation of a broad public transportation policy, Section 2303(b)(9) of the New York City Charter charges the Commission to encourage and provide for innovation and experimentation in relation to the type and design of equipment, modes of service, and manner of operation. Such experimentation through pilot programs may, for limited purposes and limited periods of time, depart from the requirements established in these Rules.
@@ -978,7 +978,7 @@ No Appeal. The Commission's decision to deny or grant a petition is final and no
 
 
 
-*§ 52-22 Penalties.* ::
+*§ 52-22 Penalties.*
 
 
 This Subchapter is informational in nature and does not provide for any penalties.
@@ -988,7 +988,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-23 Definitions Specific to this Subchapter. [Reserved]* ::
+*§ 52-23 Definitions Specific to this Subchapter. [Reserved]*
 
 
 (a) Any person or entity may propose a pilot program in writing to the Chairperson for purposes of testing and evaluating a proposed innovation.
@@ -1018,7 +1018,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-25 Initial Review of Proposed Pilot Programs.* ::
+*§ 52-25 Initial Review of Proposed Pilot Programs.*
 
 
 (a) Initial Review By Chairperson. The Chairperson will perform the initial review of all pilot program proposals. The Chairperson is authorized to assemble any information, from any source, that he or she determines to be useful to the Commission in reviewing the proposal.
@@ -1032,7 +1032,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-26 Commission Review and Grounds for Rejection.* ::
+*§ 52-26 Commission Review and Grounds for Rejection.*
 
 
 (a) Consideration By Commission. The Commission will consider all proposed pilot programs forwarded by the Chairperson and will approve or reject such programs.
@@ -1048,7 +1048,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-27 Commission Approval of Proposal for Pilot Program.* ::
+*§ 52-27 Commission Approval of Proposal for Pilot Program.*
 
 
 (a) Resolution of Approval. Any proposed pilot program approved by the Commission will be approved by Resolution of Approval.
@@ -1078,7 +1078,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-28 Agreements between the Commission and the Pilot Program Participants.* ::
+*§ 52-28 Agreements between the Commission and the Pilot Program Participants.*
 
 
 (a) Agreement(s) Required. All persons or entities participating in any pilot program approved by the Commission must enter into an agreement with the Chairperson on behalf of the Commission. This agreement will govern the preparation, implementation, and evaluation of the pilot program consistent with the terms of the Commission's Resolution of approval.
@@ -1097,7 +1097,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-40 Form of Payment.* ::
+*§ 52-40 Form of Payment.*
 
 
 (a) In general. A Person or entity can make a payment to the Commission by money order, bank check, certified check, credit card, debit card, e-check, PIN-less debit card (in person) or corporate check.
@@ -1139,7 +1139,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-41 Returned Payment Fee.* ::
+*§ 52-41 Returned Payment Fee.*
 
 
 (a) A check or money order that is returned to the Commission unpaid, or that is declined or reversed by a bank or other institution will be considered a "bad payment."
@@ -1169,7 +1169,7 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 
-*§ 52-42 Bad Payments.* ::
+*§ 52-42 Bad Payments.*
 
 
 (a) The Chairperson can send a notice to any person or entity who submits a bad payment at any time. For the period of time specified in the notice, the person or entity must make payment only in the form(s) specified in the notice. During the period covered in the notice, the Commission can return any payment made in any other form and treat the payment as unmade.
@@ -1178,11 +1178,11 @@ This Subchapter is informational in nature and does not provide for any penaltie
 
 
 Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 53-01 Scope of this Chapter.* ::
+*§ 53-01 Scope of this Chapter.*
 
 
 (a) This Chapter sets the requirements and rules for the dispatch of Accessible Taxicabs and Accessible Street Hail Liveries.
@@ -1196,7 +1196,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 
-*§ 53-02 Penalties.* ::
+*§ 53-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -1224,7 +1224,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 
-*§ 53-03 Definitions.* ::
+*§ 53-03 Definitions.*
 
 
 (a) Accessible Taxi Dispatcher. The Accessible Taxi Dispatcher is the entity which, under contract with the Commission, will convey dispatches or requests for accessible service to Drivers of Accessible Taxicabs and to Drivers of Accessible Street Hail Liveries to provide transportation for a Passenger or group of Passengers, at least one of whom must be mobility-impaired, for trips that originate in New York City.
@@ -1246,7 +1246,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 
-*§ 53-04 Comply with Law – Approved Driver.* ::
+*§ 53-04 Comply with Law – Approved Driver.*
 
 
 (a) Comply with this Chapter. All Accessible Taxicab Owners, Accessible Street Hail Livery Owners and all Approved Drivers must comply with all provisions of this chapter. Agents for Accessible Taxicab Owners and bases dispatching or acting on behalf of Accessible Street Hail Liveries under 35 RCNY § 59B-04.2 must also comply with these Rules where applicable.
@@ -1312,7 +1312,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 
-*§ 53-05 Requirements Not Exclusive.* ::
+*§ 53-05 Requirements Not Exclusive.*
 
 
 (a) Other than when this Chapter expressly provides otherwise, each Approved Driver, each Accessible Taxicab Owner, each Owner of a Taxicab hacked up with a Vehicle that qualifies to be hacked up as an Accessible Taxicab, each Accessible Street Hail Livery Owner, each Base and each Agent for Accessible Taxicab Owners and Bases dispatching or acting on behalf of Accessible Street Hail Liveries under 35 RCNY § 59B-04.2 must comply with all applicable provisions of this Title.
@@ -1324,7 +1324,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 
-*§ 53-06 Dispatch Equipment for Accessible Taxicabs and Street Hail Liveries.* ::
+*§ 53-06 Dispatch Equipment for Accessible Taxicabs and Street Hail Liveries.*
 
 
 (a) The Owner and/or Agent of an Accessible Vehicle and a base dispatching or acting on behalf of an Accessible Street Hail Livery under 35 RCNY § 59B-04.2 must have Dispatch Equipment installed in the Vehicle in compliance with a deadline announced by TLC.
@@ -1490,7 +1490,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 
-*§ 53-07 Training Approved Drivers. [Repealed]* ::
+*§ 53-07 Training Approved Drivers. [Repealed]*
 
 
 
@@ -1500,7 +1500,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 
-*§ 53-08 Acceptance of Dispatch.* ::
+*§ 53-08 Acceptance of Dispatch.*
 
 
 (a) Driver MUST Accept Dispatch.
@@ -1550,7 +1550,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 
-*§ 53-09 Fares.* ::
+*§ 53-09 Fares.*
 
 
 (a) Fare Amount. The fare for transporting Passengers with mobility impairments following a dispatch will be the same as the current Taxicab and Street Hail Livery fares set by the Commission.
@@ -1598,7 +1598,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 
-*§ 53-10 Driver Duties Regarding Passengers in Wheelchairs.* ::
+*§ 53-10 Driver Duties Regarding Passengers in Wheelchairs.*
 
 
 (a) Assisting the Passenger. An Approved Driver
@@ -1728,11 +1728,11 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 
 Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 54-01 Scope of This Chapter. [Repealed]* ::
+*§ 54-01 Scope of This Chapter. [Repealed]*
 
 
 
@@ -1742,7 +1742,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-02 Penalties. [Repealed]* ::
+*§ 54-02 Penalties. [Repealed]*
 
 
 
@@ -1752,7 +1752,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-03 Definitions Specific to This Chapter. [Repealed]* ::
+*§ 54-03 Definitions Specific to This Chapter. [Repealed]*
 
 
 
@@ -1762,7 +1762,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-04 Licensing – Requirements. [Repealed]* ::
+*§ 54-04 Licensing – Requirements. [Repealed]*
 
 
 
@@ -1772,7 +1772,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-04.1 Licensing – Authorization to drive a Street Hail Livery. [Repealed]* ::
+*§ 54-04.1 Licensing – Authorization to drive a Street Hail Livery. [Repealed]*
 
 
 
@@ -1782,7 +1782,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-04.2 Licensing – FHV Driver Authorization to drive a Street Hail Livery. [Repealed]* ::
+*§ 54-04.2 Licensing – FHV Driver Authorization to drive a Street Hail Livery. [Repealed]*
 
 
 
@@ -1792,7 +1792,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-05 Licensing – Probationary Licenses. [Repealed]* ::
+*§ 54-05 Licensing – Probationary Licenses. [Repealed]*
 
 
 
@@ -1802,7 +1802,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-06 Licensing – Term of License. [Repealed]* ::
+*§ 54-06 Licensing – Term of License. [Repealed]*
 
 
 
@@ -1812,7 +1812,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-07 Licensing – Fees. [Repealed]* ::
+*§ 54-07 Licensing – Fees. [Repealed]*
 
 
 
@@ -1822,7 +1822,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-08 Licensing – Process and Causes for Denial. [Repealed]* ::
+*§ 54-08 Licensing – Process and Causes for Denial. [Repealed]*
 
 
 
@@ -1832,7 +1832,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-09 Licensing – Transfer of License. [Repealed] [Repealed]* ::
+*§ 54-09 Licensing – Transfer of License. [Repealed] [Repealed]*
 
 
 
@@ -1842,7 +1842,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-10 Licensing – Care and Use of License. [Repealed]* ::
+*§ 54-10 Licensing – Care and Use of License. [Repealed]*
 
 
 
@@ -1852,7 +1852,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-11 Comply with Laws – Unlicensed Activity Prohibited. [Repealed]* ::
+*§ 54-11 Comply with Laws – Unlicensed Activity Prohibited. [Repealed]*
 
 
 
@@ -1862,7 +1862,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-12 Comply with Laws – Proper Conduct. [Repealed]* ::
+*§ 54-12 Comply with Laws – Proper Conduct. [Repealed]*
 
 
 
@@ -1872,7 +1872,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-13 Comply with Laws – Traffic Laws &amp; Miscellaneous. [Repealed]* ::
+*§ 54-13 Comply with Laws – Traffic Laws &amp; Miscellaneous. [Repealed]*
 
 
 
@@ -1882,7 +1882,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-14 Operations – Passenger and Driver Safety. [Repealed]* ::
+*§ 54-14 Operations – Passenger and Driver Safety. [Repealed]*
 
 
 
@@ -1892,7 +1892,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-15 Operations – General Rules During Operation of Vehicle. [Repealed]* ::
+*§ 54-15 Operations – General Rules During Operation of Vehicle. [Repealed]*
 
 
 
@@ -1902,7 +1902,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-16 Operations – Comply with Reasonable Passenger Requests. [Repealed]* ::
+*§ 54-16 Operations – Comply with Reasonable Passenger Requests. [Repealed]*
 
 
 
@@ -1912,7 +1912,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-17 Operations – Rates, Charges and Payment. [Repealed]* ::
+*§ 54-17 Operations – Rates, Charges and Payment. [Repealed]*
 
 
 
@@ -1922,7 +1922,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-18 Operations – Lost Property. [Repealed]* ::
+*§ 54-18 Operations – Lost Property. [Repealed]*
 
 
 
@@ -1932,7 +1932,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-19 Operations – Passenger Solicitation and Engagement. [Repealed]* ::
+*§ 54-19 Operations – Passenger Solicitation and Engagement. [Repealed]*
 
 
 
@@ -1942,7 +1942,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-20 Operations – Refusing Passengers. [Repealed]* ::
+*§ 54-20 Operations – Refusing Passengers. [Repealed]*
 
 
 
@@ -1952,7 +1952,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-21 Operations – Cooperation with Issuing Jurisdictions. [Repealed]* ::
+*§ 54-21 Operations – Cooperation with Issuing Jurisdictions. [Repealed]*
 
 
 
@@ -1962,7 +1962,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-22 Vehicle – Operation and Condition. [Repealed]* ::
+*§ 54-22 Vehicle – Operation and Condition. [Repealed]*
 
 
 
@@ -1972,7 +1972,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-23 Vehicle – Items Required to be in the Vehicle. [Repealed]* ::
+*§ 54-23 Vehicle – Items Required to be in the Vehicle. [Repealed]*
 
 
 
@@ -1982,7 +1982,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-24 Vehicle – Trip Records. [Repealed]* ::
+*§ 54-24 Vehicle – Trip Records. [Repealed]*
 
 
 
@@ -1992,7 +1992,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-25 Vehicle Equipment – Taxicab Technology System (Electronic Trip Record System) for Taxicabs. [Repealed]* ::
+*§ 54-25 Vehicle Equipment – Taxicab Technology System (Electronic Trip Record System) for Taxicabs. [Repealed]*
 
 
 
@@ -2002,7 +2002,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-25.1 Vehicle Equipment – Street Hail Livery Technology System (Electronic Trip Record System) for Street Hail Liveries. [Repealed]* ::
+*§ 54-25.1 Vehicle Equipment – Street Hail Livery Technology System (Electronic Trip Record System) for Street Hail Liveries. [Repealed]*
 
 
 
@@ -2012,7 +2012,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-26 Vehicle Equipment – Taximeters. [Repealed]* ::
+*§ 54-26 Vehicle Equipment – Taximeters. [Repealed]*
 
 
 
@@ -2022,7 +2022,7 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 
-*§ 54-27 Special Driver Penalty Programs. [Repealed]* ::
+*§ 54-27 Special Driver Penalty Programs. [Repealed]*
 
 
 
@@ -2031,11 +2031,11 @@ Chapter 54: Drivers of Taxicabs and Street Hail Liveries [Repealed]
 
 
 Chapter 55: For-Hire Drivers [Repealed]
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 55-01 Scope of This Chapter. [Repealed]* ::
+*§ 55-01 Scope of This Chapter. [Repealed]*
 
 
 
@@ -2045,7 +2045,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-02 Penalties. [Repealed]* ::
+*§ 55-02 Penalties. [Repealed]*
 
 
 
@@ -2055,7 +2055,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-03 Definitions Specific to this Chapter. [Repealed]* ::
+*§ 55-03 Definitions Specific to this Chapter. [Repealed]*
 
 
 
@@ -2065,7 +2065,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-04 Licensing – Requirements. [Repealed]* ::
+*§ 55-04 Licensing – Requirements. [Repealed]*
 
 
 
@@ -2075,7 +2075,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-05 Licensing – Probationary Licenses. [Repealed]* ::
+*§ 55-05 Licensing – Probationary Licenses. [Repealed]*
 
 
 
@@ -2085,7 +2085,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-06 Licensing – Term of License. [Repealed]* ::
+*§ 55-06 Licensing – Term of License. [Repealed]*
 
 
 
@@ -2095,7 +2095,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-07 Licensing – Fees. [Repealed]* ::
+*§ 55-07 Licensing – Fees. [Repealed]*
 
 
 
@@ -2105,7 +2105,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-08 Licensing – Process and Causes for Denial of License. [Repealed]* ::
+*§ 55-08 Licensing – Process and Causes for Denial of License. [Repealed]*
 
 
 
@@ -2115,7 +2115,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-09 Licensing – Transfer of License. [Repealed]* ::
+*§ 55-09 Licensing – Transfer of License. [Repealed]*
 
 
 
@@ -2125,7 +2125,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-10 Licensing – Care and Use of License. [Repealed]* ::
+*§ 55-10 Licensing – Care and Use of License. [Repealed]*
 
 
 
@@ -2135,7 +2135,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-11 Comply with Laws – Unlicensed Activity Prohibited. [Repealed]* ::
+*§ 55-11 Comply with Laws – Unlicensed Activity Prohibited. [Repealed]*
 
 
 
@@ -2145,7 +2145,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-12 Comply with Laws – Proper Conduct. [Repealed]* ::
+*§ 55-12 Comply with Laws – Proper Conduct. [Repealed]*
 
 
 
@@ -2155,7 +2155,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-13 Comply with Laws – Traffic Laws. [Repealed]* ::
+*§ 55-13 Comply with Laws – Traffic Laws. [Repealed]*
 
 
 
@@ -2165,7 +2165,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-14 Operations – Passenger and Driver Safety. [Repealed]* ::
+*§ 55-14 Operations – Passenger and Driver Safety. [Repealed]*
 
 
 
@@ -2175,7 +2175,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-15 Operations – General Rules During Operation of Vehicle. [Repealed]* ::
+*§ 55-15 Operations – General Rules During Operation of Vehicle. [Repealed]*
 
 
 
@@ -2185,7 +2185,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-16 Operations – Comply with Reasonable Passenger Requests. [Repealed]* ::
+*§ 55-16 Operations – Comply with Reasonable Passenger Requests. [Repealed]*
 
 
 
@@ -2195,7 +2195,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-17 Operations – Method of Payment. [Repealed]* ::
+*§ 55-17 Operations – Method of Payment. [Repealed]*
 
 
 
@@ -2205,7 +2205,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-18 Operations – Lost Property. [Repealed]* ::
+*§ 55-18 Operations – Lost Property. [Repealed]*
 
 
 
@@ -2215,7 +2215,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-19 Operations – Passenger and Solicitation and Engagement. [Repealed]* ::
+*§ 55-19 Operations – Passenger and Solicitation and Engagement. [Repealed]*
 
 
 
@@ -2225,7 +2225,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-20 Operations – Refusing Passengers. [Repealed]* ::
+*§ 55-20 Operations – Refusing Passengers. [Repealed]*
 
 
 
@@ -2235,7 +2235,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-21 Operations – Rules for Drivers from Qualified Jurisdictions. [Repealed]* ::
+*§ 55-21 Operations – Rules for Drivers from Qualified Jurisdictions. [Repealed]*
 
 
 
@@ -2245,7 +2245,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-22 Vehicle – Operating Conditions. [Repealed]* ::
+*§ 55-22 Vehicle – Operating Conditions. [Repealed]*
 
 
 
@@ -2255,7 +2255,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-23 Vehicle – Items Required to be in the Vehicle. [Repealed]* ::
+*§ 55-23 Vehicle – Items Required to be in the Vehicle. [Repealed]*
 
 
 
@@ -2265,7 +2265,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-24 Vehicle – Trip Records. [Repealed]* ::
+*§ 55-24 Vehicle – Trip Records. [Repealed]*
 
 
 
@@ -2275,7 +2275,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-25 Vehicle – Electronic Trip Record System. [Repealed]* ::
+*§ 55-25 Vehicle – Electronic Trip Record System. [Repealed]*
 
 
 
@@ -2285,7 +2285,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-26 Vehicle – Miscellaneous. [Repealed]* ::
+*§ 55-26 Vehicle – Miscellaneous. [Repealed]*
 
 
 
@@ -2295,7 +2295,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-27 Special Driver Penalty Programs. [Repealed]* ::
+*§ 55-27 Special Driver Penalty Programs. [Repealed]*
 
 
 
@@ -2305,7 +2305,7 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
-*§ 55-28 Street Hail Liveries. [Repealed]* ::
+*§ 55-28 Street Hail Liveries. [Repealed]*
 
 
 
@@ -2314,11 +2314,11 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 Chapter 56: Paratransit Drivers
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 56-01 Scope of this Chapter.* ::
+*§ 56-01 Scope of this Chapter.*
 
 
 (a) To establish procedures for the licensing and supervision of Paratransit Drivers who operate for hire in the City of New York.
@@ -2332,7 +2332,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-02 Penalties.* ::
+*§ 56-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -2403,7 +2403,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-03 Definitions Specific to this Chapter.* ::
+*§ 56-03 Definitions Specific to this Chapter.*
 
 
 (a) Applicant in this Chapter means an Applicant for an original or renewal Paratransit Driver's License.
@@ -2433,7 +2433,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-04 Licensing – Requirements.* ::
+*§ 56-04 Licensing – Requirements.*
 
 
 (a) Age. An Applicant must be at least 18 years of age.
@@ -2529,7 +2529,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-05 Licensing – Probationary Licenses. [Reserved]* ::
+*§ 56-05 Licensing – Probationary Licenses. [Reserved]*
 
 
 (a) Original (New) License Term. An original (new) Paratransit Driver's License will be Valid for three years from the date it is issued.
@@ -2563,7 +2563,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-07 Licensing – License and Administrative Fees.* ::
+*§ 56-07 Licensing – License and Administrative Fees.*
 
 
 (a) Fee for License. The fee for a Paratransit Vehicle Driver's License will be $84 annually.
@@ -2581,7 +2581,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-08 Licensing – Process and Cause for Denial of License.* ::
+*§ 56-08 Licensing – Process and Cause for Denial of License.*
 
 
 (a) Fit to Hold a License – Applicant. The Chairperson will deny the original Paratransit License or renewal License of any Applicant who fails to demonstrate that the Applicant is Fit to Hold a License. The Chairperson will inform the Applicant, in writing, of the specific reason(s) for this denial. The decision to deny a license Application is in the discretion of the Chairperson.
@@ -2643,7 +2643,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-09 Licensing – Transfer of License. [Reserved]* ::
+*§ 56-09 Licensing – Transfer of License. [Reserved]*
 
 
 (a) No One Else Can Use. A Driver must not allow anyone to use his or her Paratransit Driver's License. Drivers must not use another person's Paratransit Driver's License. 
@@ -2795,7 +2795,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-11 Comply with Laws – Unlicensed Activity Prohibited.* ::
+*§ 56-11 Comply with Laws – Unlicensed Activity Prohibited.*
 
 
 (a) Vehicle Must be Licensed. A Driver must not operate a paratransit vehicle for hire within the City of New York, unless it is properly licensed by the Commission. 
@@ -2909,7 +2909,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-12 Comply with Laws – Proper Conduct.* ::
+*§ 56-12 Comply with Laws – Proper Conduct.*
 
 
 (a) No Bribery. An Applicant or Driver (or anyone representing the Driver) must not offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission or any other public servant. 
@@ -3184,7 +3184,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-13 Comply with Laws – Miscellaneous.* ::
+*§ 56-13 Comply with Laws – Miscellaneous.*
 
 
 (a) Traffic Laws. A Driver must comply with all applicable traffic laws, rules and regulations. The Commission will impose fines and penalties in addition to any fines and penalties imposed by the underlying law as follows:
@@ -3301,7 +3301,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-14 Operations – Passenger and Driver Safety.* ::
+*§ 56-14 Operations – Passenger and Driver Safety.*
 
 
 (a) [Reserved.]
@@ -3491,7 +3491,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-15 Operations – General Rules During Operation of Vehicle.* ::
+*§ 56-15 Operations – General Rules During Operation of Vehicle.*
 
 
 (a) No Weapons. A Driver must not carry a weapon while operating a Paratransit Vehicle without the Commission's written authorization. 
@@ -3752,7 +3752,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-16 Operations – Comply with Reasonable Passenger Requests.* ::
+*§ 56-16 Operations – Comply with Reasonable Passenger Requests.*
 
 
 (a) Shortest Route. A Driver must take passengers to their destination by the shortest, most reasonable route unless the Driver or passenger requests a different route, and all of the other passengers agree. 
@@ -3872,7 +3872,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-17 Operations – Method of Payment.* ::
+*§ 56-17 Operations – Method of Payment.*
 
 
 (a) [Reserved.] Accept U.S. Currency.
@@ -3903,7 +3903,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-18 Operations – Lost Property.* ::
+*§ 56-18 Operations – Lost Property.*
 
 
 (a) Inspecting for Passenger Property. The Driver must inspect the interior of the Paratransit Vehicle after each trip and any property found must be returned to the passenger if possible; otherwise it must be taken immediately to the police precinct closest to where the passenger was discharged. 
@@ -3945,7 +3945,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-19 Operations – Passenger Solicitation and Engagement.* ::
+*§ 56-19 Operations – Passenger Solicitation and Engagement.*
 
 
 (a) Limitations on Driver Solicitation of Passengers. A Driver must only pick up passengers on a prearranged basis. Paratransit Drivers must not solicit or respond to hails. 
@@ -3970,7 +3970,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-20 Operations – Refusing Passengers.* ::
+*§ 56-20 Operations – Refusing Passengers.*
 
 
 (a) Must Not Refuse. Unless justified, a Driver who is dispatched must not refuse by words, gestures or any other means, to transport a person who has prearranged the trip with a destination within the City of New York. This includes a passenger accompanied by a service animal. 
@@ -4007,7 +4007,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-21 Operations – Cooperation with Issuing Jurisdictions. [Reserved]* ::
+*§ 56-21 Operations – Cooperation with Issuing Jurisdictions. [Reserved]*
 
 
 (a) Pollution Control.
@@ -4089,7 +4089,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-23 Vehicles – Items Required to be in the Vehicle During Operation.* ::
+*§ 56-23 Vehicles – Items Required to be in the Vehicle During Operation.*
 
 
 (a) General. The following items must be present in the Paratransit Vehicle prior to its operation:
@@ -4128,7 +4128,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-24 Vehicles – Trip Records.* ::
+*§ 56-24 Vehicles – Trip Records.*
 
 
 (a) Information Required in Trip Records. All Trip Records will contain the following information:
@@ -4240,7 +4240,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-25 Vehicle Equipment – Electronic Trip Record System.* ::
+*§ 56-25 Vehicle Equipment – Electronic Trip Record System.*
 
 
 (a) The "electronic Trip Record system" is hardware and software that collects and stores the electronic trip record data required by the Commission. This includes the following:
@@ -4264,7 +4264,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-26 Vehicle Equipment – Miscellaneous.* ::
+*§ 56-26 Vehicle Equipment – Miscellaneous.*
 
 
 (a) Wheelchair Ramps and Fastening Devices. A Driver must only use wheelchair ramps and fastening devices that are functioning properly and are secure. 
@@ -4289,7 +4289,7 @@ Chapter 56: Paratransit Drivers
 
 
 
-*§ 56-27 Accessible Street Hail Liveries.* ::
+*§ 56-27 Accessible Street Hail Liveries.*
 
 
 (a) Authorization.
@@ -4312,11 +4312,11 @@ and the Driver may incur the penalties specified as a result. A Paratransit Driv
 
 
 Chapter 57: Commuter Van Drivers
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 57-01 Scope of this Chapter.* ::
+*§ 57-01 Scope of this Chapter.*
 
 
 (a) To establish procedures for the licensing and regulation of Commuter Van Drivers who operate for hire into, out of or within New York City.
@@ -4330,7 +4330,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-02 Penalties.* ::
+*§ 57-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -4392,7 +4392,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-03 Definitions Specific to this Chapter.* ::
+*§ 57-03 Definitions Specific to this Chapter.*
 
 
 (a) Applicant in this Chapter means an Applicant for an original or renewal Commuter Van Driver's License.
@@ -4428,7 +4428,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-04 Licensing – General Requirements.* ::
+*§ 57-04 Licensing – General Requirements.*
 
 
 (a) [Reserved.] Age.
@@ -4514,7 +4514,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-05 Licensing – Probationary Licenses. [Reserved]* ::
+*§ 57-05 Licensing – Probationary Licenses. [Reserved]*
 
 
 (a) Original (new) License Term. An original Commuter Van Driver's License will be Valid for three years from the date it is issued.
@@ -4548,7 +4548,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-07 Licensing – License and Administrative Fees.* ::
+*§ 57-07 Licensing – License and Administrative Fees.*
 
 
 (a) Fee for License. The fee for a Commuter Van Driver's License will be $84 annually.
@@ -4566,7 +4566,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-08 Licensing – Procedures and Causes for Denial.* ::
+*§ 57-08 Licensing – Procedures and Causes for Denial.*
 
 
 (a) Fit to Hold a License – Applicant. The Chairperson will deny the original or renewal License of any Applicant who fails to demonstrate that they are Fit to Hold a License. The Chairperson will inform the Applicant, in writing, of the specific reason(s) for this denial. The decision to deny a license Application is in the discretion of the Chairperson.
@@ -4626,7 +4626,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-09 Licensing – Transfer of License.* ::
+*§ 57-09 Licensing – Transfer of License.*
 
 
 (a) A Commuter Van Driver's License is not assignable or transferable.
@@ -4636,7 +4636,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-10 Licensing – Care of Licenses.* ::
+*§ 57-10 Licensing – Care of Licenses.*
 
 
 (a) Loss or Theft of License. A Driver, within 72 hours (not counting holidays and weekends), must notify the Commission of the loss or theft of his Commuter Van Driver's License. 
@@ -4729,7 +4729,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-11 Comply with Laws – Unlicensed Activity Prohibited.* ::
+*§ 57-11 Comply with Laws – Unlicensed Activity Prohibited.*
 
 
 (a) Driver Must Be Licensed. A person must not operate a for-hire Commuter Van without having a Valid Commuter Van Driver's License. 
@@ -4872,7 +4872,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-12 Comply with Laws – Proper Conduct.* ::
+*§ 57-12 Comply with Laws – Proper Conduct.*
 
 
 (a) No Bribery.
@@ -5160,7 +5160,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-13 Comply with Laws – Traffic Laws &amp; Miscellaneous.* ::
+*§ 57-13 Comply with Laws – Traffic Laws &amp; Miscellaneous.*
 
 
 (a) Critical Driver's Program ("Points" in this Section refers to points assessed by the Department of Motor Vehicles). In addition to any other action the Commission might take, the following penalties will be enforced as part of the Commission's Critical Driver's Program:
@@ -5265,7 +5265,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-14 Operations – Passenger and Driver Safety.* ::
+*§ 57-14 Operations – Passenger and Driver Safety.*
 
 
 (a) Reckless Driving Rule. A Driver must not operate a Commuter Van in a manner or at a speed that unreasonably endangers users of other vehicles, pedestrians, or the Passengers. 
@@ -5367,7 +5367,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-15 Operations – General Rules.* ::
+*§ 57-15 Operations – General Rules.*
 
 
 (a) [Reserved.] No Weapons.
@@ -5486,7 +5486,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-16 Operations – Comply with Reasonable Passenger Requests.* ::
+*§ 57-16 Operations – Comply with Reasonable Passenger Requests.*
 
 
 (a) [Reserved.]. Shortest Route Absent Reasonable Passenger Request.
@@ -5544,7 +5544,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-17 Operations – Method of Payment. [Reserved]* ::
+*§ 57-17 Operations – Method of Payment. [Reserved]*
 
 
 (a) Solicitation of Passengers. A Commuter Van Driver must only transport passengers on a pre-arranged basis.
@@ -5590,7 +5590,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-20 Operations – Refusing Passengers.* ::
+*§ 57-20 Operations – Refusing Passengers.*
 
 
 (a) Must Not Refuse. Unless justified, a Driver who is dispatched must not refuse by words, gestures or any other means, to transport a person who has prearranged the trip and the destination is within Commuter Van Service's Authorized jurisdiction. This includes a passenger accompanied by a Service Animal. 
@@ -5669,7 +5669,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-21 Operations – Cooperation with Issuing Jurisdictions. [Reserved]* ::
+*§ 57-21 Operations – Cooperation with Issuing Jurisdictions. [Reserved]*
 
 
 (a) [Reserved.] 3-Minute Idle.
@@ -5706,7 +5706,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-23 Vehicles – Items Required to be in the Vehicle During Operation.* ::
+*§ 57-23 Vehicles – Items Required to be in the Vehicle During Operation.*
 
 
 (a) Items in Vehicle. A Commuter Van Driver must not operate a Commuter Van unless the following are present in the vehicle:
@@ -5739,7 +5739,7 @@ Chapter 57: Commuter Van Drivers
 
 
 
-*§ 57-24 Vehicles – Written Trip Records. [Reserved]* ::
+*§ 57-24 Vehicles – Written Trip Records. [Reserved]*
 
 
 
@@ -5748,11 +5748,11 @@ Chapter 57: Commuter Van Drivers
 
 
 Chapter 58: Medallion Taxicab Service
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 58-01 Scope of this Chapter.* ::
+*§ 58-01 Scope of this Chapter.*
 
 
 (a) To establish the procedures and requirements for obtaining a Taxicab License.
@@ -5766,7 +5766,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-02 Penalties.* ::
+*§ 58-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -5794,7 +5794,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-03 Definitions Specific to this Chapter.* ::
+*§ 58-03 Definitions Specific to this Chapter.*
 
 
 (a) Accessible Conversion Start Date is the date which is the earlier of (1) the date on which there is available an Accessible Taxicab Model that meets the specifications of 35 RCNY § 67-05.2 and the requirements of § 19-533 of the Administrative Code, as certified by the Chairperson, or (2) January 1, 2016. To the extent possible, the Chairperson will place a notice of the Accessible Conversion Start Date on the Commission's Website at least 60 days prior to the Accessible Conversion Start Date.
@@ -5908,7 +5908,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-04 Licensing – General Requirements.* ::
+*§ 58-04 Licensing – General Requirements.*
 
 
 (a) Identification. An individual or all Business Entity Persons of a Business Entity applying for a Taxicab License must provide to the Commission:
@@ -5980,7 +5980,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-05 Licensing – Special Requirements.* ::
+*§ 58-05 Licensing – Special Requirements.*
 
 
 (a) Commission Approval. All Medallion transfers, including partial transfers, must be approved by the Commission. All Applicants to own a Medallion or an interest in a Medallion must be approved by the Commission.
@@ -6080,7 +6080,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-06 Licensing – Term of License.* ::
+*§ 58-06 Licensing – Term of License.*
 
 
 (a) New License.
@@ -6139,7 +6139,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-07 Licensing – Fees.* ::
+*§ 58-07 Licensing – Fees.*
 
 
 (a) Annual Fee. The fee for each Taxicab License is $550 annually; the fee will be pro-rated if the License will be owned for less than one year by the next May 31st.
@@ -6179,7 +6179,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-08 Licensing – Causes for Denial.* ::
+*§ 58-08 Licensing – Causes for Denial.*
 
 
 (a) Failure to Meet Requirements. The Commission can deny an application for a License or its renewal of any Applicant who fails to meet the requirements. The Commission will inform the Applicant, in writing, of the specific reason(s) for this denial.
@@ -6247,7 +6247,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-09 Licensing – Procedures for Approval/Denial. [Reserved]* ::
+*§ 58-09 Licensing – Procedures for Approval/Denial. [Reserved]*
 
 
 (a) Do Not Alter Rate Card. An Owner must not change, mark, cross out or make any unauthorized entries on a Taxicab's Rate Card, or display a Rate Card that contains wrong information. 
@@ -6375,7 +6375,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-12 Compliance with Law – No Unlicensed Activity.* ::
+*§ 58-12 Compliance with Law – No Unlicensed Activity.*
 
 
 (a) No Unlicensed Taxicabs.
@@ -6492,7 +6492,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-13 Compliance with Laws – Insurance Coverage.* ::
+*§ 58-13 Compliance with Laws – Insurance Coverage.*
 
 
 (a) Maintain Insurance Coverage.
@@ -6664,7 +6664,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-14 Compliance with Laws – Workers' Compensation.* ::
+*§ 58-14 Compliance with Laws – Workers' Compensation.*
 
 
 (a) Compliance with Law. An Owner must comply with all provisions of the New York State Workers' Compensation Law and regulations with respect to coverage and benefits to eligible persons. 
@@ -6744,7 +6744,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-15 Compliance with Law – Personal Conduct.* ::
+*§ 58-15 Compliance with Law – Personal Conduct.*
 
 
 (a) Bribery.
@@ -7001,7 +7001,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-16 Compliance with Law – Miscellaneous.* ::
+*§ 58-16 Compliance with Law – Miscellaneous.*
 
 
 (a) Compliance with Commission Rules and Regulations, Generally and Specifically.
@@ -7260,7 +7260,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-17 Operations – Business Premises.* ::
+*§ 58-17 Operations – Business Premises.*
 
 
 (a) Maintenance of Physical Location. The following entities must maintain a business premise in a location zoned for the operation of a business:
@@ -7375,7 +7375,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-18 Operations – Management Oversight.* ::
+*§ 58-18 Operations – Management Oversight.*
 
 
 (a) Direct Owner Operations. The Commission will hold the Owner of every Taxicab accountable for hands-on operation of the Taxicabs and expects the Owner to be personally responsible for:
@@ -7554,7 +7554,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-19 Operations – Service Requirements (Passengers). [Reserved]* ::
+*§ 58-19 Operations – Service Requirements (Passengers). [Reserved]*
 
 
 (a) Maximum Driving Hours. An Owner must not require a Driver to operate one or more Taxicabs for more than 12 consecutive hours.  
@@ -7659,7 +7659,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-21 Leasing a Taxicab or Medallion.* ::
+*§ 58-21 Leasing a Taxicab or Medallion.*
 
 
 (a) An Owner can lease a Taxicab (or a Medallion-only) to a Licensed Driver, or to Licensed Drivers working different shifts or days if the Owner complies with the provision of this section.
@@ -8330,7 +8330,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-22 Records – Trip Record Information.* ::
+*§ 58-22 Records – Trip Record Information.*
 
 
 (a) Record of Passenger Trip Information. The Trip Record is the record of all data collected from every for hire trip made by a Taxicab and must include the following information:
@@ -8450,7 +8450,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-23 Records – Contact Information.* ::
+*§ 58-23 Records – Contact Information.*
 
 
 (a) Mailing and Email Addresses.
@@ -8521,7 +8521,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-24 Records – Maintenance Requirements.* ::
+*§ 58-24 Records – Maintenance Requirements.*
 
 
 (a) Shift Drivers. An Owner must keep accurate records of the Driver for each shift. 
@@ -8629,7 +8629,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-25 Reporting Requirements.* ::
+*§ 58-25 Reporting Requirements.*
 
 
 (a) Report Change in Status.
@@ -8675,7 +8675,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-26 Operations – Rates and Tolls.* ::
+*§ 58-26 Operations – Rates and Tolls.*
 
 
 (a) Metered Rate of Fare.
@@ -8868,7 +8868,7 @@ Chapter 58: Medallion Taxicab Service
 
 
 
-*§ 58-27 Operations – EZ-Pass® Required.* ::
+*§ 58-27 Operations – EZ-Pass® Required.*
 
 
 EZ-Pass
@@ -8979,7 +8979,7 @@ EZ-Pass
 
 
 
-*§ 58-28 Operations – Miscellaneous Requirements.* ::
+*§ 58-28 Operations – Miscellaneous Requirements.*
 
 
 (a) Lost Property – Police Notification. Passenger lost property found in a Taxicab must be taken without delay to the police precinct in which the garage is located unless it can be returned to its rightful owner within a reasonable time.
@@ -9059,7 +9059,7 @@ EZ-Pass
 
 
 
-*§ 58-29 Vehicle Condition – Inspections.* ::
+*§ 58-29 Vehicle Condition – Inspections.*
 
 
 (a) Required Inspections. No new or replacement Taxicab can operate for hire unless it has been inspected and approved by the Commission.
@@ -9103,7 +9103,7 @@ EZ-Pass
 
 
 
-*§ 58-30 Vehicle Condition – Meet Safety Standards.* ::
+*§ 58-30 Vehicle Condition – Meet Safety Standards.*
 
 
 (a) While a taxicab is in operation, all equipment, including brakes, tires, lights and signals must be in good working order and meet all requirements of the New York State Vehicle and Traffic Law, and the Rules of the Commission.
@@ -9162,7 +9162,7 @@ EZ-Pass
 
 
 
-*§ 58-31 Vehicle Condition – Miscellaneous.* ::
+*§ 58-31 Vehicle Condition – Miscellaneous.*
 
 
 (a) Clean. The Taxicab's exterior and interior must be clean.
@@ -9363,7 +9363,7 @@ EZ-Pass
 
 
 
-*§ 58-32 Vehicle – Markings &amp; Advertising.* ::
+*§ 58-32 Vehicle – Markings &amp; Advertising.*
 
 
 (a) Approved Exterior Markings.
@@ -9675,7 +9675,7 @@ EZ-Pass
 
 
 
-*§ 58-33 Vehicles – Items Required in Vehicle.* ::
+*§ 58-33 Vehicles – Items Required in Vehicle.*
 
 
 (a) The following must be present in the Taxicab while it is in operation for hire:
@@ -9710,7 +9710,7 @@ EZ-Pass
 
 
 
-*§ 58-34 Vehicle Equipment.* ::
+*§ 58-34 Vehicle Equipment.*
 
 
 (a) Roof Light. A roof light is required on all Taxicabs, as required by the Hack-Up specifications in Chapter 67; the Taxicab Owner must ensure compliance with the following:
@@ -9883,7 +9883,7 @@ EZ-Pass
 
 
 
-*§ 58-35 Vehicle Equipment – Partitions.* ::
+*§ 58-35 Vehicle Equipment – Partitions.*
 
 
 (a) Partition Required.
@@ -9945,7 +9945,7 @@ EZ-Pass
 
 
 
-*§ 58-36 Vehicle Equipment – In Vehicle Camera System (IVCS).* ::
+*§ 58-36 Vehicle Equipment – In Vehicle Camera System (IVCS).*
 
 
 (a) When an existing in-vehicle camera system is required to be replaced or when the system is installed, the Taxicab must be equipped with an IVCS that meets the specification of 35 RCNY § 67-12; the system must be installed and maintained by the manufacturer's authorized installer or a Taximeter Business that meets the requirements of 35 RCNY § 67-12; and the IVCS must be functioning and maintained in good working order. 
@@ -10004,7 +10004,7 @@ EZ-Pass
 
 
 
-*§ 58-37 Vehicle Equipment – Taximeters.* ::
+*§ 58-37 Vehicle Equipment – Taximeters.*
 
 
 (a) Taximeter Requirements. An Owner must equip the Taxicab with a Taximeter subject to the following conditions:
@@ -10131,7 +10131,7 @@ EZ-Pass
 
 
 
-*§ 58-38 Vehicle Equipment – Taximeter Defects.* ::
+*§ 58-38 Vehicle Equipment – Taximeter Defects.*
 
 
 (a) No Defects in Taximeter or Installation. A Taxicab must not be in service for hire with a defective Taximeter or a Taximeter that has been improperly installed.
@@ -10181,7 +10181,7 @@ EZ-Pass
 
 
 
-*§ 58-39 Vehicle Equipment – Taximeter Tampering.* ::
+*§ 58-39 Vehicle Equipment – Taximeter Tampering.*
 
 
 (a) Unauthorized Tampering. Unless authorized by the Commission, no person will tamper with, alter, repair or attempt to repair any portion of the Taximeter system that would affect the operation of the Taximeter or the Technology System, including, but not limited to:
@@ -10361,7 +10361,7 @@ EZ-Pass
 
 
 
-*§ 58-40 Vehicle Equipment – Technology System Installation.* ::
+*§ 58-40 Vehicle Equipment – Technology System Installation.*
 
 
 (a) Required Installation. Owners must ensure that all of their Taxicabs are equipped with a Technology System provided by a licensed Technology System Provider, and otherwise meet the requirements of these provisions.
@@ -10406,7 +10406,7 @@ EZ-Pass
 
 
 
-*§ 58-41 Vehicle Equipment – Technology System Operation.* ::
+*§ 58-41 Vehicle Equipment – Technology System Operation.*
 
 
 (a) Good Working Order. Owners must ensure that the Technology System equipment is constantly maintained and is in good working order. 
@@ -10478,7 +10478,7 @@ EZ-Pass
 
 
 
-*§ 58-42 Vehicles – Use of Stand-by Vehicles (SBV).* ::
+*§ 58-42 Vehicles – Use of Stand-by Vehicles (SBV).*
 
 
 (a) Who Can Use. Only a Fleet can maintain and use Stand-By Vehicles.
@@ -10517,7 +10517,7 @@ EZ-Pass
 
 
 
-*§ 58-43 Medallion Transfers – Overview.* ::
+*§ 58-43 Medallion Transfers – Overview.*
 
 
 (a) Applicability of the "Medallion Transfer" Sections.
@@ -10593,7 +10593,7 @@ EZ-Pass
 
 
 
-*§ 58-44 Medallion Transfers – Special Requirements.* ::
+*§ 58-44 Medallion Transfers – Special Requirements.*
 
 
 (a) Personal Appearance.
@@ -10667,7 +10667,7 @@ EZ-Pass
 
 
 
-*§ 58-45 Medallion Transfers – Application Documentation and Requirements.* ::
+*§ 58-45 Medallion Transfers – Application Documentation and Requirements.*
 
 
 (a) Application. An Applicant/Transferee must file a completed application in the form prescribed by the Chairperson.
@@ -10847,7 +10847,7 @@ EZ-Pass
 
 
 
-*§ 58-46 Medallion Transfers – Transferor Must Clear the Medallion.* ::
+*§ 58-46 Medallion Transfers – Transferor Must Clear the Medallion.*
 
 
 (a) Place in Storage. Before a Medallion can be transferred, it must be placed in storage for at least seven days not counting the day it is put in storage or the day the clearance is given. (Exception: A Medallion owned by a corporation or LLC need not be placed in storage if the transfer is to be accomplished by a transfer of stock or membership interests in the company.)
@@ -10863,7 +10863,7 @@ EZ-Pass
 
 
 
-*§ 58-47 Medallion Transfers – Tort Claims.* ::
+*§ 58-47 Medallion Transfers – Tort Claims.*
 
 
 (a) Applicability.
@@ -11060,7 +11060,7 @@ EZ-Pass
 
 
 
-*§ 58-48 Medallion Transfers – Special Provisions Regarding Estates and Incompetency.* ::
+*§ 58-48 Medallion Transfers – Special Provisions Regarding Estates and Incompetency.*
 
 
 (a) Notice. Notice of the death or the declaration of incompetency of a Medallion Owner must be given to the Chairperson promptly upon the occurrence. A Medallion Owner which is a Business Entity must also give prompt notice upon the death or the declaration of incompetency of a shareholder, partner, or member of a Business Entity. 
@@ -11144,7 +11144,7 @@ EZ-Pass
 
 
 
-*§ 58-50 Accessible Vehicle Conversion.* ::
+*§ 58-50 Accessible Vehicle Conversion.*
 
 
 (a) Accessible Vehicle Hack-up: Unrestricted and Alternative Fuel Minifleet Medallions.
@@ -11211,7 +11211,7 @@ EZ-Pass
 
 
 Chapter 60: Paratransit Vehicles and Bases
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -11220,7 +11220,7 @@ Chapter 60: Paratransit Vehicles and Bases
 
 
 
-*§ 60A-01 Scope of this Sub-chapter.* ::
+*§ 60A-01 Scope of this Sub-chapter.*
 
 
 (a) To establish the procedures and requirements for obtaining and maintaining a Paratransit Vehicle Owner's License.
@@ -11232,7 +11232,7 @@ Chapter 60: Paratransit Vehicles and Bases
 
 
 
-*§ 60A-02 Penalties.* ::
+*§ 60A-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -11306,7 +11306,7 @@ Chapter 60: Paratransit Vehicles and Bases
 
 
 
-*§ 60A-03 Definitions Specific to this Sub-chapter.* ::
+*§ 60A-03 Definitions Specific to this Sub-chapter.*
 
 
 (a) Applicant in this Sub-chapter means an Applicant for an original or renewal Paratransit Vehicle License.
@@ -11342,7 +11342,7 @@ Chapter 60: Paratransit Vehicles and Bases
 
 
 
-*§ 60A-04 Licensing – Requirements.* ::
+*§ 60A-04 Licensing – Requirements.*
 
 
 Requirements (a) through (e) apply to an individual Applicant and to all of a Business Entity Applicant's Business Entity Persons.
@@ -11464,7 +11464,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-05 Licensing – Terms of License.* ::
+*§ 60A-05 Licensing – Terms of License.*
 
 
 (a) New Licenses. The term of a new Vehicle License is two years from the date it is issued.
@@ -11498,7 +11498,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-06 Licensing – License and Administrative Fees.* ::
+*§ 60A-06 Licensing – License and Administrative Fees.*
 
 
 (a) Fee for License. The fee for a Vehicle License will be $275 annually.
@@ -11582,7 +11582,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-07 Licensing – Causes for Denial.* ::
+*§ 60A-07 Licensing – Causes for Denial.*
 
 
 (a) Failure to Meet the Requirements. The Commission will deny an application for a new or renewed License if the Applicant fails to meet the requirements.
@@ -11624,7 +11624,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-08 Licensing – Process upon Denial.* ::
+*§ 60A-08 Licensing – Process upon Denial.*
 
 
 (a) Denial of Application. If the Commission denies the application for a Paratransit Vehicle License or its renewal, the Applicant will be notified, in writing, of the reason(s) for the denial.
@@ -11636,7 +11636,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-09 Licensing – Care of Licenses.* ::
+*§ 60A-09 Licensing – Care of Licenses.*
 
 
 (a) Unauthorized Changes to License. A Vehicle Owner must not make any unauthorized entry on a Paratransit Vehicle License or change, deface, conceal, obliterate or render any entry on that License unreadable. 
@@ -11735,7 +11735,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-10 Compliance with Laws – Unlicensed Activity.* ::
+*§ 60A-10 Compliance with Laws – Unlicensed Activity.*
 
 
 (a) Vehicle Must Be Licensed. A Vehicle Owner must not allow a vehicle to be dispatched or operated if the vehicle does not have a Valid Paratransit Vehicle License from the Commission. 
@@ -11847,7 +11847,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-11 Compliance with Law – Vehicle Insurance.* ::
+*§ 60A-11 Compliance with Law – Vehicle Insurance.*
 
 
 (a) Maintain Liability Insurance.
@@ -11941,7 +11941,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-12 Compliance with Laws – Proper Conduct.* ::
+*§ 60A-12 Compliance with Laws – Proper Conduct.*
 
 
 (a) Bribery. A Vehicle Applicant or Licensee must not offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission or any other public servant. 
@@ -12220,7 +12220,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-13 Compliance with Laws – Miscellaneous.* ::
+*§ 60A-13 Compliance with Laws – Miscellaneous.*
 
 
 (a) Compliance with Laws, Rules and Regulations. A Vehicle Owner must comply with the Commission's Paratransit Vehicle Specifications and all other pertinent laws, rules or regulations governing Vehicle Owners. 
@@ -12268,7 +12268,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-14 Operations – Business Premises. [Reserved]* ::
+*§ 60A-14 Operations – Business Premises. [Reserved]*
 
 
 (a) Timely Pickups. Vehicle Owners must schedule the daily trips as efficiently as possible, to avoid unreasonably late pickups and missed trips. 
@@ -12348,7 +12348,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-17 Operations – Owners' Responsibilities with Respect to Drivers.* ::
+*§ 60A-17 Operations – Owners' Responsibilities with Respect to Drivers.*
 
 
 (a) Training for Paratransit Drivers. A Vehicle Owner must ensure that every Driver is trained how to properly and safely:
@@ -12392,7 +12392,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-18 Records – Trip Record Information.* ::
+*§ 60A-18 Records – Trip Record Information.*
 
 
 (a) Trip Sheet. All Paratransit Vehicles must be equipped with an Electronic Trip Sheet that shows the following information:
@@ -12547,7 +12547,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-19 Records – Current Contact Information.* ::
+*§ 60A-19 Records – Current Contact Information.*
 
 
 (a) Current Mailing Address and E-mail Address.
@@ -12609,7 +12609,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-20 Records – Additional Records to be Maintained.* ::
+*§ 60A-20 Records – Additional Records to be Maintained.*
 
 
 (a) Financial and Operational Records. A Vehicle Owner must maintain complete financial and other operational records for a period of three years. The records must be available to the Commission for inspection and must include the following:
@@ -12638,7 +12638,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-21 Reporting Requirements.* ::
+*§ 60A-21 Reporting Requirements.*
 
 
 (a) Give Drivers Access to Records for Reporting. A Vehicle Owner must make available to a Driver any records that the Vehicle Owner is required to maintain, if a Driver is required to bring those records to the Commission or any other Government agency. 
@@ -12705,7 +12705,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-22 Operations – Rates and Tolls.* ::
+*§ 60A-22 Operations – Rates and Tolls.*
 
 
 (a) Overcharges.
@@ -12733,7 +12733,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-23 Operations – E-ZPass. [Reserved]* ::
+*§ 60A-23 Operations – E-ZPass. [Reserved]*
 
 
 (a) Inspection of Paratransit Vehicles.
@@ -12796,7 +12796,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-26 Vehicle Condition – Safety.* ::
+*§ 60A-26 Vehicle Condition – Safety.*
 
 
 (a) Compliance with Notices to Correct Defects. A Vehicle Owner must comply with all Commission notices, summonses, and directives to correct defects in a Paratransit Vehicle. 
@@ -12981,7 +12981,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-27 Vehicle Condition – Miscellaneous.* ::
+*§ 60A-27 Vehicle Condition – Miscellaneous.*
 
 
 (a) Clean, Painted, Good Appearance. A Vehicle Owner must keep all Paratransit Vehicles clean, well-painted and in good appearance. 
@@ -13006,7 +13006,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-28 Vehicle – Markings and Advertising.* ::
+*§ 60A-28 Vehicle – Markings and Advertising.*
 
 
 (a) Vehicle Specifications and Markings. A Vehicle Owner must comply with the markings specifications for Paratransit Vehicles. 
@@ -13168,7 +13168,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-29 Vehicle – Documents Required in Vehicle.* ::
+*§ 60A-29 Vehicle – Documents Required in Vehicle.*
 
 
 (a) A Vehicle Owner may only permit the operation and the dispatch of a Paratransit Vehicle when the following are present in the Vehicle:
@@ -13213,7 +13213,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-30 Vehicle – Equipment.* ::
+*§ 60A-30 Vehicle – Equipment.*
 
 
 (a) Only Authorized Equipment.
@@ -13244,7 +13244,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-31 Vehicle Equipment – Partitions. [Reserved]* ::
+*§ 60A-31 Vehicle Equipment – Partitions. [Reserved]*
 
 
 (a) Must Be Installed. A Vehicle Owner must install Electronic Trip Record Systems in all Paratransit Vehicles owned by Owner. 
@@ -13296,7 +13296,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60A-34 Vehicle Retirement Dates.* ::
+*§ 60A-34 Vehicle Retirement Dates.*
 
 
 (a) On and after January 1, 2009, all Paratransit Vehicles that are of model year 2000 or earlier must be retired from Paratransit service no later than the expiration dates of their Paratransit Vehicle Licenses.
@@ -13339,7 +13339,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-01 Scope of this Sub-chapter.* ::
+*§ 60B-01 Scope of this Sub-chapter.*
 
 
 (a) To establish the procedures and requirements for obtaining and maintaining a Paratransit Base Station Owner's License.
@@ -13351,7 +13351,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-02 Penalties.* ::
+*§ 60B-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -13414,7 +13414,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-03 Definitions Specific to this Sub-chapter.* ::
+*§ 60B-03 Definitions Specific to this Sub-chapter.*
 
 
 (a) Applicant in this Sub-chapter means an Applicant for an original or renewal Paratransit Base Station License.
@@ -13448,7 +13448,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-04 Licensing – General Requirements.* ::
+*§ 60B-04 Licensing – General Requirements.*
 
 
 (a) Identification. An individual Applicant or an Applicant's Business Entity Persons applying for a new (original) Base Station License must provide both of the following:
@@ -13542,7 +13542,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-05 Licensing – Term of License.* ::
+*§ 60B-05 Licensing – Term of License.*
 
 
 (a) New Licenses. The term of a new Base License is three years.
@@ -13576,7 +13576,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-06 Licensing – License and Administrative Fees.* ::
+*§ 60B-06 Licensing – License and Administrative Fees.*
 
 
 (a) Fee for License. The fee for a Paratransit Base License is $500 annually.
@@ -13594,7 +13594,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-07 Licensing – Causes for Denial.* ::
+*§ 60B-07 Licensing – Causes for Denial.*
 
 
 (a) No Longer Meets Requirements. The Commission will deny a Base Owner's renewal application or suspend or revoke a License if the Commission learns that the Owner no longer meets the Base License requirements.
@@ -13618,7 +13618,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-08 Licensing – Transfer of Base License.* ::
+*§ 60B-08 Licensing – Transfer of Base License.*
 
 
 (a) A Base Owner must notify and get prior approval from the Commission before transferring, selling, or assigning the Base to another. 
@@ -13664,7 +13664,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-09 Licensing – Care of Licenses. [Reserved]* ::
+*§ 60B-09 Licensing – Care of Licenses. [Reserved]*
 
 
 (a) Vehicle Must Be Licensed. A Base Station Owner must not dispatch or allow a vehicle to be operated if the vehicle does not have a Valid Paratransit Vehicle License. 
@@ -13759,7 +13759,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-11 Compliance with Laws – Worker's Compensation.* ::
+*§ 60B-11 Compliance with Laws – Worker's Compensation.*
 
 
 (a) Compliance with Workers' Compensation Law. A Base Station Owner must comply with all provisions of the New York State Workers' Compensation law and regulations, and provide coverage and benefits to all eligible employees. 
@@ -13784,7 +13784,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-12 Compliance with Laws – Proper Conduct.* ::
+*§ 60B-12 Compliance with Laws – Proper Conduct.*
 
 
 (a) Bribery. A Base Station Applicant or Licensee must not offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission or any other public servant. 
@@ -14046,7 +14046,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-13 Compliance with Laws – Miscellaneous. [Reserved]* ::
+*§ 60B-13 Compliance with Laws – Miscellaneous. [Reserved]*
 
 
 (a) Location of Business. The Base must be located on commercial property or other appropriately-zoned location. If the Base operates four or fewer vehicles, it can be maintained at the Base Owner's residence.
@@ -14075,7 +14075,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-15 Operations – Management Oversight (Use of Agents). [Reserved]* ::
+*§ 60B-15 Operations – Management Oversight (Use of Agents). [Reserved]*
 
 
 (a) Prohibited Pickups. A Base Owner must only dispatch Drivers to pick up passengers on a prearrangement basis. Base Owners must not allow Drivers to solicit or respond to hails. 
@@ -14151,7 +14151,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-17 Operations – Owners' Responsibilities with Respect to Drivers.* ::
+*§ 60B-17 Operations – Owners' Responsibilities with Respect to Drivers.*
 
 
 (a) Maximum Hours of Work for Drivers. A Base Owner must not require a Driver to operate a Paratransit Vehicle more than (12) consecutive hours. However, if a Driver has accepted a passenger prior to the conclusion of the twelfth hour the Driver can complete that trip provided he or she is able to drive safely. 
@@ -14197,7 +14197,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
 
 
-*§ 60B-18 Records – Trip Record Information (Electronic).* ::
+*§ 60B-18 Records – Trip Record Information (Electronic).*
 
 
 (a) Required Information. Base Owners must not dispatch a Paratransit Vehicle unless it is equipped with an Electronic Trip Record System that electronically collects all of the following trip data:
@@ -14287,7 +14287,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 
-*§ 60B-19 Records – Current Contact Information.* ::
+*§ 60B-19 Records – Current Contact Information.*
 
 
 (a) Current Mailing and Email Address.
@@ -14343,7 +14343,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 
-*§ 60B-20 Records – Additional Records to be Maintained.* ::
+*§ 60B-20 Records – Additional Records to be Maintained.*
 
 
 (a) Financial and Operational Records. A Base Owner must maintain complete financial and other operational records for a period of three years. The records must be available to the Commission for inspection and must include the following:
@@ -14374,7 +14374,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 
-*§ 60B-21 Reporting Requirements.* ::
+*§ 60B-21 Reporting Requirements.*
 
 
 (a) Report Rate Changes. A Base Owner must file the Rate Schedule with the Commission annually or at least ten (10) days prior to the effective date of any change. 
@@ -14433,7 +14433,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 
-*§ 60B-22 Operations – Rates and Tolls.* ::
+*§ 60B-22 Operations – Rates and Tolls.*
 
 
 (a) Must file Rate Schedule. A Base Owner must not dispatch a Paratransit Vehicle unless the Rate Schedule for the Paratransit Vehicle has been filed with the Commission.
@@ -14460,7 +14460,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 
-*§ 60B-23 Operations – E-ZPass. [Reserved]* ::
+*§ 60B-23 Operations – E-ZPass. [Reserved]*
 
 
 (a) Equipment Must be in Good Working Order. A Base Owner must not dispatch a Paratransit Vehicle until the Base Owner inspects and reasonably determines that all equipment is in good working order and meets all requirements of the New York State Vehicle and Traffic Law and these Commission Rules.
@@ -14487,7 +14487,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 
-*§ 60B-26 Vehicle Condition – Safety. [Reserved]* ::
+*§ 60B-26 Vehicle Condition – Safety. [Reserved]*
 
 
 (a) Vehicle Specifications and Markings. A Base Owner must comply with the markings specifications for Paratransit Vehicles. 
@@ -14632,7 +14632,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 
-*§ 60B-29 Vehicle – Documents Required in Vehicle.* ::
+*§ 60B-29 Vehicle – Documents Required in Vehicle.*
 
 
 (a) A Base Owner must only permit the operation and the dispatch of a Paratransit Vehicle when the following are present in the Vehicle:
@@ -14669,7 +14669,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 
-*§ 60B-30 Vehicle – Equipment.* ::
+*§ 60B-30 Vehicle – Equipment.*
 
 
 (a) Two-way Radio. If a Base Owner uses a radio system, the Base Owner must only permit a Paratransit Vehicle to be dispatched and operated when it has a two-way radio in the vehicle. 
@@ -14711,7 +14711,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 
-*§ 60B-31 Vehicle Equipment – Partitions. [Reserved]* ::
+*§ 60B-31 Vehicle Equipment – Partitions. [Reserved]*
 
 
 (a) Install System. Base Owners must ensure that all Paratransit Vehicles affiliated with the Base are equipped with an Electronic Trip Record System. 
@@ -14792,7 +14792,7 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
 Chapter 61: Commuter Van Vehicles and Owners
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -14801,7 +14801,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-01 Scope of this Sub-chapter.* ::
+*§ 61A-01 Scope of this Sub-chapter.*
 
 
 (a) To establish the procedures and requirements for obtaining and maintaining a Commuter-Van Vehicle Owner's License.
@@ -14815,7 +14815,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-02 Penalties.* ::
+*§ 61A-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -14875,7 +14875,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-03 Definitions Specific to this Sub-chapter.* ::
+*§ 61A-03 Definitions Specific to this Sub-chapter.*
 
 
 (a) Applicant in this Sub-chapter means an Applicant for an original or renewal Commuter-Van Vehicle License.
@@ -14909,7 +14909,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-04 Licensing – General Requirements.* ::
+*§ 61A-04 Licensing – General Requirements.*
 
 
 (a) [Reserved.] ID.
@@ -14993,7 +14993,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-05 Licensing – Term of License.* ::
+*§ 61A-05 Licensing – Term of License.*
 
 
 (a) New Licenses. The term of a new Vehicle License is two years.
@@ -15027,7 +15027,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-06 Licensing – Fees.* ::
+*§ 61A-06 Licensing – Fees.*
 
 
 (a) Fee for License. The fee for a Commuter-Van Vehicle License will be $275 annually.
@@ -15117,7 +15117,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-07 Licensing – Causes for Denial.* ::
+*§ 61A-07 Licensing – Causes for Denial.*
 
 
 (a) Material Misrepresentation. The Commission can deny an application if the Applicant has made a material false statement or concealed a material fact relating to the application.
@@ -15161,7 +15161,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-08 Licensing – Transfer of License.* ::
+*§ 61A-08 Licensing – Transfer of License.*
 
 
 (a) Not Transferable. A Commuter-Van License is not assignable or transferable.
@@ -15171,7 +15171,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-09 Licensing – Care of Licenses. [Reserved]* ::
+*§ 61A-09 Licensing – Care of Licenses. [Reserved]*
 
 
 (a) Vehicle Must Be Licensed. A Commuter-Van Vehicle Owner must not allow a vehicle to be operated within the City of New York as a Commuter Van if the vehicle does not have a Valid License from the Commission. 
@@ -15299,7 +15299,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-11 Comply with Laws – Vehicle Insurance Coverage.* ::
+*§ 61A-11 Comply with Laws – Vehicle Insurance Coverage.*
 
 
 (a) Joint Responsibility. The Commuter-Van Vehicle Owner is liable for ensuring that every Commuter-Van Vehicle owned and operated by Owner is in compliance with the insurance requirements set forth in this 35 RCNY § 61A-11. 
@@ -15401,7 +15401,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-12 Comply with Laws – Proper Conduct.* ::
+*§ 61A-12 Comply with Laws – Proper Conduct.*
 
 
 (a) No Bribery. An Applicant or Licensee must not directly or indirectly offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission or any other public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
@@ -15659,7 +15659,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-13 Comply with Laws – Miscellaneous.* ::
+*§ 61A-13 Comply with Laws – Miscellaneous.*
 
 
 (a) Commission Rules. The following actions can result in suspension or revocation of an Owner's Commuter-Van Service Authorization:
@@ -15755,7 +15755,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-14 Operations – Business Premises. [Reserved]* ::
+*§ 61A-14 Operations – Business Premises. [Reserved]*
 
 
 (a) No Pick-Ups Outside Authorized Area. No Commuter-Van Vehicle Owner will permit the pick up or discharge of passengers outside of the geographical area established in the Commuter-Van Service Owner's Authorization.
@@ -15828,7 +15828,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-17 Operations – Responsibility with Respect to Drivers.* ::
+*§ 61A-17 Operations – Responsibility with Respect to Drivers.*
 
 
 (a) Prohibit Disability Discrimination by Drivers. A Vehicle Owner must not allow a Driver to discriminate unlawfully against Persons with Disabilities. Such discrimination includes, but is not limited to:
@@ -15861,7 +15861,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-18 Records – Trip Record Information. [Reserved]* ::
+*§ 61A-18 Records – Trip Record Information. [Reserved]*
 
 
 
@@ -15871,7 +15871,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-19 Records – Current Contact Information.* ::
+*§ 61A-19 Records – Current Contact Information.*
 
 
 (a) Current Phone Number for Immediate Access. A Commuter-Van Vehicle Owner must maintain on file with the Commission a current telephone number (connected to an answering machine or recording device), pager number, answering service number or a number for any similar means of telephone contact that allows the Vehicle Owner to be reached by the Commission on a 24-hour basis. 
@@ -15921,7 +15921,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-20 Records – Additional Records to be Maintained. [Reserved]* ::
+*§ 61A-20 Records – Additional Records to be Maintained. [Reserved]*
 
 
 (a) Advertising Must State Commission Licensed and Authorized. No one is permitted to advertise Commuter-Van services unless the advertisement states CONSPICUOUSLY that the Commuter-Van Vehicle is Licensed by the Commission and includes the affiliated Commuter-Van Service Authorization number. 
@@ -15946,7 +15946,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-25 Vehicle Condition – Inspections.* ::
+*§ 61A-25 Vehicle Condition – Inspections.*
 
 
 (a) Inspection by NYS Department of Transportation. A Commuter-Van Vehicle must not be operated as a Commuter-Van Vehicle unless it has been inspected by the NYS Department of Transportation. Provisions and requirements for this inspection can be found in the safety provisions (§ 140) of the NYS Transportation Law or as modified by an agreement between the NYS Department of Transportation and the Commission, as provided in NYS Transportation Law § 80(5)(a)(1). 
@@ -15988,7 +15988,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-26 Vehicle Condition – Meets Safety Standards.* ::
+*§ 61A-26 Vehicle Condition – Meets Safety Standards.*
 
 
 (a) No Commuter-Van Vehicle can be used in a Commuter-Van Service unless it meets the vehicle safety standards prescribed by rule or regulation of the NYS Commissioner of Transportation according to § 140 of the NYS Transportation Law. 
@@ -16036,7 +16036,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-27 Vehicles – Markings and Displays.* ::
+*§ 61A-27 Vehicles – Markings and Displays.*
 
 
 (a) Required Exterior ID Markings. All Commuter-Van Vehicles must have the following information conspicuously painted on each side of the exterior of the Vehicle in letters at least 3 inches in height:
@@ -16242,7 +16242,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-28 Vehicles – Items Required to be in the Vehicle.* ::
+*§ 61A-28 Vehicles – Items Required to be in the Vehicle.*
 
 
 (a) Commuter-Van Vehicles must carry the following inside the Vehicle any time the Vehicle is in operation:
@@ -16300,7 +16300,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61A-29 Vehicle Equipment.* ::
+*§ 61A-29 Vehicle Equipment.*
 
 
 (a) Two-Way Radio. A Commuter-Van Vehicle Owner that uses a two-way radio or other communications system must be in compliance with all regulations of the Federal Communications Commission relating to the communication system. 
@@ -16347,7 +16347,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-01 Scope of this Sub-chapter.* ::
+*§ 61B-01 Scope of this Sub-chapter.*
 
 
 (a) To establish the procedures and requirements for obtaining and maintaining Authorization for a Commuter-Van Service.
@@ -16361,7 +16361,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-02 Penalties.* ::
+*§ 61B-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -16425,7 +16425,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-03 Definitions Specific to this Sub-chapter.* ::
+*§ 61B-03 Definitions Specific to this Sub-chapter.*
 
 
 (a) Applicant in this Sub-chapter means an applicant for an original Commuter-Van Service Authorization or its renewal.
@@ -16463,7 +16463,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-04 Authorization – Requirements.* ::
+*§ 61B-04 Authorization – Requirements.*
 
 
 (a) [Reserved.] ID.
@@ -16591,7 +16591,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-05 Authorization – Term of Authorization.* ::
+*§ 61B-05 Authorization – Term of Authorization.*
 
 
 (a) New Authorizations. A new Commuter-Van Service Authorization will remain in effect until the authorization is revoked by the Commission or by the Commissioner of Transportation.
@@ -16627,7 +16627,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-06 Authorization Fees.* ::
+*§ 61B-06 Authorization Fees.*
 
 
 (a) Fee for Authorization. The fee for a Commuter Van Service Authorization will be $275 annually.
@@ -16645,7 +16645,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-07 Authorization – Causes for Denial.* ::
+*§ 61B-07 Authorization – Causes for Denial.*
 
 
 (a) Material Misrepresentation. The Commission can deny an application for Authorization if the Applicant has made a material false statement or concealed a material fact relating to the information required on the application.
@@ -16683,7 +16683,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-08 Licensing – Transfer of License.* ::
+*§ 61B-08 Licensing – Transfer of License.*
 
 
 (a) Not Transferrable or Assignable Without Approval. An authorization to operate a Commuter-Van Service will not be assignable or transferable unless otherwise provided by the Commission.
@@ -16693,7 +16693,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-09 Licensing – Care of Licenses.* ::
+*§ 61B-09 Licensing – Care of Licenses.*
 
 
 (a) If the Authorization for a Commuter-Van Service is lost, damaged, or destroyed, the Owner must provide the Commission with a statement of what happened and any proof that the Commission requires.
@@ -16705,7 +16705,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-10 Comply with Laws – No Unlicensed Activity.* ::
+*§ 61B-10 Comply with Laws – No Unlicensed Activity.*
 
 
 (a) Vehicle Must Be Licensed. A Commuter-Van Service Owner must not allow an vehicle to be operated within the City of New York (meaning performing passenger pick-up and drop-off wholly within New York City) if the vehicle does not have a Valid Commuter-Van License from the Commission. 
@@ -16815,7 +16815,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-11 Comply with Laws – Insurance Coverage.* ::
+*§ 61B-11 Comply with Laws – Insurance Coverage.*
 
 
 (a) Joint Responsibility. The Commuter-Van Service owner must ensure that no Commuter-Van will be used in the Commuter-Van Service unless such vehicle is in compliance with the insurance requirements set forth in this 35 RCNY § 61B-11. 
@@ -16917,7 +16917,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-12 Comply with Laws – Personal Conduct.* ::
+*§ 61B-12 Comply with Laws – Personal Conduct.*
 
 
 (a) No Bribery. A Commuter-Van Service Owner must not directly or indirectly offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission or any public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
@@ -17175,7 +17175,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-13 Comply with Laws – Miscellaneous.* ::
+*§ 61B-13 Comply with Laws – Miscellaneous.*
 
 
 (a) Commission Rules. The following actions can result in suspension or revocation of an Owner's Commuter-Van Service Authorization:
@@ -17248,7 +17248,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-14 Operations – Business Premises. [Reserved]* ::
+*§ 61B-14 Operations – Business Premises. [Reserved]*
 
 
 (a) No Pick-Ups Outside Authorized Area. No Commuter-Van Service Owner will permit the pick up or discharge of passengers outside of the geographical area established in the Owner's Authorization. 
@@ -17317,7 +17317,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-17 Operations – Responsibility with Respect to Drivers.* ::
+*§ 61B-17 Operations – Responsibility with Respect to Drivers.*
 
 
 (a) Prohibit Disability Discrimination by Drivers. A Commuter-Van Service Owner must not allow a Driver to discriminate unlawfully against Persons with Disabilities. Such discrimination includes, but is not limited to:
@@ -17350,7 +17350,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-18 Records – Trip Record Information.* ::
+*§ 61B-18 Records – Trip Record Information.*
 
 
 (a) Commuter-Van Service. The Commuter-Van Service Owner is responsible for ensuring that the following records are kept:
@@ -17396,7 +17396,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-19 Records – Current Contact Information.* ::
+*§ 61B-19 Records – Current Contact Information.*
 
 
 (a) Current Phone Number for Immediate Access. A Commuter-Van Service Owner must maintain on file with the Commission a current telephone number (connected to an answering machine or recording device), pager number, answering service number or a number for any similar means of telephone contact that allows the Vehicle Owner to be reached by the Commission on a 24-hour basis. 
@@ -17446,7 +17446,7 @@ Chapter 61: Commuter Van Vehicles and Owners
 
 
 
-*§ 61B-20 Records – Additional Records to be Maintained.* ::
+*§ 61B-20 Records – Additional Records to be Maintained.*
 
 
 The Commuter-Van Service Owner is responsible for keeping the following records:
@@ -17502,7 +17502,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 
-*§ 61B-21 Reporting Requirements. [Reserved]* ::
+*§ 61B-21 Reporting Requirements. [Reserved]*
 
 
 (a) Advertising to State TLC Licensed/Authorized. No one is permitted to advertise Commuter-Van services unless the advertisement states CONSPICUOUSLY that the Commuter-Van Vehicle is Licensed by the Commission and includes the affiliated Commuter-Van Service Authorization number. 
@@ -17527,7 +17527,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 
-*§ 61B-25 Vehicle Condition – Inspections.* ::
+*§ 61B-25 Vehicle Condition – Inspections.*
 
 
 (a) Inspection by NYS Department of Transportation. The Commuter-Van Service Owner will be responsible for compliance with the following provisions:
@@ -17573,7 +17573,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 
-*§ 61B-26 Vehicle Condition – Meets Safety Standards.* ::
+*§ 61B-26 Vehicle Condition – Meets Safety Standards.*
 
 
 (a) No Commuter-Van Vehicle can be used in a Commuter-Van Service unless it meets the vehicle safety standards prescribed by rule or regulation of the NYS Commissioner of Transportation according to § 140 of the NYS Transportation Law. 
@@ -17598,7 +17598,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 
-*§ 61B-27 Vehicles – Markings and Displays.* ::
+*§ 61B-27 Vehicles – Markings and Displays.*
 
 
 (a) Required Exterior ID Markings. All Commuter-Van Vehicles must have the following information conspicuously painted on each side of the exterior of the vehicle in letters at least 3 inches in height:
@@ -17805,7 +17805,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 
-*§ 61B-28 Vehicles – Items Required to be in the Vehicle.* ::
+*§ 61B-28 Vehicles – Items Required to be in the Vehicle.*
 
 
 (a) Commuter-Van Vehicles must carry the following inside the Vehicle any time the Vehicle is in operation:
@@ -17840,7 +17840,7 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 
-*§ 61B-29 Vehicle Equipment.* ::
+*§ 61B-29 Vehicle Equipment.*
 
 
 (a) Two-Way Radio. A Commuter-Van Vehicle Owner that uses a two-way radio or other communications system must be in compliance with all regulations of the Federal Communications Commission relating to the communication system. 
@@ -17864,11 +17864,11 @@ The Commuter-Van Service Owner is responsible for keeping the following records:
 
 
 Chapter 62: Taxicab Brokers
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 62-01 Scope of this Chapter.* ::
+*§ 62-01 Scope of this Chapter.*
 
 
 (a) To establish procedures for the licensing and supervision of an individual or Business Entity acting as a Taxicab Broker.
@@ -17884,7 +17884,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-02 Penalties.* ::
+*§ 62-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -17912,7 +17912,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-03 Definitions Specific to this Chapter.* ::
+*§ 62-03 Definitions Specific to this Chapter.*
 
 
 (a) Administrator means the duly appointed administrator, executor, executrix or personal representative of an estate.
@@ -17938,7 +17938,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-04 Licensing – General Information Required.* ::
+*§ 62-04 Licensing – General Information Required.*
 
 
 (a) Identification. An Applicant for an original License must provide the following:
@@ -18020,7 +18020,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-05 Licensing – Specific Information Required.* ::
+*§ 62-05 Licensing – Specific Information Required.*
 
 
 (a) Location of Business Premises. The Applicant must provide the physical address of the location where the Applicant will conduct business.
@@ -18040,7 +18040,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-06 Licensing – Fees.* ::
+*§ 62-06 Licensing – Fees.*
 
 
 (a) Annual Fee. The fee for a Broker's License will be five hundred dollars ($500) annually.
@@ -18058,7 +18058,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-07 Licensing – Bond Required.* ::
+*§ 62-07 Licensing – Bond Required.*
 
 
 (a) Amount of Bond. An Applicant for a Broker's License or a license renewal must deposit with the Commission a bond in the sum of fifty thousand dollars ($50,000) payable to the City of New York. The bond must be furnished by one or more sureties approved by the Commission.
@@ -18072,7 +18072,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-08 Licensing – Rules for Business Entity Applicants.* ::
+*§ 62-08 Licensing – Rules for Business Entity Applicants.*
 
 
 (a) Partnerships. If the Applicant is a partnership, its application must include a certificate from the clerk of the county where the principal place of business is located.
@@ -18094,7 +18094,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-09 Licensing – Term of License.* ::
+*§ 62-09 Licensing – Term of License.*
 
 
 (a) Term of License. Taxicab Broker's Licenses will be issued as of January 1st and will expire on the next December 31st unless suspended or revoked before then by the Commission.
@@ -18126,7 +18126,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-10 Licensing – Cause for Denial.* ::
+*§ 62-10 Licensing – Cause for Denial.*
 
 
 (a) Failure to Meet Requirements. If the Commission determines that the Applicant has failed to meet the requirements for a Taxicab Broker's license, the Commission will notify the Applicant in writing the reason for the denial within a reasonable period of time.
@@ -18156,7 +18156,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-11 Provisions in the Event of Licensee's Death.* ::
+*§ 62-11 Provisions in the Event of Licensee's Death.*
 
 
 (a) When an individual Broker dies, the Administrator of his or her estate may complete any unfinished Brokerage business.
@@ -18170,7 +18170,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-12 Requirements &amp; Prohibitions – No Unlicensed Activity.* ::
+*§ 62-12 Requirements &amp; Prohibitions – No Unlicensed Activity.*
 
 
 (a) Must Have Valid License. An individual or Business Entity must possess a valid Taxicab Broker's License in order to act as a Taxicab Broker or hold himself or herself out as a Taxicab Broker. 
@@ -18280,7 +18280,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-13 Requirements &amp; Prohibitions – Broker as Fiduciary Agent of Owner.* ::
+*§ 62-13 Requirements &amp; Prohibitions – Broker as Fiduciary Agent of Owner.*
 
 
 (a) Owner Authorization Required.
@@ -18375,7 +18375,7 @@ Chapter 62: Taxicab Brokers
 
 
 
-*§ 62-14 Requirements &amp; Prohibitions – Intentional Interference with Contract.* ::
+*§ 62-14 Requirements &amp; Prohibitions – Intentional Interference with Contract.*
 
 
 A Broker must not encourage any party to break a contract for the transfer of a Taxicab Medallion in order to substitute a new contract with another owner. 
@@ -18400,7 +18400,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 
 
-*§ 62-15 Requirements &amp; Prohibitions – Self-Dealing.* ::
+*§ 62-15 Requirements &amp; Prohibitions – Self-Dealing.*
 
 
 (a) A Broker must not directly or indirectly buy for himself or herself any interest in a Medallion listed with the Broker without first disclosing that fact in writing to the owner. 
@@ -18459,7 +18459,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 
 
-*§ 62-16 Business Procedures – Mailing and Email Address.* ::
+*§ 62-16 Business Procedures – Mailing and Email Address.*
 
 
 (a) Required Mailing Address. A Broker must provide to the Commission the street address of his or her primary business location whether or not this is the Mailing Address.
@@ -18511,7 +18511,7 @@ A Broker must not encourage any party to break a contract for the transfer of a 
 
 
 
-*§ 62-17 Business Procedures – Exclusive Agreements.* ::
+*§ 62-17 Business Procedures – Exclusive Agreements.*
 
 
 (a) Specific Disclosure. The Broker must include the following explanation in type size of not less than six point in all agreements that provide for an Exclusive Listing of a Taxicab Medallion:
@@ -18555,7 +18555,7 @@ An "Exclusive Right to Sell" listing with a Broker is one where the owner has su
 
 
 
-*§ 62-18 Business Procedures – Net Listings.* ::
+*§ 62-18 Business Procedures – Net Listings.*
 
 
 Net Listings. A Broker must not enter into a net listing contract for the transfer of a Medallion or any interest in it unless the contract is part of a bulk transfer of 10 or more Medallions owned by a fleet or minifleet and is completed within six months of the listing. 
@@ -18580,7 +18580,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 
-*§ 62-19 Business Procedures – Documents, Transactions, and Closing Procedures.* ::
+*§ 62-19 Business Procedures – Documents, Transactions, and Closing Procedures.*
 
 
 (a) Interested Parties.
@@ -18699,7 +18699,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 
-*§ 62-20 Business Procedures – Record Keeping.* ::
+*§ 62-20 Business Procedures – Record Keeping.*
 
 
 (a) Retention of Records. A Broker must keep and maintain the following records for three years:
@@ -18755,7 +18755,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 
-*§ 62-21 Business Procedures – Handling of Funds.* ::
+*§ 62-21 Business Procedures – Handling of Funds.*
 
 
 (a) A Broker must not pay any part of funds advanced by the transferee to the transferor or any other person without the written approval of the transferee. 
@@ -18831,7 +18831,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 
-*§ 62-22 Business Procedures – Advertising.* ::
+*§ 62-22 Business Procedures – Advertising.*
 
 
 (a) A Broker must indicate in any advertisement placed by the Broker that he or she is a licensed Broker. 
@@ -18873,7 +18873,7 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 
-*§ 62-23 Comply with Laws – Conduct Rules.* ::
+*§ 62-23 Comply with Laws – Conduct Rules.*
 
 
 (a) Bribery. A Licensee or anyone acting on behalf of the Licensee must not offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission, or any other public servant. 
@@ -19073,11 +19073,11 @@ Net Listings. A Broker must not enter into a net listing contract for the transf
 
 
 Chapter 63: Taxicab Agent Rules
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 63-01 Scope of the Chapter.* ::
+*§ 63-01 Scope of the Chapter.*
 
 
 (a) To establish that an individual or Business Entity must be licensed by the Commission to act as an Agent.
@@ -19091,7 +19091,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 
-*§ 63-02 Penalties.* ::
+*§ 63-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -19119,7 +19119,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 
-*§ 63-03 Definitions Specific to this Chapter.* ::
+*§ 63-03 Definitions Specific to this Chapter.*
 
 
 (a) Agent is an individual or Business Entity that has been Licensed by the Commission to operate or facilitate the operation of one or more Taxicabs on behalf of the Taxicab owner.
@@ -19149,7 +19149,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 
-*§ 63-04 Licensing – Requirements.* ::
+*§ 63-04 Licensing – Requirements.*
 
 
 (a) License Required. An individual or Business Entity must first obtain a License from the Commission before acting as an Agent. 
@@ -19256,7 +19256,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 
-*§ 63-05 Licensing – Term.* ::
+*§ 63-05 Licensing – Term.*
 
 
 (a) Maximum One-Year Term. The term of an Agent's License may be up to one year, but will expire on December 31 of the year in which it is issued or renewed, unless earlier suspended or revoked by the Commission.
@@ -19317,7 +19317,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 
-*§ 63-06 Licensing – Fees.* ::
+*§ 63-06 Licensing – Fees.*
 
 
 (a) Annual Fee. The fee for an Agent's License will be five hundred dollars ($500) annually.
@@ -19337,7 +19337,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 
-*§ 63-07 Licensing – Causes for Denial.* ::
+*§ 63-07 Licensing – Causes for Denial.*
 
 
 (a) Material Misstatement. The Commission will deny any application if the Applicant makes a material misstatement or misrepresentation on the application.
@@ -19365,7 +19365,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 
-*§ 63-08 Proper Conduct.* ::
+*§ 63-08 Proper Conduct.*
 
 
 (a) An Agent must not make a material misrepresentation or omission or commit a fraudulent or unlawful act while acting as an Agent, whether Validly Licensed or not. Such acts will include but not be limited to any of the following:
@@ -19548,7 +19548,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 
-*§ 63-09 Personal Conduct – Unlicensed Activity.* ::
+*§ 63-09 Personal Conduct – Unlicensed Activity.*
 
 
 (a) An Agent must not dispatch a taxicab or other vehicle that is unlicensed. 
@@ -19590,7 +19590,7 @@ Chapter 63: Taxicab Agent Rules
 
 
 
-*§ 63-10 Agent's Business Premises.* ::
+*§ 63-10 Agent's Business Premises.*
 
 
 An Agent who operates one or more Taxicabs that are returned at the end of a shift must maintain business premises in an appropriately-zoned location. The location must allow or provide for, and the Agent must provide or maintain, all of the following:
@@ -19652,7 +19652,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 
-*§ 63-11 Vehicle Operation.* ::
+*§ 63-11 Vehicle Operation.*
 
 
 (a) Provide a List of Taxicabs Being Operated by Agent. An Agent must provide the Commission with a list of all Taxicabs operated by the Agent, annually and upon request. 
@@ -19820,7 +19820,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 
-*§ 63-12 Vehicle – Equipment.* ::
+*§ 63-12 Vehicle – Equipment.*
 
 
 (a) Partition. An Agent must not dispatch a Taxicab unless it is equipped with a partition that isolates the Driver from the rear seat passengers in accordance with the specifications in 35 RCNY § 67-10 unless the Taxicab is exempt from the partition requirements under the general provisions of 35 RCNY § 58-35(b).
@@ -19947,7 +19947,7 @@ An Agent who operates one or more Taxicabs that are returned at the end of a shi
 
 
 
-*§ 63-13 Vehicle Equipment – Trip Sheet.* ::
+*§ 63-13 Vehicle Equipment – Trip Sheet.*
 
 
 An Agent must not dispatch a Taxicab unless all of the following are present in the Taxicab:
@@ -19969,7 +19969,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 
-*§ 63-14 Vehicle Equipment – Taxicab Technology System.* ::
+*§ 63-14 Vehicle Equipment – Taxicab Technology System.*
 
 
 (a) Equip Taxicabs with Technology System. An Agent must ensure that each of Agent's Taxicabs is equipped with the Technology System by the compliance date established in 35 RCNY § 58-40(b), unless exempt from the requirement under 35 RCNY § 58-40(c). The Technology System must comply with the specifications established in 35 RCNY § 67-15.
@@ -20074,7 +20074,7 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 
-*§ 63-15 Technology System Provider (TSP) Equipment De-Installation.* ::
+*§ 63-15 Technology System Provider (TSP) Equipment De-Installation.*
 
 
 (a) An Agent may not de-install the Technology System for medallion taxicab vehicles for which the Agent is not the contractee, or the listed Agent.
@@ -20087,11 +20087,11 @@ An Agent must not dispatch a Taxicab unless all of the following are present in 
 
 
 Chapter 64: Licensing and Rules For Taximeter Businesses and Manufacturers
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 64-01 Scope of the Chapter.* ::
+*§ 64-01 Scope of the Chapter.*
 
 
 (a) To establish a formal procedure for the licensing and supervision of businesses that manufacture, sell, repair, and install Taximeters for Medallion Taxicabs.
@@ -20107,7 +20107,7 @@ Chapter 64: Licensing and Rules For Taximeter Businesses and Manufacturers
 
 
 
-*§ 64-02 Penalties.* ::
+*§ 64-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -20135,7 +20135,7 @@ Chapter 64: Licensing and Rules For Taximeter Businesses and Manufacturers
 
 
 
-*§ 64-03 Definitions Specific to this Chapter.* ::
+*§ 64-03 Definitions Specific to this Chapter.*
 
 
 (a) Applicant in this Chapter means an Applicant for an original or renewal Taximeter License.
@@ -20167,7 +20167,7 @@ Chapter 64: Licensing and Rules For Taximeter Businesses and Manufacturers
 
 
 
-*§ 64-04 Licensing – General Requirements.* ::
+*§ 64-04 Licensing – General Requirements.*
 
 
 (a) Licensees. An Applicant for a Taximeter License or its renewal may be an individual or a Business Entity.
@@ -20247,7 +20247,7 @@ Chapter 64: Licensing and Rules For Taximeter Businesses and Manufacturers
 
 
 
-*§ 64-05 Licensing – Bond Required.* ::
+*§ 64-05 Licensing – Bond Required.*
 
 
 (a) Amount of Bond. An Applicant for a Taximeter License or renewal must deposit with the Commission a fifty thousand dollar ($50,000) bond payable to the City of New York. The bond must be provided by one or more sureties approved by the Commission.
@@ -20261,7 +20261,7 @@ Chapter 64: Licensing and Rules For Taximeter Businesses and Manufacturers
 
 
 
-*§ 64-06 Licensing – Financial Disclosure.* ::
+*§ 64-06 Licensing – Financial Disclosure.*
 
 
 Each individual Applicant and each Business Entity Person of a Business Entity Applicant for a new or renewal Taximeter License must file a financial disclosure statement with the Commission. This financial disclosure statement must be on a form approved by the Chairperson and must include a list of assets, liabilities and bank accounts and must specify any interest in any Licensed Medallion Taxicab and any other information requested by the Chairperson.
@@ -20271,7 +20271,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-07 Licensing – Fees and Term of License.* ::
+*§ 64-07 Licensing – Fees and Term of License.*
 
 
 (a) Annual Fee. Every application for a Taximeter License must be accompanied by a non-refundable application fee of $500 for each location to be Licensed.
@@ -20313,7 +20313,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-08 Licensing – Cause for Denial.* ::
+*§ 64-08 Licensing – Cause for Denial.*
 
 
 (a) Failure to Continuously Comply. Whenever the Commission determines that the Taximeter Licensee no longer meets the requirements for the License, the Commission may suspend or revoke the License and deny any application for renewal.
@@ -20335,7 +20335,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-09 General Requirements – Unlicensed Activity.* ::
+*§ 64-09 General Requirements – Unlicensed Activity.*
 
 
 (a) Taximeter Business License Required. An individual or Business Entity must not sell, install, repair, adjust, inspect, calibrate, or maintain Taximeters or install or repair seals, wiring harnesses or other equipment relating to the operation of a Taximeter or roof light for use on any Taxicab, without a Valid Taximeter License.
@@ -20351,7 +20351,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-10 General Requirements – Compliance with Applicable Law.* ::
+*§ 64-10 General Requirements – Compliance with Applicable Law.*
 
 
 (a) Licenses and Permits. A Taximeter Licensee must obtain Licenses and permits required by city, state, or federal law.
@@ -20382,7 +20382,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-11 General Requirements – Unlawful Activities Prohibited.* ::
+*§ 64-11 General Requirements – Unlawful Activities Prohibited.*
 
 
 (a) A Taximeter Licensee must not use or permit any other person to use his business premises or office of record for any unlawful purpose. 
@@ -20458,7 +20458,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-12 General Requirements – Notice to TLC.* ::
+*§ 64-12 General Requirements – Notice to TLC.*
 
 
 (a) Material Change in Information. A Taximeter Licensee must notify the Commission of any material change in the information contained in its current Taximeter License application or renewal. 
@@ -20500,7 +20500,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-13 Business Requirements – Fees Charged by Licensees.* ::
+*§ 64-13 Business Requirements – Fees Charged by Licensees.*
 
 
 (a) Filing of Fee Schedule with TLC. A Taximeter Business must file with the Commission a schedule of current fees for all services related to the sale, repair, installation, and calibration of Taximeters, including inspections, tests, adjustments, installations, corrections, or repairs. 
@@ -20576,7 +20576,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-14 Business Requirements – Premises and Equipment.* ::
+*§ 64-14 Business Requirements – Premises and Equipment.*
 
 
 (a) A Taximeter Business must ensure that its business premises meet the following conditions at all times:
@@ -20670,7 +20670,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-15 Business Requirements – Maintenance of Required Equipment.* ::
+*§ 64-15 Business Requirements – Maintenance of Required Equipment.*
 
 
 (a) A Taximeter Business must properly maintain all equipment required by the Commission and any other equipment required by law or regulation. Proper maintenance includes ensuring that equipment is in good working order and is maintained in such a manner that an inspection, test, or calibration can be conducted in conformity with these rules. 
@@ -20712,7 +20712,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-16 Business Requirements – Signage.* ::
+*§ 64-16 Business Requirements – Signage.*
 
 
 (a) At all times, a Taximeter Business must maintain a sign that displays the Taximeter Business License number and the words, "Licensed Taximeter Business". This sign must meet the specifications of the Commission and be hung or mounted on the outside of the premises so that it is easily visible to the public. A Taximeter Business must not display a "Licensed Taximeter Business" sign if its Taximeter Business License or any other necessary license is expired, suspended, or revoked.
@@ -20739,7 +20739,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-17 Business Requirements – Mailing and Email Address.* ::
+*§ 64-17 Business Requirements – Mailing and Email Address.*
 
 
 (a) Each Taximeter Business must designate the street address of its primary Taximeter Business location as its Mailing Address.
@@ -20772,7 +20772,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-18 Business Requirements – General Record-Keeping and Reporting Require- ments.* ::
+*§ 64-18 Business Requirements – General Record-Keeping and Reporting Require- ments.*
 
 
 (a) A Taximeter Business must comply with all record-keeping procedures established by the Commission. All records required to be kept by the Commission must be in the form and manner prescribed by the Commission and must be maintained for a period of five (5) years.
@@ -20837,7 +20837,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-19 Business Requirements – Notifications to TLC of Unauthorized or Illegal Activity.* ::
+*§ 64-19 Business Requirements – Notifications to TLC of Unauthorized or Illegal Activity.*
 
 
 (a) A Taximeter Business must notify the Commission immediately by telephone and in writing within 24 hours when any of the following occurs:
@@ -20890,7 +20890,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-20 Business Requirements – Taximeter Business Liability for Conduct of Employees.* ::
+*§ 64-20 Business Requirements – Taximeter Business Liability for Conduct of Employees.*
 
 
 (a) Liability for Employee Conduct. A Taximeter Business must supervise and be responsible for the conduct of all its employees, contractors, or agents, for activities related to the sale, installation, inspection, testing, and calibration of Taximeters.
@@ -20925,7 +20925,7 @@ Each individual Applicant and each Business Entity Person of a Business Entity A
 
 
 
-*§ 64-21 Business Requirements – Sale of Taximeters.* ::
+*§ 64-21 Business Requirements – Sale of Taximeters.*
 
 
 All of the following conditions must be met for a Taximeter Business to sell a Taximeter for use in a Medallion Taxicab:
@@ -20966,7 +20966,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 
-*§ 64-22 Business Requirements – Change in Business Ownership.* ::
+*§ 64-22 Business Requirements – Change in Business Ownership.*
 
 
 (a) Approval for Transfer of Ownership. A Taximeter Business owner must not transfer any interest in a Taximeter Business without the prior consent of the Commission. This prohibition covers the transfer of any ownership interest or any agreement to transfer an ownership interest in the future. 
@@ -21008,7 +21008,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 
-*§ 64-23 Technical Requirements – Liability for Tampering or Alteration.* ::
+*§ 64-23 Technical Requirements – Liability for Tampering or Alteration.*
 
 
 (a) Strict Liability. By installing a seal on a Taximeter, the Taximeter Business certifies that the Taximeter has been tested and calibrated in accordance with these Rules. A Taximeter Business will be strictly liable for the tampering of a meter that is sealed with an unbroken seal issued by the Taximeter Business.
@@ -21035,7 +21035,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 
-*§ 64-24 Technical Requirements – Seals.* ::
+*§ 64-24 Technical Requirements – Seals.*
 
 
 (a) Installation. The installation of a Taximeter that is not capable of being updated remotely includes affixing security seals to the Taximeter as required by the Commission. A Taximeter Business must use seals authorized and approved by the Commission. The security seals must be installed in the manner prescribed by the Commission so that the security seals self-destruct when the Taximeter or sealed part of the vehicle is disassembled.
@@ -21082,7 +21082,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 
-*§ 64-25 Technical Requirements – Inspection of Taximeters.* ::
+*§ 64-25 Technical Requirements – Inspection of Taximeters.*
 
 
 (a) A Taximeter must be inspected by the Taximeter Business whenever it is installed, repaired, or calibrated. Inspection must include an examination of the Taximeter installation and operation to verify compliance with all of the following:
@@ -21117,7 +21117,7 @@ All of the following conditions must be met for a Taximeter Business to sell a T
 
 
 
-*§ 64-26 Technical Requirements – Other Repair Limitations.* ::
+*§ 64-26 Technical Requirements – Other Repair Limitations.*
 
 
 A Taximeter Business must not perform any work on a Taximeter, including inspection, testing, calibration, or repair if any of the following conditions exist:
@@ -21154,7 +21154,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 
-*§ 64-27 Technical Requirements – Recording the Results of Taximeter Tests.* ::
+*§ 64-27 Technical Requirements – Recording the Results of Taximeter Tests.*
 
 
 (a) Record of Results. The Taximeter Business must record the results of any inspections or tests, as well as the Taximeter make, model, and serial number on the form prescribed by the Commission. The Taximeter Business Licensee must submit the record of results to the Commission within seven (7) days of the inspection. 
@@ -21236,7 +21236,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 
-*§ 64-28 Technical Requirements – Failure of Tests.* ::
+*§ 64-28 Technical Requirements – Failure of Tests.*
 
 
 (a) No Precondition to Perform Repairs. A Taximeter Business must not require that repair work based on the results of a test or inspection be performed by that Taximeter Business as a condition of performing any test or inspection.
@@ -21265,7 +21265,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 
-*§ 64-29 Technical Requirements – Roof Light Installation and Repair.* ::
+*§ 64-29 Technical Requirements – Roof Light Installation and Repair.*
 
 
 (a) Approved Roof Lights. A Taximeter Business can install Roof Lights only in a Medallion Taxicab. The Roof Lights must be of a type or model approved by the Commission.
@@ -21304,7 +21304,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 
-*§ 64-30 Taximeter Manufacturers – Licensing and General Requirements.* ::
+*§ 64-30 Taximeter Manufacturers – Licensing and General Requirements.*
 
 
 (a) Approval Required. Before they are eligible for use in the State of New York, all Taximeters must be approved by the New York Department of Agriculture and Markets.
@@ -21318,7 +21318,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 
-*§ 64-31 Taximeter Manufacturers – Appointment of Manufacturer's Representative.* ::
+*§ 64-31 Taximeter Manufacturers – Appointment of Manufacturer's Representative.*
 
 
 (a) A manufacturer required to be licensed by the Commission under this chapter can appoint a Manufacturer's Representative to hold that License.
@@ -21355,7 +21355,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 
-*§ 64-32 Comply with Laws – Conduct Rules.* ::
+*§ 64-32 Comply with Laws – Conduct Rules.*
 
 
 (a) Acceptance of Gift or Gratuity. A Taximeter Licensee or any person acting on his or her behalf must not accept any gift, gratuity, or thing of value from an owner or driver of any vehicle licensed by the Commission or from anyone acting on behalf of an owner or driver for the purpose of violating any of these rules through acts of commission or omission.
@@ -21533,7 +21533,7 @@ A Taximeter Business must not perform any work on a Taximeter, including inspect
 
 
 Chapter 65: Sale of Taxicab Medallions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -21542,7 +21542,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 
-*§ 65-01 Scope of this Subchapter.* ::
+*§ 65-01 Scope of this Subchapter.*
 
 
 (a)  In accordance with Administrative Code § 19-532, the Chairperson will issue and sell additional Taxicab Licenses up to the number authorized by state and local law.
@@ -21554,7 +21554,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 
-*§ 65-02 Penalties.* ::
+*§ 65-02 Penalties.*
 
 
 (a)  Specific Penalties. If there are specific penalties for violating a Rule, they will be shown at the end of the Rule. The penalty section will also state whether the violator must attend the Hearing.
@@ -21572,7 +21572,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 
-*§ 65-03 Definitions Specific to this Subchapter.* ::
+*§ 65-03 Definitions Specific to this Subchapter.*
 
 
 (a)  Bidder. An individual submitting a sealed bid for one or more Lots of Taxicab Medallions or a Business Entity to which an individual Bidder assigns a bid.
@@ -21598,7 +21598,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 
-*§ 65-04 General Provisions.* ::
+*§ 65-04 General Provisions.*
 
 
 (a)  Sale by Sealed Bid. The public sale of newly issued Taxicab Medallions will be done by Sealed Bid.
@@ -21628,7 +21628,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 
-*§ 65-05 Commission Procedures for Holding a Sealed Bid Sale.* ::
+*§ 65-05 Commission Procedures for Holding a Sealed Bid Sale.*
 
 
 (a)  Notice of the Sale. Sealed bid sales and any postponements of these sales will be publicized as required below.
@@ -21698,7 +21698,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 
-*§ 65-06 Procedures for Bidding.* ::
+*§ 65-06 Procedures for Bidding.*
 
 
 (a)  Submitting a Bid. Each Bidder must do the following:
@@ -21760,7 +21760,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 
-*§ 65-07 Closing on the Purchase.* ::
+*§ 65-07 Closing on the Purchase.*
 
 
 (a)  Closing Deadlines.
@@ -21834,7 +21834,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 
-*§ 65-08 Conflict of Interest Prohibitions.* ::
+*§ 65-08 Conflict of Interest Prohibitions.*
 
 
 (a)  A Bidder cannot collude, consult, communicate, or agree in any way with any other Bidder or prospective Bidder for the purpose of restricting competition or inducing any other prospective Bidder to submit or not submit a bid for the purpose of restricting competition. A Bidder cannot disclose any bid price, directly or indirectly, to any other Bidder for the purpose of restricting competition or inducing any other prospective Bidder to submit or not submit a bid for the purpose of restricting competition. In addition to any other penalties provided by law, violation of this subdivision or submission of a false certification under 35 RCNY § 65-06 will result in the disqualification of all bids submitted by that Bidder. 
@@ -21881,7 +21881,7 @@ Chapter 65: Sale of Taxicab Medallions
 
 
 
-*§ 65-11 Scope of this Subchapter.* ::
+*§ 65-11 Scope of this Subchapter.*
 
 
 This Subchapter establishes the procedures for the Commission to reissue Taxicab Medallions that have been revoked where the owners of such revoked Medallions did not provide for the resale of the Medallions.
@@ -21891,7 +21891,7 @@ This Subchapter establishes the procedures for the Commission to reissue Taxicab
 
 
 
-*§ 65-12 Penalties.* ::
+*§ 65-12 Penalties.*
 
 
 This Subchapter is informational in nature and does not contain any penalties.
@@ -21901,7 +21901,7 @@ This Subchapter is informational in nature and does not contain any penalties.
 
 
 
-*§ 65-13 Definitions Specific to this Subchapter.* ::
+*§ 65-13 Definitions Specific to this Subchapter.*
 
 
 Reissued Medallions are Medallions that meet the following criteria:
@@ -21917,7 +21917,7 @@ Reissued Medallions are Medallions that meet the following criteria:
 
 
 
-*§ 65-14 General Provisions.* ::
+*§ 65-14 General Provisions.*
 
 
 (a)  Re-Issuing Medallions. Any Taxicab Medallion that has been revoked by the Commission and not sold by the Owner prior to revocation may be repossessed by the Commission and reissued and sold by the Commission.
@@ -21929,7 +21929,7 @@ Reissued Medallions are Medallions that meet the following criteria:
 
 
 
-*§ 65-15 Commission Requirements for Conducting the Public Auction.* ::
+*§ 65-15 Commission Requirements for Conducting the Public Auction.*
 
 
 (a)  Licensed Auctioneer. The public auction will be conducted by a licensed auctioneer.
@@ -21949,7 +21949,7 @@ Reissued Medallions are Medallions that meet the following criteria:
 
 
 
-*§ 65-16 Chairperson's Authority to Modify Auction Procedures.* ::
+*§ 65-16 Chairperson's Authority to Modify Auction Procedures.*
 
 
 (a)  Cancellation. The Chairperson can, at any time and for any reason, postpone or cancel an auction.
@@ -21963,7 +21963,7 @@ Reissued Medallions are Medallions that meet the following criteria:
 
 
 
-*§ 65-17 Bidding Requirements and Procedures.* ::
+*§ 65-17 Bidding Requirements and Procedures.*
 
 
 (a)  Bidder Criteria. Any person can bid. However, the highest Bidder must satisfy all criteria for Taxicab License owners. The Chairperson will review the application for a license by the highest bidder to determine if that bidder satisfies the ownership criteria.
@@ -21981,7 +21981,7 @@ Reissued Medallions are Medallions that meet the following criteria:
 
 
 
-*§ 65-18 Closing Requirements and Procedures.* ::
+*§ 65-18 Closing Requirements and Procedures.*
 
 
 (a)  Deposit. Immediately after the close of bids, the highest Bidder must provide a deposit to the auctioneer covering a percentage of the high bid as set in advance by the Chairperson. The deposit must be in the form of a certified check, a money order, or such other form as set in advance by the Chairperson and published in the City Record.
@@ -21994,11 +21994,11 @@ Reissued Medallions are Medallions that meet the following criteria:
 
 
 Chapter 66: Licensing &amp; Rules for Technology System Providers
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 66-01 Scope of the Chapter.* ::
+*§ 66-01 Scope of the Chapter.*
 
 
 (a) To establish a formal procedure for the licensing and supervision of businesses that sell, lease, make available for use, install, service, and repair Technology Systems.
@@ -22016,7 +22016,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
 
 
 
-*§ 66-02 Penalties.* ::
+*§ 66-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -22130,7 +22130,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
 
 
 
-*§ 66-03 Definitions Specific to this Chapter.* ::
+*§ 66-03 Definitions Specific to this Chapter.*
 
 
 (a) Applicant in this Chapter means an Applicant for an original or renewal Technology System Provider License.
@@ -22172,7 +22172,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
 
 
 
-*§ 66-04 Licensing – General Requirements.* ::
+*§ 66-04 Licensing – General Requirements.*
 
 
 (a) Licensees. An Applicant for a Technology System Provider License or its renewal may be an individual or a Business Entity.
@@ -22244,7 +22244,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
 
 
 
-*§ 66-05 Licensing – Specific Requirements.* ::
+*§ 66-05 Licensing – Specific Requirements.*
 
 
 (a) Approval for New License. The Commission will not issue a Technology System Provider License to any Applicant unless the Commission approves the Technology System proposed for sale, lease or use by the Applicant. In determining whether to approve the Technology System, the Commission will consider, in its sole discretion, whether the documentation required to be submitted by the Applicant pursuant to 35 RCNY § 66-05(b) below adequately demonstrates that the Technology System complies with all of the requirements set forth in 35 RCNY § 66-24, or as such requirements may be waived or modified by the Commission pursuant to subdivision (g) of this section.
@@ -22330,7 +22330,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
 
 
 
-*§ 66-06 Licensing – Fees and Term of License.* ::
+*§ 66-06 Licensing – Fees and Term of License.*
 
 
 (a) Annual Fee. Every application for a new or renewal Technology System Provider License must be accompanied by a non-refundable application fee of $500 for each License to be issued or renewed for the term as provided in subdivision (e) of this section. If the License term is for less than six months, the fee will be prorated.
@@ -22362,7 +22362,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
 
 
 
-*§ 66-07 Licensing – Cause for Denial.* ::
+*§ 66-07 Licensing – Cause for Denial.*
 
 
 (a) Failure to Continuously Comply. Whenever the Commission determines that the Technology System Provider Licensee no longer meets the requirements for the License, the Commission may suspend or revoke the License and deny any application for renewal.
@@ -22384,7 +22384,7 @@ Chapter 66: Licensing &amp; Rules for Technology System Providers
 
 
 
-*§ 66-08 General Requirements – Unlicensed Activity.* ::
+*§ 66-08 General Requirements – Unlicensed Activity.*
 
 
 Technology System Provider License Required. An individual or Business Entity must not sell, lease, make available for use, install, maintain, service or repair a Technology System in any Taxicab or Street Hail Livery, or enter into or renew a contract with a Taxicab or Street Hail Livery Licensee for the sale, lease, use, installation, maintenance, service or repair of an System without a Valid Technology System Provider License.
@@ -22411,7 +22411,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 
-*§ 66-09 General Requirements – Compliance with Applicable Law.* ::
+*§ 66-09 General Requirements – Compliance with Applicable Law.*
 
 
 (a) Licenses and Permits. A Technology System Provider Licensee must obtain licenses and permits required by applicable local, state or federal law.
@@ -22444,7 +22444,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 
-*§ 66-10 General Requirements – Indemnification.* ::
+*§ 66-10 General Requirements – Indemnification.*
 
 
 (a) General Indemnification. A Technology System Provider Licensee must defend, indemnify and hold the City, its officers and employees harmless from any and all third-party claims (even if the allegations of the lawsuit are without merit) or judgments for damages on account of any injuries or death to any person or damage to any property and from costs and expenses (including reasonable attorneys’ fees) to which the City, its officers and employees may be subjected or which it may suffer or incur allegedly arising out of any operations of the Technology System Provider Licensee and/or its employees, agents or subcontractors in connection with any of the activities licensed under this Chapter to the extent resulting from any negligent act of commission or omission, any intentional tortious act, or failure to comply with any of the provisions of this Chapter. Insofar as the facts or law relating to any third-party claim would preclude the City from being completely indemnified by the Technology System Provider Licensee, the City shall be partially indemnified by the Technology System Provider Licensee to the fullest extent permitted by law.
@@ -22475,7 +22475,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 
-*§ 66-11 General Requirements – Unlawful Activities Prohibited.* ::
+*§ 66-11 General Requirements – Unlawful Activities Prohibited.*
 
 
 (a) A Technology System Provider Licensee must not use or permit any other person to use its business premises or office of record for any unlawful purpose. 
@@ -22557,7 +22557,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 
-*§ 66-12 General Requirements – Notice to TLC.* ::
+*§ 66-12 General Requirements – Notice to TLC.*
 
 
 (a) Material Change in Information. A Technology System Provider Licensee must notify the Commission of any material change in the information contained in its current Technology System Provider License application or renewal.
@@ -22618,7 +22618,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 
-*§ 66-13 Business Requirements – Mailing and Email Address.* ::
+*§ 66-13 Business Requirements – Mailing and Email Address.*
 
 
 (a) Each Technology System Provider must designate and provide to the Commission the street address of its primary Technology System Provider location as its Mailing Address.
@@ -22654,7 +22654,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 
-*§ 66-14 Business Requirements – Change in Business Ownership or Application Information.* ::
+*§ 66-14 Business Requirements – Change in Business Ownership or Application Information.*
 
 
 (a) Approval for Transfer of Ownership. A Technology System Provider Licensee must not make any change in the officers, directors, members, partners or general partners or transfer any ownership interest in the Technology System Provider, if such transfer would result in a new principal shareholder, without the prior consent of the Commission. This prohibition includes the transfer of any ownership interest and any agreement to transfer an ownership interest in the future.
@@ -22698,7 +22698,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 
-*§ 66-15 Business Requirements – Fees Charged by Licensees.* ::
+*§ 66-15 Business Requirements – Fees Charged by Licensees.*
 
 
 (a) Filing of Fee Schedule with TLC. A Technology System Provider Licensee must file with the Commission a current schedule of maximum fees for:
@@ -22780,7 +22780,7 @@ Technology System Provider License Required. An individual or Business Entity mu
 
 
 
-*§ 66-16 Business Requirements – Sale, Lease or Use of Technology System.* ::
+*§ 66-16 Business Requirements – Sale, Lease or Use of Technology System.*
 
 
 All of the following conditions apply with regard to a Technology System Provider’s sale, lease, making available for use, and installation of a Technology System for use in a Taxicab or Street Hail Livery:
@@ -22816,7 +22816,7 @@ All of the following conditions apply with regard to a Technology System Provide
 
 
 
-*§ 66-17 Business Requirements – Contract with Taxicab Owner or Street Hail Livery Licensee.* ::
+*§ 66-17 Business Requirements – Contract with Taxicab Owner or Street Hail Livery Licensee.*
 
 
 The contract between the Technology System Provider and the Taxicab or Street Hail Livery Licensee for the sale, lease, or use of a Technology System must contain provisions specifying that:
@@ -22902,7 +22902,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 
-*§ 66-18 Business Requirements – Maintenance of Technology System.* ::
+*§ 66-18 Business Requirements – Maintenance of Technology System.*
 
 
 (a) Maintenance Service. The Technology System Provider must provide to a Taxicab or Street Hail Livery Licensee such maintenance services as are necessary to maintain the Technology System in good working order and in accordance with the requirements in 35 RCNY § 66-24. Such maintenance services must include but not be limited to:
@@ -22936,7 +22936,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 
-*§ 66-19 Business Requirements – Compliance with Technology System Requirements.* ::
+*§ 66-19 Business Requirements – Compliance with Technology System Requirements.*
 
 
 (a) Credit, Debit, and Prepaid Card Payment.
@@ -23081,7 +23081,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 
-*§ 66-20 Business Requirements – Record-Keeping and Reporting Requirements.* ::
+*§ 66-20 Business Requirements – Record-Keeping and Reporting Requirements.*
 
 
 (a) Trip Data and its component elements must be stored, maintained and accessible to the Commission and any designee.
@@ -23174,7 +23174,7 @@ The contract between the Technology System Provider and the Taxicab or Street Ha
 
 
 
-*§ 66-21 Business Requirements – Use of Personal Information and Certain Location-Based Data.* ::
+*§ 66-21 Business Requirements – Use of Personal Information and Certain Location-Based Data.*
 
 
 The Technology System Provider must collect, use, and process Personal Information in accordance with the information security and use of personal information policy it has on file with the TLC pursuant to subdivision (g) of 35 RCNY § 66-05. 
@@ -23202,7 +23202,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 
-*§ 66-22 Business Requirements – Cooperation with the Commission.* ::
+*§ 66-22 Business Requirements – Cooperation with the Commission.*
 
 
 (a) The Technology System Provider must make commercially reasonable efforts, as described in this section, to cooperate with the Commission, its designees and any contractor(s) of the Commission, including the Accessible Taxi Dispatcher as defined in section 35 RCNY § 51-03:
@@ -23278,7 +23278,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 
-*§ 66-23 Comply with Laws – Conduct Rules.* ::
+*§ 66-23 Comply with Laws – Conduct Rules.*
 
 
 (a) Acceptance of Gift or Gratuity. A Technology System Provider Licensee or any person acting on the Technology System Licensee’s behalf or any of the Technology System Provider Licensee’s employees must not accept any gift, gratuity, or thing of value from an owner or driver of any vehicle licensed by the Commission or from anyone acting on behalf of an owner or driver for the purpose of violating any of these rules through acts of commission or omission.
@@ -23448,7 +23448,7 @@ The Technology System Provider must collect, use, and process Personal Informati
 
 
 
-*§ 66-24 Technical Requirements – Technology System.* ::
+*§ 66-24 Technical Requirements – Technology System.*
 
 
 No Technology System will be approved by the Commission pursuant to this Chapter unless it complies with the all of the requirements set forth in this section, unless such requirements are waived or modified by the Commission pursuant to subdivision (f) of 35 RCNY § 66-05.
@@ -23753,11 +23753,11 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
 
 Chapter 67: Rules For Taxicab Hack-up and Maintenance
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 67-01 Scope of this Chapter.* ::
+*§ 67-01 Scope of this Chapter.*
 
 
 (a) To establish the standards and requirements for preparing a vehicle for Taxicab Licensing, and
@@ -23769,7 +23769,7 @@ Chapter 67: Rules For Taxicab Hack-up and Maintenance
 
 
 
-*§ 67-02 Penalties.* ::
+*§ 67-02 Penalties.*
 
 
 (a) This Chapter is informational in nature and does not contain penalties. Penalties for failure to follow the rules established in this Chapter will be found in 35 RCNY Chapter 80 and 35 RCNY Chapter 58 which establish specific requirements for the Drivers ot Taxicabsand owners.
@@ -23781,7 +23781,7 @@ Chapter 67: Rules For Taxicab Hack-up and Maintenance
 
 
 
-*§ 67-03 Definitions Specific to this Chapter.* ::
+*§ 67-03 Definitions Specific to this Chapter.*
 
 
 (a) Clean Air Taxicab is a Clean Air Vehicle, as defined in 35 RCNY § 51-03, that has been Hacked-Up.
@@ -23797,7 +23797,7 @@ Chapter 67: Rules For Taxicab Hack-up and Maintenance
 
 
 
-*§ 67-04 Original Verification of Taxicab Candidate as Taxicab Model.* ::
+*§ 67-04 Original Verification of Taxicab Candidate as Taxicab Model.*
 
 
 A Taxicab Candidate must meet the technical specifications in 35 RCNY § 67-05.1A, § 67-05.1B or § 67-05.2, as well as all applicable federal and New York State motor vehicle standards and requirements, in order to become a Taxicab Model.
@@ -23809,7 +23809,7 @@ A Taxicab Candidate must meet the technical specifications in 35 RCNY § 67-05.1
 
 
 
-*§ 67-05 Taxicab Model Choice.* ::
+*§ 67-05 Taxicab Model Choice.*
 
 
 (a) Unrestricted Medallions. Unrestricted Medallions may be used with the OTV, the Accessible OTV, or any Taxicab Model that complies with 35 RCNY § 67-05.1. If at any time an Unrestricted Medallion is required by law or rule of the Commission for use with an Accessible Vehicle, the owner of such medallion must purchase an Accessible OTV or lease such medallion for use with an Accessible OTV. Provided, however, that with the Chairperson’s approval, up to 496 Unrestricted Medallion owners in good standing may at any time purchase for Hack-up any Accessible Vehicle which meets the specifications set forth in 35 RCNY § 67-05.2, or lease their medallions for use with such a vehicle.
@@ -23831,7 +23831,7 @@ A Taxicab Candidate must meet the technical specifications in 35 RCNY § 67-05.1
 
 
 
-*§ 67-05.1 Specifications for Non-Accessible Taxicab Candidates.* ::
+*§ 67-05.1 Specifications for Non-Accessible Taxicab Candidates.*
 
 
 (a) Type of Vehicle. The vehicle must be a four-door model of one of the following types, and must meet all of the other requirements in this section:
@@ -23879,7 +23879,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-05.1A Standard Specifications for Other Taxicab Models Effective Until Official Taxicab Vehicle Activation Date. [Repealed]* ::
+*§ 67-05.1A Standard Specifications for Other Taxicab Models Effective Until Official Taxicab Vehicle Activation Date. [Repealed]*
 
 
 
@@ -23889,7 +23889,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-05.1B Official Taxicab Vehicle for use with Unrestricted Medallions Effective On Official Taxicab Vehicle Activation Date. [Repealed]* ::
+*§ 67-05.1B Official Taxicab Vehicle for use with Unrestricted Medallions Effective On Official Taxicab Vehicle Activation Date. [Repealed]*
 
 
 
@@ -23899,7 +23899,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-05.1C Specifications for Vehicles for use with Unrestricted Medallions or Alternative Fuel Medallions After the OTV Activation Date. [Repealed]* ::
+*§ 67-05.1C Specifications for Vehicles for use with Unrestricted Medallions or Alternative Fuel Medallions After the OTV Activation Date. [Repealed]*
 
 
 
@@ -23909,7 +23909,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-05.2 Specifications for Accessible Taxicab Candidates.* ::
+*§ 67-05.2 Specifications for Accessible Taxicab Candidates.*
 
 
 (a) An Accessible Vehicle may be approved for Hack-up if it meets all of the following conditions:
@@ -24003,7 +24003,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-06 Requirements for Hacking Up a Taxicab.* ::
+*§ 67-06 Requirements for Hacking Up a Taxicab.*
 
 
 (a) Requirement. Only Taxicab Models may be Hacked-Up.
@@ -24041,7 +24041,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-07 Requirements for Hack-up – Paint, Finish and Lighting.* ::
+*§ 67-07 Requirements for Hack-up – Paint, Finish and Lighting.*
 
 
 (a) Taxi Yellow. The exterior of the vehicle must be painted taxi yellow (Dupont M6284 or its equivalent), except for trim. Samples of paint color and code are to be submitted to the Commission for approval.
@@ -24059,7 +24059,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-08 Requirements for Hack-up – Occupant Accommodation.* ::
+*§ 67-08 Requirements for Hack-up – Occupant Accommodation.*
 
 
 (a) Upholstery and Trim.
@@ -24085,7 +24085,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-09 Requirements for Hack-up – Taximeters.* ::
+*§ 67-09 Requirements for Hack-up – Taximeters.*
 
 
 (a) Requirement. The vehicle must be equipped with a sealed, tamper-resistant Taximeter installed by a Licensed Taximeter Business according to the rules and regulations in 35 RCNY Chapter 64. The Taximeter must be installed in a location approved by the Chairperson which permits safe operation of the vehicle and visibility to the passenger.
@@ -24111,7 +24111,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-10 Requirements for Hack-up – Partitions.* ::
+*§ 67-10 Requirements for Hack-up – Partitions.*
 
 
 (a) Requirement.
@@ -24155,7 +24155,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-11 Requirements for Hack-up – Distress Signal Lights.* ::
+*§ 67-11 Requirements for Hack-up – Distress Signal Lights.*
 
 
 (a) Requirement. An owner must equip all Taxicabs with a help or distress signaling light system consisting of two turn signal type "lollipop" lights.
@@ -24177,7 +24177,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-12 Requirements for Hack-up – In-Vehicle Camera System ("IVCS").* ::
+*§ 67-12 Requirements for Hack-up – In-Vehicle Camera System ("IVCS").*
 
 
 (a) Requirement. When an existing IVCS is required to be replaced or when an IVCS system is installed (including, but not limited to, at Hack-up), it must be functioning and in good working order and meet the specifications and installation requirements below.
@@ -24253,7 +24253,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-13 Requirements for Hack-up – Credential Holders.* ::
+*§ 67-13 Requirements for Hack-up – Credential Holders.*
 
 
 (a) Requirement. A credential holder must be mounted behind the driver in the vehicle in a manner that does not block the driver's view. The holder will be on the partition if there is a partition, or on the headrest if there is no partition.
@@ -24275,7 +24275,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-14 Requirements for Hack-up – Air Conditioning.* ::
+*§ 67-14 Requirements for Hack-up – Air Conditioning.*
 
 
 (a) Requirement. All vehicles must be equipped with an air conditioner. The air conditioner must be in good working condition from May 1st through September 30th each year. In vehicles equipped with a partition, the air conditioner must include an auxiliary unit for the rear seating area.
@@ -24291,7 +24291,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-15 Requirements for Hack-up – Technology System.* ::
+*§ 67-15 Requirements for Hack-up – Technology System.*
 
 
 (a) Technology System. Every Taxicab must be equipped with Technology System from a licensed Technology System Provider.
@@ -24303,7 +24303,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-16 Authorized Rooftop Advertising Fixture.* ::
+*§ 67-16 Authorized Rooftop Advertising Fixture.*
 
 
 (a) Authorized Rooftop Advertising Fixture.
@@ -24373,7 +24373,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-17 [Reserved]* ::
+*§ 67-17 [Reserved]*
 
 
 (a) New Vehicles. All vehicles Hacked-up as new vehicles pursuant to 35 RCNY § 67-06(b)(1) must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 84 months after the vehicle was Hacked-up.
@@ -24387,7 +24387,7 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 
-*§ 67-19 Vehicle Retirement Extensions.* ::
+*§ 67-19 Vehicle Retirement Extensions.*
 
 
 (a) Hardship Extension. The owner of a Taxicab may apply to the Chairperson for an extension of up to 12 months from the Scheduled Retirement Date. To obtain approval of a hardship extension:
@@ -24432,11 +24432,11 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
 
 Chapter 68: Procedures Relating To Enforcement
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 68-01 Scope of this Chapter.* ::
+*§ 68-01 Scope of this Chapter.*
 
 
 (a) To establish procedures for the enforcement of violations of TLC Rules and other laws enforced by the TLC, including the Administrative Code of the City of New York.
@@ -24458,7 +24458,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-02 Penalties.* ::
+*§ 68-02 Penalties.*
 
 
 (a) Prescribed Penalties. Whenever a Respondent is charged with a violation of any Commission Rule or Administrative Code Section, Respondent may be subject to the civil penalties as set forth in the Commission Rules or the Administrative Code.
@@ -24500,7 +24500,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-03 Definitions Specific to this Chapter.* ::
+*§ 68-03 Definitions Specific to this Chapter.*
 
 
 (a) Appeal is the request for review of a decision of a Hearing Officer.
@@ -24538,7 +24538,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-04 Forum.* ::
+*§ 68-04 Forum.*
 
 
 (a) The Commission may refer any adjudication to the OATH Tribunal instead of the Taxi and Limousine Tribunal at OATH. In this event, the OATH Tribunal's rules under 48 RCNY Chapter 1 will govern the case. The determination of the OATH Tribunal will be a recommendation to the Chairperson ("Recommended Decision").
@@ -24548,7 +24548,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-05 Service of Summonses.* ::
+*§ 68-05 Service of Summonses.*
 
 
 (a) Service. A Respondent must be served with a summons specifying the nature of the violation charged or the basis for any charge that the Respondent is not Fit to Hold a License.
@@ -24578,7 +24578,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-06 Contents of Summons.* ::
+*§ 68-06 Contents of Summons.*
 
 
 (a) Required Information. A summons must contain, at a minimum, the following information:
@@ -24604,7 +24604,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-07 Temporary Licenses Pending Appeal.* ::
+*§ 68-07 Temporary Licenses Pending Appeal.*
 
 
 (a) Temporary License.
@@ -24628,7 +24628,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-08 Failure to Prosecute by the Commission.* ::
+*§ 68-08 Failure to Prosecute by the Commission.*
 
 
 (a) If the Commission fails to request a hearing within one year from the date of the summons, the charges will be withdrawn.
@@ -24640,7 +24640,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-09 Final and Recommended Decisions.* ::
+*§ 68-09 Final and Recommended Decisions.*
 
 
 (a) The decision of the Hearing Officer at the Taxi and Limousine Tribunal at OATH is final subject to the appeals process provided for in 48 RCNY Chapter 5 and the Chairperson review process provided for in 35 RCNY § 68-12.
@@ -24658,7 +24658,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-10 Procedure for Finalizing Recommended Decisions.* ::
+*§ 68-10 Procedure for Finalizing Recommended Decisions.*
 
 
 (a) Respondent's Opportunity to Respond.
@@ -24680,7 +24680,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-11 Appeal of Chairperson's Final Decision.* ::
+*§ 68-11 Appeal of Chairperson's Final Decision.*
 
 
 (a) The only Chairperson's Final Decision that can be appealed to the Commissioners is a Final Decision that imposes Discretionary Revocation (see 35 RCNY § 68-13).
@@ -24716,7 +24716,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-12 Chairperson Review.* ::
+*§ 68-12 Chairperson Review.*
 
 
 (a) The Chairperson, or if he or she designates, the General Counsel for the TLC, may review any determination of the Appeals Unit that interprets any of the following:
@@ -24748,7 +24748,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-13 Special Procedures – Mandatory Revocation and Discretionary Revocation (and Other Penalties).* ::
+*§ 68-13 Special Procedures – Mandatory Revocation and Discretionary Revocation (and Other Penalties).*
 
 
 (a) Mandatory Revocation. Mandatory License revocation will be imposed when a Respondent is found liable for a violation in which mandatory revocation is specified.
@@ -24780,7 +24780,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-14 Special Procedures – Fitness Revocation Hearings.* ::
+*§ 68-14 Special Procedures – Fitness Revocation Hearings.*
 
 
 (a) The Chairperson will notify the Licensee to appear as a Respondent for a fitness hearing if the Chairperson believes that a Licensee is not Fit to Hold a License, for the following reasons, based upon:
@@ -24878,7 +24878,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-15 Special Procedures – Summary Suspension Pending Revocation.* ::
+*§ 68-15 Special Procedures – Summary Suspension Pending Revocation.*
 
 
 (a) Summary Suspension.
@@ -24982,7 +24982,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-16 Special Procedures – Summary Suspension Pending Compliance.* ::
+*§ 68-16 Special Procedures – Summary Suspension Pending Compliance.*
 
 
 (a) Summary Suspension. If the Chairperson finds that the Licensee is not in compliance with a rule in this title that provides for "summary suspension until compliance," the Licensee's TLC-issued License can be summarily suspended until compliance pending an opportunity to be heard.
@@ -25050,7 +25050,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-17 Special Procedures – Seizures.* ::
+*§ 68-17 Special Procedures – Seizures.*
 
 
 (a) Right to Seize Vehicle.
@@ -25150,7 +25150,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-18 Special Procedures – Forfeitures.* ::
+*§ 68-18 Special Procedures – Forfeitures.*
 
 
 (a) For purposes of this section, the term Owner means:
@@ -25188,7 +25188,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-19 Special Procedures – Removal and Storage Fees for Seized Vehicles.* ::
+*§ 68-19 Special Procedures – Removal and Storage Fees for Seized Vehicles.*
 
 
 (a) Removal Fee. The removal fee for all vehicles is one hundred eighty-five dollars ($185).
@@ -25204,7 +25204,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
-*§ 68-20 Special Procedures – Settlements and Withdrawals.* ::
+*§ 68-20 Special Procedures – Settlements and Withdrawals.*
 
 
 (a) Settlements. The Chairperson and a Respondent may dispose of a summons by entering into a settlement agreement.
@@ -25245,11 +25245,11 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 Chapter 70: Transition Rules
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 70-01 Scope of this Chapter.* ::
+*§ 70-01 Scope of this Chapter.*
 
 
 (a) To repeal existing TLC rules:
@@ -25265,7 +25265,7 @@ Chapter 70: Transition Rules
 
 
 
-*§ 70-02 Penalties.* ::
+*§ 70-02 Penalties.*
 
 
 This chapter is informational in nature and does not provide for any penalties.
@@ -25275,7 +25275,7 @@ This chapter is informational in nature and does not provide for any penalties.
 
 
 
-*§ 70-03 Definitions Specific to this Chapter.* ::
+*§ 70-03 Definitions Specific to this Chapter.*
 
 
 (a) Activation Date. The Activation Date is April 1, 2011.
@@ -25289,7 +25289,7 @@ This chapter is informational in nature and does not provide for any penalties.
 
 
 
-*§ 70-04 Rules.* ::
+*§ 70-04 Rules.*
 
 
 (a) Old Rules. The Old Rules are repealed on the Activation Date.
@@ -25301,7 +25301,7 @@ This chapter is informational in nature and does not provide for any penalties.
 
 
 
-*§ 70-05 Existing Licenses.* ::
+*§ 70-05 Existing Licenses.*
 
 
 (a) Existing Licenses. All Licenses issued by the Commission and Valid at the Activation Date continue in existence.
@@ -25323,7 +25323,7 @@ This chapter is informational in nature and does not provide for any penalties.
 
 
 
-*§ 70-06 License Applications.* ::
+*§ 70-06 License Applications.*
 
 
 (a) License Applications received before the Activation Date. License applications received before the Activation Date will be processed under the Old Rules. However, for any such License, the Licensee must follow the New Rules beginning on the Activation Date.
@@ -25335,7 +25335,7 @@ This chapter is informational in nature and does not provide for any penalties.
 
 
 
-*§ 70-07 Persistence of Enforcement Actions.* ::
+*§ 70-07 Persistence of Enforcement Actions.*
 
 
 (a) Summonses.
@@ -25384,11 +25384,11 @@ This chapter is informational in nature and does not provide for any penalties.
 
 
 Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Repealed]
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 75-01 Scope of the Chapter. [Repealed]* ::
+*§ 75-01 Scope of the Chapter. [Repealed]*
 
 
 
@@ -25398,7 +25398,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-02 Non-Compliance with Conditions of Authorization. [Repealed]* ::
+*§ 75-02 Non-Compliance with Conditions of Authorization. [Repealed]*
 
 
 
@@ -25408,7 +25408,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-03 Definitions Specific to this Chapter. [Repealed]* ::
+*§ 75-03 Definitions Specific to this Chapter. [Repealed]*
 
 
 
@@ -25418,7 +25418,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-04 Authorization – General Requirements. [Repealed]* ::
+*§ 75-04 Authorization – General Requirements. [Repealed]*
 
 
 
@@ -25428,7 +25428,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-05 Authorization – Specific Requirements. [Repealed]* ::
+*§ 75-05 Authorization – Specific Requirements. [Repealed]*
 
 
 
@@ -25438,7 +25438,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-06 Authorization – Financial Disclosure. [Repealed]* ::
+*§ 75-06 Authorization – Financial Disclosure. [Repealed]*
 
 
 
@@ -25448,7 +25448,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-07 Authorization – Fees and Term of Authorization. [Repealed]* ::
+*§ 75-07 Authorization – Fees and Term of Authorization. [Repealed]*
 
 
 
@@ -25458,7 +25458,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-08 Authorization – Cause for Denial. [Repealed]* ::
+*§ 75-08 Authorization – Cause for Denial. [Repealed]*
 
 
 
@@ -25468,7 +25468,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-09 General Requirements for Maintaining Authorization – Unauthorized Activity. [Repealed]* ::
+*§ 75-09 General Requirements for Maintaining Authorization – Unauthorized Activity. [Repealed]*
 
 
 
@@ -25478,7 +25478,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-10 General Requirements for Maintaining Authorization – Compliance with Applicable Law. [Repealed]* ::
+*§ 75-10 General Requirements for Maintaining Authorization – Compliance with Applicable Law. [Repealed]*
 
 
 
@@ -25488,7 +25488,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-11 General Requirements for Maintaining Authorization – Indemnification. [Repealed]* ::
+*§ 75-11 General Requirements for Maintaining Authorization – Indemnification. [Repealed]*
 
 
 
@@ -25498,7 +25498,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-12 Business Requirements for Maintaining Authorization – Premises. [Repealed]* ::
+*§ 75-12 Business Requirements for Maintaining Authorization – Premises. [Repealed]*
 
 
 
@@ -25508,7 +25508,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-13 Business Requirements for Maintaining Authorization – Signage. [Repealed]* ::
+*§ 75-13 Business Requirements for Maintaining Authorization – Signage. [Repealed]*
 
 
 
@@ -25518,7 +25518,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-14 General Requirements for Maintaining Authorization – Notice to TLC. [Repealed]* ::
+*§ 75-14 General Requirements for Maintaining Authorization – Notice to TLC. [Repealed]*
 
 
 
@@ -25528,7 +25528,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-15 Business Requirements for Maintaining Authorization – Mailing and Email Address. [Repealed]* ::
+*§ 75-15 Business Requirements for Maintaining Authorization – Mailing and Email Address. [Repealed]*
 
 
 
@@ -25538,7 +25538,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-16 Business Requirements for Maintaining Authorization – Change in Business Ownership. [Repealed]* ::
+*§ 75-16 Business Requirements for Maintaining Authorization – Change in Business Ownership. [Repealed]*
 
 
 
@@ -25548,7 +25548,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-17 Business Requirements for Maintaining Authorization – Fees Charged by Providers. [Repealed]* ::
+*§ 75-17 Business Requirements for Maintaining Authorization – Fees Charged by Providers. [Repealed]*
 
 
 
@@ -25558,7 +25558,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-18 Business Requirements for Maintaining Authorization – Sale, Lease or Use of TPEP. [Repealed]* ::
+*§ 75-18 Business Requirements for Maintaining Authorization – Sale, Lease or Use of TPEP. [Repealed]*
 
 
 
@@ -25568,7 +25568,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-19 Business Requirements for Maintaining Authorization – Contract with Medallion Owner. [Repealed]* ::
+*§ 75-19 Business Requirements for Maintaining Authorization – Contract with Medallion Owner. [Repealed]*
 
 
 
@@ -25578,7 +25578,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-20 Business Requirements for Maintaining Authorization – Maintenance of TPEP. [Repealed]* ::
+*§ 75-20 Business Requirements for Maintaining Authorization – Maintenance of TPEP. [Repealed]*
 
 
 
@@ -25588,7 +25588,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-21 Business Requirements for Maintaining Authorization – Compliance with TPEP Requirements and Service Levels. [Repealed]* ::
+*§ 75-21 Business Requirements for Maintaining Authorization – Compliance with TPEP Requirements and Service Levels. [Repealed]*
 
 
 
@@ -25598,7 +25598,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-22 Business Requirements – Recordkeeping and Reporting Requirements. [Repealed]* ::
+*§ 75-22 Business Requirements – Recordkeeping and Reporting Requirements. [Repealed]*
 
 
 
@@ -25608,7 +25608,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-23 Business Requirements – Use of Personal Information and Certain Location-Based Data. [Repealed]* ::
+*§ 75-23 Business Requirements – Use of Personal Information and Certain Location-Based Data. [Repealed]*
 
 
 
@@ -25618,7 +25618,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-24 Business Requirements – Cooperation with the Commission. [Repealed]* ::
+*§ 75-24 Business Requirements – Cooperation with the Commission. [Repealed]*
 
 
 
@@ -25628,7 +25628,7 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 
-*§ 75-25 Technical Requirements – Taxicab Technology System (TPEP). [Repealed]* ::
+*§ 75-25 Technical Requirements – Taxicab Technology System (TPEP). [Repealed]*
 
 
 
@@ -25637,21 +25637,11 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 Chapter 76: Information Security Rules For Taxicab Technology Service Providers [Repealed]
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 76-01 Scope of the Chapter. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 76-02 Definitions Specific to this Chapter. [Repealed]* ::
+*§ 76-01 Scope of the Chapter. [Repealed]*
 
 
 
@@ -25661,7 +25651,17 @@ Chapter 76: Information Security Rules For Taxicab Technology Service Providers 
 
 
 
-*§ 76-03 Information Security Requirements. [Repealed]* ::
+*§ 76-02 Definitions Specific to this Chapter. [Repealed]*
+
+
+
+
+
+
+
+
+
+*§ 76-03 Information Security Requirements. [Repealed]*
 
 
 
@@ -25670,11 +25670,11 @@ Chapter 76: Information Security Rules For Taxicab Technology Service Providers 
 
 
 Chapter 77: Licensing and Rules for Dispatch Service Providers
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 77-01 Scope of the Chapter.* ::
+*§ 77-01 Scope of the Chapter.*
 
 
 (a) To establish a formal procedure for the licensing and supervision of businesses that provide Dispatch Services.
@@ -25696,7 +25696,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-02 Penalties.* ::
+*§ 77-02 Penalties.*
 
 
 (a) Unlicensed Activity. Unlicensed Activity is the act of providing or advertising the provision of any service regulated by this chapter by:
@@ -25769,7 +25769,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-03 Definitions Specific to this Chapter.* ::
+*§ 77-03 Definitions Specific to this Chapter.*
 
 
 (a) Applicant in this Chapter means an Applicant for an original or renewal Dispatch Service Provider License. 
@@ -25805,7 +25805,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-04 Licensing – General Requirements.* ::
+*§ 77-04 Licensing – General Requirements.*
 
 
 (a) Applicants for Dispatch Service Provider License. An Applicant for a Dispatch Service Provider License or its renewal may be an individual or a Business Entity. 
@@ -25871,7 +25871,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-05 Licensing – Specific Requirements.* ::
+*§ 77-05 Licensing – Specific Requirements.*
 
 
 (a) Approval of Dispatch Service Providers – New License. The Commission will not issue a Dispatch Service Provider License to any Applicant unless the Commission approves the manner in which the Dispatch Service Provider provides Dispatch Service. In determining whether to approve the Dispatch Service Provider License, the Commission will consider, in its sole discretion, whether the documentation required to be submitted by the Applicant pursuant to subdivision (b) of this section adequately demonstrates that the manner in which the Dispatch Service Provider provides Dispatch Service complies with all of the requirements set forth in 35 RCNY § 77-20, or as such requirements may be waived or modified by the Commission pursuant to subdivision (f) of this section. 
@@ -25974,7 +25974,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-06 Licensing – Bond Required.* ::
+*§ 77-06 Licensing – Bond Required.*
 
 
 (a) Amount of Bond. An Applicant for an Dispatch Service Provider License or renewal must deposit or have deposited with the Commission a five thousand dollar ($5,000) bond, payable to the City of New York. The bond must be provided by one or more sureties approved by the Commission. 
@@ -25996,7 +25996,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-07 Licensing – Fees and Term of License.* ::
+*§ 77-07 Licensing – Fees and Term of License.*
 
 
 (a) Fee. Every application for a new or renewal Dispatch Service Provider License must be accompanied by a non-refundable application fee of $1,000 for each License to be issued or renewed. 
@@ -26036,7 +26036,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-08 Licensing – Cause for Denial, Suspension, or Revocation.* ::
+*§ 77-08 Licensing – Cause for Denial, Suspension, or Revocation.*
 
 
 (a) Failure to Continuously Comply. Whenever the Commission determines that the Dispatch Service Provider no longer meets the requirements for the Dispatch Service Provider License, the Commission may suspend or revoke the License and deny any application for renewal. 
@@ -26058,7 +26058,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-09 General Requirements – Unlicensed Activity.* ::
+*§ 77-09 General Requirements – Unlicensed Activity.*
 
 
 (a) Dispatch Service Provider License Required. An individual or Business Entity must not provide Dispatch Services in New York City or enroll any individual or Business Entity for the provision of Dispatch Services without a Valid Dispatch Service Provider License. 
@@ -26085,7 +26085,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-10 General Requirements – Compliance with Applicable Law.* ::
+*§ 77-10 General Requirements – Compliance with Applicable Law.*
 
 
 (a) Licenses and Permits. A Dispatch Service Provider must obtain licenses and permits required by applicable local, state or federal law. 
@@ -26118,7 +26118,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-11 General Requirements – Indemnification.* ::
+*§ 77-11 General Requirements – Indemnification.*
 
 
 (a) Infringement Indemnification. A Dispatch Service Provider Licensee must defend, indemnify and hold the City harmless from any and all third-party claims (even if the allegations of the lawsuit are without merit) or judgments for damages and from costs and expenses (including reasonable attorneys' fees) to which the City may be subjected or which it may suffer or incur allegedly arising out of or in connection with any infringement by the Dispatch Service Provider Licensee, its employees, agents or subcontractors of any copyright, trade secrets, trademark or patent rights or any other property or personal right of any third party in the conduct of the licensed activities. Insofar as the facts or law relating to any third-party claim would preclude the City from being completely indemnified by the Dispatch Service Provider Licensee, the City shall be partially indemnified by the Dispatch Service Provider Licensee to the fullest extent permitted by law. 
@@ -26147,7 +26147,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-12 General Requirements – Unlawful Activities Prohibited.* ::
+*§ 77-12 General Requirements – Unlawful Activities Prohibited.*
 
 
 (a) A Dispatch Service Provider Licensee must not file with the Commission any statement that he or she knows or reasonably should know to be false, misleading, deceptive, or materially incomplete. 
@@ -26174,7 +26174,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-13 General Requirements – Notice to TLC.* ::
+*§ 77-13 General Requirements – Notice to TLC.*
 
 
 (i)*   Material Change in Information. A Dispatch Service Provider Licensee must notify the Commission of any material change in the information contained in its current Dispatch Service Provider License application or renewal prior to implementing the change. 
@@ -26237,7 +26237,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-14 Business Requirements – Mailing and Email Address.* ::
+*§ 77-14 Business Requirements – Mailing and Email Address.*
 
 
 (a) Each Dispatch Service Provider must designate and provide to the Commission the street address of its primary Dispatch Service Provider location as its Mailing Address. 
@@ -26272,7 +26272,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-15 Business Requirements – Fees Charged by Dispatch Service Provider Licensees.* ::
+*§ 77-15 Business Requirements – Fees Charged by Dispatch Service Provider Licensees.*
 
 
 (a) Fares.
@@ -26321,7 +26321,7 @@ Chapter 77: Licensing and Rules for Dispatch Service Providers
 
 
 
-*§ 77-16 Business Requirements – Provision of Dispatch Services.* ::
+*§ 77-16 Business Requirements – Provision of Dispatch Services.*
 
 
 All of the following conditions apply with regard to a Dispatch Service Provider's provision of Dispatch Services: 
@@ -26352,7 +26352,7 @@ All of the following conditions apply with regard to a Dispatch Service Provider
 
 
 
-*§ 77-17 Business Requirements – Cooperation with the Commission.* ::
+*§ 77-17 Business Requirements – Cooperation with the Commission.*
 
 
 Upon request of the Commission, a Dispatch Service Provider must make availavle at no charge a fully operable any device through which the Dispatch Service Provider offers Dispatch Services, to either Passengers or Drivers, and access to any requisite Base, Driver, and Passenger test IDs. 
@@ -26379,7 +26379,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 
-*§ 77-18 Business Requirements – Dispatch Service Provider Liability for Conduct of Employees.* ::
+*§ 77-18 Business Requirements – Dispatch Service Provider Liability for Conduct of Employees.*
 
 
 (a) Liability for Employee Conduct. A Dispatch Service Provider must supervise and be responsible for the conduct of all of its employees, contractors, and agents for activities performed to carry out the requirements of this Chapter. This subdivision and subdivisions (b) and (c) of this section shall not be applicable to Drivers, or to individuals or business entities performing work for any Dispatch Service Provider or its subcontractor(s) who under applicable law are deemed to be independent contractors and not employees. 
@@ -26410,7 +26410,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 
-*§ 77-19 Comply with Laws – Conduct Rules.* ::
+*§ 77-19 Comply with Laws – Conduct Rules.*
 
 
 (a) Acceptance of Gift or Gratuity. A Dispatch Service Provider Licensee, any person acting on his or her behalf, or any of the Dispatch Service Provider's employees must not accept any gift, gratuity, or thing of value from an Owner or Driver of any vehicle licensed by the Commission or from anyone acting on behalf of an Owner or Driver for the purpose of violating any of these rules through acts of commission or omission. 
@@ -26570,7 +26570,7 @@ Upon request of the Commission, a Dispatch Service Provider must make availavle 
 
 
 
-*§ 77-20 Technical Requirements – Provision of Dispatch Service.* ::
+*§ 77-20 Technical Requirements – Provision of Dispatch Service.*
 
 
 No Dispatch Service Provider will be approved by the Commission pursuant to this Chapter unless the manner in which it provides Dispatch Service complies with the all of the requirements set forth in this section or as such requirements may be waived or modified by the Commission pursuant to 35 RCNY § 77-05(i). 
@@ -26782,11 +26782,11 @@ No Dispatch Service Provider will be approved by the Commission pursuant to this
 
 
 Chapter 78: Licensing and Rules for Providers of E-Hail Applications
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 78-01 Scope of the Chapter.* ::
+*§ 78-01 Scope of the Chapter.*
 
 
 (a) To establish a formal procedure for the licensing and supervision of businesses that sell, lease, or make available for use, software programs which are E-Hail Applications that reside on smartphones or other electronic devices.
@@ -26802,7 +26802,7 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
 
 
 
-*§ 78-02 Penalties.* ::
+*§ 78-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -26879,7 +26879,7 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
 
 
 
-*§ 78-03 Definitions Specific to this Chapter.* ::
+*§ 78-03 Definitions Specific to this Chapter.*
 
 
 (a) Applicant in this Chapter means an Applicant for an original or renewal E-Hail Application Provider License.
@@ -26943,7 +26943,7 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
 
 
 
-*§ 78-04 Licensing – General Requirements.* ::
+*§ 78-04 Licensing – General Requirements.*
 
 
 (a) E-Hail Application Licensees. An Applicant for an E-Hail Application Provider License or its renewal may be an individual or a Business Entity.
@@ -27005,7 +27005,7 @@ Chapter 78: Licensing and Rules for Providers of E-Hail Applications
 
 
 
-*§ 78-05 Licensing – Specific Requirements.* ::
+*§ 78-05 Licensing – Specific Requirements.*
 
 
 (a) E-Hail Application Approval for New License. The Commission will not issue an E-Hail Application Provider License to any Applicant unless the Commission approves the E-Hail Application proposed for sale, lease or use by the Applicant. In determining whether to approve the E-Hail Application, the Commission will consider, in its sole discretion, whether the documentation required to be submitted by the Applicant pursuant to subdivision (b) of this section adequately demonstrates that the E-Hail Application complies with all of the requirements set forth in 35 RCNY § 78-21, or as such requirements may be waived or modified by the Commission pursuant to subdivision (f) of this section.
@@ -27144,7 +27144,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-06 Licensing – Bond Required.* ::
+*§ 78-06 Licensing – Bond Required.*
 
 
 (a) Amount of Bond. An Applicant for an E-Hail Application Provider License or renewal must deposit or have deposited with the Commission a fifty thousand dollar ($50,000) bond per E-Hail Application, payable to the City of New York. The bond must be provided by one or more sureties approved by the Commission.
@@ -27164,7 +27164,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-07 Licensing – Fees and Term of License.* ::
+*§ 78-07 Licensing – Fees and Term of License.*
 
 
 (a) Fee. Every application for a new or renewal E-Hail Application Provider License must be accompanied by a non-refundable application fee of $500 for each License to be issued or renewed for the term as provided in subdivision (g) of this section.
@@ -27214,7 +27214,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-08 Licensing – Cause for Denial.* ::
+*§ 78-08 Licensing – Cause for Denial.*
 
 
 (a) Failure to Continuously Comply. Whenever the Commission determines that the E-Hail Application Provider no longer meets the requirements for the E-Hail Application Provider License, the Commission may suspend or revoke the License and deny any application for renewal.
@@ -27234,7 +27234,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-09 General Requirements – Unlicensed Activity.* ::
+*§ 78-09 General Requirements – Unlicensed Activity.*
 
 
 (a) E-Hail Application Provider License Required. An individual or Business Entity must not sell, lease, or make available for use in New York City an E-Hail Application or enroll any individual or Business Entity into an E-Hail Application without a Valid E-Hail Application Provider License.
@@ -27265,7 +27265,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-10 General Requirements – Compliance with Applicable Law.* ::
+*§ 78-10 General Requirements – Compliance with Applicable Law.*
 
 
 (a) Licenses and Permits. An E-Hail Application Provider Licensee must obtain licenses and permits required by applicable local, state or federal law.
@@ -27296,7 +27296,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-11 General Requirements – Indemnification.* ::
+*§ 78-11 General Requirements – Indemnification.*
 
 
 (a) General Indemnification. An E-Hail Application Provider Licensee must defend, indemnify and hold the City, its officers and employees harmless from any and all third-party claims (even if the allegations of the lawsuit are without merit) or judgments for damages on account of any injuries or death to any person or damage to any property and from costs and expenses (including reasonable attorneys' fees) to which the City, its officers and employees may be subjected or which it may suffer or incur allegedly arising out of any operations of the E-Hail Application Provider Licensee and/or its employees, agents or subcontractors in connection with any of the activities licensed under this Chapter to the extent resulting from any negligent act of commission or omission, any intentional tortious act, or failure to comply with any of the provisions of this Chapter. Insofar as the facts or law relating to any third-party claim would preclude the City from being completely indemnified by the E-Hail Application Provider Licensee, the City shall be partially indemnified by the E-Hail Application Provider Licensee to the fullest extent permitted by law.
@@ -27325,7 +27325,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-12 General Requirements – Unlawful Activities Prohibited.* ::
+*§ 78-12 General Requirements – Unlawful Activities Prohibited.*
 
 
 (a) An E-Hail Application Provider Licensee must not file with the Commission any statement that he or she knows or reasonably should know to be false, misleading, deceptive, or materially incomplete. 
@@ -27350,7 +27350,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-13 General Requirements – Notice to TLC.* ::
+*§ 78-13 General Requirements – Notice to TLC.*
 
 
 (a) Material Change in Information. An E-Hail Application Provider Licensee must notify the Commission of any material change in the information contained in its current E-Hail Application Provider License application or renewal. 
@@ -27409,7 +27409,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-14 Business Requirements – Mailing and Email Address.* ::
+*§ 78-14 Business Requirements – Mailing and Email Address.*
 
 
 (a) Each E-Hail Application Provider must designate and provide the Commission the street address of its primary E-Hail Application Provider location as its Mailing Address.
@@ -27442,7 +27442,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-15 Business Requirements – Fees Charged by E-Hail Application Provider Licensees.* ::
+*§ 78-15 Business Requirements – Fees Charged by E-Hail Application Provider Licensees.*
 
 
 (a) Tips and Gratuities.
@@ -27507,7 +27507,7 @@ If the E-Hail Application Provider fails to comply with the requirements of this
 
 
 
-*§ 78-16 Business Requirements – Use of E-Hail Application.* ::
+*§ 78-16 Business Requirements – Use of E-Hail Application.*
 
 
 All of the following conditions apply with regard to an E-Hail Application Provider's making an E-Hail Application available for use:
@@ -27536,7 +27536,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 
-*§ 78-17 Business Requirements – Compliance with E-Hail Application Requirements and Service Levels.* ::
+*§ 78-17 Business Requirements – Compliance with E-Hail Application Requirements and Service Levels.*
 
 
 (a) Credit, Debit, and Prepaid Card Payment.
@@ -27667,7 +27667,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 
-*§ 78-18 Business Requirements – Cooperation with the Commission.* ::
+*§ 78-18 Business Requirements – Cooperation with the Commission.*
 
 
 (a) Upon request of the Commission, an E-Hail Application Provider must provide at no charge a fully operable device on which the Commission can access the E-Hail Application, and access to the E-Hail Application with requisite Driver and Passenger test IDs. 
@@ -27692,7 +27692,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 
-*§ 78-19 Business Requirements – E-Hail Application Provider Liability for Conduct of Employees.* ::
+*§ 78-19 Business Requirements – E-Hail Application Provider Liability for Conduct of Employees.*
 
 
 (a) Liability for Employee Conduct. An E-Hail Application Provider must supervise and be responsible for the conduct of all of its employees, contractors, and agents for activities performed to carry out the requirements of this Chapter. For clarity, this subdivision and subdivision (b) of this section shall not be applicable to Drivers, or to individuals or business entities performing work for any E-Hail Application Provider or its subcontractor(s) who under applicable law are deemed to be independent contractors and not employees.
@@ -27721,7 +27721,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 
-*§ 78-20 Comply with Laws – Conduct Rules.* ::
+*§ 78-20 Comply with Laws – Conduct Rules.*
 
 
 (a) Acceptance of Gift or Gratuity. An E-Hail Application Provider Licensee or any person acting on his or her behalf must not accept any gift, gratuity, or thing of value from an Owner or Driver of any vehicle licensed by the Commission or from anyone acting on behalf of an Owner or Driver for the purpose of violating any of these rules through acts of commission or omission.
@@ -27883,7 +27883,7 @@ All of the following conditions apply with regard to an E-Hail Application Provi
 
 
 
-*§ 78-21 Technical Requirements – E-Hail Application.* ::
+*§ 78-21 Technical Requirements – E-Hail Application.*
 
 
 No E-Hail Application will be approved by the Commission pursuant to this Chapter unless it complies with the all of the requirements set forth in this section or as such requirements may be waived or modified by the Commission pursuant to 35 RCNY § 78-05(f).
@@ -28026,7 +28026,7 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 
 
 
-*§ 78-22 Information Security Requirements. [Repealed]* ::
+*§ 78-22 Information Security Requirements. [Repealed]*
 
 
 
@@ -28035,11 +28035,11 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 
 
 Chapter 80: Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 80-01 Scope of this Chapter.* ::
+*§ 80-01 Scope of this Chapter.*
 
 
 (a) To establish procedures for the licensing and regulation of Drivers Licensed by the Taxi and Limousine Commission to drive Taxicabs, For-Hire Vehicles, and Street Hail Liveries.
@@ -28055,7 +28055,7 @@ Chapter 80: Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries
 
 
 
-*§ 80-02 Penalties.* ::
+*§ 80-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -28129,7 +28129,7 @@ Chapter 80: Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries
 
 
 
-*§ 80-03 Definitions Specific to this Chapter.* ::
+*§ 80-03 Definitions Specific to this Chapter.*
 
 
 (a) Defined Terms are Capitalized. All terms defined in this Chapter or in 35 RCNY Chapter 51 (“Definitions”) appear in this text with the initial letter in each word of the term capitalized (Example: TLC Driver License, not TLC driver license.)
@@ -28187,7 +28187,7 @@ Chapter 80: Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries
 
 
 
-*§ 80-04 Licensing – Requirements.* ::
+*§ 80-04 Licensing – Requirements.*
 
 
 (a) Age. An Applicant for a TLC Driver License must be at least 19 years of age.
@@ -28363,7 +28363,7 @@ Chapter 80: Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries
 
 
 
-*§ 80-05 Licensing – Paratransit Driver Authorization to Drive a Street Hail Livery.* ::
+*§ 80-05 Licensing – Paratransit Driver Authorization to Drive a Street Hail Livery.*
 
 
 The holder of a Valid Paratransit Driver’s License is authorized to drive a Street Hail Livery for hire, subject to the provisions and requirements of this chapter, including that the Paratransit Driver meets the eligibility requirements of this Chapter and that the Paratransit Driver complies with all requirements in this Chapter while operating a Street Hail Livery, BUT:
@@ -28379,7 +28379,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-06 Licensing – Term of License.* ::
+*§ 80-06 Licensing – Term of License.*
 
 
 (a) License Term. A License issued to a new Applicant will expire three years from the date the License was issued.
@@ -28419,7 +28419,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-07 Licensing – Fees.* ::
+*§ 80-07 Licensing – Fees.*
 
 
 (a) Fee for License. The fee for a TLC Driver License will be $84 annually.
@@ -28441,7 +28441,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-08 Licensing – Process and Causes for Denial of License.* ::
+*§ 80-08 Licensing – Process and Causes for Denial of License.*
 
 
 (a) Fit to Hold a License - Applicant. The Chairperson will deny the original or renewal License of any Applicant who fails to demonstrate that the Applicant is Fit to Hold a License. The Chairperson will inform the Applicant, in writing, of the specific reason(s) for this denial. The decision to deny a license Application is in the discretion of the Chairperson.
@@ -28503,7 +28503,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-09 [Reserved]* ::
+*§ 80-09 [Reserved]*
 
 
 (a) Loss or Theft of License. A Driver must notify the Commission in writing of the loss or theft of his or her TLC Driver License within 72 hours (not counting weekends and holidays).
@@ -28615,7 +28615,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-11 Comply with Laws – Unlicensed Activity.* ::
+*§ 80-11 Comply with Laws – Unlicensed Activity.*
 
 
 (a) Driver Must Have Valid TLC Driver License.
@@ -28756,7 +28756,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-12 Comply with Laws – Proper Conduct.* ::
+*§ 80-12 Comply with Laws – Proper Conduct.*
 
 
 (a) Bribery.
@@ -29117,7 +29117,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-13 Comply with Laws – Traffic Laws &amp; Miscellaneous.* ::
+*§ 80-13 Comply with Laws – Traffic Laws &amp; Miscellaneous.*
 
 
 (a) Comply with Traffic Laws. Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries (including any authorized driver of a Paratransit Vehicle while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations. Drivers of Taxicabs, For-Hire Vehicles and Street Hail Liveries (including any authorized Driver of a Paratransit Vehicle while driving a Street Hail Livery) are subject to additional fines and penalties that will be imposed by the Commission for violating the traffic laws as follows:
@@ -29384,7 +29384,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-14 Operations – Passenger and Driver Safety.* ::
+*§ 80-14 Operations – Passenger and Driver Safety.*
 
 
 (a) Reckless Driving Rule. A Driver must not operate his or her Vehicle in a manner that would violate section 1212 of the NYS Vehicle and Traffic Law.
@@ -29616,7 +29616,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-15 Operations – General Rules During Operation of Vehicle.* ::
+*§ 80-15 Operations – General Rules During Operation of Vehicle.*
 
 
 (a) No Weapons. While operating a Vehicle, a Driver must not have a Weapon or any other instrument intended to be used as a weapon in his or her possession or in the Vehicle without the written permission of the Chairperson.
@@ -29875,7 +29875,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-16 Operations – Comply with Reasonable Passenger Requests.* ::
+*§ 80-16 Operations – Comply with Reasonable Passenger Requests.*
 
 
 (a) Specific Route. The Driver must comply with all reasonable and lawful routing requests of the Passenger. Unless a Passenger makes a specific request, a Driver must proceed to the Passenger’s destination by the shortest reasonable route.
@@ -30057,7 +30057,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-17 Operations – Rates, Charges and Payment.* ::
+*§ 80-17 Operations – Rates, Charges and Payment.*
 
 
 (a) No Overcharges.
@@ -30451,7 +30451,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-18 Operations – Lost Property.* ::
+*§ 80-18 Operations – Lost Property.*
 
 
 (a) Inspection Following Trips to and from Airports. Immediately after completing a trip to Kennedy, La Guardia or Newark Airports, the Driver must inspect the interior of the Vehicle and the trunk compartment, if used, to ensure that Passengers have collected their property.
@@ -30533,7 +30533,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-19 Operations – Passenger Solicitation and Engagement.* ::
+*§ 80-19 Operations – Passenger Solicitation and Engagement.*
 
 
 (a) Limits on Driver Solicitation of Passengers in Taxicabs.
@@ -31022,7 +31022,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-20 Operations – Refusing Passengers.* ::
+*§ 80-20 Operations – Refusing Passengers.*
 
 
 (a) Must Not Refuse to Transport Passengers. Unless the Driver has justifiable grounds, the Driver must not refuse to transport in any of the following circumstances:
@@ -31177,7 +31177,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-21 Operations – Drivers from Issuing Jurisdictions.* ::
+*§ 80-21 Operations – Drivers from Issuing Jurisdictions.*
 
 
 (a) Eligibility for Reciprocal Recognition. A driver holding a Valid Issuing Jurisdiction driver’s license (a IDL) will be eligible for Reciprocity, provided that the driver meets all of the following requirements:
@@ -31303,7 +31303,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-22 Vehicles – Operation and Condition.* ::
+*§ 80-22 Vehicles – Operation and Condition.*
 
 
 (a) 3-Minute Idle. Drivers must comply with the New York City Air Pollution Control Code, including the provision that the Driver must not cause or permit the engine of the Vehicle to idle for longer than three minutes.
@@ -31474,7 +31474,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-23 Vehicles – Required Items in Taxicabs and Street Hail Liveries.* ::
+*§ 80-23 Vehicles – Required Items in Taxicabs and Street Hail Liveries.*
 
 
 (a) A Driver must not operate a Taxicab or Street Hail Livery unless the Vehicle is equipped or provided with the following:
@@ -31590,7 +31590,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-24 Vehicles – Required Items in For-Hire Vehicles.* ::
+*§ 80-24 Vehicles – Required Items in For-Hire Vehicles.*
 
 
 (a) Licenses and Certificates. A Driver must not operate a For-Hire Vehicle without the following:
@@ -31661,7 +31661,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-25 Vehicles – Technology System Operation.* ::
+*§ 80-25 Vehicles – Technology System Operation.*
 
 
 (a) A Driver is required to log in and operate the Technology System for each trip in a Taxicab, including those trips that begin with the use of an E-Hail Application.
@@ -31904,7 +31904,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-26 Vehicle – Taxicab and Street Hail Livery Taximeters and Roof Lights.* ::
+*§ 80-26 Vehicle – Taxicab and Street Hail Livery Taximeters and Roof Lights.*
 
 
 (a) Taximeter Condition.
@@ -32240,7 +32240,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 
-*§ 80-27 Special Driver Penalty Programs.* ::
+*§ 80-27 Special Driver Penalty Programs.*
 
 
 (a) Critical Driver’s Program (“Points” in this subdivision refers to points assessed by the Department of Motor Vehicles). In addition to any other action the Commission might take, the following penalties will be enforced as part of the Commission’s Critical Driver’s Program:
@@ -32307,7 +32307,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
 
 Chapter 82: Street Hail Livery Service
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -32316,7 +32316,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-01 Subchapter A: Scope of this Subchapter.* ::
+*§ 82-01 Subchapter A: Scope of this Subchapter.*
 
 
 (a) To establish the procedures and requirements for obtaining a Street Hail Livery License
@@ -32330,7 +32330,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-02 Penalties.* ::
+*§ 82-02 Penalties.*
 
 
 (a) Unlicensed Activity.
@@ -32364,7 +32364,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-03 Definitions Specific to this Chapter.* ::
+*§ 82-03 Definitions Specific to this Chapter.*
 
 
 (a) Applicant in this chapter means the individual or Business Entity applying for an original or renewal Street Hail Livery License under this Chapter in whose name the License applied for will be issued.
@@ -32408,7 +32408,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-04 Licensing – General Requirements.* ::
+*§ 82-04 Licensing – General Requirements.*
 
 
 (a) Identification. An individual or all Business Entity Persons of a Business Entity applying for a Street Hail Livery License must provide to the Commission:
@@ -32472,7 +32472,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-05 Licensing – Issuance of Street Hail Livery Licenses.* ::
+*§ 82-05 Licensing – Issuance of Street Hail Livery Licenses.*
 
 
 (a) Application for License. An Applicant for a Street Hail Livery License must file an application on the form specified by the Commission and provide all documentation required.
@@ -32490,7 +32490,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-06 Licensing – Special Requirements.* ::
+*§ 82-06 Licensing – Special Requirements.*
 
 
 (a) Only One Street Hail Livery License.
@@ -32602,7 +32602,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-07 Licensing – Term of License.* ::
+*§ 82-07 Licensing – Term of License.*
 
 
 (a) New License. The term of a new Street Hail Livery License is three years.
@@ -32642,7 +32642,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-08 Licensing – Fees.* ::
+*§ 82-08 Licensing – Fees.*
 
 
 (a) Street Hail Livery License Fee.
@@ -32700,7 +32700,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-09 Licensing – Causes for Denial.* ::
+*§ 82-09 Licensing – Causes for Denial.*
 
 
 (a) Failure to Meet Requirements. The Commission can deny the application for a License or its renewal of any Applicant who fails to meet the requirements of these rules. The Commission will inform the Applicant, in writing, of the specific reason(s) for this denial.
@@ -32770,7 +32770,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-10 Licensing – Transfer of Vehicle License to a New Vehicle.* ::
+*§ 82-10 Licensing – Transfer of Vehicle License to a New Vehicle.*
 
 
 (a) Transfer of Vehicle License to a New Vehicle.
@@ -32786,7 +32786,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-11 Licensing – Care of Licenses.* ::
+*§ 82-11 Licensing – Care of Licenses.*
 
 
 (a) Unauthorized Entries. No unauthorized entry can be made on the Street Hail Livery License or the Decal(s). No entry on the Street Hail Livery License or Decal(s) can be changed or defaced. 
@@ -32935,7 +32935,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-12 Compliance with Law – No Unlicensed Activity.* ::
+*§ 82-12 Compliance with Law – No Unlicensed Activity.*
 
 
 (a) No Unlicensed Street Hail Liveries. A Licensee must ensure that when the Licensee's Street Hail Livery is in operation for hire it is in use with a Vehicle which has a Valid License. 
@@ -33128,7 +33128,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-13 Compliance with Law – No Street Hail Livery Service Inside Hail Exclusionary Zone.* ::
+*§ 82-13 Compliance with Law – No Street Hail Livery Service Inside Hail Exclusionary Zone.*
 
 
 (a) Street Hail Livery Operation.
@@ -33182,7 +33182,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-14 Compliance with Law – Insurance Coverage.* ::
+*§ 82-14 Compliance with Law – Insurance Coverage.*
 
 
 (a) Maintain Insurance Coverage.
@@ -33379,7 +33379,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-15 Compliance With Laws – Workers' Compensation.* ::
+*§ 82-15 Compliance With Laws – Workers' Compensation.*
 
 
 (a) A Street Hail Livery Licensee must comply with the NYS Workers Compensation Law.
@@ -33389,7 +33389,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-16 Compliance with Law – Personal Conduct.* ::
+*§ 82-16 Compliance with Law – Personal Conduct.*
 
 
 (a) Bribery.
@@ -33703,7 +33703,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-17 Compliance with Law – Miscellaneous.* ::
+*§ 82-17 Compliance with Law – Miscellaneous.*
 
 
 (a) Compliance with Commission Rules and Regulations, Generally. The Licensee must comply with the Commission's Street Hail Livery specifications, the Marking Specifications for Street Hail Liveries, all pertinent provisions of the Administrative Code and other laws, rules or regulations governing Street Hail Livery Licensees. 
@@ -33912,7 +33912,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-18 Operations – Management Oversight.* ::
+*§ 82-18 Operations – Management Oversight.*
 
 
 (a) Direct Licensee Operations. The Commission will hold the Licensee accountable for operation of the Street Hail Livery.
@@ -33951,7 +33951,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-19 Operations – Service Requirements (Customers).* ::
+*§ 82-19 Operations – Service Requirements (Customers).*
 
 
 (a) No Required Ride-Sharing. A Street Hail Livery Licensee may not require that any prospective Passenger share a ride with another prospective Passenger. 
@@ -33976,7 +33976,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-20 Operations – Responsibilities with Respect to Drivers.* ::
+*§ 82-20 Operations – Responsibilities with Respect to Drivers.*
 
 
 (a) Wheelchair Passenger Assistance Training.
@@ -34003,7 +34003,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-21 Leasing a Street Hail Livery License or Street Hail Livery. [Reserved]* ::
+*§ 82-21 Leasing a Street Hail Livery License or Street Hail Livery. [Reserved]*
 
 
 (a) Trip Record.
@@ -34122,7 +34122,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-23 Records – Contact Information.* ::
+*§ 82-23 Records – Contact Information.*
 
 
 (a) Mailing Addresses.
@@ -34195,7 +34195,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-24 Records – Maintenance Requirements.* ::
+*§ 82-24 Records – Maintenance Requirements.*
 
 
 (a) All Licensees must maintain the following additional records for a period of three years: (1) Drivers' electronic and written trip records;
@@ -34249,7 +34249,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-25 Reporting Requirements.* ::
+*§ 82-25 Reporting Requirements.*
 
 
 (a) Report Change in Status.
@@ -34295,7 +34295,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-26 Operations – Rates and Tolls.* ::
+*§ 82-26 Operations – Rates and Tolls.*
 
 
 (a) Metered Rate of Fare When Accepting Passengers by Hail.
@@ -34460,7 +34460,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-27 Operations – EZ-Pass® Required.* ::
+*§ 82-27 Operations – EZ-Pass® Required.*
 
 
 (a) EZ-Pass® Account.
@@ -34516,7 +34516,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-28 Operations. [Reserved]* ::
+*§ 82-28 Operations. [Reserved]*
 
 
 (a) Passenger Trips by Pre-Arrangement.
@@ -34579,7 +34579,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-30 Vehicle Condition – Inspections.* ::
+*§ 82-30 Vehicle Condition – Inspections.*
 
 
 (a) Required Inspections. No new or replacement Street Hail Livery can operate for hire unless it has been inspected and approved by the Commission. 
@@ -34643,7 +34643,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-31 Vehicle Condition – Meet Safety Standards.* ::
+*§ 82-31 Vehicle Condition – Meet Safety Standards.*
 
 
 (a) While a Street Hail Livery is in operation, all equipment, including brakes, tires, lights and signals must be in good working order and meet all requirements of the New York State Vehicle and Traffic Law, and the Rules of the Commission. 
@@ -34710,7 +34710,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-32 Vehicle Condition – Miscellaneous.* ::
+*§ 82-32 Vehicle Condition – Miscellaneous.*
 
 
 (a) Clean. The Street Hail Livery's exterior and interior must be clean. 
@@ -35006,7 +35006,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-33 Vehicle – Markings &amp; Advertising.* ::
+*§ 82-33 Vehicle – Markings &amp; Advertising.*
 
 
 (a) Approved Exterior Markings.
@@ -35363,7 +35363,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-34 Vehicles – Items Required in Vehicle.* ::
+*§ 82-34 Vehicles – Items Required in Vehicle.*
 
 
 (a) The following must be present in the Street Hail Livery while it is in operation for hire:
@@ -35414,7 +35414,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-35 Vehicle Equipment.* ::
+*§ 82-35 Vehicle Equipment.*
 
 
 (a) Roof Light. A roof light is required on all Street Hail Liveries, as required by the Hack-Up specifications in Subchapter B of this Chapter; the Street Hail Livery Licensee must ensure compliance with the following:
@@ -35523,7 +35523,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-36 Vehicle Equipment – Partitions.* ::
+*§ 82-36 Vehicle Equipment – Partitions.*
 
 
 (a) Requirement. A Street Hail Livery must be equipped with a partition that isolates the Driver from the rear seat Passengers and meets the requirements set forth in Subchapter B of these Rules. 
@@ -35581,7 +35581,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-37 Vehicle Equipment – In Vehicle Camera System (IVCS).* ::
+*§ 82-37 Vehicle Equipment – In Vehicle Camera System (IVCS).*
 
 
 (a) When an existing in-vehicle camera system is required to be replaced or when the system is installed, the Street Hail Livery must be equipped with an IVCS that meets the specifications of Subchapter B; the system must be installed and maintained by the manufacturer's authorized installer or a Taximeter Business that meets the requirements of Subchapter B; and the IVCS must be functioning and maintained in good working order. 
@@ -35640,7 +35640,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-38 Vehicle Equipment – Taximeters.* ::
+*§ 82-38 Vehicle Equipment – Taximeters.*
 
 
 (a) Taximeter Requirements. A Street Hail Livery Licensee must equip the Street Hail Livery with a Taximeter subject to the following conditions:
@@ -35767,7 +35767,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-39 Vehicle Equipment – Taximeter Defects.* ::
+*§ 82-39 Vehicle Equipment – Taximeter Defects.*
 
 
 (a) No Defects in Taximeter or Installation. A Street Hail Livery must not be in service for hire with a defective Taximeter or a Taximeter that has been improperly installed.
@@ -35817,7 +35817,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-40 Vehicle Equipment – Taximeter &amp; Technology System Tampering.* ::
+*§ 82-40 Vehicle Equipment – Taximeter &amp; Technology System Tampering.*
 
 
 (a) Unauthorized Tampering. Unless authorized by the Commission, no person may tamper with, alter, repair or attempt to repair any portion of the Taximeter system that would affect the operation of the Taximeter or the Technology System, including, but not limited to:
@@ -35997,7 +35997,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-41 Vehicle Equipment – Technology System Installation.* ::
+*§ 82-41 Vehicle Equipment – Technology System Installation.*
 
 
 (a) Required Installation. A Licensee must ensure that the Street Hail Livery operating under a Street Hail Livery License is equipped with a Technology System approved by the Commission pursuant to 35 RCNY Chapter 66. 
@@ -36027,7 +36027,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-42 Vehicle Equipment – Technology System Operation.* ::
+*§ 82-42 Vehicle Equipment – Technology System Operation.*
 
 
 (a) Good Working Order. Licensees must ensure that the Technology System equipment is constantly maintained and is in good working order. 
@@ -36099,7 +36099,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-43 Penalty Points for For-Hire Vehicles.* ::
+*§ 82-43 Penalty Points for For-Hire Vehicles.*
 
 
 (a) Four Penalty Points Requires License Revocation. The License of any Street Hail Livery that accumulates four penalty points for violations during any License term will be revoked.
@@ -36123,7 +36123,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-44 License Transfers – Generally.* ::
+*§ 82-44 License Transfers – Generally.*
 
 
 (a) Applicability of the "License Transfers" Sections.
@@ -36218,7 +36218,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-45 License Transfers – Special Requirements.* ::
+*§ 82-45 License Transfers – Special Requirements.*
 
 
 (a) Personal Appearance.
@@ -36301,7 +36301,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-46 Subchapter B: Scope of this Subchapter.* ::
+*§ 82-46 Subchapter B: Scope of this Subchapter.*
 
 
 (a) To establish the standards and requirements for preparing a vehicle for Street Hail Livery Licensing, and
@@ -36313,7 +36313,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-47 Penalties.* ::
+*§ 82-47 Penalties.*
 
 
 (a) This Subhapter is informational in nature and does not contain penalties. Penalties for failure to follow the rules established in this Subchapter will be found in Subchapter A of this Chapter and 35 RCNY Chapter 80 which establish specific requirements for Street Hail Livery Drivers and Licensees.
@@ -36325,7 +36325,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-48 Definitions Specific to this Subchapter.* ::
+*§ 82-48 Definitions Specific to this Subchapter.*
 
 
 (a) Safety and Emissions Inspection means the required vehicle inspections conducted at the Commission's inspection facility.
@@ -36335,7 +36335,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-49 Standard Specifications for Street Hail Liveries. [Reserved]* ::
+*§ 82-49 Standard Specifications for Street Hail Liveries. [Reserved]*
 
 
 (a) An Accessible Street Hail Livery must be designed for the purpose of transporting persons in wheelchairs or must contain a physical device or alteration designed to permit access to and enable the transportation of persons in wheelchairs in accordance with the Americans With Disabilities Act.
@@ -36347,7 +36347,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-51 Requirements for Hacking Up a Street Hail Livery.* ::
+*§ 82-51 Requirements for Hacking Up a Street Hail Livery.*
 
 
 (a) A vehicle that is currently licensed as a for-hire vehicle as of July 1, 2013 or thereafter can be hacked up for use as a Street Hail Livery.
@@ -36359,7 +36359,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-52 Requirements for Hack-up – Paint, Finish and Lighting.* ::
+*§ 82-52 Requirements for Hack-up – Paint, Finish and Lighting.*
 
 
 (a) Apple Green. The exterior of the vehicle must be painted Apple Green (paint codes Dupont – GS028 or PPG – 502757 or similar), except for the trim. Samples of paint color and code are to be submitted to the Chair for approval if not those specified.
@@ -36375,7 +36375,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-53 Requirements for Hack-up – Occupant Accommodation. [Reserved]* ::
+*§ 82-53 Requirements for Hack-up – Occupant Accommodation. [Reserved]*
 
 
 (a) Requirement. The vehicle must be equipped with a sealed, tamper-resistant Taximeter installed by a Licensed Taximeter Business according to the rules and regulations in 35 RCNY Chapter 64. The Taximeter must be installed in a location approved by the Chairperson which allows safe operation of the vehicle and visibility to the passenger.
@@ -36403,7 +36403,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-55 Requirements for Hack-up – Technology System.* ::
+*§ 82-55 Requirements for Hack-up – Technology System.*
 
 
 (a) Requirement. The vehicle must be equipped with a Technology System approved by the Commission pursuant to 35 RCNY Chapter 66 and installed by a Technology System Provider in accordance with 35 RCNY Chapter 66.
@@ -36417,7 +36417,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-56 Requirements for Hack-up – Partitions.* ::
+*§ 82-56 Requirements for Hack-up – Partitions.*
 
 
 (a) Requirement.
@@ -36461,7 +36461,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-57 Requirements for Hack-up – Distress Signal Lights.* ::
+*§ 82-57 Requirements for Hack-up – Distress Signal Lights.*
 
 
 (a) Requirement. A Licensee must equip the Street Hail Livery with a help or distress signaling light system consisting of two turn signal type "lollipop" lights.
@@ -36483,7 +36483,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-58 Requirements for Hack-up – In-Vehicle Camera System ("IVCS").* ::
+*§ 82-58 Requirements for Hack-up – In-Vehicle Camera System ("IVCS").*
 
 
 (a) Requirement. When an existing IVCS is required to be replaced or when an IVCS system is installed (including, but not limited to, at Hack-up), it must be functioning and in good working order and meet the specifications and installation requirements below.
@@ -36559,7 +36559,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-59 Requirements for Hack-up – Credential Holders.* ::
+*§ 82-59 Requirements for Hack-up – Credential Holders.*
 
 
 (a) Requirement. A credential holder must be mounted behind the driver in the vehicle in a manner that does not block the driver's view. The holder will be on the partition if there is a partition, or on the headrest if there is no partition.
@@ -36581,7 +36581,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-60 Requirements for Hack-up – Air Conditioning.* ::
+*§ 82-60 Requirements for Hack-up – Air Conditioning.*
 
 
 (a) Requirement. All vehicles must be equipped with an air conditioner. The air conditioner must be in good working condition from May 1st through September 30th each year. In vehicles equipped with a partition, the air conditioner must include an auxiliary unit for the rear seating area.
@@ -36597,7 +36597,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-61 Scheduled Vehicle Retirement. [Reserved]* ::
+*§ 82-61 Scheduled Vehicle Retirement. [Reserved]*
 
 
 (a) Authorized Rooftop Advertising Fixture.
@@ -36670,7 +36670,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-64 Scope of this Subchapter.* ::
+*§ 82-64 Scope of this Subchapter.*
 
 
 (a) To establish the standards and requirements for persons applying for a grant to purchase or upfit a vehicle to be used as an Accessible Street Hail Livery.
@@ -36684,7 +36684,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-65 Definitions Specific to this Subchapter.* ::
+*§ 82-65 Definitions Specific to this Subchapter.*
 
 
 (a) Accessible Vehicle in this subchapter means a Vehicle to be used as an Accessible Street Hail Livery.
@@ -36720,7 +36720,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-66 Grant Eligibility.* ::
+*§ 82-66 Grant Eligibility.*
 
 
 (a) An individual or Business Entity which holds or is applying for an Accessible Street Hail Livery License is eligible to apply for a Grant.
@@ -36732,7 +36732,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-67 Grant Application.* ::
+*§ 82-67 Grant Application.*
 
 
 (a) Accessible SHL License required. No Grant will be issued to any person or Business Entity which does not hold an Accessible Street Hail Livery License.
@@ -36766,7 +36766,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-68 Grant Amounts and Payments.* ::
+*§ 82-68 Grant Amounts and Payments.*
 
 
 (a) Grant Amounts.
@@ -36800,7 +36800,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-69 Grantee Requirements.* ::
+*§ 82-69 Grantee Requirements.*
 
 
 (a) Services.
@@ -36828,7 +36828,7 @@ Chapter 82: Street Hail Livery Service
 
 
 
-*§ 82-70 Street Hail Livery Improvement Fund Review.* ::
+*§ 82-70 Street Hail Livery Improvement Fund Review.*
 
 
 (a) The TLC will review the Street Hail Livery Improvement Fund annually, by no later than the end of April, beginning in 2017, to assess the adequacy of the Fund, the uses of the Fund, and the surcharge funding the Fund receives, and will produce a report annually with the result of its assessment and recommendations and analysis. Such recommendations and analysis shall include but not be limited to the following: (i) whether the current surcharge should be lowered, raised or kept the same; (ii) a review of possible alternate sources of funding for the Fund other than the surcharge; and (iii) the costs incurred by Owners and Drivers that are required to purchase and operate Accessible Vehicles as opposed to those Owners and Drivers who are not so required. Such report shall be submitted to the Speaker of the NYC Council and posted on TLC's website upon completion of the report.
@@ -36841,11 +36841,11 @@ Chapter 82: Street Hail Livery Service
 
 
 Chapter 83: Licensing and Rules For Street Hail Livery Technology System Providers [Repealed]
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 83-01 Scope of the Chapter. [Repealed]* ::
+*§ 83-01 Scope of the Chapter. [Repealed]*
 
 
 
@@ -36855,7 +36855,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-02 Penalties. [Repealed]* ::
+*§ 83-02 Penalties. [Repealed]*
 
 
 
@@ -36865,7 +36865,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-03 Definitions Specific to this Chapter. [Repealed]* ::
+*§ 83-03 Definitions Specific to this Chapter. [Repealed]*
 
 
 
@@ -36875,7 +36875,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-04 Licensing – General Requirements. [Repealed]* ::
+*§ 83-04 Licensing – General Requirements. [Repealed]*
 
 
 
@@ -36885,7 +36885,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-05 Licensing – Specific Requirements. [Repealed]* ::
+*§ 83-05 Licensing – Specific Requirements. [Repealed]*
 
 
 
@@ -36895,7 +36895,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-06 Licensing – Bond Required. [Repealed]* ::
+*§ 83-06 Licensing – Bond Required. [Repealed]*
 
 
 
@@ -36905,7 +36905,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-07 Licensing – Financial Disclosure. [Repealed]* ::
+*§ 83-07 Licensing – Financial Disclosure. [Repealed]*
 
 
 
@@ -36915,7 +36915,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-08 Licensing – Fees and Term of License. [Repealed]* ::
+*§ 83-08 Licensing – Fees and Term of License. [Repealed]*
 
 
 
@@ -36925,7 +36925,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-09 Licensing – Cause for Denial. [Repealed]* ::
+*§ 83-09 Licensing – Cause for Denial. [Repealed]*
 
 
 
@@ -36935,7 +36935,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-10 General Requirements – Unlicensed Activity. [Repealed]* ::
+*§ 83-10 General Requirements – Unlicensed Activity. [Repealed]*
 
 
 
@@ -36945,7 +36945,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-11 General Requirements – Compliance with Applicable Law. [Repealed]* ::
+*§ 83-11 General Requirements – Compliance with Applicable Law. [Repealed]*
 
 
 
@@ -36955,7 +36955,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-12 General Requirements – Indemnification. [Repealed]* ::
+*§ 83-12 General Requirements – Indemnification. [Repealed]*
 
 
 
@@ -36965,7 +36965,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-13 Business Requirements – Premises. [Repealed]* ::
+*§ 83-13 Business Requirements – Premises. [Repealed]*
 
 
 
@@ -36975,7 +36975,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-14 Business Requirements – Signage. [Repealed]* ::
+*§ 83-14 Business Requirements – Signage. [Repealed]*
 
 
 
@@ -36985,7 +36985,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-15 General Requirements – Unlawful Activities Prohibited. [Repealed]* ::
+*§ 83-15 General Requirements – Unlawful Activities Prohibited. [Repealed]*
 
 
 
@@ -36995,7 +36995,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-16 General Requirements – Notice to TLC. [Repealed]* ::
+*§ 83-16 General Requirements – Notice to TLC. [Repealed]*
 
 
 
@@ -37005,7 +37005,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-17 Business Requirements – Mailing and Email Address. [Repealed]* ::
+*§ 83-17 Business Requirements – Mailing and Email Address. [Repealed]*
 
 
 
@@ -37015,7 +37015,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-18 Business Requirements – Change in Business Ownership. [Repealed]* ::
+*§ 83-18 Business Requirements – Change in Business Ownership. [Repealed]*
 
 
 
@@ -37025,7 +37025,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-19 Business Requirements – Fees Charged by Licensees. [Repealed]* ::
+*§ 83-19 Business Requirements – Fees Charged by Licensees. [Repealed]*
 
 
 
@@ -37035,7 +37035,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-20 Business Requirements – Sale, Lease or Use of Street Hail Livery Technology Program (LPEP). [Repealed]* ::
+*§ 83-20 Business Requirements – Sale, Lease or Use of Street Hail Livery Technology Program (LPEP). [Repealed]*
 
 
 
@@ -37045,7 +37045,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-21 Business Requirements – Contract with Street Hail Livery Licensee. [Repealed]* ::
+*§ 83-21 Business Requirements – Contract with Street Hail Livery Licensee. [Repealed]*
 
 
 
@@ -37055,7 +37055,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-22 Business Requirements – Maintenance of LPEP. [Repealed]* ::
+*§ 83-22 Business Requirements – Maintenance of LPEP. [Repealed]*
 
 
 
@@ -37065,7 +37065,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-23 Business Requirements – Compliance with LPEP Requirements and Service Levels. [Repealed]* ::
+*§ 83-23 Business Requirements – Compliance with LPEP Requirements and Service Levels. [Repealed]*
 
 
 
@@ -37075,7 +37075,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-24 Business Requirements – Credit for Performance Failures. [Repealed]* ::
+*§ 83-24 Business Requirements – Credit for Performance Failures. [Repealed]*
 
 
 
@@ -37085,7 +37085,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-25 Business Requirements – Record-Keeping and Reporting Requirements. [Repealed]* ::
+*§ 83-25 Business Requirements – Record-Keeping and Reporting Requirements. [Repealed]*
 
 
 
@@ -37095,7 +37095,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-26 Business Requirements – Use of Personal Information and Certain Location-Based Data. [Repealed]* ::
+*§ 83-26 Business Requirements – Use of Personal Information and Certain Location-Based Data. [Repealed]*
 
 
 
@@ -37105,7 +37105,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-27 Business Requirements – Cooperation with the Commission. [Repealed]* ::
+*§ 83-27 Business Requirements – Cooperation with the Commission. [Repealed]*
 
 
 
@@ -37115,7 +37115,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-28 Business Requirements – Notifications to TLC of Unauthorized or Illegal Activity. [Repealed]* ::
+*§ 83-28 Business Requirements – Notifications to TLC of Unauthorized or Illegal Activity. [Repealed]*
 
 
 
@@ -37125,7 +37125,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-29 Business Requirements – LPEP Provider Liability for Conduct of Employees. [Repealed]* ::
+*§ 83-29 Business Requirements – LPEP Provider Liability for Conduct of Employees. [Repealed]*
 
 
 
@@ -37135,7 +37135,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-30 Comply with Laws – Conduct Rules. [Repealed]* ::
+*§ 83-30 Comply with Laws – Conduct Rules. [Repealed]*
 
 
 
@@ -37145,7 +37145,7 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 
-*§ 83-31 Technical Requirements – Street Hail Livery Technology System (LPEP). [Repealed]* ::
+*§ 83-31 Technical Requirements – Street Hail Livery Technology System (LPEP). [Repealed]*
 
 
 
@@ -37154,21 +37154,11 @@ Chapter 83: Licensing and Rules For Street Hail Livery Technology System Provide
 
 
 Chapter 84: Information Security Rules For Street Hail Livery Technology System Providers [Repealed]
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 84-01 Scope of the Chapter. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 84-02 Definitions Specific to this Chapter. [Repealed]* ::
+*§ 84-01 Scope of the Chapter. [Repealed]*
 
 
 
@@ -37178,7 +37168,17 @@ Chapter 84: Information Security Rules For Street Hail Livery Technology System 
 
 
 
-*§ 84-03 Information Security Requirements. [Repealed]* ::
+*§ 84-02 Definitions Specific to this Chapter. [Repealed]*
+
+
+
+
+
+
+
+
+
+*§ 84-03 Information Security Requirements. [Repealed]*
 
 
 

@@ -1,10 +1,10 @@
 Chapter 16: Heads of Mayoral Agencies
-===================================================
+======================================================================================================
 Section 385.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 385. Heads of mayoral agencies.* ::
+*Section 385. Heads of mayoral agencies.*
 
 
 a. This chapter shall apply to heads of agencies holding office upon appointment of the mayor and to heads of those units within the executive office of the mayor designated by the mayor to be covered by the provisions of the chapter. It shall not apply to agencies headed by boards, commissions, or other multi-member bodies whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies. References in this chapter to other sections of the charter shall not be construed to affect the applicability of those sections to officials and agencies not subject to this chapter.
@@ -15,10 +15,10 @@ b. Except as otherwise provided by law, all functions, powers and duties assigne
 
 
 Section 386.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 386. Planning, advising, coordinating activities.* ::
+*Section 386. Planning, advising, coordinating activities.*
 
 
 a. In the areas under their jurisdiction, heads of mayoral agencies shall have the power and duty to (1) review, analyze, and evaluate the needs of the city; (2) prepare and submit to the mayor and other appropriate governmental authorities short term, intermediate, and long range plans and programs to meet the needs of the city; (3) develop, implement, and maintain systems to collect, store, and disseminate data; and (4) conduct research and studies to aid in planning and developing policies and programs.
@@ -31,10 +31,10 @@ c. To the maximum extent feasible, heads of mayoral agencies shall coordinate th
 
 
 Section 387.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 387. Program management.* ::
+*Section 387. Program management.*
 
 
 a. The heads of mayoral agencies shall supervise the execution and management of all programs and activities of their respective agencies and shall have cognizance and control of the government, administration, and discipline of their agencies.
@@ -45,10 +45,10 @@ b. Heads of mayoral agencies shall determine standards for, and monitor, evaluat
 
 
 Section 388.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 388. Financial management.* ::
+*Section 388. Financial management.*
 
 
 a. The heads of mayoral agencies shall supervise the execution and management of all expenditures of their respective agencies.
@@ -63,10 +63,10 @@ d. In accordance with the standards and procedures prescribed by the comptroller
 
 
 Section 389.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 389. Internal controls, rule-making, contracting.* ::
+*Section 389. Internal controls, rule-making, contracting.*
 
 
 a. In accordance with the policies and procedures established by the mayor for this purpose, heads of mayoral agencies shall maintain an internal control environment and system which is intended to maximize the effectiveness and integrity of agency operations and to reduce the vulnerability of the agency to fraud, waste, abuse, error, conflict of interest, and corruption.
@@ -79,10 +79,10 @@ c. Heads of mayoral agencies may, subject to the requirements of the charter, ot
 
 
 Section 390.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 390. Powers and duties specified in other charter chapters.* ::
+*Section 390. Powers and duties specified in other charter chapters.*
 
 
 Heads of mayoral agencies shall, in addition to the duties assigned to them by this chapter, fulfill all other powers and duties assigned to them by the charter or other law.

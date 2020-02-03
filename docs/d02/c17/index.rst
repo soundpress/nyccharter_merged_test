@@ -1,12 +1,12 @@
 Title 31: Mayor&apos;s Office of Homelessness and Single Room Occupancy
-===================================================
+======================================================================================================
 
 Chapter 1: Eligibility of Homeless Families and Individuals To Rent City-Owned Apartment
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Eligibility.* ::
+*§ 1-01 Eligibility.*
 
 
 (a) Apartments in City-owned buildings may be viewed and rented by families who have been homeless for at least twelve months.
@@ -25,11 +25,11 @@ Chapter 1: Eligibility of Homeless Families and Individuals To Rent City-Owned A
 
 
 Chapter 2: Single Adult Homeless Shelter
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Single Adult Permanent Housing Referral Criteria.* ::
+*§ 2-01 Single Adult Permanent Housing Referral Criteria.*
 
 
 (a)  Homeless shelters for single adults may not refer clients to permanent housing in buildings that meet one or more of the following criteria:
@@ -80,11 +80,11 @@ Chapter 2: Single Adult Homeless Shelter
 
 
 Chapter 3: Single Adult Homeless Shelter
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Single Adult Resource Assessment.* ::
+*§ 3-01 Single Adult Resource Assessment.*
 
 
 (a) Definitions.
@@ -133,11 +133,11 @@ If one or more of these factors are present, the Returnee must be assigned a bed
 
 
 Chapter 4: Income Savings Plan Program
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Definitions.* ::
+*§ 4-01 Definitions.*
 
 
 For the purposes of this chapter, the following terms have the following meanings:
@@ -163,7 +163,7 @@ For the purposes of this chapter, the following terms have the following meaning
 
 
 
-*§ 4-02 In General.* ::
+*§ 4-02 In General.*
 
 
 (a) Individuals residing in a DHS shelter for single adults who receive earned income that exceeds the sum of the following amounts shall be required to participate in the ISP Program following the individual's receipt of notice of the terms of the program and of their enrollment in the program, which notice shall be provided in the month prior to the month in which they receive their first monthly savings statement:
@@ -187,7 +187,7 @@ For the purposes of this chapter, the following terms have the following meaning
 
 
 
-*§ 4-03 Savings Amounts and Adjustments.* ::
+*§ 4-03 Savings Amounts and Adjustments.*
 
 
 (a) Beginning in the month following their enrollment in the program, program participants residing in a DHS shelter for single adults will receive a monthly savings statement, which shall include:
@@ -227,7 +227,7 @@ For the purposes of this chapter, the following terms have the following meaning
 
 
 
-*§ 4-04 Enforcement of ISP Program Requirements through Immediately Curable Shelter Sanctions.* ::
+*§ 4-04 Enforcement of ISP Program Requirements through Immediately Curable Shelter Sanctions.*
 
 
 (a) If a program participant fails to make the deposits set forth on their savings statements, DHS will schedule a case conference with the individual to discuss their non-compliance with program requirements and will provide the program participant with an opportunity to cure the non-compliance.
@@ -247,7 +247,7 @@ For the purposes of this chapter, the following terms have the following meaning
 
 
 
-*§ 4-05 Return of Savings.* ::
+*§ 4-05 Return of Savings.*
 
 
 Funds in client accounts held by DSS pursuant to this chapter will be returned to individuals or their designees under the following circumstances:
@@ -265,7 +265,7 @@ Funds in client accounts held by DSS pursuant to this chapter will be returned t
 
 
 
-*§ 4-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
+*§ 4-06 Agency Review Conference and DSS Administrative Appeal Process.*
 
 
 (a) Right to DSS Administrative Review. A program participant may request an agency review conference and/or a DSS administrative hearing to seek review of a temporary discontinuance of shelter based on non-compliance with ISP program requirements.

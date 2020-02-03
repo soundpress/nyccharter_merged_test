@@ -1,10 +1,10 @@
 Chapter 67: Department of Cultural Affairs
-===================================================
+======================================================================================================
 Section 2501.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2501. Department; commissioner.* ::
+*Section 2501. Department; commissioner.*
 
 
 There shall be a department of cultural affairs, the head of which shall be the commissioner of cultural affairs.
@@ -13,10 +13,10 @@ There shall be a department of cultural affairs, the head of which shall be the 
 
 
 Section 2502.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2502. Deputies.* ::
+*Section 2502. Deputies.*
 
 
 The commissioner may appoint a deputy.
@@ -25,10 +25,10 @@ The commissioner may appoint a deputy.
 
 
 Section 2503.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2503. Powers and duties of commissioner.* ::
+*Section 2503. Powers and duties of commissioner.*
 
 
 Except as otherwise provided by law, the commissioner shall have the power and duty:
@@ -43,10 +43,10 @@ Except as otherwise provided by law, the commissioner shall have the power and d
 
 
 Section 2504.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2504. Budget estimates of cultural institutions.* ::
+*Section 2504. Budget estimates of cultural institutions.*
 
 
 The capital and expense budget estimates, to the extent involving expenditures to be paid from the city treasury, of all institutions or other organizations engaging in cultural activities in the city, shall be submitted to the commissioner, who shall submit such expense budget estimates to the director of management and budget and such capital budget estimates to the mayor, the borough presidents, the council, and the city planning commission in accordance with law, together with the commissioner's recommendations.
@@ -55,10 +55,10 @@ The capital and expense budget estimates, to the extent involving expenditures t
 
 
 Section 2505.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2505. Cultural affairs advisory commission.* ::
+*Section 2505. Cultural affairs advisory commission.*
 
 
 1. There shall be in the department a cultural affairs advisory commission consisting of not fewer than fifteen nor more than twenty-one members, exclusive of a deputy mayor, the commissioner of cultural affairs, and the commissioner of parks and recreation, who shall serve as ex-officio members. The members of the advisory commission shall serve without compensation.
@@ -83,10 +83,10 @@ Section 2505.
 
 
 Section 2506.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2506. Cultural plan.* ::
+*Section 2506. Cultural plan.*
 
 
 1. On or before July 1, 2017, the commissioner shall submit to the mayor and speaker of the council and post on the department's website a comprehensive cultural plan. The department shall be the primary agency responsible for developing, implementing, and overseeing the cultural plan.
@@ -139,10 +139,10 @@ Section 2506.
 
 
 Section 2507.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2507. Data on cultural institutions group.* ::
+*Section 2507. Data on cultural institutions group.*
 
 
 1. For purposes of this section:

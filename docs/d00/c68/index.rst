@@ -1,10 +1,10 @@
 Chapter 65: New York City Taxi and Limousine Commission
-===================================================
+======================================================================================================
 Section 2300.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2300. Commission.* ::
+*Section 2300. Commission.*
 
 
 There shall be a New York city taxi and limousine commission, the purposes of which shall be the continuance, further development and improvement of taxi and limousine service in the city of New York. It shall be the further purpose of the commission, consonant with the promotion and protection of the public comfort and convenience to adopt and establish an overall public transportation policy governing taxi, coach, limousine, wheelchair accessible van services and commuter van services as it relates to the overall public transportation network of the city; to establish certain rates, standards of service, standards of insurance and minimum coverage; standards for driver safety, standards for equipment safety and design; standards for noise and air pollution control; and to set standards and criteria for the licensing of vehicles, drivers and chauffeurs, owners and operators engaged in such services; all as more particularly set forth herein.
@@ -13,10 +13,10 @@ There shall be a New York city taxi and limousine commission, the purposes of wh
 
 
 Section 2301.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2301. Membership of commission.* ::
+*Section 2301. Membership of commission.*
 
 
 a. The commission shall consist of nine members to be appointed by the mayor with the advice and consent of the city council; five of said members, one resident from each of the five boroughs of New York city, shall be recommended for appointment by a majority vote of the councilmen of the respective borough.
@@ -41,10 +41,10 @@ e. A majority of the whole number of members of the commission then in office sh
 
 
 Section 2302.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2302. Reports of commission.* ::
+*Section 2302. Reports of commission.*
 
 
 a. All proceedings of the commission and all documents and records in its possession shall be public records and the commission shall make an annual report to the city council on or before the second Monday of January in each year. Such annual report shall contain information regarding complaints received by the commission from the public, including, but not limited to, complaints of overcharging, as well as enforcement actions undertaken by the commission, whether the enforcement action was dismissed or settled, or if a penalty was imposed by the commission on the subject of the enforcement action. The information regarding enforcement actions shall include, but not be limited to, enforcement actions relating to illegal street hails, unlicensed vehicles, overcharging, and toll lane infractions. The complaint and enforcement action information shall be disaggregated by the type of license held by the person or entity who is the subject of the complaint or action and the month during which the complaint was received or enforcement action undertaken. Enforcement actions shall be further disaggregated by the subject matter of the action and geographic location. Complaint information shall be further disaggregated to the extent practicable by the subject matter of the complaint. In addition to inclusion in the commission's annual report, the disaggregated complaint and enforcement information shall be posted on the commission's website updated no less than monthly. Information shall be published in a manner that does not identify the individual parties involved in the actions reported upon in this section. The chairman of the city council committee on transportation may at any time direct the commission or the chairman of the commission to appear before the committee to give testimony pertaining thereto, and to furnish to the members of the council any reports deemed necessary.
@@ -55,10 +55,10 @@ b. The commission shall make a quarterly report to the city council on or before
 
 
 Section 2303.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2303. Jurisdiction, powers and duties of commission.* ::
+*Section 2303. Jurisdiction, powers and duties of commission.*
 
 
 a. The jurisdiction, powers and duties of the commission shall include the regulation and supervision of the business and industry of transportation of persons by licensed vehicles for hire in the city, pursuant to provisions of this chapter. Except as otherwise provided herein, charges of violations of the provisions of the administrative code and rules promulgated thereunder shall be adjudicated by the administrative tribunal established by the commission and governed by the citywide administrative procedure act.
@@ -97,10 +97,10 @@ d. No resolution of approval of a pilot program shall be approved by the commiss
 
 
 Section 2304.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2304. Rates.* ::
+*Section 2304. Rates.*
 
 
 a. The amount to be charged and collected for the hire of a taxicab for one or more passengers within the city of New York shall be the total of the following items:
@@ -129,10 +129,10 @@ f. The costs reasonably attributable to a public hearing involving a change in t
 
 
 Section 2305.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2305. Office of inclusion.* ::
+*Section 2305. Office of inclusion.*
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:

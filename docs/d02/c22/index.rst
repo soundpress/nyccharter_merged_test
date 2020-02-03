@@ -1,12 +1,12 @@
 Title 39: Department of Correction
-===================================================
+======================================================================================================
 
 Chapter 1: Inmate Rule Book
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Introduction.* ::
+*§ 1-01 Introduction.*
 
 
 This chapter sets forth rules relating to inmates of New York City Department of Correction ("Department") facilities. All inmates will also be provided separately with detailed information relating to their incarceration, including the subjects covered in 39 RCNY § 1-02.
@@ -16,7 +16,7 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
 
 
-*§ 1-02 Rights and Privileges.* ::
+*§ 1-02 Rights and Privileges.*
 
 
 (a)  Property. When you first come to jail, any property that is taken from you that involves a criminal offense may be forwarded to the appropriate law enforcement agency for possible criminal prosecution and subject you to disciplinary action. Property taken from you that does not involve a criminal offense will be identified, receipted, stored and returned to you after your discharge from Department custody. Upon incarceration, you will be given more information about what property may be kept in jail and how to get other property back after discharge.
@@ -34,7 +34,7 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
 
 
-*§ 1-03 Rules of Conduct.* ::
+*§ 1-03 Rules of Conduct.*
 
 
 (a)  Introduction. This section sets forth the behavior that is prohibited in Department of Correction ("Department") facilities. The grade of each offense is listed. The acts of conspiracy, attempt, and accessory will be punishable to the same degree as the actual offense involved.
@@ -452,7 +452,7 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
 
 
-*§ 1-04 Hearing Procedures.* ::
+*§ 1-04 Hearing Procedures.*
 
 
 (a) General procedures.
@@ -542,7 +542,7 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
 
 
-*§ 1-05 Penalties.* ::
+*§ 1-05 Penalties.*
 
 
 (a)  Introduction. If you are found guilty of violating a Department rule of conduct, your penalty will depend on the seriousness of your offense. Grade I offenses are the most serious and Grade III offenses are the least serious. The penalty will also depend on the facts and circumstances of your case. If you have a good explanation or justification for your actions – what is known as "mitigating circumstances" – you may receive a less severe penalty. Any of the penalties set forth below, or a combination of them, may be imposed on you for violating Department rules of conduct.
@@ -584,7 +584,7 @@ This chapter sets forth rules relating to inmates of New York City Department of
 
 
 
-*§ 1-06 Appeals.* ::
+*§ 1-06 Appeals.*
 
 
 You have the right to appeal an adverse decision rendered by the Adjudication Captain within two (2) business days of service of the decision. If you have been sentenced to a total of thirty (30) days or more of punitive segregation or loss of all your good time on any one (1) Notice of Disciplinary Disposition (6500D), your appeal shall be forwarded to the General Counsel in the Department's Legal Division. Within five (5) business days of the receipt of your appeal, you will receive a written decision from the General Counsel regarding such appeal, unless further documentation/information is required by the General Counsel to decide your appeal. In those cases, the five (5) business day limit shall be extended and the reasons for the extensions will be noted on the General Counsel's decision to you. If you receive an unfavorable decision from General Counsel within ten (10) business days of the receipt of your appeal, you may file a petition for a writ under article 78 of the CPLR. If you are sentenced to less than thirty (30) days punitive segregation or loss of less than all of your good time, you may appeal that decision to the Warden of the facility where the infraction occurred.
@@ -593,11 +593,11 @@ You have the right to appeal an adverse decision rendered by the Adjudication Ca
 
 
 Chapter 2: Violent or Serious Crimes for Purposes of Honoring Civil Immigration Detainers
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Additional violent or serious crimes.* ::
+*§ 2-01 Additional violent or serious crimes.*
 
 
 (a) The Department determines that the following Penal Law offenses shall be considered “violent or serious crimes” for purposes of §§ 9-205(a), 9-131(a)(7) and 14-154(a)(6) of the Administrative Code:

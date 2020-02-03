@@ -1,12 +1,12 @@
 Title 3: Fire Department
-===================================================
+======================================================================================================
 
 Chapter 1: Administration
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 102-01 Pre-Existing Facilities and Conditions.* ::
+*§ 102-01 Pre-Existing Facilities and Conditions.*
 
 
 (a) Scope. This section consolidates requirements for conditions that were lawfully existing on the effective date of a Fire Code provision, and that, in accordance with FC 102.3 or 102.4, may be continued in compliance with laws, rules, regulations and permit conditions applicable at the time such condition was lawfully allowed or approved.
@@ -96,7 +96,7 @@ Chapter 1: Administration
 
 
 
-*§ 104-01 Appeals.* ::
+*§ 104-01 Appeals.*
 
 
 (a) Scope. This section sets forth procedures by which any person aggrieved by the issuance of any notice, order, violation or other determination issued by the Department may appeal therefrom and obtain a final agency determination as to the validity thereof insofar as it relates to the interpretation or modification of the Fire Code, the rules, or other law, rule or regulation enforced by the Department.
@@ -130,7 +130,7 @@ Chapter 1: Administration
 
 
 
-*§ 104-02 Professional Certification of Fire Alarm System Installations.* ::
+*§ 104-02 Professional Certification of Fire Alarm System Installations.*
 
 
 (a) Scope. This section sets forth the standards, requirements and procedures for the professional certification of the design and installation of fire alarm systems.
@@ -170,7 +170,7 @@ Chapter 1: Administration
 
 
 
-*§ 104-03 Disposal of Contraband Materials.* ::
+*§ 104-03 Disposal of Contraband Materials.*
 
 
 (a) Scope.
@@ -224,7 +224,7 @@ Chapter 1: Administration
 
 
 
-*§ 104-04 Modification of Rules. [Repealed]* ::
+*§ 104-04 Modification of Rules. [Repealed]*
 
 
 (a) Scope. This section sets forth the standards, requirements and procedures for the submission of design and installation documents for fire alarm system installations for Department review and approval.
@@ -274,7 +274,7 @@ Chapter 1: Administration
 
 
 
-*§ 109-01 FDNY Summons, Certification of Correction and Stipulation Procedures.* ::
+*§ 109-01 FDNY Summons, Certification of Correction and Stipulation Procedures.*
 
 
 (a) Scope. This section sets forth procedures for the certification of correction and adjudication of violations issued by the Department and returnable to the New York City Office of Administrative Trials and Hearings (OATH).
@@ -316,7 +316,7 @@ Chapter 1: Administration
 
 
 
-*§ 109-02 Consolidation of Administrative Code Provisions For Enforcement Purposes.* ::
+*§ 109-02 Consolidation of Administrative Code Provisions For Enforcement Purposes.*
 
 
 (a) Scope. This section establishes violation categories for the purpose of enforcing the provisions of the New York City Fire Code (FC) (Title 29 of the Administrative Code); Title 15 of the Administrative Code (Fire Prevention and Control); the New York City Construction Codes (Title 28 of the Administrative Code); the rules promulgated by the Department and codified in Title 3 of the Rules of the City of New York (3 RCNY); and/or other laws, rules and regulations enforced by the Department. These violation categories will be cited by Department personnel in connection with the issuance of FDNY summonses returnable to OATH, in lieu of citation to a particular code or rule section.
@@ -390,7 +390,7 @@ Chapter 1: Administration
 
 
 
-*§ 109-03 Penalty Schedule for FDNY Summonses.* ::
+*§ 109-03 Penalty Schedule for FDNY Summonses.*
 
 
 (a) Scope. This section establishes a penalty schedule for violations of the laws, rules and regulations enforced by the Department, cited by Department personnel in FDNY Summonses returnable to OATH for adjudication. This penalty schedule is not applicable to violations returnable to, or adjudicated by, any other forum.
@@ -755,7 +755,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 112-01 Certificates of Approval.* ::
+*§ 112-01 Certificates of Approval.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the issuance of certificates of approval for articles, equipment and devices required by the Fire Code to be of a type for which such certificate has been issued.
@@ -861,7 +861,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-01 Certificates of Fitness and Certificates of Qualification.* ::
+*§ 113-01 Certificates of Fitness and Certificates of Qualification.*
 
 
 (a) Scope. This section sets forth general standards, requirements and procedures for issuance of certificates of fitness and certificates of qualification.
@@ -1015,7 +1015,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-02 Fire and Life Safety Director Certificate of Fitness.* ::
+*§ 113-02 Fire and Life Safety Director Certificate of Fitness.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for issuance of a certificate of fitness to perform the duties of an FLS director, including the process by which holders of a certificate of fitness for fire safety director or fire safety/EAP director may obtain a certificate of fitness for FLS director.
@@ -1141,7 +1141,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-03 Fire Safety/EAP Director Certificates of Fitness. [Repealed]* ::
+*§ 113-03 Fire Safety/EAP Director Certificates of Fitness. [Repealed]*
 
 
 
@@ -1151,7 +1151,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-04 Accreditation of Training Courses.* ::
+*§ 113-04 Accreditation of Training Courses.*
 
 
 (a) Scope.
@@ -1269,7 +1269,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-05 Fire and Life Safety Director Training Courses.* ::
+*§ 113-05 Fire and Life Safety Director Training Courses.*
 
 
 (a) Scope. This section sets forth the minimum hours of classroom instruction and topics required for Department accreditation of training courses for certificate of fitness for FLS director.
@@ -1433,7 +1433,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-06 Active Shooter and Medical Emergency Preparedness Training Courses.* ::
+*§ 113-06 Active Shooter and Medical Emergency Preparedness Training Courses.*
 
 
 (a) Scope. This section sets forth the minimum hours of classroom instruction and topics required for Department accreditation of training courses for active shooter and medical emergency preparedness.
@@ -1499,7 +1499,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-07 Refrigerating System Operating Engineer Training Courses.* ::
+*§ 113-07 Refrigerating System Operating Engineer Training Courses.*
 
 
 (a) Scope. This section sets forth the minimum hours of classroom instruction and topics required for Department accreditation of training courses for certificate of qualification for refrigerating system operating engineer.
@@ -1755,7 +1755,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-08 Commercial Cooking Exhaust Systems Certificates of Fitness.* ::
+*§ 113-08 Commercial Cooking Exhaust Systems Certificates of Fitness.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for issuance of certificates of fitness to inspect and clean commercial cooking exhaust systems.
@@ -1771,7 +1771,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-09 Non-Production Laboratory Certificates of Fitness.* ::
+*§ 113-09 Non-Production Laboratory Certificates of Fitness.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for issuance of certificates of fitness for non-production laboratories.
@@ -1787,7 +1787,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-10 Construction Site Fire Safety Manager Training Courses.* ::
+*§ 113-10 Construction Site Fire Safety Manager Training Courses.*
 
 
 (a) Scope. This section sets forth the minimum hours of classroom instruction and topics required for Department accreditation of training courses for certificates of fitness for construction site fire safety manager.
@@ -1821,7 +1821,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-11 Construction Site Fire Safety Manager Certificates of Fitness.* ::
+*§ 113-11 Construction Site Fire Safety Manager Certificates of Fitness.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for issuance of a certificate of fitness to perform the duties of a construction site fire safety manager.
@@ -1849,7 +1849,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 113-12 Building Operation, Maintenance and Recordkeeping Training Courses.* ::
+*§ 113-12 Building Operation, Maintenance and Recordkeeping Training Courses.*
 
 
 (a) Scope. This section sets forth the minimum hours of classroom instruction and topics required for Department accreditation of training courses for building operations, maintenance and recordkeeping.
@@ -1917,7 +1917,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 114-01 Certificates of License.* ::
+*§ 114-01 Certificates of License.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for issuance of certificates of license for the installation, alteration, testing and repair of automotive and marine liquid motor fuel storage and dispensing systems and flammable liquid and combustible liquid storage systems.
@@ -2043,7 +2043,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 115-01 Company Certificates.* ::
+*§ 115-01 Company Certificates.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for issuance of company certificates, including blasting contractor, central station, commercial cooking exhaust system servicing, fireworks contractor, fumigation and insecticidal fogging operation, portable fire extinguisher sales, portable fire extinguisher servicing, pyrotechnic supplier, smoke detector maintenance company certificates and ARC system testing.
@@ -2221,7 +2221,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 115-02 Issuance of Proof of Compliance to Company Certificate Holders* ::
+*§ 115-02 Issuance of Proof of Compliance to Company Certificate Holders*
 
 
 (a) Scope. This section governs the requirements for issuance by the Department of decals and tags or other proof of compliance to companies and individuals to document the performance of certain fire safety inspections, testing, cleaning, servicing and/or other required or regulated activities.
@@ -2301,7 +2301,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 
-*§ 116-01 Expeditor Registration.* ::
+*§ 116-01 Expeditor Registration.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the registration of expeditors pursuant to FC116.
@@ -2372,11 +2372,11 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
 
 Chapter 2: Definitions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 202-01 Definitions.* ::
+*§ 202-01 Definitions.*
 
 
 (a) Scope. This section sets forth or references definitions for terms used in the rules.
@@ -2489,11 +2489,11 @@ Chapter 2: Definitions
 
 
 Chapter 3: General Precautions Against Fire
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 301-01 Marinas.* ::
+*§ 301-01 Marinas.*
 
 
 (a) Scope. This section sets forth requirements for the supervision of marinas mooring or storing more than five (5) marine vessels or watercraft 65 feet or less in length.
@@ -2511,7 +2511,7 @@ Chapter 3: General Precautions Against Fire
 
 
 
-*§ 303-01 Liquid-Fueled Tar Kettles and Asphalt Melters.* ::
+*§ 303-01 Liquid-Fueled Tar Kettles and Asphalt Melters.*
 
 
 (a) Scope. This section sets forth requirements for the storage, handling and use of liquid-fueled tar kettles and asphalt melters.
@@ -2527,7 +2527,7 @@ Chapter 3: General Precautions Against Fire
 
 
 
-*§ 307-01 Coke-Fueled Salamanders.* ::
+*§ 307-01 Coke-Fueled Salamanders.*
 
 
 (a) Scope. This section sets forth requirements for the storage, handling and use of coke and coke-fueled salamanders at construction sites.
@@ -2617,7 +2617,7 @@ Chapter 3: General Precautions Against Fire
 
 
 
-*§ 308-01 Use of Open Flames in Group A Occupancies and Similar Public Gathering Places.* ::
+*§ 308-01 Use of Open Flames in Group A Occupancies and Similar Public Gathering Places.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the use in Group A occupancies and similar public gathering places of open flames and open-flame devices.
@@ -2779,7 +2779,7 @@ Open-flame decorative device. An open-flame device used for decorative or lighti
 
 
 
-*§ 310-01 Designated Smoking Rooms in Hospitals, Nursing Homes, Rehabilitation Facilities and Similar Medical Facilities Housing the Ill, Aged and Infirm.* ::
+*§ 310-01 Designated Smoking Rooms in Hospitals, Nursing Homes, Rehabilitation Facilities and Similar Medical Facilities Housing the Ill, Aged and Infirm.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for designation of smoking rooms in hospitals, nursing homes, rehabilitation facilities and similar medical facilities housing the ill, aged and infirm.
@@ -2831,7 +2831,7 @@ Open-flame decorative device. An open-flame device used for decorative or lighti
 
 
 
-*§ 310-02 Design of "No Smoking" Signs.* ::
+*§ 310-02 Design of "No Smoking" Signs.*
 
 
 (a) Scope. This section sets forth the approved design for required "No Smoking" signs.
@@ -2884,7 +2884,7 @@ Open-flame decorative device. An open-flame device used for decorative or lighti
 
 
 
-*§ 313-01 Sale of Kerosene Space Heaters.* ::
+*§ 313-01 Sale of Kerosene Space Heaters.*
 
 
 (a) Scope. This section sets forth requirements for the sale of kerosene space heaters.
@@ -2898,7 +2898,7 @@ Open-flame decorative device. An open-flame device used for decorative or lighti
 
 
 
-*§ 314-01 Indoor Display of Motor Vehicles and Watercraft.* ::
+*§ 314-01 Indoor Display of Motor Vehicles and Watercraft.*
 
 
 (a) Scope. This section sets forth requirements for the indoor display of motor vehicles and watercraft.
@@ -2954,7 +2954,7 @@ Open-flame decorative device. An open-flame device used for decorative or lighti
 
 
 
-*§ 315-01 Storage of Flammable Plastic Foam Products.* ::
+*§ 315-01 Storage of Flammable Plastic Foam Products.*
 
 
 (a) Scope. This section sets forth requirements for the storage of flammable plastic foam products.
@@ -2989,11 +2989,11 @@ Open-flame decorative device. An open-flame device used for decorative or lighti
 
 
 Chapter 5: Fire Operations Features
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 505-01 Apartment and Guest Room Identification and Directional Markings and Signs.* ::
+*§ 505-01 Apartment and Guest Room Identification and Directional Markings and Signs.*
 
 
 (a) Scope. This section sets forth standards and requirements for the design and placement of entrance door room number markings for dwelling units (apartments, guest rooms and sleeping rooms) in Group R-1 and Group R-2 buildings and occupancies, and lobby and hallway corridor directional signs, which serve to assist emergency response personnel in locating such dwelling units.
@@ -3063,7 +3063,7 @@ Chapter 5: Fire Operations Features
 
 
 
-*§ 505-02 Apartment, Guest Room and Stairwell Fire Emergency Markings.* ::
+*§ 505-02 Apartment, Guest Room and Stairwell Fire Emergency Markings.*
 
 
 (a) Scope. This section sets forth standards and requirements for the design and placement of entrance door fire emergency markings for dwelling units (apartments, guest rooms and sleeping rooms) in Group R-1 and Group R-2 buildings or occupancies, and stairwell doors, which serve to assist firefighters in locating such dwelling units and stairwells and in identifying multi-floor dwelling units.
@@ -3181,7 +3181,7 @@ Chapter 5: Fire Operations Features
 
 
 
-*§ 511-01 In-Building Auxiliary Radio Communication Systems.* ::
+*§ 511-01 In-Building Auxiliary Radio Communication Systems.*
 
 
 (a) Scope. This section sets forth requirements for the design, installation, operation and maintenance of in-building auxiliary radio communication systems. In-building radio communication systems that were approved for installation by the Department of Buildings and/or the Department prior to December 31, 2014, and that were designed to enhance Department communications in a manner similar to an in-building auxiliary radio communication system, shall be subject to the requirements of this section to the extent set forth in R511-01(j).
@@ -3454,11 +3454,11 @@ Chapter 5: Fire Operations Features
 
 
 Chapter 6: Building Services and Systems
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 603-01 Fuel-oil Transfer Supervision and Maintenance. [Repealed]* ::
+*§ 603-01 Fuel-oil Transfer Supervision and Maintenance. [Repealed]*
 
 
 (a) Scope. This section sets forth requirements and procedures for the removal of lubricating oil from refrigerating systems that use more than 200 pounds of ammonia as a refrigerant, referred to in this section as "ammonia refrigerating systems." 
@@ -3528,7 +3528,7 @@ Chapter 6: Building Services and Systems
 
 
 
-*§ 608-01 Outdoor Stationary Storage Battery Systems.* ::
+*§ 608-01 Outdoor Stationary Storage Battery Systems.*
 
 
 (a) Scope. This section governs the design, installation, operation and maintenance of outdoor stationary storage battery systems for all energy storage uses, including stationary storage battery systems installed on a mobile trailer (or other form of mobile installation). This section does not govern the design, installation, operation and maintenance of:
@@ -4197,11 +4197,11 @@ h. Except project-specific installation designs. Large installations that utiliz
 
 
 Chapter 8: Interior Furnishings, Decorations and Scenery
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 805-01 Flame-Resistant Decorations.* ::
+*§ 805-01 Flame-Resistant Decorations.*
 
 
 (a) Scope. This section sets forth the standards, requirements and procedures for the testing and certification of flame-resistant decorations.
@@ -4295,7 +4295,7 @@ Chapter 8: Interior Furnishings, Decorations and Scenery
 
 
 
-*§ 805-02 Flame-Retardant Scenery.* ::
+*§ 805-02 Flame-Retardant Scenery.*
 
 
 (a) Scope. This section sets forth the standards, requirements and procedures for the testing and certification of flame-retardant scenery.
@@ -4386,11 +4386,11 @@ Chapter 8: Interior Furnishings, Decorations and Scenery
 
 
 Chapter 9: Fire Protection Systems
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 901-01 Central Station Monitoring of Fire Alarm Systems.* ::
+*§ 901-01 Central Station Monitoring of Fire Alarm Systems.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for:
@@ -4548,7 +4548,7 @@ Chapter 9: Fire Protection Systems
 
 
 
-*§ 901-02 Maintenance of Sprinkler System Pressure Tanks.* ::
+*§ 901-02 Maintenance of Sprinkler System Pressure Tanks.*
 
 
 (a) Scope. This section sets forth requirements for the periodic maintenance of pressure tanks that supply water to sprinkler systems.
@@ -4574,7 +4574,7 @@ Chapter 9: Fire Protection Systems
 
 
 
-*§ 901-03 Portable Fire Extinguisher Sales. [Repealed]* ::
+*§ 901-03 Portable Fire Extinguisher Sales. [Repealed]*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the design, installation, operation and maintenance of premises or parts thereof that are operated and/or occupied, on a temporary basis, to provide emergency shelter for more than 15 persons.
@@ -4684,7 +4684,7 @@ Chapter 9: Fire Protection Systems
 
 
 
-*§ 903-01 Flow Testing of Residential Sprinkler Systems.* ::
+*§ 903-01 Flow Testing of Residential Sprinkler Systems.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for flow testing of sprinkler systems in buildings, or parts thereof, classified as Occupancy Group R-2 and certain other residential occupancies. This section applies to all such sprinkler systems, including sprinkler systems that only protect a part of the building or space, such as compactor sprinkler systems.
@@ -4760,7 +4760,7 @@ Chapter 9: Fire Protection Systems
 
 
 
-*§ 904-01 Clean Agent Fire Extinguishing Systems Acceptance Testing.* ::
+*§ 904-01 Clean Agent Fire Extinguishing Systems Acceptance Testing.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for acceptance testing of clean agent fire extinguishing systems.
@@ -4788,7 +4788,7 @@ Chapter 9: Fire Protection Systems
 
 
 
-*§ 905-01 Standpipe System Pressure Reducing Devices.* ::
+*§ 905-01 Standpipe System Pressure Reducing Devices.*
 
 
 (a) Scope. This section sets forth requirements for standpipe system pressure reducing devices.
@@ -4824,7 +4824,7 @@ Chapter 9: Fire Protection Systems
 
 
 
-*§ 906-01 Portable Fire Extinguishers for Cranes. [Repealed]* ::
+*§ 906-01 Portable Fire Extinguishers for Cranes. [Repealed]*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the operation and maintenance of fire alarm systems relating to fire alarm recordkeeping, smoke detector maintenance, testing and recordkeeping, and the prevention of unnecessary and unwarranted alarms.
@@ -4936,7 +4936,7 @@ Chapter 9: Fire Protection Systems
 
 
 
-*§ 912-01 Periodic Testing of Standpipe and Sprinkler Systems With Fire Department Connections.* ::
+*§ 912-01 Periodic Testing of Standpipe and Sprinkler Systems With Fire Department Connections.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for testing standpipe systems and sprinkler systems that have fire department connections.
@@ -5017,11 +5017,11 @@ Chapter 9: Fire Protection Systems
 
 
 Chapter 10: Means of Egress
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1025-01 Fire Escape Window Gates and Similar Security Devices For Secondary Means of Egress and Emergency Escape and Rescue Openings.* ::
+*§ 1025-01 Fire Escape Window Gates and Similar Security Devices For Secondary Means of Egress and Emergency Escape and Rescue Openings.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the design, installation, operation and maintenance of gates, bars, grilles, grates or similar devices placed over:
@@ -5088,11 +5088,11 @@ Chapter 10: Means of Egress
 
 
 Chapter 14: Fire Safety During Construction, Alteration and Demolition
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1401-01 Enforcement of Fire Safety at Construction Sites.* ::
+*§ 1401-01 Enforcement of Fire Safety at Construction Sites.*
 
 
 (a) Scope. This section sets forth requirements relating to the operation of construction sites.
@@ -5148,7 +5148,7 @@ Chapter 14: Fire Safety During Construction, Alteration and Demolition
 
 
 
-*§ 1403-01 Portable Space Heaters Fueled By Piped Natural Gas at Construction Sites.* ::
+*§ 1403-01 Portable Space Heaters Fueled By Piped Natural Gas at Construction Sites.*
 
 
 (a) Scope. This section sets forth design, installation, operation and maintenance requirements for the storage, handling and use, at construction sites, of portable space heaters fueled by piped natural gas.
@@ -5266,7 +5266,7 @@ Chapter 14: Fire Safety During Construction, Alteration and Demolition
 
 
 
-*§ 1405-01 Crane Aerial Fueling Operations.* ::
+*§ 1405-01 Crane Aerial Fueling Operations.*
 
 
 (a) Scope. This section sets forth requirements for the aerial fueling of cranes with diesel fuel or other combustible liquids at construction sites and other locations.
@@ -5328,7 +5328,7 @@ Chapter 14: Fire Safety During Construction, Alteration and Demolition
 
 
 
-*§ 1408-01 Construction Site Fire Safety Manager.* ::
+*§ 1408-01 Construction Site Fire Safety Manager.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the supervision of fire safety at a construction site by a fire safety manager designated pursuant to FC1408.1.
@@ -5363,11 +5363,11 @@ Chapter 14: Fire Safety During Construction, Alteration and Demolition
 
 
 Chapter 17: Fumigation and Insecticidal Fogging
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1703-01 Fumigation and Insecticidal Fogging.* ::
+*§ 1703-01 Fumigation and Insecticidal Fogging.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for fumigation and thermal insecticidal fogging, and insecticidal fogging without the application of heat.
@@ -5400,11 +5400,11 @@ Chapter 17: Fumigation and Insecticidal Fogging
 
 
 Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2204-01 Self-Service Automotive Liquid Motor Fuel-Dispensing Facilities.* ::
+*§ 2204-01 Self-Service Automotive Liquid Motor Fuel-Dispensing Facilities.*
 
 
 (a) Scope. This section sets forth requirements for the operation and maintenance of self-service automotive liquid motor fuel-dispensing facilities.
@@ -5458,7 +5458,7 @@ Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
 
 
 
-*§ 2205-01 Underground Liquid Motor Fuel Storage Tanks at Motor Fuel-Dispensing Facilities.* ::
+*§ 2205-01 Underground Liquid Motor Fuel Storage Tanks at Motor Fuel-Dispensing Facilities.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the maintenance of underground motor fuel storage tanks at liquid motor fuel-dispensing facilities.
@@ -5478,7 +5478,7 @@ Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
 
 
 
-*§ 2206-01 Design and Installation of Liquid Motor Fuel-Dispensing Systems at Motor Fuel-Dispensing Facilities.* ::
+*§ 2206-01 Design and Installation of Liquid Motor Fuel-Dispensing Systems at Motor Fuel-Dispensing Facilities.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the design, installation, and installation acceptance testing of the following devices, equipment and systems at liquid motor fuel-dispensing facilities:
@@ -5520,7 +5520,7 @@ Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
 
 
 
-*§ 2206-02 Leak Detection System Functionality Testing.* ::
+*§ 2206-02 Leak Detection System Functionality Testing.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the periodic testing of underground liquid motor fuel storage and dispensing systems leak detection systems pursuant to FC2206.9.3.
@@ -5582,7 +5582,7 @@ Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
 
 
 
-*§ 2208-01 Mobile Compressed Natural Gas Motor Fuel Systems.* ::
+*§ 2208-01 Mobile Compressed Natural Gas Motor Fuel Systems.*
 
 
 (a) Scope. This section sets forth requirements for the design, installation, operation and maintenance of mobile CNG motor fuel systems and mobile CNG cascades.
@@ -5648,7 +5648,7 @@ Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
 
 
 
-*§ 2208-02 Self-Service Compressed Natural Gas Motor Fuel-Dispensing Facilities.* ::
+*§ 2208-02 Self-Service Compressed Natural Gas Motor Fuel-Dispensing Facilities.*
 
 
 (a) Scope. This section sets forth requirements for the operation and maintenance of self-service CNG motor fuel-dispensing facilities.
@@ -5698,7 +5698,7 @@ Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
 
 
 
-*§ 2211-01 Repair Garages For Vehicles Fueled by Lighter-Than-Air Fuels.* ::
+*§ 2211-01 Repair Garages For Vehicles Fueled by Lighter-Than-Air Fuels.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the issuance of permits to repair garages that repair and/or convert CNG, LNG, hydrogen and/or other vehicles fueled by lighter-than-air fuels.
@@ -5711,11 +5711,11 @@ Chapter 22: Motor Fuel-dispensing Facilities and Repair Garages
 
 
 Chapter 26: Welding and Other Hot Work
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2604-01 Hot Work in Repair Garages.* ::
+*§ 2604-01 Hot Work in Repair Garages.*
 
 
 (a) Scope. This section sets forth requirements for conducting hot work operations in repair garages with a capacity for more than one (1) motor vehicle, or in connection with such businesses.
@@ -5739,7 +5739,7 @@ Chapter 26: Welding and Other Hot Work
 
 
 
-*§ 2605-01 Use of Oxygen and a Flammable Gas in Citywide Hot Work Operations.* ::
+*§ 2605-01 Use of Oxygen and a Flammable Gas in Citywide Hot Work Operations.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the use of oxygen and a flammable gas in citywide hot work operations.
@@ -5769,7 +5769,7 @@ Chapter 26: Welding and Other Hot Work
 
 
 
-*§ 2609-01 Piped Natural Gas and Oxygen Consuming Devices and Installations.* ::
+*§ 2609-01 Piped Natural Gas and Oxygen Consuming Devices and Installations.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the design, installation, operation and maintenance of devices and installations utilizing piped natural gas and oxygen, including torches used in the manufacture of jewelry. This section shall apply to both new and existing devices and installations.
@@ -5816,11 +5816,11 @@ Chapter 26: Welding and Other Hot Work
 
 
 Chapter 27: Hazardous Materials--General Provisions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2706-01 Non-Production Laboratories.* ::
+*§ 2706-01 Non-Production Laboratories.*
 
 
 (a) Scope. This section sets forth the standards and requirements for the storage, handling and use of hazardous materials in non-production laboratories.
@@ -5848,7 +5848,7 @@ Chapter 27: Hazardous Materials--General Provisions
 
 
 
-*§ 2707-01 Transportation of Explosives by Motor Vehicles.* ::
+*§ 2707-01 Transportation of Explosives by Motor Vehicles.*
 
 
 (a) Scope. This section sets forth standards and requirements for the transportation, including delivery, by motor vehicle, of any blasting materials or Division 1.1 or 1.5 explosives for storage, handling or use in the city.
@@ -5904,7 +5904,7 @@ Chapter 27: Hazardous Materials--General Provisions
 
 
 
-*§ 2707-02 Transportation by Motor Vehicle of Hazardous Materials in Continuous Transit Through New York City or For Transshipment From New York City.* ::
+*§ 2707-02 Transportation by Motor Vehicle of Hazardous Materials in Continuous Transit Through New York City or For Transshipment From New York City.*
 
 
 (a) Scope. This section sets forth requirements for the transportation of flammable liquids, combustible liquids, compressed gases, and explosives, including fireworks in interstate and intrastate commerce, through the city without pickup or delivery, and with respect to deliveries of such materials to wharfs or piers, airports and shipping terminals for transshipment out of the city, except the following types of hazardous materials, which are not subject to this section:
@@ -6237,11 +6237,11 @@ Chapter 27: Hazardous Materials--General Provisions
 
 
 Chapter 30: Compressed Gases
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3004-01 Use of Carbon Dioxide in Beverage Dispensing Systems.* ::
+*§ 3004-01 Use of Carbon Dioxide in Beverage Dispensing Systems.*
 
 
 (a) Scope.
@@ -6411,7 +6411,7 @@ Chapter 30: Compressed Gases
 
 
 
-*§ 3004-02 Anhydrous Ammonia.* ::
+*§ 3004-02 Anhydrous Ammonia.*
 
 
 (a) Scope. This section sets forth the design, installation, operation and maintenance requirements for the storage, handling and use of anhydrous ammonia.
@@ -6422,11 +6422,11 @@ Chapter 30: Compressed Gases
 
 
 Chapter 34: Flammable and Combustible Liquids
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3404-01 Out-of-Service Storage Systems.* ::
+*§ 3404-01 Out-of-Service Storage Systems.*
 
 
 (a) Scope. This section sets forth requirements for out-of-service storage systems for gasoline, diesel, fuel oil and other flammable or combustible liquids that are not in use for 30 days or more, except when such systems are used for seasonal or standby storage and are not otherwise permanently out of service.
@@ -6474,7 +6474,7 @@ Chapter 34: Flammable and Combustible Liquids
 
 
 
-*§ 3404-02 Precision Testing of Certain Underground Storage Systems.* ::
+*§ 3404-02 Precision Testing of Certain Underground Storage Systems.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for precision testing pursuant to FC3404.2.11.6 of underground storage systems for motor fuels or other flammable and combustible liquids when such systems utilize single-walled tanks, or other tanks not provided with a leak detection system meeting Fire Code requirements.
@@ -6538,7 +6538,7 @@ Chapter 34: Flammable and Combustible Liquids
 
 
 
-*§ 3404-03 Indoor and Aboveground Combustible Liquid Storage Systems.* ::
+*§ 3404-03 Indoor and Aboveground Combustible Liquid Storage Systems.*
 
 
 (a) Scope. This section sets forth requirements for the design and installation of indoor, aboveground combustible liquid storage systems, except fuel oil storage tanks and auxiliary storage tanks for oil-burning equipment regulated by the Mechanical Code, or to the installation of liquid motor fuel-dispensing storage tanks.
@@ -6594,7 +6594,7 @@ Chapter 34: Flammable and Combustible Liquids
 
 
 
-*§ 3405-01 Storage and Use of Fuel Oil on Mobile Trailers for Heating and Power Generation.* ::
+*§ 3405-01 Storage and Use of Fuel Oil on Mobile Trailers for Heating and Power Generation.*
 
 
 (a) Scope.
@@ -6646,7 +6646,7 @@ Chapter 34: Flammable and Combustible Liquids
 
 
 
-*§ 3405-02 Storage, Handling and Use of Concentrated Alcohol-Based Hand Rubs. [Repealed]* ::
+*§ 3405-02 Storage, Handling and Use of Concentrated Alcohol-Based Hand Rubs. [Repealed]*
 
 
 (a) Scope. This section sets forth requirements for storage and use of flammable and combustible liquids on roofs at construction sites.
@@ -6657,11 +6657,11 @@ Chapter 34: Flammable and Combustible Liquids
 
 
 Chapter 35: Flammable Gases
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3501-01 Acetylene. [Repealed]* ::
+*§ 3501-01 Acetylene. [Repealed]*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures applicable to the storage, handling and use of CNG. This section shall not apply to the following operations:
@@ -7095,7 +7095,7 @@ Chapter 35: Flammable Gases
 
 
 
-*§ 3509-01 Sanitary Landfill Methane Gas Recovery Facilities.* ::
+*§ 3509-01 Sanitary Landfill Methane Gas Recovery Facilities.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures for the design, installation, operation and maintenance of methane recovery facilities that recover methane gas from sanitary landfills, process such gas to remove impurities, and/or compress, flare and odorize such gas.
@@ -7286,11 +7286,11 @@ Chapter 35: Flammable Gases
 
 
 Chapter 38: Liquefied Petroleum Gases
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3809-01 Liquefied Petroleum Gases.* ::
+*§ 3809-01 Liquefied Petroleum Gases.*
 
 
 (a) Scope. This section sets forth standards, requirements and procedures applicable to the storage, handling and use of LPG. This section shall not apply to the following operations:
@@ -7773,11 +7773,11 @@ Table 1 (R3809-01)
 
 
 Chapter 46: Fees
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4601-01 New and Amended Fees.* ::
+*§ 4601-01 New and Amended Fees.*
 
 
 (a) Scope. This section sets forth provisions relating to the Department's adoption of new and amended fees and incorporation of such fees into FC Appendix A.
@@ -7968,7 +7968,7 @@ Chapter 46: Fees
 
 
 
-*§ 4604-01 Compensation To Be Paid By Entities Engaged in the Operation of Auxiliary Fire Alarm Systems (effective until July 1, 2009).* ::
+*§ 4604-01 Compensation To Be Paid By Entities Engaged in the Operation of Auxiliary Fire Alarm Systems (effective until July 1, 2009).*
 
 
 (a) Scope. This section sets forth the compensation required to be paid to the City of New York pursuant to Administrative Code § 15-127(a)(1) by a central station company or a proprietary central station company for operation of an auxiliary fire alarm system.
@@ -8021,7 +8021,7 @@ The Department shall, at the beginning of each quarter, bill each entity for an 
 
 
 
-*§ 4604-01 Compensation for Operation of Auxiliary Fire Alarm Systems (effective July 1, 2009).* ::
+*§ 4604-01 Compensation for Operation of Auxiliary Fire Alarm Systems (effective July 1, 2009).*
 
 
 (a) Scope. This section sets forth the compensation required to be paid to the City of New York pursuant to Administrative Code § 15-127(a)(1) by a central station company or a proprietary central station, as those terms are defined in R901-02(b), for operation of an auxiliary fire alarm system.
@@ -8068,11 +8068,11 @@ The Department shall, at the beginning of each quarter, bill each entity for an 
 
 
 Chapter 47: Referenced Standard Modifications
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4701-01 Referenced Standard Modifications and Amendments Thereto.* ::
+*§ 4701-01 Referenced Standard Modifications and Amendments Thereto.*
 
 
 (a) Scope. This section sets forth provisions relating to the Department's adoption of modifications to the Referenced Standards set forth in FC Chapter 45, adoption of amendments to the Referenced Standard modifications codified in FC Appendix B, and incorporation of such modifications and amendments into FC Appendix B.
@@ -8094,7 +8094,7 @@ Chapter 47: Referenced Standard Modifications
 
 
 
-*§ 4702-01 National Fire Protection Association Referenced Standards.* ::
+*§ 4702-01 National Fire Protection Association Referenced Standards.*
 
 
 (a) Scope. This section sets forth modifications to the National Fire Protection Association Referenced Standards set forth in FC Chapter 45.
@@ -8369,11 +8369,11 @@ NFPA 45-2004. The provisions of NFPA 45-2004, Standard on Fire Protection for La
 
 
 Chapter 49: Miscellaneous
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4900-01 Adjudications.* ::
+*§ 4900-01 Adjudications.*
 
 
 (a) Scope. This section sets forth the Department's policy with respect to adjudi- cations.
@@ -8389,7 +8389,7 @@ OATH. New York City Office of Administrative Trials and Hearings.
 
 
 
-*§ 4900-02 Schedule of Charges for Fire Department Ambulance Transport Service.* ::
+*§ 4900-02 Schedule of Charges for Fire Department Ambulance Transport Service.*
 
 
 (a) Scope. This section sets forth the charges for Fire Department ambulance transport service.

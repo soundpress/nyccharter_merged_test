@@ -1,10 +1,10 @@
 Chapter 2-A: Districting Commission
-===================================================
+======================================================================================================
 Section 50.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 50. Districting Commission; composition; appointment; terms; vacancies; compensation.* ::
+*Section 50. Districting Commission; composition; appointment; terms; vacancies; compensation.*
 
 
 a. There shall be a districting commission consisting of fifteen members appointed as provided in this section.
@@ -43,10 +43,10 @@ g. The commission may hire or contract for necessary staff assistance and may re
 
 
 Section 51.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 51. Powers and duties of the commission; hearings; submissions and approval of plan.* ::
+*Section 51. Powers and duties of the commission; hearings; submissions and approval of plan.*
 
 
 a. Following each decennial census, the commission shall prepare a plan for dividing the city into districts for the election of council members. In preparing the plan, the commission shall be guided by the criteria set forth in section fifty-two.
@@ -71,10 +71,10 @@ h. After the commission files its final plan with the city clerk pursuant to sub
 
 
 Section 52.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 52. District plan; criteria.* ::
+*Section 52. District plan; criteria.*
 
 
 1. In the preparation of its plan for dividing the city into districts for the election of council members, the commission shall apply the criteria set forth in the following paragraphs to the maximum extent practicable. The following paragraphs shall be applied and given priority in the order in which they are listed.

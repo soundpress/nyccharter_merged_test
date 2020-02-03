@@ -1,12 +1,12 @@
 Title 16-B: Commercial Waste Zones
-===================================================
+======================================================================================================
 
 Chapter 1: Commercial Waste Zones
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 16-1000 Definitions.* ::
+*§ 16-1000 Definitions.*
 
 
 As used in this title, the following terms shall have the following meanings:
@@ -60,7 +60,7 @@ Transitional employment period. The term “transitional employment period” me
 
 
 
-*§ 16-1001 Commercial waste zones; designation.* ::
+*§ 16-1001 Commercial waste zones; designation.*
 
 
 Notwithstanding any other provision of law, no later than 120 days after the effective date of the local law that added this section, the commissioner shall divide the geographic area of New York city into no less than twenty commercial waste zones. The commissioner may amend the boundaries of such zones or establish additional zones as deemed appropriate by the commissioner and consistent with the purposes of this title. In establishing such commercial waste zones, the commissioner may consider:
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, no later than 120 days after the eff
 
 
 
-*§ 16-1002 Agreements.* ::
+*§ 16-1002 Agreements.*
 
 
 a. For each area designated as a commercial waste zone pursuant to section 16-1001, the department shall be authorized to select and to enter into agreements with no more than three awardees per zone, permitting each awardee to provide for the collection, transport and removal of commercial waste within such zone as set forth in such agreement. The department shall be further authorized to select and enter into agreements with no more than five awardees permitting each awardee to provide for the collection, transport and removal of containerized commercial waste from any commercial establishment within the city of New York as set forth in such agreement. The department shall only enter into an agreement pursuant to this subdivision with an awardee that has obtained a license issued by the business integrity commission pursuant to subdivision a of section 16-505 on or before the date of such agreement. A proposer that responds to the request for proposals authorized pursuant to subdivision b of this section that does not hold such a license at the time a proposal is submitted pursuant to this section must submit an application for such a license to the business integrity commission no later than the date such proposal is submitted to the department. The initial term of any such agreement shall include authorization to collect, transport and remove commercial waste for ten years in each zone covered by such agreement. The department shall have the option, at its sole discretion, to renew any such agreement for no more than two additional terms of no more than five years each, provided that prior to the expiration of any agreement entered into pursuant to this section, the commissioner shall provide the awardee with adequate written notice of whether it intends to renew such agreement. The department shall not enter into any such agreement with an awardee that results in such awardee providing services in more than fifteen commercial waste zones, provided that any agreement to provide for the collection, transport and removal of containerized commercial waste citywide shall not count toward such limit.
@@ -176,7 +176,7 @@ f. Any agreement entered into pursuant to subdivision b of this section may incl
 
 
 
-*§ 16-1003 Unauthorized conduct within commercial waste zones.* ::
+*§ 16-1003 Unauthorized conduct within commercial waste zones.*
 
 
 a. Except as provided in subdivision c of this section and notwithstanding any other provision of law, it shall be unlawful for any person to operate a business for the purpose of the collection, transport or removal of commercial waste from the premises of a commercial establishment required to provide for the removal of such waste pursuant to section 16-116 or to engage in, conduct or cause the operation of such a business, or to solicit commercial establishments to engage such a business for such purpose, except as authorized pursuant to an agreement with the department entered into pursuant to section 16-1002 and in accordance with the provisions of this title and any rules promulgated pursuant thereto.
@@ -198,7 +198,7 @@ e. 1. Notwithstanding any other provision of this title, it shall be unlawful fo
 
 
 
-*§ 16-1004 Interference with commercial waste zone agreements.* ::
+*§ 16-1004 Interference with commercial waste zone agreements.*
 
 
 No person shall make false, falsely disparaging or misleading oral or written statements or other representations to the owners or operators of a commercial establishment that have the capacity, tendency or effect of misleading such owners or operators, for the purpose of interfering with the performance of the terms of any agreement between the department and an awardee entered into pursuant to section 16-1002. No person shall interfere or attempt to interfere by threats, intimidation, or coercion, or by destruction or damage of property or equipment, with performance of the terms of an agreement entered into pursuant to section 16-1002.
@@ -210,7 +210,7 @@ No person shall make false, falsely disparaging or misleading oral or written st
 
 
 
-*§ 16-1005 Conduct by awardees and designated carters within commercial waste zones.* ::
+*§ 16-1005 Conduct by awardees and designated carters within commercial waste zones.*
 
 
 a. 1. Each awardee shall only charge, exact or accept rates for the collection, removal or disposal of commercial waste within the commercial waste zone for which the awardee has been awarded an agreement pursuant to section 16-1002, or for the collection, removal or disposal of containerized commercial waste citywide under an agreement pursuant to such section, as set forth in such agreement and any rules promulgated by the department pursuant to this chapter.
@@ -260,7 +260,7 @@ c. Any truck used to collect, transport or remove commercial waste within a comm
 
 
 
-*§ 16-1006 Employee retention.* ::
+*§ 16-1006 Employee retention.*
 
 
 a. No less than thirty calendar days before the effective date of any change in control of an awardee, the incumbent employer shall:
@@ -288,7 +288,7 @@ f. The provisions of this section shall not apply to any successor employer that
 
 
 
-*§ 16-1007 Displaced employees list.* ::
+*§ 16-1007 Displaced employees list.*
 
 
 a. The department shall maintain a list containing the names and contact addresses or telephone numbers of persons formerly employed by a business either currently engaged in the collection, removal or disposal of commercial waste, or that was engaged in the collection, removal or disposal of commercial waste prior to the implementation of this chapter, whose employment with such business has ended. The addition or deletion of information on such list shall be made only upon the request of such a former employee. At the time a former employee requests to be added to such list, the department shall provide the employee with information regarding employment programs and initiatives administered by the department of small business services or other city agencies.
@@ -304,7 +304,7 @@ c. The maintenance or provision of such list shall in no way be construed as a r
 
 
 
-*§ 16-1008 Worker safety training.* ::
+*§ 16-1008 Worker safety training.*
 
 
 a. In addition to any other applicable requirements pursuant to local, state or federal laws or rules, no later than 180 days after the date on which an awardee enters into an agreement with the department pursuant to section 16-1002, each designated carter that will be operating pursuant to such agreement shall be responsible for ensuring that all workers, including but not limited to, vehicle operators, laborers, helpers, mechanics, supervisors and managers, employed by such designated carter as of such date have received worker safety training as required by this section. For workers employed by such designated carter after an awardee enters into an agreement with the department pursuant to section 16-1002, such worker safety training shall be provided within 90 days after the start of employment or prior to the initial assignment of a worker to a job or task, whichever is earlier.
@@ -388,7 +388,7 @@ j. No later than 180 days after the effective date of the local law that added t
 
 
 
-*§ 16-1009 Whistleblower protections.* ::
+*§ 16-1009 Whistleblower protections.*
 
 
 It shall be unlawful for an awardee or designated carter or the agent of an awardee or designated carter to take or threaten to take a retaliatory personnel action, as defined by section 740 of the labor law, against an employee of such awardee or designated carter for reporting to the officer or employee of any city agency information concerning the conduct of such awardee or designated carter or such agent, which the employee knows or reasonably believes to involve a violation of the provisions of this title or any rules promulgated pursuant thereto or the terms of any applicable agreement entered into pursuant to section 16-1002.
@@ -400,7 +400,7 @@ It shall be unlawful for an awardee or designated carter or the agent of an awar
 
 
 
-*§ 16-1010 Outreach and education.* ::
+*§ 16-1010 Outreach and education.*
 
 
 a. The commissioner, together with the chair of the business integrity commission and any other agency designated by the mayor, shall establish an outreach and education program aimed at educating commercial establishments on the implementation of the commercial waste zone collection system, instructions for arranging for collection of commercial waste, and the environmental, health and safety benefits to be yielded through such system. This outreach and education program shall include but not be limited to, seminars, webinars, conferences, and a multilingual public education program.
@@ -418,7 +418,7 @@ d. The commissioner, together with the chair of the business integrity commissio
 
 
 
-*§ 16-1011 Agency reporting.* ::
+*§ 16-1011 Agency reporting.*
 
 
 On or before September 30, 2020, and annually thereafter, the commissioner shall issue a report to the speaker of the council and the mayor and post such report on the agency’s website. Such report shall include but not be limited to, information regarding the implementation of the commercial waste zone program for each month during the previous fiscal year, disaggregated by zone and further disaggregated by awardee, as applicable, on: (i) the cost and volume of solid waste and recyclables collection and disposal; (ii) feedback from commercial establishments; (iii) the number and types of complaints received regarding commercial waste removal; (iv) outreach and education conducted, including the number of trainings and the number of individuals who have participated in such trainings, if applicable, and materials provided; (v) the number of vehicle miles traveled by trucks used to collect, transport or remove commercial waste within commercial waste zones and any change to such number as compared to the previous fiscal year; (vi) diversion of commercial waste from landfill and any change to such diversion as compared to the previous fiscal year; (vii) any recommendations for improving the commercial waste zone collection system; (viii) the feasibility of accepting commercial waste at marine transfer stations; and (ix) the amount and proportion of commercial waste received at marine transfer stations.
@@ -430,7 +430,7 @@ On or before September 30, 2020, and annually thereafter, the commissioner shall
 
 
 
-*§ 16-1012 Reporting by micro-haulers.* ::
+*§ 16-1012 Reporting by micro-haulers.*
 
 
 On or before February 1, 2022 and each February 1 thereafter, any micro-hauler operating within a commercial waste zone shall submit to the department and the business integrity commission the following information for the previous calendar year in a form and in a manner prescribed by the department:
@@ -450,7 +450,7 @@ On or before February 1, 2022 and each February 1 thereafter, any micro-hauler o
 
 
 
-*§ 16-1013 Fees.* ::
+*§ 16-1013 Fees.*
 
 
 The commissioner shall promulgate rules establishing fees to be collected from any awardee selected pursuant to section 16-1002 for the administration of the commercial waste zone program.
@@ -462,7 +462,7 @@ The commissioner shall promulgate rules establishing fees to be collected from a
 
 
 
-*§ 16-1014 Minimum rates.* ::
+*§ 16-1014 Minimum rates.*
 
 
 The department may fix by rule and periodically refix minimum rates for the collection, removal or disposal of commercial waste. Such minimum rates shall be based upon a fair and reasonable return to the awardee and consideration of the purposes of this chapter.
@@ -474,7 +474,7 @@ The department may fix by rule and periodically refix minimum rates for the coll
 
 
 
-*§ 16-1015 Penalties, injunction and equitable remedies.* ::
+*§ 16-1015 Penalties, injunction and equitable remedies.*
 
 
 a. Any person who violates any provision of section 16-1003 or 16-1004, or any rules promulgated pursuant to such sections or any order issued by the commissioner or chair of the business integrity commission pursuant to such sections shall be liable for a civil penalty of $10,000 for each violation, or, in the case of a continuing violation, $10,000 for each day of such violation.
@@ -506,7 +506,7 @@ i. Any employee that has been the subject of a retaliatory personnel action or t
 
 
 
-*§ 16-1016 Impoundment and forfeiture.* ::
+*§ 16-1016 Impoundment and forfeiture.*
 
 
 a. Any vehicle that has been used or is being used in the violation of section 16-1003 shall be impounded by the department or the business integrity commission and shall not be released until either all removal charges and storage fees and the applicable fine have been paid or a bond has been posted in an amount satisfactory to the commissioner or as otherwise provided in subdivision c of this section. The commissioner shall have the power to establish rules concerning the impoundment and release of vehicles and the payment of removal charges and storage fees for such vehicles, including the amounts and rates thereof.
@@ -530,7 +530,7 @@ d. Notwithstanding the foregoing provisions, establishment of a claim shall not 
 
 
 
-*§ 16-1017 Liability for violations.* ::
+*§ 16-1017 Liability for violations.*
 
 
 a. A designated carter shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant hereto committed by any of its employees or agents.
@@ -544,7 +544,7 @@ b. An awardee shall be liable for violations of any of the provisions of this ch
 
 
 
-*§ 16-1018 Enforcement.* ::
+*§ 16-1018 Enforcement.*
 
 
 Notices of violation for violations of any provision of this chapter or any rule promulgated hereunder may be issued by the department or the business integrity commission. In addition, such notices of violation may be issued by any other agency of the city as designated by the commissioner.
@@ -556,7 +556,7 @@ Notices of violation for violations of any provision of this chapter or any rule
 
 
 
-*§ 16-1019 Labor and wage violations.* ::
+*§ 16-1019 Labor and wage violations.*
 
 
 Where the commissioner has reasonable cause to believe that a designated carter has engaged in or is engaging in actions: (i) involving egregious or habitual nonpayment or underpayment of wages, or (ii) that constitute a significant violation of city, state or federal labor or employment law, the commissioner shall inform the New York state attorney general, the New York state department of labor, the United States department of labor or other relevant city, state or federal law enforcement agency of such actions.
@@ -568,7 +568,7 @@ Where the commissioner has reasonable cause to believe that a designated carter 
 
 
 
-*§ 16-1020 Administration of commercial waste zones.* ::
+*§ 16-1020 Administration of commercial waste zones.*
 
 
 a. Notwithstanding any inconsistent provision of law, the business integrity commission may, upon approval by a majority of its members, elect to assume, in whole or in part, the powers and duties of the commissioner and the department assigned by the local law that added this section, provided that such commission notifies the mayor, the council and the commissioner in writing of such election either (i) within 30 days of the enactment of the local law that added this section, or (ii) subsequently, no less than six months prior to the date that the assumption of powers and duties pursuant to such election takes effect. In the event of an election that is made pursuant to clause (ii) of the preceding sentence, such commission and the department shall take measures to effect an orderly transfer of such powers and duties. Such commission and the department shall make all necessary arrangements with respect to any relevant property, contracts, personnel, funding, administration, enforcement and pending matters. No judicial or administrative action or proceeding, civil or criminal, pending at the time of such election, or any contract in effect at the time of such election, shall be affected or abated by such assumption; all such actions, proceedings or contracts may be continued, but upon the effective date of the assumption of powers and duties by such commission, the same may be prosecuted, defended or enforced by such commission. Any rules promulgated by the department pursuant to the local law that added this section shall remain in effect as rules of such commission until such time as they are repealed or amended by such commission.

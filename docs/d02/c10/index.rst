@@ -1,12 +1,12 @@
 Title 20: Tax Appeals Tribunal
-===================================================
+======================================================================================================
 
 Chapter 1: Practice and Procedure
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 General.* ::
+*§ 1-01 General.*
 
 
 (a) Scope. These rules shall govern all proceedings before the tribunal.
@@ -22,7 +22,7 @@ Chapter 1: Practice and Procedure
 
 
 
-*§ 1-02 Definitions.* ::
+*§ 1-02 Definitions.*
 
 
 Unless the context requires otherwise, the definitions contained in this section apply.
@@ -70,7 +70,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 
 
-*§ 1-03 Representation.* ::
+*§ 1-03 Representation.*
 
 
 (a) Representation of petitioner in proceedings before the tribunal.
@@ -98,7 +98,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 
 
-*§ 1-04 Pleadings.* ::
+*§ 1-04 Pleadings.*
 
 
 (a) Petition. All proceedings in the tribunal must be commenced by the filing of a petition with the tribunal and the service of a copy thereof upon the commissioner of finance. A form of petition is available from the tribunal upon written request.
@@ -186,7 +186,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 
 
-*§ 1-05 Motion Practice.* ::
+*§ 1-05 Motion Practice.*
 
 
 (a) General. To enable the parties to resolve the controversy expeditiously, these rules permit a motion to the tribunal for an order that is appropriate in a proceeding governed by the CPLR, but do not permit a motion for costs or disbursements or motions related to discovery procedures as provided for in the CPLR. For good cause shown, the tribunal commissioners or an administrative law judge designated by the chief administrative law judge may order a form of discovery not otherwise provided for under these rules.
@@ -290,7 +290,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 
 
-*§ 1-06 Bills of Particulars.* ::
+*§ 1-06 Bills of Particulars.*
 
 
 (a) Notice of demand. After all pleadings have been served, a party may wish the adverse party to supply further details of the allegations in a pleading, to prevent surprise at the hearing and to limit the scope of the proof. For this purpose, a party may serve written notice on the adverse party demanding a bill of particulars within 60 days of the date on which the last pleading was served.
@@ -304,7 +304,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 
 
-*§ 1-07 Requests for Admissions; Production; Depositions.* ::
+*§ 1-07 Requests for Admissions; Production; Depositions.*
 
 
 (a) Request for admissions. At any time after service of the answer and not later than 20 days before the hearing, a party may serve upon any other party a written request for admission of the following:
@@ -396,7 +396,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 
 
-*§ 1-08 Subpoena.* ::
+*§ 1-08 Subpoena.*
 
 
 (a) Upon the request of any party, the administrative law judge or presiding officer assigned to the case will issue subpoenas to require the attendance of witnesses at a hearing or to require the production of documentary evidence; provided however, that, where it appears to the judge or officer requested to issue the subpoena that the subpoena sought may be unreasonable, oppressive, excessive in scope, or unduly burdensome, such judge or officer may, as a condition precedent to the issuance of the subpoena, require the person seeking the subpoena to show the general relevance and reasonable scope of the testimony or other evidence sought. In the event the judge or officer requested to issue the subpoena shall after consideration of all the circumstances determine that the subpoena or any of its terms are unreasonable, oppressive, excessive in scope, or unduly burdensome, such judge or officer may refuse to issue the subpoena, or issue it only upon such conditions as such judge or officer deems appropriate. In the event that an administrative law judge or presiding officer has not been assigned to the case or the administrative law judge or presiding officer assigned is unavailable, the request to issue subpoenas may be made to the chief administrative law judge. Subpoenas will be delivered to the person requesting them and service thereof will be said person's responsibility. However, an attorney representing any party in a proceeding may issue a subpoena pursuant to § 2302 of the CPLR.
@@ -408,7 +408,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 
 
-*§ 1-09 Stipulations.* ::
+*§ 1-09 Stipulations.*
 
 
 (a) General.
@@ -438,7 +438,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 
 
-*§ 1-10 Agreements to Extend or Adjourn.* ::
+*§ 1-10 Agreements to Extend or Adjourn.*
 
 
 In lieu of making a motion for an extension of time or for an adjournment under these rules, any party may obtain such an extension or adjournment by filing with the tribunal a writing, signed by all of the parties, reflecting the parties' agreement to such extension or adjournment, subject to the approval of the tribunal. Such stipulation shall be filed, prior to the date from which the extension or adjournment is sought, with the administrative law judge or presiding officer to whom the case has been assigned, or, if such administrative law judge or presiding officer is unavailable or no such assignment has been made, with the chief administrative law judge, or, if the case is before the tribunal commissioners, with the president of the tribunal.
@@ -448,7 +448,7 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
 
 
-*§ 1-11 Small Claims Hearings.* ::
+*§ 1-11 Small Claims Hearings.*
 
 
 (a) General. A petitioner who wishes to have the proceedings in his or her case conducted in the small claims unit may so elect at the time of the filing of the petition (or, if the petition was filed before the effective date of these rules, at any time before the hearing, subject to approval of the chief administrative law judge), if the amount in controversy meets the criterion contained in subdivision (b) of this section. The small claims hearing will be an adversary proceeding conducted by an impartial presiding officer. The presiding officer shall conduct the hearing (see subdivision (f) of this section) in a fair manner that permits the parties to offer all relevant evidence to establish their positions. Where certain points or issues are unclear, the presiding officer may ask questions of the parties or of witnesses for the purpose of clarifying the record.
@@ -500,7 +500,7 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
 
 
-*§ 1-12 Hearings Before Administrative Law Judges.* ::
+*§ 1-12 Hearings Before Administrative Law Judges.*
 
 
 (a) Notice.
@@ -560,7 +560,7 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
 
 
-*§ 1-13 Review by Tribunal Commissioners.* ::
+*§ 1-13 Review by Tribunal Commissioners.*
 
 
 (a) (1) (i) Filing and serving of exception. Within 30 days of the giving of notice of the determination of an administrative law judge, or within 30 days of service of a copy of an exception taken by the other party, any party may take exception to such determination and seek review thereof by the tribunal commissioners, by filing an exception and 3 conformed copies with the president of the tribunal, either in person or by certified or registered mail addressed to the tribunal. A copy of the exception shall be served at the same time on the other party.
@@ -612,7 +612,7 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
 
 
-*§ 1-14 Expedited Proceedings.* ::
+*§ 1-14 Expedited Proceedings.*
 
 
 (a) Entitlement to expedited proceedings. An expedited proceeding shall be scheduled in any matter commenced by the filing of a petition protesting a jeopardy assessment or predecision warrant based thereon, unless the petitioner elects otherwise.
@@ -630,7 +630,7 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
 
 
-*§ 1-15 Sanctions for Frivolous Submissions.* ::
+*§ 1-15 Sanctions for Frivolous Submissions.*
 
 
 If any person shall sign and submit to the tribunal a paper that
@@ -646,7 +646,7 @@ If any person shall sign and submit to the tribunal a paper that
 
 
 
-*§ 1-16 Record of Hearing.* ::
+*§ 1-16 Record of Hearing.*
 
 
 (a) Within a reasonable period of time after a determination of an administrative law judge, or where exception is taken to an administrative law judge's determination within a reasonable period of time after a decision of the tribunal commissioners, but prior to the commencement of judicial review of such decision, a petitioner may request that the tribunal provide a copy of the record. The record shall consist of:
@@ -668,7 +668,7 @@ If any person shall sign and submit to the tribunal a paper that
 
 
 
-*§ 1-17 Filing and Service of Documents.* ::
+*§ 1-17 Filing and Service of Documents.*
 
 
 (a) General rule.
@@ -718,7 +718,7 @@ If any person shall sign and submit to the tribunal a paper that
 
 
 
-*§ 1-18 Judicial Review.* ::
+*§ 1-18 Judicial Review.*
 
 
 A decision of the tribunal commissioners which is not subject to any further administrative review shall irrevocably decide all the issues raised in the proceeding unless, within four months after the issuance of such decision by the tribunal commissioners and the giving of notice of such decision to the parties, the petitioner applies for judicial review in the manner provided by article 78 of the CPLR. However, an order by the tribunal commissioners that does not finally decide all matters and issues contained in the petition shall not, for purposes of review under article 78 of the CPLR, be deemed final and conclusive until the tribunal commissioners shall have rendered a decision on the remaining matters and issues.
@@ -728,7 +728,7 @@ A decision of the tribunal commissioners which is not subject to any further adm
 
 
 
-*§ 1-19 Extension of Time; Mailing of Determinations and Decisions; Availability of Determinations and Decisions and Rules.* ::
+*§ 1-19 Extension of Time; Mailing of Determinations and Decisions; Availability of Determinations and Decisions and Rules.*
 
 
 (a) Extension of time. The tribunal commissioners, administrative law judges, or presiding officers may, on their own motion or at the request of any party, order a continuance, extension of time, or adjournment for good cause, unless prohibited by statute from doing so. Notice of any such order will be given to the parties. Where the dates for filing briefs are fixed, an extension of time for filing a brief shall correspondingly extend the time for filing any other brief due at the same time and for filing succeeding briefs, unless the tribunal commissioners, administrative law judge or presiding officer shall order otherwise.

@@ -1,8 +1,8 @@
 Title 38-A: Civilian Complaint Review Board
-===================================================
+======================================================================================================
 
 Chapter 1: Rules of the Civilian Complaint Review Board
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -11,7 +11,7 @@ Chapter 1: Rules of the Civilian Complaint Review Board
 
 
 
-*§ 1-01 Definitions.* ::
+*§ 1-01 Definitions.*
 
 
 As used in this chapter:
@@ -59,7 +59,7 @@ Victim. The term "Victim" refers to the person harmed by at least one or more su
 
 
 
-*§ 1-02 Jurisdiction.* ::
+*§ 1-02 Jurisdiction.*
 
 
 (a) Pursuant to Chapter 18-A § 440 (c)(1) of the New York City Charter, the Board has the power to receive, investigate, hear, make findings and recommend action upon complaints by members of the public against uniformed members of the New York City Police Department that allege misconduct involving excessive use of force, abuse of authority, discourtesy, or use of offensive language, including, but not limited to, slurs relating to race, ethnicity, religion, gender, sexual orientation and disability.
@@ -80,7 +80,7 @@ Victim. The term "Victim" refers to the person harmed by at least one or more su
 
 
 
-*§ 1-11 Filing Complaints.* ::
+*§ 1-11 Filing Complaints.*
 
 
 (a) An Alleged Victim, a parent, legal guardian or legal representative if the Alleged Victim is a minor, or any individual having Personal Knowledge (as defined in 38-A RCNY § 1-01) of alleged misconduct by a member of the New York City Police Department, each have standing to file a complaint.
@@ -96,7 +96,7 @@ Victim. The term "Victim" refers to the person harmed by at least one or more su
 
 
 
-*§ 1-12 Written Complaints.* ::
+*§ 1-12 Written Complaints.*
 
 
 Written complaints may be sent to the Board’s offices by mail or email or may be submitted in person at that office during operating hours. Written complaints may be filed on forms furnished by the Board. The Board will accept written complaints filed at local precincts and forwarded by the Police Department. The Board will also accept complaints submitted through the CCRB’s website and by such other methods as the Board may determine.
@@ -108,7 +108,7 @@ Written complaints may be sent to the Board’s offices by mail or email or may 
 
 
 
-*§ 1-13 Telephone or In-Person Complaints.* ::
+*§ 1-13 Telephone or In-Person Complaints.*
 
 
 Telephone complaints will be received twenty-four hours a day, seven days a week by the Board. Complaints can be reported in person at the Board office during operating hours. Complaints may also be filed at public locations to be designated by the Board.
@@ -120,7 +120,7 @@ Telephone complaints will be received twenty-four hours a day, seven days a week
 
 
 
-*§ 1-14 Referrals of Complaints.* ::
+*§ 1-14 Referrals of Complaints.*
 
 
 (a) Where the Board receives allegations about persons or matters falling within the sole jurisdiction of another agency (and not that of the Board), the Chair or the Executive Director will refer such allegations to such other agency.
@@ -136,7 +136,7 @@ Telephone complaints will be received twenty-four hours a day, seven days a week
 
 
 
-*§ 1-15 Late Complaints.* ::
+*§ 1-15 Late Complaints.*
 
 
 (a) When a complaint is filed with the Board after the 18-month statute of limitations has expired pursuant to Civil Service Law § 75(4), the Chair in consultation with the Executive Director will determine whether to investigate the complaint.
@@ -152,7 +152,7 @@ Telephone complaints will be received twenty-four hours a day, seven days a week
 
 
 
-*§ 1-16 Notification to the Police Department.* ::
+*§ 1-16 Notification to the Police Department.*
 
 
 With respect to complaints about officers and matters within the Board's jurisdiction, the Board will notify the Police Department of the actions complained of within a reasonable period of time after receipt of the complaint.
@@ -169,7 +169,7 @@ With respect to complaints about officers and matters within the Board's jurisdi
 
 
 
-*§ 1-21 Statement of Policy.* ::
+*§ 1-21 Statement of Policy.*
 
 
 The procedures to be followed in investigating complaints will be such as in the opinion of the Full Board will best facilitate accurate, orderly and thorough fact-finding.
@@ -181,7 +181,7 @@ The procedures to be followed in investigating complaints will be such as in the
 
 
 
-*§ 1-22 Method of Investigation of Complaints.* ::
+*§ 1-22 Method of Investigation of Complaints.*
 
 
 In investigating a complaint, Agency Staff may utilize one or more of the methods set forth in this subchapter, and any other techniques not enumerated here, as may be allowed by law in conducting an investigation.
@@ -193,7 +193,7 @@ In investigating a complaint, Agency Staff may utilize one or more of the method
 
 
 
-*§ 1-23 Obtaining Documentary and Other Evidence.* ::
+*§ 1-23 Obtaining Documentary and Other Evidence.*
 
 
 (a) Board investigators may make written or oral requests for information or documents.
@@ -213,7 +213,7 @@ In investigating a complaint, Agency Staff may utilize one or more of the method
 
 
 
-*§ 1-24 Conduct of Interviews.* ::
+*§ 1-24 Conduct of Interviews.*
 
 
 (a) It is the intent of these Rules not to alter the rights afforded to police officers by the Police Department Patrol Guide with respect to interviews in a manner that diminishes such rights, including but not limited to the right to notice of an interview, the right to counsel, and the right not to be compelled to incriminate oneself.
@@ -288,7 +288,7 @@ The interview is now concluded.
 
 
 
-*§ 1-31 Assignment of Cases.* ::
+*§ 1-31 Assignment of Cases.*
 
 
 (a) The Chair or the Executive Director will assign to a panel consisting of at least three Board members, or may assign to the Full Board for review, all Cases which have been fully investigated, and such other Cases or categories of Cases as the Board may determine by resolution.
@@ -304,7 +304,7 @@ The interview is now concluded.
 
 
 
-*§ 1-32 Panel or Board Review of Cases.* ::
+*§ 1-32 Panel or Board Review of Cases.*
 
 
 (a) The panel or the Full Board will review the investigatory materials for each assigned Case, and report its findings and recommendations in writing.
@@ -320,7 +320,7 @@ The interview is now concluded.
 
 
 
-*§ 1-33 Case Dispositions.* ::
+*§ 1-33 Case Dispositions.*
 
 
 (a) Pursuant to Chapter 18-A § 440(c)(1) of the New York City Charter, no finding or recommendation shall be based solely upon an unsworn complaint or statement, nor shall prior unsubstantiated, unfounded or withdrawn complaints be the sole basis for any such finding or recommendation.
@@ -374,7 +374,7 @@ The interview is now concluded.
 
 
 
-*§ 1-34 Cases Closed without a Full Investigation.* ::
+*§ 1-34 Cases Closed without a Full Investigation.*
 
 
 (a) The Full Board, a panel, or the Executive Director may close without conducting a full investigation any Case falling within categories (5) through (17) of 38-A RCNY § 1-33(e).
@@ -390,7 +390,7 @@ The interview is now concluded.
 
 
 
-*§ 1-35 Communications with and Notifications to Complainants, Alleged Victims, and Reporting Non-Witnesses Regarding Status of Complaints.* ::
+*§ 1-35 Communications with and Notifications to Complainants, Alleged Victims, and Reporting Non-Witnesses Regarding Status of Complaints.*
 
 
 (a) Within seven business days of the receipt of a complaint, the Board will notify a Complainant, Alleged Victim, and/or Reporting Non-Witness by telephone or letter that the Civilian Complaint Review Board has received the complaint, and must identify the Case number and Agency Staff assigned to investigate the Case.
@@ -408,7 +408,7 @@ The interview is now concluded.
 
 
 
-*§ 1-36 Reconsideration or Reopening of Cases.* ::
+*§ 1-36 Reconsideration or Reopening of Cases.*
 
 
 (a) Upon receipt of a written request to reconsider or reopen a Case from a Complainant, Alleged Victim, Victim or subject police officer, a panel, Chair, or Executive Director may:
@@ -455,7 +455,7 @@ In considering requests from the Police Department Advocate, any such request mu
 
 
 
-*§ 1-41 Introduction.* ::
+*§ 1-41 Introduction.*
 
 
 This Subchapter E is adopted pursuant to a Memorandum of Understanding (the "MOU") dated April 2, 2012, and made between the Police Commissioner and the Chair, concerning the administrative prosecution by the Board of Cases in which it finds that an allegation falling within its jurisdiction has been substantiated against an officer and recommends that formal Charges and specifications be brought against such officer. The MOU takes effect on the date on which this Subchapter E takes effect and applies to allegations substantiated by the Board and in which the Board has recommended that charges and specifications be preferred on or after such date. This Subchapter E does not create any rights or benefits in any third parties.
@@ -467,7 +467,7 @@ This Subchapter E is adopted pursuant to a Memorandum of Understanding (the "MOU
 
 
 
-*§ 1-42 Prosecution of Charges.* ::
+*§ 1-42 Prosecution of Charges.*
 
 
 (a) Where the Board finds an allegation falling within its jurisdiction to have been substantiated against an officer and recommends that Charges be brought against such officer, the Board will promptly notify the Police Commissioner of its finding and recommendation.
@@ -501,7 +501,7 @@ In the formal written request, the Chief Prosecutor or Executive Director, or ei
 
 
 
-*§ 1-43 Expedited Cases.* ::
+*§ 1-43 Expedited Cases.*
 
 
 If the Civilian Complaint Review Board becomes aware that a Case requires expedited Prosecution, the Civilian Complaint Review Board shall make every reasonable effort to conclude such prosecution within the required time frame. If the Civilian Complaint Review Board determines that it will not be able to conclude such Prosecution within such time frame the Civilian Complaint Review Board will decline to prosecute such Case and request that the Police Department Advocate undertake such Prosecution.
@@ -513,7 +513,7 @@ If the Civilian Complaint Review Board becomes aware that a Case requires expedi
 
 
 
-*§ 1-44 Other Misconduct.* ::
+*§ 1-44 Other Misconduct.*
 
 
 If during the course of a Prosecution the Civilian Complaint Review Board becomes aware of possible misconduct falling outside its jurisdiction, such as the making of a false statement by an officer, the Board shall not itself prosecute such possible misconduct but shall instead immediately refer such possible misconduct to the Police Department for investigation and possible prosecution by the Police Department. The Civilian Complaint Review Board will provide to the Police Department such assistance as may be requested, in the investigation or Prosecution by the Police Department of such possible misconduct and shall, if necessary, coordinate its Prosecution with that of the Police Department. Other misconduct will be noted in case dispositions by categories describing the possible misconduct and the evidence of such misconduct.
@@ -525,7 +525,7 @@ If during the course of a Prosecution the Civilian Complaint Review Board become
 
 
 
-*§ 1-45 Police Department Procedures and Disciplinary Practices.* ::
+*§ 1-45 Police Department Procedures and Disciplinary Practices.*
 
 
 (a) The Police Commissioner retains in all respects the authority and discretion to make final disciplinary determinations.
@@ -549,7 +549,7 @@ If during the course of a Prosecution the Civilian Complaint Review Board become
 
 
 
-*§ 1-46 Other Matters Relating to Administrative Prosecutions.* ::
+*§ 1-46 Other Matters Relating to Administrative Prosecutions.*
 
 
 (a) The Police Department will upon receipt send to the Civilian Complaint Review Board a copy of each report and recommendation issued by the Trial Commissioner with respect of a Prosecution. The Civilian Complaint Review Board may provide to the Trial Commissioner a letter commenting on such report and recommendation, commonly referred to as a "Fogel" letter.
@@ -576,7 +576,7 @@ If during the course of a Prosecution the Civilian Complaint Review Board become
 
 
 
-*§ 1-47 Mediation.* ::
+*§ 1-47 Mediation.*
 
 
 (a) A Complainant and/or Alleged Victim and the subject officer may choose to resolve a complaint by means of Mediation, unless the Board or a panel thereof determines that the complaint is not appropriate for mediation. The mediator will be designated by the Executive Director.
@@ -609,7 +609,7 @@ If during the course of a Prosecution the Civilian Complaint Review Board become
 
 
 
-*§ 1-51 Meetings of the Board.* ::
+*§ 1-51 Meetings of the Board.*
 
 
 (a) The Full Board must meet at least monthly, at which meeting it will consider Cases referred to it and conduct any other business.
@@ -623,7 +623,7 @@ If during the course of a Prosecution the Civilian Complaint Review Board become
 
 
 
-*§ 1-52 Panel and Board Meetings: General Matters.* ::
+*§ 1-52 Panel and Board Meetings: General Matters.*
 
 
 (a) If a Board member has a personal, business or other relationship or association with a party to or a witness in a Case before a panel to which such member has been assigned, the member must disclose this situation to the Chair, and request that the Case be transferred to another panel. If a Board member has such relationship in a Case before the Full Board, the member should recuse themselves from deliberations or action in connection with that Case.
@@ -637,7 +637,7 @@ If during the course of a Prosecution the Civilian Complaint Review Board become
 
 
 
-*§ 1-53 Authority given to the Executive Director.* ::
+*§ 1-53 Authority given to the Executive Director.*
 
 
 (a) The authority given under these Rules to the Executive Director will:
@@ -655,7 +655,7 @@ If during the course of a Prosecution the Civilian Complaint Review Board become
 
 
 
-*§ 1-54 Committees and Subcommittees.* ::
+*§ 1-54 Committees and Subcommittees.*
 
 
 The Chair has the authority to create committees and/or subcommittees to assist the Board in fulfilling its responsibilities pursuant to law. The members of any such created committees and/or subcommittees will be chosen by the Chair and Executive Director, and will be chosen from the Board as well as Agency Staff, subject to review by the Full Board.
@@ -667,7 +667,7 @@ The Chair has the authority to create committees and/or subcommittees to assist 
 
 
 
-*§ 1-55 Reconsideration or Reopening of Cases. [Repealed]* ::
+*§ 1-55 Reconsideration or Reopening of Cases. [Repealed]*
 
 
 
@@ -677,7 +677,7 @@ The Chair has the authority to create committees and/or subcommittees to assist 
 
 
 
-*§ 1-56 Authority given to the Executive Director.* ::
+*§ 1-56 Authority given to the Executive Director.*
 
 
 The authority given under these Rules to the Executive Director shall

@@ -1,10 +1,10 @@
 Chapter 2: Council
-===================================================
+======================================================================================================
 Section 21.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 21. The Council.* ::
+*Section 21. The Council.*
 
 
 There shall be a council which shall be the legislative body of the city. In addition to the other powers vested in it by this charter and other law, the council shall be vested with the legislative power of the city. Any enumeration of powers in this charter shall not be held to limit the legislative power of the council, except as specifically provided in this charter.
@@ -13,10 +13,10 @@ There shall be a council which shall be the legislative body of the city. In add
 
 
 Section 22.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 22. Composition of council.* ::
+*Section 22. Composition of council.*
 
 
 a. The council shall consist of the public advocate and of fifty-one other members termed council members. Consistent with state law, the size of the council and the number of districts from which council members are elected may be increased by local law without approval pursuant to section thirty-eight.
@@ -27,10 +27,10 @@ b. One council member shall be elected from each council district as now or here
 
 
 Section 23.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 23. Council members not to be employees of agencies.* ::
+*Section 23. Council members not to be employees of agencies.*
 
 
 No council member shall be an employee of any agency in any capacity whatever.
@@ -39,10 +39,10 @@ No council member shall be an employee of any agency in any capacity whatever.
 
 
 Section 24.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 24. Public advocate.* ::
+*Section 24. Public advocate.*
 
 
 a. The public advocate shall be elected by the electors of the city at the same time and for the same term as in this charter prescribed for the mayor. A public advocate who resigns or is removed from office prior to the completion of a full term shall be deemed to have held that office for a full term for purposes of Section 1138 of the charter.
@@ -107,10 +107,10 @@ o. 1. For fiscal year 2021 and each fiscal year thereafter, the appropriations a
 
 
 Section 25.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 25. Election; term; vacancies.* ::
+*Section 25. Election; term; vacancies.*
 
 
 a. The council members shall be elected at the general election in the year nineteen hundred seventy-seven and every fourth year thereafter and the term of office of each council member shall commence on the first day of January after the elections and shall continue for four years thereafter; provided, however, that the council member elected at the general election in the year two thousand and one and at the general election in every twentieth year thereafter shall serve for a term of two years commencing on the first day of January after such election; and provided further that an additional election of Council Members shall be held at the general election in the year two thousand three and at the general election every twentieth year thereafter and that the members elected at each such additional election shall serve for a term of two years beginning on the first day of January after such election.
@@ -149,10 +149,10 @@ b. Any vacancy which may occur among the council members shall be filled by popu
 
 
 Section 26.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 26. Salaries and allowances.* ::
+*Section 26. Salaries and allowances.*
 
 
 a. The salary of the public advocate shall be one hundred eighty-four thousand eight hundred dollars a year.
@@ -167,10 +167,10 @@ c. If prior to the enactment of a local law increasing the compensation of counc
 
 
 Section 27.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 27. Local laws and resolutions increasing or decreasing salaries or allowances.* ::
+*Section 27. Local laws and resolutions increasing or decreasing salaries or allowances.*
 
 
 No local law or resolution increasing or decreasing the salaries, or other allowances, in accordance with section twenty-six shall be adopted during the period between the general election day and the thirty-first day of December, both such days inclusive, in any year in which all of the council members are elected.
@@ -179,10 +179,10 @@ No local law or resolution increasing or decreasing the salaries, or other allow
 
 
 Section 28.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 28. Powers of council.* ::
+*Section 28. Powers of council.*
 
 
 a. The council in addition to all enumerated powers shall have power to adopt local laws which it deems appropriate, which are not inconsistent with the provisions of this charter or with the constitution or laws of the United States or this state, for the good rule and government of the city; for the order, protection and government of persons and property; for the preservation of the public health, comfort, peace and prosperity of the city and its inhabitants; and to effectuate the purposes and provisions of this charter or of the other law relating to the city. The power of the council to act with respect to matters set forth in sections one hundred ninety-seven-c and two hundred shall be limited by the provisions of section one hundred ninety seven-d.
@@ -203,10 +203,10 @@ g. The council shall hold a public hearing prior to the consideration of any res
 
 
 Section 29.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 29. Power of investigation and oversight.* ::
+*Section 29. Power of investigation and oversight.*
 
 
 a. The council, acting as a committee of the whole, and each standing or special committee of the council, through hearings or otherwise:
@@ -221,10 +221,10 @@ b. Any standing or special committee shall have power to require the attendance 
 
 
 Section 30.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 30. Council review of city procurement policies and procedures.* ::
+*Section 30. Council review of city procurement policies and procedures.*
 
 
 The council shall periodically review all city procurement policies and procedures, including:
@@ -243,10 +243,10 @@ The council shall periodically review all city procurement policies and procedur
 
 
 Section 31.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 31. Power of advice and consent.* ::
+*Section 31. Power of advice and consent.*
 
 
 Appointment by the mayor of the commissioner of investigation and the corporation counsel, and of the members of the art commission, board of health (other than the chair), board of standards and appeals, city planning commission (other than the chair), civil service commission, landmarks preservation commission, tax commission, taxi and limousine commission and the public members of the environmental control board shall be made with the advice and consent of the council after a public hearing. Within 30 days after the first stated meeting of the council after receipt of a nomination, the council shall hold a hearing and act upon such nomination and in the event it does not act within such period, the nomination shall be deemed to be confirmed.
@@ -257,10 +257,10 @@ Appointment by the mayor of the commissioner of investigation and the corporatio
 
 
 Section 32.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 32. Local laws.* ::
+*Section 32. Local laws.*
 
 
 Except as otherwise provided by law, all legislative action by the council shall be by local law. The style of local law shall be "Be it enacted by the council as follows." Every local law shall embrace only one subject. The title shall briefly refer to the subject-matter.
@@ -269,10 +269,10 @@ Except as otherwise provided by law, all legislative action by the council shall
 
 
 Section 33.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 33. Local laws and budget modifications; fiscal impact statements.* ::
+*Section 33. Local laws and budget modifications; fiscal impact statements.*
 
 
 a. No proposed local law or budget modification shall be voted on by a council committee or the council unless it is accompanied by a fiscal impact statement containing the information set forth in subdivision b of this section.
@@ -289,10 +289,10 @@ e. If the estimate or estimates contained in the fiscal impact statement are ina
 
 
 Section 34.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 34. Vote required for local law or resolution.* ::
+*Section 34. Vote required for local law or resolution.*
 
 
 Except as otherwise provided by law, no local law or resolution shall be passed except by at least the majority affirmative vote of all the council members.
@@ -301,10 +301,10 @@ Except as otherwise provided by law, no local law or resolution shall be passed 
 
 
 Section 35.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 35. Ayes and noes.* ::
+*Section 35. Ayes and noes.*
 
 
 a. On the final passage of a local law or resolution the question shall be taken by ayes and noes, which shall be entered in the journal of proceedings. No such vote may be cast except by a council member who is present and who casts his or her own vote in the manner prescribed by the rules of the council.
@@ -315,10 +315,10 @@ b. All committee votes on proposed local laws or resolutions shall be taken by a
 
 
 Section 36.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 36. Local laws; passage.* ::
+*Section 36. Local laws; passage.*
 
 
 No local law shall be passed until it shall have been in its final form and upon the desks of the council members at least seven calendar days, exclusive of Sundays, prior to its final passage, unless the mayor shall have certified as to the necessity for its immediate passage and such local law be passed by the affirmative vote of two-thirds of all the council members.
@@ -329,10 +329,10 @@ For purposes of this section, a local law shall be deemed to be upon the desks o
 
 
 Section 37.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 37. Local laws; action by mayor.* ::
+*Section 37. Local laws; action by mayor.*
 
 
 a. Every local law certified by the clerk of the council, after its passage by the council, shall be presented to the mayor for approval.
@@ -343,10 +343,10 @@ b. If the mayor approves the local law, the mayor shall sign it and return it to
 
 
 Section 38.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 38. Local laws; referendum.* ::
+*Section 38. Local laws; referendum.*
 
 
 A local law shall be submitted for the approval of the electors at the next general election held not less than sixty days after the adoption thereof, and shall become operative as prescribed therein only when approved at such election by the affirmative vote of a majority of the qualified electors of the city voting upon the proposition, if it:
@@ -391,10 +391,10 @@ A local law shall be submitted for the approval of the electors at the next gene
 
 
 Section 39.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 39. Reconsideration.* ::
+*Section 39. Reconsideration.*
 
 
 At any time prior to the election at which a local law is to be submitted to the electors for approval pursuant to this charter, the council, not later than fifteen days prior to the election, may reconsider its action thereon and repeal such local law without submission to the mayor, whereupon the proposition for its approval shall not be submitted at such election, or if submitted the vote of the electors thereon shall be without effect.
@@ -403,10 +403,10 @@ At any time prior to the election at which a local law is to be submitted to the
 
 
 Section 40.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 40. Amendment of charter.* ::
+*Section 40. Amendment of charter.*
 
 
 Amendments to this charter may be adopted by any of the following methods:
@@ -431,10 +431,10 @@ Amendments to this charter may be adopted by any of the following methods:
 
 
 Section 41.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 41. Submission of local laws or amendments.* ::
+*Section 41. Submission of local laws or amendments.*
 
 
 A proposition for the submission of a local law or an amendment to this charter for the approval of the electors pursuant to this charter shall contain the title of such local law or a brief statement of the subject of such amendment. The city clerk with the advice of the corporation counsel shall prepare an abstract of such local law or amendment concisely stating the title or subject and the purpose and effect thereof in clear language, and forthwith shall transmit such proposition and such abstract to the election officers charged with the duty of publishing the notice of and furnishing the supplies for such election. A sufficient number of copies of such abstract shall be printed, in such manner that the abstract shall appear with the question to appear on the ballot in bold type and separately from the text of the proposition, and shall be delivered with the other election supplies and distributed to the electors at the time of the registration of voters and at the election. If there be more than one such proposition to be voted upon at such election, each such proposition shall be separately, consecutively and consistently numbered on the ballot and on the abstract. In case of a conflict between two local laws or two amendments adopted at the same election, the one receiving the largest affirmative vote shall control.
@@ -443,10 +443,10 @@ A proposition for the submission of a local law or an amendment to this charter 
 
 
 Section 42.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 42. Meetings.* ::
+*Section 42. Meetings.*
 
 
 The first meeting of the council in each year shall be held on the first Wednesday after the first Monday of January at noon. All meetings of the council shall be held as provided by its rules; provided, however, that at least two stated meetings shall be held each month, except in its discretion in July and August. A majority of the council members shall constitute a quorum. At least thirty-six hours prior to a stated meeting of the council, or as soon as practicable prior to a special meeting, the council shall publish and make publicly available a proposed agenda for such meeting, including a list of all proposed local laws or resolutions to be considered at such meetings.
@@ -455,10 +455,10 @@ The first meeting of the council in each year shall be held on the first Wednesd
 
 
 Section 43.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 43. Special meetings.* ::
+*Section 43. Special meetings.*
 
 
 The mayor may at any time call special meetings of the council. He shall also call a special meeting when a requisition for that purpose signed by five council members has been presented to him. Not less than one day before a special meeting is held, notice of the time thereof and of the business proposed to be transacted, signed by the mayor, shall be published in the City Record, and at the same time the city clerk shall cause a copy of such notice to be left at or sent by post to the usual place of abode or of business of each council member; but want of service of a notice upon any council member shall not affect the validity of the meeting. No business shall be transacted at such special meetings other than that specified in the notice relating thereto.
@@ -467,10 +467,10 @@ The mayor may at any time call special meetings of the council. He shall also ca
 
 
 Section 44.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 44. Speaker.* ::
+*Section 44. Speaker.*
 
 
 The council shall elect from among its members a speaker and such other officers as it deems appropriate. The speaker shall preside over the meetings of the council. During any period when the public advocate is acting as mayor, or when a vacancy exists in the office of the public advocate, the speaker shall act as public advocate pending the filling of the vacancy pursuant to subdivision c of section twenty-four, and shall be a member of every board of which the public advocate is a member by virtue of his or her office.
@@ -479,10 +479,10 @@ The council shall elect from among its members a speaker and such other officers
 
 
 Section 45.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 45. Sergeant-at-arms; procedure; expulsion of members.* ::
+*Section 45. Sergeant-at-arms; procedure; expulsion of members.*
 
 
 The council may elect a sergeant-at-arms and such research, drafting, clerical and other assistants as are needful to its purposes, within the appropriation provided therefor. It may appoint committees and shall appoint a finance committee properly staffed to consider budgetary and related matters and a land use committee consisting of at least one council member from each borough; shall be the judge of the election returns and qualifications of its own members, subject, however, to review by any court of competent jurisdiction; shall keep a public journal of its proceedings; shall make a complete transcript of each of its meetings and committee hearings available for public inspection free of charge within sixty days after such meeting or hearing and provide a copy of any requested pages of such transcript at a reasonable fee to cover copying and, if relevant, mailing costs; shall sit with open doors; shall have authority to compel the attendance of absent members and to punish its members for disorderly behavior, and to expel any member, after charges and a hearing, with the concurrence of two-thirds of all the council members.
@@ -491,10 +491,10 @@ The council may elect a sergeant-at-arms and such research, drafting, clerical a
 
 
 Section 46.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 46. Rules of the council.* ::
+*Section 46. Rules of the council.*
 
 
 The council shall determine the rules of its own proceedings at the first stated meeting of the council in each year and shall file a copy with the city clerk. Such rules shall include, but not be limited to, rules that the chairs of all standing committees be elected by the council as a whole; that the first-named sponsor of a proposed local law or resolution be able to require a committee vote on such proposed local law or resolution; that a majority of the members of the council be able to discharge a proposed local law or resolution from committee; that committees shall provide reasonable advance notice of committee meetings to the public; that all committee votes be recorded and made available to the public; that for council members, earning outside income, as defined in such rules, is prohibited.
@@ -505,10 +505,10 @@ The council shall determine the rules of its own proceedings at the first stated
 
 
 Section 47.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 47. Legislative professional staff.* ::
+*Section 47. Legislative professional staff.*
 
 
 Within appropriations for such purpose, the council shall establish a structure within the City Council and retain professional staff to review and analyze proposed budgets and departmental estimates, requests for new taxes or changes in taxes, budget modifications, capital borrowings and mayoral management reports. Such staff shall assist the committees of the council and Council Members in their analysis of proposed legislation and in review of the performance and management of city agencies.
@@ -517,10 +517,10 @@ Within appropriations for such purpose, the council shall establish a structure 
 
 
 Section 48.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 48. City clerk; duties.* ::
+*Section 48. City clerk; duties.*
 
 
 a. The council shall appoint a clerk, who shall perform such duties as may be prescribed by law. The clerk so appointed shall be the city clerk and the clerk of the council, and shall hold office for six years and until such clerk's successor shall be appointed and has qualified. The city clerk shall have charge of all the papers and documents of the city, except such as are by law committed to the keeping of the several departments or of other officers. The city clerk shall keep the record of the proceedings of the council and shall also keep a separate record of all the local laws of the city in a book to be provided for that purpose, with proper indices, which book shall be deemed a public record of such local laws, and each local law shall be attested by said clerk. Copies of all papers duly filed in the office of the city clerk, and transcripts thereof and of the records of proceedings of the council and copies of the laws, ordinances and local laws of the city, certified by the city clerk under the corporate seal of the city, shall be admissible in evidence in all courts and places in the same manner and for the same purposes as papers or documents similarly authenticated by the clerk of a county. The city clerk may be removed on charges by a two-third vote of all the council members, subject, however, to judicial review. The city clerk shall collect such fees as shall be fixed by law.
@@ -531,10 +531,10 @@ b. It shall be the duty of the city clerk to keep open for inspection at all rea
 
 
 Section 49.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 49. Members not to be questioned for speeches.* ::
+*Section 49. Members not to be questioned for speeches.*
 
 
 For any speech or debate in the council and any committee or subcommittee thereof, the members shall not be questioned in any other place.

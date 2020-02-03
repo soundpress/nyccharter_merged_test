@@ -1,10 +1,10 @@
 Chapter 19: Fire Department
-===================================================
+======================================================================================================
 Section 481.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 481. Department; commissioner.* ::
+*Section 481. Department; commissioner.*
 
 
 There shall be a fire department the head of which shall be the commissioner.
@@ -13,10 +13,10 @@ There shall be a fire department the head of which shall be the commissioner.
 
 
 Section 482.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 482. Chief may be designated as commissioner.* ::
+*Section 482. Chief may be designated as commissioner.*
 
 
 The mayor may designate the chief of the fire department to serve as commissioner, and in such case he shall exercise the powers and duties of commissioner and shall continue to exercise his powers and duties as chief and shall receive the salary of the commissioner. While serving as commissioner the chief shall forfeit none of his pension rights and privileges as chief or his civil service status, and such service and the time during which he so serves shall be part of his time and service as chief. Such designation as commissioner shall be in writing filed in the office of the department and in the office of the mayor.
@@ -25,10 +25,10 @@ The mayor may designate the chief of the fire department to serve as commissione
 
 
 Section 483.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 483. Deputies.* ::
+*Section 483. Deputies.*
 
 
 The commissioner may appoint three deputies, one of whom may perform all the duties and exercise all of the powers of the commissioner except appointment or promotion, detail or dismissal of any member of the uniformed force when thereunto authorized by instrument in writing to be filed in the offices of the mayor and the comptroller.
@@ -37,10 +37,10 @@ The commissioner may appoint three deputies, one of whom may perform all the dut
 
 
 Section 484.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 484. Designation of officers to act.* ::
+*Section 484. Designation of officers to act.*
 
 
 The commissioner may designate a clerk or chief of a bureau, who shall have power, when thereunto authorized by the commissioner by instrument in writing to be filed in the offices of the mayor and comptroller, to sign warrants and perform such other duties incidental thereto as may be required during the absence of the commissioner, and for a period of time to be designated in the instrument.
@@ -49,10 +49,10 @@ The commissioner may designate a clerk or chief of a bureau, who shall have powe
 
 
 Section 485.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 485. Seal.* ::
+*Section 485. Seal.*
 
 
 The commissioner may adopt a seal for the department and direct its use.
@@ -61,10 +61,10 @@ The commissioner may adopt a seal for the department and direct its use.
 
 
 Section 486.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 486. Treasurer.* ::
+*Section 486. Treasurer.*
 
 
 The commissioner shall be the treasurer of the department and shall file in the office of the comptroller a bond for the faithful performance of his duties as such treasurer.
@@ -73,10 +73,10 @@ The commissioner shall be the treasurer of the department and shall file in the 
 
 
 Section 487.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 487. Powers.* ::
+*Section 487. Powers.*
 
 
 a. The commissioner shall have sole and exclusive power and perform all duties for the government, discipline, management, maintenance and direction of the fire department and the premises and property in the custody thereof, however, the commissioner shall provide written notice with supporting documentation at least forty-five days prior to the permanent closing of any firehouse or the permanent removal or relocation of any fire fighting unit to the council members, community boards and borough presidents whose districts are served by such facility or unit and the chairperson of the council's public safety committee. For purposes of this section, the term "permanent" shall mean a time period in excess of six months. In the event that the permanent closing of any firehouse or the permanent removal or relocation of any firefighting unit does not occur within four months of the date of the written notice, the commissioner shall issue another written notice with supporting documentation prior to such permanent removal or relocation. The four months during which the written notice is effective shall be tolled for any period in which a restraining order or injunction prohibiting the closing of such noticed facility or unit shall be in effect.
@@ -97,10 +97,10 @@ g. The department shall have the power and authority to regulate helicopter land
 
 
 Section 488.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 488. Enforcement of fire laws.* ::
+*Section 488. Enforcement of fire laws.*
 
 
 The commissioner shall have the power and it shall be his duty to enforce all laws and the rules and regulations of the board of standards and appeals in respect to:
@@ -115,10 +115,10 @@ The commissioner shall have the power and it shall be his duty to enforce all la
 
 
 Section 489.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 489. Regulation of combustibles, etc.* ::
+*Section 489. Regulation of combustibles, etc.*
 
 
 The commissioner may make and enforce rules and regulations for the manufacture, storage, sale, transportation or use of combustibles, chemicals, explosives, inflammables or other dangerous substances, articles, compounds or mixtures.
@@ -127,10 +127,10 @@ The commissioner may make and enforce rules and regulations for the manufacture,
 
 
 Section 490.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 490. Powers of inspection of the commissioner.* ::
+*Section 490. Powers of inspection of the commissioner.*
 
 
 a. The commissioner is empowered to:
@@ -145,10 +145,10 @@ b. Whenever in any investigation or inspection carried on by the department a co
 
 
 Section 491.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 491. Orders of the commissioner; enforcement.* ::
+*Section 491. Orders of the commissioner; enforcement.*
 
 
 a. The commissioner shall have the power and it shall be his duty:
@@ -163,10 +163,10 @@ b. Every order, requirement, decision or determination of the commissioner shall
 
 
 Section 492.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 492. Right of entry of officers of the department.* ::
+*Section 492. Right of entry of officers of the department.*
 
 
 The commissioner and his deputies and such other officers or employees of the department as are authorized by the commissioner may without fee or hindrance enter and inspect all vessels, premises, grounds, structures, buildings and every part thereof and all underground passages of every sort in the city or in the port of New York for compliance with the provisions of law or rules and regulations enforced by the department. Any refusal to permit such entry or inspection shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days' imprisonment, or by a fine of not more than fifty dollars, or both.
@@ -175,10 +175,10 @@ The commissioner and his deputies and such other officers or employees of the de
 
 
 Section 493.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 493. Member of department; no other office.* ::
+*Section 493. Member of department; no other office.*
 
 
 Notwithstanding any inconsistent provision of any general, special or local law, or rule or regulation, a chief of the fire department shall not serve in any other capacity to the department during his term of office of chief. Any person violating the provisions of this section shall be deemed to have vacated the office of chief so held.

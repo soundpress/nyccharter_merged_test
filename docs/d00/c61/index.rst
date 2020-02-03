@@ -1,10 +1,10 @@
 Chapter 56: Department of Small Business Services
-===================================================
+======================================================================================================
 Section 1300.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1300. Department; commissioner.* ::
+*Section 1300. Department; commissioner.*
 
 
 There shall be a department of small business services, the head of which shall be the commissioner of small business services. The commissioner may appoint deputies within available appropriations.
@@ -13,10 +13,10 @@ There shall be a department of small business services, the head of which shall 
 
 
 Section 1301.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1301. Powers and duties of the commissioner.* ::
+*Section 1301. Powers and duties of the commissioner.*
 
 
 Except as otherwise provided by law, the commissioner shall have charge and control of and be responsible for all functions and operations of the city relating to business and economic development, the enhancement of economic development and financial opportunity for minority and women owned business enterprises, and ensuring equal employment opportunity by city contractors. Such powers and functions shall include, without limitation, the following:
@@ -131,10 +131,10 @@ Except as otherwise provided by law, the commissioner shall have charge and cont
 
 
 Section 1302.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1302. Waterfront plans.* ::
+*Section 1302. Waterfront plans.*
 
 
 a. No marginal street, bulkhead line, pierhead line or other similar line demarcating the extent of waterfront development may be delineated, established or changed by the commissioner except in accordance with sections one hundred ninety-eight and one hundred ninety-nine of this charter. Any existing waterfront plan containing such lines shall be continued in effect and may similarly be changed only in accordance with sections one hundred ninety-eight and one hundred ninety-nine. The commissioner may apply to the city planning commission to incorporate such existing plans for the water front or any portion thereof into the city map pursuant to the procedure for review and approval of a change to the city map. Any plans for the water front or portions thereof so incorporated shall thereafter be discontinued as separate plans.
@@ -147,10 +147,10 @@ c. The commissioner may widen, open, construct, abandon or close any marginal st
 
 
 Section 1303.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1303. Waterfront management advisory board.* ::
+*Section 1303. Waterfront management advisory board.*
 
 
 a. There shall be a waterfront management advisory board, which shall consist of one member from within the office of the mayor as designated by the mayor; the commissioner of small business services; the chairperson of the city planning commission; the commissioner of environmental protection; the commissioner of parks and recreation; the commissioner of housing preservation and development; two city council members to be designated by the speaker of the city council; nine members to be appointed by the mayor and nine members to be appointed by the speaker, provided that the mayor and the speaker each appoint at least one member from each borough. Appointed members shall include representatives of various organizations, industries and advocates interested in the industrial, commercial, residential, recreational or other use or development of the waterfront. The mayor, after consultation with the speaker, shall designate from among the ex officio members a chairperson. The mayor may designate additional members of the mayor's office or any mayoral agency as non-voting members of the board.
@@ -169,10 +169,10 @@ e. The board shall (i) hold at least one meeting every quarter; (ii) consult wit
 
 
 Section 1304.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1304. Division of Economic and Financial Opportunity.* ::
+*Section 1304. Division of Economic and Financial Opportunity.*
 
 
 There shall be a division of economic and financial opportunity within the department.
@@ -241,10 +241,10 @@ g. Small and locally-based business enterprises. In addition to the purposes pro
 
 
 Section 1305.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1305. Division of Labor Services.* ::
+*Section 1305. Division of Labor Services.*
 
 
 There shall be a division of labor services within the department.
@@ -319,10 +319,10 @@ j. This section shall not apply:
 
 
 Section 1306.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1306. The New York city public utility service.* ::
+*Section 1306. The New York city public utility service.*
 
 
 The commissioner or his or her designee shall serve as the director of the public utility service established by section 22-301 of the administrative code.
@@ -331,10 +331,10 @@ The commissioner or his or her designee shall serve as the director of the publi
 
 
 Section 1307.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1307. Dedicated small business advocates.* ::
+*Section 1307. Dedicated small business advocates.*
 
 
 a. There shall be in the department small business advocates dedicated to helping business owners obtain appropriate services from the department and other city, state and federal agencies. The duties of such dedicated small business advocates shall include, but need not be limited to:
@@ -355,10 +355,10 @@ c. The department shall provide an initial written report to the council not lat
 
 
 Section 1308.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1308. Youth workforce development.* ::
+*Section 1308. Youth workforce development.*
 
 
 a. For the purposes of this section:

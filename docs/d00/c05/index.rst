@@ -1,10 +1,10 @@
 Chapter 4: Borough Presidents.
-===================================================
+======================================================================================================
 Section 81.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 81. Qualifications; election; term; salary; removal; vacancy.* ::
+*Section 81. Qualifications; election; term; salary; removal; vacancy.*
 
 
 a. There shall be a president of each borough, who shall be a resident thereof at the time of election and remain a resident thereof throughout the term of office.
@@ -47,10 +47,10 @@ e. Any vacancy in the office of a borough president shall be filled by popular e
 
 
 Section 82.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 82. Powers and duties.* ::
+*Section 82. Powers and duties.*
 
 
 The president of a borough shall:
@@ -147,10 +147,10 @@ The president of a borough shall:
 
 
 Section 83.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 83. Organization of office.* ::
+*Section 83. Organization of office.*
 
 
 Any borough president to the extent to which the organization of such borough president's office is not prescribed by law, may organize such borough president's office into such divisions, bureaus or offices and make such assignments of powers and duties among them, and from time to time change such organization or assignments as the borough president may consider advisable.
@@ -159,10 +159,10 @@ Any borough president to the extent to which the organization of such borough pr
 
 
 Section 85.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 85. Borough board.* ::
+*Section 85. Borough board.*
 
 
 a. There shall be in each borough a board to be known as the borough board which shall consist of the borough president and the district council members from such borough, and the chairperson of each community board in the borough. The borough president shall be the chairperson of such board, which shall hold public hearings at stated intervals in the borough and report to the council, the mayor and the city planning commission on borough programs and proposed borough capital projects. The borough president, the council members from the borough and the chairperson of the community boards in the borough shall be voting members of the borough board but a member from a community board shall vote only on issues that directly affect the community district represented by such member. The borough board shall employ technical and clerical assistance within appropriations for such purposes, and the borough president shall provide necessary additional staff assistance.
@@ -203,10 +203,10 @@ e. Any borough board may adopt rules permitting a member to designate a represen
 
 
 Section 86.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 86. Opening and closing streets.* ::
+*Section 86. Opening and closing streets.*
 
 
 Except in the case of an emergency, no person, agency, business, association, or corporation shall remove the pavement, disturb the surface or otherwise open or close a street, road or highway until a written notice is filed at least ten days in advance of the intended action with the construction coordinator and consulting engineer for the borough in the office of the borough president and the office of district manager for the community district in which the street, road or highway is located. In the event of an emergency, such notice may be made in person or by telephone before the action is instituted and in writing immediately after the action is instituted. If this is not feasible, notice shall be made in person or by telephone and in writing immediately after the action is instituted.

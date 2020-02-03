@@ -1,12 +1,12 @@
 Title 16-A: [Commercial Waste Removal]
-===================================================
+======================================================================================================
 
 Chapter 1: [Commercial Waste Removal] New York City Trade Waste Commission
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 16-501 Definitions.* ::
+*§ 16-501 Definitions.*
 
 
 a. "Applicant" shall mean, if a business entity submitting an application for a license or registration pursuant to this chapter, the entity and each principal thereof.
@@ -32,7 +32,7 @@ g. "Trade waste broker" shall mean a person or entity who, for a fee, brokers ag
 
 
 
-*§ 16-502 New York city trade waste commission.* ::
+*§ 16-502 New York city trade waste commission.*
 
 
 There is hereby created a New York city trade waste commission. Such commission shall consist of the commissioner of investigation, the commissioner of business services, the commissioner of consumer affairs, the commissioner of sanitation, and one member who shall be appointed by the mayor and shall serve as chair with compensation therefor; provided that if the chair holds other city office or employment, no additional compensation shall be received. The chair shall have charge of the organization of the commission and have authority to employ, assign and superintend the duties of such officers and employees as may be necessary to carry out the provisions of this chapter.
@@ -42,7 +42,7 @@ There is hereby created a New York city trade waste commission. Such commission 
 
 
 
-*§ 16-503 Functions.* ::
+*§ 16-503 Functions.*
 
 
 The commission shall be responsible for the licensing, registration and regulation of businesses that remove, collect or dispose of trade waste, trade waste brokers, and labor unions or labor organizations that represent or seek to represent employees directly involved in the collection, removal, transportation or disposal of trade waste.
@@ -54,7 +54,7 @@ The commission shall be responsible for the licensing, registration and regulati
 
 
 
-*§ 16-504 Powers and duties.* ::
+*§ 16-504 Powers and duties.*
 
 
 The powers and duties of the commission shall include but not be limited to:
@@ -84,7 +84,7 @@ j. To issue and establish standards for the registration of labor unions or labo
 
 
 
-*§ 16-505 Licenses and registration required.* ::
+*§ 16-505 Licenses and registration required.*
 
 
 a. It shall be unlawful for any person to operate a business for the purpose of the collection of trade waste from the premises of a commercial establishment required to provide for the removal of such waste pursuant to the provisions of section 16-116 of this code, or the removal or disposal of trade waste from such premises, or to engage in, conduct or cause the operation of such a business, without having first obtained a license therefor from the commission pursuant to the provisions of this chapter. Notwithstanding the provisions of this subdivision, a business solely engaged in the removal of waste materials resulting from building demolition, construction, alteration or excavation shall be exempt from the licensing provisions of this subdivision where, except in regard to the principals of a business solely in either or both of the class seven or the class three category of licensees as defined in rules previously promulgated by the commissioner of consumer affairs pursuant to subchapter eighteen of chapter two of title twenty of this code, no principal of such applicant is a principal of a business or a former business required to be licensed pursuant to this chapter or such former subchapter eighteen. Grant of such exemption shall be made by the commission upon its review of an exemption application, which shall be in the form and contain the information prescribed by rule of the commission and shall be accompanied by a statement by the applicant describing the nature of the applicant's business and listing all principals of such business.
@@ -110,7 +110,7 @@ e. A license or registration issued pursuant to this chapter or any rule promulg
 
 
 
-*§ 16-506 Term and fee for license or registration.* ::
+*§ 16-506 Term and fee for license or registration.*
 
 
 a. Except as provided in subdivision b of this section, a license or registration issued pursuant to this chapter shall be valid for a period of two years.
@@ -126,7 +126,7 @@ c. The commission shall promulgate rules establishing the fee for any license or
 
 
 
-*§ 16-507 Registration application.* ::
+*§ 16-507 Registration application.*
 
 
 a. Except in the case of a business issued a registration by reason of the grant of an exemption from the requirement for a license pursuant to section 16-505 of this chapter, an applicant for registration shall submit an application on a form prescribed by the commission and containing such information as the commission determines will adequately identify the business of such applicant. An applicant for registration to remove trade waste generated in the course of such applicant's business shall identify, in a manner to be prescribed by the commission, each vehicle that will collect, remove, transport or dispose of waste pursuant to such registration. An application for registration as a trade waste broker shall contain information regarding any financial, contractual or employment relationship between such broker and a trade waste business. Any such relationship shall be indicated on the registration issued to such broker.
@@ -144,7 +144,7 @@ c. (i) Notwithstanding any provision of this chapter, the commission may, when t
 
 
 
-*§ 16-508 License application.* ::
+*§ 16-508 License application.*
 
 
 a. An applicant for a license pursuant to this chapter shall submit an application in the form and containing the information prescribed by the commission. An application shall include, without limitation:
@@ -212,7 +212,7 @@ d. Each applicant shall provide the commission with a business address in New Yo
 
 
 
-*§ 16-509 Refusal to issue a license.* ::
+*§ 16-509 Refusal to issue a license.*
 
 
 a. The commission may, by majority vote of its entire membership and after notice and the opportunity to be heard, refuse to issue a license or any registration to an applicant who lacks good character, honesty and integrity. Such notice shall specify the reasons for such refusal. In making such determination, the commission may consider, but is not limited to: (i) failure by such applicant to provide truthful information in connection with the application; (ii) a pending indictment or criminal action against such applicant for a crime which under this subdivision would provide a basis for the refusal of such license or registration, or a pending civil or administrative action to which such applicant is a party and which directly relates to the fitness to conduct the business or perform the work for which such license or registration is sought, in which cases the commission may defer consideration of an application until a decision has been reached by the court or administrative tribunal before which such action is pending; (iii) conviction of such applicant for a crime which, considering the factors set forth in section seven hundred fifty-three of the correction law, would provide a basis under such law for the refusal of such license or registration; (iv) a finding of liability in a civil or administrative action that bears a direct relationship to the fitness of the applicant to conduct the business for which the license or registration is sought; (v) commission of a racketeering activity or knowing association with a person who has been convicted of a racketeering activity, including but not limited to the offenses listed in subdivision one of section nineteen hundred sixty-one of the Racketeer Influenced and Corrupt Organizations statute (18 U.S.C. § 1961 et seq.) or of an offense listed in subdivision one of section 460.10 of the penal law, as such statutes may be amended from time to time, or the equivalent offense under the laws of any other jurisdiction; (vi) association with any member or associate of an organized crime group as identified by a federal, state or city law enforcement or investigative agency when the applicant knew or should have known of the organized crime associations of such person; (vii) having been a principal in a predecessor trade waste business as such term is defined in subdivision a of section 16-508 of this chapter where the commission would be authorized to deny a license or registration to such predecessor business pursuant to this subdivision; (viii) current membership in a trade association where such membership would be prohibited to a licensee pursuant to subdivision j of section 16-520 of this chapter unless the commission has determined, pursuant to such subdivision, that such association does not operate in a manner inconsistent with the purposes of this chapter; (ix) the holding of a position in a trade association where membership or the holding of such position would be prohibited to a licensee pursuant to subdivision j of section 16-520 of this chapter; (x) failure to pay any tax, fine, penalty or fee related to the applicant's business for which liability has been admitted by the person liable therefor, or for which judgment has been entered by a court or administrative tribunal of competent jurisdiction; and (xi) failure to comply with any city, state or federal law, rule or regulation relating to traffic safety or the collection, removal, transportation or disposal of trade waste in a safe manner. For purposes of determination of the character, honesty and integrity of a trade waste broker pursuant to subdivision c or subdivision d of section 16-507 of this chapter, the term "applicant" shall refer to the business of such trade waste broker and all the principals thereof; for purposes of determining the good character, honesty and integrity of employees or agents pursuant to section 16-510 of this chapter, the term "applicant" as used herein shall be deemed to apply to employees, agents or prospective employees or agents of an applicant for a license or a licensee.
@@ -244,7 +244,7 @@ k. Notwithstanding any other provision of this chapter to the contrary, the prov
 
 
 
-*§ 16-510 Investigation of employees.* ::
+*§ 16-510 Investigation of employees.*
 
 
 a. (i) Each person who is not otherwise a principal as defined in section 16-501 of this chapter and who is employed or proposed to be employed by a licensee in a managerial capacity, or in a job category specified in rules promulgated by the commission pursuant to section 16-504 of this chapter, and each person who acts or is proposed to act in such a capacity or in such a category as an agent of a licensee, shall: (i) be fingerprinted by a person designated for such purpose by the commission and pay a fee to be submitted by the commission to the division of criminal justice services for the purposes of obtaining criminal history records, and (ii) submit to the commission the information set forth in subparagraphs (b) through (n) of paragraph (ii) of subdivision b of section 16-508 of this chapter and pay the fee for the investigation of such information set forth in the rules promulgated pursuant to section 16-504 of this chapter. Where, at any time subsequent to an investigation of an employee subject to the provisions of this subdivision, the commission has reasonable cause to believe that such employee lacks good character, honesty and integrity, the commission may conduct an additional investigation of such employee and may require, if necessary, that such employee provide information updating, supplementing or explaining information previously submitted. The job categories specified in rules of the commission for purposes of such fingerprinting and disclosure shall not include personnel engaged solely in operating vehicles or handling waste or clerical personnel who have no contact with customers.
@@ -262,7 +262,7 @@ d. A licensee shall not employ or engage as an agent any person with respect to 
 
 
 
-*§ 16-511 Independent auditing or monitoring required.* ::
+*§ 16-511 Independent auditing or monitoring required.*
 
 
 a. The commission may, in the event the background investigation conducted pursuant to section 16-508 of this chapter produces adverse information, require as a condition of a license that the licensee enter into a contract with an independent auditor approved or selected by the commission. Such contract, the cost of which shall be paid by the licensee, shall provide that the auditor investigate the activities of the licensee with respect to the licensee's compliance with the provisions of this chapter, other applicable federal, state and local laws and such other matters as the commission shall determine by rule. The contract shall provide further that the auditor report the findings of such monitoring and investigation to the commission on a periodic basis, no less than four times a year.
@@ -276,7 +276,7 @@ c. The commission shall be authorized to prescribe, in any contract required by 
 
 
 
-*§ 16-512 Investigations by the department of investigation.* ::
+*§ 16-512 Investigations by the department of investigation.*
 
 
 In addition to any other investigation authorized pursuant to law, the commissioner of the department of investigation shall, at the request of the commission, conduct a study or investigation of any matter arising under the provisions of this chapter, including but not limited to investigation of the information required to be submitted by applicants for licenses and employees and the ongoing conduct of licensees.
@@ -286,7 +286,7 @@ In addition to any other investigation authorized pursuant to law, the commissio
 
 
 
-*§ 16-513 Revocation or suspension of license or registration.* ::
+*§ 16-513 Revocation or suspension of license or registration.*
 
 
 a. In addition to the penalties provided in section 16-515 of this chapter, the commission may, after due notice and opportunity to be heard, revoke or suspend a license or registration issued pursuant to the provisions of this chapter when the registrant or licensee and/or its principals, employees and/or agents: (i) have been found to be in violation of this chapter or any rules promulgated pursuant thereto; (ii) have been found by a court or administrative tribunal of competent jurisdiction to have violated: (A) any provision of section 16-119 of this code, or any rule promulgated pursuant thereto, relating to illegal dumping, (B) any provision of section 16-120.1 of this code, or any rule promulgated pursuant thereto, relating to the disposal of regulated medical waste and other medical waste or (C) any provision of section 16-117.1 of this code, or any rule promulgated pursuant thereto, relating to the collection, removal, transportation or disposal of waste containing asbestos; (iii) has repeatedly failed to obey lawful orders of any person authorized by section 16-517 of this chapter to enforce the provisions hereof; (iv) has failed to pay, within the time specified by a court, the department of consumer affairs or an administrative tribunal of competent jurisdiction, any fines or civil penalties imposed pursuant to this chapter or the rules promulgated pursuant thereto; (v) has been found in persistent or substantial violation of any rule promulgated by the commission pursuant to section 16-306 of this code or by the commissioner of consumer affairs pursuant to section 16-306 or former subchapter eighteen of title twenty of this code; (vi) has been found in persistent or substantial violation of any city, state, or federal law, rule or regulation regarding the collection, removal, transportation or disposal of trade waste, or any laws prohibiting deceptive, unfair or unconscionable trade practices; (vii) whenever, in relation to an investigation conducted pursuant to this chapter, the commission determines, after consideration of the factors set forth in subdivision a of section 16-509 of this code, that the licensee or registrant lacks good character, honesty and integrity; (viii) whenever there has been any false statement or any misrepresentation as to a material fact in the application or accompanying papers upon which the issuance of such license or registration was based; (ix) whenever the licensee or registrant has failed to notify the commission as required by subdivision b of section 16-507 or subdivision c of section 16-508 of this chapter of any change in the ownership interest of the business or other material change in the information required on the application for such license or registration, or of the arrest or criminal conviction of such licensee or registrant or any of his or her principals, employees and/or agents of which the licensee had knowledge or should have known; (x) whenever the licensee or registrant has been found by the commission or a court or administrative tribunal of competent jurisdiction to be in violation of the provisions of section 24-163.11 of the code, or any rule promulgated pursuant thereto;(xi) whenever the licensee or registrant has been found by the commission or a court or administrative tribunal of competent jurisdiction to be in violation of the provisions of section 16-526 of the code, or any rule promulgated pursuant thereto; or (xii) while engaged in any activity regulated by this chapter or title 16-B, have been found to be in violation of any city, state or federal law, rule or regulation relating to the safety of the general public, including but not limited to traffic safety, or relating to the collection, removal, transportation or disposal of trade waste in a safe manner.
@@ -304,7 +304,7 @@ b. The commission shall, in addition:
 
 
 
-*§ 16-514 Emergency suspension of license or registration.* ::
+*§ 16-514 Emergency suspension of license or registration.*
 
 
 Notwithstanding any other provision of this chapter or rules promulgated thereto, the commission may, upon a determination that the operation of the business of a licensee or the removal of waste by a business required by this chapter to be registered creates an imminent danger to life or property, or upon a finding that there has likely been false or fraudulent information submitted in an application pursuant to section 16-507 or section 16-508 of this chapter, immediately suspend such license or registration without a prior hearing, provided that provision shall be made for an immediate appeal of such suspension to the chair of the commission who shall determine such appeal forthwith. In the event that the chair upholds the suspension, an opportunity for a hearing shall be provided on an expedited basis, within a period not to exceed four business days and the commission shall issue a final determination no later than four days following the conclusion of such hearing.
@@ -314,7 +314,7 @@ Notwithstanding any other provision of this chapter or rules promulgated thereto
 
 
 
-*§ 16-515 Penalties.* ::
+*§ 16-515 Penalties.*
 
 
 In addition to any other penalty provided by law:
@@ -348,7 +348,7 @@ f. Any person who violates item (ii) of subdivision a of section 16-508 shall be
 
 
 
-*§ 16-516 Liability for violations.* ::
+*§ 16-516 Liability for violations.*
 
 
 A business required by this chapter to be licensed or registered shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant hereto committed by any of its employees and/or agents.
@@ -358,7 +358,7 @@ A business required by this chapter to be licensed or registered shall be liable
 
 
 
-*§ 16-517 Enforcement.* ::
+*§ 16-517 Enforcement.*
 
 
 Notices of violation for violations of any provision of this chapter or any rule promulgated hereunder may be issued by authorized employees or agents of the commission. In addition, such notices of violation may be issued by the police department, and, at the request of the commission and with the consent of the appropriate commissioner, by authorized employees and agents of the department of consumer affairs, the department of small business services, the department of transportation, and the department of sanitation.
@@ -368,7 +368,7 @@ Notices of violation for violations of any provision of this chapter or any rule
 
 
 
-*§ 16-518 Hearings.* ::
+*§ 16-518 Hearings.*
 
 
 a. A hearing pursuant to this chapter may be conducted by the commission, or, in the discretion of the commission, by an administrative law judge employed by the office of administrative trials and hearings or other administrative tribunal of competent jurisdiction. Where a hearing pursuant to a provision of this chapter is conducted by an administrative law judge, such judge shall submit recommended findings of fact and a recommended decision to the commission, which shall make the final determination.
@@ -380,7 +380,7 @@ b. Notwithstanding the provisions of subdivision a of this section, the commissi
 
 
 
-*§ 16-519 Rate fixing; hearings and production of records.* ::
+*§ 16-519 Rate fixing; hearings and production of records.*
 
 
 The commission shall have the power to fix by rule and from time to time refix maximum and minimum rates, fixed according to weight or volume of trade waste, for the removal of waste by a licensee, which rates shall be based upon a fair and reasonable return to the licensees and shall protect those using the services of such licensees from excessive or unreasonable charges. The commission may compel the attendance at a public hearing held pursuant to a rate-fixing rule-making of licensees and other persons having information in their possession in regard to the subject matter of such hearing and may compel the production of books and records in relation thereto, and may require licensees to file with the commission schedules of rates.
@@ -390,7 +390,7 @@ The commission shall have the power to fix by rule and from time to time refix m
 
 
 
-*§ 16-520 Conduct by licensees of trade waste collection, removal or disposal.* ::
+*§ 16-520 Conduct by licensees of trade waste collection, removal or disposal.*
 
 
 a. Every licensee pursuant to this chapter shall provide to every recipient of its services a sign which the licensee shall obtain from the commission. In addition to the information printed on the sign by the commission, the licensee shall print the day and approximate time of pickup clearly and legibly on the sign. Such sign shall be conspicuously posted as prescribed in section 16-116(b) of this code by the owner, lessee or person in control of the commercial establishment which receives the licensee's services.
@@ -424,7 +424,7 @@ j. (i) No licensee or principal thereof shall be a member or hold a position in 
 
 
 
-*§ 16-520.1 Conduct of registrants.* ::
+*§ 16-520.1 Conduct of registrants.*
 
 
 Every registrant pursuant to this chapter shall be in compliance with all applicable state, federal and local laws, ordinances, rules and regulations pertaining to the collection, removal, transportation or disposal of trade waste, the maintenance, inspection and operation of vehicles that collect, remove, transport or dispose of trade waste and, while engaged in any activity regulated by this chapter, the safety of the general public, including but not limited to traffic safety.
@@ -436,7 +436,7 @@ Every registrant pursuant to this chapter shall be in compliance with all applic
 
 
 
-*§ 16-521 Conduct of trade waste brokers.* ::
+*§ 16-521 Conduct of trade waste brokers.*
 
 
 a. A trade waste broker shall not conduct an evaluation or analysis of the trade waste generated by a commercial establishment in order to recommend cost efficient means of waste disposal or other changes in related business practices, or broker a transaction between a commercial establishment which seeks trade waste removal, collection or disposal services and a trade waste business required to be licensed pursuant to this chapter, unless such broker has first presented a copy of his or her registration to such consumer.
@@ -454,7 +454,7 @@ e. A trade waste broker shall maintain such financial statements, records, ledge
 
 
 
-*§ 16-522 Investigation of customer complaints.* ::
+*§ 16-522 Investigation of customer complaints.*
 
 
 The commission shall by rule establish a procedure for the investigation and resolution of complaints by commercial establishments regarding overcharging and other problems relating to the collection, removal or disposal of waste.
@@ -464,7 +464,7 @@ The commission shall by rule establish a procedure for the investigation and res
 
 
 
-*§ 16-523 Special trade waste removal districts; designation; agreement.* ::
+*§ 16-523 Special trade waste removal districts; designation; agreement.*
 
 
 a. The commission shall by rule designate no more than two areas of the city in commercial areas within different boroughs to participate in a pilot project as special trade waste removal districts. In making any such designation, the commission shall consider:
@@ -532,7 +532,7 @@ i. Nothing in subdivision g of this section shall be construed to prohibit a com
 
 
 
-*§ 16-524 Special trade waste removal districts; violations; enforcement.* ::
+*§ 16-524 Special trade waste removal districts; violations; enforcement.*
 
 
 a. Upon the date of commencement of service pursuant to agreements entered into pursuant to subdivision b of section 16-523 of this chapter permitting specified licensees to provide for the removal of trade waste generated by commercial establishments within a special trade waste district designated by the commission, (i) any contract for trade waste removal, except for services set forth in subdivision g of section 16-523 of this chapter, with a business other than a licensee who has entered into an agreement pursuant to subdivision b of section 16-513 of this chapter shall be considered terminated, and (ii) it shall be unlawful for any person not party to such an agreement, other than a person who is performing a contract for services set forth in subdivision g of section 16-523, whether or not licensed pursuant to this chapter, to provide for the removal of trade waste within such district, or to solicit commercial establishments located within such district for such purpose, or to make false, falsely disparaging or misleading oral or written statements or other representations to the owners or operators of such commercial establishments which have the capacity, tendency or effect of misleading such owners or operators, for the purpose of interfering with performance of terms of such an agreement.
@@ -544,7 +544,7 @@ b. Whenever a person interferes or attempts to interfere by threats, intimidatio
 
 
 
-*§ 16-525 Displaced employee list.* ::
+*§ 16-525 Displaced employee list.*
 
 
 The commission shall maintain a list containing the names and contact addresses or telephone numbers of persons formerly employed by a business engaged in the collection, removal or disposal of trade waste whose employment ended following the denial or revocation of a license pursuant to this chapter. The addition or deletion of information on such list shall be made only upon the request of such a former employee. A copy of such list shall be made available upon request to an applicant for a license pursuant to this chapter. The provision of such list shall in no way be construed as a recommendation by the city regarding the employment of any person on such list, nor shall the city be responsible for the accuracy of the information set forth therein.
@@ -554,7 +554,7 @@ The commission shall maintain a list containing the names and contact addresses 
 
 
 
-*§ 16-526 Side guards.* ::
+*§ 16-526 Side guards.*
 
 
 a. Definitions. For the purposes of this section:
@@ -580,7 +580,7 @@ c. Enforcement.
 
 
 
-*§ 16-527 Labor and Wage Violations.* ::
+*§ 16-527 Labor and Wage Violations.*
 
 
 Where the chair has reasonable cause to believe that a trade waste licensee or registrant has engaged in or is engaging in actions (i) involving egregious or habitual nonpayment or underpayment of wages or (ii) that constitute a significant violation of city, state or federal labor or employment law, the chair shall inform the New York state attorney general, the New York state department of labor, the United States department of labor or other relevant city, state or federal law enforcement agency of such actions.
@@ -592,7 +592,7 @@ Where the chair has reasonable cause to believe that a trade waste licensee or r
 
 
 
-*§ 16-528 Workers’ rights information.* ::
+*§ 16-528 Workers’ rights information.*
 
 
 a. The commission shall require trade waste licensees and registrants to disseminate directly to their employees engaged in operating vehicles or handling waste, and post conspicuously, the following information:

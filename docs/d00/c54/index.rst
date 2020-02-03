@@ -1,10 +1,10 @@
 Chapter 48: Department of Information Technology and Telecommunications
-===================================================
+======================================================================================================
 Section 1070.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1070. Department; commissioner.* ::
+*Section 1070. Department; commissioner.*
 
 
 There shall be a department of information technology and telecommunications the head of which shall be the commissioner of information technology and telecommunications and the chief information officer of the city.
@@ -13,10 +13,10 @@ There shall be a department of information technology and telecommunications the
 
 
 Section 1071.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1071. Deputies.* ::
+*Section 1071. Deputies.*
 
 
 The commissioner may appoint four deputies, one of whom may be designated the first deputy commissioner.
@@ -25,10 +25,10 @@ The commissioner may appoint four deputies, one of whom may be designated the fi
 
 
 Section 1072.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1072. Powers and duties of the department.* ::
+*Section 1072. Powers and duties of the department.*
 
 
 Except as otherwise provided by law, the department shall have the following powers and duties:
@@ -77,10 +77,10 @@ Except as otherwise provided by law, the department shall have the following pow
 
 
 Section 1073.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1073. [Emergency communications systems of other agencies.]* ::
+*Section 1073. [Emergency communications systems of other agencies.]*
 
 
 With respect to emergency communications systems and emergency communications facilities administered by another agency, the department shall exercise its powers and duties only as the mayor shall direct pursuant to subdivision p of section 1072 of this chapter, or at the request of such agency.
@@ -89,10 +89,10 @@ With respect to emergency communications systems and emergency communications fa
 
 
 Section 1074.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1074. Telecommunications.* ::
+*Section 1074. Telecommunications.*
 
 
 "Telecommunications" shall mean the transmission of writings, signals, pictures, numbers and sounds or intelligence of all kinds by aid of wire, cable, optical fiber, radio, satellite, electromagnetic wave, microwave or other like connection between points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus and services incidental to such transmission.
@@ -101,10 +101,10 @@ Section 1074.
 
 
 Section 1075.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1075. 311 citizen service center reports.* ::
+*Section 1075. 311 citizen service center reports.*
 
 
 a. Definitions. For the purposes of this section, the term "department" shall mean the department of information technology and telecommunications. The term "directory assistance call" shall mean any call received by the 311 citizen service center that is entered into the 311 computer system in the directory assistance category. The term "request for service" shall mean any call received by the 311 citizen service center that is entered into the 311 computer system in the request for service category.

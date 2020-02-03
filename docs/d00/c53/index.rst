@@ -1,10 +1,10 @@
 Chapter 47: Public Access To Meetings and Information
-===================================================
+======================================================================================================
 Section 1058.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1058. Heads of departments to furnish copies of papers on demand.* ::
+*Section 1058. Heads of departments to furnish copies of papers on demand.*
 
 
 The heads of all administrations and departments, except the police and law departments, and the chiefs of each and every division or bureau thereof, and all borough presidents shall, with reasonable promptness, furnish to any taxpayer desiring the same, a true and certified copy of any book, account or paper kept by such administration, department, bureau or office, or such part thereof as may be demanded, upon payment in advance of ten cents for every hundred words thereof by the person demanding the same. The provisions of this section shall not apply to any papers prepared by or for the comptroller for use in any proceeding to adjust or pay a claim against the city or any agency, or by or for counsel for use in actions or proceedings to which the city or any agency is a party, or for use in any investigation authorized by this charter.
@@ -13,10 +13,10 @@ The heads of all administrations and departments, except the police and law depa
 
 
 Section 1059.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1059. Inspection by taxpayers of books and papers.* ::
+*Section 1059. Inspection by taxpayers of books and papers.*
 
 
 All books, accounts and papers in the office of any borough president or any division or bureau thereof, or in any city administration or department or any division or bureau thereof, except the police and law departments, shall at all times be open to the inspection of any taxpayer, subject to such reasonable rules and regulations in regard to the time and manner of such inspection as the borough president, administration, department, office, division or bureau may make; in case such inspection shall be refused, such taxpayer, on his sworn petition, describing the particular book, account or paper that he desires to inspect, may, upon notice of not less than one day, apply to any justice of the supreme court for an order that he be allowed to make such inspection as such justice shall by his order authorize. The provisions of this section shall not apply to any papers prepared by or for the comptroller for use in any proceedings to adjust or pay a claim against the city or any agency, or by or for counsel for use in actions or proceedings to which the city or any agency is a party, or for use in any investigation authorized by this charter.
@@ -25,10 +25,10 @@ All books, accounts and papers in the office of any borough president or any div
 
 
 Section 1060.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1060. Public attendance at executive sessions.* ::
+*Section 1060. Public attendance at executive sessions.*
 
 
 a. Except as otherwise provided pursuant to subdivision b of this section, the public may attend all sessions or meetings of the following agencies whenever items on the calendar of such agency are to be considered and acted upon in a preliminary or final manner; art commission, conciliation and appeals board, environmental control board, board of health, landmarks preservation commission, city planning commission, board of standards and appeals, tax commission, youth board, and the council and its committees.
@@ -39,10 +39,10 @@ b. Any agency specified pursuant to subdivision a of this section may convene an
 
 
 Section 1061.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1061. Commission on public information and communication.* ::
+*Section 1061. Commission on public information and communication.*
 
 
 a. There shall be a commission on public information and communication which shall consist of the public advocate, as chair, the corporation counsel or the delegate of such officer, the director of operations or the delegate of such officer, the commissioner of the department of records and information services or the delegate of such officer, the commissioner of information technology and telecommunications or the delegate of such officer, the president of the WNYC communications group or the delegate of such officer, and one council member elected by the council, all of whom shall serve on the board without compensation. In addition, there shall be four other members, each appointed for a four-year term, who shall not hold or seek public or political party office or be public employees in any jurisdiction, except the representative of the community board as set forth herein, to be appointed as follows: two by the mayor, one of whom is or has been a representative of the news media and one of whom shall be a member of a community board; one by the public advocate; and one by the borough presidents acting as a group. Such members shall receive a per diem compensation for each calendar day they perform the work of the commission. No such members shall serve for more than two consecutive four-year terms. All initial appointments shall be made by the first day of March, nineteen hundred ninety.
@@ -69,10 +69,10 @@ d. The commission shall:
 
 
 Section 1062.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1062. Public data directory.* ::
+*Section 1062. Public data directory.*
 
 
 a. The commission shall publish annually a directory of the computerized information produced or maintained by city agencies which is required by law to be publicly accessible. Such directory shall include specific descriptions of the contents, format and methods of accessing such information, and the name, title, office address, and office telephone number of the official in each agency responsible for receiving inquiries about such information.
@@ -83,10 +83,10 @@ b. The mayor shall transmit to the commission such information as the commission
 
 
 Section 1063.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1063. Cablecasting and broadcasting the public proceedings of city government.* ::
+*Section 1063. Cablecasting and broadcasting the public proceedings of city government.*
 
 
 a. All future cable franchises and franchise renewals shall require (i) that channels be designated for governmental use and (ii) that the franchisee provide the interconnections necessary to allow the cablecasting of the public proceedings of the council and its committees and the city planning commission.
@@ -101,10 +101,10 @@ d. Each city agency, committee, commission and task force and the council shall 
 
 
 Section 1064.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1064. Centralized contract and contractor information.* ::
+*Section 1064. Centralized contract and contractor information.*
 
 
 a. The mayor shall maintain, in a central place which is accessible to the public, standard information regarding each city contract and contractor. Such information shall include: (1) a copy of the contract; (2) information regarding the method by which the contract was let; (3) such standard documents as the contractor is required to submit, which documents shall be updated regularly in accordance with rules of the procurement policy board; (4) information regarding the contractor's qualifications and performance; (5) any evaluations of the contractor and any contractor responses to such evaluations; (6) any audits of the contract and any contractor responses to such audits; and (7) any decisions regarding the suspension or debarment of the contractor.
@@ -121,10 +121,10 @@ d. The information on contracts and contractors shall be computerized to the ext
 
 
 Section 1065.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1065. Budget documents.* ::
+*Section 1065. Budget documents.*
 
 
 Each budget document required by chapters ten, six, or nine of the charter shall be a public document. The official or agency responsible for preparing each such document shall file a copy in the municipal reference and research center, in the principal branch library of each borough and, for the various geographic based budget documents, in the relevant branch library. Copies of each such required budget document shall also be made available for reasonable public inspection in the office of the official or agency responsible for preparing it.
@@ -133,10 +133,10 @@ Each budget document required by chapters ten, six, or nine of the charter shall
 
 
 Section 1066.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1066. City Record.* ::
+*Section 1066. City Record.*
 
 
 a. There shall be published daily, except Saturdays, Sundays and legal holidays, under contract or by the department of citywide administrative services, a paper to be known as the City Record.
@@ -157,10 +157,10 @@ g. All information published in the City Record after the effective date of the 
 
 
 Section 1067.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1067. Organization of the agency; notice.* ::
+*Section 1067. Organization of the agency; notice.*
 
 
 In January, nineteen hundred ninety and every year thereafter, in accordance with the notice procedures of subdivision b of section one thousand forty-three of this charter, the head of each agency shall cause to be published in the City Record and shall give notice of a written plan or chart describing the organization of the agency.
@@ -169,10 +169,10 @@ In January, nineteen hundred ninety and every year thereafter, in accordance wit
 
 
 Section 1068.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1068. [Resolutions amending or extending charter.]* ::
+*Section 1068. [Resolutions amending or extending charter.]*
 
 
 The text of each resolution or similar action provided for by this charter which has the force of law or which amends or extends the charter shall appear as part of the administrative code or of the compilation of city rules required by section one thousand forty-five, as the mayor deems appropriate.
@@ -181,10 +181,10 @@ The text of each resolution or similar action provided for by this charter which
 
 
 Section 1069.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1069. Access to public insurance coverage information.* ::
+*Section 1069. Access to public insurance coverage information.*
 
 
 a. Pursuant to the provisions of this section, each agency designated as a participating agency under the provisions of this section shall implement and administer a program of distribution of the public health insurance program options pamphlet published by the department of health and mental hygiene pursuant to section 17-183 of the administrative code of the city of New York. The following offices are hereby designated as participating agencies: the administration for children's services, the board of education, the city clerk, the commission on human rights, the department for the aging, the department of correction, the department of employment, the department of homeless services, the department of housing preservation and development, the department of juvenile justice, the department of health and mental hygiene, the department of probation, the department of social services/human resources administration, the taxi and limousine commission, the department of youth and community development, the office to end domestic and gender-based violence, and the office of immigrant affairs; provided, however, that the department of health and mental hygiene, as it deems appropriate, may designate additional agencies to be participating agencies.
@@ -203,10 +203,10 @@ e. Each participating agency may establish procedures as they deem necessary to 
 
 
 Section 1069.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1069. 1. Distribution of pamphlet on public health insurance program options in day care centers.* ::
+*Section 1069. 1. Distribution of pamphlet on public health insurance program options in day care centers.*
 
 
 Each day care center shall be required to distribute the pamphlet on public health insurance program options provided to it by the department of health and mental hygiene pursuant to subdivision b of section 17-183 of the administrative code of the city of New York to those individuals who appear in person to register a child in such day care center. Day care centers shall also be required to ensure that pamphlets on public health insurance program options are made available to parents and/or guardians on the premises of such centers throughout the year. For the purposes of this section, "day care center" shall mean any child day care facility operating in New York city that is required to obtain a license from, or to register with, the department of health and mental hygiene pursuant to section 47.05 of the New York city health code and/or the New York state department of social services pursuant to section 390 of the New York state social services law.

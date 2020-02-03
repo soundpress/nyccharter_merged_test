@@ -1,10 +1,10 @@
 Chapter 6: Expense Budget
-===================================================
+======================================================================================================
 Section 100.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 100. Format of expense budget departmental estimates, preliminary expense budget, and executive expense budget.* ::
+*Section 100. Format of expense budget departmental estimates, preliminary expense budget, and executive expense budget.*
 
 
 a. The expense budget departmental estimates, the preliminary expense budget, and the executive expense budget for each year shall consist of proposed units of appropriation for personal service and proposed units of appropriation for other than personal service for the ensuing fiscal year.
@@ -27,10 +27,10 @@ h. The departmental estimates and the executive expense budget shall include a c
 
 
 Section 101.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 101. Preliminary expense budget.* ::
+*Section 101. Preliminary expense budget.*
 
 
 The preliminary expense budget shall contain proposed expenditures and a forecast of revenues for the ensuing fiscal year, including, for each tax revenue source which represents five percent or more of the total forecast of tax revenues, a detailed statement of the methodology and assumptions used to determine the forecast of revenues estimated to be received from such source in sufficient detail to facilitate official and public understanding of the manner in which such forecasts are made, shall indicate proposed units of appropriations for personal service and for other than personal service, shall include a financial plan for the city for the four ensuing fiscal years (of which the first year is the year for which such preliminary expense budget is being prepared), consistent with section two hundred fifty-eight, with the amounts estimated to be available for discretionary increases, as defined in section one hundred two, in such years, shall include the departmental estimates of agency expenditures for the ensuing fiscal year pursuant to section one hundred together with proposed sources of revenue for each unit of appropriation specified therein and shall present a plan to ensure balance between the expense and revenue budgets during the ensuing fiscal year.
@@ -39,10 +39,10 @@ The preliminary expense budget shall contain proposed expenditures and a forecas
 
 
 Section 102.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 102. Expense budget borough allocations.* ::
+*Section 102. Expense budget borough allocations.*
 
 
 a. Definition. The term "discretionary increases" as used in this section shall mean an amount equal to the total amount of general fund expenditures of city funds and state and federal funds over which the city has substantial discretion proposed to be made in the ensuing fiscal year for all purposes other than debt service minus the sum of the following items as certified by the mayor, including related fringe benefits:
@@ -67,10 +67,10 @@ d. Borough president proposals. Each borough president, during the consultations
 
 
 Section 102-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 102-a. Capital budget borough allocation expense budget contingencies.* ::
+*Section 102-a. Capital budget borough allocation expense budget contingencies.*
 
 
 An amount equal to nine tenths of one percent of the cost of capital projects constructed with funds recommended for appropriation in accordance with the provisions of section two hundred eleven, shall be available to provide for the expense budget requirements of such capital projects.
@@ -79,10 +79,10 @@ An amount equal to nine tenths of one percent of the cost of capital projects co
 
 
 Section 103.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 103. Contents of the executive expense budget.* ::
+*Section 103. Contents of the executive expense budget.*
 
 
 a. There shall be included in the budget:
@@ -115,10 +115,10 @@ b. All such units of appropriation and other amounts shall be set forth without 
 
 
 Section 104.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 104. Contract budget.* ::
+*Section 104. Contract budget.*
 
 
 a. Each contract budget shall set forth by agency each major category of contractual services and each multiple purpose category of contractual services for which appropriations are being proposed.
@@ -161,10 +161,10 @@ h. Modification of terms and conditions. All spending for contractual services s
 
 
 Section 105.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 105. Appropriations for goods, services or construction.* ::
+*Section 105. Appropriations for goods, services or construction.*
 
 
 Appropriations for the procurement of goods or services or the provision of services, utilities, or facilities by the department of citywide administrative services for other agencies and institutions in accordance with the authority of the department of citywide administrative services under the provisions of this charter shall be made to the department of citywide administrative services but shall be segregated under the name of the agency or institution for which they are intended and shall be considered and accounted for as appropriated for such agency or institution. Nothing herein contained shall prevent the designation of part of such appropriations as a general stores account or under other appropriate designation to enable the department of citywide administrative services to maintain a stock in anticipation of requirements or to provide services, utilities or facilities for joint use by more than one agency or institution.
@@ -173,10 +173,10 @@ Appropriations for the procurement of goods or services or the provision of serv
 
 
 Section 106.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 106. Expense budget administration.* ::
+*Section 106. Expense budget administration.*
 
 
 a. Except as otherwise provided by law, no unit of appropriation shall be available for expenditure by any city agency until schedules fixing positions and salaries and setting forth other expenses within the units of appropriation are established pursuant to the adopted budget, the administration of which is subject to the provisions of this chapter, the civil service law, and other applicable law.
@@ -201,10 +201,10 @@ f. 1. Within thirty days of the adoption of the executive expense budget, the he
 
 
 Section 107.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 107. Budget modification.* ::
+*Section 107. Budget modification.*
 
 
 a. Subject to the quarterly spending allotments and aggregate position and salary limits established pursuant to section one hundred six, and to other applicable provisions of this charter, of the civil service law and of other law, changes in schedules, within units of appropriation, may be made by the head of each agency. Any such changes shall be reported to the mayor and the comptroller before the effective date thereof, and shall be made available for public inspection under reasonable terms and conditions.
@@ -221,10 +221,10 @@ e. The procedures and required approvals pursuant to sections two hundred fifty-
 
 
 Section 108.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 108. [Detailed quarterly accountings.]* ::
+*Section 108. [Detailed quarterly accountings.]*
 
 
 The council shall be required to publish quarterly accountings of its actual and planned expenditures, in sufficient detail to indicate the positions and their purposes which have been funded, as well as the activities and categories of materials and supplies purchased.
@@ -233,10 +233,10 @@ The council shall be required to publish quarterly accountings of its actual and
 
 
 Section 109.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 109. General fund.* ::
+*Section 109. General fund.*
 
 
 All revenues of the city, of every administration, department, board, office and commission thereof, and of every borough, county and other division of government within the city, from whatsoever source except taxes on real estate, not required by law to be paid into any other fund or account shall be paid into a fund to be termed the "general fund."
@@ -245,10 +245,10 @@ All revenues of the city, of every administration, department, board, office and
 
 
 Section 110.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 110. Expenditure reports.* ::
+*Section 110. Expenditure reports.*
 
 
 Any public or private agency, authority, corporation, board or commission which receives city funds and is not otherwise subject to the requirements of section one hundred six of this chapter shall submit quarterly reports of the expenditure of such funds to the mayor in such form and detail as the mayor may prescribe.
@@ -257,10 +257,10 @@ Any public or private agency, authority, corporation, board or commission which 
 
 
 Section 111.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 111. Self-dealing among members of the governing boards of charitable institutions.* ::
+*Section 111. Self-dealing among members of the governing boards of charitable institutions.*
 
 
 a. Any charitable institution which receives any payment from the New York city charitable institutions budget shall pass and implement by-laws which will:

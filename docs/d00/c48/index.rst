@@ -1,10 +1,10 @@
 Chapter 39: Office Of Payroll Administration
-===================================================
+======================================================================================================
 Section 870.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 870. Office of payroll administration.* ::
+*Section 870. Office of payroll administration.*
 
 
 There shall be an office of payroll administration which shall be headed by two directors appointed by the mayor, one of whom shall be appointed upon the recommendation of the comptroller. The directors may be city employees. They shall receive no compensation for their services to the office (except that a city employee may continue to receive regular compensation) but shall be compensated for expenses actually and necessarily incurred in the performance of their duties.
@@ -13,10 +13,10 @@ There shall be an office of payroll administration which shall be headed by two 
 
 
 Section 871.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 871. Powers and duties.* ::
+*Section 871. Powers and duties.*
 
 
 a. The office of payroll administration shall have the power and duty to:
@@ -37,10 +37,10 @@ b. All city agencies shall cooperate with the office as may be necessary and pro
 
 
 Section 872.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 872. Staff.* ::
+*Section 872. Staff.*
 
 
 Upon the recommendation of the directors, the mayor shall appoint an executive director of payroll administration. Within the appropriations therefor, the office shall employ such other officers and employees as may be required to perform its duties.

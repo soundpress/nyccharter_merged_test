@@ -1,10 +1,10 @@
 Chapter 18-B: Independent Police Investigation and Audit Board
-===================================================
+======================================================================================================
 Section 450.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 450. Independent police investigation and audit board; membership.* ::
+*Section 450. Independent police investigation and audit board; membership.*
 
 
 a. There shall be an independent police investigation and audit board, which shall consist of five members of the public, appointed by the mayor, who shall be residents of the city of New York. The members of the board shall be appointed as follows: (i) two members shall be appointed by the mayor; (ii) two members shall be designated by the city council; and (iii) the chair shall be appointed by the mayor after consultation with the speaker of the council. No member of the board shall hold any other public office or employment.
@@ -17,10 +17,10 @@ c. In the event of a vacancy on the board during the term of office of a member 
 
 
 Section 451.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 451. Powers and duties of the board.* ::
+*Section 451. Powers and duties of the board.*
 
 
 a. The board shall have the power to:
@@ -39,10 +39,10 @@ b. If during the course of any assessment, audit or investigation undertaken pur
 
 
 Section 452.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 452. Subpoenas.* ::
+*Section 452. Subpoenas.*
 
 
 The board, by majority vote of its members, may compel the attendance of witnesses and require the production of such records and other materials as are necessary for the investigation of any matter within its jurisdiction pursuant to this chapter. The board may designate those of its employees it deems necessary to administer oaths and to examine persons in connection with any such matter.
@@ -51,10 +51,10 @@ The board, by majority vote of its members, may compel the attendance of witness
 
 
 Section 453.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 453. Board staff.* ::
+*Section 453. Board staff.*
 
 
 The board is authorized, within appropriations available therefor, to appoint such employees as are necessary to exercise its powers and fulfill its duties.
@@ -63,10 +63,10 @@ The board is authorized, within appropriations available therefor, to appoint su
 
 
 Section 454.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 454. Annual report.* ::
+*Section 454. Annual report.*
 
 
 The Board shall issue to the mayor and the city council an annual report which shall describe its activities and summarize its actions.
@@ -75,10 +75,10 @@ The Board shall issue to the mayor and the city council an annual report which s
 
 
 Section 455.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 455. Cooperation of the police department.* ::
+*Section 455. Cooperation of the police department.*
 
 
 a. It shall be the duty of the police department to provide such assistance as the board may reasonably request, to cooperate fully with investigations by the board, and to provide to the board upon request records and other materials which are necessary for the investigation of any matter within its jurisdiction pursuant to this chapter, except such records or materials that cannot be disclosed by law.
@@ -89,10 +89,10 @@ b. The police commissioner shall ensure that officers and employees of the polic
 
 
 Section 456.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 456. Authority of the police commissioner to investigate corruption to remain unimpaired; law enforcement agencies.* ::
+*Section 456. Authority of the police commissioner to investigate corruption to remain unimpaired; law enforcement agencies.*
 
 
 The provisions of this chapter shall not be construed to limit or impair the authority of the police commissioner to investigate corruption within the department, or to discipline members of the department. Nor shall the provisions of this chapter be construed to prevent or hinder the investigation or prosecution of members of the department for violations of law or rules and regulations of the department by any court of competent jurisdiction, a grand jury, district attorney, or other authorized officer, agency or body.
@@ -101,10 +101,10 @@ The provisions of this chapter shall not be construed to limit or impair the aut
 
 
 Section 457.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 457. Protocols.* ::
+*Section 457. Protocols.*
 
 
 a. Police Department. Within ninety days after the appointment of the last member of the board pursuant to section four hundred and fifty, the board and the police commissioner shall establish a protocol pursuant to which information shall be exchanged and cooperation between the board and the department facilitated in accordance with the provisions of this chapter. Such protocol shall also provide for means of avoiding and resolving potential disputes arising out of investigations independently undertaken by both the board and the department.
@@ -117,10 +117,10 @@ c. Civilian Complaint Review Board. Within ninety days after the appointment of 
 
 
 Section 458.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 458. Severability.* ::
+*Section 458. Severability.*
 
 
 If any provision of this chapter, or the local law creating this chapter, or of any amendments thereto, shall be held invalid or ineffective in whole or in part or inapplicable to any person or situation, such holding shall not affect, impair or invalidate the remainder of this chapter or local law, and all other provisions thereof shall nevertheless be separately and fully effective and the application of any such provision to other persons or situations shall not be affected.

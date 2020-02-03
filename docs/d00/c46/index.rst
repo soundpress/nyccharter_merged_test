@@ -1,10 +1,10 @@
 Chapter 37: Art Commission
-===================================================
+======================================================================================================
 Section 851.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 851. Constitution and appointment.* ::
+*Section 851. Constitution and appointment.*
 
 
 a. There shall be an art commission the members of which shall be the mayor, who may appoint a person to represent him and replace such representative at his pleasure, the president of the Metropolitan Museum of Art, the president of the New York Public Library (Astor, Lenox and Tilden foundations), the president of the Brooklyn Museum, one painter, one sculptor, one architect, and one landscape architect, all of whom shall be residents of the city, and three other residents of the city no one of whom shall be a painter, sculptor, architect, landscape architect or active member of any other profession in the fine arts.
@@ -17,10 +17,10 @@ c. In all matters which come before the commission pertaining to work under the 
 
 
 Section 852.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 852. Terms of members; vacancies.* ::
+*Section 852. Terms of members; vacancies.*
 
 
 All appointments of members of the commission whose service is not ex officio shall be for a term of three years commencing at the expiration of the terms of the present incumbents, except that appointments to fill vacancies shall be for the unexpired term. All vacancies shall be filled in accordance with the provisions of section eight hundred fifty-one.
@@ -29,10 +29,10 @@ All appointments of members of the commission whose service is not ex officio sh
 
 
 Section 853.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 853. Officers; procedure; expenses.* ::
+*Section 853. Officers; procedure; expenses.*
 
 
 a. The commission shall elect a president, vice-president and secretary from its own members, whose terms of office shall be for one year and until their successors are elected and have qualified. The commission shall keep minutes of its proceedings and adopt its own rules of procedure, which shall be public documents. Six commissioners, excluding any who may be acting temporarily as representatives of an agency pursuant to subdivision c of section eight hundred fifty-one, shall constitute a quorum.
@@ -43,10 +43,10 @@ b. The offices and staff necessary for the commission to fulfill its obligations
 
 
 Section 854.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 854. Approvals by the commission.* ::
+*Section 854. Approvals by the commission.*
 
 
 a. The term "works of art" as used in this chapter shall apply to and include all sculptures, paintings, mural decorations, mosaics, stained glass, statues, carvings or castings in high or low relief, inscriptions, monuments, and fountains installed or erected or to be installed or erected upon or over land belonging to the city whether the works of art be the property of the city itself or of an institution, corporation or private individual, and whether intended for ornament, commemoration or actual use.
@@ -69,10 +69,10 @@ h. Notwithstanding any inconsistent provision of this chapter, if an approval of
 
 
 Section 855.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 855. Time for decision limited.* ::
+*Section 855. Time for decision limited.*
 
 
 If the commission shall fail to take action upon any matter legally submitted to it within sixty days after such submission, its action shall be deemed unnecessary.
@@ -81,10 +81,10 @@ If the commission shall fail to take action upon any matter legally submitted to
 
 
 Section 856.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 856. Maintenance, repair, removal, relocation or alteration of works of art.* ::
+*Section 856. Maintenance, repair, removal, relocation or alteration of works of art.*
 
 
 a. The commission shall periodically examine all works of art belonging to the city, shall make, request or approve detailed recommendations for their cleaning, maintenance and repair, and shall have general and curatorial supervision over such works of art belonging to the city and their cleaning, maintenance and repair. Except as provided in subdivision d, no cleaning, restoration, repair, alteration, removal or relocation of any work of art shall be contracted for, commenced, or prosecuted, unless approved in writing by the commission. Except as provided in subdivision d, the commission shall have the authority to bar final payment for such work if the president or the executive director of the commission certifies that the work has not been completed substantially in accordance with the commission's approval.
@@ -99,10 +99,10 @@ d. In case the immediate removal, repair or relocation of any existing work of a
 
 
 Section 857.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 857. Advisory oversight of works of art.* ::
+*Section 857. Advisory oversight of works of art.*
 
 
 a. The art commission shall have general advisory oversight over all works of art belonging to the city. It shall advise the agencies having jurisdiction over them as to methods and procedures for their proper maintenance.
@@ -119,10 +119,10 @@ d. The commission shall provide agencies with guidance on submitting works of ar
 
 
 Section 858.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 858. Notice of agenda.* ::
+*Section 858. Notice of agenda.*
 
 
 A printed calendar of items to be heard, which may be subject to later amendment, shall be made available to the public and forwarded to members of the council at least three days in advance of the meeting.
@@ -131,10 +131,10 @@ A printed calendar of items to be heard, which may be subject to later amendment
 
 
 Section 859.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 859. Annual report.* ::
+*Section 859. Annual report.*
 
 
 1. Definitions. As used in this section, the following terms have the following meanings:

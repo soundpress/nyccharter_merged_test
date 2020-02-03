@@ -1,10 +1,10 @@
 Chapter 76: Civic Engagement Commission
-===================================================
+======================================================================================================
 Section 3200.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 3200. Civic engagement commission.* ::
+*Section 3200. Civic engagement commission.*
 
 
 There shall be a civic engagement commission, the purpose of which is to enhance civic participation in order to enhance civic trust and strengthen democracy in New York city, including through the commission's own initiatives and partnership with public and private entities related to civic service, volunteerism. stewardship of public spaces, civic education, participatory budgeting, participation in community boards, civic organizations and community groups, and other related activities, and to support and encourage New Yorkers to meaningfully participate in civic life.
@@ -15,10 +15,10 @@ There shall be a civic engagement commission, the purpose of which is to enhance
 
 
 Section 3201.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 3201. Membership of the commission.* ::
+*Section 3201. Membership of the commission.*
 
 
 a. The commission shall consist of 15 members. The mayor shall appoint eight members, one of whom shall be designated by the mayor as its chair and shall serve as such at the pleasure of the mayor, and provided further that at least one of the mayor's appointees shall be enrolled in the political party that, based on the most recent data available as of 30 days before the initial date of the term for which the member is serving, had the highest total number of registered voters in the city, and at least one shall be enrolled in the political party that, based on the most recent data available as of 30 days before the initial date of the term for which the member is serving, had the next highest total number of registered voters in the city. The speaker of the city council shall appoint two members. Each borough president shall appoint one member. In appointing members to the commission, the mayor, speaker and borough presidents shall consider individuals who are representative of, or who have experience working with, immigrants, limited English proficient individuals, people with disabilities, students, youth, seniors, veterans, community groups, advocacy groups that seek to promote transparency and accountability in government or protect civil rights, and groups or categories of residents that have been historically underrepresented in or underserved by city government and its processes.
@@ -49,10 +49,10 @@ e. A majority of the whole number of members of the commission then in office sh
 
 
 Section 3202.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 3202. Jurisdiction, powers and duties of the commission.* ::
+*Section 3202. Jurisdiction, powers and duties of the commission.*
 
 
 a. The commission shall, subject to appropriation, have the power and duty to:
@@ -145,10 +145,10 @@ d. Additional powers and duties. Notwithstanding any inconsistent provision of l
 
 
 Section 3203.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 3203. Assistance to community boards.* ::
+*Section 3203. Assistance to community boards.*
 
 
 a. Subject to appropriation, the civic engagement commission shall provide assistance and training to community boards, in consultation and coordination with the department of city planning and other relevant city agencies and with borough presidents to the extent practicable, including but not limited to:
@@ -167,10 +167,10 @@ b. Reporting. The commission shall include in its annual report a description of
 
 
 Section 3204.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 3204. Cooperation of mayoral agencies.* ::
+*Section 3204. Cooperation of mayoral agencies.*
 
 
 Heads of mayoral agencies shall cooperate to the extent practicable with the civic engagement commission in the development and implementation of its initiatives to strengthen civic engagement in New York city and shall offer assistance as practicable to the commission in the carrying out of the functions stated in this chapter.

@@ -1,10 +1,10 @@
 Chapter 69: Community Districts and Coterminality of Services
-===================================================
+======================================================================================================
 Section 2700.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2700. Declaration of intent.* ::
+*Section 2700. Declaration of intent.*
 
 
 It is the intent of this chapter to encourage and facilitate coterminous community districts and service districts to be used for the planning of community life within the city, the participation of citizens in city government within their communities, and the efficient and effective organization of agencies that deliver municipal services in local communities and boroughs.
@@ -13,10 +13,10 @@ It is the intent of this chapter to encourage and facilitate coterminous communi
 
 
 Section 2701.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2701. Community districts.* ::
+*Section 2701. Community districts.*
 
 
 a. Each community district shall:
@@ -39,10 +39,10 @@ e. The community district map for the borough of the Bronx shall include that po
 
 
 Section 2702.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2702. Preparation and adoption of map.* ::
+*Section 2702. Preparation and adoption of map.*
 
 
 a.  The map of community districts in effect as of the seventh day of November, nineteen hundred eighty-nine shall be continued until modified pursuant to this section. Not later than the first day of May nineteen hundred ninety-four and every tenth year thereafter, the mayor shall, and at such other times as the mayor deems appropriate, the mayor may, prepare and present to the council a report reviewing the community district map then in force and presenting such recommendations for changes in the map as the mayor deems appropriate. Such review shall consider shifts in population shown in the most recent decennial census that may require adjustments in the community district map to conform to the criteria in section twenty-seven hundred one. Such review shall also consider whether reducing the size of any community district would provide more efficient and effective service delivery within the district or districts involved. If the mayor's recommendations for changes in the map would produce a community district with a population below seventy-five thousand persons, the mayor may consider whether partial suspension of coterminality within the district is likely to provide more efficient or effective service delivery of one or more of the services for which coterminality is required, and may recommend that coterminality for one or more designated services within the community district and any adjacent district be suspended. The mayor's recommendations for changes shall be referred to as the preliminary revision of the community district map.
@@ -57,10 +57,10 @@ d. The council shall conduct public hearings on the preliminary revision of the 
 
 
 Section 2703.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2703. Modification and review.* ::
+*Section 2703. Modification and review.*
 
 
 a. The head of each agency responsible for one or more of the services listed below shall organize the local service delivery districts of such agency as follows:
@@ -93,10 +93,10 @@ k. The mayor shall report biennially to the council on the implementation of the
 
 
 Section 2705.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2705. District service cabinet.* ::
+*Section 2705. District service cabinet.*
 
 
 a. There shall be a district service cabinet within each community district established pursuant to this chapter. The members of the district service cabinet shall include:
@@ -129,10 +129,10 @@ b. Each district service cabinet shall:
 
 
 Section 2706.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2706. Borough agency managers and borough service cabinets.* ::
+*Section 2706. Borough agency managers and borough service cabinets.*
 
 
 a. The head of each agency delivering services in the boroughs shall designate one or more senior officials of the agency with line authority as borough representatives of the agency with such coordinative or other duties and responsibilities as the head of the agency may specify in a written statement filed in the agency and with the director of operations and the appropriate borough president.
@@ -153,10 +153,10 @@ b. There shall be a borough service cabinet within each borough whose members sh
 
 
 Section 2707.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2707. Agency budgets and service statements.* ::
+*Section 2707. Agency budgets and service statements.*
 
 
 a. Each agency with service districts within the community districts and boroughs shall prepare annually a statement of its service objectives, priorities, programs and projected activities within each community district and each borough for the new fiscal year, if requested by the respective community board or borough board.
@@ -169,10 +169,10 @@ c. By no later than four months after the end of the fiscal year, each agency wi
 
 
 Section 2708.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2708. Agency information.* ::
+*Section 2708. Agency information.*
 
 
 Each agency with service districts within the community districts and boroughs shall make available to each community board and borough board and to the respective borough presidents current information on its operations and programs within each community district and borough.

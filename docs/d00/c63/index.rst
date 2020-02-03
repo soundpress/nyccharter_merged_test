@@ -1,10 +1,10 @@
 Chapter 58: Department of Finance
-===================================================
+======================================================================================================
 Section 1501.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1501. Department; commissioner.* ::
+*Section 1501. Department; commissioner.*
 
 
 There shall be a department of finance, the head of which shall be the commissioner of finance.
@@ -13,10 +13,10 @@ There shall be a department of finance, the head of which shall be the commissio
 
 
 Section 1502.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1502. Deputies.* ::
+*Section 1502. Deputies.*
 
 
 The mayor may appoint three deputy commissioners. In addition, the mayor shall appoint one deputy commissioner whose function shall be to serve as the city sheriff. The commissioner and deputy commissioners shall provide a bond. The first deputy commissioner shall supervise and be responsible for the operations of the parking violations bureau.
@@ -25,10 +25,10 @@ The mayor may appoint three deputy commissioners. In addition, the mayor shall a
 
 
 Section 1503.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1503. Powers and duties of the commissioner.* ::
+*Section 1503. Powers and duties of the commissioner.*
 
 
 In the performance of his or her functions, the commissioner shall have, in addition to such others as may be conferred upon such commissioner from time to time by law, the power and duty to prepare and disburse payroll checks upon a master warrant prepared by the comptroller as prescribed in the administrative code.
@@ -37,10 +37,10 @@ In the performance of his or her functions, the commissioner shall have, in addi
 
 
 Section 1504.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1504. Functions of the department.* ::
+*Section 1504. Functions of the department.*
 
 
 Except as otherwise provided by law, the department shall perform those functions and operations of the city which relate to the administration and collection of all taxes, assessments and charges imposed by the city, the collection of arrears due the city and all other sums due the city, including state and federal aid, the receipt and safekeeping of all moneys paid into the city treasury and payment of money out of the treasury, and the administration and management of certain trust funds held by the city, including, without limitation, the following:
@@ -79,10 +79,10 @@ Except as otherwise provided by law, the department shall perform those function
 
 
 Section 1504-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1504-a. Tribunal for tax appeals. [Repealed]* ::
+*Section 1504-a. Tribunal for tax appeals. [Repealed]*
 
 
 The department shall have those powers and duties with respect to the assessment of real property for taxation as are prescribed by this chapter and, in addition such other powers and duties as may be conferred upon it by law. The department shall maintain in each borough an office for the performance of such powers and duties.
@@ -91,10 +91,10 @@ The department shall have those powers and duties with respect to the assessment
 
 
 Section 1506.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1506. Duties of the assessors.* ::
+*Section 1506. Duties of the assessors.*
 
 
 The assessors, under the direction of the commissioner, shall assess all the real property in the several districts that may be assigned to them by the commissioner and shall prepare the assessment rolls. The term "assessment" shall mean a determination by the assessors of (a) the taxable status of real property as of the taxable status date; and (b) the valuation of real property, including the valuation of exempt real property, and where such property is partially exempt, the valuation of both the taxable and exempt portions.
@@ -103,10 +103,10 @@ The assessors, under the direction of the commissioner, shall assess all the rea
 
 
 Section 1507.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1507. Taxable status of property.* ::
+*Section 1507. Taxable status of property.*
 
 
 The taxable status of all real property assessable for taxation in the city shall be fixed for the succeeding fiscal year on the fifth day of January in each year.
@@ -115,10 +115,10 @@ The taxable status of all real property assessable for taxation in the city shal
 
 
 Section 1508.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1508. Assessment of real property.* ::
+*Section 1508. Assessment of real property.*
 
 
 The assessors shall commence to assess real estate on the first day of July in each year, not a Saturday, Sunday or legal holiday.
@@ -127,10 +127,10 @@ The assessors shall commence to assess real estate on the first day of July in e
 
 
 Section 1509.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1509. Statement of assessed valuation.* ::
+*Section 1509. Statement of assessed valuation.*
 
 
 An assessor or other person designated by the commissioner shall compute from the annual record of the assessed valuation of real estate in each borough the total aggregate amount of the assessed valuation of real property appearing on such annual record for such borough, and shall transmit a statement of such aggregate amount to the commissioner on or before the fifth day of January in each year.
@@ -139,10 +139,10 @@ An assessor or other person designated by the commissioner shall compute from th
 
 
 Section 1510.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1510. Annual record of assessed valuation; public inspection.* ::
+*Section 1510. Annual record of assessed valuation; public inspection.*
 
 
 The books of the annual record of the assessed valuation of real estate shall be opened to the public not later than the fifteenth day of January in each year, not a Saturday, Sunday or legal holiday, and remain open during the usual business hours for public inspection and examination until the first day of March thereafter. The commissioner, previous to and during the time such books are open to public inspection, shall advertise such fact in the City Record and in such other newspaper or newspapers published in the several boroughs as may be authorized by the director of the City Record with the approval of the mayor and the comptroller.
@@ -151,10 +151,10 @@ The books of the annual record of the assessed valuation of real estate shall be
 
 
 Section 1511.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1511. Notice of increase in assessed valuation of real property.* ::
+*Section 1511. Notice of increase in assessed valuation of real property.*
 
 
 The department or division responsible for the assessment of real property shall, upon an increase in assessed valuation of real property, notify the owner, as recorded in said department or division, of such increase by first-class mail at least thirty days prior to the final date for filing any appeal. The department or division shall notify the commissioner of the mailing of such notices by the filing of an affidavit of such mailing in the main office of the department.
@@ -163,10 +163,10 @@ The department or division responsible for the assessment of real property shall
 
 
 Section 1512.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1512. Annual record of assessed valuation, additions and changes.* ::
+*Section 1512. Annual record of assessed valuation, additions and changes.*
 
 
 During the time the books of the annual record of the assessed valuation of real estate remain open for public inspection and examination, and, in the case of real estate other than residential real estate, during an additional period ending the tenth day of May in each year, the commissioner may place on such books any real estate and also the assessed valuation of any such real estate that may have been omitted from such books on the day of the opening thereof, and may increase or diminish the assessed valuation of any real estate as in the commissioner's judgment may be just or necessary for the equalization of taxation; but no such addition to the books and no such increase in assessed valuation shall be made, except upon mailing ten days' prior written notice addressed to the person whose name appears on the records in the office of the city collector as being the owner or agent of the owner of the real estate affected thereby at the last known address of such owner or agent. Where no name appears on such records such notice shall be sent to the premises addressed to either the owner or agent. An affidavit of such mailing shall be filed in the main office of the department. When such notice is mailed after the first day of February, such owners may apply for a correction of such assessment so added or so increased within twenty days after the mailing of such notice with the same force and effect as if such application were made on or before the first day of March in such year. For purposes of this section the term "residential real estate" shall include but not be limited to one and two-family homes and multiple dwellings (including co-operative and condominium dwelling units), but shall not include hotels, apartment hotels and motels.
@@ -175,10 +175,10 @@ During the time the books of the annual record of the assessed valuation of real
 
 
 Section 1513.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1513. Apportionment of assessments.* ::
+*Section 1513. Apportionment of assessments.*
 
 
 When any separately assessed parcel of real estate shall have been divided prior to the first day of June, the commissioner may apportion the assessment thereof in such manner as may be provided by law.
@@ -187,10 +187,10 @@ When any separately assessed parcel of real estate shall have been divided prior
 
 
 Section 1514.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1514. Assessment rolls; preparation and delivery.* ::
+*Section 1514. Assessment rolls; preparation and delivery.*
 
 
 1. Commencing immediately after the close of the period for public inspection and examination of the books of annual record of the assessed valuation of real estate, the commissioner shall cause to be prepared, from such books, assessment rolls for each borough in such manner as shall be provided by law.
@@ -201,10 +201,10 @@ Section 1514.
 
 
 Section 1515.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1515. Statement and estimate by the mayor.* ::
+*Section 1515. Statement and estimate by the mayor.*
 
 
 a. The mayor shall prepare and submit to the council, immediately upon the adoption of a single budget pursuant to section two hundred fifty-four, a statement setting forth the amount of the budget as approved by the council for the ensuing year. The mayor may include in the statement of the amount of the budget as approved by the council a confirmation of such amount, and thereby waive mayoral veto power pursuant to section two hundred fifty-five.
@@ -223,10 +223,10 @@ e. Any person or organization may, prior to the fifteenth day of May, submit to 
 
 
 Section 1516.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1516. Fixing of tax rates.* ::
+*Section 1516. Fixing of tax rates.*
 
 
 a. The council shall fix the annual tax rates immediately upon the approval of the budget pursuant to section two hundred fifty-four. The council shall deduct the total amount of receipts contained in the most recent estimate submitted by the mayor pursuant to section two hundred fifty or section one thousand five hundred fifteen from the amount of the budget, for the ensuing fiscal year, and shall cause to be raised by tax on real property such sum as shall be as nearly as possible but not less than, the balance so arrived at, by fixing tax rates in cents and thousandths of a cent upon each dollar of assessed valuation. The tax rates shall be such to produce a balanced budget within generally accepted accounting principles for municipalities.
@@ -241,10 +241,10 @@ c. In the event the mayor exercises the veto power pursuant to section two hundr
 
 
 Section 1516-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1516-a. Fixing of tax rates.* ::
+*Section 1516-a. Fixing of tax rates.*
 
 
 Notwithstanding the provisions of sections fifteen hundred sixteen, fifteen hundred seventeen and fifteen hundred eighteen or any other provisions of law to the contrary:
@@ -257,10 +257,10 @@ Notwithstanding the provisions of sections fifteen hundred sixteen, fifteen hund
 
 
 Section 1517.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1517. Completion of assessment rolls.* ::
+*Section 1517. Completion of assessment rolls.*
 
 
 At such annual meeting the council shall cause to be set down in the assessment rolls, opposite to the several sums set down in the valuation of real property, the respective sums, in dollars and cents, to be paid as a tax thereon, rejecting the fractions of a cent. It shall also cause to be added and set down the aggregate valuations of the real property in the several boroughs, and shall transmit to the comptroller of the state by mail a certificate of such aggregate valuation in each borough.
@@ -269,10 +269,10 @@ At such annual meeting the council shall cause to be set down in the assessment 
 
 
 Section 1518.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1518. Collection of the real property tax.* ::
+*Section 1518. Collection of the real property tax.*
 
 
 1. Immediately upon the completion of the assessment rolls, the city clerk shall procure the proper warrants authorizing and requiring the commissioner to collect the several sums therein mentioned according to law. Such warrants need be signed only by the public advocate and counter-signed by the city clerk. Immediately thereafter and on or before the thirtieth day of June, the assessment rolls of each borough, as corrected according to law and finally completed, or a fair copy thereof, shall be delivered by the public advocate to the commissioner with the proper warrants, so signed and counter-signed, annexed thereto. At the same time the public advocate shall notify the comptroller of the amount of taxes in each book of the assessment rolls so delivered.
@@ -283,10 +283,10 @@ Section 1518.
 
 
 Section 1519.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1519. Real property taxes due and payable.* ::
+*Section 1519. Real property taxes due and payable.*
 
 
 The commissioner, immediately after receiving the assessment rolls, shall give notice for at least five days in the City Record that the assessment rolls have been delivered to the commissioner and that all taxes shall be due and payable at the commissioner's offices as follows:
@@ -325,10 +325,10 @@ The commissioner, immediately after receiving the assessment rolls, shall give n
 
 
 Section 1519-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1519-a. Real property taxes due and payable.* ::
+*Section 1519-a. Real property taxes due and payable.*
 
 
 The commissioner, immediately after receiving the assessment rolls, shall give notice for at least five days in the City Record that the assessment rolls are final and that all taxes shall be due and payable as follows:
@@ -421,10 +421,10 @@ The commissioner, immediately after receiving the assessment rolls, shall give n
 
 
 Section 1520.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1520. Interest and penalties on real property taxes.* ::
+*Section 1520. Interest and penalties on real property taxes.*
 
 
 The commissioner shall charge, receive and collect the interest and penalties upon taxes on real estate not paid when due and payable in such manner and at such rates as shall be provided by law, provided, however, where such taxes are not escrowed, and where such interest does not exceed five dollars, it shall be forgiven.
@@ -433,10 +433,10 @@ The commissioner shall charge, receive and collect the interest and penalties up
 
 
 Section 1521.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1521. Right of entry.* ::
+*Section 1521. Right of entry.*
 
 
 The commissioner or any assessor may, in accordance with law, enter upon real property and into buildings and structures at all reasonable times to ascertain the character of the property. Refusal by the owner or the agent of such owner to permit such entry shall be a misdemeanor triable by a judge of the criminal court of the city of New York and punishable by not more than thirty days' imprisonment or a fine of not more than fifty dollars, or both.
@@ -445,10 +445,10 @@ The commissioner or any assessor may, in accordance with law, enter upon real pr
 
 
 Section 1522.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1522. Warrants.* ::
+*Section 1522. Warrants.*
 
 
 No money shall be paid out of the treasury except on a warrant authorized by law, signed by the comptroller and countersigned by the commissioner of finance which shall refer to the law under and to the appropriation against which it is drawn. No warrant shall be paid on account of any appropriation after the amount authorized to be raised for the purpose specified in the appropriation shall have been expended. In counter-signing warrants drawn by the comptroller, the commissioner shall be under no duty of inquiring as to the legality or propriety thereof but may rely on the comptroller's signature thereto.
@@ -457,10 +457,10 @@ No money shall be paid out of the treasury except on a warrant authorized by law
 
 
 Section 1523.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1523. Deposits.* ::
+*Section 1523. Deposits.*
 
 
 1. The commissioner shall deposit all moneys which shall come into the commissioner's hands on account of the city on the day of receipt thereof, or on the business day next succeeding, in such banks and trust companies as shall have been designated as deposit banks, but no amount shall be on deposit at any one time in any one bank or trust company exceeding one-half of the amount of the capital and net surplus of such bank or trust company. The moneys so deposited shall be placed to the account of the commissioner who shall keep a record in which shall be entered the commissioner's accounts of deposits in, and moneys drawn from, the banks and trust companies in which the deposits shall be made. Each such bank and trust company shall transmit to the comptroller a weekly statement of the moneys which shall be received and paid by it on account of the commissioner.
@@ -483,10 +483,10 @@ The commissioner shall, after offering banks designated pursuant to section fift
 
 
 Section 1524.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1524. Deposit banks.* ::
+*Section 1524. Deposit banks.*
 
 
 1. The banking commission which consists of the mayor, the commissioner and the comptroller shall, by majority vote, by written notice to the commissioner, designate the banks or trust companies in which all moneys of the city shall be deposited, and may by like notice in writing from time to time change the banks and trust companies thus designated. The banking commission shall notify the council within thirty days of receiving an application for designation or redesignation, and shall also notify the council within thirty days of approving or denying such application and, if designation or redesignation was denied, the basis for denial.
@@ -511,10 +511,10 @@ Section 1524.
 
 
 Section 1524-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1524-a. Community investment advisory board.* ::
+*Section 1524-a. Community investment advisory board.*
 
 
 1. There is hereby established within the department an advisory board known as the community investment advisory board, which shall perform the following functions:
@@ -553,10 +553,10 @@ Section 1524-a.
 
 
 Section 1525.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1525. City register.* ::
+*Section 1525. City register.*
 
 
 1. There shall be within the department a city register who shall be appointed by the mayor.
@@ -567,10 +567,10 @@ Section 1525.
 
 
 Section 1526.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1526. Office of city sheriff.* ::
+*Section 1526. Office of city sheriff.*
 
 
 1. There shall be within the department an office of the city sheriff which shall be subject to the supervision and control of the commissioner of finance. Notwithstanding any other provision of law, the commissioner of finance may exercise or assign within the department such management functions of the office of the sheriff, including but not limited to those functions related to the appointment and removal of deputy sheriffs and other personnel of such office pursuant to the civil service law, as he or she may deem appropriate to achieve effective and efficient functioning and management of such office.
@@ -581,10 +581,10 @@ Section 1526.
 
 
 Section 1527.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1527. Contracts with collection agencies.* ::
+*Section 1527. Contracts with collection agencies.*
 
 
 1. Notwithstanding any other provisions of law to the contrary, the commissioner may enter into contracts with collection agencies for the collection of (i) any or all tax warrants and judgments for all city taxes subject to collection by the department, other than real property taxes, or (ii) city water and sewer charges, or both; provided however, that any such contract shall be subject to the provisions of sections three hundred twelve and three hundred thirteen.
@@ -603,10 +603,10 @@ Section 1527.
 
 
 Section 1528.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 1528. Revenue stabilization fund.* ::
+*Section 1528. Revenue stabilization fund.*
 
 
 The city may maintain a revenue stabilization fund to serve as a year-to-year reserve account, subject to the New York state financial emergency act for the city of New York as amended from time to time or any successor statute. Such fund shall be created and operated in accordance with any applicable state law.

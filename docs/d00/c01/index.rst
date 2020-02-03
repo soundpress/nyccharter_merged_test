@@ -1,10 +1,10 @@
 Chapter 1: Mayor
-===================================================
+======================================================================================================
 Section 3.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 3. Office powers.* ::
+*Section 3. Office powers.*
 
 
 The mayor shall be the chief executive officer of the city.
@@ -13,10 +13,10 @@ The mayor shall be the chief executive officer of the city.
 
 
 Section 4.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 4. Election; term; salary.* ::
+*Section 4. Election; term; salary.*
 
 
 The mayor shall be elected at the general election in the year nineteen hundred sixty-five and every fourth year thereafter. The mayor shall hold office for a term of four years commencing on the first day of January after each such election. A mayor who resigns or is removed from office prior to the completion of a full term shall be deemed to have held that office for a full term for purposes of section 1138 of the charter. The salary of the mayor shall be two hundred fifty-eight thousand seven hundred fifty dollars a year.
@@ -27,10 +27,10 @@ The mayor shall be elected at the general election in the year nineteen hundred 
 
 
 Section 5.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 5. Annual statement to council.* ::
+*Section 5. Annual statement to council.*
 
 
 The mayor shall communicate to the council at least once in each year a statement of the finances, government and affairs of the city with a summary statement of the activities of the agencies of the city. Such statement shall include a summary of the city's progress in implementing the goals and strategies contained in the most recent final strategic policy statement submitted by that mayor pursuant to section seventeen.
@@ -39,10 +39,10 @@ The mayor shall communicate to the council at least once in each year a statemen
 
 
 Section 6.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 6. Heads of departments; appoint; remove.* ::
+*Section 6. Heads of departments; appoint; remove.*
 
 
 a. The mayor shall appoint the heads of administrations, departments, all commissioners and all other officers not elected by the people, except as otherwise provided by law.
@@ -53,10 +53,10 @@ b. The mayor, whenever in his judgment the public interest shall so require, may
 
 
 Section 7.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 7. Deputy mayors.* ::
+*Section 7. Deputy mayors.*
 
 
 The mayor shall appoint one or more deputy mayors with such duties and responsibilities as the mayor determines.
@@ -65,10 +65,10 @@ The mayor shall appoint one or more deputy mayors with such duties and responsib
 
 
 Section 8.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 8. General powers.* ::
+*Section 8. General powers.*
 
 
 The mayor, subject to this charter, shall exercise all the powers vested in the city, except as otherwise provided by law.
@@ -103,10 +103,10 @@ h. The mayor shall designate the head of an office of the mayor, or of such othe
 
 
 Section 9.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 9. Removal of mayor.* ::
+*Section 9. Removal of mayor.*
 
 
 The mayor may be removed from office by the governor upon charges and after service upon him of a copy of the charges and an opportunity to be heard in his defense. Pending the preparation and disposition of charges, the governor may suspend the mayor for a period not exceeding thirty days.
@@ -115,10 +115,10 @@ The mayor may be removed from office by the governor upon charges and after serv
 
 
 Section 10.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 10. Succession.* ::
+*Section 10. Succession.*
 
 
 a. In case of the suspension of the mayor from office, the mayor's temporary inability to discharge the powers and duties of the office of mayor by reason of sickness or otherwise, or the mayor's absence from the city, the powers and duties of the office of mayor shall devolve upon the public advocate or the comptroller in that order of succession until the suspension, inability or absence shall cease. While so acting temporarily as mayor neither the public advocate nor the comptroller shall exercise any power of appointment to or removal from office or any power lawfully delegated by the mayor to a deputy mayor before the commencement of such suspension or inability, or before or after the commencement of such absence; and shall not, until such suspension, inability or absence shall have continued nine days, sign, approve or disapprove any local law or resolution, unless the period during which the mayor can act thereon would expire during said nine days in which case the public advocate or the comptroller shall have the power to disapprove the same within forty-eight hours before the time to act expires.
@@ -199,10 +199,10 @@ d. Determination of mayoral inability.
 
 
 Section 11.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 11. Reorganization of agencies under jurisdiction of mayor.* ::
+*Section 11. Reorganization of agencies under jurisdiction of mayor.*
 
 
 a. The agencies existing on the effective date of this section are continued except as otherwise provided in the charter or as otherwise provided by state or local law enacted since that date or by any actions taken by the mayor pursuant to this section since that date. To achieve effective and efficient functioning and management of city government, the mayor may organize or reorganize any agency under his jurisdiction, including the authority to transfer functions from one agency to another; create new agencies; eliminate existing agencies; and consolidate or merge agencies. Any action by the mayor pursuant to this subdivision shall be termed a "reorganization plan" and shall be published in the City Record.
@@ -221,10 +221,10 @@ f. The authority of the mayor pursuant to this section shall not apply (1) to an
 
 
 Section 12.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 12. Mayor's management report.* ::
+*Section 12. Mayor's management report.*
 
 
 a. Not later than January thirtieth in each year the mayor shall make public and submit to the council a preliminary management report of the city and not later than September seventeenth in each year the mayor shall make public and submit to the council a management report.
@@ -267,10 +267,10 @@ e. Prior to April eighth in each year the council shall conduct public hearings 
 
 
 Section 13.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 13. Office of criminal justice.* ::
+*Section 13. Office of criminal justice.*
 
 
 There is established in the executive office of the mayor an office of criminal justice, to be headed by a coordinator of criminal justice appointed by the mayor. The coordinator shall:
@@ -287,10 +287,10 @@ There is established in the executive office of the mayor an office of criminal 
 
 
 Section 13-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 13-a. Code of administrative judicial conduct.* ::
+*Section 13-a. Code of administrative judicial conduct.*
 
 
 The mayor and the chief administrative law judge of the office of administrative trials and hearings shall jointly promulgate, and may from time to time jointly amend, rules establishing a code or codes of professional conduct governing the activities of all administrative law judges and hearing officers in city tribunals, except to the extent that such promulgation would be inconsistent with law. Prior to promulgating or amending any such rules, the mayor and the chief administrative law judge shall consult with the conflicts of interest board, the commissioner of investigation and affected agency and administrative tribunal heads. An administrative law judge or hearing officer shall be subject to removal or other disciplinary action for violating such rules in the manner that such administrative law judge or hearing officer may be removed or otherwise disciplined under law. Further, such rules may set forth additional sanctions or penalties for violations of such rules to the extent consistent with law.
@@ -299,10 +299,10 @@ The mayor and the chief administrative law judge of the office of administrative
 
 
 Section 13-b.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 13-b. Office of civil justice.* ::
+*Section 13-b. Office of civil justice.*
 
 
 a. The mayor shall establish an office of civil justice. Such office may, but need not, be established in the executive office of the mayor and may be established as a separate office, within any other office of the mayor or within any department, the head of which is appointed by the mayor. Such office shall be headed by a coordinator who shall be appointed by the mayor or the head of such department. For the purposes of this section only, "coordinator" shall mean the coordinator of the office of civil justice.
@@ -329,10 +329,10 @@ c. Five-year plan. Within one year after the completion of the first annual repo
 
 
 Section 13-c.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 13-c. Municipal division of transitional services.* ::
+*Section 13-c. Municipal division of transitional services.*
 
 
 a. The mayor shall establish a municipal division of transitional services. Such division may, but need not, be established in the executive office of the mayor or as a separate division or within any other office of the mayor, or within any department the head of which is appointed by the mayor. Such division shall be headed by a coordinator who shall be appointed by the mayor or the head of such department. For the purposes of this section, "coordinator" shall mean the coordinator of the municipal division of transitional services.
@@ -361,10 +361,10 @@ e. Four-year plan. Within one year after the completion of the first biennial re
 
 
 Section 13-d.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 13-d. Office of crime victim services.* ::
+*Section 13-d. Office of crime victim services.*
 
 
 a. Definitions. As used in this chapter, the following terms have the following meanings:
@@ -403,10 +403,10 @@ c. Powers and duties. The coordinator shall have the power and the duty to:
 
 
 Section 14.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 14. Office of veteran' affairs. [Repealed]* ::
+*Section 14. Office of veteran' affairs. [Repealed]*
 
 
 
@@ -415,10 +415,10 @@ Section 14.
 
 
 Section 15.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 15. Office of operations.* ::
+*Section 15. Office of operations.*
 
 
 a. There shall be, in the executive office of the mayor, an office of operations. The office shall be headed by a director, who shall be appointed by the mayor.
@@ -587,10 +587,10 @@ Editor's note: division g.4. of this Section 15 shall expire and be deemed repea
 
 
 Section 16.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 16. Report on social indicators and equity.* ::
+*Section 16. Report on social indicators and equity.*
 
 
 a. For purposes of this section, the term "gender" includes actual or perceived sex and shall also include a person's gender identity, self-image, appearance, behavior, or expression, whether or not that gender identity, self-image, appearance, behavior or expression is different from that traditionally associated with the legal sex assigned to that person at birth. The mayor shall submit an annual report to the council, borough presidents, and community boards analyzing the social, economic and environmental health of the city, including any disparities among populations including gender, racial groups, income groups and, sexual orientation, where relevant data is available, and proposing strategies for addressing the issues raised in such analysis. The report shall present and analyze data on the social, economic and environmental conditions, and gender, racial, and income disparities, and, disparities relating to sexual orientation, as available, as well as other disparities as may be identified by the mayor within such conditions, which may include, national origin, citizenship status, age, and disability status, where relevant data is available, which are significantly related to the jurisdiction of the agencies responsible for the services specified in section twenty seven hundred four, the health and hospitals corporation, and such other agencies as the mayor shall from time to time specify. The report shall include the generally accepted indices of economic security and mobility, poverty, education, child welfare, housing affordability and quality, homelessness, health, physical environment, transportation, criminal justice and policing, civic participation, public employment and such other indices as the mayor shall require by executive order or the council shall require by local law, including where possible generally accepted data or indices regarding gender, racial, and income-based disparities and disparities relating to sexual orientation, as available, within each indexed category of information, in addition to disparities based upon other population characteristics that may be identified by the mayor. Such report shall be submitted no later than sixty days before the community boards are required to submit budget priorities pursuant to section two hundred thirty and shall contain: (1) the reasonably available statistical data, for the current and previous five years, on such conditions in the city and, where possible, in its subdivisions disaggregated by gender, racial group, and income group, and sexual orientation to the extent that such data is available; and a comparison of this data with such relevant national, regional or other standards or averages as the mayor deems appropriate; (2) a narrative discussion of the differences and the disparities in such conditions by gender, racial group and income group, and sexual orientation, as available, and among the subdivisions of the city and of the changes over time in such conditions; and (3) the mayor's short and long term plans, organized by agency or by issue, for responding to the significant problems and disparities evidenced by the data presented in the report.
@@ -603,10 +603,10 @@ b. No later than March thirty-first of each year, the mayor shall submit an annu
 
 
 Section 17.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 17. Strategic policy statement.* ::
+*Section 17. Strategic policy statement.*
 
 
 a. On or before the fifteenth day of November of nineteen hundred ninety, and every four years thereafter, the mayor shall submit a preliminary strategic policy statement for the city to the borough presidents, council, and community boards. Such preliminary statement shall include: (i) a summary of the most significant long-term issues faced by the city; (ii) policy goals related to such issues; and (iii) proposed strategies for meeting such goals. In preparing the statement of strategic policy, the mayor shall consider the strategic policy statements prepared by the borough presidents pursuant to subdivision fourteen of section eighty-two.
@@ -617,10 +617,10 @@ b. On or before the first day of February of nineteen hundred ninety-one, and ev
 
 
 Section 18.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 18. Office of immigrant affairs.* ::
+*Section 18. Office of immigrant affairs.*
 
 
 a. The city recognizes that a large percentage of its inhabitants were born abroad or are the children of parents who were born abroad and that the well-being and safety of the city is put in jeopardy if the people of the city do not seek medical treatment for illnesses that may be contagious, do not cooperate with the police when they witness a crime or do not avail themselves of city services to educate themselves and their children. It is therefore desirable that the city promote the utilization of city services by all its residents, including foreign-born inhabitants, speakers of foreign languages and undocumented immigrants.
@@ -731,10 +731,10 @@ g. 1. There is hereby established an interagency task force on immigrant affairs
 
 
 Section 19.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 19. Office to end domestic and gender-based.* ::
+*Section 19. Office to end domestic and gender-based.*
 
 
 a. The city of New York recognizes that domestic violence is a public health issue that threatens hundreds of thousands of households each year and that respects no boundaries of race, ethnicity, age, gender, sexual orientation or economic status. The city of New York further recognizes that the problems posed by domestic violence fall within the jurisdiction and programs of various City agencies and that the development of an integrated approach to the problem of domestic violence, which coordinates existing services and systems, is critical to the success of the city of New York's efforts in this area.
@@ -801,10 +801,10 @@ d. 1. For purposes of this subdivision, the following terms shall have the follo
 
 
 Section 20.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 20. Office of long-term planning and sustainability.* ::
+*Section 20. Office of long-term planning and sustainability.*
 
 
 a. The mayor shall establish an office of long-term planning and sustainability. Such office may, but need not, be established in the executive office of the mayor and may be established as a separate office or within any other office of the mayor or within any department the head of which is appointed by the mayor. Such office shall be headed by a director who shall be appointed by the mayor or by the head of such department. For the purposes of this section only, "director" shall mean the director of long-term planning and sustainability.
@@ -861,10 +861,10 @@ j. The director or the director's designee, in consultation with the commissione
 
 
 Section 20-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 20-a. Office of labor standards.* ::
+*Section 20-a. Office of labor standards.*
 
 
 a. The mayor shall establish an office of labor standards. Such office may, but need not, be established in the executive office of the mayor and may be established as a separate office or within any other office of the mayor or within any department the head of which is appointed by the mayor. Such office shall be headed by a director who shall be appointed by the mayor or head of such department.
@@ -905,10 +905,10 @@ h. Division of paid care. The director of the office of labor standards shall es
 
 
 Section 20-b.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 20-b. Commission on gender equity.* ::
+*Section 20-b. Commission on gender equity.*
 
 
 a. There shall be a commission on gender equity to study the nature and extent of inequities facing women and girls in the city; to study their impact on the economic, civic, and social well-being of women and girls; to advise on ways to analyze the function and composition of city agencies through a gender-based lens and ways to develop equitable recruitment strategies; and to make recommendations to the mayor and the council for the reduction of gender-based inequality. Such commission shall consist of 26 members appointed by the mayor; 5 members appointed by the speaker of the council; and the chair of the commission on human rights, who shall serve as an ex officio member. Members of the commission shall be representative of the New York city population and shall have experience in advocating for issues important to women and girls. The mayor shall designate one member to serve as chair of the commission, and may also designate a member to serve as co-chair. Members shall serve at the pleasure of the appointing authority. In the event of the death or resignation of any member, his or her successor shall be appointed by the official who appointed such member. The mayor shall appoint an executive director for the commission.
@@ -933,10 +933,10 @@ d. No later than December 1, 2017 and annually by December 1 thereafter, the com
 
 
 Section 20-c.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 20-c. Drug strategy.* ::
+*Section 20-c. Drug strategy.*
 
 
 a. Such agency or office that the mayor shall designate shall prepare short-term and long-term plans and recommendations to coordinate and effectively utilize private and public resources to address problems associated with illicit and non-medical drug use and to address the effects associated with past and current drug policies in this city.
@@ -977,10 +977,10 @@ Editor's note: L.L. 2017/048, 3/21/2017, § 2 provides: "This local law takes ef
 
 
 Section 20-d.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 20-d. Office of nightlife.* ::
+*Section 20-d. Office of nightlife.*
 
 
 a. Definitions. For the purposes of this section the following terms have the following meanings:
@@ -1065,10 +1065,10 @@ g. Nothing in this section shall be construed to limit the powers of any other a
 
 
 Section 20-e.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 20-e. Committee on city healthcare services.* ::
+*Section 20-e. Committee on city healthcare services.*
 
 
 a. There shall be a committee on city healthcare services established by the mayor, or the mayor’s designee, to review community-based health indicators in New York city, and evaluate community-level health needs that can be addressed by city healthcare services.
@@ -1121,10 +1121,10 @@ e. In carrying out the requirements of this section, the committee shall provide
 
 
 Section 20-f.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 20-f. Office of data analytics.* ::
+*Section 20-f. Office of data analytics.*
 
 
 a. Definitions. For purposes of this section, the term “director” means the director of the office of data analytics.
@@ -1155,10 +1155,10 @@ d. The director shall possess such powers, in addition to any powers vested in h
 
 
 Section 20-g.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 20-g. Office for the prevention of hate crimes.* ::
+*Section 20-g. Office for the prevention of hate crimes.*
 
 
 a. The mayor shall establish an office for the prevention of hate crimes. Such office may be established within any office of the mayor or as a separate office or within any other office of the mayor or within any department the head of which is appointed by the mayor. Such office shall be headed by a coordinator who shall be appointed by the mayor or the head of such department. For the purposes of this section only, “coordinator” shall mean the coordinator of the office for the prevention of hate crimes.
@@ -1193,10 +1193,10 @@ c. The coordinator shall establish a division of educational outreach. The divis
 
 
 Section 20-h.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 20-h. Office of minority and women-owned business enterprises.* ::
+*Section 20-h. Office of minority and women-owned business enterprises.*
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:

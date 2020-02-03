@@ -1,12 +1,12 @@
 Title 50: Community Assistance Unit
-===================================================
+======================================================================================================
 
 Chapter 2: Sale of Alcoholic Beverages At Events Authorized By A Street Activity Permit
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Sale of Alcoholic Beverages Prohibited.* ::
+*§ 2-01 Sale of Alcoholic Beverages Prohibited.*
 
 
 No sponsor who has received a permit to conduct a street activity from the Street Activity Permit Office (SAPO) shall sell or otherwise distribute alcoholic beverages to any person during the course of such street activity, nor shall such sponsor allow any vendor or any other person or entity that participates in such street activity to sell or otherwise distribute alcoholic beverages to any person during the course of such street activity.
@@ -16,7 +16,7 @@ No sponsor who has received a permit to conduct a street activity from the Stree
 
 
 
-*§ 2-02 Enforcement.* ::
+*§ 2-02 Enforcement.*
 
 
 The director of SAPO shall have the authority to deny an application for a street activity permit, to condition the approval of an application for a street activity permit, or to revoke a street activity permit, based on the past or present failure of the applicant or sponsor to comply with the provisions of this chapter.
@@ -26,7 +26,7 @@ The director of SAPO shall have the authority to deny an application for a stree
 
 
 
-*§ 2-03 Exception.* ::
+*§ 2-03 Exception.*
 
 
 This prohibition shall not apply to entities or persons licensed by the New York state liquor authority to sell alcoholic beverages at retail to be consumed on the premises where sold, including those licensees who operate a sidewalk café pursuant to a license issued by the commissioner of consumer affairs.
@@ -35,11 +35,11 @@ This prohibition shall not apply to entities or persons licensed by the New York
 
 
 Chapter 1: Application, Fees and Charges For Street Activity Permits
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Applicability and Definitions.* ::
+*§ 1-01 Applicability and Definitions.*
 
 
 These rules shall apply to all applications for street activity permits, and for purposes of this chapter, the following terms shall have the following meanings:
@@ -133,7 +133,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
 
 
 
-*§ 1-02 Street Activity Permit Office.* ::
+*§ 1-02 Street Activity Permit Office.*
 
 
 (a) The Executive Director of the Mayor's Office of Citywide Event Coordination and Management (hereafter "CECM") hereby establishes within CECM a Street Activity Permit Office (hereinafter referred to as "SAPO") and the position of Director of the Street Activity Permit Office. The function of SAPO shall be to administer the procedures set forth in these rules. The Director of SAPO shall be consistent with these rules, have the authority to approve or deny any application for a street activity permit, to temporarily suspend or to revoke any street activity permit, or to impose upon the issuance of any street activity permit any conditions necessary to protect the interests of the City, the community and the general public.
@@ -143,7 +143,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
 
 
 
-*§ 1-03 Application Requirements and Deadlines.* ::
+*§ 1-03 Application Requirements and Deadlines.*
 
 
 (a) A street activity permit is required to conduct any event as defined by 50 RCNY § 1-01 and may also be requested for a Press Conference/Rally/Stationary Demonstration that requires less than 50% of a Pedestrian plaza.
@@ -209,7 +209,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
 
 
 
-*§ 1-04 Submitting and Processing of Applications.* ::
+*§ 1-04 Submitting and Processing of Applications.*
 
 
 (a) All event applications shall be submitted directly to SAPO.
@@ -249,7 +249,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
 
 
 
-*§ 1-05 Approval or Denial of Applications by the Street Activity Permit Office.* ::
+*§ 1-05 Approval or Denial of Applications by the Street Activity Permit Office.*
 
 
 (a) The Director of SAPO shall take into consideration any recommendations or comments received from community boards and Pedestrian plaza partners, where applicable, or City agencies or other government agencies in determining whether to approve, approve with conditions, or deny a Street event permit application or a Plaza event permit application. At any time during the review of an application for a street activity permit or a Plaza event permit, the Director of SAPO or Executive Director of CECM or his or her designee may require the submission by the Applicant of such additional information that he or she deems necessary to evaluate the application or the qualifications of the Applicant or to implement the requirements of these rules.
@@ -297,7 +297,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
 
 
 
-*§ 1-06 Process for Appealing Determination by SAPO Director.* ::
+*§ 1-06 Process for Appealing Determination by SAPO Director.*
 
 
 (a) An Applicant shall have five business days from receipt of the notification of a denial, of an approval with conditions, or a denial of a waiver of the insurance requirement by the Director of SAPO to file a written appeal with the Executive Director of CECM. If an Applicant fails to appeal a denial of a permit or a waiver of the insurance requirement within the time provided, then the application process shall be terminated. If the Director approves the application with conditions and the Applicant fails to appeal, the Applicant shall be deemed to have accepted such conditions.
@@ -309,7 +309,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
 
 
 
-*§ 1-07 Amendments to Applications for Permits.* ::
+*§ 1-07 Amendments to Applications for Permits.*
 
 
 (a)  Any Applicant who proposes to amend the date, location or time or make any other material change on an application that has been filed or a permit that has been granted shall notify, in writing, the proposed changes to SAPO. The Director of SAPO shall consider the recommendations and comments of the community board and City agencies, if any, prior to his or her approval or denial of the proposed amendment.
@@ -321,7 +321,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
 
 
 
-*§ 1-08 Street Activity Fees.* ::
+*§ 1-08 Street Activity Fees.*
 
 
 (a) Street activities that occupy one block for more than one day, a fee of thirty-five (35) dollars shall be charged for each day after the first day.

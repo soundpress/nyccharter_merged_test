@@ -1,10 +1,10 @@
 Chapter 12: Obligations of the City
-===================================================
+======================================================================================================
 Section 265.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 265. Allocation of authorizations to department of citywide administrative services.* ::
+*Section 265. Allocation of authorizations to department of citywide administrative services.*
 
 
 So much of the amount of any obligation authorized as is applicable to the purchase of supplies, materials and equipment or the provision of services, utilities or facilities which the department of citywide administrative services is authorized to purchase or provide shall be allotted to the department of citywide administrative services, but shall be considered and accounted for as a part of the cost of the project for which the obligations were authorized.
@@ -13,10 +13,10 @@ So much of the amount of any obligation authorized as is applicable to the purch
 
 
 Section 265-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 265-a. Allocation of authorizations to department of design and construction.* ::
+*Section 265-a. Allocation of authorizations to department of design and construction.*
 
 
 So much of the amount of any obligation authorized as is applicable to the completion of construction projects, acquisition of real property or acquisition of personal property in connection with construction or a capital project by the department of design and construction, including but not limited to the provision of services, utilities or facilities of such department, shall be allotted to the department of design and construction, but shall be considered and accounted for as a part of the cost of the project for which the obligations were authorized.
@@ -25,10 +25,10 @@ So much of the amount of any obligation authorized as is applicable to the compl
 
 
 Section 266.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 266. Short term debt.* ::
+*Section 266. Short term debt.*
 
 
 a. Subject to the provisions of subdivisions b through j of this section, the city may issue temporary debt obligations in anticipation of taxes and revenues as authorized by state law. The city shall issue no short-term obligations which shall be inconsistent with the limitations set forth in subdivisions b through j of this section. The limitations on short-term borrowing imposed upon the city by this section shall be in addition to the limitations on short-term borrowing imposed on the city under the state local finance law. The powers, duties, and obligations set forth in this section shall be subject to the powers, duties, and obligations placed upon any state or local officer or agency, including but not limited to the New York state financial control board, by or pursuant to the New York State Financial Emergency Act for the City of New York, while such act remains in effect.
@@ -63,10 +63,10 @@ j. All references to the state local finance law in this section shall be deemed
 
 
 Section 270.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 270. Application.* ::
+*Section 270. Application.*
 
 
 The provisions of sections two hundred seventy-one through two hundred seventy-nine shall apply to the several sinking funds of the city established prior to July first, nineteen hundred eighty-one.
@@ -75,10 +75,10 @@ The provisions of sections two hundred seventy-one through two hundred seventy-n
 
 
 Section 271.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 271. Sinking fund of the city of New York.* ::
+*Section 271. Sinking fund of the city of New York.*
 
 
 There is hereby continued the fund known as the "sinking fund of the city of New York" which shall have for its purpose the amortization and redemption of the principal of the debt of the city of New York incurred on and after the first day of January eighteen hundred ninety-eight, and evidenced by corporate stock of the city of New York, excepting that issued to provide for the supply of water and that issued since the first day of January, nineteen hundred ten, for rapid transit or rapid transit unification purposes and that issued since the first day of July nineteen hundred eighty-one which is redeemable from the general sinking fund or any other sinking fund established pursuant to sections two hundred ninety through two hundred ninety-nine.
@@ -87,10 +87,10 @@ There is hereby continued the fund known as the "sinking fund of the city of New
 
 
 Section 272.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 272. Water sinking fund of the city of New York.* ::
+*Section 272. Water sinking fund of the city of New York.*
 
 
 There is hereby continued the fund known as the "water sinking fund of the city of New York" which shall have for its purpose the amortization and redemption of all corporate stock of the city of New York issued on and after the first day of January, eighteen hundred ninety-eight, to provide for the supply of water, excepting that issued since the first day of July nineteen hundred eighty-one which is redeemable from the general sinking fund or any other sinking fund established pursuant to sections two hundred ninety through two hundred ninety-nine.
@@ -99,10 +99,10 @@ There is hereby continued the fund known as the "water sinking fund of the city 
 
 
 Section 273.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 273. Rapid transit sinking fund of the city of New York.* ::
+*Section 273. Rapid transit sinking fund of the city of New York.*
 
 
 There is hereby continued the fund known as the "rapid transit sinking fund of the city of New York" which shall have for its purpose the amortization and redemption of all corporate stock of the city of New York issued on and after the first day of January, nineteen hundred ten, for rapid transit purposes, excepting that issued since the first day of July nineteen hundred eighty-one which is redeemable from the general sinking fund or any other sinking fund established pursuant to sections two hundred ninety through two hundred ninety-nine.
@@ -111,10 +111,10 @@ There is hereby continued the fund known as the "rapid transit sinking fund of t
 
 
 Section 273-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 273-a. Transit unification sinking fund of the city of New York.* ::
+*Section 273-a. Transit unification sinking fund of the city of New York.*
 
 
 There is hereby continued the fund known as the "transit unification sinking fund of the city of New York" which shall have for its purpose the amortization and redemption of all corporate stock of the city of New York issued on and after the first day of January, nineteen hundred thirty-nine, for transit unification purposes.
@@ -123,10 +123,10 @@ There is hereby continued the fund known as the "transit unification sinking fun
 
 
 Section 274.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 274. Administration of sinking funds.* ::
+*Section 274. Administration of sinking funds.*
 
 
 The comptroller shall administer and manage the several sinking funds of the city established prior to July first, nineteen hundred eighty-one, and shall have custody of the securities in such funds. In the administration of such funds the comptroller shall be deemed to be acting in a fiduciary capacity. Where moneys of such sinking funds are invested pursuant to section two hundred seventy-five, in securities which are obligations of the United States or of any agency, subdivision, department, division or instrumentality thereof, or obligations fully guaranteed or insured as to interest and principal by an agency, subdivision, department, division or instrumentality of the United States, acting pursuant to a grant of authority from the congress of the United States, notwithstanding any other provision of law, the comptroller may turn over the physical custody and safekeeping of these obligations to (a) any bank or trust company incorporated in this state, or (b) any national bank located in this state, or (c) any private banker duly authorized by the superintendent of banks of this state to engage in business here. All such private bankers shall, as private bankers, maintain a permanent capital of not less than one million dollars in this state. The comptroller may direct such bank, trust company or private banker to register and hold any such securities in its custody, in the name of its nominee. The comptroller may deposit, or authorize such bank, trust company or private banker, to deposit, or arrange for the deposit of, any of such securities with a federal reserve bank to be credited to an account as to which the ownership of, and other interest in, such securities may be transferred by entries on the books of such federal reserve bank without physical delivery of any such securities. The records of any such bank, trust company or private banker shall show, at all times, the ownership of such obligations, and they shall, when held in the possession of such bank, trust company or private banker be, at all times, kept separate from the assets of such bank, trust company or private banker. When any such obligations are so registered in the name of a nominee, such bank, trust company or private banker shall be absolutely liable for any loss occasioned by the acts of such nominee with respect to such obligations.
@@ -135,10 +135,10 @@ The comptroller shall administer and manage the several sinking funds of the cit
 
 
 Section 275.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 275. Investment of sinking fund moneys.* ::
+*Section 275. Investment of sinking fund moneys.*
 
 
 The comptroller may invest the moneys of the several sinking funds of the city established prior to July first, nineteen hundred eighty-one in any of the following securities:
@@ -155,10 +155,10 @@ The comptroller may invest the moneys of the several sinking funds of the city e
 
 
 Section 276.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 276. Annual appropriations to the sinking funds.* ::
+*Section 276. Annual appropriations to the sinking funds.*
 
 
 For the redemption of the corporate stock redeemable from the several sinking funds of the city established prior to July first, nineteen hundred eighty-one there shall be included annually in the budget and paid into each of such sinking funds an amount to be estimated and certified by the comptroller, which amount shall be not less than the aggregate of such annual contributions, as calculated at the time each issue of corporate stock redeemable from such sinking fund was made, would be sufficient if thereafter annually contributed to such fund together with the accumulations of interest thereon computed at the rate of four per centum per annum to meet and discharge such outstanding corporate stock when the same shall be payable; provided, however, that if at the close of a fiscal year there is in any sinking fund a surplus over and above the reserve required by such sinking fund computed as hereinabove provided, the comptroller, in estimating the amount to be included for such sinking fund in the budget, shall reduce the amount of the annual contributions by the amount of such surplus. Amounts received annually from the operation of any rapid transit railroad for the construction, equipment or acquisition of which corporate stock redeemable from any such fund shall have been issued, shall not be considered or treated as surplus, but such amounts shall be deducted from the amount certified by the comptroller for the budget for the ensuing year.
@@ -167,10 +167,10 @@ For the redemption of the corporate stock redeemable from the several sinking fu
 
 
 Section 277.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 277. Monthly report.* ::
+*Section 277. Monthly report.*
 
 
 Not later than the tenth day in each month, the comptroller shall submit to the mayor and the council a certified report, which shall be published forthwith in the City Record, setting forth the operations of the several sinking funds during the preceeding* month and the condition of such funds at the commencement and close of such month and such other information as may be required.
@@ -179,10 +179,10 @@ Not later than the tenth day in each month, the comptroller shall submit to the 
 
 
 Section 278.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 278. Annual report.* ::
+*Section 278. Annual report.*
 
 
 Not later than the first day of September in each year, the comptroller shall submit to the mayor and the council a certified report, which shall be published forthwith in convenient form as a supplement to the City Record and which shall set forth in detail the operations of the several sinking funds during the preceding fiscal year, the reserves required, the assets of such funds at the close of such year, the obligations redeemable from such funds, the dates of their maturities and such other information as may be required.
@@ -191,10 +191,10 @@ Not later than the first day of September in each year, the comptroller shall su
 
 
 Section 290.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 290. Application.* ::
+*Section 290. Application.*
 
 
 The provisions of sections two hundred ninety-one through two hundred ninety-nine shall apply to the establishment, operation and administration of sinking funds established on or after July first, nineteen hundred eighty-one.
@@ -203,10 +203,10 @@ The provisions of sections two hundred ninety-one through two hundred ninety-nin
 
 
 Section 291.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 291. General sinking fund.* ::
+*Section 291. General sinking fund.*
 
 
 There is hereby established a general sinking fund to amortize and redeem any or all of the sinking fund bonds issued and sold from time to time by the city of New York on or after July first, nineteen hundred eighty-one for any purpose for which sinking fund bonds may be authorized, excepting sinking fund bonds which are redeemable from the sinking fund of the city of New York, the water sinking fund of the city of New York, the rapid transit sinking fund of the city of New York, or any additional sinking fund established pursuant to section two hundred ninety-eight.
@@ -215,10 +215,10 @@ There is hereby established a general sinking fund to amortize and redeem any or
 
 
 Section 292.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 292. Administration.* ::
+*Section 292. Administration.*
 
 
 The comptroller shall administer and manage the general sinking fund and any additional sinking funds established pursuant to section two hundred ninety-eight of this chapter and shall have custody of the securities and other assets in such funds. In the administration of such funds the comptroller shall be deemed to be acting in a fiduciary capacity.
@@ -227,10 +227,10 @@ The comptroller shall administer and manage the general sinking fund and any add
 
 
 Section 293.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 293. Terms and conditions with respect to the general sinking fund.* ::
+*Section 293. Terms and conditions with respect to the general sinking fund.*
 
 
 a. The comptroller may:
@@ -249,10 +249,10 @@ c. A schedule of annual or semiannual payments shall be established at the time 
 
 
 Section 294.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 294. Redemption.* ::
+*Section 294. Redemption.*
 
 
 The sinking fund bonds to be redeemed from the general sinking fund or any additional sinking funds established pursuant to section two hundred ninety-eight may be selected in such manner as the comptroller may determine and may be identified on the face thereof. The principal amount of sinking fund bonds required to be redeemed on any date by payment from the general sinking fund or any additional sinking fund shall be reduced by the principal amount of any such bonds which has been timely purchased or redeemed and cancelled by the city and not theretofore applied as a credit against such requirements.
@@ -261,10 +261,10 @@ The sinking fund bonds to be redeemed from the general sinking fund or any addit
 
 
 Section 295.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 295. Defeasance.* ::
+*Section 295. Defeasance.*
 
 
 A series or part of a series of sinking fund bonds redeemable from the general sinking fund or any additional sinking fund established pursuant to section two hundred ninety-eight, including any covenants or other agreements relative thereto, shall be fully discharged and of no further force and effect at such time as (a) sufficient moneys or direct obligations of the United States or obligations guaranteed by the United States have been deposited in a separate trust account with a bank, trust company or other fiduciary, the principal of and/or interest on which will provide sufficient moneys to pay punctually when due at maturity or prior to maturity by redemption, in accordance with their terms, all principal of, applicable redemption premium, if any, and interest on such sinking fund bonds, and irrevocable instructions from the city to such bank, trust company or other fiduciary to make payment of such principal, applicable redemption premium, if any, and interest with such moneys shall have been given, or (b) such sinking fund bonds, together with interest thereon, shall have been paid in full at maturity, or shall have otherwise been refunded, redeemed, defeased or discharged.
@@ -273,10 +273,10 @@ A series or part of a series of sinking fund bonds redeemable from the general s
 
 
 Section 296.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 296. Investments.* ::
+*Section 296. Investments.*
 
 
 Subject to subdivision a of section two hundred ninety-three, the comptroller may invest the moneys of the general sinking fund or any additional sinking funds established pursuant to section two hundred ninety-eight in any securities in which the city is authorized to invest, including but not limited to the following securities:
@@ -293,10 +293,10 @@ Subject to subdivision a of section two hundred ninety-three, the comptroller ma
 
 
 Section 297.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 297. [Monthly and annual reports.]* ::
+*Section 297. [Monthly and annual reports.]*
 
 
 The provisions of sections two hundred seventy-seven and two hundred seventy-eight of the charter shall apply to the general sinking fund and any additional sinking funds established pursuant to section two hundred ninety-eight.
@@ -305,10 +305,10 @@ The provisions of sections two hundred seventy-seven and two hundred seventy-eig
 
 
 Section 298.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 298. Additional sinking funds.* ::
+*Section 298. Additional sinking funds.*
 
 
 On or after July first nineteen hundred eighty-one the comptroller may establish from time to time additional sinking funds to amortize and redeem any or all of the sinking fund bonds issued and sold from time to time by the city of New York on or after that date for any purpose for which sinking fund bonds may be authorized excepting sinking fund bonds which are redeemable from the sinking fund of the city of New York, the water sinking fund of the city of New York, the rapid transit sinking fund of the city of New York or the general sinking fund. Notwithstanding any inconsistent provision of section two hundred ninety-three, such additional sinking funds shall be established with such terms and conditions as the comptroller shall prescribe.
@@ -317,10 +317,10 @@ On or after July first nineteen hundred eighty-one the comptroller may establish
 
 
 Section 299.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 299. [Redemption from sinking funds established prior to July first, nineteen hundred eighty-one.]* ::
+*Section 299. [Redemption from sinking funds established prior to July first, nineteen hundred eighty-one.]*
 
 
 The comptroller shall determine whether sinking fund bonds issued on or after July first, nineteen hundred eighty-one shall be redeemable from any of the several sinking funds of the city established prior to July first nineteen hundred eighty-one, the general sinking fund or any of the additional sinking funds established pursuant to section two hundred ninety-eight.

@@ -1,12 +1,12 @@
 Title 9: Procurement Policy Board Rules
-===================================================
+======================================================================================================
 
 Chapter 1: General Provisions
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Use of Language in These Rules.* ::
+*§ 1-01 Use of Language in These Rules.*
 
 
 (a)  Singular-plural and gender rules. In these Rules, words in the singular number include the plural and those in the plural include the singular. Words of a particular gender include any gender and the neuter. When the sense so indicates, words of the neuter gender refer to any gender.
@@ -324,7 +324,7 @@ Chapter 1: General Provisions
 
 
 
-*§ 1-02 Applicability of PPB Rules.* ::
+*§ 1-02 Applicability of PPB Rules.*
 
 
 (a)  General applicability. Except as otherwise provided by law, these Rules shall apply to the procurement of all goods, services, and construction to be paid for out of the City treasury or out of monies under the control of or assessed or collected by the City.
@@ -386,7 +386,7 @@ Chapter 1: General Provisions
 
 
 
-*§ 1-03 Policy Statements* ::
+*§ 1-03 Policy Statements*
 
 
 (a)  Ethics.
@@ -420,7 +420,7 @@ Chapter 1: General Provisions
 
 
 
-*§ 1-04 Contract Information.* ::
+*§ 1-04 Contract Information.*
 
 
 (a)  Agency contract files. The Mayor shall ensure that copies of City contracts and other standard information regarding City contracts and vendors (including information relating to the vendor's qualification and performance evaluations, contract audits, and decisions regarding suspension and debarment) are reasonably available for public inspection as provided by law, with adequate protection for confidential information. Each agency shall maintain files that contain all documentation pertaining to the solicitation, award, and management of each of its contracts, purchase orders, amendments, renewals and change orders including, but not limited to, a written copy of each report, record, justification, approval, determination, or filing that is required to be made by law or these Rules.
@@ -437,11 +437,11 @@ Chapter 1: General Provisions
 
 
 Chapter 2: Procurement Process
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Decision to Procure Technical, Consultant, or Personal Services.* ::
+*§ 2-01 Decision to Procure Technical, Consultant, or Personal Services.*
 
 
 The decision to procure technical, consultant, or personal services that will cost in excess of $100,000 shall be made in writing by the ACCO in accordance with this rule. Factors to be considered in making such decision shall include whether using procurement is:
@@ -467,7 +467,7 @@ The decision to procure technical, consultant, or personal services that will co
 
 
 
-*§ 2-02 Presolicitation Review.* ::
+*§ 2-02 Presolicitation Review.*
 
 
 (a)  Definition. A presolicitation review is the process by which an agency, after determining the necessity of the procurement and the need to contract out, defines the existing market for the goods, services, or construction required, estimates the expected cost, and determines the most appropriate method of procurement.
@@ -501,7 +501,7 @@ The decision to procure technical, consultant, or personal services that will co
 
 
 
-*§ 2-03 Cost Reimbursement Contracts.* ::
+*§ 2-03 Cost Reimbursement Contracts.*
 
 
 A cost reimbursement contract shall be used only when the ACCO determines that it will be less costly to the City than any other type or that it is otherwise in the best interests of the City to obtain the required goods, services, or construction by using such a contract, and that the proposed vendor's accounting system is adequate to allocate costs in accordance with generally accepted government accounting principles and will permit timely development of all necessary cost data in the format required. In addition, whenever a cost-plus-percentage-of-cost contract is used, it shall specify the maximum allowable expenditure.
@@ -511,7 +511,7 @@ A cost reimbursement contract shall be used only when the ACCO determines that i
 
 
 
-*§ 2-04 Multi-Term Contracts (Client Services).* ::
+*§ 2-04 Multi-Term Contracts (Client Services).*
 
 
 (a)  Definitions. A multi-term contract is a contract for a period of longer than one year.
@@ -595,7 +595,7 @@ A cost reimbursement contract shall be used only when the ACCO determines that i
 
 
 
-*§ 2-05 Specifications.* ::
+*§ 2-05 Specifications.*
 
 
 (a)  Policy. Specifications are used to obtain goods, services, and construction to fulfill the City's needs in a cost-effective manner, taking into account, to the extent practicable, the costs of ownership and operation, as well as costs of acquisition. Therefore, specifications shall:
@@ -623,7 +623,7 @@ A cost reimbursement contract shall be used only when the ACCO determines that i
 
 
 
-*§ 2-06 Price/Cost Analysis.* ::
+*§ 2-06 Price/Cost Analysis.*
 
 
 Prior to vendor selection, the ACCO shall determine that the contract price is fair and reasonable by using price analysis and, where appropriate, cost analysis, as these terms are defined in these Rules, to make this determination.
@@ -633,7 +633,7 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
 
 
-*§ 2-07 Responsiveness of Bids/Proposals.* ::
+*§ 2-07 Responsiveness of Bids/Proposals.*
 
 
 (a)  Policy. A responsive bid or proposal is one that complies with all material terms and conditions of the solicitation and all material requirements of the specifications. The ACCO shall make a determination of responsiveness prior to award.
@@ -685,7 +685,7 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
 
 
-*§ 2-08 Vendor Responsibility and Appeal of Determination of Non-Responsi- bility.* ::
+*§ 2-08 Vendor Responsibility and Appeal of Determination of Non-Responsi- bility.*
 
 
 (a)  Policy.
@@ -957,7 +957,7 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
 
 
 
-*§ 2-09 Recommendation for Award.* ::
+*§ 2-09 Recommendation for Award.*
 
 
 (a)  Policy. The Contracting Officer shall prepare a Recommendation for Award under the following circumstances:
@@ -1015,7 +1015,7 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
 
 
 
-*§ 2-10 Vendor Protest.* ::
+*§ 2-10 Vendor Protest.*
 
 
 (a)  Protests. Any vendor may protest a determination of any procurement action pursuant to this section, unless another appeal or protest provision is provided in these Rules. Accelerated procurements, emergency procurements, and small purchases are not subject to vendor protests.
@@ -1031,7 +1031,7 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
 
 
 
-*§ 2-11 Public Hearing Requirements.* ::
+*§ 2-11 Public Hearing Requirements.*
 
 
 (a)  Application. Except in cases set forth in subdivision (b) below, prior to entering into any contract or exercising a renewal option in a contract exceeding in value $100,000, the agency shall hold a public hearing to receive testimony regarding the proposed contract.
@@ -1095,7 +1095,7 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
 
 
 
-*§ 2-12 Contract Registration.* ::
+*§ 2-12 Contract Registration.*
 
 
 (a)  Applicability. Unless otherwise provided by the Charter or these Rules, all contracts, agreements, contract changes, change orders, amendments, modifications, contract time extensions, and "Buy-Against" procurements shall be presented to the Comptroller for registration. Registration of a contract by the Comptroller shall not constitute an approval of the contract nor an approval of the process by which the contract was awarded, nor shall it preclude future audits of the contract. Contracts shall not be registered for less than their full value unless specific written authorization to do so is made by the Agency Head or the ACCO and such written authorization is provided to the Comptroller at the time of registration.
@@ -1162,11 +1162,11 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
 
 
 Chapter 3: Methods of Source Selection
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Policy.* ::
+*§ 3-01 Policy.*
 
 
 (a)  Methods of source selection. Unless otherwise authorized by law, all City procurements shall be made by one of the methods authorized by these Rules.
@@ -1224,7 +1224,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-02 Competitive Sealed Bidding.* ::
+*§ 3-02 Competitive Sealed Bidding.*
 
 
 (a)  Application. This section shall apply to all procurements made by competitive sealed bidding.
@@ -1564,7 +1564,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-03 Competitive Sealed Proposals.* ::
+*§ 3-03 Competitive Sealed Proposals.*
 
 
 (a) The Request for Proposals (RFP) – Contents. RFPs must include the following data:
@@ -1884,7 +1884,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-04 Negotiated Acquisition.* ::
+*§ 3-04 Negotiated Acquisition.*
 
 
 (a)  Policy. Negotiated acquisition may be used for all categories of procurement under the circumstances and subject to the conditions set forth in this section. Authority for approvals or determinations required by this section shall not be delegated, unless otherwise stated herein.
@@ -2002,7 +2002,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-05 Sole Source Procurement.* ::
+*§ 3-05 Sole Source Procurement.*
 
 
 (a)  Conditions for use. Sole source procurement shall be used only when there is only one source for the required goods, service, or construction. In such case, the accepted price and terms and conditions shall be achieved through negotiation between the agency and the vendor. This section shall apply to all sole source procurements over $20,000.
@@ -2064,7 +2064,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-06 Emergency Purchases.* ::
+*§ 3-06 Emergency Purchases.*
 
 
 (a)  Definition of emergency conditions. An emergency condition is an unforeseen danger to life, safety, property, or a necessary service. The existence of such a condition creates an immediate and serious need for goods, services, or construction that cannot be met through normal procurement methods.
@@ -2134,7 +2134,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-07 Accelerated Procurement.* ::
+*§ 3-07 Accelerated Procurement.*
 
 
 (a)  Definition. An accelerated procurement is a procurement of commodities that is required to be made quickly due to markets experiencing significant shortages and/or short-term price fluctuations. Such markets must be identified by specific rule of the PPB. Accelerated procurement shall only be authorized when the CCPO determines those specific commodities subject to accelerated procurement.
@@ -2224,7 +2224,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-08 Small Purchases.* ::
+*§ 3-08 Small Purchases.*
 
 
 (a) Definition. Small purchases are those procurements in value of not more than $100,000 or those procurements made, pursuant to subparagraph (c)(1)(iv) below, in value of not more than $500,000. This collectively shall be known as the small purchase limit. Procurements over $100,000 in value that are not made, pursuant to subparagraph (c)(1)(iv) below, shall not be within the small purchase limit.
@@ -2292,7 +2292,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-09 Intergovernmental and Cooperative Purchases.* ::
+*§ 3-09 Intergovernmental and Cooperative Purchases.*
 
 
 (a)  Intergovernmental purchasing. An agency may procure goods, services, construction, or construction-related services through the United States General Services Administration or any other federal agency or the New York State Office of General Services or any other State agency provided that: for goods the price is lower than the prevailing market price; for services or construction, the price is fair and reasonable; and for procurements above the small purchase limits, approval has been obtained from the ACCO.
@@ -2348,7 +2348,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-10 Prequalification.* ::
+*§ 3-10 Prequalification.*
 
 
 (a)  Policy. Prequalification allows an agency to evaluate the qualifications of vendors for provision of particular categories of goods, services, construction, or construction-related services (including subcategories based on expertise, size, dollar size of project, or other factors as determined by the ACCO) before issuing a solicitation for a specific contract. Except for procurements for construction, a procurement using a PQL shall be considered a "special case" under these Rules. This Section does not apply to the prequalification of vendors through HHS Accelerator pursuant to 9 RCNY § 3-16.
@@ -2466,7 +2466,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-11 Demonstration Projects for Innovative Products, Approaches, or Technol- ogies.* ::
+*§ 3-11 Demonstration Projects for Innovative Products, Approaches, or Technol- ogies.*
 
 
 (a)  Policy and Purpose. It is in the City's best interest to consider proposals for demonstration projects. A demonstration project is a short-term, carefully planned, pilot exercise designed to test and evaluate the feasibility and application of an innovative product, approach or technology not currently used by the City. Demonstration projects may be proposed for goods, services or construction. They allow the City to observe and analyze effectiveness and efficiency without a large commitment of resources. Demonstration projects may be initiated by an unsolicited proposal, or by an agency on its own initiative. For client services programs, agencies may initiate a demonstration project in order to invite proposals for innovative approaches to the provision of existing or new services.
@@ -2542,7 +2542,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-12 Innovative Procurement Methods.* ::
+*§ 3-12 Innovative Procurement Methods.*
 
 
 (a)  Purpose. Innovative procurement methods test and evaluate the feasibility and application of procurement methods not currently used by the City or provided for under these Rules.
@@ -2610,7 +2610,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-13 Government-to-Government Purchases.* ::
+*§ 3-13 Government-to-Government Purchases.*
 
 
 (a)  Policy. In addition to other procurement methods authorized by law, government-to-government purchases may be made pursuant to this section when it is in the City's best interest to procure from another governmental entity goods, services, construction, or construction-related services. In such cases, the accepted price, terms, and conditions shall be achieved through negotiation between the agency and the governmental entity. Except for this section, these Rules shall not apply to these procurements.
@@ -2664,7 +2664,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-14 Contracts for Services.* ::
+*§ 3-14 Contracts for Services.*
 
 
 (a)  Authority to award. An agency may award a contract for services, including the furnishing of goods incidental thereto, that authorizes utilization of such contract by other City agencies. Such a contract may be an open-ended requirements contract or a contract for a defined quantity of services. Such a contract shall be subject to the prior approval of the CCPO. City agencies may utilize a contract let by another City agency to the extent that such contract authorizes such use.
@@ -2676,7 +2676,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-15 Investment Manager Search.* ::
+*§ 3-15 Investment Manager Search.*
 
 
 (a) Policy. Notwithstanding any other provision of this title, the preferred method of procuring investment management services for the assets of the City's Retirement Systems shall be the Investment Manager Search as described in this section. Upon the demonstration of compelling circumstances and in accordance with this section, an alternative procurement method to procure investment manager services may be utilized with the approval of the CCPO.
@@ -2794,7 +2794,7 @@ Chapter 3: Methods of Source Selection
 
 
 
-*§ 3-16 HHS Accelerator.* ::
+*§ 3-16 HHS Accelerator.*
 
 
 (a) Policy.
@@ -3081,11 +3081,11 @@ Chapter 3: Methods of Source Selection
 
 
 Chapter 4: Contract Administration
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Evaluation and Documentation of Vendor Performance.* ::
+*§ 4-01 Evaluation and Documentation of Vendor Performance.*
 
 
 (a)  Criteria. Performance evaluation shall conform to the requirements of the contract, including, but not limited to, quality and timeliness of performance, and fiscal administration and accountability. The agency awarding the contract shall identify specific objectives and evaluation criteria to be included as part of the contract. Where practicable, the agency shall develop both qualitative and quantitative performance indicators, including outcome criteria.
@@ -3107,7 +3107,7 @@ Chapter 4: Contract Administration
 
 
 
-*§ 4-02 Contract Changes.* ::
+*§ 4-02 Contract Changes.*
 
 
 (a)  Policy.
@@ -3161,7 +3161,7 @@ Chapter 4: Contract Administration
 
 
 
-*§ 4-03 Extensions of Time for Performance.* ::
+*§ 4-03 Extensions of Time for Performance.*
 
 
 (a) Application. If performance by the contractor is delayed for a reason set forth in the contract, and performance will not be completed within the time period or by the date set forth in the contract, a reasonable extension in time for performance may be allowed.
@@ -3229,7 +3229,7 @@ Chapter 4: Contract Administration
 
 
 
-*§ 4-04 Renewals.* ::
+*§ 4-04 Renewals.*
 
 
 (a)  Defined. Renewals are defined as re-registration of previous contracts with the same vendor, with substantially unchanged terms and conditions, but possibly revised quantities, lists, or schedules or items to be supplied.
@@ -3323,7 +3323,7 @@ Chapter 4: Contract Administration
 
 
 
-*§ 4-05 Quality Assurance, Inspection, and Testing.* ::
+*§ 4-05 Quality Assurance, Inspection, and Testing.*
 
 
 The CCPO (in the case of construction and certain services), and the DCAS (in the case of goods and certain services as authorized in Chapter 59 of the Charter), shall take such steps as are deemed desirable to ascertain or verify that goods, services, or construction items procured by the Contracting Officer conform to specifications. In performing this duty, the CCPO and DCAS may establish inspection and testing facilities, employ inspection personnel, enter into arrangements for the joint or cooperative use of laboratories and inspection and testing facilities, and contract with others for inspection or testing work as needed. The CCPO and DCAS may delegate authority for inspection and testing to City agencies.
@@ -3333,7 +3333,7 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
 
 
-*§ 4-06 Prompt Payment.* ::
+*§ 4-06 Prompt Payment.*
 
 
 (a)  Policy. It is the policy of the City of New York to process contract payments efficiently and expeditiously so as to assure payment in a timely manner to firms and organizations that do business with the City.
@@ -3497,7 +3497,7 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
 
 
-*§ 4-07 Buy-Against Procurements.* ::
+*§ 4-07 Buy-Against Procurements.*
 
 
 (a)  Policy. When a vendor fails to perform or defaults on an existing contract for goods or services, and there is a continued need for the goods or services, an agency may obtain the required goods or services, as specified in the original contract, or any part thereof, from a successor vendor, pursuant to this section. In soliciting for the successor vendor, the ACCO shall obtain competition to the maximum extent practicable under the circumstances. Prior to the solicitation, the ACCO shall make a determination, including the basis thereof, that the method of source selection is in the best interest of the City. The method of source selection may include, but is not limited to, award to either the second lowest responsive and responsible bidder or next most advantageous proposer on the original solicitation at a price agreed upon between the bidder or proposer and the City. The term of a buy-against contract shall not exceed the balance of the term remaining on the original contract, without renewals, or such interval necessary to complete the original contract work as agreed upon by the ACCO and the vendor, whichever is longer. In addition, the ACCO shall, unless there are compelling mitigating circumstances, charge the non-performing vendor for any difference in price resulting from the buy-against contract, together with any administrative charge established by the agency, and shall, as appropriate, invoke such other sanctions as are available.
@@ -3525,7 +3525,7 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
 
 
-*§ 4-08 Completion of Contracts Following Default or Termination for Cause of Construction and Construction-Related Service Contracts.* ::
+*§ 4-08 Completion of Contracts Following Default or Termination for Cause of Construction and Construction-Related Service Contracts.*
 
 
 (a)  Policy. The City may, as appropriate, default a contractor or terminate for cause in accordance with the terms of the contract and provide for timely completion of the work on a cost-effective basis. To that end, completion of the required work shall be accomplished in as expeditious and competitive a manner as practicable in accordance with these Rules.
@@ -3611,7 +3611,7 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
 
 
-*§ 4-09 Resolution of Disputes Arising Out of Contract Administration.* ::
+*§ 4-09 Resolution of Disputes Arising Out of Contract Administration.*
 
 
 (a)  Applicability. Except as provided in (1) and (2) below, this section shall apply to all disputes between the City and a vendor that arise under, or by virtue of, a contract between them. All contracts shall include a clause providing that all such disputes shall be finally resolved in accordance with the provisions of this section. Parties to contracts that do not contain this clause may by written agreement consent to the resolution of any disputes pursuant to this section.
@@ -3673,7 +3673,7 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
 
 
-*§ 4-10 Debarment and Suspension.* ::
+*§ 4-10 Debarment and Suspension.*
 
 
 (a)  Applicability. It is the policy of the City that vendors are not subject to debarment pursuant to these Rules and agencies may not debar vendors based on the grounds set forth in this section. The activities and conduct indicated to be grounds for debarment listed in this section, however, are specifically referenced in City construction contracts as grounds for default. So as not to disturb the effect of those contract provisions with respect to default, the listing of the grounds for debarment shall remain in these Rules, although agencies may not use such grounds to institute a debarment proceeding.
@@ -3779,7 +3779,7 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
 
 
-*§ 4-11 Hearings on Borough President Complaints.* ::
+*§ 4-11 Hearings on Borough President Complaints.*
 
 
 (a)  Borough president contract evaluation. A Borough President may receive information concerning the delivery of services in the borough pursuant to a contract with the City or an agency of the City.
@@ -3825,7 +3825,7 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
 
 
-*§ 4-12 Late Registration.* ::
+*§ 4-12 Late Registration.*
 
 
 (a)  Policy.
@@ -3855,7 +3855,7 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
 
 
-*§ 4-13 Subcontracts.* ::
+*§ 4-13 Subcontracts.*
 
 
 (a)  Policy. Consistent with the terms of the contract, a vendor may enter into subcontracts where the contracting agency approves. The City has an interest in ensuring that all City work is performed by appropriate persons.

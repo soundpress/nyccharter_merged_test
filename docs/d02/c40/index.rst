@@ -1,12 +1,12 @@
 Title 58: Department of Cultural Affairs
-===================================================
+======================================================================================================
 
 Chapter 1: Joint Living-Work Quarters For Artists
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Applicability.* ::
+*§ 1-01 Applicability.*
 
 
 These Regulations shall apply to all applications for artist's certification submitted to the Department of Cultural Affairs (the "Department") for purposes of occupancy of joint living-work quarters for artists in zoning districts M1-5A and 5B.
@@ -16,7 +16,7 @@ These Regulations shall apply to all applications for artist's certification sub
 
 
 
-*§ 1-02 Artist's Certification Committee and Appeals Board.* ::
+*§ 1-02 Artist's Certification Committee and Appeals Board.*
 
 
 (a) Qualifications, powers and duties. 
@@ -52,7 +52,7 @@ These Regulations shall apply to all applications for artist's certification sub
 
 
 
-*§ 1-03 Artist's Certification Coordinator.* ::
+*§ 1-03 Artist's Certification Coordinator.*
 
 
 The Commissioner shall appoint an Artist's Certification Coordinator (the "Coordinator") who shall be a member of the staff of the Department and who shall be responsible for the administration of the artist's certification procedure. Among other matters, the Coordinator shall review applications, maintain files pertaining to artist's certification, answer inquiries from the public, schedule meetings of the Committee, and prepare the agenda for and the record of each such meeting.
@@ -62,7 +62,7 @@ The Commissioner shall appoint an Artist's Certification Coordinator (the "Coord
 
 
 
-*§ 1-04 Application Procedures.* ::
+*§ 1-04 Application Procedures.*
 
 
 (a) Submission of application. An application form for artist's certification may be downloaded from the Department's website, picked up in person, or requested by mail from the Department's offices located at 31 Chambers Street, 2nd Floor, New York, New York 10007. The completed application must be returned to the Department, together with the required documentation, in person or by mail to the Department's offices, addressed to the attention of the Artist's Certification Coordinator. The Coordinator shall then review such application for completeness. If an application is considered to be incomplete, the Coordinator shall attempt to contact and advise the applicant as to what additional material should be submitted. The applicant may then either submit additional material or request that the application be considered as originally submitted, in which case the Coordinator shall bring such application before the Committee pursuant to 58 RCNY § 1-04(c).
@@ -134,7 +134,7 @@ The Commissioner shall appoint an Artist's Certification Coordinator (the "Coord
 
 
 
-*§ 1-05 Criteria for Granting Artist's Certification.* ::
+*§ 1-05 Criteria for Granting Artist's Certification.*
 
 
 (a) Statutory basis. In determining whether to grant an application for artist's certification, the Department shall follow those criteria contained in the definition of an "artist" set forth in Section 276 of Article 7B of the New York State Multiple Dwelling Law, namely that those granted artist's certification be "regularly engaged in the fine arts . . . on a professional basis." Specifically, each applicant granted artist's certification must demonstrate that he or she meets the following criteria:
@@ -158,7 +158,7 @@ The Commissioner shall appoint an Artist's Certification Coordinator (the "Coord
 
 
 
-*§ 1-06 Right to Reconsideration or Appeal.* ::
+*§ 1-06 Right to Reconsideration or Appeal.*
 
 
 (a) Reconsideration. 
@@ -188,7 +188,7 @@ The Commissioner shall appoint an Artist's Certification Coordinator (the "Coord
 
 
 
-*§ 1-07 Effect of Artist's Certification.* ::
+*§ 1-07 Effect of Artist's Certification.*
 
 
 (a) Validity. 
@@ -208,7 +208,7 @@ The Commissioner shall appoint an Artist's Certification Coordinator (the "Coord
 
 
 
-*§ 1-08 Nontransferability.* ::
+*§ 1-08 Nontransferability.*
 
 
 Each artist's certification form is valid only for the person named therein and may not be transferred.
@@ -218,7 +218,7 @@ Each artist's certification form is valid only for the person named therein and 
 
 
 
-*§ 1-09 Submission of False or Fraudulent Information.* ::
+*§ 1-09 Submission of False or Fraudulent Information.*
 
 
 The submission of any information in connection with an application for artist's certification which the applicant knows to be false will result in the denial of the application or the revocation of any artist's certification based on such application.

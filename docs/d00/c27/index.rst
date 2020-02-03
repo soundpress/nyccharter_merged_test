@@ -1,10 +1,10 @@
 Chapter 19-A: Emergency Management Department
-===================================================
+======================================================================================================
 Section 495.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 495. Department; commissioner.* ::
+*Section 495. Department; commissioner.*
 
 
 There shall be an emergency management department, which may also be known as the New York city office of emergency management, the head of which shall be the commissioner of emergency management. The commissioner shall be appointed by the mayor. The commissioner shall also serve as the local director of civil defense, with the powers of a local director of civil defense.
@@ -13,10 +13,10 @@ There shall be an emergency management department, which may also be known as th
 
 
 Section 496.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 496. Deputies.* ::
+*Section 496. Deputies.*
 
 
 The commissioner shall have the power to appoint and, at pleasure, remove deputies, one to be known as first deputy commissioner. During the absence or disability of the commissioner, the first deputy commissioner, or if the first deputy commissioner shall be absent or under disability, the deputy commissioner designated by the commissioner, shall possess all the powers and perform all the duties of the commissioner, except the power of making appointments and transfers.
@@ -25,10 +25,10 @@ The commissioner shall have the power to appoint and, at pleasure, remove deputi
 
 
 Section 497.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 497. Powers and duties of the commissioner.* ::
+*Section 497. Powers and duties of the commissioner.*
 
 
 The commissioner shall have cognizance and control of the government, administration, disposition and discipline of the department. The commissioner shall have the powers and duties to:
@@ -67,10 +67,10 @@ The commissioner shall have cognizance and control of the government, administra
 
 
 Section 498.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 498. Agency cooperation.* ::
+*Section 498. Agency cooperation.*
 
 
 The department shall be the lead agency in the coordination and facilitation of resources in incidents involving public safety and health, including incidents which may involve acts of terrorism. All agencies shall provide the department promptly with all information relevant to the performance of the emergency management functions and shall collect and make available any information requested by the department for use in emergency planning. All agencies further shall promptly provide the department with all appropriate material, equipment and resources needed for emergency management functions, including personnel.

@@ -1,10 +1,10 @@
 Chapter 11: Independent Budget office
-===================================================
+======================================================================================================
 Section 259.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 259. Independent budget office.* ::
+*Section 259. Independent budget office.*
 
 
 a. There shall be an independent budget office to be headed by a director who shall be appointed upon the recommendation of the independent budget office advisory board, by a special committee convened for this purpose. Such committee shall consist of the comptroller, the public advocate, a borough president chosen by the borough presidents, and a council member chosen by the council, and shall act by majority vote. The director shall be appointed without regard to political affiliation and solely on the basis of fitness to perform the duties assigned by this chapter. The term of office of the director first appointed shall expire on August first, two thousand, and the terms of office of directors subsequently appointed shall expire on such date in each fourth year thereafter. Any individual appointed to fill a vacancy prior to the expiration of a term shall serve only for the unexpired portion of the term. An individual serving as director at the expiration of a term may continue to serve until a successor is appointed.
@@ -19,10 +19,10 @@ d. There shall be an independent budget office advisory committee consisting of 
 
 
 Section 260.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 260. Powers and duties.* ::
+*Section 260. Powers and duties.*
 
 
 a. It shall be the duty of the office to provide to the comptroller, the president of the council, the members and committees of the council, the borough presidents, and the community boards information which will assist such officials and bodies in the discharge of their responsibilities which are related to the budgetary process, including:

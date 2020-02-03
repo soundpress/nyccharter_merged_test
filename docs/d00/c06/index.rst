@@ -1,10 +1,10 @@
 Chapter 5: Comptroller.
-===================================================
+======================================================================================================
 Section 91.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 91. Election; term; salary.* ::
+*Section 91. Election; term; salary.*
 
 
 The comptroller shall be elected by the electors of the city at the same time and for the same terms as in this charter prescribed for the mayor. A comptroller who resigns or is removed from office prior to completion of a full term shall be deemed to have served a full term for purposes of section 1138 of the charter. The salary of the comptroller shall be two hundred nine thousand fifty dollars a year.
@@ -15,10 +15,10 @@ The comptroller shall be elected by the electors of the city at the same time an
 
 
 Section 92.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 92. Removal from office.* ::
+*Section 92. Removal from office.*
 
 
 The comptroller may be removed or suspended in the same manner as provided in this charter with respect to the mayor.
@@ -27,10 +27,10 @@ The comptroller may be removed or suspended in the same manner as provided in th
 
 
 Section 93.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 93. Powers and duties.* ::
+*Section 93. Powers and duties.*
 
 
 a. The comptroller from time to time in his or her discretion may, and whenever required by law or requested by the mayor or the council, shall advise the mayor and the council on the financial condition of the city or any phase thereof and make such recommendations, comments and criticisms in regard to the operations, fiscal policies and financial transactions of the city as he or she may deem advisable in the public interest.
@@ -83,10 +83,10 @@ r. The comptroller shall make a complete transcript of each public hearing condu
 
 
 Section 94.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 94. Deputy comptrollers and other appointees.* ::
+*Section 94. Deputy comptrollers and other appointees.*
 
 
 a. The comptroller shall appoint and at pleasure remove a first, and second deputy comptroller. The comptroller may appoint and at pleasure remove a third deputy comptroller who shall be a person qualified to advise and assist the comptroller in all matters relating to borrowings and the investment of funds. Except as provided in subdivision b of this section, each of the deputies and any officer or employee appointed by the comptroller shall have such powers and duties as may be assigned such person by the comptroller by instrument in writing filed with the city clerk. Provided however that no more than five such additionally appointed officers or employees shall serve simultaneously. The city clerk shall notify the council of the filing or revocation of each such appointment.
@@ -125,10 +125,10 @@ c. Any vacancy in the office of comptroller shall be filled by popular election,
 
 
 Section 95.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 95. Annual audit.* ::
+*Section 95. Annual audit.*
 
 
 a. The city, in accordance with subdivision b of this section and section ninety-seven of this chapter, shall take such action as may be necessary to enable an independent certified public accounting firm or consortium of such firms to perform an annual audit in accordance with generally accepted auditing standards and to furnish to the city, in accordance with subdivision b of this section, the report on such audit prepared by such firm or consortium of firms, which report shall include an opinion as to whether the city's financial statements have been prepared in accordance with generally accepted accounting principles and shall state whether the audit of such financial statements was made in accordance with generally accepted auditing standards. The city shall make available for inspection and copying all books, records, work papers and other data and material as required by such auditors, and officers and employees of the city shall be made available to, and shall cooperate with, such auditors so as to permit such annual audit to be completed and the report issued within four months after the close of the city's fiscal year.
@@ -139,10 +139,10 @@ b. The annual audit described in subdivision a of this section shall be made by 
 
 
 Section 96.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 96. Actuarial audit.* ::
+*Section 96. Actuarial audit.*
 
 
 The comptroller, with the approval of the audit committee, biennially shall select an independent actuary to review and comment upon the financial soundness and probity of the actuarial assumptions employed by the city to calculate contributions to the city pension funds. The report of the actuary shall be published in the City Record. No actuary may be selected more than twice consecutively.
@@ -151,10 +151,10 @@ The comptroller, with the approval of the audit committee, biennially shall sele
 
 
 Section 97.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 97. Audit Committee.* ::
+*Section 97. Audit Committee.*
 
 
 a. There shall be an audit committee which shall consist of the mayor, the comptroller, the public advocate and four private members appointed by the mayor, two of whom shall be appointed upon the recommendation of the comptroller. The members of the committee shall elect a private member as chair for an annual term commencing on the first day of March.

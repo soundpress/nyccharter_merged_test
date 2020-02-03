@@ -1,10 +1,10 @@
 Chapter 18-D: Sale, Purchase and Possession of Weapons
-===================================================
+======================================================================================================
 Section 461.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 461. Definition.* ::
+*Section 461. Definition.*
 
 
 The term "firearm" means a firearm, rifle, shotgun, or assault weapon, as such terms are defined in section 10-301 of the administrative code, or a machine gun, as defined in penal law section 265.00.
@@ -13,10 +13,10 @@ The term "firearm" means a firearm, rifle, shotgun, or assault weapon, as such t
 
 
 Section 462.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 462. Permits and licenses for the purchase and possession of firearms.* ::
+*Section 462. Permits and licenses for the purchase and possession of firearms.*
 
 
 Notwithstanding any other provision of local law, no person under the age of twenty-one shall be granted a permit or license to purchase and possess a firearm. If the applicant for a permit or license is a partnership or corporation, only those members of the partnership or corporation over the age of twenty-one may apply for a permit or license to purchase and possess a firearm on behalf of the partnership or corporation. This section shall not apply to any person under the age of twenty-one who has been issued a valid permit or license to possess a firearm on the date that this section shall become law.
@@ -25,10 +25,10 @@ Notwithstanding any other provision of local law, no person under the age of twe
 
 
 Section 463.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 463. Sale or disposal of firearms.* ::
+*Section 463. Sale or disposal of firearms.*
 
 
 It shall be a crime for any person to sell, offer for sale, or dispose of a firearm to any person under the age of twenty-one within the city of New York, unless such person under the age of twenty-one has a valid permit or license or is otherwise exempted by law.
@@ -37,10 +37,10 @@ It shall be a crime for any person to sell, offer for sale, or dispose of a fire
 
 
 Section 464.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 464. Carrying and possession of firearms.* ::
+*Section 464. Carrying and possession of firearms.*
 
 
 It shall be a crime for any person under the age of twenty-one to carry or otherwise have in his or her possession any firearm within the limits of the city of New York, unless such person has a valid permit or license or is otherwise exempted by law. If a partnership or corporation carries or has in its possession a firearm, no member, officer or employee of such partnership or corporation under the age of twenty-one shall carry or have in his or her possession such firearm within the limits of the city of New York.
@@ -49,10 +49,10 @@ It shall be a crime for any person under the age of twenty-one to carry or other
 
 
 Section 465.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 465. Exemptions.* ::
+*Section 465. Exemptions.*
 
 
 a. Sections four hundred sixty-two and four hundred sixty-four shall not apply to:
@@ -75,10 +75,10 @@ b. Any person listed in subdivision a of this section may be permitted or licens
 
 
 Section 466.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 466. Penalties.* ::
+*Section 466. Penalties.*
 
 
 a. Any violation of the provisions of sections four hundred sixty-three, four hundred sixty-four or subdivision b of section four hundred sixty-five shall be a misdemeanor and punishable by not more than one year imprisonment or by a fine of not more than ten thousand dollars or by both.

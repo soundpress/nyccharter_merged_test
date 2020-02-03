@@ -1,10 +1,10 @@
 Chapter 25: Department of Correction
-===================================================
+======================================================================================================
 Section 621.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 621. Department; commissioner.* ::
+*Section 621. Department; commissioner.*
 
 
 There shall be a department of correction the head of which shall be the commissioner of correction.
@@ -13,10 +13,10 @@ There shall be a department of correction the head of which shall be the commiss
 
 
 Section 622.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 622. Deputies.* ::
+*Section 622. Deputies.*
 
 
 The commissioner may appoint two deputies.
@@ -25,10 +25,10 @@ The commissioner may appoint two deputies.
 
 
 Section 623.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 623. Powers of commissioner.* ::
+*Section 623. Powers of commissioner.*
 
 
 The commissioner shall have:
@@ -49,10 +49,10 @@ The commissioner shall have:
 
 
 Section 624.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 624. Cleaning and maintenance of buildings.* ::
+*Section 624. Cleaning and maintenance of buildings.*
 
 
 The commissioner shall maintain and operate buildings and structures under his jurisdiction. The commissioner may construct such additions and repairs to buildings under his jurisdiction as can be accomplished by the use of the labor of persons under his care and custody and with materials in the possession of the department.
@@ -61,10 +61,10 @@ The commissioner shall maintain and operate buildings and structures under his j
 
 
 Section 625.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 625. Labor of prisoners.* ::
+*Section 625. Labor of prisoners.*
 
 
 Every inmate of an institution under the authority of the commissioner shall be employed in some form of industry, in farming operations or other employment, and products thereof shall be utilized in the institutions under the commissioner or in any other agency. Those persons held for trial may be employed in the same manner as sentenced prisoners, provided they give their consent in writing. Such inmates or prisoners held for trial may be detailed by the commissioner to perform work or service on the grounds and buildings or on any public improvement under the charge of any other agency.
@@ -73,10 +73,10 @@ Every inmate of an institution under the authority of the commissioner shall be 
 
 
 Section 626.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 626. Board of correction.* ::
+*Section 626. Board of correction.*
 
 
 a. There shall be a city board of correction to consist of nine members. Members shall be appointed for a term of six years. Vacancies shall be filled for the remainder of the unexpired term. Three members shall be appointed by the mayor, three by the council, and three by the mayor on the nomination jointly by the presiding justices of the appellate division of the supreme court for the first and second judicial departments. Appointments shall be made by the three respective appointing authorities on a rotating basis to fill any vacancy occurring on or after the effective date of this charter. Members of the board may be reimbursed for expenses incurred in the performance of their duties. The chairman of the board shall be designated from time to time by the mayor from among its members. Members of the board may be removed by the mayor for cause and after a hearing at which they shall be entitled to representation by counsel.
@@ -109,10 +109,10 @@ h. The board, or by written designation, a member of the board or the executive 
 
 
 Section 627.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 627. Council members authorized to visit correctional facilities.* ::
+*Section 627. Council members authorized to visit correctional facilities.*
 
 
 Any council member is authorized to inspect and visit at any time the institutions and facilities under the jurisdiction of the department.

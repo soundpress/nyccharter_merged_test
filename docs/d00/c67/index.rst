@@ -1,10 +1,10 @@
 Chapter 64: Department of Consumer Affairs
-===================================================
+======================================================================================================
 Section 2201.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2201. Department; commissioner.* ::
+*Section 2201. Department; commissioner.*
 
 
 There shall be a department of consumer affairs, the head of which shall be the commissioner of consumer affairs.
@@ -13,10 +13,10 @@ There shall be a department of consumer affairs, the head of which shall be the 
 
 
 Section 2202.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2202. Deputies.* ::
+*Section 2202. Deputies.*
 
 
 The commissioner may appoint two deputies.
@@ -25,10 +25,10 @@ The commissioner may appoint two deputies.
 
 
 Section 2203.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2203. Powers of the commissioner.* ::
+*Section 2203. Powers of the commissioner.*
 
 
 (a) The commissioner shall plan, make recommendations, conduct research and develop programs for consumer education and protection, facilitate the exchange and dissemination of information in consultation with agencies, federal and state officials, commercial interests, private groups and others working in this field and coordinate the consumer protection activities of other city agencies.
@@ -65,10 +65,10 @@ Section 2203.
 
 
 Section 2204.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 2204. Consumers council.* ::
+*Section 2204. Consumers council.*
 
 
 There shall be in the department a consumers council which shall advise the commissioner on general goals for the development of programs, undertake studies and reports, and foster cooperation among city, state and federal agencies and private groups. The council shall consist of the commissioner, ex officio, and twelve members to be appointed by the mayor to serve for three years except that of the twelve members first appointed, four shall be appointed for a term of three years, four for a term of two years and four for a term of one year. One of these twelve shall be appointed chairman annually by the mayor. The members shall represent a cross section of consumer interests. They shall serve without compensation but shall be reimbursed for expenses necessarily incurred in the performance of their duties.

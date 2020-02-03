@@ -1,12 +1,12 @@
 Title 20: Consumer Affairs
-===================================================
+======================================================================================================
 
 Chapter 1: License Enforcement
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 20-101 Legislative intent.* ::
+*§ 20-101 Legislative intent.*
 
 
 The council finds that for the protection and relief of the public from deceptive, unfair and unconscionable practices, for the maintenance of standards of integrity, honesty and fair dealing among persons and organizations engaging in licensed activities, for the protection of the health and safety of the people of New York city and for other purposes requisite to promoting the general welfare, licensing by the department of consumer affairs is a necessary and proper mode of regulation with respect to certain trades, businesses and industries. The council finds further that, in order to secure the above-mentioned purposes, and generally to carry out responsibilities for supervising and regulating licensed activities, trades, businesses and industries, the commissioner of consumer affairs requires powers, remedies and sanctions which are equitable, flexible and efficient. Finally, the council finds that sanctions and penalties applied by the commissioner and by the courts for the violation of laws and regulations by individuals and organizations engaging in various licensed activities, trades, businesses and industries, must be sufficient to achieve these above-mentioned purposes of licensing.
@@ -16,7 +16,7 @@ The council finds that for the protection and relief of the public from deceptiv
 
 
 
-*§ 20-102 Definitions.* ::
+*§ 20-102 Definitions.*
 
 
 Wherever used in this title:
@@ -38,7 +38,7 @@ f. "Trade name" shall mean that name under which an organization or person solic
 
 
 
-*§ 20-103 Construction of this chapter and chapter two of this title.* ::
+*§ 20-103 Construction of this chapter and chapter two of this title.*
 
 
 The provisions of this chapter and chapter two of this title shall be liberally construed in accordance with the legislative declaration of the city council set forth in section 20-101.
@@ -48,7 +48,7 @@ The provisions of this chapter and chapter two of this title shall be liberally 
 
 
 
-*§ 20-104 Powers of the commissioner with respect to licensing.* ::
+*§ 20-104 Powers of the commissioner with respect to licensing.*
 
 
 a. The commissioner shall have cognizance and control of the granting, issuance, transferring, renewal, denial, revocation, suspension and cancellation of all licenses issued under chapter two and under all other laws conferring such powers upon him or her. The commissioner or the commissioner's designee shall collect all fees for all such licenses and permits and shall otherwise enforce the provisions of chapter two.
@@ -98,7 +98,7 @@ g. The commissioner may refuse to issue or renew any license issued in accordanc
 
 
 
-*§ 20-105 Additional powers of the commissioner with respect to unlicensed activities.* ::
+*§ 20-105 Additional powers of the commissioner with respect to unlicensed activities.*
 
 
 a. It shall be unlawful for any person required to be licensed pursuant to the provisions of chapter two or pursuant to provisions of state law enforced by the department to engage in any trade, business or activity for which a license is required without such license.
@@ -140,7 +140,7 @@ k. The provisions of this section shall not be construed to apply to general ven
 
 
 
-*§ 20-106 Judicial enforcement.* ::
+*§ 20-106 Judicial enforcement.*
 
 
 a. Except as otherwise specifically provided in chapter two of this title, or in subdivision b of this section, any person, whether or not he or she holds a license issued under chapter two, who violates any provision of chapter two or any regulation or rule promulgated under it shall, upon conviction thereof, be punished for each violation by a fine of not less than twenty-five dollars nor more than five hundred dollars, or by imprisonment not exceeding fifteen days, or both; and any such person shall be subject also to a civil penalty in the sum of one hundred dollars for each violation, to be recovered in a civil action.
@@ -162,7 +162,7 @@ d. The corporation counsel is authorized to bring an injunction proceeding to re
 
 
 
-*§ 20-107 Application; filing fee; license fee.* ::
+*§ 20-107 Application; filing fee; license fee.*
 
 
 a. All applications for licenses shall be made to the commissioner or the commissioner's designee in such form and detail as shall be prescribed.
@@ -176,7 +176,7 @@ c. Except as specifically provided in chapter two, every application shall inclu
 
 
 
-*§ 20-108 License terms.* ::
+*§ 20-108 License terms.*
 
 
 a. The commissioner shall establish by regulation the expiration date of licenses issued pursuant to chapter two.
@@ -188,7 +188,7 @@ b. Licenses issued pursuant to chapter two shall be for a two-year term unless o
 
 
 
-*§ 20-109 Transferability.* ::
+*§ 20-109 Transferability.*
 
 
 No license issued under chapter two shall be assignable or transferable unless otherwise specifically provided by law or regulation or rule issued by the commissioner.
@@ -198,7 +198,7 @@ No license issued under chapter two shall be assignable or transferable unless o
 
 
 
-*§ 20-110 Change of corporate ownership.* ::
+*§ 20-110 Change of corporate ownership.*
 
 
 Where any person or organization becomes the beneficial owner of ten percent or more of the stock of an organization to which a license has been granted pursuant to chapter two, if such person or organization previously did not hold at least a ten percent interest, such license shall immediately become void unless prior written approval of the commissioner or the commissioner's designee is obtained.
@@ -208,7 +208,7 @@ Where any person or organization becomes the beneficial owner of ten percent or 
 
 
 
-*§ 20-111 Change in a partnership.* ::
+*§ 20-111 Change in a partnership.*
 
 
 Any license issued under chapter two shall immediately become void upon the addition or termination of any general partner or upon the dissolution of a partnership unless prior written approval of the commissioner or the commissioner's designee is obtained.
@@ -218,7 +218,7 @@ Any license issued under chapter two shall immediately become void upon the addi
 
 
 
-*§ 20-112 Address of licensed activity.* ::
+*§ 20-112 Address of licensed activity.*
 
 
 Except as specifically provided in chapter two, a license shall be valid only for the location designated upon the application therefor, except in the case of licenses issued for activities which in their nature are carried out at large and not at a fixed place of business. No license shall be issued for more than one location. Licensees shall, at least ten days prior thereto, notify the commissioner or the commissioner's designee by registered or certified mail, or personal service, of any change of address of the licensed premises or of the residence of the licensee.
@@ -228,7 +228,7 @@ Except as specifically provided in chapter two, a license shall be valid only fo
 
 
 
-*§ 20-113 Trade name.* ::
+*§ 20-113 Trade name.*
 
 
 A license issued under chapter two shall be valid only for activities conducted under the name of the person or organization to whom such license was issued or under the trade name stated in the application therefor; if a licensed activity is to be conducted under a trade name, the application must state that trade name. No license shall be issued for more than one trade name, and no licensed activity may be carried out under more than one such name; provided, however, that if a person or organization was engaged in bona fide licensed activities under more than one such trade name or was issued a license to conduct licensed activities under more than one trade name prior to June fifth, nineteen hundred seventy-three, a single license shall be issued for such trade names. Licensees shall notify the commissioner or the commissioner's designee of any change of trade name at least ten days before such change becomes effective, and no such change may take place without the prior written approval of the commissioner or the commissioner's designee.
@@ -238,7 +238,7 @@ A license issued under chapter two shall be valid only for activities conducted 
 
 
 
-*§ 20-114 Inspection; display of license.* ::
+*§ 20-114 Inspection; display of license.*
 
 
 a. All licensed vehicles or places of business shall be regularly inspected, and reports thereof shall be made to the commissioner.
@@ -250,7 +250,7 @@ b. All licensees shall conspicuously post on their premises, licenses issued und
 
 
 
-*§ 20-115 Bonds.* ::
+*§ 20-115 Bonds.*
 
 
 Except as specifically provided in chapter two, a bond may be required for any licensed activity in a form and amount approved by the commissioner for the due observance of the provisions of chapter two and the laws, regulations and rules governing the conduct of licensed activities. The amount of the bond shall be established by the commissioner after a public hearing, five-day notice of which shall be published in the City Record.
@@ -260,7 +260,7 @@ Except as specifically provided in chapter two, a bond may be required for any l
 
 
 
-*§ 20-116 Advertising.* ::
+*§ 20-116 Advertising.*
 
 
 a. Any person required to be licensed under chapter two or pursuant to provisions of state law enforced by the department to carry on a trade, occupation or business activity, who is not so licensed may not advertise the availability of goods and services related to the carrying on of such trade, occupation or business activity in any print publication or broadcast media having a circulation or audience within the city.
@@ -274,7 +274,7 @@ c. The commissioner shall promulgate regulations requiring that any person requi
 
 
 
-*§ 20-117 Licensee disclosure of security breach; notification requirements.* ::
+*§ 20-117 Licensee disclosure of security breach; notification requirements.*
 
 
 a. Definitions. For the purposes of this section,
@@ -308,7 +308,7 @@ h. Any person required to be licensed pursuant to chapter two of this title, or 
 
 
 
-*§ 20-118 Notifications regarding identity theft.* ::
+*§ 20-118 Notifications regarding identity theft.*
 
 
 Any person, firm, partnership, corporation or association required to be licensed under chapter two, or pursuant to provisions of state law enforced by the department, shall immediately notify the department upon the occurrence of a judgment against such person, firm, partnership, corporation or association for theft of identity; a conviction of such person, firm, partnership, corporation or association of an offense specified in subdivision g of section 20-104 of this chapter; or a conviction of the person's, firm's, partnership's, corporation's or association's employees or associates for acts of identity theft or unlawful possession of personal identification information as defined in article one hundred ninety of the penal law that are committed with the use of the person's, firm's, partnership's, corporation's or association's equipment, data, technology, or other similar resource.
@@ -318,7 +318,7 @@ Any person, firm, partnership, corporation or association required to be license
 
 
 
-*§ 20-119 Analysis of tribunal dismissals.* ::
+*§ 20-119 Analysis of tribunal dismissals.*
 
 
 The department shall issue a report by April 1 of each year analyzing the violations dismissed by the department's adjudication division, office, or tribunal during the prior calendar year. Such report shall include a cataloguing and analysis of the characteristics of the violations dismissed and the reasons for dismissal. Such report shall include an analysis of any trends observed in dismissals during the year of the report, as well as a comparison with any previous reports issued pursuant to this section. Such report shall include the department's planned actions to minimize the occurrence of issued violations being dismissed. Such report shall be sent to the speaker of the council, the public advocate, and the mayor.
@@ -331,11 +331,11 @@ Editor's note: the local law that enacted the above § 20-119 shall expire and b
 
 
 Chapter 3: Weights and Measures
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 20-571 Fees.* ::
+*§ 20-571 Fees.*
 
 
 All fees for permits issued by the department shall be paid to the department.
@@ -345,7 +345,7 @@ All fees for permits issued by the department shall be paid to the department.
 
 
 
-*§ 20-572 Transfers of permits or licenses.* ::
+*§ 20-572 Transfers of permits or licenses.*
 
 
 Written approval of the commissioner shall be required for the transfer or assignment of any permit or license under his or her jurisdiction.
@@ -355,7 +355,7 @@ Written approval of the commissioner shall be required for the transfer or assig
 
 
 
-*§ 20-573 Adjustment of controversies.* ::
+*§ 20-573 Adjustment of controversies.*
 
 
 The commissioner of ports and trade may adjust and settle any claims and controversies in regard to rents and other matters which appertain to leases of market lands.
@@ -365,7 +365,7 @@ The commissioner of ports and trade may adjust and settle any claims and controv
 
 
 
-*§ 20-574 Rules and regulations.* ::
+*§ 20-574 Rules and regulations.*
 
 
 a. The commissioner shall have power to adopt and amend such rules and regulations as may be necessary to carry out his or her powers and duties pursuant to this chapter.
@@ -379,7 +379,7 @@ c. Violations. Any person who shall violate any of such rules and regulations sh
 
 
 
-*§ 20-575 Waterfront property adjoining market lands; highways through or bounding market places.* ::
+*§ 20-575 Waterfront property adjoining market lands; highways through or bounding market places.*
 
 
 Nothing contained in this chapter shall interfere with the jurisdiction of the department of ports and trade over any waterfront property in and around any market lands, nor with the jurisdiction of the commissioner of transportation over market lands, insofar as it concerns his or her powers over highways.
@@ -389,7 +389,7 @@ Nothing contained in this chapter shall interfere with the jurisdiction of the d
 
 
 
-*§ 20-576 City sealer.* ::
+*§ 20-576 City sealer.*
 
 
 The commissioner, or such officer or employee in the department as he or she may designate, shall have all of the powers and perform all of the duties of a sealer of weights and measures pursuant to section one hundred eighty of the agriculture and markets law.
@@ -399,7 +399,7 @@ The commissioner, or such officer or employee in the department as he or she may
 
 
 
-*§ 20-577 Inspectors of markets, weights and measures.* ::
+*§ 20-577 Inspectors of markets, weights and measures.*
 
 
 a. The commissioner shall have power and it shall be his or her duty to appoint a chief inspector of markets, weights and measures and inspectors of markets, weights and measures. The title of inspectors of live poultry and weighmasters shall be abolished and all persons occupying those titles shall henceforth have the title of inspector of markets, weights and measures, with all the powers and duties of that title. Wherever any reference to the title or duties of inspector of live poultry or weighmaster appears in this code, the title or duties of inspector of markets, weights and measures shall be substituted therefor.
@@ -411,7 +411,7 @@ b. Each inspector is hereby authorized and empowered, subject to the regulations
 
 
 
-*§ 20-578 Bureau of weights and measures.* ::
+*§ 20-578 Bureau of weights and measures.*
 
 
 There shall be a bureau of weights and measures in the department under the supervision of the chief inspector of weights and measures.
@@ -421,7 +421,7 @@ There shall be a bureau of weights and measures in the department under the supe
 
 
 
-*§ 20-579 Employees not to engage in business.* ::
+*§ 20-579 Employees not to engage in business.*
 
 
 It shall be unlawful for the commissioner or any officer or employee of such bureau, to engage in the business of manufacturing, vending or selling any weighing or measuring device, under the penalty of fifty dollars for each offense.
@@ -431,7 +431,7 @@ It shall be unlawful for the commissioner or any officer or employee of such bur
 
 
 
-*§ 20-580 Return of department property.* ::
+*§ 20-580 Return of department property.*
 
 
 Whenever any inspector shall resign or be removed from office, he or she shall deliver at the office of the commissioner all the standard weights and measures and other official property in his or her possession.
@@ -441,7 +441,7 @@ Whenever any inspector shall resign or be removed from office, he or she shall d
 
 
 
-*§ 20-581 Inspecting.* ::
+*§ 20-581 Inspecting.*
 
 
 a. Each inspector of markets, weights and measures is hereby authorized to inspect, examine, test and seal at least once in each year, and as often as the commissioner may deem proper, all weighing and measuring devices. Upon the written request of any resident of the city, the commissioner shall test or cause to be tested, within a reasonable time after the receipt of such request, the weighing or measuring devices used in buying or selling by the person making such request. All such appliances shall be marked by the inspector with the initials of his or her name and the date on which the same shall be sealed and marked.
@@ -453,7 +453,7 @@ b. Such books shall be open for inspection at all reasonable times to any police
 
 
 
-*§ 20-582 Reports of inspectors.* ::
+*§ 20-582 Reports of inspectors.*
 
 
 Each inspector shall report promptly to the commissioner the names of all persons whose weighing and measuring devices shall be found to be incorrect. Each inspector shall file a daily report with the commissioner, and make such other and further reports and keep such further records as may be required, from time to time, by the commissioner.
@@ -463,7 +463,7 @@ Each inspector shall report promptly to the commissioner the names of all person
 
 
 
-*§ 20-583 Certificate of inspection.* ::
+*§ 20-583 Certificate of inspection.*
 
 
 Each inspector shall furnish a certificate to the owner of the weights or measures inspected, and shall keep a record of each certificate given on a corresponding stub. The certificates and corresponding stubs shall be numbered consecutively. The books containing the stubs, after the corresponding certificates have been given out, shall be a public record. The commissioner, when required, shall certify extracts from such records.
@@ -473,7 +473,7 @@ Each inspector shall furnish a certificate to the owner of the weights or measur
 
 
 
-*§ 20-584 Testing, sealing and marking.* ::
+*§ 20-584 Testing, sealing and marking.*
 
 
 It shall be unlawful to use any weighing or measuring device unless the same shall have been tested, sealed and marked by the commissioner or an inspector of such bureau.
@@ -483,7 +483,7 @@ It shall be unlawful to use any weighing or measuring device unless the same sha
 
 
 
-*§ 20-585 Standard measures and containers.* ::
+*§ 20-585 Standard measures and containers.*
 
 
 It shall be unlawful to manufacture, construct, sell, offer for sale, or give away, any dry or liquid measure, or any barrel, pail, basket, vessel, or container, intended to be used in the purchase or sale of any commodity or article of merchandise, unless it shall be so constructed as to conform to the standards provided by article sixteen of the agriculture and markets law. It shall be unlawful for any person to use any barrel, cask, pail, basket, vessel or container, in the purchase or sale of any commodity or article of merchandise, unless it shall conform to such standards.
@@ -493,7 +493,7 @@ It shall be unlawful to manufacture, construct, sell, offer for sale, or give aw
 
 
 
-*§ 20-586 Sale of weights and measures.* ::
+*§ 20-586 Sale of weights and measures.*
 
 
 It shall be unlawful to sell, offer for sale, or give away any weighing or measuring devices or the tools, appliances or accessories connected therewith, intended to be used for the purchase or sale of any commodity or article of merchandise, or for public weighing, unless the type or types of such weighing or measuring devices, or the tools, appliances or accessories connected therewith, with specifications as to construction, shall have been submitted to and approved by the commissioner. The commissioner, when such types are approved, shall designate and identify them by a serial number. A record of the serial numbers and the persons to whom such numbers are assigned shall be kept in the office of the commissioner. The commissioner shall keep a register of the name of each person whose weighing or measuring devices have been inspected, together with their serial numbers and size, and whether approved or condemned, with the date of inspection. Such record shall be a public record.
@@ -503,7 +503,7 @@ It shall be unlawful to sell, offer for sale, or give away any weighing or measu
 
 
 
-*§ 20-587 Sale by true weight or measure required.* ::
+*§ 20-587 Sale by true weight or measure required.*
 
 
 It shall be unlawful to sell or offer for sale any commodity or article of merchandise, at or for a greater weight or measure than the true weight or measure thereof; for the purposes of this section the true weight of frozen poultry, shall be the net weight thereof exclusive of any food product or substance added or combined therewith; and all such commodities and articles of merchandise shall be weighed or measured by duly tested devices, sealed and marked by the commissioner or an inspector of the bureau; provided, that vegetables may be sold by the head or bunch.
@@ -513,7 +513,7 @@ It shall be unlawful to sell or offer for sale any commodity or article of merch
 
 
 
-*§ 20-588 Confiscation of false weights or measures.* ::
+*§ 20-588 Confiscation of false weights or measures.*
 
 
 Any weight which upon being tested is found to be short a quarter of an ounce or more; or any scale of a capacity greater than four hundred pounds, which upon being tested, is found to be short in weight by a quarter of a pound or more; or any scale of a capacity of between two hundred forty and four hundred pounds, which upon being tested is found to be short two ounces or more; or any scale of a capacity greater than four hundred pounds, which upon being tested, is found to be short five ounces or more; or any scale which is in an unfit condition to be used by being worn out, badly rusted, or by any other cause; or any measure or utensil being used in the sale or purchase of any commodity or article of merchandise, which does not conform to the standards provided by article sixteen of the agriculture and markets law, may be summarily confiscated and destroyed by the commissioner or an inspector of the bureau.
@@ -523,7 +523,7 @@ Any weight which upon being tested is found to be short a quarter of an ounce or
 
 
 
-*§ 20-589 Alteration of tested appliances.* ::
+*§ 20-589 Alteration of tested appliances.*
 
 
 It shall be unlawful to render inaccurate, any device, to be used in weighing or measuring any commodity or article of merchandise, after such device has been tested, sealed and marked by the commissioner or an inspector of the bureau.
@@ -533,7 +533,7 @@ It shall be unlawful to render inaccurate, any device, to be used in weighing or
 
 
 
-*§ 20-590 Repair of inaccurate appliances.* ::
+*§ 20-590 Repair of inaccurate appliances.*
 
 
 Within five days after the condemnation of a weighing or measuring device, the owner thereof, at his or her own expense, shall cause the same to be conformed to the standards established by article sixteen of the agriculture and markets law, and within twenty-four hours thereof, shall cause notice, in writing, of such alteration to be mailed or served personally upon such bureau. The seal upon any such device shall remain affixed and unbroken unless removed pursuant to section one hundred eighty-three of the agriculture and markets law.
@@ -543,7 +543,7 @@ Within five days after the condemnation of a weighing or measuring device, the o
 
 
 
-*§ 20-591 Interference with inspectors.* ::
+*§ 20-591 Interference with inspectors.*
 
 
 It shall be unlawful for any person to obstruct, hinder or molest the commissioner or any inspector of the bureau in the performance of his or her duties.
@@ -553,7 +553,7 @@ It shall be unlawful for any person to obstruct, hinder or molest the commission
 
 
 
-*§ 20-592 Violations; report of.* ::
+*§ 20-592 Violations; report of.*
 
 
 The commissioner shall report forthwith to the corporation counsel the names and places of business of all persons violating the provisions of this chapter, and of all persons making use of any fraudulent or unsealed weighing or measuring devices.
@@ -563,7 +563,7 @@ The commissioner shall report forthwith to the corporation counsel the names and
 
 
 
-*§ 20-593 Punishment.* ::
+*§ 20-593 Punishment.*
 
 
 Any person who shall violate any of the foregoing provisions for the regulation of weights and measures shall forfeit and pay a penalty of one hundred dollars for each and every such offense.
@@ -573,7 +573,7 @@ Any person who shall violate any of the foregoing provisions for the regulation 
 
 
 
-*§ 20-594 Violations.* ::
+*§ 20-594 Violations.*
 
 
 Any person violating any of the provisions of sections 20-583 through 20-593 of this chapter, shall be guilty of an offense triable by a judge of the New York city criminal court, and upon conviction thereof, shall be fined the sum of not less than twenty-five dollars and not more than two hundred fifty dollars for each offense, or by imprisonment not exceeding ten days, or by both.
@@ -582,7 +582,7 @@ Any person violating any of the provisions of sections 20-583 through 20-593 of 
 
 
 Chapter 4: Regulation of Commodities and Services
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -591,7 +591,7 @@ Chapter 4: Regulation of Commodities and Services
 
 
 
-*§ 20-601 License required.* ::
+*§ 20-601 License required.*
 
 
 It shall be unlawful for any person to engage in or conduct the business of dealing in, trading in, selling, receiving or repairing condemned, rebuilt or used weighing or measuring devices without a permit therefor.
@@ -601,7 +601,7 @@ It shall be unlawful for any person to engage in or conduct the business of deal
 
 
 
-*§ 20-602 Application for permit.* ::
+*§ 20-602 Application for permit.*
 
 
 a. Any person before engaging in such business shall file a written application with the commissioner for such permit, stating in such application the location of the place in which such business is to be conducted.
@@ -615,7 +615,7 @@ c. Such permit shall be granted only to a person of the age of eighteen years or
 
 
 
-*§ 20-603 Permit; fee.* ::
+*§ 20-603 Permit; fee.*
 
 
 a. After the filing of such an application, and investigation thereof duly made, the commissioner, if he or she approves of such application, may issue a permit conditioned upon compliance with the provisions of this subchapter and with the rules and regulations of any city agency applicable to such permittee.
@@ -629,7 +629,7 @@ c. Such permit shall expire on the twenty-eighth day of February next succeeding
 
 
 
-*§ 20-604 Notice as to repaired devices.* ::
+*§ 20-604 Notice as to repaired devices.*
 
 
 Every person engaged in the business of dealing in, trading in, selling, receiving or repairing condemned, rebuilt or used weighing or measuring devices, within five days after the making of a repair, or the sale and delivery of a repaired, rebuilt, or used weighing or measuring device, shall serve notice in writing on the commissioner giving the name and address of the person for whom such repair has been made, or to whom a repaired, rebuilt or used weighing or measuring device has been sold or delivered, and shall include a statement that such device has been so altered, rebuilt or repaired as to conform to the standard specifications and regulations of such department.
@@ -639,7 +639,7 @@ Every person engaged in the business of dealing in, trading in, selling, receivi
 
 
 
-*§ 20-605 Condemned devices; return of tags.* ::
+*§ 20-605 Condemned devices; return of tags.*
 
 
 Any person who accepts weighing or measuring devices in trade for others shall remove the condemned tags from those devices which have been condemned by the department and which are intended for dismantling or destruction. Such tags shall be returned to the department within five days thereafter, with a statement describing the weighing or measuring device, giving the name and address of the person from whom it was received, and a statement to the effect that it has been dismantled or destroyed.
@@ -649,7 +649,7 @@ Any person who accepts weighing or measuring devices in trade for others shall r
 
 
 
-*§ 20-606 Records.* ::
+*§ 20-606 Records.*
 
 
 a. Every person duly registered pursuant to the provisions of this subchapter shall maintain a book or register in which the following information shall be kept:
@@ -665,7 +665,7 @@ b. Such books shall be open for inspection at all reasonable times to any police
 
 
 
-*§ 20-607 Comparison of testing equipment.* ::
+*§ 20-607 Comparison of testing equipment.*
 
 
 All persons dealing in, trading in, selling, receiving or repairing condemned, rebuilt or used weighing or measuring devices, shall submit their testing equipment at least once a year, to the testing station of the department for comparison and calibration with the prime standards maintained by such department, after which the department shall issue to such person a statement or certificate of its findings.
@@ -675,7 +675,7 @@ All persons dealing in, trading in, selling, receiving or repairing condemned, r
 
 
 
-*§ 20-608 Violations.* ::
+*§ 20-608 Violations.*
 
 
 Any person violating any of the provisions of this subchapter, upon conviction thereof, shall be fined a sum of not more than one hundred dollars for each offense, or by imprisonment not exceeding ten days, or by both, and, in the discretion of the commissioner, shall be liable to have his or her permit suspended, revoked or cancelled.
@@ -690,7 +690,7 @@ Any person violating any of the provisions of this subchapter, upon conviction t
 
 
 
-*§ 20-609 Charcoal.* ::
+*§ 20-609 Charcoal.*
 
 
 All charcoal and charcoal briquettes shall be sold by weight and each container in which charcoal or charcoal briquettes are sold or delivered, shall be plainly and conspicuously marked to show the net quantity of the contents in letters and figures commensurate with the size of the container as shall be determined and fixed by the commissioner, and shall also bear the legend "CAUTION COOK ONLY IN PROPERLY VENTILATED AREAS," or a substantially similar legend as may be approved by the commissioner in a size commensurate with the size of the container and so placed on the container as shall be determined and fixed by the commissioner.
@@ -700,7 +700,7 @@ All charcoal and charcoal briquettes shall be sold by weight and each container 
 
 
 
-*§ 20-610 Punishment.* ::
+*§ 20-610 Punishment.*
 
 
 (a) Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars ($100) for each violation.
@@ -717,7 +717,7 @@ All charcoal and charcoal briquettes shall be sold by weight and each container 
 
 
 
-*§ 20-611 Definitions.* ::
+*§ 20-611 Definitions.*
 
 
 Whenever used in this subchapter, the following terms shall have the following meanings:
@@ -737,7 +737,7 @@ Whenever used in this subchapter, the following terms shall have the following m
 
 
 
-*§ 20-612 Requirements for purchase or sale.* ::
+*§ 20-612 Requirements for purchase or sale.*
 
 
 1. Every dealer of etching acid shall request valid photo identification from each purchaser of etching acid at the time of such purchase and contemporaneously record in writing or electronically such purchaser's personal information.
@@ -751,7 +751,7 @@ Whenever used in this subchapter, the following terms shall have the following m
 
 
 
-*§ 20-613 Posting notice.* ::
+*§ 20-613 Posting notice.*
 
 
 Every dealer of etching acid shall conspicuously post at every table, desk or counter where orders are placed and/or payment is made a notice, the form and manner of which are to be provided by rule of the commissioner, indicating that all purchasers of etching acid shall be required to provide valid photo identification and their personal information and such information shall be recorded by the dealer of etching acid prior to purchase.
@@ -761,7 +761,7 @@ Every dealer of etching acid shall conspicuously post at every table, desk or co
 
 
 
-*§ 20-614 Records of purchase.* ::
+*§ 20-614 Records of purchase.*
 
 
 1. Purchasing records shall be kept in a secure location and made available only to the commissioner and his or her designee, or a police officer, and shall be used solely for the purposes of enforcement of this subchapter and of state and local anti-graffiti laws and rules.
@@ -783,7 +783,7 @@ Every dealer of etching acid shall conspicuously post at every table, desk or co
 
 
 
-*§ 20-615 Rules.* ::
+*§ 20-615 Rules.*
 
 
 The commissioner may make and promulgate such rules and regulations as he or she may deem necessary for the proper implementation and enforcement of this subchapter.
@@ -793,7 +793,7 @@ The commissioner may make and promulgate such rules and regulations as he or she
 
 
 
-*§ 20-616 Penalties.* ::
+*§ 20-616 Penalties.*
 
 
 1. Any person who violates the provisions of this subchapter shall be guilty of a violation punishable by a fine of not less than one hundred dollars and not more than two hundred fifty dollars.
@@ -812,7 +812,7 @@ The commissioner may make and promulgate such rules and regulations as he or she
 
 
 
-*§ 20-620 Definitions.* ::
+*§ 20-620 Definitions.*
 
 
 For the purposes of this subchapter, the following terms shall have the following meanings:
@@ -840,7 +840,7 @@ i. "Primary language" shall mean the language identified by an LEP individual as
 
 
 
-*§ 20-621 Provision of interpretation services required.* ::
+*§ 20-621 Provision of interpretation services required.*
 
 
 a. Every chain pharmacy shall provide free, competent oral interpretation services to each LEP individual filling a prescription at such chain pharmacy in the LEP individual's primary language for the purposes of counseling such individual about his or her prescription medications or when soliciting information necessary to maintain a patient medication profile, unless the LEP individual is offered and refuses such services.
@@ -854,7 +854,7 @@ c. The services required by this section may be provided by a staff member of th
 
 
 
-*§ 20-622 Provision of translation services required.* ::
+*§ 20-622 Provision of translation services required.*
 
 
 Every chain pharmacy shall provide free, competent translation of prescription medication labels, warning labels and other written material to each LEP individual filling a prescription at such chain pharmacy if that individual's primary language is one of the pharmacy primary languages, in addition to providing such labels and materials in English. Nothing in this section shall prohibit a chain pharmacy from providing dual- or multi-language medication labels, warning labels or other written materials to LEP individuals who speak one of the pharmacy primary languages if one of the languages included on such labels or sheets is the LEP individual's primary language.
@@ -864,7 +864,7 @@ Every chain pharmacy shall provide free, competent translation of prescription m
 
 
 
-*§ 20-623 Notification relating to language assistance services.* ::
+*§ 20-623 Notification relating to language assistance services.*
 
 
 a. Every chain pharmacy shall conspicuously post, at or adjacent to each counter over which prescription drugs are sold, a notification of the right to free language assistance services for limited English proficient individuals as provided for in sections 20-621 and 20-622 of this subchapter. Such notifications shall be provided in all of the pharmacy's primary languages. The size, style and placement of such notice shall be determined in accordance with rules promulgated by the department.
@@ -874,7 +874,7 @@ a. Every chain pharmacy shall conspicuously post, at or adjacent to each counter
 
 
 
-*§ 20-624 Penalties.* ::
+*§ 20-624 Penalties.*
 
 
 a. Any chain pharmacy that violates the provisions of sections 20-621 or 20-622 of this subchapter or any rules promulgated pursuant to such sections shall be liable for a civil penalty of not less than two hundred fifty dollars nor more than two thousand five hundred dollars for the first violation and for each succeeding violation a civil penalty of not less than five hundred dollars nor more than five thousand dollars.
@@ -886,7 +886,7 @@ b. Any chain pharmacy that violates the provisions of section 20-623 of this sub
 
 
 
-*§ 20-625 Hearing authority.* ::
+*§ 20-625 Hearing authority.*
 
 
 a. Notwithstanding any other provision of law, the department shall be authorized upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter and any rules promulgated thereunder. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-624 of this subchapter for each such violation. All proceedings authorized pursuant to this section shall be conducted in accordance with rules promulgated by the commissioner. The penalties provided for in section 20-624 of this subchapter shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
@@ -903,7 +903,7 @@ b. All such proceedings shall be commenced by the service of a notice of violati
 
 
 
-*§ 20-667 Definitions.* ::
+*§ 20-667 Definitions.*
 
 
 Whenever used in this subchapter "hamburger" shall mean chopped fresh beef with or without the addition of beef fat, and of seasoning.
@@ -913,7 +913,7 @@ Whenever used in this subchapter "hamburger" shall mean chopped fresh beef with 
 
 
 
-*§ 20-668 Standard for hamburger.* ::
+*§ 20-668 Standard for hamburger.*
 
 
 It shall be unlawful for any person to sell or offer for sale meat as hamburger unless it shall consist of chopped fresh beef with or without the addition of beef fat, or of seasoning, and in no case shall it contain more than thirty percent of beef fat.
@@ -923,7 +923,7 @@ It shall be unlawful for any person to sell or offer for sale meat as hamburger 
 
 
 
-*§ 20-669 Labeling of chopped meat.* ::
+*§ 20-669 Labeling of chopped meat.*
 
 
 It shall be unlawful for any person to sell or offer for sale meat chopped in advance of sale as chopped meat unless it is labeled specifically to state the types of meat which it contains, and in no case shall such chopped meat contain more than thirty percent of fat.
@@ -933,7 +933,7 @@ It shall be unlawful for any person to sell or offer for sale meat chopped in ad
 
 
 
-*§ 20-670 Sale of meat ground upon request by customer.* ::
+*§ 20-670 Sale of meat ground upon request by customer.*
 
 
 All meats purchased, whether prepackaged or cut to order, and then requested by customer to be ground on the premises, shall be ground in a meat grinder which shall be in clear and unobstructed view of the public.
@@ -943,7 +943,7 @@ All meats purchased, whether prepackaged or cut to order, and then requested by 
 
 
 
-*§ 20-671 Violations.* ::
+*§ 20-671 Violations.*
 
 
 A violation of any of the provisions of this subchapter shall be punishable by a fine of not less than twenty-five dollars nor more than two hundred fifty dollars for each offense, or by imprisonment not in excess of ten days, or both.
@@ -958,7 +958,7 @@ A violation of any of the provisions of this subchapter shall be punishable by a
 
 
 
-*§ 20-672 Price displays.* ::
+*§ 20-672 Price displays.*
 
 
 a. Except as provided in subdivision five of section one hundred ninety-two of the agriculture and markets law, it shall be unlawful for any person, in connection with the sale or offer for sale at retail of any petroleum products for use in motor vehicles or motor boats, to post or maintain at such place of sale any sign, placard or other display that states the price at which such petroleum products are sold or offered for sale, except as follows:
@@ -988,7 +988,7 @@ f. Notwithstanding the foregoing, subdivisions a, b and c of this section shall 
 
 
 
-*§ 20-672.1 Sales Record Keeping Requirements.* ::
+*§ 20-672.1 Sales Record Keeping Requirements.*
 
 
 a. Every retail dealer of petroleum products shall maintain a daily sales record of all petroleum products for which prices are required to be posted as provided in section 20-672. Such records shall document the total volume of each such type of product sold each day, the unit price and the total daily amount of sales for each such type of product, and the date and time when a change to the price posting specified in section 20-672 was made.
@@ -1006,7 +1006,7 @@ c. All records required to be maintained shall be kept in chronological order, e
 
 
 
-*§ 20-673 Fraudulent practices prohibited.* ::
+*§ 20-673 Fraudulent practices prohibited.*
 
 
 It shall be unlawful for any person to sell or offer for sale gasoline or other petroleum products for use in motor vehicles or motor boats in any manner so as to deceive or tend to deceive the purchaser as to the price, nature, quality or identity thereof; provided, however, that this section shall not apply to the prohibition of deceptive practices involving the representation of gasoline for motor vehicles as unleaded, which shall be governed by the provisions of section 20-673.1 of this subchapter and any rules or regulations promulgated thereunder, and provided, further, that this section shall not apply to the prohibition of deceptive practices involving the certification, display or representation of the octane rating of gasoline for motor vehicles, which shall be governed by the provisions of section 20-673.2 of this subchapter and any rules or regulations promulgated thereunder. It shall be unlawful for any person to sell or offer for sale from any pump, dispensing devices or container any gasoline or other petroleum products other than gasoline or other petroleum products manufactured or distributed by the manufacturer or distributor marketing such gasoline or other petroleum products under the name, trade name, brand, symbol or mark affixed to or contained on such pump, dispensing device or container, or to substitute, mix or adulterate gasoline or other petroleum products sold or offered for sale under a name, trade name, brand, symbol or mark.
@@ -1016,7 +1016,7 @@ It shall be unlawful for any person to sell or offer for sale gasoline or other 
 
 
 
-*§ 20-673.1 Sale of unleaded gasoline.* ::
+*§ 20-673.1 Sale of unleaded gasoline.*
 
 
 a. Definitions. For purposes of this section, the following terms shall have the following meanings:
@@ -1084,7 +1084,7 @@ g. (1) In any case in which a retailer or wholesale purchaser-consumer and any r
 
 
 
-*§ 20-673.2 Certification, display and representation of octane rating.* ::
+*§ 20-673.2 Certification, display and representation of octane rating.*
 
 
 a. For purposes of this section, the following terms shall have the following meanings:
@@ -1138,7 +1138,7 @@ f. For purposes of this section, the octane rating of any gasoline shall be cons
 
 
 
-*§ 20-673.3 Inspection, investigation; recordkeeping.* ::
+*§ 20-673.3 Inspection, investigation; recordkeeping.*
 
 
 a. The commissioner or the commissioner's designee, upon presentation of appropriate credentials, shall be authorized to enter upon or through the business premises of any person who sells or offers for sale gasoline or other petroleum products for use in motor vehicles or motor boats or any place where such gasoline or petroleum products is stored, for the purposes of making inspections, taking samples and conducting tests to determine compliance with the provisions of this subchapter or any rules* or regulation promulgated hereunder.
@@ -1152,7 +1152,7 @@ c. Any person subject to the provisions of this subchapter shall maintain such w
 
 
 
-*§ 20-674 Violations.* ::
+*§ 20-674 Violations.*
 
 
 a. (1) Any person who violates the provisions of this subchapter or any rules or regulations promulgated thereunder, other than sections 20-673.1 and 20-673.2 and any rules or regulations promulgated thereunder, shall be guilty of a misdemeanor punishable by a fine of not less than five hundred dollars nor more than ten thousand dollars, or by imprisonment for not more than thirty days, or by both such fine and imprisonment.
@@ -1180,7 +1180,7 @@ f. Notwithstanding the foregoing, the commissioner shall cause to be published i
 
 
 
-*§ 20-675 Rules and regulations.* ::
+*§ 20-675 Rules and regulations.*
 
 
 The commissioner shall have the authority to promulgate such rules and regulations as the commissioner shall deem necessary to effectuate the purpose of this subchapter, including but not limited to the size, the composition, the type size to be used for lettering, and the placement of signs which are provided for in section 20-672 of this subchapter.
@@ -1195,7 +1195,7 @@ The commissioner shall have the authority to promulgate such rules and regulatio
 
 
 
-*§ 20-676 Definitions.* ::
+*§ 20-676 Definitions.*
 
 
 As used in this subchapter, the following terms shall mean and include:
@@ -1211,7 +1211,7 @@ As used in this subchapter, the following terms shall mean and include:
 
 
 
-*§ 20-677 Sales at retail.* ::
+*§ 20-677 Sales at retail.*
 
 
 It shall be unlawful for any person to sell or offer for sale, at retail, any pickled, pumped, cured, or otherwise processed meats or meat products which shall contain added curing solution or any other liquid more than ten percent, by weight, of the total weight of the meat, except that pickled, pumped, cured, or otherwise processed beef brisket shall not contain more than twenty percent, by weight, of added curing solution or any other liquid.
@@ -1221,7 +1221,7 @@ It shall be unlawful for any person to sell or offer for sale, at retail, any pi
 
 
 
-*§ 20-678 Sales at wholesale.* ::
+*§ 20-678 Sales at wholesale.*
 
 
 It shall be unlawful for any person to sell, or offer for sale at wholesale, any pickled, pumped, cured, or otherwise processed meats or meat products which shall contain added curing solution or any other liquid more than ten percent, by weight, of the total weight of the meat, except that pickled, pumped, cured, or otherwise processed beef brisket shall not contain more than twenty percent, by weight, of added curing solution or any other liquid.
@@ -1231,7 +1231,7 @@ It shall be unlawful for any person to sell, or offer for sale at wholesale, any
 
 
 
-*§ 20-679 Injection devices.* ::
+*§ 20-679 Injection devices.*
 
 
 It shall be unlawful for any person to have in or upon any vehicle transporting meat and meat products within the city of New York, any hypodermic, syringe, pump, or other device that can be used for the injection or pumping of any fluid or other substance into the meat.
@@ -1241,7 +1241,7 @@ It shall be unlawful for any person to have in or upon any vehicle transporting 
 
 
 
-*§ 20-680 Labeling of pickled, pumped and cured meats and meat products.* ::
+*§ 20-680 Labeling of pickled, pumped and cured meats and meat products.*
 
 
 All pickled, pumped and cured meat and meat products shall be labeled as to net weight and shall specify the percentage, by weight, of added curing solution.
@@ -1251,7 +1251,7 @@ All pickled, pumped and cured meat and meat products shall be labeled as to net 
 
 
 
-*§ 20-681 Punishment.* ::
+*§ 20-681 Punishment.*
 
 
 (a) Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars for each violation.
@@ -1268,7 +1268,7 @@ All pickled, pumped and cured meat and meat products shall be labeled as to net 
 
 
 
-*§ 20-682 Sales of prepackaged meats.* ::
+*§ 20-682 Sales of prepackaged meats.*
 
 
 a. It shall be unlawful for any owner, manager, or supervisor of a retail store or any independently operated department within, to sell or offer or expose for sale, at retail any prepackaged unprocessed or untreated fresh or frozen meat unless at least one of the sides with the greatest surface area of the package is colorless and transparent, exclusive of labeling; which labeling shall not occupy more than ten percent of that side of the package, or six and one quarter (6.25) square inches, whichever is greater. This section shall be applicable solely in those cases where the packaging is performed on the premises of the sale. This section shall not apply to the sale of ground meat.
@@ -1280,7 +1280,7 @@ b. A sign shall be posted at the point of display of any prepackaged unprocessed
 
 
 
-*§ 20-683 Punishment.* ::
+*§ 20-683 Punishment.*
 
 
 Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than five hundred dollars for each violation.
@@ -1295,7 +1295,7 @@ Any person who shall violate any of the provisions of this subchapter shall be l
 
 
 
-*§ 20-684 Legislative intent.* ::
+*§ 20-684 Legislative intent.*
 
 
 The council finds that consumers cannot be certain that food offered for sale is fresh or that it will remain fresh for a reasonable period of time after it is purchased. The council particularly recognizes consumer concern with the freshness of foods including, but not limited to, meat, poultry, fish, dairy products, eggs, fruit, vegetables and baked goods. The council further finds that the food industry's practice of controlling food freshness through coded dates has proven inadequate for protection of the public. The council has concluded that a mandatory system of clear and legible dating accompanied by a statement of recommended conditions of storage is the best way to assure consumers of the freshness of the foods that they buy in stores.
@@ -1305,7 +1305,7 @@ The council finds that consumers cannot be certain that food offered for sale is
 
 
 
-*§ 20-685 Perishable foods.* ::
+*§ 20-685 Perishable foods.*
 
 
 It shall be unlawful to sell or offer for sale any perishable food designated by the commissioner in accordance with section 20-686 hereof unless there is stamped, printed or otherwise plainly and conspicuously marked on the top cover or principal panel of its container or any label affixed thereto the statements indicating recommended conditions and methods of storage, and the fact that it is not to be sold after a clearly specified date for human consumption as food.
@@ -1315,7 +1315,7 @@ It shall be unlawful to sell or offer for sale any perishable food designated by
 
 
 
-*§ 20-686 Regulations.* ::
+*§ 20-686 Regulations.*
 
 
 The commissioner shall promulgate regulations designating those perishable foods which shall come within the scope of section 20-685 of this subchapter wherever the commissioner shall find that because of the nature of the commodity, the mode of packaging or other consideration, such information about the commodity shall be necessary and proper to provide adequate information to the consumer as to the perishable nature of such commodity and conditions of storage.
@@ -1325,7 +1325,7 @@ The commissioner shall promulgate regulations designating those perishable foods
 
 
 
-*§ 20-687 Powers of the commissioner.* ::
+*§ 20-687 Powers of the commissioner.*
 
 
 (a) The commissioner shall receive and evaluate complaints and initiate his or her own investigations relating to these matters and take appropriate action related thereto including stop-sale and stop-removal orders where necessary and proper.
@@ -1337,7 +1337,7 @@ The commissioner shall promulgate regulations designating those perishable foods
 
 
 
-*§ 20-688 Penalties.* ::
+*§ 20-688 Penalties.*
 
 
 Any person, firm, corporation or association or agent or employee thereof, who shall violate any of the provisions of this subchapter or of the regulations promulgated pursuant to section 20-686 shall pay a civil penalty of not less than twenty-five dollars nor more than two hundred fifty dollars for each violation; and shall, upon conviction thereof, be punished by a fine of not less than twenty-five nor more than two hundred fifty dollars for each such violation.
@@ -1352,7 +1352,7 @@ Any person, firm, corporation or association or agent or employee thereof, who s
 
 
 
-*§ 20-689 Water saving plumbing fixtures.* ::
+*§ 20-689 Water saving plumbing fixtures.*
 
 
 (1) It shall be unlawful for any person to sell or offer for sale any plumbing fixture that does not comply with section 604.4 of the New York city plumbing code.
@@ -1370,7 +1370,7 @@ Any person, firm, corporation or association or agent or employee thereof, who s
 
 
 
-*§ 20-690 Punishment.* ::
+*§ 20-690 Punishment.*
 
 
 Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than five hundred dollars for each violation.
@@ -1385,7 +1385,7 @@ Any person who shall violate any of the provisions of this subchapter shall be l
 
 
 
-*§ 20-691 Price displays.* ::
+*§ 20-691 Price displays.*
 
 
 a. In any food store which has one or more cash registers with item cost indicators, said indicators shall at all times remain visible to customers making payment for items purchased or for services rendered.
@@ -1405,7 +1405,7 @@ f. For the purposes of this section "item cost indicators" shall be defined as a
 
 
 
-*§ 20-692 Punishment.* ::
+*§ 20-692 Punishment.*
 
 
 Any person who shall violate any of the provisions of subdivisions a or b of section 20-691 shall be subject to a civil penalty of not less than one hundred dollars nor more than one hundred fifty dollars for each violation.
@@ -1417,7 +1417,7 @@ b. Each day a violation is continued shall constitute a separate violation.
 
 
 
-*§ 20-693 Rules and regulations.* ::
+*§ 20-693 Rules and regulations.*
 
 
 The commissioner shall promulgate such rules and regulations as he or she shall deem necessary to effectuate the purposes of this subchapter.
@@ -1432,7 +1432,7 @@ The commissioner shall promulgate such rules and regulations as he or she shall 
 
 
 
-*§ 20-694 Thermal-Shock Protection Devices.* ::
+*§ 20-694 Thermal-Shock Protection Devices.*
 
 
 It shall be unlawful for any person to distribute, sell, offer for sale or import any water supply control valve which does not meet the standards of subdivision P107.6 of section P107.0 of the appendix to chapter one of title twenty-seven of this code.
@@ -1442,7 +1442,7 @@ It shall be unlawful for any person to distribute, sell, offer for sale or impor
 
 
 
-*§ 20-695 Penalty.* ::
+*§ 20-695 Penalty.*
 
 
 Any person who shall violate any of the provisions of this subchapter shall be subject to a civil penalty of not less than one hundred dollars nor more than five hundred dollars for each violation.
@@ -1457,7 +1457,7 @@ Any person who shall violate any of the provisions of this subchapter shall be s
 
 
 
-*§ 20-696 Gauges Utilizing Mercury.* ::
+*§ 20-696 Gauges Utilizing Mercury.*
 
 
 It shall be unlawful for any person to distribute, sell or offer for sale any gauge that utilizes mercury to test the pressure of gas piping, drainage or vent systems or for any person to distribute, sell or offer for sale replacement mercury for use in such gauges.
@@ -1467,7 +1467,7 @@ It shall be unlawful for any person to distribute, sell or offer for sale any ga
 
 
 
-*§ 20-697 Penalty.* ::
+*§ 20-697 Penalty.*
 
 
 Any person who shall violate any of the provisions of this subchapter shall be subject to a civil penalty of not less than two hundred fifty dollars nor more than one thousand dollars for each violation.
@@ -1482,7 +1482,7 @@ Any person who shall violate any of the provisions of this subchapter shall be s
 
 
 
-*§ 20-698 Definitions.* ::
+*§ 20-698 Definitions.*
 
 
 Whenever used in this subchapter:
@@ -1498,7 +1498,7 @@ c. "Population" shall mean a group of fish or wildlife of the same species or su
 
 
 
-*§ 20-699 Prohibition.* ::
+*§ 20-699 Prohibition.*
 
 
 a. Except with a federal or state permit or license or under any exception under federal or state law, it shall be unlawful to buy or sell, offer or attempt to buy or sell, or cause any person to buy or sell:
@@ -1518,7 +1518,7 @@ c. The prohibitions of this subchapter shall apply to any offer for sale, label 
 
 
 
-*§ 20-699.1 Publication of endangered and threatened species list.* ::
+*§ 20-699.1 Publication of endangered and threatened species list.*
 
 
 No later than April 1, 2005, and at least annually thereafter, the commissioner shall publish a list using the department's website for the purpose of ensuring compliance by merchants with the provisions of this subchapter. Such list shall include guidance regarding the identification of any fish or wildlife family, genus, species, subspecies or population designated by or pursuant to New York law as endangered or threatened and shall also separately specify whether all populations of any family or genus so identified are designated as endangered or threatened by or pursuant to New York law. Such list shall be published in English and Chinese.
@@ -1528,7 +1528,7 @@ No later than April 1, 2005, and at least annually thereafter, the commissioner 
 
 
 
-*§ 20-699.2 Penalties.* ::
+*§ 20-699.2 Penalties.*
 
 
 Any person that violates any provision of section 20-699 after October 1, 2005 shall be subject to a civil penalty of not more than five hundred dollars for the first violation and each additional violation occurring on the same day as the first violation, and not less than five hundred dollars nor more than one thousand five hundred dollars for each subsequent violation occurring within a period of twenty-four months.
@@ -1538,7 +1538,7 @@ Any person that violates any provision of section 20-699 after October 1, 2005 s
 
 
 
-*§ 20-699.3 Seizure and forfeiture.* ::
+*§ 20-699.3 Seizure and forfeiture.*
 
 
 Any product, item, substance, or species bought or sold, or attempted to be bought or sold, after October 1, 2005 in violation of section 20-699 or any regulation issued pursuant to this subchapter shall be subject to forfeiture upon notice and judicial determination.
@@ -1548,7 +1548,7 @@ Any product, item, substance, or species bought or sold, or attempted to be boug
 
 
 
-*§ 20-699.4 Rules.* ::
+*§ 20-699.4 Rules.*
 
 
 The commissioner shall have the authority to promulgate such rules and regulations as the commissioner shall deem necessary to implement the provisions of this subchapter.
@@ -1558,7 +1558,7 @@ The commissioner shall have the authority to promulgate such rules and regulatio
 
 
 
-*§ 20-699.5 Enforcement.* ::
+*§ 20-699.5 Enforcement.*
 
 
 The commissioner and the members of the police department shall have the authority to enforce this subchapter.
@@ -1568,7 +1568,7 @@ The commissioner and the members of the police department shall have the authori
 
 
 
-*§ 20-699.6 Hearing authority.* ::
+*§ 20-699.6 Hearing authority.*
 
 
 Notwithstanding any other provision of law, the department shall be authorized, after October 1, 2005, upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-699.2 of this subchapter for each such violation. All proceedings authorized pursuant to this subdivision shall be conducted in accordance with rules promulgated by the commissioner. The remedies and penalties provided for in this subdivision shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
@@ -1581,7 +1581,7 @@ Notwithstanding any other provision of law, the department shall be authorized, 
 
 
 Chapter 5: Unfair Trade Practices
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -1590,7 +1590,7 @@ Chapter 5: Unfair Trade Practices
 
 
 
-*§ 20-700 Unfair trade practices prohibited.* ::
+*§ 20-700 Unfair trade practices prohibited.*
 
 
 No person shall engage in any deceptive or unconscionable trade practice in the sale, lease, rental or loan or in the offering for sale, lease, rental, or loan of any consumer goods or services, or in the collection of consumer debts.
@@ -1600,7 +1600,7 @@ No person shall engage in any deceptive or unconscionable trade practice in the 
 
 
 
-*§ 20-701 Definitions.* ::
+*§ 20-701 Definitions.*
 
 
 a. Deceptive trade practice. Any false, falsely disparaging, or misleading oral or written statement, visual description or other representation of any kind made in connection with the sale, lease, rental or loan or in connection with the offering for sale, lease, rental, or loan of consumer goods or services, or in the extension of consumer credit or in the collection of consumer debts, which has the capacity, tendency or effect of deceiving or misleading consumers. Deceptive trade practices include but are not limited to: (1) representations that goods or services have sponsorship, approval, accessories, characteristics, ingredients, uses, benefits, or quantities that they do not have; the supplier has a sponsorship, approval, status, affiliation, or connection that he or she does not have; goods are original or new if they are deteriorated, altered, reconditioned, reclaimed, or secondhand; or, goods or services are of a particular standard, quality, grade, style or model, if they are of another; (2) the use, in any oral or written representation, of exaggeration, innuendo or ambiguity as to a material fact or failure to state a material fact if such use deceives or tends to deceive; (3) disparaging the goods, services, or business of another by false or misleading representations of material facts; (4) offering goods or services with intent not to sell them as offered; (5) offering goods or services with intent not to supply reasonable expectable public demand, unless the offer discloses to limitation of quantity; and (6) making false or misleading representations of fact concerning the reasons for, existence of, or amounts of price reductions, or price in comparison to prices of competitors or one's own price at a past or future time; (7) stating that a consumer transaction involves consumer rights, remedies or obligations that it does not involve; (8) stating that services, replacements or repairs are needed if they are not; and (9) falsely stating the reasons for offering or supplying goods or services at scale discount prices.
@@ -1618,7 +1618,7 @@ e. Merchant. A seller, lessor, or creditor or any other person who makes availab
 
 
 
-*§ 20-702 Regulations.* ::
+*§ 20-702 Regulations.*
 
 
 The commissioner may adopt such rules and regulations as may be necessary to effectuate the purposes of this subchapter, including regulations defining specific deceptive or unconscionable trade practices. Such rules and regulations may supplement but shall not be inconsistent with the rules, regulations and decisions of the federal trade commission and the federal courts in interpreting the provisions of section five (a) (1), the federal trade commission act 15 U.S.C. § 45(a)(1), or the decisions of the courts interpreting section three hundred fifty of the general business law and section 2-302 of the uniform commercial code.
@@ -1628,7 +1628,7 @@ The commissioner may adopt such rules and regulations as may be necessary to eff
 
 
 
-*§ 20-703 Enforcement.* ::
+*§ 20-703 Enforcement.*
 
 
 a. The violation of any provision of this subchapter or of any rule or regulation promulgated thereunder, shall be punishable upon proof thereof, by the payment of a civil penalty in the sum of fifty dollars to three hundred and fifty dollars, to be recovered in a civil action.
@@ -1646,7 +1646,7 @@ e. To establish a cause of action under this section it need not be shown that c
 
 
 
-*§ 20-704 Settlements.* ::
+*§ 20-704 Settlements.*
 
 
 a. In lieu of instituting or continuing an action pursuant to this subchapter, the commissioner may accept written assurance of discontinuance of any act or practice in violation of this subchapter from the person or persons who have engaged in such acts or practices. Such assurance may include a stipulation for voluntary payment by the violator of the costs of investigation by the commissioner and may also include a stipulation for the restitution by the violator to consumers, of money, property or other things received from them in connection with a violation of this subchapter, including money necessarily expended in the course of making and pursuing a complaint to the commissioner. All settlements shall be made a matter of public record. If such stipulation applies to consumers who have been affected by the violator's practices but have not yet complained to the commissioner, the assurance must be approved by the court, which shall direct the minimum means by which potential claimants shall be notified of the stipulation. A consumer need not accept restitution pursuant to such a stipulation; his or her acceptance shall bar recovery of any other damages in any action by him or her against the defendant or defendants on account of the same acts or practices.
@@ -1658,7 +1658,7 @@ b. Violation of an assurance entered into pursuant to this section shall be trea
 
 
 
-*§ 20-705 Persons excluded from this subchapter.* ::
+*§ 20-705 Persons excluded from this subchapter.*
 
 
 Nothing in this subchapter shall apply to any television or radio broadcasting station or to any publisher or printer of a newspaper, magazine, or other form of printed advertising, who broadcasts, publishes, or prints such advertisement, except insofar as said station or publisher or printer is guilty of deception on the sale or offering for sale of its own services. This subchapter shall not apply to advertising agencies, provided they are acting on information provided by their clients.
@@ -1668,7 +1668,7 @@ Nothing in this subchapter shall apply to any television or radio broadcasting s
 
 
 
-*§ 20-706 Permitted practices.* ::
+*§ 20-706 Permitted practices.*
 
 
 The provisions of this subchapter shall be construed so as to supplement the rules, regulations, and decisions of the federal trade commission and the courts interpreting 15 U.S.C. § 45(a)(1), but the provisions of this subchapter shall in no instance be interpreted in a manner inconsistent with the rules, regulations and decisions of the federal trade commission and the courts interpreting 15 U.S.C. § 45(a)(1).
@@ -1678,7 +1678,7 @@ The provisions of this subchapter shall be construed so as to supplement the rul
 
 
 
-*§ 20-706.1 Outreach and education on consumer protection issues for young adults.* ::
+*§ 20-706.1 Outreach and education on consumer protection issues for young adults.*
 
 
 The commissioner shall establish and engage in outreach and education efforts that are tailored to individuals ages sixteen to twenty-four. Such outreach and education shall concern consumer issues that are likely to affect individuals ages sixteen to twenty-four including, but not limited to: (a) credit card debt; (b) student loans; and (c) leasing or purchasing a motor vehicle. Such outreach and education shall also provide information related to the department's office of financial empowerment and its financial education providers. The outreach and education required by this section shall commence on September 1, 2015 and shall include educational materials that shall be made available on the department's website, and submitted to the chancellor of the New York city department of education and the chancellor of the city university of New York no later than September 1, 2015. The educational materials made available on the department's website pursuant to this section shall be made available in English and in the six languages most commonly spoken by limited English proficient individuals in the city as determined by the department of city planning. The commissioner shall update the educational materials made available on the department's website on an annual basis and submit such updated materials each year to the chancellor of the New York city department of education and the chancellor of the city university of New York.
@@ -1688,7 +1688,7 @@ The commissioner shall establish and engage in outreach and education efforts th
 
 
 
-*§ 20-706.2 Business education events.* ::
+*§ 20-706.2 Business education events.*
 
 
 a. 1. The commissioner shall organize and conduct business education events during which the department shall provide local businesses with information regarding the laws and rules that are enforced by the department. The commissioner of small business services shall support the department in the organization and operation of such business education events.
@@ -1708,7 +1708,7 @@ b. On June 30, 2016, and annually thereafter, the department shall submit to the
 
 
 
-*§ 20-706.3 Outreach and education on consumer protection for seniors.* ::
+*§ 20-706.3 Outreach and education on consumer protection for seniors.*
 
 
 a. Definitions. For purposes of this section:
@@ -1728,7 +1728,7 @@ c. The commissioner for the aging shall make best efforts to ensure that the mat
 
 
 
-*§ 20-706.4 Outreach and education program for immigrants relating to consumer protection.* ::
+*§ 20-706.4 Outreach and education program for immigrants relating to consumer protection.*
 
 
 a. Definitions. For purposes of this section:
@@ -1748,7 +1748,7 @@ c. Such outreach and education program shall also provide information related to
 
 
 
-*§ 20-706.5 Consumer protection outreach and education program for women.* ::
+*§ 20-706.5 Consumer protection outreach and education program for women.*
 
 
 By December 1, 2016, the commissioner, in consultation with the commission on gender equity, the mayor’s office to end domestic and gender-based violence, and other city agencies as appropriate, shall establish and implement an outreach and education program to promote women’s financial independence, stability and success. Such program shall provide information on issues that typically and especially affect vulnerable populations, including but not limited to the following: (i) short- and long-term financial planning, including planning for retirement; (ii) navigation of public benefits programs; (iii) the prevalence of gender-based pricing; and (iv) deceptive business practices and predatory consumer and financial products. Such outreach and education program shall also provide information related to the office of financial empowerment and its financial education providers. The outreach and education program required by this section shall include the production of educational materials that shall be made available on the department’s website and submitted to the commission on gender equity and the mayor’s office to end domestic and gender-based violence. Such educational materials shall be made available in English and in the six languages most commonly spoken by limited English proficient individuals in the city as determined by the department of city planning. The commissioner shall review the educational materials made available on the department’s website on an annual basis, update the educational material as needed, and submit such updated material to the commission on gender equity, the mayor’s office to end domestic and gender-based violence, and other city agencies as appropriate on or before December 1 of each year.
@@ -1765,7 +1765,7 @@ By December 1, 2016, the commissioner, in consultation with the commission on ge
 
 
 
-*§ 20-707 Definitions.* ::
+*§ 20-707 Definitions.*
 
 
 (a) "Consumer commodity" shall be defined as any article, good, merchandise, product or commodity of any kind or class produced, distributed or offered for retail sale for consumption by individuals, or for personal, household or family purposes. For the purposes of this subchapter, drugs, medicines and cosmetics shall not be considered consumer commodities.
@@ -1777,7 +1777,7 @@ By December 1, 2016, the commissioner, in consultation with the commission on ge
 
 
 
-*§ 20-708 Display of total selling price by tag or sign.* ::
+*§ 20-708 Display of total selling price by tag or sign.*
 
 
 All consumer commodities, sold, exposed for sale or offered for sale at retail except those items subject to section 20-708.1 of this code, shall have conspicuously displayed, at the point of exposure or offering for sale, the total selling price exclusive of tax by means of (a) a stamp, tag or label attached to the item or (b) by a sign at the point of display which indicates the item to which the price refers, provided that this information is plainly visible at the point of display for sale of the items so indicated. This section shall not apply to consumer commodities displayed in the window of the seller.
@@ -1787,7 +1787,7 @@ All consumer commodities, sold, exposed for sale or offered for sale at retail e
 
 
 
-*§ 20-708.1 Item pricing.* ::
+*§ 20-708.1 Item pricing.*
 
 
 a. Definitions. The following terms shall have the following meanings for the purpose of this section:
@@ -1881,7 +1881,7 @@ g. Rules. The commissioner may promulgate such rules as he or she may deem neces
 
 
 
-*§ 20-709 Display of price per measure.* ::
+*§ 20-709 Display of price per measure.*
 
 
 All consumer commodities designated by the commissioner in accordance with subdivision (a) of section 20-710 hereof exposed for sale or offered for sale shall be plainly marked by a stamp, tag, label or sign at the point of display with the appropriate price per measure; provided however, that the provisions of this section shall not apply to any food store having had annual gross sales in the previous tax year of less than two hundred fifty thousand dollars, ($250,000) unless it is a part of a network of subsidiaries, affiliates, or other member stores, under direct or indirect common control, which, as a group, had annual gross sales in the previous tax year of two hundred fifty thousand dollars ($250,000) or more.
@@ -1891,7 +1891,7 @@ All consumer commodities designated by the commissioner in accordance with subdi
 
 
 
-*§ 20-710 Regulations.* ::
+*§ 20-710 Regulations.*
 
 
 (a) The commissioner after public hearings shall promulgate regulations designating those consumer commodities which shall come within the scope of section 20-709 of this subchapter whenever the commissioner shall find that, because of the nature, form, mode of packaging or other reason, such price display for that commodity shall be necessary and appropriate to provide adequate information to the consumer.
@@ -1905,7 +1905,7 @@ All consumer commodities designated by the commissioner in accordance with subdi
 
 
 
-*§ 20-711 Penalties.* ::
+*§ 20-711 Penalties.*
 
 
 Any person who shall violate the provisions of section 20-708 or section 20-709 hereof or rules promulgated pursuant to this subchapter, other than the provisions of section 20-708.1 or rules promulgated under such section, shall pay a civil penalty of not less than twenty-five dollars nor more than two hundred fifty dollars for each violation and shall, upon conviction thereof, be punished by a fine of not less than twenty-five dollars nor more than two hundred fifty dollars for each violation. For the purposes of this section, each group of identical consumer commodities for which on any single day the total selling price or price per measure is not displayed in accordance with section 20-708 or section 20-709 or rules promulgated pursuant to this subchapter, other than the provisions of section 20-708.1 or rules promulgated under such section, shall be considered a single violation.
@@ -1920,7 +1920,7 @@ Any person who shall violate the provisions of section 20-708 or section 20-709 
 
 
 
-*§ 20-712 Definitions.* ::
+*§ 20-712 Definitions.*
 
 
 (a) "Current selling price" means the price to be paid by the purchaser to the pharmacy for a listed drug.
@@ -1936,7 +1936,7 @@ Any person who shall violate the provisions of section 20-708 or section 20-709 
 
 
 
-*§ 20-713 Display of prescription drug prices.* ::
+*§ 20-713 Display of prescription drug prices.*
 
 
 Every pharmacy must post, at each counter over which prescription drugs are sold, a list conspicuously displaying the current selling price of the drugs designated on a form prescribed for that purpose by the department.
@@ -1946,7 +1946,7 @@ Every pharmacy must post, at each counter over which prescription drugs are sold
 
 
 
-*§ 20-713.1 Display of information relating to emergency contraception.* ::
+*§ 20-713.1 Display of information relating to emergency contraception.*
 
 
 Any pharmacy that does not sell emergency contraception must conspicuously post, at or adjacent to each counter over which prescription drugs are sold, indicating in large type that emergency contraception is not sold at such pharmacy.
@@ -1956,7 +1956,7 @@ Any pharmacy that does not sell emergency contraception must conspicuously post,
 
 
 
-*§ 20-714 Regulations.* ::
+*§ 20-714 Regulations.*
 
 
 (a) The commissioner shall promulgate regulations designating those prescription drugs which, because of the frequency with which they are prescribed, shall be posted pursuant to section 20-713. The commissioner may exempt from such regulation such drugs to the extent that, and under such conditions as are consistent with the policy of this subchapter whenever the commissioner shall find that, because of the nature of such prescription drugs, compliance with section 20-713 is unreasonably burdensome or unnecessary for adequate protection of consumers.
@@ -1968,7 +1968,7 @@ Any pharmacy that does not sell emergency contraception must conspicuously post,
 
 
 
-*§ 20-715 Penalties.* ::
+*§ 20-715 Penalties.*
 
 
 Any person who shall violate the provisions of section 20-713, section 20-713.1, or regulations promulgated pursuant to this subchapter shall pay a civil penalty of not less than two hundred fifty dollars nor more than five hundred dollars for the first offense and for each succeeding offense a penalty of not less than five hundred dollars nor more than seven hundred fifty dollars for each such violation and shall, upon conviction thereof, be punished by a fine of not less than two hundred fifty dollars nor more than five hundred dollars for the first offense and for each succeeding offense a fine of not less than five hundred dollars nor more than seven hundred fifty dollars for each such violation. For the purposes of this section, if on any single day the current selling price list is not displayed in accordance with section 20-713 or regulations promulgated pursuant to this subchapter, or the required signage is not displayed in accordance with section 20-713.1 or regulations promulgated pursuant to this subchapter, it shall be considered a single violation.
@@ -1983,7 +1983,7 @@ Any person who shall violate the provisions of section 20-713, section 20-713.1,
 
 
 
-*§ 20-716 Legislative findings.* ::
+*§ 20-716 Legislative findings.*
 
 
 The council hereby finds that the demand for electricity in the city has been steadily growing; that the supply of electricity has on frequent occasions been inadequate fully to meet the demand therefor; that the distribution system of the public utility company serving most of the city has frequently been disrupted by heavy loads; that major brownouts and blackouts in various sections of the city have frequently resulted from such conditions, particularly in the summer; that there is no present basis for concluding that such conditions will not continue for the foreseeable future; that fifty percent of the annual summer growth in demand for electricity in the city is due to air conditioning, that forty percent of the peak summer demand for electricity in the city is attributable to air conditioning; that room air conditioners use a significant part of the electricity used for air conditioning in the city; that the amount of electricity used by room air conditioners of comparable cooling capacity varies widely; that most sellers of room air conditioners do not presently advertise, display or otherwise provide prospective purchasers information as to the amount or cost of electricity required to operate the various models of room air conditioners; that such information, if provided, would lead consumers to purchase more efficient models; that the growth in demand for electricity in the city, particularly in summer months, would thereby be slowed and there would be an amelioration of some of the conditions which lead to brownouts and blackouts. The council also finds that an adequate supply of electricity is vital to the health, safety and welfare of all persons in the city. Accordingly, the council further finds that, in order to conserve electricity, there is a need to provide prospective purchasers of room air conditioners with information with respect to the efficiency and cost of operation of such units.
@@ -1993,7 +1993,7 @@ The council hereby finds that the demand for electricity in the city has been st
 
 
 
-*§ 20-717 Definitions.* ::
+*§ 20-717 Definitions.*
 
 
 (a) "Room air conditioner" shall be defined as any electrical appliance which has a compressor, a condenser, an evaporator and a fan to cool and dehumidify the surrounding air and which is capable in ordinary usage of being mounted in a window or through a wall.
@@ -2009,7 +2009,7 @@ The council hereby finds that the demand for electricity in the city has been st
 
 
 
-*§ 20-718 Display of information.* ::
+*§ 20-718 Display of information.*
 
 
 Any person selling, offering for sale or displaying for sale any room air conditioner shall set forth by a stamp, tab, label or sign at the point of display the model number, cooling capacity rating, wattage rating and estimated yearly cost of electricity necessary to operate such room air conditioner.
@@ -2019,7 +2019,7 @@ Any person selling, offering for sale or displaying for sale any room air condit
 
 
 
-*§ 20-719 Furnishing information.* ::
+*§ 20-719 Furnishing information.*
 
 
 Upon request, any person selling or offering for sale any room air conditioner shall furnish to anyone who inquires about such room air conditioner information as to the model number, cooling capacity rating, wattage rating and estimated yearly cost of electricity necessary to operate such room air conditioner.
@@ -2029,7 +2029,7 @@ Upon request, any person selling or offering for sale any room air conditioner s
 
 
 
-*§ 20-720 Advertising.* ::
+*§ 20-720 Advertising.*
 
 
 Any person who advertises a room air conditioner for sale in the city shall include in any advertisement therefor the model number, cooling capacity rating, wattage rating and estimated yearly cost of electricity necessary to operate such room air conditioner.
@@ -2039,7 +2039,7 @@ Any person who advertises a room air conditioner for sale in the city shall incl
 
 
 
-*§ 20-721 Regulations.* ::
+*§ 20-721 Regulations.*
 
 
 (a) The commissioner shall adopt regulations setting forth procedures for determining the cooling capacity rating, wattage rating and estimated yearly cost of electricity necessary to operate room air conditioners.
@@ -2051,7 +2051,7 @@ Any person who advertises a room air conditioner for sale in the city shall incl
 
 
 
-*§ 20-722 Penalties.* ::
+*§ 20-722 Penalties.*
 
 
 Any person or agent or employee thereof who shall violate any provision of this subchapter or of the regulations promulgated pursuant thereto shall be subject to a civil penalty of not less than twenty-five dollars nor more than two hundred fifty dollars for each day in which a violation occurs.
@@ -2066,7 +2066,7 @@ Any person or agent or employee thereof who shall violate any provision of this 
 
 
 
-*§ 20-723 Representations in advertising.* ::
+*§ 20-723 Representations in advertising.*
 
 
 No person, firm, corporation or association, or agent or employee thereof, doing business in New York city, who with intent to sell or in any way dispose of merchandise to the public through the media of a newspaper, magazine, circular, pamphlet, catalogue, store display, letter or handbill shall advertise, state, set forth, print, publish or cause directly or indirectly or permit directly or indirectly, so to be done in any of the aforesaid media, any of the following or anything approximating any of the following:
@@ -2082,7 +2082,7 @@ No person, firm, corporation or association, or agent or employee thereof, doing
 
 
 
-*§ 20-723.1 Advertising Disclosure Requirements for Lenders Promoting Payday Loan Services.* ::
+*§ 20-723.1 Advertising Disclosure Requirements for Lenders Promoting Payday Loan Services.*
 
 
 a. Definitions. For purposes of this section:
@@ -2120,7 +2120,7 @@ d. (1) Notwithstanding any other provision of law, the department shall be autho
 
 
 
-*§ 20-723.2 Disclosure Requirements for Businesses Promoting Credit Counseling Services.* ::
+*§ 20-723.2 Disclosure Requirements for Businesses Promoting Credit Counseling Services.*
 
 
 a. Definitions. For purposes of this section:
@@ -2158,7 +2158,7 @@ d. (1) Notwithstanding any other provision of law, the department shall be autho
 
 
 
-*§ 20-723.3 Disclosure Requirements for Distressed Property Consultants.* ::
+*§ 20-723.3 Disclosure Requirements for Distressed Property Consultants.*
 
 
 a. Definitions. For the purposes of this section the following terms shall have the following meanings:
@@ -2238,7 +2238,7 @@ e. (1) Notwithstanding any other provision of law, the department shall be autho
 
 
 
-*§ 20-724 Requirements of records.* ::
+*§ 20-724 Requirements of records.*
 
 
 Any such person, firm, corporation or association or agent, or employee thereof, doing business in New York city, making any one or more of the aforesaid statements, claims, offers, or representations of the types described in subdivisions (a), (b) and (c) of section 20-723 shall maintain full and adequate records disclosing the facts upon which any such statements, offers, claims or representations are based.
@@ -2252,7 +2252,7 @@ Any such person, firm, corporation or association or agent, or employee thereof,
 
 
 
-*§ 20-725 Rules and regulations.* ::
+*§ 20-725 Rules and regulations.*
 
 
 The commissioner may make and promulgate such rules and regulations as may be necessary to carry out the purposes of this subchapter.
@@ -2262,7 +2262,7 @@ The commissioner may make and promulgate such rules and regulations as may be ne
 
 
 
-*§ 20-726 Violations.* ::
+*§ 20-726 Violations.*
 
 
 Any person, firm, corporation or association or agent or employee thereof, who shall violate any of the provisions of this subchapter upon conviction thereof, shall be punished by a fine of not more than five hundred dollars ($500) or by imprisonment not exceeding thirty (30) days, or by both.
@@ -2277,7 +2277,7 @@ Any person, firm, corporation or association or agent or employee thereof, who s
 
 
 
-*§ 20-727 Raincheck issuance disclosure.* ::
+*§ 20-727 Raincheck issuance disclosure.*
 
 
 A retailer, who has adopted as policy the issuance of rainchecks to consumers for the sale of advertised merchandise not available throughout the advertised period, shall clearly and conspicuously post such fact, along with a designation of where a raincheck can be obtained, within the retail establishment.
@@ -2287,7 +2287,7 @@ A retailer, who has adopted as policy the issuance of rainchecks to consumers fo
 
 
 
-*§ 20-728 Penalties.* ::
+*§ 20-728 Penalties.*
 
 
 Violation of this subchapter or any rule or regulation promulgated thereunder, shall be punishable by payment of a civil penalty in the sum of not less than twenty-five nor more than one hundred dollars for each violation; except that a person shall not be subject to the civil penalty described above for a first-time violation of any provision of this subchapter or any rule or regulation promulgated thereunder, if such person proves to the satisfaction of the department within thirty days of the issuance of the notice of violation and prior to the commencement of an adjudication of the violation, that he or she has cured the violation. The submission of proof of a cure shall be deemed an admission of liability for all purposes. The option of presenting proof that the violation has been cured shall be offered as part of any settlement offer made by the department to a person who has received, for the first time, a notice of violation of any provision of this subchapter or any rule or regulation promulgated thereunder. The department shall permit such proof to be submitted electronically or in person. A person may seek review, in the department's administrative tribunal, of the determination that the person has not submitted proof of a cure within fifteen days of receiving written notification of such determination.
@@ -2297,7 +2297,7 @@ Violation of this subchapter or any rule or regulation promulgated thereunder, s
 
 
 
-*§ 20-729 Regulations.* ::
+*§ 20-729 Regulations.*
 
 
 The commissioner may adopt such rules and regulations as may be necessary to effectuate the purposes of this subchapter.
@@ -2312,7 +2312,7 @@ The commissioner may adopt such rules and regulations as may be necessary to eff
 
 
 
-*§ 20-730 Definitions.* ::
+*§ 20-730 Definitions.*
 
 
 a. "Alternative container" means a non-metal receptacle or enclosure customarily not ornamented and designed for holding or transporting human remains.
@@ -2354,7 +2354,7 @@ m. "Provider of funeral services" means any person, partnership or corporation, 
 
 
 
-*§ 20-731 Casket and outer interment receptacle information.* ::
+*§ 20-731 Casket and outer interment receptacle information.*
 
 
 a. Any provider of funeral services who offers a casket for sale, or an outer interment receptacle for sale in a selection room, shall prominently display the actual retail price on each casket or outer interment receptacle, in at least one-half inch numbers, as well as composition and model number of such casket or outer interment receptacle.
@@ -2366,7 +2366,7 @@ b. Any provider of funeral services who offers a casket or an outer interment re
 
 
 
-*§ 20-732 Statement to be furnished by provider of funeral services.* ::
+*§ 20-732 Statement to be furnished by provider of funeral services.*
 
 
 Any provider of funeral services shall prominently display on the funeral services establishment premises and make readily available to any customer or prospective customer a printed presentation sheet. The presentation sheet shall contain an itemized list of all funeral merchandise and services available at the establishment, a statement that the prices therefor are available upon request, and appropriate disclosures regarding legal requirements for procurement of funeral merchandise and services, the form and contents of which shall be prescribed by the commissioner. The presentation sheet shall be made current annually.
@@ -2376,7 +2376,7 @@ Any provider of funeral services shall prominently display on the funeral servic
 
 
 
-*§ 20-733 Prohibited practices.* ::
+*§ 20-733 Prohibited practices.*
 
 
 It shall be unlawful for any provider of funeral services:
@@ -2400,7 +2400,7 @@ g. to charge in excess of the amount advanced, paid or owed to third parties on 
 
 
 
-*§ 20-734 Merchandise and service selection.* ::
+*§ 20-734 Merchandise and service selection.*
 
 
 It shall be unlawful for any provider of funeral services:
@@ -2414,7 +2414,7 @@ b. to interfere with the customer's selection of merchandise or services offered
 
 
 
-*§ 20-735 Interference with the market.* ::
+*§ 20-735 Interference with the market.*
 
 
 It shall be unlawful for any provider of funeral services to directly or indirectly prohibit, hinder or restrict, or attempt to prohibit, hinder or restrict:
@@ -2430,7 +2430,7 @@ c. the disclosure of accurate price information in any manner regarding funeral 
 
 
 
-*§ 20-736 Price information over telephone.* ::
+*§ 20-736 Price information over telephone.*
 
 
 Any provider of funeral services shall, upon request, provide over the telephone,information regarding the range of prices and shall affirmatively disclose the availability of a presentation sheet at the establishment.
@@ -2440,7 +2440,7 @@ Any provider of funeral services shall, upon request, provide over the telephone
 
 
 
-*§ 20-737 Regulations.* ::
+*§ 20-737 Regulations.*
 
 
 The commissioner shall promulgate rules and regulations reasonably necessary to effectuate the purposes of this subchapter.
@@ -2450,7 +2450,7 @@ The commissioner shall promulgate rules and regulations reasonably necessary to 
 
 
 
-*§ 20-738 Penalties.* ::
+*§ 20-738 Penalties.*
 
 
 Violation of any provision of this subchapter shall be punishable by a civil penalty of not less than one hundred nor more than one thousand dollars for each violation.
@@ -2465,7 +2465,7 @@ Violation of any provision of this subchapter shall be punishable by a civil pen
 
 
 
-*§ 20-739 Definitions.* ::
+*§ 20-739 Definitions.*
 
 
 1. For the purposes of this subchapter, the term "tax preparer" or "preparer" means a person, partnership, corporation or other business entity, that for valuable consideration advises or assists or offers to advise or assist in the preparation of income tax returns for another.
@@ -2477,7 +2477,7 @@ Violation of any provision of this subchapter shall be punishable by a civil pen
 
 
 
-*§ 20-740 Disclosure.* ::
+*§ 20-740 Disclosure.*
 
 
 a. A tax preparer who is required, pursuant to federal, state or local law or regulation, to sign income tax returns as a preparer shall prominently and conspicuously post on the business premises an identification and qualification statement. The statement shall include, but is not limited to, the name of the tax preparer, an address and phone number at which the tax preparer can be contacted throughout the year, and a statement of any qualifications possessed by the tax preparer, which may include a statement of satisfactory completion of an educational or training program in income tax law, theory or practice by the preparer.
@@ -2489,7 +2489,7 @@ b. The tax preparer shall provide the customer with a receipt containing an addr
 
 
 
-*§ 20-740.1 Consumer bill of rights regarding tax preparers.* ::
+*§ 20-740.1 Consumer bill of rights regarding tax preparers.*
 
 
 a. No later than the fifteenth of October of each year, the department shall produce and publish in the city record a one page informational flier regarding consumers' rights and laws concerning tax preparers to be called a "consumer bill of rights regarding tax preparers". The flier shall be in a form which is easily reproducible by photocopy machine and shall contain information including, but not limited to, the following:
@@ -2519,7 +2519,7 @@ b. The department shall publicize the availability of the flier. The department 
 
 
 
-*§ 20-741 Records.* ::
+*§ 20-741 Records.*
 
 
 No tax preparer shall intentionally misstate or misrepresent any information relating to his or her education, training or experience on an identification and qualification statement. A tax preparer shall maintain records to substantiate all of the information contained on such a statement; provided, however, that an affidavit signed by the tax preparer indicating that the information contained on a statement is true shall be sufficient to substantiate any information if other records are not available. Such records and/or affidavit shall be kept on file on the business premises and shall be presented on demand for inspection by the commissioner.
@@ -2529,7 +2529,7 @@ No tax preparer shall intentionally misstate or misrepresent any information rel
 
 
 
-*§ 20-741.1 Refund anticipation loans.* ::
+*§ 20-741.1 Refund anticipation loans.*
 
 
 1. Any tax preparer who advertises the availability of a refund anticipation loan may not directly or indirectly represent such a loan as a refund. Any advertisement which mentions a refund anticipation loan must state conspicuously that it is a loan and that a fee or interest will be charged by the lending institution. The advertisement must also disclose the name of the lending institution.
@@ -2564,7 +2564,7 @@ It shall be the obligation of the tax preparer to complete the required disclosu
 
 
 
-*§ 20-742 Exemptions.* ::
+*§ 20-742 Exemptions.*
 
 
 Apart from § 20-741.1 and the accompanying penalties as listed in § 20-743, the provisions of this subchapter shall not apply to:
@@ -2588,7 +2588,7 @@ g. An agent enrolled to practice before the internal revenue service pursuant to
 
 
 
-*§ 20-743 Penalties.* ::
+*§ 20-743 Penalties.*
 
 
 Any person, partnership, corporation or other business entity who violates any provision of this subchapter or any of the regulations promulgated hereunder shall be liable for a civil penalty or not less than two hundred fifty dollars nor more than five hundred dollars for the first violation and for each succeeding violation a civil penalty of not less than five hundred dollars nor more than seven hundred fifty dollars; except that a person, partnership, corporation or other business entity shall not be subject to the civil penalty described above for a first-time violation of subdivision (a) of section 20-740 of this subchapter or any rule or regulation promulgated thereunder, if such person, partnership, corporation or other business entity proves to the satisfaction of the department, within thirty days of the issuance of the notice of violation and prior to the commencement of an adjudication of the violation, that the violation has been cured. The submission of proof of a cure shall be deemed an admission of liability for all purposes. The option of presenting proof that the violation has been cured shall be offered as part of any settlement offer made by the department to a person, partnership, corporation or other business entity who has received, for the first time, a notice of violation of subdivision (a) of section 20-740 of this subchapter or any rule or regulation issued thereunder. The department shall permit such proof to be submitted electronically or in person. A person, partnership, corporation or other business entity may seek review, in the department's administrative tribunal, of the determination that the person or entity has not submitted proof of a cure within fifteen days of receiving written notification of such determination.
@@ -2598,7 +2598,7 @@ Any person, partnership, corporation or other business entity who violates any p
 
 
 
-*§ 20-743.1 Civil Cause of Action.* ::
+*§ 20-743.1 Civil Cause of Action.*
 
 
 Any person claiming to be injured by the failure of a tax preparer to act in accordance with section 20-741.1 of this subchapter shall have a cause of action against such tax preparer in any court of competent jurisdiction for any or all of the following relief:
@@ -2621,7 +2621,7 @@ d. such other relief as a court may deem appropriate.
 
 
 
-*§ 20-744 Procurement or sale of tickets, reservations or passenger accommodations.* ::
+*§ 20-744 Procurement or sale of tickets, reservations or passenger accommodations.*
 
 
 a. It is hereby determined and declared that the price or charge for the procurement on behalf of another, by purchase or otherwise or upon the sale or resale, within the corporate limits of the city of New York, of tickets, reservations or passenger accommodations issued by any railroad, parlor or sleeping car owner or operator, steamship company, air line or bus line is a matter affected with a public interest and subject to the supervision of the authorities of said city for the purpose of safeguarding the public against fraud, extortion, exorbitant rates and similar abuses.
@@ -2652,7 +2652,7 @@ i. This subchapter shall not apply to tickets, reservations or passenger accommo
 
 
 
-*§ 20-745 Definitions.* ::
+*§ 20-745 Definitions.*
 
 
 For the purposes of this subchapter the following terms shall have the following meanings:
@@ -2670,7 +2670,7 @@ d. "Redeemer" means any person, other than a dealer or distributor, who demands 
 
 
 
-*§ 20-746 Sign required.* ::
+*§ 20-746 Sign required.*
 
 
 Every dealer shall post conspicuously a sign that summarizes the rights and obligations of redeemers pursuant to title ten of article twenty-seven of the environmental conservation law of the state of New York.
@@ -2680,7 +2680,7 @@ Every dealer shall post conspicuously a sign that summarizes the rights and obli
 
 
 
-*§ 20-747 Regulations.* ::
+*§ 20-747 Regulations.*
 
 
 The commissioner may adopt such rules and regulations as may be necessary to effectuate the purposes of this subchapter. Such regulations shall include, but not be limited to, defining the contents, size and location of the sign required by section 20-746 of this subchapter.
@@ -2690,7 +2690,7 @@ The commissioner may adopt such rules and regulations as may be necessary to eff
 
 
 
-*§ 20-748 Penalties.* ::
+*§ 20-748 Penalties.*
 
 
 Violation of this subchapter, or any regulation promulgated pursuant to it, shall be punishable by payment of a civil penalty not to exceed two hundred fifty dollars; except that a person shall not be subject to a civil penalty described above for a first-time violation of section 20-746 of this subchapter or any rule or regulation promulgated thereunder, if such person proves to the satisfaction of the department, within thirty days of the issuance of the notice of violation and prior to the commencement of an adjudication of the violation, that the violation has been cured. The submission of proof of a cure shall be deemed an admission of liability for all purposes. The option of presenting proof that the violation has been cured shall be offered as part of any settlement offer made by the department to a person who has received, for the first time, a notice of violation of section 20-746 of this subchapter or any rule or regulation promulgated thereunder. The department shall permit such proof to be submitted electronically or in person. A person may seek review, in the department's administrative tribunal, of the determination that the person has not submitted proof of a cure within fifteen days of receiving written notification of such determination.
@@ -2705,7 +2705,7 @@ Violation of this subchapter, or any regulation promulgated pursuant to it, shal
 
 
 
-*§ 20-749 Definitions.* ::
+*§ 20-749 Definitions.*
 
 
 (a) "Current selling price" means the regular price of a listed service, so that, in the absence of any special offer, the service would be given upon payment of the listed price.
@@ -2719,7 +2719,7 @@ Violation of this subchapter, or any regulation promulgated pursuant to it, shal
 
 
 
-*§ 20-750 Display of service prices.* ::
+*§ 20-750 Display of service prices.*
 
 
 (a) Every retail service establishment must post, at each counter or desk at which orders are placed and/or payment is made, a list conspicuously displaying the current selling price of the basic services provided. The list shall also disclose factors which may cause the price to be higher than the basic price, and the range of the possible additional charges when such variables pertain.
@@ -2733,7 +2733,7 @@ c. Notwithstanding any other law, rule or regulation, and in addition to any oth
 
 
 
-*§ 20-751 Disclosure of base prices.* ::
+*§ 20-751 Disclosure of base prices.*
 
 
 (a) Where the price of the service is calculated on a base fee plus labor and parts as determined by time and cost of materials, the base fee and the cost of labor per common unit of time shall be listed, and the list shall state that the cost of parts will be additional. The list shall also state that warranty information is available on request.
@@ -2745,7 +2745,7 @@ c. Notwithstanding any other law, rule or regulation, and in addition to any oth
 
 
 
-*§ 20-752 Regulations.* ::
+*§ 20-752 Regulations.*
 
 
 (a) The commissioner shall promulgate such regulations as shall be necessary to effectuate the purposes of this subchapter, including, but not limited to requirements as to the manner of display of service prices.
@@ -2757,7 +2757,7 @@ c. Notwithstanding any other law, rule or regulation, and in addition to any oth
 
 
 
-*§ 20-753 Penalties.* ::
+*§ 20-753 Penalties.*
 
 
 Any person who shall violate the provisions of this subchapter or the regulations promulgated pursuant to this subchapter shall, upon conviction thereof, pay a civil penalty or not less than fifty dollars and not more than two hundred and fifty dollars for the first offense and for each succeeding offense a penalty of not less than one hundred dollars nor more than five hundred dollars for each such violation; except that a person shall not be subject to the civil penalty described above for a first-time violation of subdivision c of section 20-750 of this subchapter or any rule or regulation promulgated thereunder, if such person proves to the satisfaction of the department, within thirty days of the issuance of the notice of violation and prior to the commencement of an adjudication of the violation, that the violation has been cured. The submission of proof of a cure shall be deemed an admission of liability for all purposes. The option of presenting proof that the violation has been cured shall be offered as part of any settlement offer made by the department to a person who has received, for the first time, a notice of violation of subdivision c of section 20-750 of this subchapter or any rule or regulation issued thereunder. The department shall permit such proof to be submitted electronically or in person. A person may seek review, in the department's administrative tribunal, of the determination that the person has not submitted proof of a cure within fifteen days of receiving written notification of such determination. For the purposes of this section, if on any single day the current selling price list is not displayed in accordance with this subchapter or the regulations promulgated pursuant to this subchapter, it shall be considered a single violation.
@@ -2772,7 +2772,7 @@ Any person who shall violate the provisions of this subchapter or the regulation
 
 
 
-*§ 20-755 Definitions.* ::
+*§ 20-755 Definitions.*
 
 
 For the purposes of this subchapter, the following definitions shall apply:
@@ -2790,7 +2790,7 @@ d. "Plain language description" means a description in commonly used words, cont
 
 
 
-*§ 20-756 Consumer invoices; required disclosure.* ::
+*§ 20-756 Consumer invoices; required disclosure.*
 
 
 a. Any invoice provided to the consumer of a delayed payment transaction shall separately disclose each item or service for which the consumer is being billed, including the following specific disclosures:
@@ -2818,7 +2818,7 @@ b. Where an itemized receipt or, in the case of a food store, a cash register ta
 
 
 
-*§ 20-757 Unsolicited offers.* ::
+*§ 20-757 Unsolicited offers.*
 
 
 Offers for goods or services shall not appear on any invoice for a delayed payment transaction unless the customer has previously agreed to receive such offers. Where the consumer has so agreed, and the item listed is an offer, the invoice must state in letters of point size equal to that of the amount to be charged, "This is an offer." No offers shall be included in the total amount due and payable, but must be separately itemized and totalled.
@@ -2828,7 +2828,7 @@ Offers for goods or services shall not appear on any invoice for a delayed payme
 
 
 
-*§ 20-758 Violations.* ::
+*§ 20-758 Violations.*
 
 
 Any provider or agent or employee thereof who shall violate any of the provisions of this subchapter, upon conviction thereof, shall be punishable by a fine of not more than five hundred dollars ($500), and shall be liable for a civil penalty of one hundred dollars ($100) for each violation.
@@ -2843,7 +2843,7 @@ Any provider or agent or employee thereof who shall violate any of the provision
 
 
 
-*§ 20-760 Tobacco product promotion restriction.* ::
+*§ 20-760 Tobacco product promotion restriction.*
 
 
 a. It shall be unlawful for any person to offer or cause to be offered a tobacco product promotion, as defined in section 27-508.2 of this code, to any person younger than eighteen years of age.
@@ -2864,7 +2864,7 @@ d. Nothing in this subchapter shall be deemed to prohibit sponsorship of or at e
 
 
 
-*§ 20-762 Motorized Scooters.* ::
+*§ 20-762 Motorized Scooters.*
 
 
 a. For purposes of this section, a motorized scooter shall have the definition set forth in section 19-176.2 of this code.
@@ -2885,7 +2885,7 @@ d. Any motorized scooter that has been used or is being used in violation of the
 
 
 
-*§ 20-770 Application.* ::
+*§ 20-770 Application.*
 
 
 The provisions of this subchapter shall apply to all employment agencies, as defined in section 171 of article 11 of the general business law, which arrange employment for domestic or household employees.
@@ -2895,7 +2895,7 @@ The provisions of this subchapter shall apply to all employment agencies, as def
 
 
 
-*§ 20-771 Statement of employee rights and employer obligations under city, state and federal law.* ::
+*§ 20-771 Statement of employee rights and employer obligations under city, state and federal law.*
 
 
 a. Every licensed employment agency under the jurisdiction of the commissioner and engaged in the job placement of domestic or household employees shall provide to each applicant for employment as a domestic or household employee and his or her prospective employer, before job placement is arranged, a written statement indicating the rights of such employee and the obligations of his or her employer under city, state and federal law. Such statement of rights and obligations shall embody provisions of city, state and federal laws that pertain to domestic or household employees, both in their capacity as workers in New York city, New York state and the United States and in their capacity specifically as domestic or household employees in New York city, New York state and the United States. Such statement of rights and obligations shall include, but not be limited to, a general description of employee rights and employer obligations pursuant to laws regarding minimum wage, overtime and hours of work, sick time, days of rest, record keeping, social security payments, unemployment insurance coverage, disability insurance coverage and workers' compensation. Such statement of rights and obligations shall be prepared and distributed by the commissioner to licensed employment agencies over which the commissioner has jurisdiction.
@@ -2907,7 +2907,7 @@ b. Every employment agency engaged in the job placement of domestic or household
 
 
 
-*§ 20-772 Statement of job conditions; records.* ::
+*§ 20-772 Statement of job conditions; records.*
 
 
 a. Every licensed employment agency under the jurisdiction of the commissioner and engaged in the job placement of domestic or household employees shall provide to each applicant for employment as a domestic or household employee a written statement, in a form approved by the commissioner, of the job conditions of each potential employment position to which the agency recommends that the applicant apply. Each such statement shall fully and accurately describe the nature and terms of employment, including the name and address of the person to whom the applicant is to apply for such employment, the name and address of the person authorizing the hiring for such position, wages, hours of work, the kind of services to be performed and agency fee.
@@ -2919,7 +2919,7 @@ b. Every employment agency engaged in the job placement of domestic or household
 
 
 
-*§ 20-773 Enforcement.* ::
+*§ 20-773 Enforcement.*
 
 
 In order to implement and carry out the requirements of this subchapter, the commissioner or his or her duly authorized agent or inspector shall have the same authority as set forth in section 189 of article 11 of the general business law.
@@ -2929,7 +2929,7 @@ In order to implement and carry out the requirements of this subchapter, the com
 
 
 
-*§ 20-774 Violations.* ::
+*§ 20-774 Violations.*
 
 
 Any person who violates, and the officers of a corporation and stockholders holding ten percent or more of the stock of a corporation which is not publicly traded, who knowingly permit the corporation to violate, subdivisions (a) and (b) of sections 20-771 and 20- 20-772 of this subchapter shall be guilty of a misdemeanor and upon conviction shall be subject to a fine not to exceed one thousand dollars, or imprisonment for not more than one year, or both, by any court of competent jurisdiction. Criminal proceedings based upon violations of such subdivisions may be instituted by the commissioner and/or any persons aggrieved by such violations.
@@ -2944,7 +2944,7 @@ Any person who violates, and the officers of a corporation and stockholders hold
 
 
 
-*§ 20-775 Definitions.* ::
+*§ 20-775 Definitions.*
 
 
 For the purpose of this subchapter, the following terms have the following meanings:
@@ -2974,7 +2974,7 @@ b. "Provider" means any person, including but not limited to a corporation, part
 
 
 
-*§ 20-776 Prohibited conduct.* ::
+*§ 20-776 Prohibited conduct.*
 
 
 In the course of providing immigration assistance services, no provider may:
@@ -3012,7 +3012,7 @@ m. Disclose any information to, or submit any forms or documents with, any third
 
 
 
-*§ 20-777 Written Agreement.* ::
+*§ 20-777 Written Agreement.*
 
 
 No immigration assistance services shall be provided until the customer has executed a written contract with the provider. The contract shall be in a language understood by the customer, either alone or with the assistance of an interpreter, and, if that language is not English, an English language version of the contract must also be provided. A copy of the contract shall be provided to the customer immediately upon the customer's execution of the contract. The interpreter shall provide an attestation affirming the accuracy of the translation, to be attached to the contract. The customer has the right to cancel the contract within three business days after his or her execution of the contract, without fee or penalty. The right to cancel the contract within three days without payment of any fee may be waived when services must be provided immediately to avoid a forfeiture of eligibility or other loss of rights or privileges, and the customer furnishes the provider with a separate dated and signed statement, by the customer or his or her representative, describing the need for services to be provided within three days and expressly acknowledging and waiving the right to cancel the contract within three days. The contract may be cancelled at any time after execution. If the contract is cancelled more than three days after execution, or within three days after execution if the right to cancel without fee has been waived, the provider may retain fees for services rendered, and any additional amounts actually expended on behalf of the customer. All other amounts must be returned to the customer within fifteen days after cancellation. The written contract shall be in plain language, in at least twelve point font and shall include the following:
@@ -3052,7 +3052,7 @@ No immigration assistance services shall be provided until the customer has exec
 
 
 
-*§ 20-777.1 Posting of Signs.* ::
+*§ 20-777.1 Posting of Signs.*
 
 
 a. A provider must post signs conspicuously at every location where that provider meets with customers. Such signs shall be made available by the department in English and in the top six limited English proficiency languages spoken by the population of New York city as determined by the department of the city planning and the office of the language services coordinator, based on United States census data. Providers shall post such signs in English and in any language in which services are offered by the provider. To the extent the department has made available a sign in a language required to be posted by such provider, such provider must use such sign. There shall be a separate sign for each language, and each sign shall be posted in a location where it will be visible to customers. Such signs shall state the following: "THE INDIVIDUAL PROVIDING ASSISTANCE TO YOU UNDER THIS CONTRACT IS NOT AN ATTORNEY LICENSED TO PRACTICE LAW OR ACCREDITED BY THE UNITED STATES DEPARTMENT OF JUSTICE TO PROVIDE REPRESENTATION TO YOU BEFORE THE UNITED STATES CITIZENSHIP AND IMMIGRATION SERVICES, THE EXECUTIVE OFFICE FOR IMMIGRATION REVIEW, THE DEPARTMENT OF HOMELAND SECURITY, THE DEPARTMENT OF JUSTICE, THE DEPARTMENT OF LABOR, THE DEPARTMENT OF STATE OR ANY IMMIGRATION AUTHORITIES AND MAY NOT GIVE LEGAL ADVICE OR ACCEPT FEES FOR LEGAL ADVICE. FOR A FREE LEGAL REFERRAL CALL THE OFFICE FOR NEW AMERICANS HOTLINE AT (PHONE NUMBER OF THE OFFICE FOR NEW AMERICANS). TO FILE A COMPLAINT ABOUT AN IMMIGRATION ASSISTANCE SERVICE PROVIDER CALL NEW YORK STATE OFFICE FOR NEW AMERICANS AT (PHONE NUMBER OF THE OFFICE FOR NEW AMERICANS), THE NEW YORK STATE OFFICE OF THE ATTORNEY GENERAL AT (PHONE NUMBER OF THE OFFICE OF THE ATTORNEY GENERAL), OR YOUR LOCAL DISTRICT ATTORNEY OR PROSECUTOR'S OFFICE AT (PHONE NUMBER OF THE DISTRICT ATTORNEY IN THE COUNTY WHERE THE PROVIDER PROVIDES SERVICES)." The provider shall be responsible for providing the most recent and accurate information required by this section. A separate sign shall be posted in a location visible to customers in conspicuous size font and that contains the schedule of fees for services offered and the statement: "YOU MAY CANCEL ANY CONTRACT WITHIN 3 BUSINESS DAYS AND GET BACK YOUR DOCUMENTS AND ANY MONEY YOU PAID."
@@ -3066,7 +3066,7 @@ b. Signs required by this section must be at least 11 inches by 17 inches, in no
 
 
 
-*§ 20-777.2 Advertisements.* ::
+*§ 20-777.2 Advertisements.*
 
 
 a. Every provider who advertises immigration assistance services by signs, pamphlets, newspapers or any other means shall post or otherwise include with the advertisement a notice in English and in the language in which the advertisement appears. The notice must be of a conspicuous size and must state: "The individual offering to provide immigration assistance services is not an attorney licensed to practice law or accredited by the United States department of justice to provide representation before the United States citizenship and immigration services, the executive office for immigration review, the department of homeland security, the department of justice, the department of labor, the department of state or any immigration authorities and may not give legal advice or accept fees for legal advice."
@@ -3080,7 +3080,7 @@ b. No advertisement for immigration assistance services may expressly or implici
 
 
 
-*§ 20-778 Document Retention.* ::
+*§ 20-778 Document Retention.*
 
 
 Every provider shall retain copies of all documents prepared or obtained in connection with a customer's request for assistance for a period of three years after a written contract is executed by the provider and the customer, whether or not such contract is subsequently cancelled.
@@ -3092,7 +3092,7 @@ Every provider shall retain copies of all documents prepared or obtained in conn
 
 
 
-*§ 20-779 Surety.* ::
+*§ 20-779 Surety.*
 
 
 Unless otherwise required by New York state law, every provider must maintain in full force and effect, for the entire period during which the provider provides immigration assistance services and for one year after the provider ceases to do business as a provider of immigration assistance services, a bond, contract of indemnity, or irrevocable letter of credit, payable to the people of the city of New York, in the principal amount of fifty thousand dollars. Such surety shall be for the benefit of any person who does not receive a refund of fees from the provider to which he or she is entitled, or is otherwise injured by the provider. The Commissioner on behalf of the person or the person in his or her own name may maintain an action against the provider and the surety.
@@ -3104,7 +3104,7 @@ Unless otherwise required by New York state law, every provider must maintain in
 
 
 
-*§ 20-779.1 Penalties.* ::
+*§ 20-779.1 Penalties.*
 
 
 a. (1) Criminal Penalties. Any provider who violates any provision of this subchapter shall be guilty of a class A misdemeanor.
@@ -3120,7 +3120,7 @@ b. A proceeding to recover any civil penalty authorized pursuant to the provisio
 
 
 
-*§ 20-779.2 Civil Cause of Action.* ::
+*§ 20-779.2 Civil Cause of Action.*
 
 
 Any person claiming to be injured by the failure of a provider of immigration assistance services to comply with the provisions of this subchapter shall have a cause of action against such provider of immigration assistance services in any court of competent jurisdiction for any or all of the following relief:
@@ -3140,7 +3140,7 @@ d. such other relief as a court deems appropriate.
 
 
 
-*§ 20-779.3 Rules.* ::
+*§ 20-779.3 Rules.*
 
 
 The commissioner may promulgate such rules and regulations as are necessary for the purposes of implementing and carrying out the provisions of this subchapter. Upon a finding by the commissioner that the requirements of state law applicable to providers of immigration services are substantially the same as the requirements of this subchapter, compliance with state law shall be deemed to be compliance with the requirements of this subchapter.
@@ -3152,7 +3152,7 @@ The commissioner may promulgate such rules and regulations as are necessary for 
 
 
 
-*§ 20-779.4 Severability.* ::
+*§ 20-779.4 Severability.*
 
 
 If any section, subsection, sentence, clause, phrase or other portion of this subchapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction, such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which shall continue in full force and effect.
@@ -3164,7 +3164,7 @@ If any section, subsection, sentence, clause, phrase or other portion of this su
 
 
 
-*§ 20-779.5 Reporting.* ::
+*§ 20-779.5 Reporting.*
 
 
 a. In conjunction with the mayor’s office of immigrant affairs, the department shall prepare and submit to the mayor and the speaker of the city council a report that includes the following information related to providers of immigration assistance services:
@@ -3196,7 +3196,7 @@ b. Such report shall be submitted on or before October 1, 2017 and every six mon
 
 
 
-*§ 20-779.6 Community Outreach and Education.* ::
+*§ 20-779.6 Community Outreach and Education.*
 
 
 a. In conjunction with the mayor’s office of immigrant affairs, the department shall engage in community outreach and education efforts to raise awareness about topics including but not limited to common fraudulent schemes committed by providers of immigration assistance services and the department’s complaint mechanisms and services.
@@ -3208,7 +3208,7 @@ a. In conjunction with the mayor’s office of immigrant affairs, the department
 
 
 
-*§ 20-779.7 Consumer Bill of Rights.* ::
+*§ 20-779.7 Consumer Bill of Rights.*
 
 
 a. In conjunction with the mayor’s office of immigrant affairs, the department shall create a “Consumer Bill of Rights” for customers seeking assistance from providers of immigration assistance services. Such bill of rights shall be posted on the department’s website in English, as well as in the top six limited English proficiency languages spoken by the population of New York city as determined by the department of the city planning and the office of the language services coordinator, based on United States census data.
@@ -3225,7 +3225,7 @@ a. In conjunction with the mayor’s office of immigrant affairs, the department
 
 
 
-*§ 20-780 Definitions.* ::
+*§ 20-780 Definitions.*
 
 
 a. "Person" shall mean any individual, firm, partnership, trust, association, corporation or other legal entity. This term shall not include any individual, firm, partnership, trust, association, corporation or other legal entity that accepts federally insured deposits, such as national banks, state-chartered banks, or savings and loan associations, or any individual, firm, partnership, trust, association, corporation or other legal entity regulated by or subject to the rules and regulations of the Board of Governors of the Federal Reserve System, Office of the Comptroller of the Currency, Federal Deposit Insurance Corporation or Office of Thrift Supervision of the Department of the Treasury.
@@ -3237,7 +3237,7 @@ b. "Payday loan," also known as, among other terms, "deferred deposit advances,"
 
 
 
-*§ 20-781 Disclosure of loan information.* ::
+*§ 20-781 Disclosure of loan information.*
 
 
 Before any consumer enters into a payday loan, the person offering, providing, or facilitating such loan shall provide to the consumer in writing all disclosure required pursuant to the federal Truth in Lending Act in addition to the following disclosure, in English and Spanish, in at least 20-point type:
@@ -3267,7 +3267,7 @@ It shall be the obligation of the person offering, providing, or facilitating th
 
 
 
-*§ 20-782 Consumer information.* ::
+*§ 20-782 Consumer information.*
 
 
 Not later than the first day of February of the year two thousand and five and on a quarterly basis thereafter, not later than February first, May first, August first, and November first of each year, any person offering, providing, or facilitating a payday loan in New York city shall submit to the department of consumer affairs and the council the residential zipcode of each consumer who lives within the city boundaries and has entered into a payday loan during the immediately preceding quarter.
@@ -3277,7 +3277,7 @@ Not later than the first day of February of the year two thousand and five and o
 
 
 
-*§ 20-783 Penalties.* ::
+*§ 20-783 Penalties.*
 
 
 Any person who shall violate any of the provisions of this subchapter shall be subject to a civil penalty of not less than two hundred fifty dollars nor more than one thousand dollars for each violation.
@@ -3287,7 +3287,7 @@ Any person who shall violate any of the provisions of this subchapter shall be s
 
 
 
-*§ 20-784 Hearing authority.* ::
+*§ 20-784 Hearing authority.*
 
 
 (1) Notwithstanding any other provision of law, the department shall be authorized upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-783 of this subchapter for each such violation. All proceedings authorized pursuant to this subdivision shall be conducted in accordance with rules promulgated by the commissioner. The remedies and penalties provided for in this subdivision shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
@@ -3304,7 +3304,7 @@ Any person who shall violate any of the provisions of this subchapter shall be s
 
 
 
-*§ 20-800 Definitions.* ::
+*§ 20-800 Definitions.*
 
 
 a. "Child care provider" means any individual, association, corporation, partnership, institution, organization or agency that has obtained a license, registration certificate or permit, pursuant to section 390 of the New York state social services law or articles 5 and 47 of title 24 of the rules of the city** New York, to provide child day care services or to operate a facility where child day care is provided.
@@ -3346,7 +3346,7 @@ g. "Summary day care service inspection report" is a document that includes, at 
 
 
 
-*§ 20-801 Posting of information.* ::
+*§ 20-801 Posting of information.*
 
 
 Every child care provider must post a sign in a conspicuous place near its public entrance or entrances stating that the most recent child care inspection report for the provider may be accessed through the website of the department of health and mental hygiene or the website of the New York state office of children and family services. At a minimum, the sign must contain the name of the child care provider, the address and license or registration number of the child care provider and maximum capacity of the child care facility and the number of staff employed by the child care facility as required by law or regulation. The sign must be printed in clear and legible type, in such a manner as to be readily visible to customers and must indicate how to gain access to child care inspection reports through the department's website.
@@ -3356,7 +3356,7 @@ Every child care provider must post a sign in a conspicuous place near its publi
 
 
 
-*§ 20-802 Informational materials.* ::
+*§ 20-802 Informational materials.*
 
 
 Every child care provider must include, along with informational or application materials, a copy of the most recent summary day care service inspection report. In addition, informational or application materials furnished to parents and prospective parents shall explicitly state the maximum capacity of the child care facility and the number of staff employed by the child care facility as required by law or regulation.
@@ -3366,7 +3366,7 @@ Every child care provider must include, along with informational or application 
 
 
 
-*§ 20-803 Notice of violations.* ::
+*§ 20-803 Notice of violations.*
 
 
 Any child care provider that has been notified by the New York state office of children and family services or by the New York city department of health and mental hygiene that it has been cited for having a serious violation of licensing, registration or permit requirements of either section 390 of the New York state social services law or the regulations promulgated thereunder or articles 5 and 47 of title 24 of the New York city health code, must notify the parents of children receiving care from the child care provider that the child care provider is in violation of the licensing, registration or permit requirements within 24 hours of receiving such notification. The requirement of this provision may be satisfied by posting a sign on the front door of the child care facility for at least one week after such notification or by furnishing a copy of the report specifically noting the violation to all parents of children receiving care from the child care provider.
@@ -3376,7 +3376,7 @@ Any child care provider that has been notified by the New York state office of c
 
 
 
-*§ 20-804 Penalties.* ::
+*§ 20-804 Penalties.*
 
 
 Any child care provider who violates any provision of this subchapter or any rule or regulation promulgated hereunder shall be liable for a civil penalty of not less than two hundred dollars nor more than one thousand dollars for each violation.
@@ -3386,7 +3386,7 @@ Any child care provider who violates any provision of this subchapter or any rul
 
 
 
-*§ 20-805 Rules.* ::
+*§ 20-805 Rules.*
 
 
 The commissioner shall have the authority to promulgate such rules and regulations as the commissioner shall deem necessary to implement the provisions of this subchapter.
@@ -3396,7 +3396,7 @@ The commissioner shall have the authority to promulgate such rules and regulatio
 
 
 
-*§ 20-806 Severability.* ::
+*§ 20-806 Severability.*
 
 
 If any section, subsection, sentence, clause, phrase or other portion of this subchapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction, such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which shall continue in full force and effect.
@@ -3411,7 +3411,7 @@ If any section, subsection, sentence, clause, phrase or other portion of this su
 
 
 
-*§ 20-807 Definitions.* ::
+*§ 20-807 Definitions.*
 
 
 For purposes of this subchapter, the following definitions shall apply:
@@ -3429,7 +3429,7 @@ d. "Tenant screening report" means any written, oral, or other communication of 
 
 
 
-*§ 20-808 Disclosure.* ::
+*§ 20-808 Disclosure.*
 
 
 a. Any person who requests application information directly from a prospective tenant or tenants or such tenant(s)' agent or agents shall disclose to the prospective tenant or tenants the following:
@@ -3457,7 +3457,7 @@ b. If application information is requested in writing, the statements required b
 
 
 
-*§ 20-809 Posting of signs.* ::
+*§ 20-809 Posting of signs.*
 
 
 a. Any person requesting application information from a prospective tenant or tenants shall post a sign, the form and manner of which shall be determined by rule of the commissioner, in any location at which the principal purpose is conducting business transactions pertaining to the rental of residential real estate properties. Such sign shall be posted in a location visible to potential subjects of such reports and shall disclose in conspicuous size type the name and address of all consumer reporting agencies used. Such sign shall also contain a statement that consumers are entitled to one free tenant screening report from each consumer reporting agency annually and may dispute inaccurate or incorrect information contained in such tenant screening report directly with the consumer reporting agency.
@@ -3469,7 +3469,7 @@ b. A person requesting application information who has the right to rent or leas
 
 
 
-*§ 20-810 Violations.* ::
+*§ 20-810 Violations.*
 
 
 A person violating sections 20-808 or 20-809 of this subchapter shall be subject to a civil penalty of not less than two hundred fifty dollars nor more than five hundred dollars for the first violation; except that a person shall not be subject to the civil penalty described above for a first-time violation of section 20-809 of this subchapter or any rule or regulation promulgated thereunder, if such person proves to the satisfaction of the department, within thirty days of the issuance of the notice of violation and prior to the commencement of an adjudication of the violation, that the violation has been cured. The submission of proof of a cure shall be deemed an admission of liability for all purposes. The option of presenting proof that the violation has been cured shall be offered as part of any settlement offer made by the department to a person who has received, for the first time, a notice of violation of section 20-809 of this subchapter or any rule or regulation promulgated thereunder. The department shall permit such proof to be submitted electronically or in person. A person may seek review, in the department's administrative tribunal, of the determination that the person has not submitted proof of a cure within fifteen days of receiving written notification of such determination.
@@ -3479,7 +3479,7 @@ A person violating sections 20-808 or 20-809 of this subchapter shall be subject
 
 
 
-*§ 20-811 Hearing authority.* ::
+*§ 20-811 Hearing authority.*
 
 
 a. Notwithstanding any other provision of law, the department shall be authorized, upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter and any rules promulgated thereunder. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-810 of this subchapter for each such violation. All proceedings authorized pursuant to this section shall be conducted in accordance with rules promulgated by the commissioner. The penalties provided for in section 20-810 of this subchapter shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
@@ -3496,7 +3496,7 @@ b. All proceedings under this subchapter shall be commenced by the service of a 
 
 
 
-*§ 20-815 Definitions.* ::
+*§ 20-815 Definitions.*
 
 
 For the purposes of this subchapter, the following terms shall have the following meanings:
@@ -3524,7 +3524,7 @@ i. "Prenatal care" shall mean services consisting of physical examination, pelvi
 
 
 
-*§ 20-816 Required disclosures.* ::
+*§ 20-816 Required disclosures.*
 
 
 a. A pregnancy services center shall disclose to a client that the New York City Department of Health and Mental Hygiene encourages women who are or who may be pregnant to consult with a licensed medical provider.
@@ -3548,7 +3548,7 @@ f. The disclosures required by this section must be provided:
 
 
 
-*§ 20-817 Confidentiality of health and personal information.* ::
+*§ 20-817 Confidentiality of health and personal information.*
 
 
 a. All health information and personal information provided by a client in the course of inquiring about or seeking services at a pregnancy services center shall be treated as confidential and not disclosed to any other individual, company or organization unless such client, in writing, requests or consents to the release of such information, or disclosure is required by operation of law or court order.
@@ -3576,7 +3576,7 @@ d. Notwithstanding subdivisions a and b of this section, if any pregnancy servic
 
 
 
-*§ 20-818 Penalties.* ::
+*§ 20-818 Penalties.*
 
 
 a. Any pregnancy services center that violates the provisions of sections 20-816 or 20-817 of this subchapter or any rules or regulations promulgated thereunder shall be liable for a civil penalty of not less than two hundred dollars nor more than one thousand dollars for the first violation and a civil penalty of not less than five hundred dollars nor more than two thousand-five hundred dollars for each succeeding violation.
@@ -3598,7 +3598,7 @@ c. For the purposes of this section, all violations committed on any one day by 
 
 
 
-*§ 20-819 Hearing authority.* ::
+*§ 20-819 Hearing authority.*
 
 
 a. Notwithstanding any other provision of law, the department shall be authorized, upon due notice and hearing, to impose civil penalties for the violation of the provisions of this subchapter and any rules promulgated thereunder. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-818 of this subchapter for each such violation. All proceedings authorized pursuant to this section shall be conducted in accordance with rules promulgated by the commissioner. The penalties provided for in section 20-818 of this subchapter shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
@@ -3610,7 +3610,7 @@ b. All proceedings under this subchapter shall be commenced by the service of a 
 
 
 
-*§ 20-820 Civil cause of action.* ::
+*§ 20-820 Civil cause of action.*
 
 
 Any person claiming to be injured by the failure of a pregnancy services center to comply with section 20-817 shall have a cause of action against such pregnancy services center in any court of competent jurisdiction for any or all of the following remedies: compensatory and punitive damages; injunctive and declaratory relief; attorney's fees and costs; and such other relief as a court deems appropriate.
@@ -3625,7 +3625,7 @@ Any person claiming to be injured by the failure of a pregnancy services center 
 
 
 
-*§ 20-821 Definitions.* ::
+*§ 20-821 Definitions.*
 
 
 For purposes of this subchapter, the following definitions shall apply:
@@ -3639,7 +3639,7 @@ b. "Person" means any natural person, firm, partnership, joint venture, corporat
 
 
 
-*§ 20-822 Prohibited conduct and violations.* ::
+*§ 20-822 Prohibited conduct and violations.*
 
 
 a. It shall be unlawful to sell or offer for sale, any over-the-counter medication, later than the date, if any, marked upon the label as indicative of the date beyond which the contents cannot be expected to be safe and effective.
@@ -3651,7 +3651,7 @@ b. Violations. A person violating section 20-822 of this subchapter shall be gui
 
 
 
-*§ 20-823 Enforcement.* ::
+*§ 20-823 Enforcement.*
 
 
 The department, the police department, and other agencies designated by the commissioner are authorized to enforce the provisions of this subchapter.
@@ -3666,7 +3666,7 @@ The department, the police department, and other agencies designated by the comm
 
 
 
-*§ 20-824 Definitions. [Repealed]* ::
+*§ 20-824 Definitions. [Repealed]*
 
 
 (L.L. 2018/022, 12/31/2017, eff. 4/30/2018; repealed L.L. 2019/188, 10/26/2019, retro eff. 9/12/19)
@@ -3676,7 +3676,7 @@ The department, the police department, and other agencies designated by the comm
 
 
 
-*§ 20-825 Prohibited conduct. [Repealed]* ::
+*§ 20-825 Prohibited conduct. [Repealed]*
 
 
 (L.L. 2018/022, 12/31/2017, eff. 4/30/2018; repealed L.L. 2019/188, 10/26/2019, retro eff. 9/12/19)
@@ -3686,7 +3686,7 @@ The department, the police department, and other agencies designated by the comm
 
 
 
-*§ 20-826 Enforcement. [Repealed]* ::
+*§ 20-826 Enforcement. [Repealed]*
 
 
 (L.L. 2018/022, 12/31/2017, eff. 4/30/2018; repealed L.L. 2019/188, 10/26/2019, retro eff. 9/12/19)
@@ -3696,7 +3696,7 @@ The department, the police department, and other agencies designated by the comm
 
 
 
-*§ 20-827 Rules and regulations. [Repealed]* ::
+*§ 20-827 Rules and regulations. [Repealed]*
 
 
 (L.L. 2018/022, 12/31/2017, eff. 4/30/2018; repealed L.L. 2019/188, 10/26/2019, retro eff. 9/12/19)
@@ -3711,7 +3711,7 @@ The department, the police department, and other agencies designated by the comm
 
 
 
-*§ 20-830 Definitions.* ::
+*§ 20-830 Definitions.*
 
 
 For purposes of this subchapter, the following terms have the following meanings:
@@ -3731,7 +3731,7 @@ Premium or compensation. The term “premium or compensation” means “premium
 
 
 
-*§ 20-831 Disclosures related to bail bonds.* ::
+*§ 20-831 Disclosures related to bail bonds.*
 
 
 a. The department shall produce a consumer bill of rights regarding bail bond agents. The department shall provide the consumer bill of rights in a downloadable format on the department’s website in English and in the designated citywide languages. The consumer bill of rights shall include, but need not be limited to, the following information:
@@ -3791,7 +3791,7 @@ g. A bail bond agent shall maintain records of the names of any persons employed
 
 
 
-*§ 20-832 Disclosure of premium or compensation for bail bond services.* ::
+*§ 20-832 Disclosure of premium or compensation for bail bond services.*
 
 
 a. A bail bond agent shall post in a conspicuous manner, at the location where transactions are executed, a sign, to be produced by the department and made available online, that shall contain, at a minimum, the following information:
@@ -3813,7 +3813,7 @@ b. The department shall make information available to inform consumers of their 
 
 
 
-*§ 20-833 Rules.* ::
+*§ 20-833 Rules.*
 
 
 The department is authorized to promulgate such rules as it deems necessary to implement and enforce the provisions of this subchapter.
@@ -3825,7 +3825,7 @@ The department is authorized to promulgate such rules as it deems necessary to i
 
 
 
-*§ 20-835 Civil penalties.* ::
+*§ 20-835 Civil penalties.*
 
 
 a. Any person that violates any provision of this subchapter or any rule promulgated pursuant to this subchapter is liable for a civil penalty of not less than $500 nor more than $5,000 for each violation. A proceeding to recover any civil penalty authorized pursuant to this subchapter is returnable to any tribunal established within the office of administrative trials and hearings or within any agency of the city designated to conduct such proceedings.
@@ -3838,11 +3838,11 @@ b. A bail bond business that is party to a transaction in which a violation occu
 
 
 Chapter 6: No-fault Insurance Medical Clinics
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 20-900 Definitions.* ::
+*§ 20-900 Definitions.*
 
 
 For the purposes of this chapter, the following terms shall have the following meanings:
@@ -3876,7 +3876,7 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 
-*§ 20-901 Reports.* ::
+*§ 20-901 Reports.*
 
 
 a. Where fifty percent or more of the billings for medical benefits filed by any clinic within the preceding twelve months were no-fault motor vehicle insurance medical claims, the owner of such clinic shall submit a report to the department pursuant to paragraph c of this subdivision.
@@ -3890,7 +3890,7 @@ c. Beginning December 1, 2006, any report to the department required by this sec
 
 
 
-*§ 20-902 Prohibited acts.* ::
+*§ 20-902 Prohibited acts.*
 
 
 a. No owner of a no-fault insurance medical clinic shall use, solicit, direct, hire or employ any runner.
@@ -3902,7 +3902,7 @@ b. No person shall act as a runner.
 
 
 
-*§ 20-903 Rules.* ::
+*§ 20-903 Rules.*
 
 
 The commissioner shall promulgate any rules as may be necessary for the purposes of implementing and enforcing this chapter.
@@ -3912,7 +3912,7 @@ The commissioner shall promulgate any rules as may be necessary for the purposes
 
 
 
-*§ 20-904 Violations and penalties.* ::
+*§ 20-904 Violations and penalties.*
 
 
 a. Any person who violates section 20-901 of this chapter shall be subject to a civil penalty of not less than one thousand dollars nor more than ten thousand dollars for each violation; provided, however, that the commissioner shall issue a written warning in lieu of a civil penalty where the commissioner finds that such person violated such section due to his or her reasonable belief that the percentage of billings for no-fault motor vehicle insurance medical claims filed by his or her clinic or clinics was not at or above fifty percent during the preceding twelve months.
@@ -3928,7 +3928,7 @@ d. Nothing in this section shall be construed to limit the imposition of any oth
 
 
 
-*§ 20-905 Enforcement.* ::
+*§ 20-905 Enforcement.*
 
 
 The department shall enforce the provisions of this chapter. A proceeding to recover any civil penalty authorized pursuant to section 20-904 of this chapter shall be commenced by the service of a notice of violation returnable to the administrative tribunal of the department. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged. The administrative tribunal shall have the power to render decisions and to impose the remedies and penalties provided for in section 20-904 of this chapter, in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
@@ -3937,11 +3937,11 @@ The department shall enforce the provisions of this chapter. A proceeding to rec
 
 
 Chapter 7: Energy
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 20-910 Air conditioning prohibitions.* ::
+*§ 20-910 Air conditioning prohibitions.*
 
 
 a. For the purposes of this section, the following terms shall have the following meanings:
@@ -3978,11 +3978,11 @@ Editor's note: subdivision f of this § 20-910 became effective on 11/6/2015; se
 
 
 Chapter 8: Earned Safe and Sick Time Act.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 20-911 Short title.* ::
+*§ 20-911 Short title.*
 
 
 This chapter shall be known and may be cited as the “Earned Safe and Sick Time Act.”
@@ -3994,7 +3994,7 @@ This chapter shall be known and may be cited as the “Earned Safe and Sick Time
 
 
 
-*§ 20-912 Definitions.* ::
+*§ 20-912 Definitions.*
 
 
 When used in this chapter, the following terms shall be defined as follows:
@@ -4064,7 +4064,7 @@ When used in this chapter, the following terms shall be defined as follows:
 
 
 
-*§ 20-913 Right to safe/sick time; accrual.* ::
+*§ 20-913 Right to safe/sick time; accrual.*
 
 
 a. All employees have the right to safe/sick time pursuant to this chapter.
@@ -4100,7 +4100,7 @@ j. If an employee is transferred to a separate division, entity or location in t
 
 
 
-*§ 20-914 Use of safe/sick time.* ::
+*§ 20-914 Use of safe/sick time.*
 
 
 a. Sick time.
@@ -4150,7 +4150,7 @@ f. Nothing in this chapter shall be construed to prohibit an employer from takin
 
 
 
-*§ 20-915 Changing schedule.* ::
+*§ 20-915 Changing schedule.*
 
 
 Upon mutual consent of the employee and the employer, an employee who is absent for a reason listed in subdivision a of section 20-914 of this chapter may work additional hours during the immediately preceding seven days if the absence was foreseeable or within the immediately subsequent seven days from that absence without using safe/sick time to make up for the original hours for which such employee was absent, provided that an adjunct professor who is an employee at an institute of higher education may work such additional hours at any time during the academic term. An employer shall not require such employee to work additional hours to make up for the original hours for which such employee was absent or to search for or find a replacement employee to cover the hours during which the employee is absent pursuant to this section. If such employee works additional hours, and such hours are fewer than the number of hours such employee was originally scheduled to work, then such employee shall be able to use safe/sick time provided pursuant to this chapter for the difference. Should the employee work additional hours, the employer shall comply with any applicable federal, state or local labor laws.
@@ -4162,7 +4162,7 @@ Upon mutual consent of the employee and the employer, an employee who is absent 
 
 
 
-*§ 20-916 Collective bargaining agreements.* ::
+*§ 20-916 Collective bargaining agreements.*
 
 
 a. The provisions of this chapter shall not apply to any employee covered by a valid collective bargaining agreement if (i) such provisions are expressly waived in such collective bargaining agreement and (ii) such agreement provides for a comparable benefit for the employees covered by such agreement in the form of paid days off; such paid days off shall be in the form of leave, compensation, other employee benefits, or some combination thereof. Comparable benefits shall include, but are not limited to, vacation time, personal time, safe/sick time, and holiday and Sunday time pay at premium rates.
@@ -4176,7 +4176,7 @@ b. Notwithstanding subdivision a of this section, the provisions of this chapter
 
 
 
-*§ 20-917 Public disasters.* ::
+*§ 20-917 Public disasters.*
 
 
 In the event of a public disaster, the mayor may, for the length of such disaster, suspend the provisions of this chapter for businesses, corporations or other entities regulated by the public service commission.
@@ -4186,7 +4186,7 @@ In the event of a public disaster, the mayor may, for the length of such disaste
 
 
 
-*§ 20-918 Retaliation and interference prohibited.* ::
+*§ 20-918 Retaliation and interference prohibited.*
 
 
 No employer shall engage in retaliation or threaten retaliation against an employee for exercising or attempting to exercise any right provided pursuant to this chapter, or interfere with any investigation, proceeding or hearing pursuant to this chapter. The protections of this chapter shall apply to any person who mistakenly but in good faith alleges a violation of this chapter. Rights under this chapter shall include, but not be limited to, the right to request and use sick time, file a complaint for alleged violations of this chapter with the department, communicate with any person about any violation of this chapter, participate in any administrative or judicial action regarding an alleged violation of this chapter, or inform any person of his or her potential rights under this chapter.
@@ -4196,7 +4196,7 @@ No employer shall engage in retaliation or threaten retaliation against an emplo
 
 
 
-*§ 20-919 Notice of rights.* ::
+*§ 20-919 Notice of rights.*
 
 
 a. 1. An employer shall provide an employee either at the commencement of employment or within thirty days of the effective date of this section, whichever is later, with written notice of such employee's right to safe/sick pursuant to this chapter, including the accrual and use of safe/sick time, the calendar year of the employer, and the right to be free from retaliation and to bring a complaint to the department. Such notice shall be in English and the primary language spoken by that employee, provided that the department has made available a translation of such notice in such language pursuant to subdivision b of this section. Such notice may also be conspicuously posted at an employer's place of business in an area accessible to employees.
@@ -4214,7 +4214,7 @@ c. Any person or entity that willfully violates the notice requirements of this 
 
 
 
-*§ 20-920 Employer records.* ::
+*§ 20-920 Employer records.*
 
 
 Employers shall retain records documenting such employer's compliance with the requirements of this chapter for a period of three years unless otherwise required pursuant to any other law, rule or regulation, and shall allow the department to access such records, with appropriate notice and at a mutually agreeable time of day, in furtherance of an investigation conducted pursuant to this chapter.
@@ -4224,7 +4224,7 @@ Employers shall retain records documenting such employer's compliance with the r
 
 
 
-*§ 20-921 Confidentiality and nondisclosure.* ::
+*§ 20-921 Confidentiality and nondisclosure.*
 
 
 a. An employer may not require the disclosure of details relating to an employee's or his or her family member's medical condition or require the disclosure of details relating to an employee's or his or her family member's status as a victim of family offenses, sexual offenses, stalking, or human trafficking as a condition of providing safe/sick time under this chapter. Health information about an employee or an employee's family member, and information concerning an employee's or his or her family member's status or perceived status as a victim of family offenses, sexual offenses, stalking or human trafficking obtained solely for the purposes of utilizing safe/sick time pursuant to this chapter, shall be treated as confidential and shall not be disclosed except by the affected employee, with the written permission of the affected employee or as required by law. Provided, however, that nothing in this section shall preclude an employer from considering information provided in connection with a request for safe time in connection with a request for reasonable accommodation pursuant to subdivision 27 of section 8-107.
@@ -4236,7 +4236,7 @@ a. An employer may not require the disclosure of details relating to an employee
 
 
 
-*§ 20-922 Encouragement of more generous policies; no effect on more generous policies.* ::
+*§ 20-922 Encouragement of more generous policies; no effect on more generous policies.*
 
 
 a. Nothing in this chapter shall be construed to discourage or prohibit the adoption or retention of a safe time or sick time policy more generous than that which is required herein.
@@ -4252,7 +4252,7 @@ c. Nothing in this chapter shall be construed as diminishing the rights of publi
 
 
 
-*§ 20-923 Other legal requirements.* ::
+*§ 20-923 Other legal requirements.*
 
 
 a. This chapter provides minimum requirements pertaining to safe time and sick time and shall not be construed to preempt, limit or otherwise affect the applicability of any other law, regulation, rule, requirement, policy or standard that provides for greater accrual or use by employees of safe leave or time or sick leave or time, whether paid or unpaid, or that extends other protections to employees.
@@ -4266,7 +4266,7 @@ b. Nothing in this chapter shall be construed as creating or imposing any requir
 
 
 
-*§ 20-924 Enforcement and penalties.* ::
+*§ 20-924 Enforcement and penalties.*
 
 
 a. The department shall enforce the provisions of this chapter. In effectuating such enforcement, the department shall establish a system utilizing multiple means of communication to receive complaints regarding non-compliance with this chapter and investigate complaints received by the department in a timely manner.
@@ -4286,7 +4286,7 @@ f. The department shall annually report on its website the number and nature of 
 
 
 
-*§ 20-925 Designation of agency. [Repealed.]* ::
+*§ 20-925 Designation of agency. [Repealed.]*
 
 
 
@@ -4295,11 +4295,11 @@ f. The department shall annually report on its website the number and nature of 
 
 
 Chapter 9: Mass Transit Benefits
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 20-926 Election of qualified transportation benefits in lieu of taxable dollar compensation for certain non-governmental employees.* ::
+*§ 20-926 Election of qualified transportation benefits in lieu of taxable dollar compensation for certain non-governmental employees.*
 
 
 a. Except as provided in subdivision c of this section, every employer with twenty or more full-time employees in the city of New York shall offer full-time employees the opportunity to use pre-tax earnings to purchase qualified transportation fringe benefits, other than qualified parking, in accordance with federal law, provided that in the event that such employer's number of full-time employees is reduced to less than twenty, any employee eligible to be provided such opportunity prior to the employee reduction shall continue to be provided such opportunity for the duration of such employee's employment with such employer. For purposes of this section, "full-time employees" shall mean employees who work an average of thirty hours or more per week for such employer for such period of time as the commissioner establishes by rule.
@@ -4320,11 +4320,11 @@ Editor's note: the legislation that enacted this § 20-926 provides, in part, as
 
 
 Chapter 10: Freelance Workers
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 20-927 Definitions.* ::
+*§ 20-927 Definitions.*
 
 
 For purposes of this chapter, the following terms have the following meanings:
@@ -4350,7 +4350,7 @@ Office. The term "office" means the office of labor standards established pursua
 
 
 
-*§ 20-928 Written contract required.* ::
+*§ 20-928 Written contract required.*
 
 
 a. Whenever a hiring party retains the services of a freelance worker and the contract between them has a value of $800 or more, either by itself or when aggregated with all contracts for services between the same hiring party and freelance worker during the immediately preceding 120 days, the contract shall be reduced to writing. Each party to the written contract shall retain a copy thereof.
@@ -4372,7 +4372,7 @@ c. The director may by rule require additional terms to ensure that the freelanc
 
 
 
-*§ 20-929 Unlawful payment practices.* ::
+*§ 20-929 Unlawful payment practices.*
 
 
 a. Except as otherwise provided by law, the contracted compensation shall be paid to the freelance worker either:
@@ -4390,7 +4390,7 @@ b. Once a freelance worker has commenced performance of the services under the c
 
 
 
-*§ 20-930 Retaliation.* ::
+*§ 20-930 Retaliation.*
 
 
 No hiring party shall threaten, intimidate, discipline, harass, deny a work opportunity to or discriminate against a freelance worker, or take any other action that penalizes a freelance worker for, or is reasonably likely to deter a freelancer worker from, exercising or attempting to exercise any right guaranteed under this chapter, or from obtaining future work opportunity because the freelance worker has done so.
@@ -4402,7 +4402,7 @@ No hiring party shall threaten, intimidate, discipline, harass, deny a work oppo
 
 
 
-*§ 20-931 Complaint procedure; jurisdiction of director.* ::
+*§ 20-931 Complaint procedure; jurisdiction of director.*
 
 
 a. Complaint. A freelance worker who is aggrieved by a violation of this chapter may file a complaint with the director within two years after the acts alleged to have violated this chapter occurred. The director shall prescribe the form of the complaint, which shall include, at a minimum:
@@ -4464,7 +4464,7 @@ e. Response.
 
 
 
-*§ 20-932 Navigation program.* ::
+*§ 20-932 Navigation program.*
 
 
 a. The director shall establish a navigation program that provides information and assistance, as set forth in subdivision c of this section, relating to the provisions of this chapter. Such program shall include assistance by a natural person by phone and e-mail and shall also include online information.
@@ -4496,7 +4496,7 @@ e. The navigation program shall not provide legal advice.
 
 
 
-*§ 20-933 Civil action.* ::
+*§ 20-933 Civil action.*
 
 
 a. Cause of action.
@@ -4532,7 +4532,7 @@ b. Damages.
 
 
 
-*§ 20-934 Civil action for pattern or practice of violations.* ::
+*§ 20-934 Civil action for pattern or practice of violations.*
 
 
 a. Cause of action.
@@ -4556,7 +4556,7 @@ b. Civil penalty. In any civil action commenced pursuant to subdivision a of thi
 
 
 
-*§ 20-935 Application; waiver; effect on other laws.* ::
+*§ 20-935 Application; waiver; effect on other laws.*
 
 
 a. Except as otherwise provided by law, any provision of a contract purporting to waive rights under this chapter is void as against public policy.
@@ -4574,7 +4574,7 @@ d. No provision of this chapter shall be construed as providing a determination 
 
 
 
-*§ 20-936 Follow-up; data collection; reporting.* ::
+*§ 20-936 Follow-up; data collection; reporting.*
 
 
 a. No later than six months after the director sends to a freelance worker either a hiring party's response and accompanying materials or a notice of non-response pursuant to paragraph 2 or 3 of subdivision e of section 20-931, the director shall send the freelance worker a survey requesting additional information about the resolution of the freelance worker's claims. Such survey shall ask whether or not the freelance worker pursued any such claims in court or through an alternative dispute resolution process and whether or not the hiring party ultimately paid any or all of the compensation the freelance worker alleged was due or if the matter was resolved in a different manner. Such survey shall state clearly that response to the survey is voluntary.
@@ -4611,11 +4611,11 @@ c. One year after the effective date of the local law that added this chapter, a
 
 
 Chapter 13: Pay Deductions for Contributions to Not-for-profit Organizations
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 20-1301 Definitions.* ::
+*§ 20-1301 Definitions.*
 
 
 For purposes of this chapter, the following terms have the following meanings:
@@ -4653,7 +4653,7 @@ Office. The term "office" means the office of labor standards established pursua
 
 
 
-*§ 20-1302 Requirement to deduct and remit voluntary contributions to not-for-profits.* ::
+*§ 20-1302 Requirement to deduct and remit voluntary contributions to not-for-profits.*
 
 
 a. A fast food employer shall, upon authorization from a fast food employee and upon receipt of a registration letter as provided in subdivision b of section 20-1303 pertaining to the relevant not-for-profit, deduct voluntary contributions from such fast food employee's paycheck and remit them to the not-for-profit designated by such fast food employee. An authorization shall be written, whether on paper or by an electronic or other method prescribed by the director, and shall include:
@@ -4693,7 +4693,7 @@ h. Written notice of rights and obligations. A fast food employer shall provide 
 
 
 
-*§ 20-1303 Registration by not-for-profits required.* ::
+*§ 20-1303 Registration by not-for-profits required.*
 
 
 a. Before it may accept deductions pursuant to this chapter, a not-for-profit shall register with the office by providing the following in the manner prescribed by the office:
@@ -4717,7 +4717,7 @@ b. The office shall issue a registration letter to the registered not-for-profit
 
 
 
-*§ 20-1304 Not-for-profit required disclosure.* ::
+*§ 20-1304 Not-for-profit required disclosure.*
 
 
 a. Before any deduction pursuant to this chapter is made, the not-for-profit shall provide the relevant fast food employee the following information concerning its operations:
@@ -4743,7 +4743,7 @@ b. The not-for-profit may satisfy the disclosure requirements of this section by
 
 
 
-*§ 20-1305 Recordkeeping.* ::
+*§ 20-1305 Recordkeeping.*
 
 
 a. A fast food employer must keep records of the following for two years:
@@ -4767,7 +4767,7 @@ b. The failure to keep records required by this section creates an inference tha
 
 
 
-*§ 20-1306 Retaliation prohibited.* ::
+*§ 20-1306 Retaliation prohibited.*
 
 
 No person shall take any adverse action against a fast food employee that penalizes such employee for, or is reasonably likely to deter such employee from, exercising or attempting to exercise any right protected under this chapter. Taking an adverse action includes threatening, intimidating, disciplining, discharging, demoting, suspending or harassing a fast food employee, reducing the hours or pay of a fast food employee, informing another employer that a fast food employee has engaged in activities protected by this chapter, and discriminating against the fast food employee, including actions related to perceived immigration status or work authorization. A fast food employee need not explicitly refer to this chapter or the rights enumerated herein to be protected from retaliation.
@@ -4779,7 +4779,7 @@ No person shall take any adverse action against a fast food employee that penali
 
 
 
-*§ 20-1307 Enforcement.* ::
+*§ 20-1307 Enforcement.*
 
 
 a. The office shall investigate potential violations and enforce the provisions of this chapter consistent with sections 20-a and 2203 of the charter and with all powers and duties described therein and according to rules and policies of the office.
@@ -4813,7 +4813,7 @@ f. Any party with rights under this chapter may bring an action pursuant to arti
 
 
 
-*§ 20-1308 Civil action.* ::
+*§ 20-1308 Civil action.*
 
 
 a. Except as otherwise provided by law, any person claiming to be aggrieved by a fast food employer's violation of this chapter has a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate, if the relevant not-for-profit demonstrates that it has complied with sections 20-1303 and 20-1304 by providing a copy of the registration letter from the office unless such person has filed a complaint with the office with respect to such claim. If the court finds in favor of the plaintiff, it shall award such person, in addition to other relief, reasonable attorney's fees and costs.
@@ -4835,7 +4835,7 @@ d. This chapter does not limit a fast food employee's right to bring any other a
 
 
 
-*§ 20-1309 Limitations period.* ::
+*§ 20-1309 Limitations period.*
 
 
 The office shall not investigate violations of this chapter committed more than two years before the filing of a complaint or the commencement of such investigation, whichever is earlier. Each failure to comply with this chapter constitutes a separate violation; a pattern of such violations is a continuing violation for purposes of assessing the limitations period.
@@ -4847,7 +4847,7 @@ The office shall not investigate violations of this chapter committed more than 
 
 
 
-*§ 20-1310 Application; exclusion of labor organizations.* ::
+*§ 20-1310 Application; exclusion of labor organizations.*
 
 
 a. This chapter does not discourage, prohibit, preempt or displace any law, regulation, rule, requirement, written policy or standard that is at least as protective of a fast food employee as the requirements of this chapter.
@@ -4868,7 +4868,7 @@ c. The office shall promulgate rules necessary to ensure that this law will be a
 
 
 Chapter 12: Fair Work Practices
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -4877,7 +4877,7 @@ Chapter 12: Fair Work Practices
 
 
 
-*§ 20-1201 Definitions.* ::
+*§ 20-1201 Definitions.*
 
 
 As used in this chapter, except as otherwise specifically provided, the following terms have the following meanings:
@@ -4925,7 +4925,7 @@ Work schedule. The term "work schedule" means the regular shifts and on-call shi
 
 
 
-*§ 20-1202 Outreach and education.* ::
+*§ 20-1202 Outreach and education.*
 
 
 The director shall conduct outreach and education about the provisions of this chapter. Such outreach and education shall be provided to employers, employees and members of the public who are likely to be affected by this law.
@@ -4937,7 +4937,7 @@ The director shall conduct outreach and education about the provisions of this c
 
 
 
-*§ 20-1203 Reporting.* ::
+*§ 20-1203 Reporting.*
 
 
 The director shall report annually on the city's website, without revealing identifying information about any non-public matter or complaint, on the effectiveness of its enforcement activities under this chapter. The report shall include the following information:
@@ -4963,7 +4963,7 @@ b. Civil actions. The number, nature, and outcomes of civil actions commenced by
 
 
 
-*§ 20-1204 Retaliation.* ::
+*§ 20-1204 Retaliation.*
 
 
 a. No person shall take any adverse action against an employee that penalizes such employee for, or is reasonably likely to deter such employee from, exercising or attempting to exercise any right protected under this chapter. Taking an adverse action includes threatening, intimidating, disciplining, discharging, demoting, suspending or harassing an employee, reducing the hours or pay of an employee, informing another employer that an employee has engaged in activities protected by this chapter, and discriminating against the employee, including actions related to perceived immigration status or work authorization. An employee need not explicitly refer to this chapter or the rights enumerated herein to be protected from retaliation.
@@ -4975,7 +4975,7 @@ a. No person shall take any adverse action against an employee that penalizes su
 
 
 
-*§ 20-1205 Notice and posting of rights.* ::
+*§ 20-1205 Notice and posting of rights.*
 
 
 a. The director shall publish and make available notices for employers to post in the workplace or at any job site informing employees of their rights protected under each subchapter of this chapter before the effective date of the local law that added each corresponding subchapter. Such notices shall be made available in a downloadable format on the city's website in accordance with the requirements for language access as described in chapter 11 of title 23. The director shall update such notices if any changes are made to the requirements of this chapter or as otherwise deemed appropriate by the director.
@@ -4989,7 +4989,7 @@ b. In accordance with the rules of the office, every employer shall conspicuousl
 
 
 
-*§ 20-1206 Recordkeeping* ::
+*§ 20-1206 Recordkeeping*
 
 
 a. Employers shall retain records documenting their compliance with the applicable requirements of this chapter for a period of three years and shall allow the office to access such records and other information, in accordance with applicable law and with appropriate notice, in furtherance of an investigation conducted pursuant to this chapter.
@@ -5003,7 +5003,7 @@ b. An employer's failure to maintain, retain or produce a record or other inform
 
 
 
-*§ 20-1207 Administrative enforcement; jurisdiction and complaint procedures.* ::
+*§ 20-1207 Administrative enforcement; jurisdiction and complaint procedures.*
 
 
 a. Jurisdiction. The director shall enforce the provisions of this chapter.
@@ -5027,7 +5027,7 @@ b. Complaints and investigations.
 
 
 
-*§ 20-1208 Specific administrative remedies for employees or former employees.* ::
+*§ 20-1208 Specific administrative remedies for employees or former employees.*
 
 
 a. For violations of this chapter, the office may grant the following relief to employees or former employees:
@@ -5069,7 +5069,7 @@ b. The relief authorized by this section shall be imposed on a per employee and 
 
 
 
-*§ 20-1209 Specific civil penalties payable to the city.* ::
+*§ 20-1209 Specific civil penalties payable to the city.*
 
 
 a. For each violation of this chapter, an employer is liable for a penalty of $500 for the first violation and, for subsequent violations that occur within two years of any previous violation of this chapter, up to $750 for the second violation and up to $1,000 for each succeeding violation.
@@ -5083,7 +5083,7 @@ b. The penalties imposed pursuant to this section shall be imposed on a per empl
 
 
 
-*§ 20-1210 Enforcement by the corporation counsel.* ::
+*§ 20-1210 Enforcement by the corporation counsel.*
 
 
 The corporation counsel or such other persons designated by the corporation counsel on behalf of the office may initiate in any court of competent jurisdiction any action or proceeding that may be appropriate or necessary for correction of any violation issued pursuant to sections 20-1207 through 20-1209, including actions to secure permanent injunctions, enjoining any acts or practices that constitute such violation, mandating compliance with the provisions of this chapter or such other relief as may be appropriate.
@@ -5095,7 +5095,7 @@ The corporation counsel or such other persons designated by the corporation coun
 
 
 
-*§ 20-1211 Private cause of action.* ::
+*§ 20-1211 Private cause of action.*
 
 
 a. Claims. Any person, including any organization, alleging a violation of the following provisions of this chapter may bring a civil action, in accordance with applicable law, in any court of competent jurisdiction:
@@ -5149,7 +5149,7 @@ d. Relationship to office action.
 
 
 
-*§ 20-1212 Civil action by corporation counsel for pattern or practice of violations.* ::
+*§ 20-1212 Civil action by corporation counsel for pattern or practice of violations.*
 
 
 a. Cause of action.
@@ -5178,7 +5178,7 @@ c. Civil penalty. In any civil action commenced pursuant to subdivision a of thi
 
 
 
-*§ 20-1221 Advance scheduling.* ::
+*§ 20-1221 Advance scheduling.*
 
 
 a. No later than when a new fast food employee receives such employee's first work schedule, a fast food employer shall provide such employee with a good faith estimate in writing setting forth the number of hours a fast food employee can expect to work per week for the duration of the employee's employment and the expected dates, times and locations of those hours. If a long-term or indefinite change is made to the good faith estimate, the fast food employer shall provide an updated good faith estimate to the affected employee as soon as possible and before such employee receives the first work schedule following the change.
@@ -5202,7 +5202,7 @@ d. A fast food employee may decline to work or be available to work additional h
 
 
 
-*§ 20-1222 Schedule change premium.* ::
+*§ 20-1222 Schedule change premium.*
 
 
 a. A fast food employer shall provide a fast food employee with the following schedule change premium amount, in addition to the employee's regular pay for shifts actually worked by the employee:
@@ -5271,7 +5271,7 @@ c. Notwithstanding subdivisions a and b of this section, a fast food employer is
 
 
 
-*§ 20-1231 Minimum time between shifts.* ::
+*§ 20-1231 Minimum time between shifts.*
 
 
 Unless the fast food employee requests or consents to work such hours in writing, no fast food employer shall require any fast food employee to work two shifts with fewer than 11 hours between the end of the first shift and the beginning of the second shift when the first shift ends the previous calendar day or spans two calendar days. The fast food employer shall pay the fast food employee $100 for each instance that the employee works such shifts.
@@ -5288,7 +5288,7 @@ Unless the fast food employee requests or consents to work such hours in writing
 
 
 
-*§ 20-1241 Offering additional shifts to current fast food employees.* ::
+*§ 20-1241 Offering additional shifts to current fast food employees.*
 
 
 a. Before hiring new fast food employees, including hiring through the use of subcontractors, a fast food employer shall offer regular shifts or on call shifts that would otherwise be offered to a new fast food employee to the fast food employer’s current fast food employees employed at all fast food establishments owned by the fast food employer, or at a subset of such fast food establishments as provided in rules promulgated pursuant to subdivision j. A fast food employer may not transfer fast food employees from locations other than the location where such shifts will be worked or hire new fast food employees, including subcontractors, to perform the work of fast food employees for such shifts, except as provided for in subdivisions f, g and i.
@@ -5329,7 +5329,7 @@ j. The director may promulgate rules regarding how and to which fast food employ
 
 
 
-*§ 20-1251 On-call scheduling prohibited.* ::
+*§ 20-1251 On-call scheduling prohibited.*
 
 
 a. Except as otherwise provided by law, a retail employer shall not:
@@ -5365,7 +5365,7 @@ b. Notwithstanding subdivision a of this section, a retail employer may:
 
 
 
-*§ 20-1252 Work schedules.* ::
+*§ 20-1252 Work schedules.*
 
 
 a. A retail employer shall provide a retail employee with a written work schedule no later than 72 hours before the first shift on the work schedule.
@@ -5381,7 +5381,7 @@ c. Upon request by a retail employee, a retail employer shall provide the employ
 
 
 
-*§ 20-1253 Collective bargaining agreements.* ::
+*§ 20-1253 Collective bargaining agreements.*
 
 
 The provisions of this subchapter do not apply to any retail employee covered by a valid collective bargaining agreement, including an agreement that is open for negotiation, if (i) such provisions are expressly waived in such collective bargaining agreement and (ii) the agreement addresses employee scheduling.
@@ -5398,7 +5398,7 @@ The provisions of this subchapter do not apply to any retail employee covered by
 
 
 
-*§ 20-1261 Definitions.* ::
+*§ 20-1261 Definitions.*
 
 
 a. For purposes of this subchapter, the following terms have the following meanings:
@@ -5422,7 +5422,7 @@ b. For purposes of this subchapter, the following terms have the same meanings a
 
 
 
-*§ 20-1262 Required temporary changes and other requests for changes to a work schedule.* ::
+*§ 20-1262 Required temporary changes and other requests for changes to a work schedule.*
 
 
 a. An employer shall grant an employee’s request for a temporary change to the employee’s work schedule relating to a personal event in accordance with the following provisions, with a temporary change meaning a limited alteration in the hours or times that or locations where an employee is expected to work, including, but not limited to, using paid time off, working remotely, swapping or shifting work hours and using short-term unpaid leave:
@@ -5464,7 +5464,7 @@ c. 1. An employee need not use leave accrued under chapter 8 of this title befor
 
 
 
-*§ 20-1263 Exemptions.* ::
+*§ 20-1263 Exemptions.*
 
 
 This subchapter does not:

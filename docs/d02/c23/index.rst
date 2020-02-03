@@ -1,12 +1,12 @@
 Title 40: Board of Correction
-===================================================
+======================================================================================================
 
 Chapter 1: Correctional Facilities
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 1-01 Non-discriminatory Treatment.* ::
+*§ 1-01 Non-discriminatory Treatment.*
 
 
 (a)  Policy. People in custody shall not be subject to discriminatory treatment based upon race, religion, nationality, sex, sexual orientation, gender, disability, age or political belief. The term "person in custody" means any person in the custody of the New York City Department of Correction ("the Department"). "Inmate" and "prisoner" both mean "person in custody" throughout this Title, and the Board will modernize to person-forward language in promulgating rules, so as to phase out the use of "inmate" and "prisoner". "Detainee" means any person in custody awaiting disposition of a criminal charge. "Sentenced prisoner" means any person in custody serving a sentence of up to one year in Department custody.
@@ -48,7 +48,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-02 Classification of Prisoners.* ::
+*§ 1-02 Classification of Prisoners.*
 
 
 (a)  Policy. Consistent with the requirements of this section the Department shall employ a classification system for prisoners.
@@ -140,7 +140,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-03 Personal Hygiene.* ::
+*§ 1-03 Personal Hygiene.*
 
 
 (a) Policy. Each facility shall provide for and maintain reasonable standards of prisoner personal hygiene.
@@ -300,7 +300,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-04 Overcrowding.* ::
+*§ 1-04 Overcrowding.*
 
 
 (a)  Policy. Prisoners shall not be housed in cells, rooms or dormitories unless adequate space and furnishings are provided.
@@ -334,7 +334,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-05 Lock-in.* ::
+*§ 1-05 Lock-in.*
 
 
 (a) Policy. The time spent by prisoners confined to their cells should be kept to a minimum and required only when necessary for the safety and security of the facility. The provisions of this section are inapplicable to prisoners confined in punitive segregation or prisoners confined for medical reasons in the contagious disease units.
@@ -358,7 +358,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-06 Recreation.* ::
+*§ 1-06 Recreation.*
 
 
 (a) Policy. Recreation is essential to good health and contributes to reducing tensions within a facility. Prisoners shall be provided with adequate indoor and outdoor recreational opportunities.
@@ -398,7 +398,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-07 Religion.* ::
+*§ 1-07 Religion.*
 
 
 (a) Policy. Prisoners have an unrestricted right to hold any religious belief, and to be a member of any religious group or organization, as well as to refrain from the exercise of any religious beliefs. A prisoner may change his or her religious affiliation.
@@ -488,7 +488,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-08 Access to Courts and Legal Services.* ::
+*§ 1-08 Access to Courts and Legal Services.*
 
 
 (a) Policy. Prisoners are entitled to access to courts, attorneys, legal assistants and legal materials.
@@ -596,7 +596,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-09 Visiting.* ::
+*§ 1-09 Visiting.*
 
 
 (a) Policy. All inmates are entitled to receive personal visits of sufficient length and number. Maintaining personal connections with social and family networks and support systems is critical to improving outcomes both during confinement and upon reentry. Visitation with friends and family plays an instrumental role in an inmate's ability to maintain these connections and should therefore be encouraged and facilitated by the Department. Additionally, the Board recognizes that an inmate's family may not be limited to those related to the inmate by blood or by legally-recognized bonds, such as marriage or adoption. Therefore, the term "family" as it is used in this subdivision should be construed broadly to reflect the diversity of familial structures and the wide variety of relationships that may closely connect an inmate to others. This should include, for example, but may not be limited to: romantic partners; godparents and godchildren; current and former step-parents, children, and siblings; and those connected to the inmate through current or former domestic partnerships, foster arrangements, civil unions, or cohabitation.
@@ -768,7 +768,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-10 Telephone Calls.* ::
+*§ 1-10 Telephone Calls.*
 
 
 (a) Policy. Prisoners are entitled to make periodic telephone calls. A sufficient number of telephones to meet the requirements of this section shall be installed in the housing areas of each facility.
@@ -814,7 +814,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-11 Correspondence.* ::
+*§ 1-11 Correspondence.*
 
 
 (a) Policy. Prisoners are entitled to correspond with any person, except when there is a reasonable belief that limitation is necessary to protect public safety or maintain facility order and security. The Department shall establish appropriate procedures to implement this policy. Correspondence shall not be deemed to constitute a threat to safety and security of a facility solely because it criticizes a facility, its staff, or the correctional system, or espouses unpopular ideas, including ideas that facility staff deem not conducive to rehabilitation or correctional treatment. The Department shall provide notice of this policy to all prisoners.
@@ -908,7 +908,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-12 Packages.* ::
+*§ 1-12 Packages.*
 
 
 (a) Policy. Prisoners shall be permitted to receive packages from, and send packages to, any person, except when there is reasonable belief that limitation is necessary to protect public safety or maintain facility order and security.
@@ -966,7 +966,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-13 Publications.* ::
+*§ 1-13 Publications.*
 
 
 (a) Policy. Prisoners are entitled to receive new or used publications from any source, including family, friends and publishers, except when there is substantial belief that limitation is necessary to protect public safety or maintain facility order and security. "Publications" are printed materials including soft and hardcover books, articles, magazines and newspapers.
@@ -998,7 +998,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-14 Access to Media.* ::
+*§ 1-14 Access to Media.*
 
 
 (a) Policy. Prisoners are entitled to access to the media. "Media" means any printed or electronic means of conveying information to any portion of the public and shall include, but is not limited to newspapers, magazines, books or other publications, and licensed radio and television stations.
@@ -1046,7 +1046,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-15 Variances.* ::
+*§ 1-15 Variances.*
 
 
 (a) Policy. The Department may apply for a variance from a specific subdivision or section of these minimum standards when compliance cannot be achieved or continued. A "limited variance" is an exemption granted by the Board from full compliance with a particular subdivision or section for a specified period of time. A "continuing variance" is an exemption granted by the Board from full compliance with a particular subdivision or section for an indefinite period of time. An "emergency variance" as defined in paragraph (b)(3) of this section is an exemption granted by the Board from full compliance with a particular subdivision or section for no more than 30 days.
@@ -1150,7 +1150,7 @@ Chapter 1: Correctional Facilities
 
 
 
-*§ 1-16 Enhanced Supervision Housing.* ::
+*§ 1-16 Enhanced Supervision Housing.*
 
 
 (a) Purpose. The primary objective of enhanced supervision housing (ESH) is to protect the safety and security of inmates and facilities, while promoting rehabilitation, good behavior, and the psychological and physical well-being of inmates. To accomplish these objectives, ESH is designed to separate from the general population those inmates who pose the greatest threats to the safety and security of staff and other inmates. It additionally seeks to promote the rehabilitation of ESH inmates by incentivizing good behavior and by providing necessary programs and therapeutic resources.
@@ -1296,7 +1296,7 @@ Provided, however, that, where the Department is permitted to consider an inmate
 
 
 
-*§ 1-17 Limitations on the Use of Punitive Segregation.* ::
+*§ 1-17 Limitations on the Use of Punitive Segregation.*
 
 
 (a) Policy. As implemented by the Department, punitive segregation is a severe penalty that should not be used under certain circumstances in the Department's facilities. In particular, punitive segregation represents a serious threat to the physical and psychological health of adolescents, with respect to whom it should not be imposed. Moreover, punitive segregation is intended to address a particular offense committed in the course of an inmate's incarceration and should not be imposed in connection with an offense committed by the same inmate during a separate and previous incarceration.
@@ -1417,11 +1417,11 @@ Provided, however, that, where the Department is permitted to consider an inmate
 
 
 Chapter 2: Mental Health Minimum Standards
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 2-01 Service Calls.* ::
+*§ 2-01 Service Calls.*
 
 
 Services for the detection, diagnosis and treatment of mental illness shall be provided to those persons in the care and custody of the New York City Department of Correction. The New York City Department of Health or a contracted service provider,* and the Department of Correction, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall design and implement a mental health program to provide:
@@ -1439,7 +1439,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 
-*§ 2-02 Identification and Detection.* ::
+*§ 2-02 Identification and Detection.*
 
 
 (a) Policy. Procedures shall be developed and implemented which promote the timely identification of inmates requiring mental health evaluation.
@@ -1505,7 +1505,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 
-*§ 2-03 Diagnosis and Referral.* ::
+*§ 2-03 Diagnosis and Referral.*
 
 
 (a) Policy. The Departments of Correction and Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services, shall develop procedures to provide for the prompt evaluation and appropriate referral of inmates whose behavior suggests that they are suffering from a mental or emotional disorder, as well as the immediate evaluation and treatment of those in need of emergency psychiatric care.
@@ -1531,7 +1531,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 
-*§ 2-04 Treatment.* ::
+*§ 2-04 Treatment.*
 
 
 (a) Policy. Adequate mental health care is to be provided to inmates in an environment which facilitates care and treatment, provides for maximum observation, reduces the risk of suicide, and is minimally stressful. Inmates under the care of mental health services, if in all other respects qualified and eligible shall be entitled to the same rights and privileges as every other inmate.
@@ -1611,7 +1611,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 
-*§ 2-05 Medication.* ::
+*§ 2-05 Medication.*
 
 
 (a) Policy. Medication shall not be used solely as a method of restraint or means of control, but only as one facet of a treatment plan (as defined in 40 RCNY § 2-04(c)(3)).
@@ -1651,7 +1651,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 
-*§ 2-06 Restraints and Seclusion.* ::
+*§ 2-06 Restraints and Seclusion.*
 
 
 (a) Policy. The Departments of Correction and Health shall develop and implement procedures subject to the review of the Department of Mental Health, Mental Retardation and Alcoholism Services governing the physical restraint and seclusion of inmates being observed or treated for mental or emotional disorders. Consistent with the New York State Mental Hygiene Law restraints or seclusion shall not be used as punishment, for the convenience of staff, or as a substitute for treatment programs.
@@ -1709,7 +1709,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 
-*§ 2-07 Confidentiality.* ::
+*§ 2-07 Confidentiality.*
 
 
 (a) Policy. The principle of confidentiality of information obtained in the course of treatment is to be upheld. The Departments of Correction and Health, with the approval of the Department of Mental Health, Mental Retardation and Alcoholism Services shall develop and implement a written policy governing the dissemination of information.
@@ -1743,7 +1743,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 
-*§ 2-08 Coordination.* ::
+*§ 2-08 Coordination.*
 
 
 (a) Policy. The Departments of Correction and Health shall consult and coordinate their activities on a regular basis in order to provide for the continued delivery of quality mental health care.
@@ -1763,7 +1763,7 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 
-*§ 2-09 Variances.* ::
+*§ 2-09 Variances.*
 
 
 (a) Policy. Any Department affected by these minimum standards may apply for a variance from a specific subdivision or Section of these standards when compliance cannot be achieved or continued. A "variance" is an exemption granted by the Board from full compliance with a particular subdivision or Section for a specified period of time.
@@ -1840,11 +1840,11 @@ Services for the detection, diagnosis and treatment of mental illness shall be p
 
 
 Chapter 3: Health Care Minimum Standards
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 3-01 Service Goals and Purpose.* ::
+*§ 3-01 Service Goals and Purpose.*
 
 
 (a) Purpose.
@@ -1892,7 +1892,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-02 Access to Health Care Services.* ::
+*§ 3-02 Access to Health Care Services.*
 
 
 (a) Policy. The Department of Correction and the Health Authority shall be responsible for the design and implementation of written policies and procedures which ensure that all inmates have prompt and adequate access to all health care services. Services must be available, consistent with § 1-01 of the Minimum Standards for New York City Correctional Facilities.
@@ -2092,7 +2092,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-03 Training and Continuing Education.* ::
+*§ 3-03 Training and Continuing Education.*
 
 
 (a) Policy. There shall be a written program for the orientation, training and continuing education of correctional and health care personnel to ensure the employment or assignment of qualified personnel and the continuous delivery of quality health care.
@@ -2142,7 +2142,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-04 Screening.* ::
+*§ 3-04 Screening.*
 
 
 (a) Policy. Screening procedures shall be developed and implemented which promote timely identification of immediate needs of the inmate and of public health concerns for the institution. The initial screening shall also establish a medical baseline for ongoing care.
@@ -2212,7 +2212,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-05 Pharmaceutical Services.* ::
+*§ 3-05 Pharmaceutical Services.*
 
 
 (a) Policy. Written policies and procedures pertaining to pharmaceutical services, that are consistent with professional practices and in accordance with all applicable federal, state and local laws, shall be established and implemented.
@@ -2272,7 +2272,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-06 Treatment.* ::
+*§ 3-06 Treatment.*
 
 
 (a) Policy. Adequate health care, including follow-up care, shall be provided to inmates in an environment which facilitates care and treatment. Such care and treatment shall be provided by health care personnel in a timely fashion and shall be consistent with accepted professional standards and legal requirements.
@@ -2640,7 +2640,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-07 Records.* ::
+*§ 3-07 Records.*
 
 
 (a) Policy. 
@@ -2710,7 +2710,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-08 Privacy and Confidentiality.* ::
+*§ 3-08 Privacy and Confidentiality.*
 
 
 (a) Policy. The Health Authority shall establish and implement written policies and procedures which recognize the rights of people in custody to private and confidential treatment and consultations consistent with legal requirements, professional standards, and sound professional judgment and practice.
@@ -2782,7 +2782,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-09 Quality Assurance.* ::
+*§ 3-09 Quality Assurance.*
 
 
 (a) Policy. 
@@ -2890,7 +2890,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-10 Inmate Death.* ::
+*§ 3-10 Inmate Death.*
 
 
 (a) Policy. The Department of Correction shall establish policies and procedures to insure that in the case of an inmate's death, prompt notification is made to family and appropriate officials and with the Health Authority shall insure that a thorough and timely review of the death is conducted.
@@ -2910,7 +2910,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-11 Disaster Plan.* ::
+*§ 3-11 Disaster Plan.*
 
 
 (a) Policy. There shall be policies and procedures for the management and delivery of health care in the event of a man-made or natural disaster.
@@ -2942,7 +2942,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-12 Shackling of Inmates.* ::
+*§ 3-12 Shackling of Inmates.*
 
 
 (a) Policy. The Department of Correction, the Health Authority, and the Health and Hospitals Corporation shall develop and implement procedures governing the shackling of inmates who are receiving medical treatment and are housed in beds outside secure medical wards at the municipal hospitals. Inmates housed outside secure medical wards shall not be routinely shackled. The decision to shackle shall be made on a case by case basis and shall not serve as a substitute for appropriate security precautions or as punishment or for the convenience of staff. Shackling of inmates being transported between clinical settings shall be the least restrictive possible. All non-emergency decisions to shackle inmates must not be medically contraindicated.
@@ -2982,7 +2982,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-13 Variances.* ::
+*§ 3-13 Variances.*
 
 
 (a) Policy. Any Department may apply for a variance from a specific Section or Subdivision of these minimum standards when compliance cannot be achieved or continued.
@@ -3094,7 +3094,7 @@ Chapter 3: Health Care Minimum Standards
 
 
 
-*§ 3-14 Effective Date.* ::
+*§ 3-14 Effective Date.*
 
 
 These standards (40 RCNY §§ 3-01 through 3-13) shall take effect May 15, 1991.
@@ -3104,7 +3104,7 @@ These standards (40 RCNY §§ 3-01 through 3-13) shall take effect May 15, 1991.
 
 
 
-*§ 3-15 Implementation Dates.* ::
+*§ 3-15 Implementation Dates.*
 
 
 The policies, procedures, criteria, plans, programs and forms required by the various subdivisions of these standards shall be developed, approved and implemented with the time periods stated below. All time periods are computed from the effective date of these standards (see 40 RCNY § 3-14).
@@ -3152,7 +3152,7 @@ Dated: April 10, 1991
 
 
 
-*§ 3-16 Injury Response.* ::
+*§ 3-16 Injury Response.*
 
 
 (a) Policy. The Department of Correction and the Health Authority (“Agencies”) shall establish policies and procedures to address and prevent injuries to people in custody.
@@ -3243,11 +3243,11 @@ Dated: April 10, 1991
 
 
 Chapter 4: [Procedures For Consideration of Petitions For Rulemaking Submitted To the Board of Correction]
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 4-01 Definitions.* ::
+*§ 4-01 Definitions.*
 
 
 (a)  "Petition" shall mean a request or application for the Board of Correction ("the Board") to adopt a rule.
@@ -3261,7 +3261,7 @@ Chapter 4: [Procedures For Consideration of Petitions For Rulemaking Submitted T
 
 
 
-*§ 4-02 Scope.* ::
+*§ 4-02 Scope.*
 
 
 This rule shall govern the procedures by which any person or entity may petition the Board to commence rulemaking pursuant to § 1043(f) of the New York City Charter and the procedure for submission, consideration and disposition of such petitions.
@@ -3271,7 +3271,7 @@ This rule shall govern the procedures by which any person or entity may petition
 
 
 
-*§ 4-03 Procedures for submitting petitions.* ::
+*§ 4-03 Procedures for submitting petitions.*
 
 
 (a)  Any person or entity may petition the Board to consider the adoption of a rule.
@@ -3299,7 +3299,7 @@ This rule shall govern the procedures by which any person or entity may petition
 
 
 
-*§ 4-04 Procedures for responding to petitions.* ::
+*§ 4-04 Procedures for responding to petitions.*
 
 
 (a)  Upon receipt of a petition in proper form, the Executive Director shall promptly forward it to the Board.
@@ -3316,7 +3316,7 @@ This rule shall govern the procedures by which any person or entity may petition
 
 
 Chapter 5: Elimination of Sexual Abuse and Sexual Harassment in Correctional Facilities
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
@@ -3325,7 +3325,7 @@ Chapter 5: Elimination of Sexual Abuse and Sexual Harassment in Correctional Fac
 
 
 
-*§ 5-01 General Definitions.* ::
+*§ 5-01 General Definitions.*
 
 
 As used in this chapter:
@@ -3405,7 +3405,7 @@ Volunteer
 
 
 
-*§ 5-02 Definitions Related to Sexual Abuse.* ::
+*§ 5-02 Definitions Related to Sexual Abuse.*
 
 
 For purposes of this chapter, the term:
@@ -3464,7 +3464,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-03 Zero Tolerance of Sexual Abuse and Sexual Harassment; PREA Coordinator.* ::
+*§ 5-03 Zero Tolerance of Sexual Abuse and Sexual Harassment; PREA Coordinator.*
 
 
 (a) The Department shall have a written policy mandating zero tolerance toward all forms of sexual abuse and sexual harassment and outlining the Department’s approach to preventing, detecting, and responding to such conduct.
@@ -3480,7 +3480,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-04 Supervision and Monitoring.* ::
+*§ 5-04 Supervision and Monitoring.*
 
 
 (a) The Department shall ensure that by January 31, 2018, each facility it operates develops, documents, and makes its best efforts to comply on a regular basis with a staffing plan that provides for adequate levels of staffing, and, where applicable, video monitoring, to protect inmates against sexual abuse. In calculating adequate staffing levels and determining the need for video monitoring, facilities shall take into consideration:
@@ -3542,7 +3542,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-05 Youthful Inmates.* ::
+*§ 5-05 Youthful Inmates.*
 
 
 (a) Any inmate under the age of 18 shall not be placed in a housing unit in which the inmate under the age of 18 will have sight, sound, or physical contact with any inmate 18 years old or more through use of a shared dayroom or other common space, shower area, or sleeping quarters.
@@ -3560,7 +3560,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-06 Limits to Cross-Gender Viewing and Searches.* ::
+*§ 5-06 Limits to Cross-Gender Viewing and Searches.*
 
 
 (a) The Department shall not conduct cross-gender strip searches or cross-gender visual body cavity searches (meaning a search of the anal or genital opening) except in exigent circumstances or when performed by medical practitioners.
@@ -3584,7 +3584,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-07 Inmates with Disabilities and Inmates Who Are Limited English Proficient.* ::
+*§ 5-07 Inmates with Disabilities and Inmates Who Are Limited English Proficient.*
 
 
 (a) The Departmentshall take appropriate steps to ensure that inmates with disabilities (including, for example, inmates who are deaf or hard of hearing, those who are blind or have low vision, or those who have intellectual, psychiatric, or speech disabilities), have an equal opportunity to participate in or benefit from all aspects of the Department’s efforts to prevent, detect, and respond to sexual abuse and sexual harassment. Such steps shall include, when necessary to ensure effective communication with inmates who are deaf or hard of hearing, providing access to interpreters who can interpret effectively, accurately, and impartially, both receptively and expressively, using any necessary specialized vocabulary. In addition, the Department shall ensure that written materials are provided in formats or through methods that ensure effective communication with inmates with disabilities, including inmates who have intellectual disabilities, limited reading skills, or who are blind or have low vision. The Department is not required to take actions that it can demonstrate would result in a fundamental alteration in the nature of a service, program, or activity, or in undue financial and administrative burdens, as those terms are used in regulations promulgated pursuant to title II of the Americans With Disabilities Act, 28 C.F.R. § 35.164.
@@ -3600,7 +3600,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-08 Hiring and Promotion Decisions.* ::
+*§ 5-08 Hiring and Promotion Decisions.*
 
 
 (a) The Department shall not hire or promote anyone who may have contact with inmates, and shall not enlist the services of any contractor who may have contact with inmates, who—
@@ -3638,7 +3638,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-09 Upgrades to Facilities and Technologies.* ::
+*§ 5-09 Upgrades to Facilities and Technologies.*
 
 
 (a) When designing or acquiring any new facility and in planning any substantial expansion or modification of existing facilities, the Department shall consider the effect of the design, acquisition, expansion, or modification upon the Department’s ability to protect inmates from sexual abuse.
@@ -3657,7 +3657,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-10 Evidence Protocol and Forensic Medical Examinations.* ::
+*§ 5-10 Evidence Protocol and Forensic Medical Examinations.*
 
 
 (a) The Department shall follow a uniform evidence protocol that maximizes the potential for obtaining usable physical evidence for administrative proceedings and criminal prosecutions.
@@ -3697,7 +3697,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-11 Policies to Ensure Referrals of Allegations for Investigations.* ::
+*§ 5-11 Policies to Ensure Referrals of Allegations for Investigations.*
 
 
 (a) The Department shall ensure that an administrative or criminal investigation is completed for all allegations of sexual abuse and sexual harassment.
@@ -3718,7 +3718,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-12 Employee Training.* ::
+*§ 5-12 Employee Training.*
 
 
 (a) The Department and CHA shall train all of their employees who may have contact with inmates on:
@@ -3774,7 +3774,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-13 Volunteer and Contractor Training.* ::
+*§ 5-13 Volunteer and Contractor Training.*
 
 
 (a) The Department and CHA shall ensure thateach of their volunteers and contractors who have contact with inmates have been trained on their responsibilities under the Department’s and CHA’s sexual abuse and sexual harassment prevention, detection, and response policies and procedures.
@@ -3796,7 +3796,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-14 Inmate Education.* ::
+*§ 5-14 Inmate Education.*
 
 
 (a) During the intake process, inmates shall receive information explaining the Department’s zero-tolerance policy regarding sexual abuse and sexual harassment and how to report incidents or suspicions of sexual abuse or sexual harassment.
@@ -3820,7 +3820,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-15 Specialized Training: Investigations.* ::
+*§ 5-15 Specialized Training: Investigations.*
 
 
 (a) In addition to the general training provided to all employees pursuant to 40 RCNY § 5-12, the Department shall ensure that its investigators have received training in conducting sexual abuse investigations in confinement settings.
@@ -3840,7 +3840,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-16 Specialized Training: Medical and Mental Health Care.* ::
+*§ 5-16 Specialized Training: Medical and Mental Health Care.*
 
 
 (a) CHA shall ensure that all full- and part-time medical and mental health care practitioners who work regularly in facilities have been trained in:
@@ -3873,7 +3873,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-17 Screening for Risk of Victimization and Abusiveness.* ::
+*§ 5-17 Screening for Risk of Victimization and Abusiveness.*
 
 
 (a) All inmates shall be assessed during an intake screening and upon transfer to another facility for their risk of being sexually abused by other inmates or sexually abusive toward other inmates.
@@ -3919,7 +3919,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-18 Use of Screening Information.* ::
+*§ 5-18 Use of Screening Information.*
 
 
 (a) The Department shall use information from the risk screening required by 40 RCNY § 5-17 to inform housing, bed, work, education, and program assignments with the goal of keeping separate those inmates at high risk of being sexually victimized from those at high risk of being sexually abusive.
@@ -3947,7 +3947,7 @@ For purposes of this chapter, the term:
 
 
 
-*§ 5-19 Protective Custody.* ::
+*§ 5-19 Protective Custody.*
 
 
 (a) Inmates at high risk for sexual victimization shall not be placed in involuntary segregated housing unless an assessment of all available alternatives has been made, and a determination has been made that there is no available alternative means of separation from likely abusers. If the Department cannot conduct such an assessment immediately, the Department may hold the inmate in involuntary segregated housing for less than 24 hours while completing the assessment.
@@ -3996,7 +3996,7 @@ Documentation in accordance with subdivision (d) of this section shall commence 
 
 
 
-*§ 5-20 Inmate Reporting.* ::
+*§ 5-20 Inmate Reporting.*
 
 
 (a) The Department shall provide multiple internal ways for inmates to privately report sexual abuse and sexual harassment, retaliation by other inmates or staff for reporting sexual abuse and sexual harassment, and staff neglect or violation of responsibilities that may have contributed to such incidents.
@@ -4020,7 +4020,7 @@ Documentation in accordance with subdivision (d) of this section shall commence 
 
 
 
-*§ 5-21 Inmate Access to Outside Confidential Support Services.* ::
+*§ 5-21 Inmate Access to Outside Confidential Support Services.*
 
 
 (a) The Department shall provide inmates with access to outside victim advocates for emotional support services related to sexual abuse by giving inmates mailing addresses and telephone numbers, including toll-free hotline numbers where available, of local, State, or national victim advocacy or rape crisis organizations. The Department shall enable reasonable communication between inmates and these organizations and agencies, in as confidential a manner as possible.
@@ -4038,7 +4038,7 @@ Documentation in accordance with subdivision (d) of this section shall commence 
 
 
 
-*§ 5-22 Third-Party Reporting.* ::
+*§ 5-22 Third-Party Reporting.*
 
 
 (a) The Department shall establish a method to receive third-party reports of sexual abuse and sexual harassment and shall distribute publicly information on how to report sexual abuse and sexual harassment on behalf of an inmate.
@@ -4057,7 +4057,7 @@ Documentation in accordance with subdivision (d) of this section shall commence 
 
 
 
-*§ 5-23 Staff and Agency Reporting Duties.* ::
+*§ 5-23 Staff and Agency Reporting Duties.*
 
 
 (a) The Department shall require all staff to report immediately and according to Department policy any knowledge, suspicion, or information regarding an incident of sexual abuse or sexual harassment that occurred in a facility; retaliation against inmates or staff who reported such an incident; and any staff neglect or violation of responsibilities that may have contributed to an incident or retaliation.
@@ -4077,7 +4077,7 @@ Documentation in accordance with subdivision (d) of this section shall commence 
 
 
 
-*§ 5-24 Agency Protection Duties.* ::
+*§ 5-24 Agency Protection Duties.*
 
 
 When the Department learns that an inmate is subject to a substantial risk of imminent sexual abuse, it shall take immediate action to protect the inmate.
@@ -4089,7 +4089,7 @@ When the Department learns that an inmate is subject to a substantial risk of im
 
 
 
-*§ 5-25 Reporting to Other Confinement Facilities.* ::
+*§ 5-25 Reporting to Other Confinement Facilities.*
 
 
 (a) Upon receiving an allegation that an inmate was sexually abused while confined at another facility, the head of the facility that received the allegation shall notify the head of the facility where the alleged abuse occurred.
@@ -4107,7 +4107,7 @@ When the Department learns that an inmate is subject to a substantial risk of im
 
 
 
-*§ 5-26 Staff First Responder Duties.* ::
+*§ 5-26 Staff First Responder Duties.*
 
 
 (a) Upon learning of an allegation that an inmate was sexually abused, the first security staff member to respond to the report shall be required to:
@@ -4129,7 +4129,7 @@ When the Department learns that an inmate is subject to a substantial risk of im
 
 
 
-*§ 5-27 Coordinated Response.* ::
+*§ 5-27 Coordinated Response.*
 
 
 By April 3, 2017, the Department shall develop a written plan to coordinate actions taken in response to an incident of sexual abuse among staff first responders, medical and mental health practitioners, DOI or ID investigators, and facility leadership.
@@ -4141,7 +4141,7 @@ By April 3, 2017, the Department shall develop a written plan to coordinate acti
 
 
 
-*§ 5-28 Agency Protection Against Retaliation.* ::
+*§ 5-28 Agency Protection Against Retaliation.*
 
 
 (a) The Department shall establish a policy to protect all inmates and staff who report sexual abuse or sexual harassment or cooperate with sexual abuse or sexual harassment investigations from retaliation by other inmates or staff, and shall designate which staff members or departments are charged with monitoring retaliation.
@@ -4165,7 +4165,7 @@ By April 3, 2017, the Department shall develop a written plan to coordinate acti
 
 
 
-*§ 5-29 Post-Allegation Protective Custody.* ::
+*§ 5-29 Post-Allegation Protective Custody.*
 
 
 Any use of segregated housing to protect an inmate who is alleged to have suffered sexual abuse shall be subject to the requirements of 40 RCNY § 5-19.
@@ -4182,7 +4182,7 @@ Any use of segregated housing to protect an inmate who is alleged to have suffer
 
 
 
-*§ 5-30 Criminal and Administrative Agency Investigations.* ::
+*§ 5-30 Criminal and Administrative Agency Investigations.*
 
 
 (a) When the Department conducts its own investigations into allegations of sexual abuse and sexual harassment, it shall do sopromptly, thoroughly, and objectively for all allegations, including third-party and anonymous reports.
@@ -4236,7 +4236,7 @@ Any use of segregated housing to protect an inmate who is alleged to have suffer
 
 
 
-*§ 5-31 Evidentiary Standard for Administrative Investigations.* ::
+*§ 5-31 Evidentiary Standard for Administrative Investigations.*
 
 
 The Department shall impose no standard higher than a preponderance of the evidence in determining whether allegations of sexual abuse or sexual harassment are substantiated.
@@ -4248,7 +4248,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-32 Reporting to Inmates.* ::
+*§ 5-32 Reporting to Inmates.*
 
 
 (a) Following an investigation into an inmate’s allegation that he or she suffered sexual abuse in a facility, the Department shall inform the inmate as to whether the allegation has been determined to be substantiated, unsubstantiated, or unfounded.
@@ -4285,7 +4285,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-33 Disciplinary Sanctions for Staff.* ::
+*§ 5-33 Disciplinary Sanctions for Staff.*
 
 
 (a) Department and CHA staff shall be subject to disciplinary sanctions up to and including termination for violating agency sexual abuse or sexual harassment policies.
@@ -4303,7 +4303,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-34 Corrective Action for Contractors and Volunteers.* ::
+*§ 5-34 Corrective Action for Contractors and Volunteers.*
 
 
 (a) Any contractor or volunteer who engages in sexual abuse shall be prohibited from contact with inmates and shall be reported to law enforcement agencies, unless the activity was clearly not criminal, and to relevant licensing bodies.
@@ -4317,7 +4317,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-35 Disciplinary Sanctions for Inmates.* ::
+*§ 5-35 Disciplinary Sanctions for Inmates.*
 
 
 (a) Inmates shall be subject to disciplinary sanctions pursuant to a formal disciplinary process following an administrative finding that the inmate engaged in inmate-on-inmate sexual abuse or following a criminal finding of guilt for inmate-on-inmate sexual abuse.
@@ -4344,7 +4344,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-36 Medical and Mental Health Screenings; History of Sexual Abuse.* ::
+*§ 5-36 Medical and Mental Health Screenings; History of Sexual Abuse.*
 
 
 (a) If the screening pursuant to 40 RCNY § 5-17 indicates that an inmate has experienced prior sexual victimization, whether it occurred in an institutional setting or in the community, the Department shall ensure that the inmate is offered a follow-up meeting with a medical or mental health practitioner within 14 days of the intake screening.
@@ -4360,7 +4360,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-37 Access to Emergency Medical and Mental Health Services.* ::
+*§ 5-37 Access to Emergency Medical and Mental Health Services.*
 
 
 (a) Inmate victims of sexual abuse shall receive timely, unimpeded access to emergency medical treatment and crisis intervention services, the nature and scope of which are determined by medical and mental health practitioners according to their professional judgment.
@@ -4378,7 +4378,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-38 Ongoing Medical and Mental Health Care for Sexual Abuse Victims.* ::
+*§ 5-38 Ongoing Medical and Mental Health Care for Sexual Abuse Victims.*
 
 
 (a) CHA shall offer medical and mental health evaluation and, as appropriate, treatment to all inmates who have been victimized by sexual abuse in any prison, jail, lockup, or juvenile facility.
@@ -4407,7 +4407,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-39 Sexual Abuse Incident Reviews.* ::
+*§ 5-39 Sexual Abuse Incident Reviews.*
 
 
 (a) The Department shall conduct a sexual abuse incident review at the conclusion of every sexual abuse investigation, including where the allegation has not been substantiated, unless the allegation has been determined to be unfounded.
@@ -4441,7 +4441,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-40 Data Collection and Review.* ::
+*§ 5-40 Data Collection and Review.*
 
 
 (a) The Department shall collect accurate, uniform data for each alleged incident of sexual abuse at facilities (and in transport vehicles used to transport inmates) using a standardized instrument and definitions. For this purpose, the Department shall use the definitions of and related to inmate-on-inmate and staff-on-inmate sexual abuse set forth in subdivisions (a), (b), (c) and (d) of 40 RCNY § 5-02. The Department shall provide the Board with such standardized instrument for its review at least 30 days before first providing the Board with the incident data specified in subdivision (d) of this section.
@@ -4541,7 +4541,7 @@ The Department shall impose no standard higher than a preponderance of the evide
 
 
 
-*§ 5-41 Audits* ::
+*§ 5-41 Audits*
 
 
 The Department shall provide the Board with a copy of all audit reports, responses to audit reports, audit correction action plans, appeals of audit findings, and decisions on appeal, submitted to PREA-certified auditors pursuant to PREA Standard § 115.93 and PREA Standards §§ 115.401 through 115.405. The Department shall provide such material to the Board within two (2) business days after its submission to the auditors.
@@ -4558,7 +4558,7 @@ The Department shall provide the Board with a copy of all audit reports, respons
 
 
 
-*§ 5-42 Variances* ::
+*§ 5-42 Variances*
 
 
 The Department or CHA may apply for a variance from a specific subdivision or section of these 40 RCNY Chapter 5 rules in accordance with the procedures and criteria set forth in 40 RCNY § 1-15.

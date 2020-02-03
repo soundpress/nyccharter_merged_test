@@ -1,10 +1,10 @@
 Chapter 20: Education
-===================================================
+======================================================================================================
 Section 520.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 520. Salaries of members of the board of education.* ::
+*Section 520. Salaries of members of the board of education.*
 
 
 1. Members of the board of education, other than the president, shall be compensated at the rate of one hundred sixty dollars and the president of the board at the rate of one hundred seventy-five dollars per calendar day when performing the work of the board, provided, however, that in any fiscal year a member or president shall not be compensated for more than two hundred ten calendar days for all work performed by such member or president during the fiscal year.
@@ -15,10 +15,10 @@ Section 520.
 
 
 Section 521.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 521. Property under board of education; care and control; suits in regard thereto.* ::
+*Section 521. Property under board of education; care and control; suits in regard thereto.*
 
 
 a. The title to all property, real and personal, heretofore or hereafter acquired for school or educational purposes, and also the title to all property, real and personal, purchased for school or educational purposes with any school moneys, whether derived from the issue of bonds or raised by taxation, shall be vested in the city, but under the care and control of the board of education for the purposes of public education, recreation and other public uses.
@@ -41,10 +41,10 @@ h. For purposes of subdivisions e, f, and g, "school capital project" shall mean
 
 
 Section 522.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 522. Reports of department.* ::
+*Section 522. Reports of department.*
 
 
 a. The department of education shall on or before the thirtieth day of November in each year make and transmit to the mayor a report in writing, for the year ending on the thirty-first day of July next preceding, stating the whole number of schools under its jurisdiction during the said year; the number of teachers; the total number of pupils on register, and the average attendance at each school; the number of high schools and training schools for teachers, with the number of teachers and the attendance of pupils at each; the corporate schools or societies from which reports have been made to the department of education, the length of time such schools have been kept open, and the number of teachers and of pupils taught in each such school and the total amount of money expended for the purposes of public education in the city during the preceding fiscal year. The department of education shall also make in said reports such suggestions and recommendations relative to the public schools of the city as it may deem proper.
@@ -125,10 +125,10 @@ Such report shall include the total number of each type of room or space listed 
 
 
 Section 523.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 523. Removal by mayor after hearing.* ::
+*Section 523. Removal by mayor after hearing.*
 
 
 Any member of the board of education or of the local school board may be removed by the mayor on proof of official misconduct in office or of negligence in official duties or of conduct in any manner connected with official duties, or otherwise, which tends to discredit the office of such member or the school system, or for mental or physical inability to perform duties; but before removal such member shall receive notice in writing of the charges and copy thereof, and shall be entitled to a hearing on notice before the mayor and to the assistance of counsel at said hearing.
@@ -137,10 +137,10 @@ Any member of the board of education or of the local school board may be removed
 
 
 Section 524.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 524. School officers not to be interested in contracts; removal.* ::
+*Section 524. School officers not to be interested in contracts; removal.*
 
 
 The board of education may investigate, of its own motion or otherwise either in the board or by a committee of its own body, any subject of which it has cognizance or over which it has legal control, including the conduct of any of its members or employees or those of any local school board; and for the purpose of such investigation, such board or its president, or committee or its chairman, shall have and may exercise all the powers which a board of education has or may exercise in the case of a trial under the Education Law or the Civil Practice Law and Rules. Any action or determination of a committee appointed under the provisions of this section shall be subject to approval or reversal by the board, which may also modify the determination of the committee in such way as the board shall deem proper and just, and the judgment of the board thereon shall be final.
@@ -149,10 +149,10 @@ The board of education may investigate, of its own motion or otherwise either in
 
 
 Section 526-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 526-a. Powers of investigation.* ::
+*Section 526-a. Powers of investigation.*
 
 
 a. Statement of purpose and intent. The purpose and intent of this section is to ensure that all suspected crimes committed by an adult against a student or another adult, and all allegations of sex-offenses or other violent crimes committed by a student against another student, including any bias-related violent crime committed by any adult or student, in a public school, is reported to the police department and the special commissioner of investigation for the New York city school district. It is not the purpose and intent of this section to mandate the reporting of incidents amounting to ordinary misbehavior and "name calling" among students.
@@ -171,10 +171,10 @@ f. The provisions of this section shall not be construed as either (1) limiting 
 
 
 Section 527.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 527. Changes in state law.* ::
+*Section 527. Changes in state law.*
 
 
 This chapter shall not prevent the city from exercising any power now or hereafter conferred by law.
@@ -183,10 +183,10 @@ This chapter shall not prevent the city from exercising any power now or hereaft
 
 
 Section 528.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 528. The installation and operation of security cameras and other security measures in New York city public schools.* ::
+*Section 528. The installation and operation of security cameras and other security measures in New York city public schools.*
 
 
 a. Installation of security cameras and door alarms. The department of education, in consultation with the police department, shall install security cameras and door alarms at schools and consolidated school locations operated by the department of education where the chancellor, in consultation with the police department, deems such cameras and door alarms appropriate for safety purposes. Such cameras may be placed at the entrance and exit doors of each school and may be placed in any area of the school where individuals do not have a reasonable expectation of privacy. The number, type, placement, and location of such cameras within each school shall be at the discretion of the department of education, in consultation with the principal of each school and the police department. Door alarms may be placed at the discretion of the department of education, in consultation with the police department, at the exterior doors of school buildings under the jurisdiction of the department of education, including buildings serving grades pre-kindergarten through five or a district 75 program. Such alarms should provide an audible alert indicating an unauthorized departure from the school building. For the purposes of this section, "district 75 program" shall mean a department of education program that provides educational, vocational, and behavioral support programs for students with severe disabilities from pre-kindergarten through age twenty-one.
@@ -201,10 +201,10 @@ d. Training. Not later than May thirtieth, two thousand fifteen, and annually th
 
 
 Section 529.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 529. Education department and police department school incident reporting requirements.* ::
+*Section 529. Education department and police department school incident reporting requirements.*
 
 
 a. The New York city department of education, or its successor, shall make available to the public, pursuant to subdivision d of this section, reports that reflect the environment of criminal and seriously disruptive behavior in schools operated by the department of education.
@@ -219,10 +219,10 @@ d. The department of education shall make such reports available on its web site
 
 
 Section 530*.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 530*. Reporting requirements.* ::
+*Section 530*. Reporting requirements.*
 
 
 a. The New York city department of education, or its successor, shall report annually to the metropolitan transportation authority, on or before the fifteenth day of August of each year, the following information:
@@ -237,10 +237,10 @@ a. The New York city department of education, or its successor, shall report ann
 
 
 Section 530*.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 530*. Reporting of information concerning out-of-state facility placement.* ::
+*Section 530*. Reporting of information concerning out-of-state facility placement.*
 
 
 a. Definitions. For the purposes of this section:
@@ -281,10 +281,10 @@ d. The biannual reports required pursuant to this section shall be made availabl
 
 
 Section 530-b.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 530-b. Student discharge reporting data.* ::
+*Section 530-b. Student discharge reporting data.*
 
 
 a. For the purposes of this section:
@@ -337,10 +337,10 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Section 530-c.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 530-c. Student graduation reporting data.* ::
+*Section 530-c. Student graduation reporting data.*
 
 
 a. For the purposes of this section:
@@ -375,10 +375,10 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Section 530-d.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 530-d. Notification requirements, PCBs.* ::
+*Section 530-d. Notification requirements, PCBs.*
 
 
 a. For the purposes of this section, the following terms shall have the following meanings:
@@ -405,10 +405,10 @@ d. Not later than the fifteenth day of April of the year 2012 and annually there
 
 
 Section 530-e.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 530-e. PCB reporting data.* ::
+*Section 530-e. PCB reporting data.*
 
 
 a. For the purposes of this section, the following terms shall have the following meanings:
@@ -435,10 +435,10 @@ d. The requirements of this section shall no longer be in effect following the d
 
 
 Section 530-f.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 530-f. Instructional arts requirements data.* ::
+*Section 530-f. Instructional arts requirements data.*
 
 
 a. For the purposes of this section:

@@ -1,10 +1,10 @@
 Chapter 13: Procurement
-===================================================
+======================================================================================================
 Section 310.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 310. Scope.* ::
+*Section 310. Scope.*
 
 
 Except as otherwise provided in this charter or by statute,
@@ -17,10 +17,10 @@ Except as otherwise provided in this charter or by statute,
 
 
 Section 311.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 311. Procurement Policy Board.* ::
+*Section 311. Procurement Policy Board.*
 
 
 a. There shall be a procurement policy board consisting of five members, three of whom shall be appointed by the mayor and two of whom shall be appointed by the comptroller. Each member shall serve at the pleasure of the appointing official. Members shall have demonstrated sufficient business or professional experience to discharge the functions of the board. At least one member appointed by the mayor and one member appointed by the comptroller shall not hold any other public office or public employment. The remaining members shall not be prohibited from holding any other public office or employment provided that no member may have substantial authority for the procurement of goods, services or construction pursuant to this chapter. The mayor shall designate the chair.
@@ -77,10 +77,10 @@ i. In addition to other rules authorized by this section, the board may provide 
 
 
 Section 312.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 312. Procurement; general rule and exceptions.* ::
+*Section 312. Procurement; general rule and exceptions.*
 
 
 a. Prior to entering into, renewing, or extending a contract valued at more than two hundred thousand dollars to provide standard or professional services, including agency task orders pursuant to multi-agency task order contracts, but excluding emergency procurements, government-to-government purchases, and the procurement of legal services or consulting services in support of current or anticipated litigation, investigative or confidential services, an agency shall follow the procedure established herein and the mayor shall comply with the reporting requirements set forth in paragraph 8.
@@ -143,10 +143,10 @@ c. 1. For the purposes of this chapter, the term "special case" shall be defined
 
 
 Section 313.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 313. Competitive sealed bidding.* ::
+*Section 313. Competitive sealed bidding.*
 
 
 a. The term competitive sealed bidding shall mean a method of procurement where the award of a contract is made to the lowest responsible bidder whose bid meets the requirements and criteria set forth in the invitation for bids.
@@ -167,10 +167,10 @@ d. Every invitation for bids shall contain a provision that in the event of the 
 
 
 Section 314.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 314. Small purchases.* ::
+*Section 314. Small purchases.*
 
 
 a. Notwithstanding any other provision of this charter, the procurement policy board and the council may, by concurrent action, establish dollar limits for procurement of goods, services, construction, or construction-related services that may be made without competition or without public advertisement. Awards pursuant to this section shall be made in accordance with rules of the procurement policy board.
@@ -181,10 +181,10 @@ b. On or before September thirtieth, two thousand and three, and on or before th
 
 
 Section 315.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 315. Emergency procurement.* ::
+*Section 315. Emergency procurement.*
 
 
 Notwithstanding the provisions of section three hundred twelve of this chapter, in the case of unforeseen danger to life, safety, property or a necessary service, an emergency procurement may be made with the prior approval of the comptroller and corporation counsel, provided that such procurement shall be made with such competition as is practicable under the circumstances, consistent with the provisions of section three hundred seventeen of this chapter. A written determination of the basis for the emergency and the selection of the contractor shall be placed in the agency contract file, and shall further be submitted to the council no later than fifteen days following contract award, and the determination or summary of such determination shall be included in the notice of the award of contract published pursuant to section three hundred twenty-five of this chapter.
@@ -193,10 +193,10 @@ Notwithstanding the provisions of section three hundred twelve of this chapter, 
 
 
 Section 316.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 316. Intergovernmental procurement.* ::
+*Section 316. Intergovernmental procurement.*
 
 
 Notwithstanding any other requirement of this chapter,
@@ -209,10 +209,10 @@ Notwithstanding any other requirement of this chapter,
 
 
 Section 317.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 317. Alternatives to competitive sealed bidding.* ::
+*Section 317. Alternatives to competitive sealed bidding.*
 
 
 a. If, in accordance with section three hundred twelve, an agency determines that the use of competitive sealed bidding is not practicable or not advantageous to the city, the agency shall select the most competitive alternative method of procurement provided for by sections three hundred eighteen through three hundred twenty-two which is appropriate under the circumstance. Each agency contract file shall contain documentation of such determination and of the basis upon which each contract is awarded, as is required by the procurement policy board.
@@ -223,10 +223,10 @@ b. Each contract for goods, services or construction in value of more than five 
 
 
 Section 318.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 318. Competitive sealed bids from prequalified vendors.* ::
+*Section 318. Competitive sealed bids from prequalified vendors.*
 
 
 In accordance with section three hundred seventeen, bids may be solicited from vendors who have been prequalified for the provision of a good, service or construction pursuant to section three hundred twenty-four by mailing notice to each prequalified vendor or, if special circumstances require, to a selected list of prequalified vendors. Award of the contract shall be made in accordance with the provisions of section three hundred thirteen of this chapter. A determination to employ selective solicitation for a particular procurement or for a particular category of procurement shall be made in writing by the agency and approved by the mayor; unless the mayor, upon adequate assurances of an agency's capacity to comply with procedural requirements in relation to this section, has determined that such approval is not required for an agency's contracts or particular categories of contracts.
@@ -235,10 +235,10 @@ In accordance with section three hundred seventeen, bids may be solicited from v
 
 
 Section 319.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 319. Competitive sealed proposals.* ::
+*Section 319. Competitive sealed proposals.*
 
 
 In accordance with section three hundred seventeen, proposals may be solicited through a request for proposals with award to the responsible offeror whose proposal is determined to be the most advantageous to the city, taking into consideration the price and such other factors or criteria as are set forth in the request for proposals. No other factors or criteria shall be used in the evaluation and award of the contract except those specified in the request for proposals. Discussions may be conducted with responsible offerors who submit proposals, provided that offerors shall be accorded fair treatment with respect to any opportunity for discussion and revision of the proposals.
@@ -247,10 +247,10 @@ In accordance with section three hundred seventeen, proposals may be solicited t
 
 
 Section 320.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 320. Competitive sealed proposals from prequalified vendors.* ::
+*Section 320. Competitive sealed proposals from prequalified vendors.*
 
 
 In accordance with section three hundred seventeen, proposals may be solicited from vendors who have been prequalified for the provision of a good, service or construction pursuant to section three hundred twenty-four by mailing notice to each prequalified vendor or, if special circumstances require, to a selected list of prequalified vendors. Award of the contract shall be made in accordance with the provisions of section three hundred nineteen. A determination to employ selective solicitation for a particular procurement or for a particular category of procurement shall be made in writing by the agency by the mayor; unless the mayor, upon adequate assurance of an agency's capacity to comply with the procedural requirements in relation to this section, has determined that such approval is not required for an agency's contracts or particular categories of contracts.
@@ -259,10 +259,10 @@ In accordance with section three hundred seventeen, proposals may be solicited f
 
 
 Section 321.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 321. Sole source.* ::
+*Section 321. Sole source.*
 
 
 a. In accordance with section three hundred seventeen, a contract may be awarded for a good, service or construction without competition when an agency determines, pursuant to rules promulgated by the procurement policy board, that there is only one source for the required good, service or construction. The agency contract file shall contain the agency's determination that only a single source is available for the required good, service or construction, including the process by which the agency made such determination. Copies of such notice shall be filed with the comptroller.
@@ -273,10 +273,10 @@ b. Whenever an agency determines that there is only a single source for a good, 
 
 
 Section 322.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 322. Alternative procurement procedures.* ::
+*Section 322. Alternative procurement procedures.*
 
 
 In accordance with section three hundred seventeen, a contract may be awarded according to another procurement procedure established by rule of the procurement policy board, under circumstances, defined by rule of the procurement policy board, in which the use of such procedures is in the best interest of the city. An agency determination to utilize such an alternative procurement procedure for a particular procurement or for a particular type of procurement shall require the written approval of the mayor prior to seeking bids or proposals. The agency contract file shall contain the determination to use an alternative procurement procedure which shall state (1) which circumstances defined by the board to be in the best interest of the city apply to the procurement, including the basis upon which the agency made such determination, and (2) which procedure, as defined by the board pursuant to this section, was used in awarding the contract.
@@ -285,10 +285,10 @@ In accordance with section three hundred seventeen, a contract may be awarded ac
 
 
 Section 323.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 323. Multi-step sealed proposals.* ::
+*Section 323. Multi-step sealed proposals.*
 
 
 A preliminary request for proposals may be issued requesting the submission of unpriced offers. Submissions in response to such a preliminary request for proposals may be relied upon by an agency (a) to solicit competitive sealed bids in accordance with section three hundred thirteen of this chapter; (b) to solicit competitive sealed bids from prequalified vendors in accordance with section three hundred eighteen; (c) to solicit competitive sealed proposals in accordance with section three hundred nineteen; or (d) to solicit proposals from prequalified vendors in accordance with section three hundred twenty.
@@ -297,10 +297,10 @@ A preliminary request for proposals may be issued requesting the submission of u
 
 
 Section 324.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 324. Prequalification.* ::
+*Section 324. Prequalification.*
 
 
 a. Agencies may maintain lists of prequalified vendors and entry into a prequalified group shall be continuously available. Prospective vendors may be prequalified as contractors for the provision of particular types of goods, services and construction, in accordance with general criteria established by rule of the procurement policy board which may include, but shall not be limited to, the experience, past performance, ability to undertake work, financial capability, responsibility, and reliability of prospective bidders, and their status as a certified minority and women owned business enterprise pursuant to section thirteen hundred four of the charter,and which may be supplemented by criteria established by rule of the agency for the prequalification of vendors for particular types of goods, services or construction or by criteria published in the City Record by the agency prior to the prequalification of vendors for a particular procurement. Such prequalification may be by categories designated by size and other factors.
@@ -313,10 +313,10 @@ b. Any vendor who is denied prequalification or whose prequalification is revoke
 
 
 Section 325.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 325. Planning and Notification.* ::
+*Section 325. Planning and Notification.*
 
 
 a. Agencies that award client services contracts shall produce a draft and final plan and schedule detailing anticipated contracting actions for the upcoming fiscal year, and shall hold at least one public hearing each year immediately following the release of the draft plan and schedule to receive testimony regarding the plan and schedule. The draft and final plan and schedule shall include, but not be limited to: the type of services to be provided, the authorized maximum amount of funding associated with the program, the authorized number of contracts to be let for a particular program, the month and year of the next planned competitive solicitation. Failure to include a contract in the plan and schedule issued pursuant to this section shall not be grounds for invalidating the contract. The procurement policy board shall promulgate rules governing the issuance of the draft and final plans and schedules, which shall ensure that the draft plan and schedule is issued promptly following the submission of the executive budget and that the final plan and schedule is issued no later than September thirtieth each year.
@@ -347,10 +347,10 @@ d. The notice required by subparagraph a of paragraph three of subdivision a of 
 
 
 Section 326.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 326. Public hearings on contract awards.* ::
+*Section 326. Public hearings on contract awards.*
 
 
 a. Prior to entering into any contract for goods, services or construction to be awarded by other than competitive sealed bidding or competitive sealed bids from prequalified vendors, the value of which exceeds one hundred thousand dollars, the agency shall upon reasonable public notice conduct a public hearing to receive testimony regarding the proposed contract. Notwithstanding the preceding sentence, if, within a period of time after such notice, which period of time shall be determined by the procurement policy board, no individual requests an opportunity to speak at such a public hearing with respect to any such proposed contract the value of which does not exceed one million dollars, then such public hearing need not be conducted. The procurement policy board may by rule exempt from this public hearing requirement contracts to be let which do not differ materially in terms and conditions, as defined by the board, from contracts currently held by the city where the parties to such contracts are the same; provided, that under no circumstance may such exemption apply to any contract in value exceeding ten million dollars.
@@ -361,10 +361,10 @@ b. The requirements of this section shall not apply to any procurement (i) let p
 
 
 Section 327.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 327. Certification of legal authority and procedural requisites.* ::
+*Section 327. Certification of legal authority and procedural requisites.*
 
 
 a. In the case of any contract which is let by other than competitive sealed bidding, the mayor shall certify, prior to the filing of the contract with the comptroller for registration in accordance with section three hundred twenty-eight of this chapter, that the procedural requisites for the solicitation and award of the contract have been met. The mayor may delegate such function to the agency proposing to award a contract only upon adequate assurance of an agency's capacity to comply with procedural requirements.
@@ -375,10 +375,10 @@ b. The corporation counsel shall certify prior to the filing of a contract with 
 
 
 Section 328.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 328. Registration of contracts by the comptroller.* ::
+*Section 328. Registration of contracts by the comptroller.*
 
 
 a. No contract or agreement executed pursuant to this charter or other law shall be implemented until (1) a copy has been filed with the comptroller and (2) either the comptroller has registered it or thirty days have elapsed from the date of filing, whichever is sooner, unless an objection has been filed pursuant to subdivision c of this section, or the comptroller has grounds for not registering the contract under subdivision b of this section.
@@ -403,10 +403,10 @@ d. The requirements of this section shall not apply to
 
 
 Section 329.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 329. By whom procured.* ::
+*Section 329. By whom procured.*
 
 
 a. All services to be performed by contract, including the furnishing of goods incident thereto, shall be obtained by the agency for whose use the appropriation therefor shall have been made, except as otherwise provided by law or by rule of the procurement policy board.
@@ -423,10 +423,10 @@ e. Subject to the approval of the comptroller, a specific procurement of a speci
 
 
 Section 330.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 330. Inspection.* ::
+*Section 330. Inspection.*
 
 
 Inspection and acceptance or rejection of all deliveries of goods shall be made by the agency that makes the direct purchase other than under a vendor contract. The commissioner of citywide administrative services may authorize an agency to which delivery is made to perform such functions on purchases made by the department of citywide administrative services subject to standards and policies of the commissioner. The comptroller may continue to perform such inspectional duties as are necessary for auditing purposes, including ascertainment of whether items purchased and paid for by the department of citywide administrative services or other agencies have been received and put to use by agencies.
@@ -435,10 +435,10 @@ Inspection and acceptance or rejection of all deliveries of goods shall be made 
 
 
 Section 331.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 331. Specifications.* ::
+*Section 331. Specifications.*
 
 
 All purchases shall be based upon specifications which are definite and certain, which permit of competition and which shall not be at variance with standard specifications for the various classes of goods approved by the commissioner of citywide administrative services. Before adopting standard specifications the commissioner shall obtain and consider the recommendations of agencies using the items to be standardized.
@@ -447,10 +447,10 @@ All purchases shall be based upon specifications which are definite and certain,
 
 
 Section 332.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 332. Payments procedure.* ::
+*Section 332. Payments procedure.*
 
 
 a. Electronic voucher processing. All city agencies and departments shall, to the extent practicable and consistent with operational and fiscal needs, develop and implement programs to accept vouchers by electronic means.
@@ -463,10 +463,10 @@ b. The procurement policy board shall promulgate rules for the expeditious proce
 
 
 Section 333.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 333. Evaluation and monitoring of contractor performance.* ::
+*Section 333. Evaluation and monitoring of contractor performance.*
 
 
 a. Each agency letting contracts shall monitor the performance of every contractor. Information with resxpect to contractor performance shall be maintained in a central place in accordance with subdivision c of section three hundred thirty-four.
@@ -483,10 +483,10 @@ b. 1. If a borough president determines there is reason to believe a term or con
 
 
 Section 334.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 334. Information on city contracts.* ::
+*Section 334. Information on city contracts.*
 
 
 a. Agency contract files. Each agency shall maintain files containing information pertaining to the solicitation, award and management of each contract of the agency in accordance with standard record maintenance requirements established pursuant to section three thousand four of this charter. The agency contract files shall contain copies of each determination, writing or filing required by this chapter pertaining to a contract and such information as is prescribed by rule of the procurement policy board, in such form as is prescribed by the procurement policy board. Agency contract files shall be open to the public inspection with adequate protection for information which is confidential.
@@ -499,10 +499,10 @@ c. Centralized contract and contractor information. The mayor shall ensure that 
 
 
 Section 335.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 335. Centralized evaluation of contractor integrity, performance, and capability.* ::
+*Section 335. Centralized evaluation of contractor integrity, performance, and capability.*
 
 
 a. The mayor may evaluate the integrity, performance, and capability of entities that contract with the city, are seeking to contract with the city, or may seek to contract with the city. The mayor may designate one or more agencies to participate in such efforts. The evaluations of the mayor and any agency designated by the mayor may include conclusions regarding whether the entity should be considered a responsible contractor. The mayor and any agency designated by the mayor may make such evaluations and conclusions available to agencies and the public through a centralized data base.

@@ -1,12 +1,12 @@
 Title 31: Department of Veterans&apos; Services
-===================================================
+======================================================================================================
 
 Title 31: Department of Veterans' Services
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
 
-*§ 31-101 Definitions.* ::
+*§ 31-101 Definitions.*
 
 
 As used in this title, the following terms have the following meanings:
@@ -22,7 +22,7 @@ Department. The term "department" means the New York city department of veterans
 
 
 
-*§ 31-102 Employment resources.* ::
+*§ 31-102 Employment resources.*
 
 
 a. Definitions. For the purposes of this section:
@@ -50,7 +50,7 @@ d. The department shall consult with the department of small business services t
 
 
 
-*§ 31-103 Veteran liaisons.* ::
+*§ 31-103 Veteran liaisons.*
 
 
 The head of each city agency shall designate an employee to act as liaison with veterans within such agency and shall notify the department of the name and contact information of such liaison. Such liaison shall advise veterans within such agency of benefits and services available to veterans at such agency and employee personnel policies applicable to veterans at such agency. At the request of the department, the head of each city agency shall make such liaison available to confer with and receive periodic training from the department. The department shall post on its website the names of persons designated to act as such liaison within each agency.
@@ -62,7 +62,7 @@ The head of each city agency shall designate an employee to act as liaison with 
 
 
 
-*§ 31-104 Veterans' advisory board electronic mail addresses.* ::
+*§ 31-104 Veterans' advisory board electronic mail addresses.*
 
 
 Upon appointment to the board, every member of the veterans' advisory board, as constituted pursuant to section 3103 of the charter, shall create an electronic mail address dedicated exclusively to the conduct of the business of the board. The department shall make such electronic mail address available to the public on the department's website no later than thirty days after the commencement of the member's term of appointment. Such electronic mail address may not be commingled with any other personal or professional electronic mail addresses held or maintained by the members of the board. The department may establish guidelines to promote uniformity in the formatting of any electronic mail address created pursuant to this section.
@@ -74,7 +74,7 @@ Upon appointment to the board, every member of the veterans' advisory board, as 
 
 
 
-*§ 31-105 Additional notice of public meetings of the veterans' advisory board.* ::
+*§ 31-105 Additional notice of public meetings of the veterans' advisory board.*
 
 
 The department shall ensure that notice of any public meeting of the veterans' advisory board held pursuant to section 3103 of the charter is posted on the department's website with the date, time and location of each public meeting, and that such notice is posted not less than one week prior to each public meeting. The department shall also maintain and periodically update the contact information of veterans organizations located within the city and shall notify such organizations by regular or electronic mail of the date, time and location of each public meeting of the veterans' advisory board not less than one week prior to each public meeting.
@@ -86,7 +86,7 @@ The department shall ensure that notice of any public meeting of the veterans' a
 
 
 
-*§ 31-106 Veterans resource centers.* ::
+*§ 31-106 Veterans resource centers.*
 
 
 a. The commissioner shall ensure that at least one veterans resource center is established and operational in each borough by no later than June 1, 2019. Each borough shall have a minimum of 20 hours of combined field and in-office service per week, including at least 10 consistent office hours, and shall be located in a geographic area that is easily accessible, including for persons with disabilities, and in close proximity to public transportation. Notice of a center’s hours of operation shall be clearly displayed on the premises and on the department’s website.
@@ -108,7 +108,7 @@ f. The commissioner shall, beginning January 1, 2020 and every six months therea
 
 
 
-*§ 31-107 Benefits counseling.* ::
+*§ 31-107 Benefits counseling.*
 
 
 The department shall provide counseling services to veterans seeking assistance regarding benefits offered by the city of New York, the state of New York and the United States department of veterans affairs to which they, their spouses or domestic partners, dependents or any family members may be entitled because of their military service. Counseling services shall include advice, evaluation and information, but shall not include the services identified by section 14.629(b) of title 38 of the code of federal regulations. Counseling services must be provided by trained staff and shall, at a minimum, be available in each of the five boroughs, including at each veterans resource center established pursuant to section 31-106.
@@ -120,7 +120,7 @@ The department shall provide counseling services to veterans seeking assistance 
 
 
 
-*§ 31-108 Veterans resource guide.* ::
+*§ 31-108 Veterans resource guide.*
 
 
 a. The department shall develop and maintain a resource guide for veterans. The department shall regularly update information provided in such guide as is necessary to maintain accuracy.
@@ -158,7 +158,7 @@ d. The department shall publish on its website, and in any hard copy of such res
 
 
 
-*§ 31-109 Reporting requirements.* ::
+*§ 31-109 Reporting requirements.*
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -194,7 +194,7 @@ c. The annual report shall include, but need not be limited to, the following in
 
 
 
-*§ 31-110 Outreach and engagement on issues related to higher education.* ::
+*§ 31-110 Outreach and engagement on issues related to higher education.*
 
 
 a. The commissioner, in consultation with the department of consumer affairs and any other agencies identified by the mayor, shall establish and coordinate outreach and engagement efforts to inform veterans about financial issues and resources related to higher education, including, but not limited to: government programs and other resources available to veterans, resources on how to minimize student debt, student loan repayment options and programs for veterans, the risks of for-profit or fraudulent colleges and trade schools, how to identify predatory for-profit institutions and lower-cost alternatives to for-profit higher education.

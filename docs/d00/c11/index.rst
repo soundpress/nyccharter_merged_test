@@ -1,10 +1,10 @@
 Chapter 10: Budget Process
-===================================================
+======================================================================================================
 Section 225.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 225. Budgetary responsibilities of the mayor, the director of management and budget and the comptroller.* ::
+*Section 225. Budgetary responsibilities of the mayor, the director of management and budget and the comptroller.*
 
 
 a. The mayor shall each year, in accordance with the provisions of this chapter, prepare and submit to the council a preliminary budget and an executive budget each of which shall present a complete financial plan for the city and its agencies for the ensuing fiscal year, setting forth proposed operating and capital expenditures, proposed interfund transfers, anticipated revenues and any other anticipated sources and uses of funds. Each such budget shall consist of three parts: the expense budget, which shall set forth proposed appropriations for the operating expenses of the city including debt service; the capital budget and program, which shall set forth proposed appropriations for capital projects for the ensuing fiscal year and the three succeeding fiscal years; and the revenue budget, which shall set forth the estimated revenues and receipts of the city.
@@ -17,10 +17,10 @@ c. The comptroller shall produce timely analyses of the preliminary and executiv
 
 
 Section 225-a.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 225-a. Citywide participatory budgeting.* ::
+*Section 225-a. Citywide participatory budgeting.*
 
 
 The mayor shall, consistent with this charter and other applicable law, establish a program to be implemented no later than the fiscal year beginning on July 1, 2020, to promote the participation of residents in identifying and expressing preferences among recommendations for local projects in their communities, and shall consider such projects for inclusion in the executive budget. The council, borough presidents, community boards, and city agencies shall, to the extent practicable, coordinate with the mayor and the civic engagement commission in implementing such program established pursuant to this section and section 3202.
@@ -31,10 +31,10 @@ The mayor shall, consistent with this charter and other applicable law, establis
 
 
 Section 226.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 226. Fiscal year.* ::
+*Section 226. Fiscal year.*
 
 
 The fiscal year of the city shall commence on the first day of July in each year and shall terminate at midnight on the ensuing thirtieth day of June.
@@ -43,10 +43,10 @@ The fiscal year of the city shall commence on the first day of July in each year
 
 
 Section 227.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 227. Spending pursuant to appropriations.* ::
+*Section 227. Spending pursuant to appropriations.*
 
 
 a. No money, except for grants or gifts from private entities, shall be paid from any fund under the management of the city, or any fund under the management of any agency or officer of the city, or any other entity the majority of the members of whose board are city officials or are appointed directly or indirectly by city officials, except in pursuance of an appropriation by the council or other specific legal authorization; provided, however, that
@@ -65,10 +65,10 @@ b. The head of each agency of the city, and each entity the majority of the memb
 
 
 Section 228.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 228. Draft ten-year capital strategy.* ::
+*Section 228. Draft ten-year capital strategy.*
 
 
 Not later than the first day of November in each even-numbered year, the director of management and budget and the director of city planning shall jointly submit to the mayor, the council, the borough presidents and the city planning commission a draft ten-year capital strategy prepared in accordance with the provisions of section two hundred fifteen.
@@ -77,10 +77,10 @@ Not later than the first day of November in each even-numbered year, the directo
 
 
 Section 229.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 229. Revenue reports of the comptroller and mayor.* ::
+*Section 229. Revenue reports of the comptroller and mayor.*
 
 
 a. Not later than the first day of November, the comptroller shall certify to the mayor the actual revenues for the previous fiscal year.
@@ -91,10 +91,10 @@ b. Not later than the fifteenth day of November, the mayor shall issue a report 
 
 
 Section 230.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 230. Community board budget priorities.* ::
+*Section 230. Community board budget priorities.*
 
 
 a. Not later than thirty days prior to the date set by the mayor in accordance with section two hundred thirty-one for the submission of departmental estimates, each community board shall submit to the mayor and the appropriate borough president a statement of its expense budget priorities and a statement of its capital budget priorities for the ensuing fiscal year, in such form and containing such information as the mayor shall prescribe. The form prescribed by the mayor shall include (i) a method by which continuing support may be expressed by a community board for existing programs and capital projects and (ii) reasonable limitations on the total number of expense and capital budget priorities which a community board may propose. The mayor shall provide each community board with reasonable notice of the date set for the submission of such priorities. The mayor shall ensure that representatives of each agency that delivers local services, or is responsible for capital projects, within any community district shall be available for consultation with the community board for such community district in the preparation of its statement of budget priorities.
@@ -107,10 +107,10 @@ c. Copies of each statement of budget priorities shall be provided expeditiously
 
 
 Section 231.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 231. Departmental estimates.* ::
+*Section 231. Departmental estimates.*
 
 
 a. Not later than such date as the mayor may direct, the head of each agency shall submit to the mayor, in such form and containing such information as the mayor shall require, a detailed estimate of the expense budget requirements of such agency for the ensuing fiscal year and capital budget and program requirements for the ensuing fiscal year and three succeeding fiscal years, prepared in accordance with the provisions of section one hundred and section two hundred twelve, respectively, and a detailed estimate of all receipts, from sources other than taxes, which the agency anticipates collecting during the ensuing fiscal year. Such estimates shall be known collectively as departmental estimates and shall be known respectively as expense budget departmental estimates, capital budget and program departmental estimates and revenue budget departmental estimates. Copies of such departmental estimates shall be provided expeditiously by the mayor to each borough president.
@@ -121,10 +121,10 @@ b. In the preparation of such departmental estimates, the head of each agency th
 
 
 Section 232.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 232. Report of the comptroller on capital debt and obligations.* ::
+*Section 232. Report of the comptroller on capital debt and obligations.*
 
 
 Not later than the first day of December, the comptroller shall submit to the mayor, the council and the city planning commission a report, which shall be published forthwith in the City Record, setting forth the amount and nature of all obligations authorized on account of each pending capital project and the liabilities incurred for each such project outstanding on the first day of July and setting forth and commenting in detail upon the city's financial condition and advising as to the maximum amount and nature of debt and reserves which in the comptroller's opinion the city may soundly incur for capital projects during each of the four succeeding fiscal years, and containing such other information relevant to this subject as may be required by local law, by the mayor by executive order, or which the comptroller deems necessary and relevant.
@@ -133,10 +133,10 @@ Not later than the first day of December, the comptroller shall submit to the ma
 
 
 Section 233.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 233. Report of the comptroller on the state of the city's finances.* ::
+*Section 233. Report of the comptroller on the state of the city's finances.*
 
 
 Not later than the fifteenth day of December, the comptroller shall report to the council, at a stated meeting of the council, on the state of the city's economy and finances, including evaluations of the city's financial plan, as most recently updated by the mayor in accordance with section two hundred fifty-eight, and the assumptions on which the revenue and expenditure forecasts contained therein are based.
@@ -145,10 +145,10 @@ Not later than the fifteenth day of December, the comptroller shall report to th
 
 
 Section 234.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 234. City planning commission hearing and statement on the draft ten-year capital strategy.* ::
+*Section 234. City planning commission hearing and statement on the draft ten-year capital strategy.*
 
 
 Not later than the sixteenth day of January in each odd numbered year, the city planning commission shall submit to the mayor, the borough presidents and the council a report containing its comments on the draft ten-year capital strategy submitted in accordance with section two hundred twenty-eight of this chapter, including such recommendations as it deems appropriate. The city planning commission, in the preparation of such report, shall, upon adequate public notice, hold a public hearing at which interested organizations and individuals may express their opinions regarding the draft ten-year capital strategy.
@@ -157,10 +157,10 @@ Not later than the sixteenth day of January in each odd numbered year, the city 
 
 
 Section 235.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 235. Preliminary certificate of the mayor on capital debt and obligations.* ::
+*Section 235. Preliminary certificate of the mayor on capital debt and obligations.*
 
 
 No later than the sixteenth day of January, the mayor shall submit to the council, the comptroller, the borough presidents and the city planning commission and publish a preliminary certificate setting forth the maximum amount of debt and reserves which, in the mayor's opinion, the city may soundly incur for capital projects during the ensuing fiscal year and during each of the following three fiscal years, and the maximum amount of appropriations and expenditures for capital projects which the city, given such maximum amount of debt and reserves, may soundly make during each such fiscal year. At any time up to the submission of the executive capital budget to the council, the mayor may amend such preliminary certificate. Any such amendments shall be submitted to the council, the comptroller, the borough presidents and the city planning commission, and published forthwith in the City Record.
@@ -169,10 +169,10 @@ No later than the sixteenth day of January, the mayor shall submit to the counci
 
 
 Section 236.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 236. Submission of the preliminary budget.* ::
+*Section 236. Submission of the preliminary budget.*
 
 
 Not later than the sixteenth day of January, the mayor shall submit to the council and publish a preliminary budget for the ensuing fiscal year. Copies of such budget shall be provided to the council, borough presidents, each community board and borough board, the city planning commission, and the department of city planning. A copy of such preliminary budget shall also be provided to the council not later than the sixteenth day of January in both a human-readable format or spreadsheet and in a non-proprietary format or spreadsheet that permits automated processing and renders such data capable of being downloaded in bulk or any other format mutually agreed upon between the mayor and the council.
@@ -183,10 +183,10 @@ Not later than the sixteenth day of January, the mayor shall submit to the counc
 
 
 Section 237.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 237. Report of independent budget office on revenues and expenditures.* ::
+*Section 237. Report of independent budget office on revenues and expenditures.*
 
 
 On or before the first day of February, the director of the independent budget office shall publish a report, for the ensuing fiscal year, with respect to expected levels of revenues and expenditures, taking into account projected economic factors and the proposals contained in the preliminary budget submitted by the mayor for such fiscal year. Such report shall also include a discussion of city budget priorities, including alternative ways of allocating the total amount of appropriations, expenditures and commitments for such fiscal year among major programs or functional categories taking into account how such alternative allocations will meet major city needs and effect balanced growth and development in the city.
@@ -195,10 +195,10 @@ On or before the first day of February, the director of the independent budget o
 
 
 Section 238.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 238. Community board review of preliminary budget.* ::
+*Section 238. Community board review of preliminary budget.*
 
 
 Not later than the fifteenth day of February, each community board shall submit to the mayor, the council, director of management and budget, the appropriate borough president and each member of the borough board of the borough in which the community board is located, a statement containing the community board's assessment of the responsiveness of the preliminary budget to its statement of budget priorities submitted pursuant to section two hundred thirty and any other comments or recommendations which it wishes to make in regard to the preliminary budget.
@@ -207,10 +207,10 @@ Not later than the fifteenth day of February, each community board shall submit 
 
 
 Section 239.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 239. Estimate of assessed valuation, and statement of taxes due and uncollected by the commissioner of finance.* ::
+*Section 239. Estimate of assessed valuation, and statement of taxes due and uncollected by the commissioner of finance.*
 
 
 Not later than the fifteenth day of February, the commissioner of finance shall submit to the mayor and to the council:
@@ -223,10 +223,10 @@ b. a certified statement showing as of a specified date the amount of all real p
 
 
 Section 240.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 240. Tax Benefit Report.* ::
+*Section 240. Tax Benefit Report.*
 
 
 Not later than the fifteenth day of February the mayor shall submit to the council a tax benefit report which shall include:
@@ -253,10 +253,10 @@ Not later than the fifteenth day of February the mayor shall submit to the counc
 
 
 Section 241.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 241. Borough board preliminary budget hearings.* ::
+*Section 241. Borough board preliminary budget hearings.*
 
 
 Not later than the twenty-fifth day of February each borough board shall submit a comprehensive statement on the budget priorities of the borough to the mayor, council, and director of management and budget. Each borough board, in the preparation of this statement, shall, upon adequate public notice, hold one or more public hearings on the preliminary budget, to obtain the views and recommendations of the community boards within the borough, residents of the borough and others with substantial interests in the borough, on the proposals contained in the preliminary budget and on the capital and service needs of the borough. Officers of agencies, when requested by the borough board, shall appear and be heard.
@@ -265,10 +265,10 @@ Not later than the twenty-fifth day of February each borough board shall submit 
 
 
 Section 242.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 242. Statement of debt service by the comptroller.* ::
+*Section 242. Statement of debt service by the comptroller.*
 
 
 Not later than the first day of March, the comptroller shall submit to the mayor and to the council a certified statement which shall be published forthwith in the City Record and which shall contain a schedule of the appropriations required during the ensuing fiscal year for debt service, including appropriations to the several sinking funds as required by law, and such other information as may be required by law.
@@ -277,10 +277,10 @@ Not later than the first day of March, the comptroller shall submit to the mayor
 
 
 Section 243.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 243. The operating budget of the council.* ::
+*Section 243. The operating budget of the council.*
 
 
 Not later than the tenth day of March, the council shall approve and submit to the mayor detailed itemized estimates of the financial needs of the council for the ensuing fiscal year. Such estimates shall be comprised of at least one personal service unit of appropriation and at least one other than personal service unit of appropriation for each standing committee of the council and for each organizational unit established pursuant to section forty-five of this charter. The mayor shall include such estimates in the executive budget without revision, but with such recommendations as the mayor may deem proper.
@@ -289,10 +289,10 @@ Not later than the tenth day of March, the council shall approve and submit to t
 
 
 Section 244.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 244. Preparation of the executive budget.* ::
+*Section 244. Preparation of the executive budget.*
 
 
 In preparing the executive budget to be submitted in accordance with section two hundred forty-nine, the mayor shall consult with the borough presidents.
@@ -301,10 +301,10 @@ In preparing the executive budget to be submitted in accordance with section two
 
 
 Section 245.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 245. Borough president recommendations to the mayor.* ::
+*Section 245. Borough president recommendations to the mayor.*
 
 
 a. Not later than the tenth day of March, each borough president shall submit to the mayor and council, in such form and containing such information as the mayor shall prescribe, any proposed modifications of the preliminary budget which the borough president recommends in accordance with the provisions of subdivision b of this section.
@@ -315,10 +315,10 @@ b. Each borough president shall propose such modifications to the preliminary bu
 
 
 Section 246.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 246. Report of independent budget office on preliminary budget.* ::
+*Section 246. Report of independent budget office on preliminary budget.*
 
 
 On or before the fifteenth day of March, the director of the independent budget office shall publish a report analyzing the preliminary budget for the ensuing fiscal year.
@@ -327,10 +327,10 @@ On or before the fifteenth day of March, the director of the independent budget 
 
 
 Section 247.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 247. Council preliminary budget hearings and recommendations.* ::
+*Section 247. Council preliminary budget hearings and recommendations.*
 
 
 a. Not later than the twenty-fifth day of March, the council, through its committees, shall hold hearings on the program objectives and fiscal implications of the preliminary budget, the statements of budget priorities of the community boards and borough boards, the draft ten-year capital strategy and the report of the city planning commission on such strategy, the borough presidents recommendations submitted pursuant to section two hundred forty-five to the extent that such recommendations are available at the time of these hearings, and the status of capital projects and expense appropriations previously authorized. The public and representatives of community boards and borough boards may attend and be heard in regard to all such matters. Representatives of the director of management and budget and the director of city planning may attend the hearings and ask questions. Officials of agencies, when requested by the committees of the council, shall appear and be heard.
@@ -341,10 +341,10 @@ b. Findings and recommendations of the council, or its committees, including rec
 
 
 Section 248.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 248. Ten-year capital strategy.* ::
+*Section 248. Ten-year capital strategy.*
 
 
 Not later than the twenty-sixth day of April in each odd-numbered year, the mayor shall issue and publish a ten-year capital strategy, prepared in accordance with the provisions of section two hundred fifteen of this chapter.
@@ -353,10 +353,10 @@ Not later than the twenty-sixth day of April in each odd-numbered year, the mayo
 
 
 Section 249.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 249. Submission of the executive budget.* ::
+*Section 249. Submission of the executive budget.*
 
 
 a. Not later than the twenty-sixth day of April, the mayor shall submit to the council (1) a proposed executive budget for the ensuing fiscal year, and (2) a budget message, both of which, along with any accompanying reports and schedules, shall be printed forthwith. Copies of such proposed executive budget, budget message and any accompanying reports and schedules shall also be provided to the council not later than the twenty-sixth day of April in both a human-readable format or spreadsheet and in a non-proprietary format or spreadsheet that permits automated processing and renders such data capable of being downloaded in bulk or any other format mutually agreed upon between the mayor and the council.
@@ -373,10 +373,10 @@ d. Adjustments of capital budget borough allocations. If the executive capital b
 
 
 Section 250.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 250. The budget message.* ::
+*Section 250. The budget message.*
 
 
 The budget message, which shall not be deemed a part of the budget, shall include:
@@ -421,10 +421,10 @@ The budget message, which shall not be deemed a part of the budget, shall includ
 
 
 Section 251.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 251. Borough president recommendations on the executive budget.* ::
+*Section 251. Borough president recommendations on the executive budget.*
 
 
 Not later than the sixth day of May, each borough president shall submit to the mayor and the council a response to the mayor's executive budget. Such response shall indicate which of the recommended appropriations submitted by the borough president pursuant to section two hundred forty-five, which were not included by the mayor in the executive budget, should be considered by the council for inclusion in the budget. Any appropriations recommended in this manner for inclusion in the budget shall be accompanied by recommendations for offsetting reductions in other appropriations within the borough. Any such increases or reductions must be stated separately and distinctly and refer each to a single object or purpose.
@@ -433,10 +433,10 @@ Not later than the sixth day of May, each borough president shall submit to the 
 
 
 Section 252.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 252. Report of independent budget office on executive budget.* ::
+*Section 252. Report of independent budget office on executive budget.*
 
 
 On or before the fifteenth day of May, the director of the independent budget office shall publish a report analyzing the executive budget for the ensuing fiscal year.
@@ -445,10 +445,10 @@ On or before the fifteenth day of May, the director of the independent budget of
 
 
 Section 253.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 253. Executive budget hearings.* ::
+*Section 253. Executive budget hearings.*
 
 
 Between the sixth day of May and the twenty-fifth day of May, the council shall hold public hearings on the budget as presented by the mayor. The council may hold such hearings either as a body or by its finance committee or other committees. Officers of agencies and representatives of community boards and borough boards shall have the right, and it shall be their duty when requested by the council, to appear and be heard in regard to the executive budget and to the capital and service needs of the communities, boroughs and the city.
@@ -457,10 +457,10 @@ Between the sixth day of May and the twenty-fifth day of May, the council shall 
 
 
 Section 254.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 254. Amendment and adoption of the executive budget.* ::
+*Section 254. Amendment and adoption of the executive budget.*
 
 
 a. The council may not alter the budget as submitted by the mayor pursuant to section two hundred forty-nine except to increase, decrease, add or omit any unit of appropriation for personal service or other than personal service or any appropriation for any capital project or add, omit or change any terms or conditions related to any or all such appropriations; provided, however, that each increase or addition must be stated separately and distinctly from any items of the budget and refer each to a single object or purpose; and, provided, further, that the aggregate amount appropriated for capital projects shall not exceed the maximum amount of appropriations contained in the mayor's certificate issued pursuant to subdivision sixteen of section two hundred fifty.
@@ -477,10 +477,10 @@ e. If a capital budget and a capital program have not been adopted by the fifth 
 
 
 Section 255.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 255. Veto of the mayor.* ::
+*Section 255. Veto of the mayor.*
 
 
 a. The mayor, not later than the fifth day after the council has acted upon the budget or capital program submitted with the executive budget, may disapprove any increase or addition to the budget, any unit of appropriation, or any change in any term or condition of the budget. The mayor, by such date, may also disapprove any item or term or condition included in such budget pursuant to the provisions of section two hundred forty-three of this chapter. The mayor shall return the budget by that date to the council, setting forth objections in writing.
@@ -491,10 +491,10 @@ b. The council, by a two-thirds vote of all the council members, may override an
 
 
 Section 256.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 256. Appropriation, certification and publication.* ::
+*Section 256. Appropriation, certification and publication.*
 
 
 Not later than the day after the budget is finally adopted, the budget as finally adopted in such year shall be certified by the mayor, the comptroller and the city clerk as the budget for the ensuing fiscal year, and the several amounts therein specified as appropriations or units of appropriation shall be and become appropriated to the several purposes therein named, whether payable from the tax levy or otherwise and subject to the terms and conditions of the budget. The budget shall thereupon be filed in the offices of the comptroller and the city clerk, and shall be published forthwith. When finally adopted in accordance with sections two hundred fifty-four and two hundred fifty-five, such budget as adopted and as modified during the fiscal year in accordance with sections one hundred seven and two hundred sixteen shall have the force of law.
@@ -503,10 +503,10 @@ Not later than the day after the budget is finally adopted, the budget as finall
 
 
 Section 257.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 257. Comparison of adopted budget and ten-year capital strategy.* ::
+*Section 257. Comparison of adopted budget and ten-year capital strategy.*
 
 
 Not later than thirty days after the budget is finally adopted, the mayor shall prepare a statement of how the capital budget and program as finally adopted vary, if at all, from the ten-year capital strategy, submitted pursuant to section two hundred forty-eight. Such statement shall be published as an appendix to the ten year capital strategy.
@@ -515,10 +515,10 @@ Not later than thirty days after the budget is finally adopted, the mayor shall 
 
 
 Section 258.
---------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 
-*Section 258. Standards for budget and financial plan.* ::
+*Section 258. Standards for budget and financial plan.*
 
 
 a. The operations of the city shall be such that, at the end of the fiscal year, the results thereof shall not show a deficit when reported in accordance with generally accepted accounting principles unless such deficit is offset by funds withdrawn for such purpose from the revenue stabilization fund established pursuant to section one thousand five hundred twenty-eight. The mayor shall take all actions necessary in accordance with the provisions of the charter, including but not limited to section one hundred six, or other applicable law to ensure that the city is in compliance with this subdivision.
