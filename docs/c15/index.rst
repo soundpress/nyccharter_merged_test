@@ -1,235 +1,1106 @@
-Title 16: Sanitation
+Title 29: Loft Board
 ===================================================
 
-Chapter 1: Department of Sanitation
+Chapter 1: Practice and Procedure
 --------------------------------------------------
 
 
 
-*§ 16-101 Definitions.* ::
+*§ 1-01 Organization and Voting.* ::
 
 
-When used in this title the following terms shall have the following meanings:
+(a) Organization. The Loft Board (hereinafter referred to as "the Board") shall consist of no fewer than 5 and no more than 9 members, including the Commissioner of the Department of Buildings, serving ex officio as chair, the Commissioner of the Fire Department, serving ex officio as a member, and one representative of loft manufacturing interests, one representative of the real estate industry and one representative of loft residential tenants, respectively. All other members of the Board shall represent the public. The Board may conduct business with fewer than the full complement of its appointed members when one or more vacancies are created by the death, resignation, or inability of a member or members to continue serving on the Board for any reason, until the appointment of replacement(s) by the Mayor.
 
-(1) "Department" shall mean the department of sanitation.
+(b) Voting. Each member of the Board shall have one vote. The Commissioner of the Department of Buildings and the Commissioner of the Fire Department, serving ex officio, may each designate an employee of his or her department to serve on the Board and vote in his or her absence. Representatives of the special interest groups, specified in 29 RCNY § 1-01(a), supra, may in their absence, designate substitutes to participate in discussions at the Board meetings, when the Board, by vote requests such participation. Such designated substitutes may participate only to the extent permitted by the Board and shall not have the right to vote.
 
-(2) "Commissioner" shall mean the commissioner of sanitation.
+(c) Quorum. A majority of the members of the Board constitutes a quorum for the transaction of business. Board action may be taken by affirmative vote of the majority of the entire Board when a quorum is present.
 
-(3) "Street" includes street, avenue, road, alley, lane, highway, boulevard, concourse, driveway, culvert and crosswalk, and every class of road, square and place, and all parkways and through vehicular park drives except a road within any park or a wharf, pier, bulkhead, or slip by law committed to the custody, and control of the department of ports and terminals.
 
 
 
 
 
+*§ 1-02 Rules and Regulations, Method of Adoption.* ::
 
-*§ 16-102 Secretary.* ::
 
+The Board shall issue rules and regulations governing its procedures and the exercise of its powers under Article 7-C of the New York State Multiple Dwelling Law and Executive Order No. 129 of Mayor Michael R. Bloomberg, or any successor Executive Order thereto. Loft Board staff shall be responsible for drafting rules, regulations, guidelines and procedures at the direction of the Chair or by vote of the Board. In addition, draft rules, regulations, guidelines and procedures may be presented to the Board for consideration by Board members or other interested parties. Loft Board staff shall comply with § 1043 of the New York City Charter in the promulgation of all rules and regulations. All draft rules and regulations proposed shall be submitted to the Board for comment and review before they are published for comment. Draft rules and regulations may be modified at the direction of the Chair or by vote of the Board. Upon vote of the Board, rules and regulations shall be adopted and ordered into effect following periods for public notification and comment, mandated by § 1043 of the New York City Charter, and hearings when required by § 282(d) of Article 7-C of the New York State Multiple Dwelling Law, except that emergency regulations or guidelines may be adopted without prior public notification and comment. Following consideration of comments received and public testimony, the Board may modify or amend the proposed rules or regulations in response thereto.
 
-The commissioner shall appoint and at pleasure may remove a secretary of the department.
 
 
 
 
 
+*§ 1-03 Meetings.* ::
 
-*§ 16-103 Uniformed forces.* ::
 
+(a) The Board shall meet in regularly scheduled sessions. It may also meet in special sessions at the request of the Chair or by affirmative vote of 5 members.
 
-The commissioner, from time to time, shall prescribe distinctive uniforms, badges and insignia to be worn and displayed by members of the uniformed force and prescribe and enforce penalties for the failure of any member of such force to wear and exhibit the same while engaged in the performance of his or her duties.
+(b) The order of business at all meetings shall be determined by the Chairman, but such order may be changed by vote of the Board. The Chairman will place on the agenda any matter at the request of at least three (3) members, with the Chair determining when such matter is to be placed on the agenda.
 
+(c) All meetings and hearings will be conducted in accordance with Robert's Rules of Order unless such rules are in conflict with anything stated herein, in which case these Regulations shall control.
 
+(d) The Board may conduct public hearings on any matter within its purview under Article 7-C of the New York State Multiple Dwelling Law, at the direction of the Chair or by vote of the Board.
 
+(e) All regular and special sessions shall be open to the public. Loft Board staff shall notify the public of such sessions, in accordance with §§ 95 et seq. of the New York State Public Officers Law. Members of the public are invited to observe the Board's deliberations at all regular and special sessions, but shall be permitted to speak or otherwise participate only in those sessions designated as public hearings. At such hearings, any member of the public shall be permitted to speak for 3 minutes on the subject before the Board. The time limit on any speaker may be modified or waived at the request of any Board member.
 
+(f) The Board may meet in Executive Session by majority vote of its entire membership. This vote shall be taken at a public session, on a motion describing in general terms the subject matter to be considered at the Executive Session proposed. Executive Sessions may be called for discussions of proposed, pending, or current litigation, including requests for intervention by the Board in particular cases, for deliberation in quasi-judicial proceedings and for any other purposes allowed by law. Such sessions shall be closed to the public and convened and conducted in accordance with § 100 of the New York State Public Officers Law.
 
 
-*§ 16-104 Records.* ::
 
 
-All transactions of the commissioner and all documents and records in the possession of the department shall be matters of public record and open to public inspection, except such documents and records as shall be prepared by or for counsel for use in actions or proceedings to which the city or commissioner is a party.
 
 
+*§ 1-04 Minutes and Transcripts.* ::
 
 
+(a) Minutes shall be taken at every regular session of the Board and shall be made available to Board members and the public no later than two weeks from the date of a session.
 
+(b) Minutes shall be taken of every Executive Session of the Board and shall be made available to Board members and the public no later than one week from the date of a session, provided, however, that the summaries of actions reported in such minutes need not include any matter which is not required to be made public by the Freedom of Information Law, Article 6 of the New York State Public Officers Law.
 
-*§ 16-105 Drivers or sweepers; temporary employment of.* ::
+(c) All public hearings shall be electronically recorded by the Board or by a recording service under the Board's direction. Copies of such recordings or transcripts thereof shall be available at the prevailing rate to the public or to Board members, except that such recordings or transcripts may be made available without charge to Board members at the direction of the Chair or by vote of the Board.
 
+(d) An electronic recording of any open session of the Board will be made only if ordered in advance of such session at the direction of the Chair or by vote of the Board. Copies of such recordings or transcripts thereof shall be available under the same conditions set forth in 29 RCNY § 1-04(c), supra.
 
-Any person registered or eligible to appointment as a driver, or as a sweeper, may be employed temporarily at any time as an extra driver or sweeper to replace a driver or sweeper who is suspended or temporarily absent from duty for any cause. The driver or sweeper whose place is so filled shall not receive any compensation for the time during which he or she is so absent from duty or his or her place is so filled, unless such absence results from injury or illness caused by service in the department.
 
 
 
 
 
+*§ 1-05 Public Access to Minutes and Records/Procedures.* ::
 
-*§ 16-106 Removal and suspension of employees.* ::
 
+Minutes of open and Executive sessions and all records of the Board available under Article 6 of the New York State Public Officers Law (The Freedom of Information Law) shall be available for public inspection, by mail or by appointment upon prior written request, at the offices of the New York City Loft Board, weekdays, between the hours of 10 a.m. and 4 p.m. and during other business hours of the office. Copies of all such minutes and records may be obtained by the public at a charge of 25 per page no bigger than 9 x 14 inches. Requests for inspection or for copies of materials available under the Freedom of Information Law should be addressed to: Records Access Officer, New York City Loft Board. When the Records Access Officer denies access to records in whole or in part, such determination may be appealed within 30 days by written application to: Records Access Officer, New York City Loft Board.
 
-a. The commissioner, in his or her discretion, shall have power to punish any member of the uniformed force who has been guilty of:
 
-   1. any legal or criminal offense,
 
-   2. neglect of duty,
 
-   3. violation of rules,
 
-   4. neglect or disobedience of orders,
 
-   5. incapacity,
+*§ 1-06 Applications to the Loft Board.* ::
 
-   6. absence without leave,
 
-   7. conduct injurious to the public peace or welfare,
+(a) (1) All applications to the Loft Board concerning coverage, hardship claims, rent adjustments, fixture fee disputes, exemption, and any other matters within the purview of the Loft Board under Article 7-C of the Multiple Dwelling Law ("MDL"), must be submitted to the Office of the Loft Board, on forms approved by the Loft Board, together with any additional information as may be required. The forms may not be altered or re-typed. Except as otherwise described in the Loft Board rules, the applicant must submit 5 copies of the application, and shall be required to list, to the best of his or her knowledge, all affected parties when filing the application. The failure of an applicant to list all of the affected parties on an application may result in a delay in processing the application, or return of the application to the applicant as incomplete.
 
-   8. immoral conduct, or
+   (2) Affected Parties.
 
-   9. any breach of discipline, by forfeiting or withholding pay for a specified time, not exceeding thirty days; by suspension, without pay during such suspension, for a period not exceeding thirty days; or by dismissal from the force. The commissioner may withhold pay, salary or compensation from any member or members of the force for absence for any cause without leave.
+      (i) Affected parties for coverage, harassment and hardship claims shall include: owners, all tenants of record in the building, including residential, commercial and manufacturing tenants, and all occupants of the building, if different from tenants of record.
 
-b. All pay deducted or forfeited under the provisions of this section shall be retained by the commissioner of finance to the credit of the department, and shall be applicable, in the discretion of the commissioner, to any of the purposes of such department as if originally appropriated therefor.
+      (ii) In addition to the parties listed in (i) above, affected parties for abandonment claims pursuant to 29 RCNY § 2-10 shall also include the current occupant of the unit alleged to be abandoned, the previous occupant alleged to have abandoned, and the unit and the previous occupant's beneficiary to the estate, if applicable. (iii) For all other categories of applications, affected parties shall include the owner and such occupants as are necessary for a final resolution of the claim asserted in the application.
 
-c. A member of the department shall be dismissed only after he or she has been informed of the cause of the proposed dismissal and has been allowed an opportunity of making an explanation.
+   (3) The applicant may only have one claim per application. The application shall contain facts and arguments relevant to the claim raised in the application. The applicable application fee stated in 29 RCNY § 2-11 is due upon submission of the application. The application will not be considered filed, or be processed, until the application fee is received.
 
-d. In the event of the dismissal of any member of the force, he or she shall have the right to a review of the action of the commissioner or his or her deputy by certiorari or other appropriate remedy. Upon being successful in such proceeding, he or she shall be entitled to be reinstated and to receive full pay during the time of his or her suspension or dismissal from office.
+(b) (1) Service of the Application on the Affected Parties. Before filing the application with the Loft Board, the applicant shall serve each affected party with a copy of the application and the instruction sheet for filing an answer by first-class mail. Except as set forth in subparagraph (b)(4) below, a United States Post Office-stamped copy of the certificate of mailing constitutes proof of service of the application to the affected parties.
 
-e. When and as soon as a member of the uniformed force has been fined, suspended or dismissed, the true cause for such fine, suspension or dismissal shall be entered in writing in a book to be kept for that purpose by the commissioner.
+   (2) Filing Applications with the Loft Board. The application and accompanying documents may be submitted to the Loft Board by (i) hand delivery, or (ii) regular mail. Applications will be considered filed on the day they are received by the Loft Board during business hours, as defined in subparagraph (e) below. The applicant's filing with the Loft Board must include:
 
+      (i) 5 copies of the application, at least one of which must have an original signature;
 
+      (ii) one copy of the instruction sheet sent to each affected party; and
 
+      (iii) proof of service of the application to the affected parties (the United States Post Office-stamped copy of the certificate of mailing). Except as set forth in subparagraph (b)(4) below, if any of the documentation required by this section is not filed at the time the application is filed with the Loft Board, the application will be considered incomplete. The Loft Board may return the application and the application fee, if applicable, to the applicant without further notice.
 
+   (3) Service shall be deemed to be completed 5 calendar days after the date of mailing.
 
+   (4) Waiver of Service for Indigent Persons. An applicant may request a waiver from the Loft Board staff of the requirement to serve all affected parties on the basis of indigence. Upon completion of the application, the applicant must submit 5 copies of the application, at least one of which must have the original signature, plus 1 copy for each affected party listed on the application. In addition, the application must be accompanied by a written request that the Loft Board staff, rather than the applicant, serve each affected party due to the applicant's indigence. The request must be accompanied by an affidavit setting forth the amount and all sources of applicant's income, any property owned and the value thereof, and any other facts that would be helpful to the Loft Board staff in determining whether the request should be approved. If the Loft Board staff approves the request, it shall notify the applicant in writing, and serve each affected party with a copy of the application and instruction sheet by regular mail. If the Loft Board staff denies the request, it shall notify the applicant in writing and return the copies of the application submitted for each affected party so that the applicant may serve the affected parties in accordance with the procedure set forth in subparagraph (b)(2).
 
-*§ 16-107 Leaves of absence.* ::
+(c) (1) Answer Period. An affected party who has been served with a copy of a Loft Board application shall have the answer period established in the relevant Loft Board rules from the date on which service of the application was completed to file an answer with the Loft Board, with proof of service upon the applicant. Except as otherwise provided in the Loft Board rules, the answer period shall be 30 calendar days after service of the application on the affected party is deemed complete pursuant to (b)(3) of this rule.
 
+   (2) The answer shall contain facts and arguments relevant to the issues raised in the application.
 
-a. A leave of absence to any member of the uniformed force shall not exceed twenty days in any one year, in addition to any vacation period, except upon condition that such member shall waive or release not less than one-half of all salary, pay or compensation and claim thereto, or any part thereof, during such absence.
+(d) Service of Answer on the Applicant. Service of the answer must be delivered upon the applicant by (1) first-class mail, at the address of the applicant specified in the application, or (2) by facsimile transmission to the applicant at a fax number designated by the applicant or the applicant's attorney. If service of the answer upon the applicant is accomplished by facsimile transmission, service of the answer will be considered complete on the day of the facsimile transmission, provided that the affected party mails, by regular mail, a second copy of the answer to the applicant, or his or her attorney, within 3 calendar days of date of the facsimile transmission.
 
-b. Absence without leave of any member of the uniformed force for five consecutive days shall be deemed and held to be a resignation, and at the expiration of such period the member so absent shall cease to be a member of such force and may be dismissed therefrom without notice.
+(e) Filing the Answer with the Loft Board. Five copies, including the original answer and any accompanying documents, and proof of service of the answer on the applicant, may be submitted to the Loft Board at any time up to and including the date that the answer is due either by (1) hand delivery, (2) mail, or (3) facsimile transmission at the fax number designated for the Loft Board. Proof of service of the answer on the applicant constitutes an affidavit of service on the Loft Board's approved form, if served by hand delivery or first-class mail, and a facsimile receipt, if served by fax. Hand delivered answers and the accompanying documents will be considered filed on the day they are delivered to the Loft Board only if they are delivered during business hours. For purposes of this rule, "business hours" shall be defined as 9:00am to 4:00pm on Monday through Friday, except for federal, state or city holidays.
 
+(f) If the answer and any accompanying documentation is submitted to the Loft Board by facsimile transmission, service of the answer will be deemed filed on the date of facsimile transmission if the required documentation described in subparagraph (e) above is submitted to the Loft Board by (1) hand delivery, within 3 calendar days of the date of the facsimile transmission, or (2) mail, postmarked within 3 calendar days of the date of the facsimile transmission. Failure to submit the original answer signed by the affected party, any accompanying documents and proof of service within 3 calendar days to the Loft Board following facsimile transmission of such documents will constitute a default and the affected party will then be subject to the procedures outlined in 29 RCNY § 1-06(i).
 
+(g) All applications, answers and other proofs requested by the Loft Board's staff or the Loft Board shall be verified or affirmed. Failure to do so may result in rejection of the documents. Whenever the Loft Board rules require that a document be filed with the Loft Board, it is required that the document be received by the Loft Board. If the Loft Board's rules require that a document be filed with the Loft Board within a prescribed time period, that document must be received within the specified time period. If any deadline set by the Loft Board rule is not a business day, the deadline will be extended to the next business day. A business day is defined as 9:00am to 4:00pm on Monday through Friday except for federal, state or city holidays.
 
+(h) Amended Pleadings. An applicant or affected party may submit amended pleadings at any time up to and including the date of the first scheduled conference. The applicant must use the Loft Board's approved form for amended applications. An amended application must be served on all affected parties and filed with the Loft Board in the same way as described in subparagraph (b) above. An amended answer must be filed with the Loft Board and served on the applicant in the same way as described in subparagraphs (c) and (d) above. The Administrative Law Judge, Loft Board staff member or hearing examiner assigned to the case will afford the applicant or affected party an opportunity to respond to amended pleadings submitted on the date of the first scheduled conference. Thereafter, amended pleadings may be submitted only if permitted by the Loft Board's staff, hearing examiner or the Administrative Law Judge assigned to the case.
 
+(i) Extensions to File an Answer. An affected party must file a written request with the Loft Board for an extension to file an answer. The request must be filed with the Loft Board before the end of the applicable answer period. The extension request must explain the reasons for the extension request, and may be mailed, faxed or hand delivered to the Loft Board's office, with an affidavit of service affirming the request was also served upon the applicant by regular mail, hand delivery or facsimile transmission. If the applicant wishes to oppose the request for additional time to file an answer, the applicant may file opposition papers with the Loft Board within 7 calendar days following service of the extension request. The opposition papers must include the reasons why the request should be denied and must describe how the applicant will be prejudiced if additional time is granted to file an answer. After the 7 calendar day opportunity to file opposition papers passes, the Executive Director or designated staff member may issue a decision for the extension request. If the applicant does not oppose the extension, a joint statement may be filed to the Loft Board recommending a reasonable deadline for the answer. The Loft Board staff may accept, reject or modify the proposed filing deadline.
 
+   (1) Defaults. If an affected party fails to file an answer to any application within the applicable time period in the Loft Board rules and fails to file a timely request for an extension, the party will be in default and will be barred from filing an answer or offering any evidence in its defense. The affected party's defensive case will not be heard as a result of its failure to file an answer. The Loft Board's staff, the Loft Board's hearing examiner or the Administrative Law Judge assigned to the case will advise the affected party in writing of the default and that an inquest will be held unless the party moves for relief from the default as specified in 29 RCNY § 1-06(i)(2) below. This provision will not apply where an extension to file an answer has been requested or granted before the expiration of the answer period.
 
-*§ 16-108 Salary during absence from duty by injury or sickness.* ::
+   (2) An affected party who is barred from filing an answer will have 30 calendar days after the mailing date of the default determination to move for relief from the default determination. The party submitting the motion must establish before the Loft Board's staff, the Loft Board's hearing examiner or Administrative Law Judge assigned to the case that good cause existed for the failure to file an answer. Any motion for relief from a default determination must be received by the Loft Board's staff, the Loft Board's hearing examiner or the Administrative Law Judge assigned to the case, with proof of service as defined in 29 RCNY § 1-06(e) on the applicant, within the specified time period. Good cause can be established by proof of a reasonable explanation for failure to file an answer and a summary of a non-frivolous defense to be presented in the case. The Administrative Law Judge, the Loft Board staff or the Loft Board's hearing examiner assigned to the case may allow the applicant to file opposition papers to the motion to vacate the default determination. Where the affected party fails to file an answer and no timely motion to vacate the default determination has been received by the Administrative Law Judge, Loft Board's staff or Loft Board's hearing examiner, the case will proceed and any party in default will not be permitted to file an answer or present its defensive case.
 
+   (3) Following the issuance of a Loft Board order, an affected party who has not moved for relief from a default determination as set forth in subparagraph (2) above and is aggrieved by the default determination may move to reopen the proceeding by filing an application for reconsideration with the Loft Board within 30 calendar days following the mailing date of the order. Such application will be granted only if the Loft Board finds that the affected party has established (i) extraordinary circumstances for the failure to file an answer and (ii) substantial likelihood of success on the merits.
 
-Each person employed in the sanitation service classification of the classified civil service shall be paid full pay or compensation during absence from duty caused by injury or sickness, except as otherwise provided by law, and subject to such rules and regulations as may be adopted by the commissioner.
+   (4) An applicant must present a prima facie case at a hearing or inquest demonstrating entitlement to the relief sought in the application whether or not an answer has been filed for the application. The applicant must prove his/her case by a preponderance of the evidence for the relief requested in the application.
 
+(j) 1) The Loft Board staff may investigate claims raised in applications and may conduct informal conferences, upon 15 calendar days notice to the applicant and all affected parties who have filed an answer, to settle disputes or clarify issues. As part of its investigation, the staff may request that the parties furnish additional evidence or memoranda relevant to the application and request appropriate ledger, documents and other records relevant to the issues in dispute.
 
+   (2) Hearings.
 
+      (i) All parties shall be afforded an opportunity for a hearing within a reasonable time. The Loft Board shall provide at least 15 calendar days notice to the applicant and all affected parties who have filed an answer. The notice of hearing shall include a statement of the nature of the proceeding and time and place it will be held, the legal authority and jurisdiction under which the hearing is to be held, a reference to the particular sections of law and rules involved, and a short and plain statement of the matters to be adjudicated.
 
+      (ii) The Executive Director or designated staff member, shall determine whether an informal conference or a hearing shall be conducted before a staff hearing examiner, a Loft Board's staff member or before an Administrative Law Judge at the Office of Administrative Trials and Hearings (OATH). All hearings shall be conducted in accordance with procedures set forth in these rules. OATH's rules of practice, whether procedural or substantive, may only apply to Loft Board cases if the issue is not the subject of any rule in Title 29 of the Rules of the City of New York. Where a hearing is conducted at OATH, the Administrative Law Judge shall submit recommended findings of fact and a recommended decision to the Loft Board, which shall make the final findings of fact and decision. Where a hearing is conducted by a Loft Board's staff hearing examiner, such a hearing will be conducted by a staff hearing examiner who is assigned solely to adjudicative duties, who may take testimony under oath and consider affidavits and other proofs. Formal rules of evidence shall not apply to such hearings, except that effect shall be given to the rules of privilege recognized by law. All hearings shall be electronically recorded, and a duplication of the recording or transcript of the proceedings shall be available to any party upon request and agreement to pay the fee assessed for the duplication. At the hearing, the parties shall be afforded the opportunity to be represented by counsel, to issue subpoenas or to request that a subpoena be issued, to call witnesses, to cross-examine opposing witnesses and to present oral and written arguments on the law and facts.
 
+   (3) Parties shall be advised of their right to representation by counsel and of their right to cross-examine witnesses at hearings.
 
-*§ 16-108.1 Receipt of line of duty pay.* ::
+   (4) When a party fails to furnish documents requested by the Administrative Law Judge, the Loft Board, or its staff, or fails to submit to examination or cross-examination, inferences adverse to his or her position may be drawn by the fact-finder from such refusal.
 
+   (5) Where informal conferences conducted by an Administrative Law Judge or the Loft Board's staff result in the resolution of disputes to the mutual satisfaction of the parties, a stipulation of agreement shall be entered into by the parties and reviewed by the Executive Director. A summary report of such matters including the type of application, the issues presented and the resolution reached shall be made to the Loft Board, which may direct that a particular matter be reopened and remanded for further investigation. These cases shall appear on the summary calendar of the Loft Board's agenda. Upon issuance of an order, such summary cases shall be deemed closed.
 
-a. A member of the uniformed force of the department of sanitation shall be entitled pursuant to this section to the full amount of his or her regular salary for the period of any incapacity due to illness or injury incurred in the performance and discharge of duty as a member of the uniformed force, as determined by the department.
+(k) 1) Parties may consent in writing to adjourn conferences or hearings with the approval of the Loft Board staff member, hearing examiner or Administrative Law Judge assigned to the case. No more than 2 consecutive consent adjournments will be permitted, except as noted in 29 RCNY § 1-06(k)(2) below.
 
-b. Nothing in this section shall be construed to affect the rights, powers and duties of the commissioner pursuant to any other provision of law, including, but not limited to, the right to discipline a member of the uniformed force by termination, reduction of salary, or any other appropriate measure; the power to terminate an appointee who has not completed his or her probationary term; and the power to apply for ordinary or accident disability retirement for a member of the uniformed force.
+   (2) Additional requests for adjournments must be made in writing to the Loft Board's hearing examiner, staff member or Administrative Law Judge assigned to the case, with notice to all affected parties or applicant, at least 5 calendar days before the date of the scheduled conference or hearing. The reason for the adjournment request must be provided at the time of the request. The adjournment will be granted at the sole discretion of the Loft Board hearing examiner, Loft Board staff member or Administrative Law Judge assigned to the case.
 
-c. Nothing in this section shall be construed to require payment of salary to a member of the uniformed force who has been terminated, retired, suspended or otherwise separated from service by reason of death, retirement or any other cause.
+   (3) When any party adjourns more than 2 consecutive schedule d conferences or hearings, the Loft Board hearing examiner, Loft Board staff member or Administrative Law Judge may direct that the next scheduled hearing or conference be marked final. This notice shall be sent to the parties in writing.
 
-d. A decision as to eligibility for benefits pursuant to this section shall not be binding on the medical board or the board of trustees of any pension fund in the determination of eligibility for an accident disability or accidental death benefit.
+   (4) If an applicant does not appear for a conference or hearing which has been marked final against him/her, the application may be dismissed for failure to prosecute unless the Loft Board hearing examiner, Loft Board staff member or Administrative Law Judge approves a written request for its reinstatement which must be made within 30 calendar days from the conference or hearing date. The written request for reinstatement must provide a showing of extraordinary circumstances which prevented the applicant's attendance at the hearing or conference.
 
-e. As used in this section the term "incapacity" shall mean the inability to perform full, limited, or light duty.
+   (5) If an affected party does not appear for a conference or hearing marked final against him/her, the answer may be stricken and the affected party may be barred from presenting its defensive case unless the Loft Board hearing examiner, Loft Board staff member or Administrative Law Judge assigned to the case approves a written request for its reinstatement, which must be made within 30 calendar days from the conference or hearing date. The written request for reinstatement must be served on the applicant and must provide a showing of extraordinary circumstances which prevented the affected party's attendance at the hearing or conference.
 
+   (6) In a case in which an answer has been stricken or an affected party is barred from filing an answer and presenting its defensive case, the applicant must present a prima facie case at an inquest before the assigned hearing examiner, Loft Board staff member or Administrative Law Judge, demonstrating entitlement to the relief sought in the application by a preponderance of the evidence.
 
+(l) (1) If an applicant fails to appear at a hearing on due notice which has not been marked final against the applicant, his or her application may be dismissed without prejudice. If an affected party fails to appear for a hearing on due notice which has not been marked final against the affected party, the Loft Board hearing examiner, Loft Board staff member or the Administrative Law Judge may conduct an inquest on the application. All such inquests shall be electronically recorded.
 
+   (2) If an affected party fails to appear for a hearing and an inquest is held, the conclusions of which are adverse to his or her contentions, the affected party may move to vacate the default within 30 calendar days after the mailing date of the report and recommendation, upon good cause shown. Good cause can be established by proof of a reasonable explanation for the affected party's failure to appear on the date of the hearing and a summary of the non-frivolous defense to be presented at the hearing. Failure to provide a reasonable explanation for the affected party's failure to appear at the hearing and a summary of the non-frivolous defense may result in the denial of the request to vacate the default. Any motion to vacate the default received 30 or more calendar days after the mailing date of the report and recommendation will be denied as untimely, except that the Executive Director may grant such motion, in her/his discretion, if extraordinary circumstances for the non-appearance and a substantial likelihood of success on the merits can be shown.
 
+(m) The staff of the Loft Board or the Administrative Law Judge assigned to the case shall prepare a written report and recommendation for all cases appearing on the reconsideration/appeals and master calendars. The report and recommendation must be submitted to the Loft Board. The report and recommendation shall be based exclusively on the administrative record of the case. For an application seeking removal from the Loft Board's jurisdiction, the administrative record is deemed closed on the date the Loft Board issues its order in the case. In a case that involves a hearing and where the Administrative Law Judge or Loft Board staff examiner must issue a report and recommendation, the administrative record is deemed closed at the conclusion of the hearing unless otherwise stated by the Administrative Law Judge or staff hearing examiner. The administrative record includes all pre-trial motions, testimony, documentary evidence presented at a hearing, post-trial briefs and any other evidence accepted by the Administrative Law Judge or hearing examiner. The report and recommendation issued to the Loft Board by the Administrative Law Judge or the Loft Board staff member shall include:
 
+   (1) a description of the application, and the names of the parties, their counsel and other persons affected by the application;
 
-*§ 16-109 Sanitation service; absence from duty because of injury or illness incurred prior to April eighteenth, nineteen hundred sixty-two.* ::
+   (2) a summary of the facts disputed, and the facts found during any investigation and of testimony and other proofs taken at the hearing or inquest;
 
+   (3) copies of the application and of all affidavits, memoranda, and briefs submitted by the parties;
 
-Each person employed in the sanitation service classification of the classified civil service on October tenth, nineteen hundred sixty-two who, prior to April eighteenth, nineteen hundred sixty-two, incurred an injury or illness, and who was or is absent from duty in such employment on or after April eighteenth, nineteen hundred sixty-two, as a result of such injury or illness incurred prior to such date, shall be entitled to receive as pay or salary during such absence or absences, an amount equal to the difference between (a) the total of all payments and awards to such employee under the workers' compensation law by reason of such injury or illness, exclusive of the death benefit provided for in section sixteen of the workers' compensation law; and (b) the amount which such employee would have received in full pay or compensation for absences from such duty on or after April eighteenth, nineteen hundred sixty-two because of such injury or illness if section 16-108 of this title, as qualified by the rules and regulations adopted by the commissioner pursuant to such section, were applicable thereto; provided that the amount to which such employee would have been entitled if such section were applicable is greater than the total specified in item (a) hereof. The commissioner, with the approval of the mayor, may adopt rules and regulations in accordance with the procedure prescribed in section eleven hundred five of the charter, setting forth the manner in which the amounts required to be paid under this section shall be payable. Such rules and regulations may also provide that the amount required to be paid under this section for any period during which such employee was absent, or any part of such amount, may be paid to an employee in a lump sum or weekly installments or a combination of both prior to the date upon which the total specified in item (a) is known or determined, on condition that such employee execute an agreement, in a form approved by the corporation counsel, consenting to reimburse the city for any overpayment to him or her resulting from such prior payment, either at the time the amounts specified in item (a) hereunder are received by such employee or by salary deductions to be authorized by such employee in such agreement. Such rules and regulations may contain such other provisions as may be necessary to carry out the purposes of this section.
+   (4) a recommendation to the Loft Board regarding disposition of the application, with a summary of the factual and legal bases for such recommendation. A copy of all written recommended decisions shall be mailed forthwith to each party.
 
+(n) Except as otherwise stated in the Loft Board rules, all final determinations regarding the disposition of any application filed with the Loft Board and brought to a hearing or inquest may be made by the Loft Board. The Loft Board may accept, reject, remand, defer or modify the disposition recommended by the Loft Board's staff member, hearing examiner or Administrative Law Judge employed by OATH. Pending its final determination, the Loft Board or the Chair person may direct the staff to provide it with additional information regarding the application, with copies of any relevant documents not included in the staff report, and with a transcript of the hearing or inquest. Pursuant to § 1046(f) of the City Administrative Procedure Act, when a recommended decision or a final order is issued by the Loft Board, it shall be sent, together with the report and recommendation, by regular mail within a reasonable time following the issuance of the order, to the applicant and each of the affected parties.
 
+(o) The Loft Board may, by a vote of a majority of the Loft Board members, conduct a de novo hearing or inquest on an application. The provisions on the taking of evidence, as set forth in 29 RCNY § 1-06(j), supra, shall apply to hearings conducted by the Loft Board. All such proceedings shall be electronically recorded.
 
+(p) The report and recommendation by the Loft Board's staff or Administrative Law Judge on each application shall be referred to the Loft Board. A copy of the Loft Board's order and the report and recommendation shall be mailed to the applicant and all affected parties who filed an answer. A final Loft Board order shall constitute a final agency determination for purposes of commencement of the running of the statute of limitations for the filing of a petition pursuant to Article 78 of the Civil Practice Law and Rules challenging the Loft Board's order, unless a timely application for reconsideration has been filed in accordance with 29 RCNY § 1-07.
 
 
 
-*§ 16-110 Recommendations for amendment of health code.* ::
 
 
-The commissioner, from time to time, shall propose to the board of health such additions to or amendments of the health code as in his or her opinion will promote sanitary control in the city and conduce to the security of the comfort, life and health of its inhabitants. The commissioner shall set forth fully the reasons for the proposed changes.
 
+*§ 1-06.1 Limitations on Applications.* ::
 
 
+(a)  Filing deadline. In accordance with the terms and provisions of § 282-a of the MDL, a coverage application or an initial registration application form for coverage pursuant to Article 7-C must be filed with the Loft Board on or before March 11, 2014, which is 6 months following the effective date of this subdivision (a).
 
+(b) [Reserved.]
 
+(c) Rent overcharges. An application for rent overcharges shall be filed within four years of such overcharge. Overcharges shall not be awarded for the period prior to the date of filing of a coverage or registration application, nor for more than four years before the date on which the application for overcharge was filed.
 
-*§ 16-111 Division of streets into districts; allotment of sweepers.* ::
+(d) Code compliance rent adjustment applications. An application pursuant to 29 RCNY § 2-01(i)(2) for code compliance rent adjustments shall be filed by the time set forth therein.
 
 
-The commissioner shall divide the city into a suitable number of districts, each of which shall be under the charge of a district superintendent or supervisory officer who shall be directly responsible to the commissioner for the cleanliness of his or her district. Each of such districts shall be subdivided by such commissioner into sections in charge of foremen or subordinate supervisory officers responsible to such district superintendent or supervisory officer, as well as to the commissioner, for the cleanliness of his or her section.
 
 
 
 
+*§ 1-07 Reconsideration of Loft Board Determination.* ::
 
 
-*§ 16-111.1 Reductions in street cleaning.* ::
+(a)  Reconsideration Application.
 
+   (1) General Requirements. The procedures and requirements set forth in 29 RCNY § 1-06 apply to reconsideration applications filed pursuant to this section, except as otherwise stated in this section.
 
-a. For purposes of this section, "qualifying district" shall mean a sanitation district, or any portion of such district, where each side of the street is scheduled to receive department street cleaning on more than one day each week, and where such sanitation district achieves a cleanliness acceptability rating under the mayor's office of operations scorecard program that is equal to or greater than an average score of ninety percent for the two consecutive fiscal years prior to a community board's request pursuant to subdivision b of this section.
+   (2) Basis of the Reconsideration Application. The Loft Board, upon the application of a party aggrieved by a determination of the Loft Board, may, in its sole discretion, reconsider its determination. An application for reconsideration will be granted only under the following extraordinary circumstances: (i) an allegation of denial of due process or material fraud in the prior proceedings, (ii) an error of law, (iii) an erroneous determination based on a ground that was not argued by the parties at the time of the prior proceeding and that the parties could not have reasonably anticipated would be the basis for a determination, or (iv) discovery of probative, relevant evidence which could not have been discovered at the time of the hearing despite the exercise of due diligence. In addition, pursuant to 29 RCNY § 1-06(i), an affected party who has not moved for relief from a default determination and who is aggrieved by the default determination may move to reopen the proceeding by filing an application for reconsideration with the Loft Board within 30 calendar days following the mailing date of the order. Such reconsideration application will be granted only if the Loft Board finds that the affected party has established (i) extraordinary circumstances for the failure to file an answer and (ii) substantial likelihood of success on the merits.
 
-b. Upon written request by the community board for the community district within which a qualifying district is located, the department shall reduce the weekly scheduled frequency of street cleaning by one day for such qualifying district. Prior to making its written request, any such community board shall to the extent practical notify major utilities and communications providers servicing the qualifying district that provide services to 500,000 or more households citywide and that have given such community board appropriate contact information. Failure to notify such utilities and communications providers shall not invalidate any such written request. In making its determination, the community board shall consider the impact of such a request on such utilities and communications providers' ability to install, repair and maintain critical infrastructure in such district.
+(b) Service and Filing of the Reconsideration Application.
 
-c. Notwithstanding the provisions of subdivisions a and b of this section, such reduction in frequency shall not apply to metered streets or those portions of a qualifying district that receive department street cleaning between the hours of midnight and 6:00 a.m.
+   (1) Service and filing requirements set forth in 29 RCNY § 1-06(b) apply to reconsideration applications filed pursuant to this section. These requirements include but are not limited to the following:
 
-d. In qualifying districts where, pursuant to subdivision b of this section, the department has reduced street cleaning or a community board has requested such a reduction, the department shall have the option to resume or maintain the original street cleaning schedule if the sanitation district receives an average score of less than ninety percent under the mayor's office of operations scorecard program for any period of three consecutive months, or if the average score for such sanitation district falls below ninety percent over a period of two consecutive fiscal years.
+      (i) An aggrieved party must file with the Loft Board: (A) 5 copies of his or her reconsideration application, at least one of which must have an original signature, (B) one copy of the instruction sheet sent to each affected party to the prior proceeding, and (C) proof of service of the reconsideration application to the affected parties in the prior proceeding;
 
+      (ii) Payment of the application fee required by 29 RCNY § 2-11(b)(15) must be made upon submission of the reconsideration application to the Loft Board; and
 
+      (iii) Service of the application must be made in accordance with the provisions of 29 RCNY § 1-06(b)(1).
 
+   (2) To be considered timely, a complete reconsideration application must be received by the Loft Board within 30 calendar days after the mailing date of the determination sought to be reconsidered. The application must specify the questions presented for reconsideration and the facts and points of law relied upon as a basis for seeking reconsideration, and must include a copy of the determination sought to be reconsidered.
 
+(c) (1) Service and Filing Requirement for Answers.
 
+      (i) Unless otherwise stated here, the service and filing requirements set forth in 29 RCNY § 1-06(c) - (f) apply to answers to reconsideration applications filed pursuant to this section. In accordance with 29 RCNY § 1-06(e), any affected party submitting an answer to the reconsideration application must file 5 copies of the original answer and any accompanying documents, and proof of service of the answer on the applicant for reconsideration, with the Loft Board.
 
-*§ 16-112 Flushing or washing streets; water.* ::
+      (ii) The answer period is 20 calendar days after service of the reconsideration application on the affected party is deemed complete pursuant to 29 RCNY § 1-06(b)(3). The answer must contain the facts and arguments relevant to the issues raised in the reconsideration application.
 
+   (2) Issuance of Orders. Pursuant to § 1046(f) of the City Administrative Procedure Act, prior to the issuance of the final order, the Loft Board will mail a copy of its proposed order to 1) the party or parties who filed the reconsideration application, 2) the parties who filed an answer, and 3) all affected parties in the underlying proceeding. The Loft Board will mail a copy of its final order, within a reasonable time from the date of the order, to 1) the party or parties who filed the reconsideration application, 2) the parties who filed an answer, and 3) all affected parties in the underlying proceeding.
 
-Whenever the commissioner of environmental protection shall determine that there is a sufficient supply of water for the purpose, such commissioner may permit the commissioner to use as much water as may be necessary for the flushing or washing of the public streets.
+(d) Judicial Review. A Loft Board determination issued pursuant to 29 RCNY § 1-06 constitutes a final agency determination for purposes of commencement of the running of the statute of limitations for the filing of a petition pursuant to Article 78 of the Civil Practice Law and Rules challenging such determination and seeking judicial review, unless a timely application for reconsideration of the determination has been filed. If a reconsideration application was filed, and the Loft Board:
 
+   (1) Modifies or revokes the underlying determination, the revocation or modification is deemed the final agency determination for purposes of judicial review;
 
+   (2) Denies the reconsideration application, the underlying determination is deemed the final agency determination for purposes of judicial review, and the date of the denial of the reconsideration application is deemed the date of the final agency determination; or
 
+   (3) Decides the reconsideration application by remanding the matter to the assigned staff hearing examiner or Administrative Law Judge at the Office of Administrative Trials and Hearings (OATH) for further proceedings, neither the underlying order nor the remand order constitutes a final agency determination for purposes of judicial review, and no judicial review may be sought until such time as the Loft Board issues a final agency determination following the remand.
 
 
 
-*§ 16-113 Removal of night soil and offal.* ::
 
 
-The department is hereby charged with the duty of causing the removal of dead animals, night soil and offal from the thickly populated districts daily, and as often as may be necessary elsewhere, and of keeping the city clean from all matter of nuisance of a similar kind.
 
+*§ 1-07.1 Appeal from a Determination of the Loft Board Staff or the Environmental Control Board, or Determination of a Hearing Officer Under 29 RCNY § 2-04.* ::
 
 
+   (1) Appeal from a Determination of the Loft Board Staff or Hearing Officer.
 
+(a) Right to Appeal.
 
+   (1) A person aggrieved by a written determination of the Loft Board staff, with respect to any matter that is not required by these rules to be determined by the full Loft Board, or by a determination of a Loft Board hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04, may appeal such determination to the Loft Board. The determination of the Loft Board pursuant to such appeal constitutes the final agency determination from which judicial review may be sought.
 
-*§ 16-114 Rates for collection and disposal.* ::
+   (2) Who has the Right to Appeal? For the purposes of this section, a "person aggrieved" by a written determination of the Loft Board staff means the owner or any residential tenant of the building in question whose rights may be affected by the determination. For the purposes of this section, a "person aggrieved by a determination of a hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04" means the owner of the building in question or the Loft Board staff, in his or her capacity as prosecutor of housing maintenance standard violations.
 
+(b) Filing Requirement.
 
-The commissioner may charge for the collection and disposal of ashes, street sweepings, garbage, refuse, rubbish, dead animals, night soil and offal, and all wastes, including trade waste from business, industrial, manufacturing, or other establishments conducted for profit, at rates established by the council by local law, upon recommendation of the commissioner, and on such terms and conditions as the commissioner shall prescribe and subject to rules of the department governing such collection and disposal.
+   (1) A person aggrieved by a determination as set forth in paragraph (a) of this subdivision must file with the Loft Board 5 copies of an appeal application, along with proof of service of the appeal application upon the affected parties to the prior proceeding and, except where the Loft Board staff is the appellant, the application fee required by 29 RCNY § 2-11(b)(14). Service of the application must be made in accordance with the provisions of 29 RCNY § 1-06(b). To be considered timely, an appeal application must be received by the Loft Board within 45 calendar days of the date of mailing of the determination sought to be appealed. The application must specify the questions presented for appeal and the facts and points of law relied upon as a basis for seeking appeal.
 
+   (2) Who is an Affected Party in an Appeal? For the purposes of this section, an "affected party" in an appeal from a staff determination means the owner or any residential tenant of the building in question whose rights may be affected by the determination. For the purposes of this section, an "affected party" in an appeal from a determination of a hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04 means the owner of the building in question or the Loft Board staff, in his or her capacity as prosecutor of housing maintenance standard violations.
 
+(c) Answer Period in an Appeal and Notice of the Final Order. Within 20 calendar days of service of the appeal application, any party supporting or opposing the application must file 5 copies of an answer with the Loft Board, with proof of service, in accordance with the provisions of 29 RCNY § 1-06(e), upon the applicant. The answer must contain the facts and argument on which such party is relying. Pursuant to § 1046(f) of the New York City Charter (City Administrative Procedure Act), upon determination of the appeal application, the final orders of the Loft Board will be mailed to all parties who filed an application or answer in the appeal proceeding. The proposed order will be mailed prior to the issuance of the final order.
 
+(d) Standard of Review. In reviewing an appeal from a determination by the Loft Board staff or of a Loft Board hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04, the Loft Board must consider whether the facts found are supported by substantial evidence in the record, whether the law was correctly applied, and whether the penalty imposed is appropriate, but may not consider any evidence not presented to the Loft Board staff or Loft Board hearing officer, unless good cause is shown as to why the evidence was not previously available.
 
+(e) Loft Board Authority. The Loft Board may reverse, remand, or modify any determination appealed from pursuant to this section and may reduce the penalty imposed by a hearing officer for housing maintenance standard violation, or the penalty imposed by the Loft Board staff.
 
+   (2) Appeal from a Determination of the Environmental Control Board. An appeal from a determination of an Environmental Control Board ("ECB") hearing examiner issued pursuant to a Loft Board rule must be brought before the ECB in accordance with the applicable rules and provisions established by the ECB, as set forth in 48 RCNY Chapter 3, and must be in a form prescribed by the ECB, which may be obtained at www.nyc.gov/ecb.
 
-*§ 16-114.1 Rates for collection and disposal of solid waste from home occupations, medical offices/group medical centers, and other residential offices.* ::
 
 
-a. As used in this section:
 
-   1. The term "home occupation" shall mean a dwelling unit located within a residential portion of a building that is used in part for the purpose of engaging in an occupation authorized by law to be practiced at such location in addition to residential use;
 
-   2. The term "medical office/group medical center" shall mean an office located within a residential portion of a building that is used for the purpose of practicing a medical profession authorized by law to be practiced at such location;
 
-   3. The term "other residential office" shall mean an office, other than a medical office/group medical center, located within a residential portion of a building that is authorized by law to be used as an office by virtue of such use having been established prior to December 15, 1961; and
+*§ 1-08 Ex Parte Communications on Pending Applications.* ::
 
-   4. The term "designated recyclable materials" shall be as defined in rules of the commissioner adopted pursuant to section 16-305 of this code.
 
-b. The commissioner is authorized to collect the following annual fees for the collection and disposal of solid waste generated by home occupations, medical offices/group medical centers, and other residential offices, located within buildings which receive department collection and disposal service:
+(a) After an application has been filed with the Loft Board, an employee of the Board assigned to conduct a conference or hearing, or make findings of fact and recommendations on that application, shall not communicate on any substantive matter involving the merits of the application with one party to a dispute without notice and opportunity for all parties to participate.
 
- 
+(b) After an application has been filed with the Loft Board, a member of the Board shall not communicate with any member of the staff concerning such application until the matter is before the Board for determination, except that the Chair in its administrative capacity may communicate with the Executive Director, the Operations Director, and Counsel, and shall disclose the fact of such communication to the Board when the case reaches the Board for its determination. Nor shall any member of the Board be present at hearings or conferences conducted by the staff.
+
+(c) When an application has been processed by staff and reaches the Loft Board for determination, any member of the Board who has had ex parte communication with a party to such application shall disclose this fact to the other members of the Board prior to the Board's consideration of the matter.
+
+
+
+
+
+
+*§ 1-09 Action by the Board on Its Own Initiative.* ::
+
+
+The Board on its own initiative may commence appropriate proceedings or investigations pursuant to its powers or duties under Article 7-C of the Multiple Dwelling Law, including, but not limited to, findings, determinations or enforcement proceedings concerning coverage, hardship claims, rent adjustments, fixture fee disputes, exemptions and compliance with requirements of Article 7-C, including the minimum housing maintenance standards promulgated by the Board. Prior to making a finding or determination pursuant to Article 7-C, the Board shall afford the party against whom a proceeding is directed an opportunity to be heard on not less than 10 days notice by regular mail.
+
+
+
+
+
+
+*§ 1-10 Administrative Authority and Correspondence.* ::
+
+
+Administrative authority is vested in the Executive Director of the staff, under the direction of the Chair. Official correspondence regarding administrative matters shall be signed by the Executive Director or by his or her designees. Official correspondence to the Board may be addressed to the New York City Loft Board or to the attention of the Chair or the Executive Director at the New York City Loft Board.
+
+
+
+
+
+
+*§ 1-11 Petitioning Board to Adopt Rules.* ::
+
+
+(a) Definitions. 
+
+   Persons. "Persons" shall mean an individual, partnership, corporation or other legal entity, and any individual or entity acting in a fiduciary or representative capacity.
+
+   Petition. "Petition" shall mean a request or application for the Loft Board to adopt a rule.
+
+   Petitioner. "Petitioner" shall mean the person who files a petition.
+
+   Rule. "Rule" shall have the same meaning set forth in Section 1041(5) of the New York City Charter.
+
+(b) Procedures for Submitting Petitions.
+
+   (1) Any person may petition the Loft Board to consider the adoption of rules.
+
+   (2) The petition must contain the following information:
+
+      (i) The proposed language for the rules to be adopted;
+
+      (ii) A statement of the Loft Board's authority to promulgate the rules and their purpose;
+
+      (iii) The petitioner's argument in support of adopting the rules;
+
+      (iv) The period of time the rule should be in effect;
+
+      (v) The name, address and telephone number of the petitioner;
+
+      (vi) The signature of the petitioner.
+
+   (3) All petitions should be typewritten.
+
+   (4) The Loft Board is authorized to adopt a form petition. Every petition shall be submitted on such form unless such a form is not available from the Loft Board, in which case the petition shall be filed on plain white, durable paper which shall be eleven by eight and one-half inches in size.
+
+   (5) Petitions shall be mailed or delivered to the offices of the Loft Board marked to the attention of the Chair or the Executive Director.
+
+   (6) Upon receipt of a petition submitted in proper form, the petition shall be stamped with the date it was received and shall be assigned a processing number. The petition shall then be forwarded to the Chair who may, at his or her discretion, reject the petition or present the petition for consideration by the Board. If the Chair rejects the petition, he or she must do so by written notice stating the reasons for denial. Copies of the Chair's notice rejecting the petition, together with a copy of the petition, shall be presented to the Board at the next regularly scheduled session, after which any Board member may present the petition for consideration by the Board.
+
+   (7) Within sixty days from the date the petition was received by the Loft Board, the Loft Board shall either deny any petition not preciously rejected by the Chair by written notice stating the reasons for denial, or shall state in writing the Loft Board's intention to grant the petition and to initiate rulemaking by a specified date. In proceeding with such rulemaking, the Loft Board shall not be bound by the language proposed by petitioner, but may amend or modify such proposed language at the Loft Board's discretion.
+
+   (8) The Loft Board's decision to deny or grant a petition is final and shall not be subject to judicial review.
+
+
+
+
+Chapter 2: Interim Multiple Dwellings
+--------------------------------------------------
+
+
+
+*§ 2-01 Code Compliance Deadlines, the Narrative Statement Process, Code Compliance Work and Removal from the Loft Board's Jurisdiction.* ::
+
+
+(a)  Code compliance timetable for Interim Multiple Dwellings (IMD's). The owner of any building, structure or portion thereof that meets the criteria for an IMD set forth in § 281 of Article 7-C and Loft Board coverage regulations, shall comply with the code compliance deadlines set forth below. Any building or unit that is not covered by Article 7-C because of the denial of a grandfathering application or expiration of study area status is not required to be legalized pursuant to these regulations, unless either the area in which the building is located is rezoned to permit residential use or a unit or units at the building qualify for coverage pursuant to M.D.L. § 281(4) or § 281(5). However, the building must still comply with all other applicable laws and regulations. Definitions. When used in this section, the following definitions apply, unless context clearly dictates otherwise:
+
+"Alteration application" means the work application form filed with the Department of Buildings of the City of New York ("DOB") which describes the work to be undertaken that will result in obtaining a final certificate of occupancy for an interim multiple dwelling ("IMD") unit, as defined in § 281 of the Multiple Dwelling Law and these rules, ("covered unit") for residential use or joint living-work quarters for artists usage.
+
+"Alteration permit," also referred to as "building permit" or "work permit" means a document issued by DOB authorizing the owner to make the alterations set forth in the approved alteration application which are necessary to obtain a residential certificate of occupancy for a covered unit.
+
+"Alternate plan application" means an occupant's alteration application and associated legalization plan filed with the DOB pursuant to 29 RCNY § 2-01(d)(2)(viii).
+
+"Legalization plan" means the construction documents, as defined in § 28-101.5 of the Administrative Code, as may be amended, including but not limited to architectural, structural, detailed drawings, and other required plans submitted to the DOB with the alteration application as defined above.
+
+"Month" means 30 calendar days.
+
+"Narrative statement" means a document that describes in plain language the proposed alterations in the alteration application and legalization plan and meets the requirements provided in 29 RCNY § 2-01(d)(2)(v).
+
+"Occupant," unless otherwise provided, means a residential occupant qualified for the protections of Article 7-C, any other residential tenant, or any nonresidential tenant.
+
+Code Compliance Deadlines. The failure of an owner to meet any of the code compliance deadlines provided below does not relieve the owner of its obligations to comply with these requirements nor does it relieve the owner of its duty to exercise all reasonable and necessary action to so comply.
+
+Paragraphs (1) through (4) of this subdivision implement the initial code compliance deadlines that applied pursuant to § 284(1)(i) of Article 7-C before the enactment of later amendments, and paragraphs (5) through (8) reflect those amendments, as set forth in § 284(1)(ii) through (v). The deadlines set forth in paragraphs (1) through (8) of this subdivision do not apply to a building or a portion of a building subject to Article 7-C pursuant to MDL § 281(5).
+
+Paragraphs (9) and (10) of this subdivision implement the current code compliance deadlines set forth in MDL § 284(1)(vi) for buildings or portions of buildings subject to Article 7-C pursuant to MDL § 281(5). Paragraph (9) implements the current code compliance deadlines for a building or portion of a building covered by Article 7-C pursuant to chapters 135 or 147 of the laws of 2010. Paragraph (10) implements the current code compliance deadlines for a building or portion of a building covered by Article 7-C pursuant chapter 4 of the laws of 2013.
+
+   (1) Deadlines for filing alteration applications.
+
+      (i) Code compliance timetable for buildings in which all residential units are as of right. The owner of an IMD that contains only residential units in which residential use is permitted as of right under the Zoning Resolution shall have filed an alteration application by March 21, 1983.
+
+      (ii) Buildings with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in subsection 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
+
+         (A) Shall have filed an alteration application for all covered as of right residential units by March 21, 1983, and
+
+         (B) Following the grandfathering approval of any additional residential units, the owner shall amend the existing alteration application to reflect approval of the grandfathering application for the additional unit or units within a month from such approval or within a month of the effective date of these regulations, whichever is later.
+
+      (iii) Buildings with fewer than 3 as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained fewer than three residential units as of right and 1 or more units eligible for coverage by use of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
+
+         (A) Shall file an alteration application for all covered residential units within 9 months after approval of the grandfathering application of the unit that becomes the third covered residential unit, and
+
+         (B) Following the grandfathering approval of the unit that becomes the third eligible residential unit, the owner of a building with additional units eligible for grandfathering shall amend the existing alteration application to reflect approval of the grandfathering application for the additional unit or units within a month after such approval or within a month after the initial timely filing of the alteration application referred to in 29 RCNY § 2-01(a)(1)(iii)(A) above, whichever is later.
+
+      (iv) Buildings in study areas rezoned to permit as of right residential use. The owner of an IMD located in an area designated by the Zoning Resolution as a study area that is rezoned to permit residential use as of right shall file an alteration application within 9 months after the effective date of such rezoning.
+
+      (v) Buildings in study areas rezoned to permit residential use with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as a result of rezoning, contains 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08 "Grandfathering" (i) and (ii):
+
+         (A) Shall file an alteration application for all covered as of right residential units within 9 months after the effective date of such rezoning, and
+
+         (B) Following the grandfathering approval of any additional residential units, the owner shall amend the existing alteration application to reflect approval of the grandfathering application for the additional unit or units within a month after such approval.
+
+      (vi) Buildings in study areas rezoned to permit residential use with fewer than 3 as of right units and additional units eligible for grandfathering.
+
+      The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as a result of rezoning, contains fewer than 3 residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
+
+         (A) Shall file an alteration application for all covered residential units within 9 months after approval of the grandfathering application of the unit that becomes the third covered residential unit, and
+
+         (B) Following the grandfathering approval of the unit that becomes the third eligible residential unit, the owner of a building with additional units eligible for grandfathering shall amend the existing alteration application to reflect approval of the grandfathering application for the additional unit or units within a month after such approval or within a month after the initial timely filing of the alteration application referred to in 29 RCNY § 2-01(a)(1)(vi)(A) above, whichever is later.
+
+   (2) Deadlines for obtaining permits.
+
+      (i) Code compliance timetable for buildings in which all residential units are as of right. The owner of an IMD that contains only residential units in which residential use is permitted as of right under the Zoning Resolution shall take all necessary and reasonable actions to obtain a building permit within 6 months after the effective date of these regulations.
+
+      (ii) Buildings with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
+
+         (A) Shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations, and
+
+         (B) Following the grandfathering approval of any additional residential units, the owner shall take all necessary and reasonable actions to obtain approval of the amended alteration application for the additional units within 6 months after such grandfathering approval or within 6 months after the effective date of these regulations, whichever is later.
+
+      (iii) Buildings with fewer than 3 as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained fewer than 3 residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
+
+         (A) Shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations or within 6 months after the timely filing of an alteration application, whichever is later, and
+
+         (B) Following the grandfathering approval of the unit that becomes the third eligible residential units, the owner of a building with additional units eligible for grandfathering shall take all necessary and reasonable actions to obtain approval of the amended alteration application for the additional units within 6 months after such grandfathering approval or within 6 months after the effective date of these regulations, whichever is later.
+
+      (iv) Buildings in study areas rezoned to permit as of right residential use. The owner of an IMD located in an area designated by the Zoning Resolution as a study area that is rezoned to permit residential use as of right shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations or within 6 months after the timely filing of the alteration application, whichever is later.
+
+      (v) Buildings in study areas rezoned to permit residential use with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as a result of rezoning, contains 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
+
+         (A) Shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations or within 6 months after the timely filing of the alteration application, whichever is later, and
+
+         (B) Following the grandfathering approval of any additional residential units, the owner shall take all necessary and reasonable actions to obtain approval of the amended alteration application for the additional units within 6 months after such grandfathering approval.
+
+      (vi) Buildings in study areas rezoned to permit residential use with fewer than 3 as of right units and additional units eligible for grandfathering. The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as result of rezoning, contains fewer than three residential units as of right and one or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
+
+         (A) Shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations or within 6 months after the timely filing of the alteration application, whichever is later, and
+
+         (B) Following the grandfathering approval of the unit that becomes the third eligible residential unit, the owner of a building with additional units eligible for grandfathering shall take all necessary and reasonable actions to obtain approval of the amended alteration application for the additional units within 6 months after such grandfathering approval.
+
+   (3) Deadlines for Article 7-B compliance. The owner of an IMD shall achieve compliance with the fire and safety standards of Article 7-B of the M.D.L. for all covered residential units within 18 months after a building permit has been obtained or within 18 months after the effective date of these regulations, whichever is later. Or the owner may elect to comply with other local building codes or provisions of the M.D.L. that provide alternative means of meeting the fire and safety standards of Article 7-B (pursuant to § 287 of Article 7-C) within 18 months after a building permit has been obtained or within 18 months after the effective date of these regulations, whichever is later. Where an owner is required to amend the existing alteration application to reflect approval of grandfathering applications for additional units pursuant to 29 RCNY § 2-01(a)(1)(ii)(B), (iii)(B), (v)(B) or (vi)(B) above, the owner shall achieve compliance with the fire and safety standards of Article 7-B, or with alternative building codes or provisions of the M.D.L. for the additional grandfathered unit or units within 18 months after the timely approval of the amended alteration application or within 18 months after the effective date of these regulations, whichever is later. Issuance of a temporary certificate of occupancy shall be considered the equivalent of Article 7-B compliance or compliance with alternative building codes or provisions of the M.D.L.
+
+   (4) Deadlines for obtaining a final certificate of occupancy. The owner of an IMD shall take all necessary and reasonable actions to obtain a final certificate of occupancy as a class A multiple dwelling for all covered residential units within 6 months after compliance with the fire and safety standards of Article 7-B, alternative building codes or provisions of the M.D.L. has been achieved, or within 6 months after a temporary certificate of occupancy has been obtained. The owner of an IMD that contains additional units subject to 29 RCNY § 2-01(a)(1)(ii)(B), (iii)(B), (v)(B) or (vi)(B) above, shall take all necessary and reasonable actions to obtain a final certificate of occupancy as a class A multiple dwelling for the additional unit or units within 6 months after the date such unit or units come into compliance with the fire and safety standards of Article 7-B, alternative building codes, or provisions of the M.D.L., or within 6 months after the date such unit or units are covered by a temporary certificate of occupancy.
+
+   (5) Notwithstanding the provisions of subdivisions (a)(1) through (4) of this section, the owner of an IMD who has not been issued a final certificate of occupancy as a class A multiple dwelling for all covered residential units on or before June 21, 1992 shall:
+
+      (i) File an alteration application by October 1, 1992; and
+
+      (ii) Take all reasonable and necessary action to obtain a building permit by October 1, 1993; and
+
+      (iii) Achieve compliance with the fire and safety standards of Article 7-B of the M.D.L. for all covered residential units by April 1, 1995, or within 18 months after an approved alteration permit has been obtained, whichever is later. The owner may, alternatively, elect to comply with other building codes or provisions of the M.D.L. that provide alternative means of meeting the fire and safety standards of Article 7-B (pursuant to M.D.L. § 287) by April 1, 1995 or within 18 months after an approved alteration permit has been obtained, whichever is later; and
+
+      (iv) Take all reasonable and necessary actions to obtain a final certificate of occupancy as a class A multiple dwelling for all covered residential units by October 1, 1995, or within 6 months after achieving compliance with the fire and safety standards of Article 7-B, alternative building codes, or provisions of the M.D.L., whichever is later.
+
+   (6) Notwithstanding the provisions of subdivisions (a)(1) through (a)(5) of this section, the owner of an IMD who has not complied with the requirements of M.D.L § 284(1)(i) or (ii) by June 30, 1996 shall:
+
+      (i) File an alteration application by October 1, 1996; and
+
+      (ii) Take all reasonable and necessary action to obtain an approved alteration permit by October 1, 1997; and
+
+      (iii) Achieve compliance with the fire and safety standards of Article 7-B of the M.D.L. for all covered residential units by April 1, 1999 or within 18 months after obtaining an approved alteration permit, whichever is later; and
+
+      (iv) Take all reasonable and necessary action to obtain a certificate of occupancy as a class A multiple dwelling for all covered residential units by June 30, 1999, or within 3 months after achieving compliance with the fire and safety standards of Article 7-B of the M.D.L., whichever is later.
+
+      (v) As an alternative to complying with the requirements of subparagraph (iii) of this subdivision, an owner may, pursuant to M.D.L. § 287, elect to comply with other local building codes or provisions of the M.D.L. that provide alternative means of meeting the fire and safety standards of Article 7-B by April 1, 1999 or within 18 months after obtaining an approved alteration permit, whichever is later.
+
+   (7) Notwithstanding the provisions of subdivisions (a)(1) through (a)(6) of this section, the owner of an IMD who has not complied with the requirements of M.D.L. § 284(1)(i), (ii), or (iii) by June 30, 1999 shall:
+
+      (i) File an alteration application by September 1, 1999; and
+
+      (ii) Take all reasonable and necessary actions to obtain an approved alteration permit by March 1, 2000; and
+
+      (iii) Achieve compliance with the fire and safety standards of Article 7-B of the M.D.L. for all covered residential units by May 1, 2002, or within 12 months after obtaining an approved alteration permit, whichever is later; and
+
+      (iv) Take all reasonable and necessary action to obtain a certificate of occupancy as a class A multiple dwelling for all covered residential units by May 31, 2002, or within 1 month after achieving compliance with the fire and safety standards of Article 7-B of the M.D.L., whichever is later.
+
+      (v) As an alternative to complying with the requirements of subparagraph (iii) of this subdivision, an owner may, pursuant to M.D.L. § 287, elect to comply with other local building codes or provisions of the M.D.L. that provide alternative means of meeting the fire and safety standards of Article 7-B by May 1, 2002 or within 12 months after obtaining an approved alteration permit, whichever is later.
+
+   (8) Notwithstanding the provisions of subdivisions (a)(1) through (a)(7) of this section, the owner of an IMD who has not complied with the requirements of M.D.L. § 284(1)(i), (ii), (iii) or (iv) by June 21, 2010 must:
+
+      (i) File an alteration application by September 1, 1999; and
+
+      (ii) Take all reasonable and necessary action to obtain an approved alteration permit by March 1, 2000; and
+
+      (iii) Achieve compliance with the fire and safety standards of Article 7-B of the MDL for all covered residential units by June 1, 2012, or within 12 months after obtaining an approved alteration permit, whichever is later; and
+
+      (iv) Take all reasonable and necessary action to obtain a final certificate of occupancy as a class A multiple dwelling for all covered residential units by July 2, 2012, or within 1 month after achieving compliance with the fire and safety standards of Article 7-B of the MDL, whichever is later.
+
+      (v) As an alternative to complying with the requirements of subparagraph (iii) of this paragraph (8), an owner may, pursuant to MDL § 287, elect to comply with other local building codes or provisions of the MDL that provide alternative means of meeting the fire and safety standards of Article 7-B by June 1, 2012 or within 12 months after obtaining an approved alteration permit, whichever is later.
+
+   (9) 2013 amended code compliance timetable for buildings subject to Article 7-C pursuant to MDL § 281(5) as a result of the 2010 amendments to the Loft Law. The owner of a building, structure or portion of a building or structure that is covered by MDL § 281(5) and became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010 must:
+
+      (i) File an alteration application by March 21, 2011; and
+
+      (ii) Take all reasonable and necessary actions to obtain an approved alteration permit by June 21, 2011; and
+
+      (iii) Achieve compliance with the fire and safety standards of Article 7-B of the MDL for all covered residential units within 18 months after obtaining an approved alteration permit; and
+
+      (iv) Take all reasonable and necessary action to obtain a final residential certificate of occupancy for all covered units by December 21, 2012.
+
+      (v) As an alternative to complying with the requirements of subparagraph (iii) of this paragraph (9), an owner may, pursuant to MDL § 287, elect to comply with other local building codes or provisions of the MDL that provide alternative means of meeting the fire and safety standards of Article 7-B by no later than 18 months from the issuance of the alteration permit.
+
+   (10) 2013 code compliance timetable for buildings subject to Article 7-C pursuant to MDL § 281(5) as a result of the 2013 amendments to the Loft Law. The owner of a building, structure or portion of a building or structure that is covered by MDL § 281(5) and became subject to Article 7-C pursuant to Chapter 4 of the Laws of 2013 must:
+
+      (i) File an alteration application on or before June 11, 2014; and
+
+      (ii) Take all reasonable and necessary actions to obtain an approved alteration permit on or before September 11, 2014; and
+
+      (iii) Achieve compliance with the fire and safety standards of Article 7-B of the MDL for all covered residential units within 18 months after obtaining an approved alteration permit; and
+
+      (iv) Take all reasonable and necessary action to obtain a final residential certificate of occupancy on or before March 11, 2016.
+
+      (v) As an alternative to complying with the requirements of subparagraph (iii) of this paragraph (10), an owner may, pursuant to MDL § 287, elect to comply with other local building codes or provisions of the MDL that provide alternative means of meeting the fire and safety standards of Article 7-B by no later than 18 months after the obtaining an alteration permit.
+
+(b) Extensions of time to comply with the amended code compliance timetable.
+
+   (1) Extensions of current deadlines. Pursuant to MDL § 284(1), an owner of an IMD building may apply to the Loft Board for an extension of time to comply with the code compliance deadlines provided in MDL § 284 in effect on the date of the filing of the extension application. An application for an extension must be filed before the deadline for which an extension is sought, except as provided in (i) through (iv) below:
+
+      (i) Where title to the IMD was conveyed to a "new owner" after the code compliance deadline has passed, the new owner may file an extension application for the passed deadline within 90 calendar days from acquiring title. For the purposes of this paragraph, "new owner" is defined as an unrelated entity or unrelated natural person(s) to whom ownership interest is conveyed for a bona fide business purpose and not for the purpose of evading the code compliance deadlines of the MDL or any other law. Prior to making a determination, the Executive Director may request additional information relevant to the extension application including, but not limited to, information regarding the applicant's claim to be a new owner as defined in this paragraph.
+
+      (ii) Where the IMD is found to be covered under Article 7-C or registered as an IMD after the code compliance deadline has passed, the owner may file an extension application for the passed code compliance deadline within 90 calendar days after either a finding of Article 7-C coverage by the issuance of a Loft Board order, a court of competent jurisdiction or the issuance of an IMD registration number, whichever is first. If an owner appeals a finding of Article 7-C coverage, the owner may file an extension application 90 calendar days after the final determination of the appeal.
+
+      (iii) Where the owner of an IMD covered under Article 7-C pursuant to MDL § 281(5) requires an extension of the code compliance deadline provided in MDL § 284(1)(vi)(D) and 29 RCNY § 2-01(a)(9)(iv) and was not able to file an extension application prior to the deadline because such deadline was shortened from June 21, 2013 to December 21, 2012 by Chapter 4 of the Laws of 2013, the owner may file an extension application within 60 days after the effective date of this amended rule.
+
+      (iv) The IMD owner described in (i) and (ii) above may file an application for an extension of time of up to 1 year to comply with the most recently passed deadline.
+
+   (2) Statutory standard.
+
+      (i) The Executive Director will grant an extension of the code compliance deadlines in MDL § 284(1)(ii), (iii), (iv), (v) or (vi) only where an owner has demonstrated that it has met the statutory standards for such an extension, namely, that the necessity for the extension arises from conditions or circumstances beyond the owner's control, and that the owner has made good faith efforts to meet the code compliance timetable requirements. Examples of such conditions or circumstances beyond the owner's control include, but are not limited to, a requirement for a certificate of appropriateness for modification of a landmarked building, a need to obtain a variance from the Board of Standards and Appeals or the denial of reasonable access to an IMD unit.
+
+      In the case of an IMD owner described in 29 RCNY § 2-01(b)(1)(i) and (b)(1)(ii) above, the Executive Director may consider any action the owner has taken from the date that the title transferred to the new owner, or from the date of the determination of Article 7-C coverage, up to the date the owner filed the extension application when making a determination of whether the owner has exercised good faith efforts to satisfy the requirements.
+
+      The existence of conditions or circumstances beyond the owner's control and good faith efforts must be demonstrated in the application by the submission of corroborating evidence. For example, copies of documents from the Landmarks Commission or the Board of Standards and Appeals, or an architect's statement, may be filed with the extension application to show the existence of conditions or circumstances beyond the owner's control and good faith efforts. Proof of the date that the title was transferred to the owner or proof of when the building was deemed covered under Article 7-C should be submitted with the application. Failure to include corroborating evidence in the application may be grounds for denial of the application without further consideration.
+
+      (ii) Pursuant to MDL §§ 284(1)(i) and 284(1)(vi), upon proof of compliance with Article 7-B, the Executive Director may twice extend the deadline for obtaining a final certificate of occupancy issued pursuant to MDL § 301, for a period of up to 12 months each, upon proper showing of good cause.
+
+   (3) Administrative Determination on the Extension Application. The owner of an IMD may apply to the Loft Board's Executive Director for an extension to comply with the amended code compliance timetable. The Loft Board's Executive Director will promptly decide each application for an extension. Where the Loft Board's Executive Director determines that the owner has met the statutory standards for an extension, the Executive Director shall grant the minimum extension required by the IMD owner. Applications for extensions of code compliance deadlines will be limited to one extension per deadline in the amended code compliance timetable.
+
+   The Executive Director's administrative determination will be mailed to the owner and to the affected parties identified in the application submitted pursuant to paragraph (4) of this subdivision below, and may be appealed to the Loft Board upon application by such owner or affected party.
+
+   An appeal of the administrative determination must be filed in accordance with 29 RCNY § 1-07.1.
+
+   (4) Form of application, filing requirements and occupant responses.
+
+      (i) An extension application filed pursuant to this subdivision (b) of 29 RCNY § 2-01 must be filed on the approved form and must meet the requirements of this subdivision, and 29 RCNY §§ 1-06 and 2-11 except as provided in this paragraph. An application for an extension must include a list of all residential IMD units in the building and must specify a date to which the applicant seeks to have the deadline extended. Failure to so specify in the application shall be grounds for dismissal of the application without prejudice.
+
+      (ii) The original extension application and 2 copies must be filed with the Loft Board. Prior to filing an extension application with the Loft Board, an owner shall serve a copy of the extension application upon the occupant of each IMD unit in the building in the manner described in 29 RCNY § 1-06(b). Any occupant of an IMD unit may file an answer to such application with the Loft Board within 20 calendar days from the date service of the application is deemed complete, as determined below in subparagraph (iv).
+
+      (iii) The occupant(s) of an IMD unit must serve a copy of the answer upon the owner prior to filing the answer with the Loft Board. Each answer filed with the Loft Board must include, at the time of filing, proof of service in the manner described in 29 RCNY § 1-06(d) and (e).
+
+      (iv) Service of the application by mail is deemed completed five calendar days following mailing. While an application filed under this subdivision is pending, an owner may amend the application one time to request a longer extension period than was originally sought in the application.
+
+(c) Violations of the code compliance timetable.
+
+   (1) The Loft Board, on its own initiative or in response to complaints, may commence a proceeding to determine whether an owner has violated the provisions of § 284(1) of the MDL or these code compliance rules. In addition, a residential occupant of an IMD building may file with the Loft Board an application seeking a Loft Board determination on whether the owner of the occupant's building is in violation of the provisions of § 284(1) of the MDL or these code compliance rules.
+
+   (2) An owner who is found by the Loft Board to have violated the code compliance timetables set forth in MDL § 284(1) or any provision of 29 RCNY § 2-01(a): (i) may be subject to a civil penalty in accordance with 29 RCNY § 2-11.1 for each missed deadline; (ii) may be subject to all penalties provided in Article 8 of the MDL; and (iii) may be subject to a specific performance proceeding as provided in paragraph (4) below.
+
+   (3) Upon demonstration by an owner of insufficient funds to proceed with code compliance, the Loft Board may consider the lack of sufficient funds in mitigation of any fine to be imposed against the owner upon a finding of noncompliance. To obtain the benefit of the defense of insufficient funds, an owner must supply the Loft Board with an income and expense statement for the building verified by an independent certified public accountant, a written estimate of the cost of compliance with the cited deadline or requirement from a registered architect. If the funds generated by the building are not sufficient to cover the costs of the necessary compliance work, the owner must also supply a letter from two separate banks or mortgage brokers refusing to offer sufficient funds to comply, accompanied by copies of the owner's applications for such funds, or if the lenders refuse to provide a written rejection, then the owner shall file an affidavit setting forth the basis for the owner's belief that the applications have been rejected.
+
+   (4) If the Loft Board finds an owner in violation of the code compliance timetable set forth in MDL § 284(1) and 29 RCNY § 2-01(a), the Loft Board or any three occupants of separate, covered residential units in the building may apply to a court of competent jurisdiction for an order of specific performance directing the owner to satisfy all code compliance requirements set forth in this section.
+
+   (5) The owner of an IMD who is found by the Loft Board to have willfully violated the code compliance timetable of these regulations or to have violated the code compliance timetable more than once may be found to have harassed occupants with respect to such IMD in a harassment proceeding before the Loft Board.
+
+   (6) If any residential occupant of an IMD building is required to vacate its unit as a result of a municipal vacate order that has been issued for hazardous conditions as a consequence of an owner's unlawful failure to comply with the code compliance timetable: (i) The occupant, at its option, will be entitled to recover from the owner the fair market value of any improvements made or purchased by the occupant and will be entitled to reasonable moving costs incurred in vacating the unit. All such transactions shall be fully in accordance with 29 RCNY § 2-07 regarding Sales of Improvements. These rights are in addition to any other remedies the occupant may have.
+
+      (ii) Any municipal vacate order shall be deemed an order to the owner to correct the noncompliant conditions, subject to the provisions of Article 7-C. The issuance of such an order as a result of the owner's unlawful failure to comply with the code compliance timetable shall result in a rebuttable presumption of harassment in a harassment proceeding brought by an occupant or occupants before the Loft Board.
+
+      (iii) When the owner has corrected the noncompliant conditions, the occupants will have the right to reoccupy the unit and will be entitled to all applicable occupant protections of Article 7-C, including the right to reoccupy the unit at the same rent paid prior to the vacancy period plus any rental adjustments authorized by Article 7-C or the Loft Board rules. Furthermore, the occupant will be entitled to recover from the owner reasonable moving costs incurred in reoccupying the unit in accordance with 29 RCNY § 2-07 regarding Sales of Improvements.
+
+      (iv) At no time may rent for the unit be due or collectible for such period of vacancy.
+
+(d) Procedure for occupant review of narrative statement and legalization plan, resolution of occupant objections, and certification of estimated future rent adjustments.
+
+   (1) Notice: form and time requirements.
+
+      (i) All notices, requests, responses and stipulations served by owners and occupants directly upon each other shall be in writing, with a copy delivered or mailed to the Loft Board, accompanied by proof of service, within five calendar days of delivery, if service was made personally, or within five calendar days of mailing if service was performed by mail. Service of a notice, request, response or stipulation by the parties shall be effected either:
+
+         (A) By personal delivery or
+
+         (B) By certified or registered mail, return receipt requested, with an additional copy sent by regular mail.
+
+      Proof of service must be in the form of: a) a verified statement by the person who effected service, setting forth the time, place and other details of service, if service was made personally, or b) by copies of the return receipt or the certified or registered mail receipt stamped by the United States Post Office, and verified statement of mailing, if service was performed by mail. Communications by the Loft Board pursuant to these rules will be sent by regular mail.
+
+      Service is deemed effective on the date of personal delivery or five calendar days following service by mail. Deadlines provided herein are to be calculated from the effective date of service.
+
+      (ii) Modifications on consent, change of address. Applications, notices, requests, responses and stipulations may be withdrawn and disputes may be resolved, by written agreement of the parties, subject to Loft Board approval. Parties may change their addresses upon service of written notice to the other parties and the Loft Board, and such notice is effective upon personal delivery or five calendar days following service by mail.
+
+   (2) Procedure for occupant review of the narrative statement and legalization plan and resolutions of occupant objections.
+
+      (i) Buildings not covered under MDL § 281(5). This paragraph (2) shall apply to IMD's for which a building permit for achieving compliance with the fire and safety standards of Article 7-B, alternative building codes or provisions of the M.D.L. has not been issued as of October 23, 1985, the date of adoption of these regulations. In the case of a building permit that has been issued as of October 23, 1985 and that remains in effect or is renewed, an owner who thereafter requests reinstatement of the underlying alteration application shall be required to comply with all provisions of this paragraph (2) with respect to all work yet to be performed as of the date that reinstatement is requested.
+
+      This paragraph (2) shall apply where an owner is required to amend an alteration application to reflect grandfathering approval of additional units pursuant to 29 RCNY §§ 2-01(a)(1)(ii)(B), (iii)(B), (v)(B), or (vi)(B), or where an owner is required to amend an alteration application to reflect the coverage of additional units under M.D.L. § 281(4); however, if the proposed work is to be performed solely within the additional unit(s), this paragraph (2) shall only apply to the occupant(s) of such unit(s).
+
+      This paragraph (2) shall not apply to IMD's for which a building permit for achieving compliance with Article 7-B, alternative building codes or provisions of the M.D.L. has already been issued and is in effect as of the date of adoption of these regulations, and which remains in effect or is renewed without reinstatement of the underlying alteration application until such compliance is achieved. However, an occupant of such an IMD may file an application with the Loft Board based on the grounds that the scope of the work approved under the alteration application for which the permit was issued constitutes an unreasonable interference with the occupant's use of its unit in accordance with the provisions of 29 RCNY § 2-01(h).
+
+      This paragraph (2) also shall not apply to those units in IMD's for which a temporary or final certificate of occupancy as a class A multiple dwelling has been issued and is in effect as of the date of adoption of these regulations.
+
+      (ii) For buildings covered under MDL § 281(5) as a result of the 2010 amendments to the Loft Law. The requirements of 29 RCNY § 2-01(d)(2) ("paragraph (2)") apply to an IMD covered by MDL § 281(5) that became subject to Article 7-C pursuant Chapter 135 or 147 of the Laws of 2010 as follows:
+
+         (A) Paragraph (2) does not apply to those units for which a building permit for achieving compliance with the fire and safety standards of Article 7-B, alternative building codes, or provisions of the MDL that provide alternative means of meeting the fire and safety standards of Article 7-B has been issued on or before June 21, 2010, and which remains in effect or is renewed without reinstatement or amendment of the underlying alteration application and legalization plan until the final certificate of occupancy is obtained.
+
+         (B) If a building permit has been issued prior to June 21, 2010 and the owner thereafter files for reinstatement of the underlying alteration application and legalization plan related to any part of the building or files for an amendment to the underlying alteration application and legalization plan, the owner will be required to comply with all provisions of paragraph (2) with respect to all work in the alteration application and legalization plan yet to be performed as of the date of the reinstatement or with respect to the proposed work in the amendment.
+
+         (C) If, prior to June 21, 2010, the building was already registered as an IMD because other units in the building are covered by Article 7-C pursuant to MDL §§ 281(1) or (4); the building had an alteration permit in effect on June 21, 2010; and the proposed work is solely within the additional unit(s) covered under MDL § 281(5) ("additional unit(s)"), paragraph (2) only applies to the occupant(s) of the additional unit(s).
+
+         (D) Paragraph (2) does not apply to those units for which a temporary certificate of occupancy is in effect as of June 21, 2010 and which remains in effect or is renewed without reinstatement or amendment of the underlying alteration application and legalization plan until the final certificate of occupancy is obtained.
+
+      (iii) For buildings covered under MDL § 281(5) as a result of the 2013 amendments to the Loft Law. The requirements of 29 RCNY § 2-01(d)(2) ("paragraph (2)") apply to an IMD covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 4 of the Laws of 2013 as follows:
+
+         (A) Paragraph (2) does not apply to those units for which a building permit for achieving compliance with the fire and safety standards of Article 7-B, alternative building codes, or provisions of the MDL that provide alternative means of meeting the fire and safety standards of Article 7-B, has been issued on or before June 1, 2012, and which remains in effect or is renewed without reinstatement or amendment of the underlying alteration application and legalization plan until the final certificate of occupancy is obtained.
+
+         (B) If a building permit has been issued prior to June 1, 2012 and the owner thereafter files for reinstatement of the underlying alteration application and legalization plan related to any part of the building or files for an amendment to the underlying alteration application and legalization plan, the owner will be required to comply with all provisions of this paragraph (2) with respect to all work in the alteration application and legalization plan yet to be performed as of the date of the reinstatement or with respect to the proposed work in the amendment.
+
+         (C) If, prior to June 1, 2012, the building was already registered as an IMD because other units in the building are covered by Article 7-C pursuant to MDL §§ 281(1), 281(4) or 281(5); the building had an alteration permit in effect on June 1, 2012; and the proposed work is solely within the additional unit(s) covered under MDL § 281(5) as a result of Chapter 4 of the Laws of 2013 ("additional unit(s)"), this paragraph (2) only applies to the occupant(s) of the additional unit(s).
+
+         (D) Paragraph (2) does not apply to those units for which a temporary certificate of occupancy is in effect as of June 1, 2012 and which remains in effect or is renewed without reinstatement or amendment of the underlying alteration application and legalization plan until the final certificate of occupancy is obtained.
+
+      (iv) An occupant of an IMD covered by Article 7-C pursuant to MDL § 281(5), who did not participate in the narrative statement process because 29 RCNY § 2-01(d)(2) did not apply to the unit as described in 29 RCNY § 2-01(d)(2)(ii)(A) or (d)(2)(iii)(A), may file an application with the Loft Board based on the grounds that the scope of the work approved in the underlying alteration application for which the permit was issued constitutes an unreasonable interference with the occupant's use of its unit in accordance with the provisions of 29 RCNY § 2-01(h).
+
+      (v) Narrative Statement. Except as otherwise provided in this paragraph (2), within 15 calendar days of the filing of its alteration application with DOB, the owner of an IMD must provide all occupants with a narrative statement, upon the approved Loft Board form, describing separately for each unit, both residential and nonresidential, all the work to be performed in such unit and all of the work to be performed in common areas. The owner of an IMD covered by Article 7-C pursuant to MDL § 281(5) must provide occupants with the narrative statement within 15 calendar days of filing the alteration application with DOB or within 30 calendar days after the effective date of this amended rule, whichever is later.
+
+      The description of work to be performed must include a listing of all noncompliant conditions, citation to the specific provisions of law or regulation that require their correction, and the work to be performed to correct them; an estimated time schedule for performance of the work; and a certification that the narrative statement is a complete and accurate statement reflecting all of the work proposed in the filed alteration application and the corresponding legalization plan, as defined in subdivision (a) of this section.
+
+      In accordance with the procedures set forth in 29 RCNY § 2-01(d)(1), following service of the narrative statement, the owner must file with the Loft Board the original narrative statement with proof of service, as required by 29 RCNY § 2-01(d)(1)(i), two copies of its filed alteration application along with the DOB's acknowledgment of filing, and two copies of the legalization plan submitted to DOB. The plan filed with the Loft Board must be no larger than 14 inches by 17 inches.
+
+      Occupants may examine the alteration application and legalization plan by appointment at the Loft Board. An occupant may request from the owner a reproducible copy of the alteration application and legalization plan, construction specifications, if any, and the tenant protection plan described in subparagraph (vi) below, and the owner must supply such copy within 7 calendar days of service of the request. The cost of the copies of the alteration application and legalization plan are payable by the occupants up to the amount listed in 1 RCNY § 101-03.
+
+      (vi) The owner must certify to the DOB on the approved Loft Board form that it has complied with the provisions of subparagraph (v); that it will comply with all other requirements of this paragraph (2) and with the requirement for a tenant protection plan pursuant to New York City Administrative Code § 28-104.8.4; and that prior to obtaining the building permit, the owner will submit to the DOB a letter from the Loft Board, certifying compliance with all requirements of 29 RCNY § 2-01(d)(2). The owner's certification must be filed with the DOB within 5 calendar days after the owner's filing with the Loft Board pursuant to the procedures described in the preceding subparagraph (v).
+
+      (vii) Narrative Statement Conference. Within 30 calendar days after the owner has filed a complete narrative statement, as required by 29 RCNY § 2-01(d)(2)(v), the Loft Board will notify the owner and all occupants that a conference has been scheduled. The notice from the Loft Board will be sent by regular mail. This conference is for informational and conciliatory purposes. The Loft Board representative assigned to conduct the conference may review the provisions of these code compliance rules, including 29 RCNY § 2-01(f), dealing with occupant participation and may address the participants' questions.
+
+      The owner or its representative will present its alteration application, narrative statement, legalization plan and the estimated time schedule for performance of the work. The occupants may raise any questions, comments or suggestions regarding the alteration application, narrative statement and legalization plan and the estimated schedule. The Loft Board representative will encourage the owner and occupants to discuss fully the alteration application, narrative statement, legalization plan, and the schedule, and to reach an agreement as to the performance of code compliance work.
+
+      The Loft Board representative may authorize an additional period of time, not to exceed 21 calendar days, for the parties to negotiate an agreement. If the parties are unable to come to an agreement within the authorized time period, the remaining provisions of this paragraph (2) shall apply. Any agreement reached by the parties, including any agreement reached after the above-mentioned 21 calendar day period, must be in writing, signed by the parties, and filed with the Loft Board as provided in 29 RCNY § 2-01(f).
+
+      With the exception of material contained in any written agreement(s) among the parties, the conference will not be electronically recorded, and the specifics or nature of communications made at the conference or in the course of negotiations during the authorized time period are not admissible as evidence in any Loft Board proceedings.
+
+      Information or responses to questions provided by the Loft Board representative will be advisory only and should not be relied upon as a substitute for professional advice of lawyers, architects or engineers retained by the participants.
+
+      The conference may be scheduled in the evening. Upon the request of the owner and the occupant(s), the Loft Board may schedule a conference for any IMD unit for which 29 RCNY § 2-01(d)(2) does not apply.
+
+      (viii) (A) Within 45 calendar days after due notice issued by the Loft Board or, if authorized, the additional period of time described in 29 RCNY § 2-01(d)(2)(vii), any occupant:
+
+            (a) May file with the DOB an alternate plan application, including a legalization plan, for work affecting the occupant's use of its unit if the proposed work in the owner's alteration application and legalization plan unreasonably interferes with the occupant's use of the unit and the occupant's alternate plan requires a review by DOB;
+
+            (b) May file with the DOB an alternate plan application in support of a claim that the owner's alteration application and legalization plan will diminish services to which the occupant is legally entitled; and
+
+            (c) If authorized by the Loft Board staff, may file comments with the Loft Board opposing the owner's alteration application and legalization plan on the ground that such plans unreasonably interfere with the occupant's use of the unit or diminish services to which an occupant is legally entitled, provided that the occupant's claim does not require DOB review in order for the Loft Board to resolve the dispute.
+
+         (B) If the occupant's alternate plan proposed pursuant to this subparagraph (viii) is required to be filed with the DOB because it requires DOB review, it shall be filed by a registered architect or professional engineer retained by the occupant, who will be responsible for any required fees. If the alternate plan application includes an alteration application describing plumbing work, the alteration application must be filed with the DOB by a licensed plumber retained by the occupant, who is responsible for any required fees. Two or more occupants may file a joint alternate plan application describing their alternate plan.
+
+      The failure of an occupant to file an alternate plan application with the DOB and the Loft Board or comments with the Loft Board within the prescribed time period will constitute a waiver of an occupant's right to challenge the owner's submitted legalization plan on the ground that it would unreasonably interfere with the occupant's use of the unit or constitute a diminution of services; however, late filing of an alternate plan application is permitted if, upon application, the Loft Board or its staff by order or administrative determination finds that good cause existed for the occupant's failure to file in a timely manner and if a building permit has not yet been issued.
+
+      Within 5 calendar days after filing an alternate plan application with the DOB, the occupant shall provide the owner and all other occupants with a dated narrative statement describing the occupant's objections to, comments on, or criticisms of the owner's plan and any projected increase in code compliance costs resulting from the occupant's alternate plan. In accordance with the procedures provided in 29 RCNY § 2-01(d)(1), the occupant must file with the Loft Board: the original copy of the occupant's narrative statement with proof of service on the owner and all other occupants, two copies of the filed alternate plan application, including the DOB's acknowledgment of filing, and two copies of the occupant's alternate plan application and legalization plan.
+
+      The owner and other occupants may review the alternate plan application, including the legalization plan, by appointment at the Loft Board's office. An owner or another occupant may request from the filing occupant a reproducible copy of the alternate plan application and legalization plan and shall be supplied with such copy within 7 calendar days after service of the request. The cost to the requesting party is the fee listed in 1 RCNY § 101-03.
+
+      (ix) If the DOB issues objections to an alternate plan application submitted by any occupant of the building, the occupant, through his or her architect or engineer, must take all necessary and reasonable actions to cure such objections within 45 calendar days of notice of objections from the DOB.
+
+      The owner, through its architect or engineer, must take all necessary and reasonable actions to cure the DOB objections within 60 calendar days of notice of objections from the DOB for its alteration application and legalization plan. The failure to take all necessary and reasonable actions to cure the objections within the prescribed time period may subject the owner to fines in accordance with 29 RCNY §§ 2-01.1 and 2-11.1 to be imposed by the Loft Board or the Environmental Control Board, if designated by the Loft Board, for failure to comply with these rules.
+
+      If the occupant's opposition to the owner's plan does not require DOB review, the occupant must serve the owner and the other occupants with the comments describing how the owner's plan will unreasonably interfere with the occupant's use of the unit or how it will result in a diminution of services to which the occupant is entitled. The occupant's comments must be filed with the Loft Board within 45 days of the Loft Board's notice, unless extended pursuant to 29 RCNY § 2-01(d)(2)(vii). Proof of service to the owner and the other occupants must be attached to the filing of the comments with the Loft Board.
+
+      (x) Amendments to Legalization Plan Prior to Loft Board's Certification. If the owner amends the legalization plan initially submitted to the Loft Board, the owner must file two copies of any amended plans with the Loft Board, along with a detailed amendment to the narrative statement listing the changes. Proof of service of the narrative statement on all of the occupants of the building and copies of the plans must be filed with the Loft Board in accordance with the procedures described in subparagraph (v) above.
+
+      Within 40 calendar days of the Loft Board's notice of the revised plan, any occupant who has not previously done so, may file with the DOB an alternate plan application for work affecting the occupant's use of the unit, if DOB review is required or may file comments opposing the owner's revised plan with the Loft Board. The occupant must comply with all the requirements of subparagraph (viii) above. The occupant may object to only those items that represent a change from the owner's submissions previously received. The procedures for DOB review provided in subparagraph (ix) above shall apply.
+
+      (xi) Loft Board's Certification of the Legalization Plan.
+
+         (A) (a) When the DOB has no further objections to the owner's alteration application and legalization plan, and if no alternate plan application has been filed by any occupant of the building within the time period provided for filing in this rule, the Loft Board shall issue a letter certifying compliance with all requirements of 29 RCNY § 2-01(d)(2). To receive Loft Board certification, the owner must verify to the Loft Board that no revisions have been made to the legalization plan since the narrative statement conference or if the legalization plan has been revised, the owner must summarize any revisions which may have been made and include the date of the revised legalization plan.
+
+            (b) If an occupant's alternate plan application has been filed and the 45 calendar day period provided in subparagraph (ix) above for addressing objections to the occupant's alternate plan application has expired without all necessary and reasonable actions having been taken by the occupant to cure the objections, the Loft Board shall issue a letter certifying the owner's compliance with all requirements of 29 RCNY § 2-01(d)(2).
+
+         (B) (a) Where the occupant has submitted an alternate plan application and is unable to agree with the owner upon the work to be performed, and the DOB has no objections to such alternate plan, or if the occupant has cured such objections, the occupant must advise the Loft Board and refer the alternate plan application to the Loft Board for review and resolution of the dispute.
+
+            Such referral to the Loft Board will occur no sooner than 30 calendar days after notification of the removal of the last objection or of the lack of objection.
+
+            In addition, the Loft Board staff may authorize such referral before all objections have been removed if the remaining objections do not need to be resolved in order for the Loft Board to resolve the dispute. If the owner and the occupant come to an agreement, they must immediately inform the DOB and the Loft Board of the agreement in writing and must provide the Loft Board with a copy of the agreement. In such case, the owner must amend the legalization plan for the IMD building to include the changes agreed upon by the parties, if any.
+
+            (b) Loft Board-Initiated Alternate Plan Dispute. If an occupant's alternate plan application is referred to the Loft Board, pursuant to 29 RCNY § 2-01(d)(2)(xi)(B)(a) above, the Loft Board shall review the plans and on its own initiative may commence a proceeding to determine whether the owner's alteration application and legalization plan would result in an unreasonable interference of the occupant's use of the unit or a diminution of service. The proceeding will be governed by the Loft Board's rules.
+
+            The owner and the occupants of the building will have an opportunity to submit an answer. In the case of an occupant challenging the owner's legalization plan, the answer must include an explanation of how the owner's proposed legalization plan would result in an unreasonable interference with the occupant's use of the unit or a diminution of service.
+
+            If the Loft Board, after a fact-finding hearing, or the Executive Director, if a fact-finding hearing is not required, finds that the owner's legalization plan would result in an unreasonable interference, it shall order the owner to amend its alteration application, legalization plan and corresponding narrative statement within 60 calendar days or may certify the alternate plan submitted by the occupant for the space involved.
+
+            A failure or refusal to comply with such an order may constitute a violation of the owner's obligation to take all reasonable and necessary action to obtain an alteration permit under § 284 of Article 7-C and these rules, and the owner may be subject to civil penalties in accordance with 29 RCNY § 2-11.1. The Loft Board may also initiate an action to compel specific performance, and seek all applicable penalties authorized by the Loft Board rules or Article 7-C.
+
+            If the owner has cleared all DOB objections and if the Loft Board or its Executive Director finds that the owner's alteration application and legalization plan would not unreasonably interfere with the occupant's use of the unit, the Loft Board or its Executive Director shall issue an order or an administrative determination certifying compliance with all requirements of 29 RCNY § 2-01(d)(2).
+
+      (xii) Within 10 calendar days after the issuance of a building permit by the DOB, the owner shall file a copy of the building permit with the Loft Board. In the case of an IMD subject to Article 7-C pursuant to MDL § 281(5) which has an alteration permit on September 11, 2013, the effective date of this rule, the owner must file a copy of the building permit with the Loft Board by October 11, 2013, 30 calendar days after the effective date of this rule.
+
+      (xiii) Amendments to Legalization Plan After the Loft Board's Certification of Compliance with 29 RCNY § 2-01(d)(2).
+
+         (A) If the owner intends to amend the legalization plan certified by the Loft Board, the owner must file with the Loft Board two copies of the amended narrative statement listing the changes and the amended legalization plan within 10 days after the filing of the amendment with the DOB in accordance with (B) below.
+
+         (B) The owner must follow the procedures for notice to the residential and nonresidential occupants set forth in 29 RCNY § 2-01(d)(1) above. If an owner amends the legalization plan and the proposed work is located within IMD space, or within the common areas of the building, the owner must serve an amended narrative statement on the occupants in accordance with the notice provisions provided in 29 RCNY § 2-01(d)(1) above. The owner must file proof of service and the amended narrative statement and legalization plan with the Loft Board. In accordance with the requirements of 29 RCNY § 2-01(d)(2)(viii) and within 40 calendar days from the Loft Board's notice of the owner's revised legalization plan, any occupant: 1) may file with the DOB an alternate plan application or 2) may file with the Loft Board comments opposing the work proposed in the amendment. The occupant may only object to those items that represent a change from the legalization plan certified by the Loft Board. The owner must obtain a Loft Board certification described in 29 RCNY § 2-01(d)(2)(xi) for any amended legalization plan.
+
+      If the occupant and the owner are unable to agree to the proposed work in the amended narrative statement and legalization plan, the Loft Board must follow the procedures in 29 RCNY § 2-01(d)(2)(xi)(B) regarding the Loft Board-initiated alternate plan dispute.
+
+      (xiv) Approval of an owner's legalization plan by the DOB pursuant to this subsection shall not be construed as approval of the construction costs for the work proposed in the plan as necessary and reasonable costs of code compliance work for purposes of rent adjustment proceedings under these rules.
+
+   (3) Procedures for certification of estimated further rent adjustments. Following the DOB's approval of an owner's alteration application and legalization plan or an occupant's alternate plan application, an owner may apply to the Loft Board for certification of estimated future rent adjustments, based on the legalization plan and the Loft Board Schedule of Allowable Necessary and Reasonable Code Compliance Costs in the Loft Board's rules. The filing of an application for estimated future rent adjustments is at the discretion of the owner and shall not be a basis for staying commencement or continuation of work under a valid building permit issued by the DOB.
+
+   All applications for certification of estimated future rent adjustments will be processed in accordance with 29 RCNY § 1-06, except as provided herein. The owner must file with the Loft Board an application on a Loft Board approved form. The application must describe separately: i) the work to be performed in each residential unit; ii) the work to be performed in common areas; and iii) the work to be performed in the nonresidential units. The application must include a calculation of the necessary and reasonable costs based on the Loft Board schedule and any other necessary and reasonable costs as permitted in the Loft Board's rules. If the owner anticipates the use of financing, the application must also include any statements, letters of intent or commitment, or other materials from institutional or noninstitutional lenders regarding the terms or conditions of such financing. In addition, the owner must file with the Loft Board two copies of the approved alteration application and legalization plan.
+
+   The owner's application must be served on all of the building's occupants by the owner in accordance with the service requirements for applications set forth in 29 RCNY § 1-06. Occupants may review the alteration application and legalization plan at the DOB in accordance with the DOB's procedures or by appointment at the Loft Board's office. An occupant may request from the owner a reproducible copy of the alteration application and legalization plan, and the owner must supply such a copy within 7 calendar days after service of the request at a cost to the occupant of up to the amounts listed in 1 RCNY § 101-03. Occupants may submit an answer to the owner's application within 20 calendar days after the date on which service of the application was completed. The answer may list any objections, comments or suggestions regarding the calculation of necessary and reasonable costs of approved work.
+
+   The Loft Board may schedule a conference to discuss objections, comments or suggestions raised by the occupants and responses by the owner. Following such a conference, the application will be processed, and the Loft Board will issue findings on the necessary and reasonable code compliance work and associated costs, and the estimated future rent adjustments. Such findings will be a reasonable estimate based on available information. However, actual rent adjustments will be determined by the Loft Board in accordance with 29 RCNY § 2-01(i) through (l).
+
+   (4) Requirement of a Letter of No Objection for Work Permits in IMD Buildings.
+
+      (i) Proposed Work in Non-IMD Spaces: An owner of an IMD building who is applying to the DOB for an alteration permit to perform work in the non-IMD spaces of such building, including any commercial space or residential space not covered by Article 7-C of the MDL, must provide DOB with a letter of no objection ("LONO") from the Loft Board prior to issuance of an alteration permit.
+
+      (ii) Proposed Work in the IMD Spaces: Any request for a LONO by or on behalf of the owner for work to be performed in the IMD units will be processed by the Loft Board as an amendment to the owner's narrative statement and the legalization plan certified pursuant to 29 RCNY § 2-01(d)(2). The Loft Board will issue an amended certification for the revised narrative statement and legalization plan.
+
+      (iii) Requirements to Obtain a Letter of No Objection:
+
+         (A) Before a LONO may be granted, a building owner must demonstrate compliance with the annual registration requirements set forth in 29 RCNY § 2-11, and all outstanding fees and fines payable to the Loft Board for the building must be paid or an arrangement for payment must be made.
+
+         (B) The LONO request must include:
+
+            a. a formal request, which must be submitted on the Loft Board approved form, if any, at the time of the request;
+
+            b. a copy of the current monthly report relating to the legalization projects in the building, in accordance with the requirements of 29 RCNY § 2-01.1(a)(1)(ii);
+
+            c. a copy of the alteration application filed with the DOB;
+
+            d. a copy of the DOB objection sheet listing the only remaining DOB objection to be the requirement to obtain a LONO from the Loft Board; and
+
+            e. a copy of the corresponding drawings or plans with DOB bar code numbers filed with the DOB, on paper no larger than 14 inches wide by 17 inches long.
+
+         (C) The Loft Board's staff will not consider an incomplete request for a LONO.
+
+         (D) The Loft Board's staff may request additional information or documentation, as it deems necessary in its review of the LONO request. If the owner does not respond to the Loft Board staff's request within ten (10) calendar days of the request, the request for a LONO will be deemed to be withdrawn.
+
+         (E) The Loft Board's staff may deny a LONO request for the proposed work where:
+
+            a. the owner does not have an alteration application filed with the DOB to perform the legalization work in the IMD spaces;
+
+            b. the Loft Board issued a certification of the legalization work in the IMD spaces pursuant to 29 RCNY § 2-01(d)(2)(xi), and the owner does not have a current permit to perform the legalization work in such IMD units;
+
+            c. the DOB had issued a temporary certificate of occupancy for the residential portion of the subject building before the owner applied for a LONO, and the temporary certificate of occupancy expired and has not been renewed;
+
+            d. the owner's monthly reports as required in 29 RCNY § 2-01.1(a)(1)(ii) show no advancement of legalization projects in the building. The Loft Board's staff may supplement its review of the owner's monthly reports to consider any relevant information contained in the Loft Board's files;
+
+            e. the IMD building already has a final certificate of occupancy, but the owner has not applied to the Loft Board for removal;
+
+            f. the owner applied to the Loft Board for removal of the subject building prior to filing the LONO request, but the owner has not exercised all diligent efforts to submit additional information that was requested by the Loft Board's staff for processing the removal application; or
+
+            g. any other circumstance exists that indicates to the Loft Board's staff that the owner has failed to take all reasonable and necessary action to obtain a final certificate of occupancy for the residential portions of the IMD spaces to legalize the subject building or to remove the building from the Loft Board's jurisdiction.
+
+         (F) Granting of a LONO is not a finding by the Loft Board that the owner is exercising all reasonable and necessary action toward obtaining a final certificate of occupancy for the residential portions of the IMD units to legalize the subject building.
+
+      (iv) Nature of the Proposed Work. In granting a LONO request, the Loft Board staff may consider the effect the proposed work may have on the IMD units and the protected occupants of the building. If the proposed work would (1) result in a change in the use, egress, buildings' systems, or occupancy of IMD space in the building, or (2) affect an IMD unit in which there is an active dispute or finding of harassment by the Loft Board, or (3) adversely affect any protected occupants of the IMD units in the building, the Loft Board's staff may conduct an informal conference with the protected occupants and the owner upon at least 15 calendar days' notice. Service of the conference notice by the Loft Board will be sent by regular mail.
+
+      (v) Appeal of Decision.
+
+         (A) If the Loft Board's staff denies a LONO request, the owner may appeal to the Executive Director for an administrative determination.
+
+         (B) To be considered timely, the appeal to the Executive Director must be received by the Loft Board within 15 calendar days from the mailing date of the LONO's denial. An untimely appeal is subject to dismissal by the Executive Director. The appeal to the Executive Director must include:
+
+            a. the basis for the appeal;
+
+            b. a statement that requirements for the LONO set forth in subparagraph (iii) above are true, correct and complete as of the date of the appeal;
+
+            c. a detailed report of the current status of the legalization projects; and
+
+            d. a detailed schedule of the work to be performed in connection with achieving compliance with Article 7-B of the MDL, and a projected compliance date, to the extent the building is not yet in compliance therewith.
+
+         (C) The Executive Director will issue a written determination within 30 calendar days of receipt of the request.
+
+         (D) The Executive Director will not consider any incomplete appeals. Failure to file a complete appeal may result in rejection of the appeal without consideration of the issues raised.
+
+         (E) Appeals from the written determination of the Executive Director shall be governed in accordance with 29 RCNY § 1-07.1.
+
+(e) Code compliance for nonconforming units. If the DOB has issued an objection to the owner's alteration application because an IMD unit cannot be brought into compliance under appropriate building codes, provisions of the MDL or the Zoning Resolution because of its size, design, or location within the building, the owner and affected occupant(s) should make every effort to reach accommodations that would permit every covered residential unit to be made code compliant.
+
+If the owner and affected occupant are unable to reach a resolution about how to legalize the unit, either the owner or the residential occupant may apply to the Loft Board for a determination as to whether the unit can be made code compliant. In processing such an application the Loft Board may, following a hearing, or if a fact-finding hearing is not necessary, the Executive Director may:
+
+   (1) Order the owner to apply for a non-use related variance, special permit, minor modification, or administrative certification, where the granting of such an application would make compliance possible; or
+
+   (2) Order the owner to alter the unit, or to redesign residential units and common area space into a configuration that would allow the legal conversion of the unit to residential use; or
+
+   (3) Revoke the unit's Article 7-C coverage, if these remedies are unavailing.
+
+If the Executive Director or the Loft Board orders (1) or (2) above, a specific date for compliance shall be provided and the occupants will be required to cooperate to achieve code compliance in accordance with the requirements of this section.
+
+(f) Occupant participation in the code compliance process.
+
+   (1) The Loft Board encourages the owners and occupants of IMD buildings to work together to achieve code compliance. Such cooperation may include, but is not limited to, occupants' performance of code compliance work. Owners, occupants and their representatives should make good faith efforts to communicate and cooperate with each other throughout the process so as to reduce or eliminate potential disputes during the course of code compliance. Cooperation may result in benefits to all the parties insofar as:
+
+      (i) Costs incurred by the owner may be minimized, reducing the capital the owner would have to raise and reducing the rent adjustment increases that would have to be passed along to residential occupants;
+
+      (ii) Access difficulties may be minimized;
+
+      (iii) Incidents of harassment may be eliminated or reduced;
+
+      (iv) Losses incurred by nonresidential occupants may be eliminated or minimized; and
+
+      (v) Code compliance may be achieved in a timely fashion.
+
+   (2) While occupants have no right as a matter of law to perform code compliance work, the owner and the occupant may agree voluntarily to allow such occupant to perform code compliance work or any portion thereof, within the building, to the extent permitted by applicable laws and regulations.
+
+   The owner is required to obtain the appropriate DOB approval for all work to be performed, but where the owner and the occupant have agreed that work will be performed by the the occupant, they may also agree that the occupant will obtain the required DOB approvals, permits, and consents in accordance with all applicable laws, codes and rules on any work so permitted.
+
+   Should the owner and the occupant agree upon performance of the code compliance work or any portion thereof by such occupant, the owner and the occupant must file a written agreement with the Loft Board in accordance with the procedures set forth in 29 RCNY § 2-01(d)(1). Such agreement must include:
+
+      (i) an outline specification of all work to be performed and who will perform it;
+
+      (ii) a time schedule for work to be performed as well as the identification of who is to supervise all construction work;
+
+      (iii) a certification that the parties will provide all information required in the processing of applications for rent adjustments, if any, by the Loft Board;
+
+      (iv) a certification by the owner and occupant that all work will be performed in accordance with the code compliance timetable provided in 29 RCNY § 2-01(a).
+
+   Such agreement by the owner and the occupant must be consistent with the alteration application, corresponding legalization plan certified by the Loft Board, and any other job type alteration applications, limited alteration applications (LAA), electrical work applications, elevator application (EA) or Elevator Building Notice applications (EBN) filed with the DOB and the Loft Board.
+
+   (3) If at any time after execution of the agreement but prior to the completion of the code compliance work, the occupant or the owner rescinds the agreement, the rescission must be in writing, served upon all other parties to the agreement and filed with the Loft Board in accordance with the procedures provided in 29 RCNY § 2-01(d)(1). Neither the agreement nor its abrogation will relieve the owner of the obligation to comply with Article 7-C and these rules. The owner and the occupant may also agree in writing, with a copy served on the Loft Board, to:
+
+      (i) Waive the procedure for occupant review of plans and resolution of occupant objections set forth in 29 RCNY § 2-01(d)(2); or
+
+      (ii) Modify the procedure for notice to occupants of proposed work set forth in 29 RCNY § 2-01(d)(2) and (g)(3).
+
+   Any agreement to waive the procedure for occupant review of plans must be completed on the Loft Board's approved form and must identify the relevant plan and narrative statement by date. Any other agreement for waiver or modification of other provisions of these rules must be submitted to the Loft Board for its approval. The Loft Board will not give any effect to an agreement which proposes that code compliance will not be achieved or that it will be achieved after the deadlines prescribed in 29 RCNY § 2-01(a) and MDL § 284(1).
+
+   (4) If an owner who has agreed to allow an occupant to perform code compliance work applies to the Loft Board for an extension of time to obtain a final residential certificate of occupancy pursuant to 29 RCNY § 2-01(b), the owner must exercise due diligence in monitoring the timely completion of such code compliance work in order to have grounds of good cause for its inability to meet the code compliance timetable.
+
+(g) Notice to occupants of proposed work, repairs and inspections and occupant's obligation to provide access.
+
+   (1) Unless otherwise agreed by the parties, the owner must provide all occupants with written notice of the approximate commencement date, duration and scope of all work to be performed within their units and of all common area work that may interfere with access to their units or the provision of services to their units.
+
+   The notice need not provide an exact date for the work, but must provide a range of three consecutive working days during which work to be completed in one working day will take place and a range of five consecutive working days during which work expected to require more than one consecutive working day will begin.
+
+   The access notice must be served by personal service, first class mail, registered mail return receipt requested, or certified mail return receipt requested, such that service is deemed completed at least 5 calendar days prior to the first date in the range of days for work that may reasonably be expected to be completed within one working day and at least 10 calendar days prior to the first date in the range of days for all other work expected to require two or more consecutive working days.
+
+   (2) No later than the day preceding the first day in the range of work days listed on the access notice referenced in paragraph (g)(1) above, the owner must provide written notice, either confirming a specific starting date from among those specified or cancelling the scheduled work for the day or days specified. In instances where scheduled work is cancelled, it must be rescheduled in accordance with the provisions of 29 RCNY § 2-01(g)(1) above.
+
+   The owner must deliver the second access notice personally to the occupant or, in the occupant's absence, to a person of suitable age and discretion within the unit. If the owner or agent cannot achieve delivery to a person as described, the owner or agent must deposit the notice under the main entrance of the unit or, if that is not possible, must affix such notice to the main entrance of the unit.
+
+   An occupant may designate in writing another occupant within the building to receive an access notice pursuant to this 29 RCNY § 2-01(g) provided that the designee is authorized to provide reasonable access to the occupant's unit as required in such notice. Such designation must be served on the owner by (i) personal service or (ii) first class mail, and registered mail return receipt requested or certified mail return receipt requested.
+
+   (3) Upon appropriate notice, the building occupants must provide the owner with reasonable access to their units so that all requisite code compliance or repair work, inspections and surveys as may be required for the purpose of code compliance, may be performed.
+
+   (4) Upon the failure of an occupant to provide such access, the owner may apply to the Loft Board for an order affording the owner reasonable access to the unit. Recognizing the necessity of construction work proceeding without unnecessary delays caused by administrative processing, the Loft Board will process applications for access under the following expedited procedures:
+
+      (i) The owner must serve the occupant with a copy of the owner's verified or affirmed application for access on the Loft Board's form. Service on the occupant must be effected either by:
+
+         (A) personal service or
+
+         (B) certified or registered mail, return receipt requested, with an additional copy sent by regular mail.
+
+      Within 5 calendar days after delivery or service by mail on the occupant, the owner must file 5 copies of the application at the offices of the Loft Board, along with proof of service of the application upon the occupant. Proof of service is required at the time of filing the access application with the Loft Board.
+
+      (ii) The occupant must file with the Loft Board 5 copies, including the original, of a written answer in response to the application within 15 calendar days after service of the application is deemed complete. Service is deemed complete on the date of personal service or 5 calendar days after the owner mailed the application.
+
+      (iii) (A) Before the occupant files an answer with the Loft Board, the occupant must serve a copy of the answer on the owner by regular mail at the address designated on the application. Both owner and occupant will be notified of a hearing date, which will not be fewer than 8 calendar days or more than 15 calendar days from the mailing of the notice. There will be no more than one adjournment per party, limited to 7 calendar days, for good cause shown. Except as provided herein, the provisions of 29 RCNY § 1-06 apply to an application for access under this subdivision.
+
+         (B) Even if the occupant fails to file an answer, the Loft Board may issue an order granting access.
+
+      (iv) A finding by the Loft Board of failure by the owner to comply with any of the notice provisions of 29 RCNY § 2-01(g) or a finding by the Loft Board that an occupant has unreasonably withheld access may be the basis for a civil penalty in accordance with 29 RCNY § 2-11.1 for each violation of the notice provisions, or the unreasonable denial of access to the unit.
+
+      The necessary and reasonable cost of bringing and pursuing a Loft Board access proceeding that results in a finding that a residential occupant has unreasonably withheld access, including the labor or other costs incurred by the owner because access was unreasonably denied, may be included in the owner's application for code compliance rent adjustment as an allowable cost to be allocated to such occupant's residential unit, as provided for in 29 RCNY § 2-01(l)(1).
+
+      (v) The failure of an occupant to comply with a Loft Board order regarding access may be grounds for eviction of that occupant in a proceeding brought before a court of competent jurisdiction.
+
+(h) Unreasonable interference with use.
+
+   (1) Whenever reasonably possible, work to achieve code compliance should be performed without any, including the temporary, dislocation of occupants from their units and with minimal disruption to the occupants' use of their units. The owner must take all reasonable actions to ensure that code compliance work does not unreasonably interfere with the use of any occupied unit. Arrangements should be made for each day's work to be a full day's work, to the extent possible. Scheduling of work must be done, to the extent possible, in a fashion that minimizes disruptions in the provision of essential services. Regular maintenance must be performed within the building during the construction period, except when construction renders regular maintenance impossible.
+
+   (2) After the filing of an alteration application by the owner, but before the issuance of a building permit, occupants who object to the proposed work because it will unreasonably interfere with the use of their units must oppose the proposed plan as provided in 29 RCNY § 2-01(d)(2)(viii)(A). After a permit has been issued through the process described in 29 RCNY § 2-01(d)(2), in which the occupants have had an opportunity to participate, the occupants may raise no further objections to the scope of the work approved under the permit on the grounds that it constitutes an unreasonable interference with the use of their units.
+
+   (3) i) In the case of an IMD for which a building permit for achieving code compliance with Article 7-B, alternative building codes or provisions of the M.D.L. has been issued and is in effect as of the date of adoption of these regulations, such that 29 RCNY § 2-01(d)(2) is not applicable, an occupant of such an IMD may file an application pursuant to this subdivision (h) on the grounds that the scope of the work approved under the permit constitutes an unreasonable interference with the occupant's use of its unit. This subparagraph (i) is not applicable to IMD units subject to Article 7-C pursuant to MDL § 281(5).
+
+      (ii) IMD Units Subject to Article 7-C pursuant to MDL § 281(5) as a result of the 2010 amendments to the Loft Law. An occupant of an IMD unit subject to Article 7-C pursuant to MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010 may file an unreasonable interference application under this subdivision (h) if: (1) an alteration permit was in effect on June 21, 2010; (2) the occupant was not able to participate in the narrative statement process because 29 RCNY § 2-01(d)(2) was not applicable to the IMD at the time of the issuance of the alteration permit; and (3) the scope of the work approved under the alteration permit constitutes an unreasonable interference with the occupant's use of the unit.
+
+      (iii) IMD Units Subject to Article 7-C pursuant to MDL § 281(5) as a result of the 2013 amendments to the Loft Law. An occupant of an IMD unit subject to Article 7-C pursuant to MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 4 of the Laws of 2013 may file an unreasonable interference application under this subdivision (h) if: (1) an alteration permit was in effect on June 1, 2012; (2) the occupant was not able to participate in the narrative statement process because 29 RCNY § 2-01(d)(2) was not applicable to the IMD at the time of the issuance of the alteration permit; and (3) the scope of the work approved under the alteration permit constitutes an unreasonable interference with the occupant's use of the unit.
+
+   (4) In considering an application pursuant to this subdivision, the Loft Board shall process the application in accordance with Loft Board rules. The Loft Board may order the owner to amend its alteration application or may recommend that the DOB revoke the permit if it finds that the proposed work unreasonably interferes with the occupant's use of the unit. If the permit is revoked by the DOB on these grounds, the occupants will have the opportunity to participate in the review of plans through the process described in 29 RCNY § 2-01(d)(2).
+
+   (5) Unreasonable interference during the legalization process. An aggrieved occupant may file an application with the Loft Board claiming an unreasonable interference with use of the unit, if, in the course of performing the code-compliance work, the owner or its agent:
+
+      (i) Engages in work that is outside of the scope authorized by the permit;
+
+      (ii) Departs significantly from the work described in the owner's narrative statement and legalization plan;
+
+      (iii) Departs significantly from the estimated time schedule for performance of the work as amended according to the requirements of 29 RCNY § 2-01(d)(2);
+
+      (iv) Engages in repeated or substantial violations of the notice provisions provided in 29 RCNY § 2-01(g); or
+
+      (v) Violates the provisions of the tenant protection plan provided in 29 RCNY § 2-01(d)(2)(vi).
+
+   Such application must provide the factual basis for a claim that such unauthorized work, departure from the schedule, or violation of the tenant protection plan unreasonably interferes with the occupant's use of its unit.
+
+   A finding by the Loft Board that the owner or its agents engaged in unreasonable interference with an occupant's use may result in civil penalties in accordance with 29 RCNY § 2-11.1 for each violation. A finding by the Loft Board that the owner or its agents engaged in unreasonable and willful interference with an occupant's use of its IMD unit may result in civil penalties in accordance with 29 RCNY § 2-11.1 for each violation, may constitute harassment of occupants, and may subject the owner to penalties resulting from a finding of harassment. As further provided in 29 RCNY § 2-02, the penalties may include, but are not limited to the denial of exemptions from rent regulation provided to an owner pursuant to § 286(6) of the MDL and Loft Board rules.
+
+      (i) Applications for Rent Guidelines Board ("RGB") increases and for rent adjustments based on costs of compliance.
+
+   (1) RGB increases.
+
+      (i) Upon issuance of a final certificate of occupancy, an owner shall be eligible for a rent adjustment based upon the percentage rent increases established by the RGB (hereinafter "RGB Increases"). The first RGB Increase shall commence on the first day of the first month following the day an owner submits to the Loft Board a Notice of RGB Increase Filing form on the Loft Board approved form. Each subsequent rent increase shall be effective on each one or two-year anniversary of such commencement date, as applicable. This one or two-year period during which a particular RGB Increase is effective is referred to herein as the "RGB Increase Period." The last RGB Increase prior to issuance of a final rent order by the Loft Board setting the initial legal regulated rent, pursuant to 29 RCNY § 2-01(m), shall remain effective until expiration of the applicable RGB Increase Period.
+
+      The amount of each RGB increase shall be equal to the percentage increase applicable to one or two-year leases as established by the RGB on the date the Notice of RGB Increase Filing form is submitted to the Loft Board and on each one or two-year anniversary thereafter, as applicable, and shall be applied to the maximum rent permissible under Loft Board rules as of the date the Notice of RGB Increase filing is submitted to the Loft Board.
+
+      The RGB Increase shall apply to all covered residential units, except for those units that are exempt from rent regulation under Article-7-C.
+
+      (ii) To obtain the RGB Increase, the owner shall submit to the Loft Board:
+
+         (A) Two copies of the Notice of RGB Rent Increase Filing formand the required attachments. The Notice of RGB Increase Filing form shall contain the rent in effect, including escalations and increases permitted in accordance with MDL § 286(2) or the Loft Board's rules, for each covered residential unit subject to rent regulation;
+
+         (B) A copy of the final residential certificate of occupancy;
+
+         (C) A copy of the individual notices as described in subparagraph (iii) of this paragraph;
+
+         (D) The "Tenant Response Form" sent by the owner to the affected occupants; and
+
+         (E) An affidavit that such notices were sent by first class mail and certified or registered mail to each affected occupant.
+
+      (iii) The owner shall mail to each affected occupant a an individual notice of RGB Increase form setting forth the maximum permissible rent under Loft Board rules for the unit. The mailing of the individual notice of RGB Increase shall also include the "Tenant Response Form" with instructions for the tenant to elect RGB increases applicable to one-year or two-year leases. Such election shall be binding upon the occupant for the entire period prior to expiration of the last RGB Increase before issuance by the Loft Board of the final rent order setting the initial legal regulated rent. The failure of an occupant to make an election between RGB increases applicable to one-year or two-year leases within 45 calendar days of the mailing of the Notice of RGB Increase Filing shall be deemed to be an election to be governed by increases applicable to one year leases.
+
+      (iv) The occupant may dispute the maximum permissible rent set forth in the owner's Notice of RGB Increase Filing, by detailing the amount in dispute on the Tenant Response Form. The occupant must file the dispute with the Loft Board within 45 calendar days of the mailing date of the individual notice of RGB Increase, as indicated on the affidavit of service. Failure of such occupant to notify the Loft Board of a dispute within such 45-day period shall be deemed to be an acceptance by the occupant of the amount of rent claimed by the owner. The Notice of RGB Rent Increase Filing form, the individual notices and the Tenant Response Form may not be altered or re-typed. During the period prior to the resolution of the dispute, the occupant shall pay rent in a sum equal to the amount of the monthly base rent that is not in dispute plus the amount of RGB Increase based on the undisputed amount. For example, if the owner claims the rent in effect is $450 and the occupant claims it is $400, the rent paid to the owner prior to resolution of the dispute shall be equal to $400 plus the applicable RGB Increase based on the undisputed amount of $400. The occupant shall pay any deficiency in one lump sum together with the first rent payment due following resolution of the dispute.
+
+      (v) RGB increases may also take effect in accordance with 29 RCNY § 2-01(i)(2)(i)(B) where the Loft Board sets the initial legal regulated rent.
+
+   (2) Rent Adjustments Based on the Cost of Code Compliance.
+
+      (i) (A) An owner may apply for rent adjustments based on the necessary and reasonable costs of compliance:
+
+            (a) once upon certification of compliance with Article 7-B of the MDL, alternative local building codes or provisions of the MDL, by a registered architect or a professional engineer licensed in the State of New York or upon issuance of a temporary residential certificate of occupancy, or
+
+            (b) once upon issuance of a final residential certificate of occupancy, or both.
+
+         (B) Notwithstanding any other provision of this title and in addition to any rights afforded to owners or tenants under this section, in accordance with MDL § 286(3), if an owner applies for a rent adjustment based on the code compliance costs for compliance with Article 7-B of the MDL and the Loft Board approves of such compliance, the Loft Board shall set the initial legal regulated rent, and each residential occupant qualified for protection pursuant to Article 7-C shall be offered a residential lease subject to the provisions regarding evictions and regulation of rent set forth in the Emergency Tenant Protection Act of 1974, except to the extent the provisions of Article 7-C are inconsistent with such act. If the initial legal regulated rent has been set based upon Article 7-B compliance only, a further adjustment may be obtained upon the obtaining of a residential certificate of occupancy.
+
+         (C) Except as set forth in this paragraph, the rent adjustment application based on code compliance costs filed with the Loft Board for IMD units covered under Article 7-C pursuant to MDL § 281(1), may include those necessary and reasonable code compliance costs incurred prior to June 21, 1982 for which the residential occupants have not either reimbursed or begun to reimburse the owner. A residential occupant who claims that reimbursement has been or is being made for such costs shall be required to present satisfactory proof of such reimbursement to the Loft Board.
+
+         (D) Except as provided in this subparagraph, rent adjustments shall be allowed for necessary and reasonable code compliance costs incurred by an owner in obtaining the building permit under which code compliance work is performed and for necessary and reasonable costs incurred for code compliance work performed after the issuance of such a permit.
+
+            (a) Limitations of Rent Adjustments Based on Costs of Compliance.
+
+               1. An owner who has failed to register its building as an IMD:
+
+                  (i) on or before December 1, 1985, in the case of a building covered by Article 7-C pursuant to MDL § 281(1) or,
+
+                  (ii) on or before February 11, 1993, in the case of a building which is covered by Article 7-C solely pursuant to MDL § 281(4) or,
+
+                  (iii) on or before September 11, 2013, the effective date of this rule, in the case of a building covered by Article 7-C pursuant to MDL § 281(5), shall be allowed rent adjustments only for necessary and reasonable code compliance costs incurred after registration.
+
+               2. An owner who fails to register its building as an IMD:
+
+                  (i) on or before March 1, 1986, in the case of a building covered by Article 7-C pursuant to MDL § 281(1) or,
+
+                  (ii) on or before May 11, 1993, in the case of a building which is covered by Article 7-C solely pursuant to M.D.L. § 281(4) or,
+
+                  (iii) on or before December 10, 2013, 90 calendar days after the effective of this rule, in the case of a building covered by Article 7-C pursuant to MDL § 281(5), shall be allowed only the necessary and reasonable code compliance costs incurred after registration, and such costs shall be based upon the schedule of costs referenced in subdivision (p) below, without indexing, regardless of when such costs were incurred.
+
+      (ii) An application filed pursuant to this paragraph (2) of 29 RCNY § 2-01(i) shall be filed no later than nine months after the owner has obtained a certificate of occupancy or February 1, 2000, whichever date is later. An owner that fails to file an application for code compliance rent adjustments in a timely manner pursuant to this provision shall be deemed to have waived its right to seek such a rent adjustment. An application submitted pursuant to this paragraph shall be submitted on a form prescribed by the Loft Board and shall meet the requirements of this paragraph and 29 RCNY §§ 1-06 and 2-11, except that for applications filed pursuant to clause (A) of subparagraph (iii) of this paragraph, only two copies must be filed plus one for each affected party, and for precertified applications filed pursuant to clause (B) of subparagraph (iii) of this paragraph, only two copies of the application must be filed. As part of the application the applicant must submit an itemized statement of costs incurred, including paid bills, cancelled checks or receipts for work performed, any construction contracts, the certificate issued by the Department of Buildings for the pertinent level of compliance, and such other information or materials as the Board requires. If the applicant seeks reimbursement for interest and service charges incurred in connection with compliance costs, the applicant must submit the information and materials required under paragraph (4) of 29 RCNY § 2-01(k). In accordance with the provision of 29 RCNY § 1-06(j)(1), the Board may require the applicant to furnish such reports and information as it may require concerning the code compliance work performed and may audit the books and records of the applicant with respect to such matters.
+
+      (iii) An application filed pursuant to this paragraph (2) of 29 RCNY § 2-01(i) may be submitted to the Loft Board for an audit or may be precertified pursuant to clause (B) of this subparagraph.
+
+         (A) If the application is not precertified, the Loft Board shall audit the application to ascertain whether the code compliance costs set forth in the application:
+
+            (a) are substantiated by invoices and copies of cancelled checks or other similarly reliable documentary evidence submitted as part of the application; and
+
+            (b) do not exceed the reasonable code compliance costs set forth in the schedule contained in these rules. Once the Loft Board's audit of an application is completed, the Executive Director shall, by first class mail, send the affected residential occupants a copy of the owner's application and send the affected residential occupants and the owner a copy of the auditor's report.
+
+         (B) An owner shall have the option to file a precertified application for code compliance rent adjustments pursuant to this clause (B). Costs attributable solely to the precertification of the application shall not be included as reimbursable code compliance costs. A precertified application shall meet the requirements of subparagraph (ii) of this paragraph as to form and content, shall be served on all affected residential occupants, and shall be filed, together with:
+
+            (a) certification by a certified public accountant ("CPA"), certifying that said CPA has audited the code compliance cost information contained in the application and that the code compliance costs set forth in the application (i) are substantiated by invoices and copies of cancelled checks or other similarly reliable documentary evidence; and (ii) do not exceed the reasonable code compliance costs set forth in the schedule contained in these rules;
+
+            (b) certification by a registered architect that the code compliance work described in the application for which the owner seeks reimbursement has been performed, meets the requirements of MDL Article 7-B, and is reimbursable pursuant to these rules; and
+
+            (c) proof of service of the precertified application upon all affected residential occupants.
+
+         (C) Residential occupants may, no later than 45 days following mailing by the Loft Board of the auditor's report pursuant to clause (A) of this subparagraph or service of a precertified application pursuant to clause (B) of this subparagraph, as the case may be, serve comments concerning the application upon the owner, and shall file such comments with the Loft Board along with proof of such service. Comments may include, but are not limited to, such matters as the scope of work performed, its necessity and reasonableness, the quality of the workmanship, and the actual costs claimed by the owner. Such comments shall specify the items in contention and the reasons therefor, and shall be supported by corroborating evidence, e.g., contractors' estimates, invoices, and/or architects' statements. The Executive Director may extend the 45-day period for a period of time not to exceed 21 days, upon a written request of a registered architect, contractor or CPA stating that he or she has been retained by an affected residential occupant for the purpose of reviewing the owner's application and the Loft Board audit, where an audit has been performed, and stating the reason an extension of time is needed to complete such review. Within the 45-day period, or within the period of any extension granted by the Executive Director, an affected residential occupant may request that the Executive Director schedule a conference at the offices of the Loft Board with the owner or the owner's representative. The conference shall be scheduled expeditiously and shall be limited to the issues presented in the owner's application and in the Loft Board audit, where an audit has been performed.
+
+         (D) If the Executive Director determines that there are no genuine issues of material fact with regard to the application, the Executive Director shall recommend approval of the application. In the event that the Executive Director finds that a genuine issue of material fact has been raised with regard to any item in the application, he shall proceed with respect to such item in accordance with clause (E) or (F) of this subparagraph, as appropriate, and at the same time shall recommend approval of the part of the application as to which he has determined there are no genuine issues of material fact. In considering the application under this clause (D), the Board shall review the application, the comments submitted, and the recommendation of the Executive Director, and shall determine whether to approve the application or any part thereof.
+
+         (E) Where the Executive Director finds that a genuine issue of material fact has been raised he may take appropriate action to obtain such relevant information as in his discretion is necessary to assist him in reaching a determination. Such action may include, but shall not be limited to, ordering an inspection of the premises, directing the parties to serve and file additional information or corroborating evidence in support of their positions, holding an informal conference with the parties, or directing that a hearing be scheduled pursuant to the provisions of clause (F) of this subparagraph. No later than 45 days following the end of the period in which residential occupants may submit comments pursuant to clause (C) of this subparagraph, the Executive Director shall either make findings of fact and a recommended determination to the Board, or shall direct that a hearing be scheduled pursuant to clause (F) of this subparagraph; provided, however, that the 45-day period shall be extended an additional 30 days if, prior to the expiration of the 45-day period, the Executive Director has requested additional information or documentary evidence pursuant to item (2) of this clause (E) and the time to provide such additional information or documentary evidence, or to respond to such additional information or documentary evidence, has not yet passed. In making a recommended determination pursuant to this clause (E), the Executive Director shall consider, and shall make available to the Board, the application, any comments of the residential occupants, inspection results, information provided by the parties at an informal conference, additional comments, information or corroborating evidence submitted by the parties in writing, or other relevant information.
+
+            (a) If the Executive Director orders an inspection of the premises, the results of the inspection shall be mailed to the parties within three business days of completion of such inspection, and the parties may serve and file comments concerning the inspection results within eight business days after the date of mailing of such results.
+
+            (b) A party directed to serve and file additional information or documentary evidence shall serve and file the additional information or evidence within fourteen business days of such order. The party upon whom the additional information or evidence has been served shall serve and file its response, if any, within five business days after service of the information or evidence.
+
+            (c) If the Executive Director obtains any other relevant information to assist him in making his recommended determination under this clause (E), the Executive Director shall ensure the parties are provided with such information, shall provide the parties an opportunity to comment in writing on such information within up to 15 business days after service thereof, and shall provide the parties an opportunity to respond to each other's comments within five business days after service of such comments.
+
+         (F) If the Executive Director determines that a genuine issue of material fact has been raised which may be resolved only by a hearing, the Executive Director may bifurcate the application into two parts:
+
+            (1) the part that requires no hearing, which shall proceed pursuant to clause (D) or (E) of this subparagraph, as applicable, and
+
+            (2) the part as to which a hearing is required, which shall proceed pursuant to this clause (F). Such hearing may be preceded by an informal conference, but in any case, shall be commenced not more than 30 days after the decision of the Executive Director to bifurcate the application, unless the parties stipulate in writing otherwise. Within 30 days after the conclusion of the hearing, the hearing officer shall make findings of fact and a recommended determination. In making the recommended determination the hearing officer shall consider, and shall make available to the Board, the application, any comments of the residential occupants, inspection results, information provided by the parties at an informal conference, additional comments, information or corroborating evidence submitted by the parties in writing, testimony given at any hearing, or other relevant information. The hearing officer shall submit his recommended determination with respect to the portion of the application proceeding pursuant to this clause (F) to the Board for its consid- eration.
+
+         (G) Nothing in this subparagraph (iii) of 29 RCNY § 2-01(i)(2) shall be construed to preclude partial approval of an application by the Board pursuant to clause (D) or (E) of this subparagraph prior to a hearing pursuant to clause (F). If the Board issues an initial order determining the portion of the application that proceeded under clause (D) or (E) of this subparagraph and grants a rent adjustment to the owner pending the conclusion of a hearing pursuant to clause (F), the owner may continue to collect rents in the amounts stated in the initial order unless and until a supplementary order is issued.
+
+      (iv) In evaluating all applications for code compliance rent adjustments, the Loft Board shall review the owner's application, the comments of residential occupants, the Loft Board schedule of costs described in 29 RCNY § 2-01(j), or alternative schedule described below, and any other information considered by the Executive Director and the hearing officer in making a recommended determination. The Board shall determine the necessary and reasonable code compliance costs incurred by the owner, which shall be charged to all affected residential occupants as rent adjustments. Owners shall be allowed to pass along no more than the costs recited in the current Loft Board schedule as of the date on which the construction contract(s) is (are) entered into for items included in the contract(s), except as provided in the first paragraph of this subdivision (i) and other necessary and reasonable costs not on the schedule pursuant to 29 RCNY § 2-01(j) below. For items not included in the construction contract(s), costs will be determined based upon the schedule in effect at the time work was performed and 29 RCNY § 2-01(j) below. Owners submitting applications on or after June 1, 1989 shall be allowed to pass along no more than the costs recited in the revised schedule of costs promulgated by the Board on October 25, 1990. In all cases, if actual compliance costs are less than the amount recited in the Loft Board schedule, rent adjustments shall reflect the lesser actual costs.
+
+      (v) An owner may elect that the Loft Board shall deem the total cost of compliance to be the amounts certified by the Department of Housing Preservation and Development in any certificate of eligibility issued in connection with an application for tax exemption or tax abatement (such as "J-51") to the extent that such certificate reflects categories of costs approved by the Loft Board.
+
+      (vi) An owner may expressly waive its right to a rent adjustment based on the cost of compliance. To do so, it shall indicate its waiver decision on the Notice of RGB Increase form described in 29 RCNY § 2-01(i)(1) and follow the procedures therein for notification of the affected occupants. In addition, an owner may be deemed to have waived its right to a rent adjustment based on the cost of compliance pursuant to 29 RCNY § 2-01(i)(2)(ii).
+
+      (vii) Whenever service upon parties is required in this 29 RCNY § 2-01(i)(2), service shall be made, and proof of service filed, in accordance with the requirements of 29 RCNY § 2-01(d)(1)(i).
+
+      (viii) If the Loft Board finds, following notice and an opportunity to be heard, that an architect or CPA has knowingly made a misleading material statement in the context of a certification issued pursuant to 29 RCNY § 2-01(i)(2)(iii)(B), the Loft Board may refuse to accept subsequent certifications from such architect or CPA, and shall refer its findings to the appropriate licensing agency.
+
+(j) Schedule of costs. The Loft Board schedule of reasonable code compliance costs for obtaining a residential certificate of occupancy promulgated pursuant to §§ 280 and 286(5) of Article 7-C is appended to these regulations. The schedule is current as of September, 1984, will be applicable to applications filed with the Board before June 1, 1989 and shall be indexed annually, both prospectively and retroactively, based upon the average of the annual percentage change reported in the Dodge Building Cost Index and the Engineering News-Record Building Cost Index for New York as of September of each year. However, for periods prior to 1977 and after 1988 only the Engineering News-Record Building Cost Index will be used. The schedule promulgated by the Board on October 25, 1990 will be applied to all rent adjustment applications submitted on or after June 1, 1989 and shall be indexed annually, both prospectively and retroactively, based upon the annual percentage change reported in the Engineering News-Record Building Cost Index for New York as of September of each year. The schedule is intended to include all necessary and reasonable code compliance cost items. It includes the allowable costs of materials and labor for demolition and construction necessary for achieving minimal code compliance. It also includes professional fees and municipal filing fees necessary for code compliance. Rent adjustments shall not be allowed for items not included in the schedule unless upon owner application they are shown to be necessary and reasonable costs of code compliance, nor shall rent adjustments be allowed for costs not necessary to obtain a residential certificate of occupancy. In addition, notwithstanding the existence of a work item on the schedule, rent adjustments shall not be allowed for:
+
+   (1) costs incurred in repairing or replacing items located in the common or commercial areas of the building or involving its exterior (such as masonry, fire escape, or skylight repairs) to the extent such items are repaired or replaced with a similar or comparable item due to their deteriorated condition (such costs being "deferred maintenance" costs);
+
+   (2) the costs of curing preexisting violations in the building evidenced by municipal notices of violation to the extent such violations would have to be cured even if the building did not have to be made code compliant pursuant to Article 7-C; and
+
+   (3) other "soft" costs, such as BRAC payments. The repair or replacement of work items (other than windows, as provided below) located within the residential units of the building shall not constitute a deferred maintenance cost. The foregoing rules are qualified to the following extent; (x) if the roof is required to be repaired or replaced, and it has been replaced within the 10-year period prior to the narrative statement conference for the building, half the necessary and reasonable costs shall be recognized as code compliance costs and allocated equally among any residential units whose occupants had made significant use of the roof during this 10-year period ("significant use" may be evidenced by the presence on the roof of the residential occupants' property, such as outdoor furniture, plants, decking, and clotheslines); otherwise, the costs of roof repair and replacement shall be excluded as deferred maintenance; (y) if windows are required to be repaired or replaced, the necessary and reasonable costs shall be recognized as code compliance costs if incurred to meet residential certificate of occupancy standards, but shall be excluded if they resulted instaed from the deteriorated condition of the windows; and (z) the repair or replacement of utility risers, other building system components, or structural components due to their deteriorated condition with similar or comparable items shall constituye deferred maintenance costs unless these components had been installed by a residential tenant. In determining the appropriate rent adjustment for code compliance for each affected unit the Loft Board will decide on a case-by-case basis whether the work item applied for was necessary and reasonable to achieve minimal code compliance in the building. "Minimal code compliance" shall not be limited exclusively to the least expensive method of compliance but may also include other reasonable approaches to meeting legal requirements which are not unduly burdensome to the residential occupants. In assessing the reasonableness of the approach, the Board may consider the construction standards and specifications applied in housing programs financed by the Department of Housing Preservation and Development and other affordable housing programs in New York City. Where the cost of an allowable code compliance item has been included in the initial rent adjustment based upon Article 7-B compliance, the cost of any subsequent work performed to repair or replace that item may not be included in the final rent adjustment based upon issuance of a final residential certificate of occupancy. Rent adjustments for approved work items will be based on the lower of the actual cost or the scheduled amount for the item. In the case of approved work items that do not appear on the schedule, the necessary and reasonable cost of such items will be determined and included in the rent adjustments. Further, if in order to provide heat as required by Loft Board Minimum Housing Maintenance Standards, the landlord is or was required to install a central heating system or individual heating systems or to modify an existing system, the necessary and reasonable costs incurred in purchasing and installing or modifying such system or systems shall be costs that may be passed along to tenants as part of the rent adjustment calculated pursuant to these regulations. If in order to meet utility company standards or rules, an owner is required to perform work such as installing meters or constructing meter rooms, the necessary and reasonable costs of such work shall be costs that may be passed through as rent adjustments pursuant to these rules. Also, if in order to provide elevator services as required by the Department of Buildings or Loft Board Minimum Housing Maintenance Standards, the landlord has modified or replaced an existing elevator, the necessary and reasonable costs of performing such work shall be costs that may be passed along to the tenants as part of the code compliance rent adjustments. As part of the legalization work, the landlord shall also replace elevator hoistway door locks where prohibited with a security device on residential floor landings that provides substantially the same or enhanced security to the tenants, and the necessary and reasonable costs of performing such work shall be costs that may be passed along to the tenants as part of the code compliance rent adjustment. "Substantially the same or enhanced security" shall be defined as follows:
+
+      (1) a "zero clearance vestibule," if the elevator is equipped with sliding doors and the vestibule may be created without altering their operation;
+
+      (2) a vestibule extending into the IMD unit, with the minimum dimensions required to meet code requirements, if the elevator is equipped with swinging doors which open into the IMD unit; or (3) any other security arrangement to which the owner and tenant agree which meets DOB and Fire Department requirements. On request of the residential tenant, additional security measures such as mirrors and reinforced vestibule walls shall be installed by the owner, provided they are acceptable to DOB and the Fire Department, and the cost of their installation shall also be a recognized cost of code compliance. If a tenant has performed construction without the owner's consent at any time after the initial narrative statement conference, and additional costs are incurred by the owner as a result, such as architectural fees to revise plans or labor and material costs to perform additional work, these costs may be passed through to the tenant as part of the code compliance rent adjustments. In situations in which the owner alters or reconfigures residential units in a manner which results in changes in residential floor area pursuant to a Loft Board order or agreement among the parties, the Loft Board may determine the base rents to be charged for such spaces reflective of the change. Installation of an elevator vestibule to provide a tenant with security from intruders using the elevator shall not be the basis for an adjustment of base rent. Also, see 29 RCNY § 2-01(0).
+
+(k) Rent adjustments.
+
+   (1) When an owner files an application for code compliance rent adjustments pursuant to 29 RCNY § 2-01(i)(2) prior to obtaining a certificate of occupancy, rent adjustments granted by the Board shall be retroactive to the first day of the month following the date of the filing of the completed rent adjustment application by the owner. When an owner files an application for code compliance rent adjustments pursuant to 29 RCNY § 2-01(i)(2) after obtaining a final certificate of occupancy, rent adjustments granted by the Board shall be retroactive to the first day of the month following the date of the issuance of the final certificate of occupancy. In either case, rent adjustments granted by the Board shall take effect on the first rent payment date that occurs at least 10 days after the Loft Board has mailed a final rent adjustment order to the owner and all affected residential occupants. For example, in a case where an owner filed an application for a rent adjustment prior to obtaining a certificate of occupancy, if the owner filed its application on March 15, 1986, and the Loft Board's order was mailed on October 6, 1986, the increase would be effective November 1, 1986, retroactive to April 1, 1986. At the option of the residential occupant, such retroactive increase may be paid either in a lump sum or as an addition to the regular monthly rent payments at a rate equal to 20 percent of the rent in effect, including any escalators, as of the date of application for adjustment ("base rent") until payment of the full retroactive amount is completed. Also, see 29 RCNY § 2-01(o).
+
+   (2) The total rent adjustment per building shall be determined by the Loft Board:
+
+      (i) by dividing the allowable cash costs of compliance approved by the Loft Board, exclusive of interest and service charges, over a 10-year period of amortization; or
+
+      (ii) by dividing the allowable cash costs of compliance approved by the Loft Board over a 15-year period of amortization and adding the actual mortgage debt service, incurred by the owner to pay allowable cash costs of compliance approved by the Loft Board that are attributable to interest and service charges in each year of indebtedness to an Institutional Lender (as defined in paragraph (4) of this subdivision) or any Qualified Noninstitutional Lender (as defined in paragraph (4) of this subdivision) that is approved by the Loft Board pursuant to such paragraph. The portion of the rent adjustment attributable to mortgage debt service shall be computed on the basis of the average annual debt service attributable to interest, finance and service charges over the loan term, provided that the maximum total amount of interest charged includable in rent shall not exceed that reflected in a 15 year self-amortizing mortgage. Service charges shall include mortgage application fees; commitment fees; fees for professionals who are required to be paid by the lender (such as appraisers, attorneys and surveyors); mortgage title examination and insurance fees and charges; origination fees; points; mortgage recording tax; and other recording charges. The use of a 10-year period of amortization, not including debt service, or of a 15-year period of amortization, including debt service, shall be at the option of the owner when interest and service charges are incurred to pay for any portion of allowable cash costs of compliance approved by the Board.
+
+   (3) In cases where the owner of a building receives tax abatement and exemption under Part 1 of Subchapter 2 of Chapter 2 of Title II (§ 11-243 formerly J-51) of the Administrative Code, the total annual rent adjustment for the IMD shall be adjusted to reflect a reduction equal to one-half of the total annual tax abatement granted for the IMD for those categories of costs approved by the Loft Board as necessary and reasonable for code compliance. The allocation of such reduction shall be in accordance with the formulae for allocation of rent adjustments contained in 29 RCNY § 2-01(l).
+
+   (4) (i) Definitions. For purposes of amortizing code compliance costs and interest and service charges over a 15-year period, the following terms have the following meanings:
+
+         (A) "Institutional lender" shall mean any bank, trust company, national bank, savings bank, state or federal savings and loan association, state or federal credit union, in- surance company; any pension fund or retirement system of any corporation, association or any other entity owned or controlled by any one of the above, provided the same is supervised by or responsible to any agency of the federal government, or the State or the City of New York; and any governmental agency.
+
+         (B) "Qualified noninstitutional lender" shall mean any person or entity other than (A) the owner of the building, (B) any person or entity that owns, directly or through another entity, more than 50% of the ownership interest in the property, or any person or entity that at any time after March 26, 1993 has owned directly or through another entity, more than 50% of the ownership interest in the property, or (C) the spouse of any person described in clauses (A) or (B) above.
+
+      (ii) Procedure for applying for rent adjustment based on loans used to finance allowed compliance costs.
+
+         (A) Required documentation for all loans. An applicant seeking a rent adjustment based on interest and service charges for any loan from an institutional lender or qualified noninstitutional lender shall submit, as part of the application described in 29 RCNY § 2-01(i)(2), a descripion of the terms of the loan, the identity of the lender, a copy of all documents (including amendments thereto) evidencing or securing the loan (e.g., the note, loan agreement, mortgage, and security agreement, if any) certified by the lender as being true and correct copies; and evidence of the payment of service charges in the form of paid bills, canceled checks or other similar evidence.
+
+         (B) Additional documentation required for a loan from any qualified noninstitutional lender. In the case of a loan from a qualified noninstitutional lender, an applicant must submit, in addition to the documents enumerated in sentence (i) of subparagraph (b) of this paragraph, a completed Application for Noninstitutional Lender Approval in the form prescribed by the Loft Board together with an affidavit of Noninstitutional Lender-Lender Approval Form and an Affidavit of Noninstitutional Lender-Loan Approval Form. A completed Application for Noninstitutional Lender Approval and Affidavit of Noninstitutional Lender-Lender Approval Form must be submitted before the Loft Board will begin to process the rent adjustment application described in 29 RCNY § 2-01(i)(2).
+
+         (C) Additional documentation required for a loan from a qualified noninstitutional lender that is related to the applicant by blood, marriage or ownership of stock, partnership interests or other ownership interests. In the case of a loan from any qualified noninstitutional lender that is related to the applicant by blood, marriage or ownership of stock, partnership interests or other ownership interests, an applicant must submit, in addition to the documents enumerated in sentences (ii) and (iii) of subparagraph (b) of this paragraph, a statement from the lender's certified public accountant to the effect that the loan under consideration is a bona fide loan and that the interest payable thereunder has been included or is includable as income in the lender's federal income tax return or, alternatively, a true and correct copy (certified as such by the lender or the lender's certified public accountant) of the lender's federal income tax return(s) (or the applicable schedules thereto) showing that such interest has been included in the lender's income for federal income tax purposes for each year to date of such application that interest under the loan has been paid to an including the most recent year in which a federal income tax return has been filed; and copies (both sides) of canceled checks drawn on an account of the lender evidencing payment of the proceeds of the loan to or on behalf of the owner. The Loft Board shall approve a noninstitutional lender in determining rent adjustments pursuant to 29 RCNY § 2-01(k)(2); provided, however, in the case of a qualified noninstitutional lender that is related to the applicant by blood, marriage or ownership of stock, partnership interests or other ownership interests, that the applicant submits reliable evidence (in the form described above) that the loan under consideration is a bona fide loan. Service charges shall be reimbursable only to the extent that they have been paid on or prior to the date of application and only when supported by reliable evidence (in the form described above). Only that portion of interest charges on a noninstitutional loan that does not exceed 2 points over the Federal National Mortgage Association's yield on multi-family, 15-year fixed-rate loans shall be included in rent adjustments. The procedures for applications to the Loft Board set forth in 29 RCNY § 1-06 of these rules shall not apply to Applications for Non- Institutional Lender Approval. The owner shall be required to submit two copies of the Application for Non-Institutional-Lender Approval. Such application will be approved provided such filing contains the information required by these rules. The portions of the preceding provisions of 29 RCNY § 2-01(k) pertaining to loans from qualified noninstitutional lenders (specifically, the reference to qualified noninstitutional lenders in 29 RCNY § 2-01(k)(2)(ii), and (k)(4)(i)(B), (k)(4)(ii)(B), (k)(4)(ii)(C), and the paragraph immediately following 29 RCNY § 2-01(k)(4)(ii)(C) shall terminate on June 30, 1995 unless extended by the Loft Board.
+
+(l) Allocation of rent adjustments. The total rent adjustment per IMD determined pursuant to 29 RCNY §§ 2-01(i) through (k) above, for obtaining a residential certificate of occupancy shall be allowed among individual residential units in the following manner:
+
+   (1) Allowable code compliance costs of work performed in a residential unit to bring the unit into compliance shall be allocated to that residential unit.
+
+   (2) Allowable code compliance costs of systems work, such as utility service or heat, that only services and is only capable of servicing the residential units and of work performed in nonresidential units solely to achieve Article 7-C compliance for the residential units shall be allocated equally among those residential units regardless of where the work is performed.
+
+   (3) An equal share of allowable code compliance costs of work in common areas and nonresidential units, except as provided in 29 RCNY § 2-01(l)(2), in the building shall be allocated to each residential unit. Allowable code compliance costs for systems work, such as utility service or heat, which services or is capable of servicing nonresidential units shall be deemed to be code compliance costs of work in common areas. This share, as described in this 29 RCNY § 2-01(l)(3), shall be equal to the portion of total allowable code compliance costs of work in common areas and nonresidential units, except as provided in 29 RCNY § 2-01(l)(2), which bears the same proportion to the total as the sum of the amount of floor area devoted to the maximum number of residential units in the building at any time after April 1, 1980 which qualified for coverage under M.D.L. Article 7-C and of the residential units which appear on the final certificate of occupancy which did not qualify for coverage under M.D.L. Article 7-C bears to the building's total floor area, divided equally among the sum of the maximum number of residential units in the building at any time which qualified for coverage under M.D.L. Article 7-C and the number of residential units which appear on the final certificate of occupancy which did not qualify for coverage under M.D.L. Article 7-C so that
+
+         S = (TC × RA/TA)            R
+
+      that is S equals (TC multiplied by (RA divided by TA)) divided by R,
+
+      where S = Share per residential unit
+
+      TC = Total allowable code compliance costs of work in common areas and nonresidential units, except as provided in 29 RCNY § 2-01(l)(2)
+
+      RA = Sum of the floor area of the maximum number of residential units in the building at any time which qualified for coverage under M.D.L. Article 7-C and of the residential units which appear on the final certificate of occupancy which did not qualify for coverage under M.D.L. Article 7-C
+
+      TA = Total Floor area
+
+      R = Sum of the maximum number of residential units in the building at any time which qualified for coverage under M.D.L. Article 7-C and the number of residential units which appear on the final certificate of occupancy which did not qualify for coverage under M.D.L. Article 7-C
+
+For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): Total floor area (TA) is defined as the sum of the gross areas of the floors of a building measured from the exterior faces of exterior walls or from the center line of walls separating two buildings. Floor area includes rentable space, such as space in penthouses, cellars, and basements, but excludes rooms with mechanical, heating and air conditioning equipment and elevator and stair bulkheads, water tanks and cooling towers. Nonresidential tenant, residential tenant and vacant rental spaces are included in the floor area. Floor Area of Residential Units (RA) is defined as the sum of the clear area of the floor contained within the partitions or walls enclosing any room, space, foyer, hall or passageways of each of the residential units. It shall not include common areas, public halls, public vestibules, public rooms or other public parts of the building. Common areas are defined as spaces used for bulkheads, stairs, hallways, cellars, basements, fire escapes, rooms used for mechanical, elevator and heating equipment, and other areas used by all the residential occupants of the building, including storage areas.
+
+(m) Initial legal regulated rents/issuance of residential leases.
+
+   (1) Following the calculation of code compliance rent adjustments or the waiver of an owner's right to such rent adjustments pursuant to 29 RCNY § 2-01(i)(2)(ii), the Loft Board shall set the initial legal regulated rent for all covered residential units remaining subject to rent regulation under M.D.L. Article 7-C.
+
+   (2) If an owner has waived its right to code compliance rent adjustments, the Loft Board may establish the initial legal regulated rents for covered residential units subject to rent regulation under M.D.L. Article 7-C based on the owner's RGB application pursuant to 29 RCNY § 2-01(i)(1), or, if no RGB application was filed, by evidence including, but not limited to, Loft Board records, documents submitted by affected parties, and the testimony of witnesses.
+
+   (3) (i) Upon the issuance by the Loft Board of an order establishing the initial legal regulated rent, the owner shall offer each residential occupant a residential lease subject to the provisions regarding evictions and regulation of rent set forth in the Emergency Tenant Protection Act of 1974, except that to the extent the provisions of Article 7-C are inconsistent with such act, the provisions of Article 7-C and these rules shall govern. At such time, the owner shall register with the New York State Division of Housing and Community Renewal in accordance with the ETPA.
+
+   Note: § 285(3) of the M.D.L. requires registration with a real estate industry stabilization association; however, amendments to the ETPA  modified that filing requirement as shown.
+
+      (ii) If the owner has received any RGB Increase under 29 RCNY § 2-01(i)(1), then the initial term of such lease shall end upon expiration of the last RGB Increase Period (as defined in 29 RCNY § 2-01(i)(1)) prior to the setting of the initial legal regulated rent; provided, however, that no notice or proceeding by the owner to recover the unit pursuant to § 2524.4 of the Rent Stabilization code may be commenced during the pendency of this initial abbreviated lease term. The initial legal regulated rent established by the Loft Board pursuant to this subparagraph (ii) shall be equal to:
+
+(A) the rent in effect, including escalations, and any RGB Increase granted under 29 RCNY § 2-01(i)(1) as of the date of the rent order ("base rent"), plus
+
+(B) the maximum annual amount of any increase allocable to compliance as provided herein.
+
+      (iii) If an owner has not received any RGB Increases under 29 RCNY § 2-01(i)(1), then the rent shall be the sum of clauses (A) and (B) of subparagraph (ii) above plus the percentage increase then applicable to one-or-two year leases, as elected by the tenant, as established by the RGB and applied to the base rent, provided, however, such percentage increases may be adjusted downward by the Loft Board if prior increases based on Loft Board guidelines cover part of the same time period to be covered by the Rent Guidelines Board adjustments. For units in buildings that have been rented at market value subject to subsequent rent regulation as a result of the owner's purchase of improvements pursuant to M.D.L. § 286(6) and 29 RCNY § 2-07(f)(5), the initial legal regulated rent shall be calculated as set forth above except that the code compliance cost increase shall be zero.
+
+   (4) Rental adjustments attributable to the cost of code compliance shall not become part of the base rent for purposes of calculating rent adjusted pursuant to Rent Guidelines Board increases and shall terminate, after 10 or 15 years, as established by Loft Board order.
+
+(n) Cooperatives and condominiums.
+
+   (1) Cooperative or condominium conversion of an IMD shall be fully in accordance with Article 23-A of the General Business Law, as amended, and the rules and regulations promulgated by the New York State Attorney General pursuant thereto. No eviction plan for conversion to cooperative or condominium ownership for a building that is, in whole or in part, an IMD shall be submitted for filing to the office of the New York State Attorney General pursuant to the General Business Law until a final residential certificate of occupancy is obtained and the residential occupants are offered residential leases in accordance with these regulations.
+
+   (2) Noneviction plans for such buildings may be submitted for filing provided that the sponsor or owner association remains legally responsible for bringing all rental, cooperative, and condominium units and all common areas of the building into compli ance with Article 7-B of the M.D.L., or alternative building codes or provisions of the M.D.L. described in 29 RCNY § 2-01(a)(3) and for all work in common areas required to obtain a residential certificate of occupancy. An IMD that has been converted to cooperative or condominium ownership is subject to compliance with Article 7-C and Loft Board rules and regulations promulgated pursuant thereto.
+
+   (3) Cooperative and condominium units occupied by unit owners or tenant-shareholders are not subject to rent regulation pursuant to Article 7-C of the M.D.L. Cooperative and condominium units occupied by residential occupants qualified for the protection of Article 7-C of the M.D.L., i.e., who are not unit owners or tenant-shareholders, are subject to rent regulation pursuant to the statute.
+
+   (4) The sponsor or owner association of an IMD building that has converted to cooperative or condominium ownership shall file for code compliance rent adjustments for any units remaining subject to rent regulation pursuant to M.D.L. Article 7-C by the time set forth in 29 RCNY § 2-01(i)(2)(ii). A sponsor or owner association that fails to file an application for code compliance rent adjustments in a timely manner pursuant to this provision shall be deemed to have waived its right to seek such a rent adjustment.
+
+   (5) At any time after obtaining a residential certificate of occupancy, the sponsor or owner association of such an IMD building shall file with the Loft Board a list of all units originally registered as IMD units that are occupied by unit owners or tenant-shareholders, certifying that such units are occupied by unit owners or tenant-shareholders, and affirming that the sponsor or owner association seeks exemption for those units from the Loft Board's order setting the initial legal regulated rents. The building shall remain subject to the annual registration renewal requirement pending completion of Loft Board review of such list.
+
+(o) [Reserved.]
+
+(p) Schedule of costs.
+
+   (1) Demolition.
 
  
 
@@ -237,3209 +1108,2885 @@ b. The commissioner is authorized to collect the following annual fees for the c
 .. list-table::
     :header-rows: 1
 
-    * - Average Total Number of 20 Gallon Bags Generated Per Week, Including Designated Recyclable Materials
-      - Annual Collection and Disposal Fee
-    * - Not more than 5
-      - $  303.00 
-    * - 6-10
-      - $  563.00 
-    * - 11-15
-      - $  823.00 
-    * - 16-20
-      - $1,083.00 
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 16-115 Sale of ashes by commissioner.* ::
-
-
-Ashes collected by the department may be sold by the commissioner at rates fixed by the board of estimate.
-
-
-
-
-
-
-*§ 16-116 Removal of commercial waste; posting of sign, registration number.* ::
-
-
-a. 1. Every owner, lessee or person in control of a commercial establishment shall provide for the removal of waste by a business licensed by the New York city business integrity commission as required by subdivision a of section 16-505 of this code or register and obtain a registration number from the New York city business integrity commission as required by subdivision b of section 16-505 of this code to remove its own waste except as provided in subdivision c of this section, however nothing contained herein shall preclude the commissioner from providing for the removal of waste from any commercial establishment pursuant to the authority vested in the commissioner by section seven hundred fifty-three of the charter.
-
-   2. No later than the applicable final implementation date set forth in the rules of the department pursuant to subdivision e of section 16-1002, each owner, lessee or person in control of a commercial establishment shall contract with an awardee selected by the department for the zone in which such establishment is located for the removal of commercial waste only by a designated carter pursuant to the agreement entered into between such awardee and the department pursuant to title 16-B, as such terms are defined in section 16-1000, in accordance with the provisions of such title and any rules promulgated pursuant thereto, except as otherwise provided by such title, provided however, that an owner, lessee or person in control of a commercial establishment may contract for the removal of containerized commercial waste, as such term is defined in section 16-1000, with either an awardee selected for such zone or with an awardee selected for the removal of containerized commercial waste citywide pursuant to title 16-B, in accordance with the provisions of such title and any rules promulgated pursuant thereto.
-
-b. Every owner, lessee or person in control of a commercial establishment shall post a sign which states clearly and legibly the trade or business name, address, telephone number and the day and time of the pickup of the trade waste removal business presently serving the establishment, or if the commercial establishment removes its own waste, a registration number issued by the New York city trade waste commission shall be posted. Such sign or registration number shall be prominently displayed by affixing it to a window near the principal entrance to the commercial establishment so as to be easily visible from outside the building. If this is not possible, such sign or permit shall be prominently displayed inside the commercial establishment near the principal entrance to the premises.
-
-c. This section shall not apply to (i) unimproved or vacant property or premises generating infrequent waste or insignificant amounts of waste; and (ii) home occupations, medical offices/group medical centers, and other residential offices, which receive department collection and disposal service pursuant to section 16-114.1 of this code. The commissioner shall have the authority to determine what constitutes infrequent waste or insignificant amounts of waste in specific cases.
-
-d. (i)    Except as provided in paragraph (ii) of this subdivision, violation of any of the provisions of this section or any rules promulgated pursuant thereto shall be punishable by a civil penalty of not less than fifty nor more than one hundred dollars, provided that a first-time violation of subdivision (b) of this section or any rules promulgated thereto by any owner, lessee or person in control of a commercial establishment shall be mitigated to zero dollars if, on or before the initial return date stated on the notice of violation, such owner, lessee or person submits proof of having cured the violation at the hearing of such notice of violation. Any notice of violation, appearance ticket or summons issued for a violation of this section shall be returnable before the environmental control board which shall impose the penalty herein provided.
-
-   (ii) A commercial establishment required by subdivision b of section 16-505 of this code to register with the New York city trade waste commission shall be subject to a penalty for the violation of such subdivision or any rule pertaining thereto as provided in subdivision c of section 16-515 of this code. Such penalty may be recoverable in the manner provided therein or may be returnable in a civil action brought in the name of the commissioner before the environmental control board which shall impose a penalty not to exceed one thousand dollars.
-
-
-
-
-
-
-
-
-*§ 16-117 Rules and regulations governing conveyance of rubbish, waste or offensive material through the streets.* ::
-
-
-The commissioner shall have power to adopt rules and regulations:
-
-1. Controlling persons and their servants, agents and employees and the vehicles of each engaged in removing, disposing of, conveying or transporting upon the streets, public places or bridges, or over the ferries in the city, manure, swill, ashes, street sweepings, bones, garbage, night soil, offal, fat, hides, hoofs or entrails, or other refuse parts of slaughtered animals, refuse, rubbish, bodies of dead animals, or any other offensive or noxious material, paper stock, or trade waste;
-
-2. Rules and regulations adopted by the commissioner pursuant to this section shall be submitted to the board of estimate and, when approved by such board, shall be filed with the city clerk and published in like manner as prescribed by section eleven hundred five of the charter and shall be enforced in the same manner and to the same extent as local laws.
-
-
-
-
-
-
-*§ 16-117.1 Transport, storage and disposal of waste containing asbestos.* ::
-
-
-(a) No person shall transport, store or dispose of waste containing asbestos or cause or permit any person to transport, store or dispose of such waste, except as in accordance with the provisions of this section.
-
-(b) Waste containing asbestos shall not be presented for transport, storage or disposal unless at the site of generation such waste is:
-
-   (1) wet down in a manner sufficient to prevent all visible emissions of asbestos dust into the air;
-
-   (2) sealed while wet in leak-tight containers which shall bear either:
-
-      (i) a warning label which states: "CAUTION Contains Asbestos—Avoid Opening or Breaking Container Breathing Asbestos is Hazardous to Your Health", or
-
-      (ii) such other warning label as may be authorized by federal law or regulation; and*
-
-   (3) quantitatively documented on a form approved by the commissioner, expressed by either volume, weight or container (bag);
-
-   (4) kept separate from any other waste.
-
-(c) Waste which contains asbestos shall not be stored unless prior authorization, in such form and manner as the commissioner may prescribe by regulation, is received from the department.
-
-(d) Whenever waste containing asbestos is stored prior to disposal such waste shall be inspected not less than once in every twenty-four hour period so as to ensure that there are no visible emissions of asbestos dust into the air. If such inspection reveals visible emissions of asbestos dust into the air, the waste shall be wet down and repackaged by placing the existing container into a leak-tight container so as to prevent any further emissions into the air.
-
-(e) (1)    Waste containing asbestos shall be disposed of in the City only at sites approved by the commissioner;
-
-   (2) in cases of asbestos disposed of in City approved disposal sites, the Department of Sanitation shall indicate on the appropriate form, the quantity of asbestos received, expressed either by volume, weight or container (bag). A copy of this form shall be forwarded to the Department of Environmental Protection.
-
-(f) The commissioner shall have the authority to adopt rules and regulations to effectuate the purposes of this section.
-
-(g) (1)    Any violation of this section or of any rule or regulation adopted pursuant to this section shall constitute an offense punishable by a fine of not less than five hundred dollars and not more than twenty-five thousand dollars, or by imprisonment not to exceed one year, or by both such fine and imprisonment.
-
-   (2) In addition to any other criminal or civil penalty authorized by law, any violation of this section or any rule or regulation adopted pursuant to this section shall be punishable by a civil penalty of not less than five hundred dollars and not more than twenty-five thousand dollars. Such penalty may be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board.
-
-
-
-
-
-
-*§ 16-118 Littering prohibited.* ::
-
-
-1. (a) No person shall litter, sweep, throw or cast, or direct, suffer or permit any servant, agent, employee, or other person under his or her control, to litter, sweep, throw or cast any ashes, garbage, paper, dust or other rubbish and refuse of any kind whatsoever, in or upon any street or public place, vacant lot, air shaft, areaway, backyard court, park, or alley.
-
-   (b) No person shall spit upon a sidewalk of a street or public place, or on a floor, wall or stairway of any public or private building or premises used in common by the public, or in or on any public transportation facility.
-
-2. (a) Every owner, lessee, tenant, occupant or person in charge of any building or premises shall keep and cause to be kept the sidewalk, flagging and curbstone abutting said building or premises free from obstruction and nuisances of every kind, and shall keep said sidewalks, flagging, curbstones, and air shafts, areaways, backyards, courts and alleys free from garbage, refuse, rubbish, litter, debris and other offensive material. Such persons shall also remove garbage, refuse, rubbish, litter, debris and other offensive material between the curbstone abutting the building or premises and the roadway area extending one and one-half feet from the curbstone into the street on which the building or premises front. Such persons shall not, however, be responsible for cleaning the garbage, refuse, rubbish, litter, debris and other offensive material which accumulates at catch basins located within the one and one-half foot distance from the curbstone into the street.
-
-   (b) Every owner, lessee, tenant or person in charge of any vacant lot shall keep and cause to be kept the sidewalk, flagging and curbstone abutting said vacant lot free from obstruction and nuisances of every kind, and shall keep said sidewalks, flagging and curbstones free from garbage, refuse, rubbish, litter, debris and other offensive material. Every owner, lessee, tenant or person in charge of any vacant lot shall keep and cause to be kept said vacant lot free from garbage, refuse, rubbish, litter, debris and other offensive material. Such persons shall also remove garbage, refuse, rubbish, litter, debris and other offensive material between the curbstone abutting the vacant lot and the roadway area extending one and one-half feet from the curbstone into the street on which the vacant lot fronts. Such persons shall not, however, be responsible for cleaning the garbage, refuse, rubbish, litter, debris and other offensive material which accumulates at catch basins located within the one and one-half foot distance from the curbstone into the street.
-
-3. No lime, ashes, coal, dry sand, hair, waste paper, feathers, or other substance that is in a similar manner liable to be blown by the wind, shall be sieved, agitated, or exposed, nor shall any mat, carpet, or cloth be shaken or beaten, nor shall any cloth, yarn, garment, material or substance be scoured or cleaned, nor shall any rags, damaged merchandise, barrels, boxes, or broken bales of merchandise or goods be placed, kept, or exposed in any place where they or particles therefrom will pass into any street or public place, or into any occupied premises, nor shall any usual or any reasonable precautions be omitted by any person to prevent fragments or any substances from falling to the detriment or peril of life or health, or dust or light material flying into any street, place, or building, from any building or erection, while the same is being altered, repaired or demolished, or otherwise. In demolishing any building or part thereof, the material to be removed shall be properly wet in order to lay dust incident to its removal.
-
-4. No one, being the owner, or in charge or in control of any vehicle, or of any receptacle, shall litter, drop or spill, or permit to be littered, dropped or spilled any dirt, sand, gravel, clay, loam, stone or building rubbish, hay, straw, oats, sawdust, shavings or other light materials of any sort, or manufacturing, trade or household waste, refuse, rubbish of any sort, or ashes, manure, garbage, or other organic refuse or other offensive matter, in or upon any street or public place.
-
-5. [Repealed.]
-
-6. No swill, brine, offensive animal matter, noxious liquid, or other filthy matter of any kind, shall be allowed by any person to fall upon or run into any street, or public place, or be taken to or put therein.
-
-7. No person shall prevent, or otherwise interfere with, the sweeping or cleaning of any street, the removal of snow or ice from any street or the collection or removal of any solid waste or recyclable material from any street, by any employee of the department.
-
-8. The violation of any provision of this section shall constitute an offense punishable by a fine of not less than fifty dollars nor more than two hundred fifty dollars, or by imprisonment not to exceed ten days, or both; provided that the violation of subdivision 1 of this section, or the violation of subdivision 6 of this section by means of the act of public urination, shall constitute an offense punishable only by a fine of not less than fifty dollars nor more than two hundred fifty dollars, or by imprisonment not to exceed one day.
-
-9. Any person violating the provisions of this section shall be liable for a civil penalty in the following amounts, provided that for the purposes of this subdivision, the term "first violation" means any number of violations issued for a single incident:
-
-   a. not less than 50 and not more than 250 dollars for a first violation, except that the civil penalty shall be not less than 250 and not more than 350 dollars for a second violation of subdivision 3, 4 or 6 of this section within any 12 month period, and not less than 350 and not more than 450 dollars for a third or subsequent violation of subdivision 3, 4 or 6 of this section within any 12 month period;
-
-   b. notwithstanding paragraph a of this subdivision, for any natural person violating subdivision 6 of this section by means of the act of public urination:
-
-      (1) 75 dollars for a first violation, and
-
-      (2) not less than 250 and not more than 350 dollars for any second violation within any 12 month period, and
-
-      (3) not less than 350 and not more than 450 dollars for any third violation within any 12 month period;
-
-   c. notwithstanding paragraph a of this subdivision, for any natural person violating subdivision 1 of this section:
-
-      (1) 75 dollars for a first violation, and
-
-      (2) 300 dollars for any second violation within any 12 month period, and
-
-      (3) 400 dollars for any third violation within any 12 month period; and
-
-   d. notwithstanding paragraph a of this subdivision, for any natural person violating subdivision 4 of this section:
-
-      (1) 200 dollars for a first violation; and
-
-      (2) 350 dollars for any second violation within any 12 month period; and
-
-      (3) 450 dollars for any third violation within any 12 month period.
-
-10. In the instance where a notice of violation is issued for breach of the provisions of this section and sets forth thereon civil penalties only, such process shall be returnable to the office of administrative trials and hearings pursuant to section 1049-a of the charter.
-
-11. In the event that a violator fails to answer such notice of violation within the time provided therefor by the rules and regulations of the environmental control board, a tribunal of the office of administrative trials and hearings, pursuant to section 1049-a of the charter, he or she shall become liable for additional penalties. The additional penalties shall not exceed four hundred fifty dollars for each violation, provided that such penalties imposed for a violation of this section for the act of public urination shall not exceed 150 percent of the penalties enumerated in paragraph b of subdivision 9 of this section, and further provided that such penalties imposed for violations of subdivision 1 of this section shall not exceed 150 percent of the penalties enumerated in paragraph c of subdivision 9 of this section.
-
-
-
-
-
-
-
-
-*§ 16-118.1 Citywide routing system.* ::
-
-
-a. The department shall implement a citywide routing system for residential premises for the enforcement of subdivision two of section 16-118 of this code, as such subdivision relates to the cleaning of sidewalks, flagging, curbstones, airshafts, backyards, courts, alleys and roadway areas by owners, lessees, tenants, occupants or persons in charge of any such premises, and for commercial premises for the enforcement of such subdivision as such subdivision relates to cleaning of sidewalks, flagging, curbstones and roadway areas by owners, lessees, tenants, occupants or persons in charge of such premises. The citywide enforcement routing system shall limit the issuance of notices of violation, appearance tickets or summonses within any sub-district of a local service delivery district to predetermined periods of a total of no more than two hours each day, provided that each such predetermined period shall be one hour. The department shall establish a citywide schedule of periods for issuing notices of violation, appearance tickets or summonses for commercial premises in each district and shall give written notice to the owners, lessees, tenants, occupants or persons in charge of such premises in each district of the periods for the district in which their premises are located by the use of flyers, community meetings or such other techniques as the commissioner reasonably determines to be useful. The two one-hour predetermined periods for issuing notices of violation, appearance tickets or summonses for residential premises shall be from 8:00 a.m. until 9:00 a.m. and from 6:00 p.m. until 7:00 p.m.
-
-b. Notwithstanding the provisions of subdivision a of this section, the commissioner may provide an additional predetermined period of one hour per day during which notices of violation, appearance tickets or summonses may be issued in any sub-district within a local service delivery district upon the commissioner's determination that the total of two hours otherwise permitted by this section is not sufficient to maintain the sidewalks, flagging, curbstones and roadways in such sub-districts in an adequately clean condition. Such determination shall be based upon a finding that there has been a decline in the average street cleanliness ratings compiled by the mayor's office of operations for such district for the most recent three-month period as compared to the average street cleanliness ratings compiled by the mayor's office of operations for the same three-month period in fiscal year nineteen hundred ninety. Notice of any increase in the number of hours during which notices of violation, appearance tickets or summonses can be issued or of any change in such hours shall be given by letter to the community board, the owners, lessees, tenants, occupants or persons in charge of any premises in the affected sub-districts within a local service delivery district and every council member representing the local service delivery district no less than forty-five days prior to the implementation of such increase or change. Any additional notice may be given by use of letters, flyers, community meetings or such other techniques as the commissioner reasonably determines to be useful. Written notice to a council member shall be sent to the council member's district office.
-
-c. For the purpose of this section, the following terms shall have the following meanings: (i) "local service delivery district" means a local service delivery district as described in chapter sixty-nine of the charter of the city of New York; (ii) "sub-district" means a section within a local service delivery district as described in chapter sixty-nine of the charter of the city of New York; and (iii) "commercial premises" means any premises abutting the sidewalk at which goods or services are sold directly to consumers or other businesses, and may, in appropriate instances to be determined by the commissioner, also include any other class of real property that is used for the conduct of any business, trade or profession; and (iv) "residential premises" means those portions of premises used predominantly for residential purposes, other than hotels, that abut the sidewalk and do not constitute commercial premises.
-
-d. Within fifteen months after the effective date of this section, the commissioner shall submit to the mayor and the council a report on the results of the citywide enforcement routing system for the twelve month period commencing on the first day of the first full month after the effective date of this section.
-
-
-
-
-
-
-*§ 16-119 Dumping prohibited.* ::
-
-
-a. It shall be unlawful for any person, his or her agent, employee or any person under his or her control to suffer or permit any amount of dirt, sand, gravel, clay, loam, stone, rocks, rubble, building rubbish, sawdust, shavings or trade or household waste, refuse, ashes, manure, garbage, rubbish or debris of any sort or any other organic or inorganic material or thing or other offensive matter being transported in a dump truck or other vehicle to be dumped, deposited or otherwise disposed of in or upon any sidewalk, street, lot, park, public place, wharf, pier, dock, bulkhead, slip, navigable waterway or other area whether publicly or privately owned.
-
-b. Any person who violates the provisions of this section while engaged in commercial activities shall be liable to arrest and upon conviction thereof shall be deemed guilty of a misdemeanor and shall be punished by a fine of $4,000 for the first offense and $9,000 for any subsequent offense or by imprisonment not to exceed 90 days or by both such fine and imprisonment.
-
-c. (1)    Any person who violates the provisions of subdivision a of this section shall also be liable for a civil penalty of $4,000 for the first offense, $9,000 for the second offense within any eighteen-month period and $18,000 for each subsequent offense within any eighteen-month period. In addition, every owner of a dump truck or other vehicle shall be liable for a civil penalty of $4,000 for the first offense, $9,000 for the second offense within any eighteen-month period and $18,000 for each subsequent offense within any eighteen-month period of unlawful dumping described in subdivision a of this section by any person using or operating the dump truck or other vehicle, in the business of such owner or otherwise, with the permission, express or implied, of such owner. It shall not be a defense for any owner of a dump truck or other vehicle that the person using or operating the dump truck or other vehicle in violation of this section is a member of the owner's immediate family, including, but not limited to, spouse, domestic partner, sibling, child, grandchild, parent or grandparent.
-
-   (2) Any owner, owner-operator or operator who is found in violation of this section in a proceeding before the environmental control board and who shall fail to pay the civil penalty imposed by such environmental control board shall be subject to the suspension of his or her driver's license, privilege to operate or vehicle registration or renewal thereof imposed pursuant to section twelve hundred twenty-a of the vehicle and traffic law, in addition to any other civil and criminal fines and penalties set forth in this section.
-
-   (3) As used in this subdivision, the terms "owner", "owner-operator" and "operator" shall have the meaning set forth in subdivision one of section twelve hundred twenty-a of the vehicle and traffic law.
-
-   (4) The provisions of this section may also be enforced by the commissioner of small business services and the commissioner of environmental protection with respect to wharfs, piers, docks, bulkheads and slips located on waterfront property, and navigable waterways.
-
-   (5) If the department, the department of small business services or the department of environmental protection has established that material transported in a dump truck or other vehicle has been dumped, deposited or otherwise disposed of in violation of subdivision a of this section, there shall be a rebuttable presumption that the person whose name, or other identifying information, appears on any such material has violated such subdivision if the department, the department of small business services or the department of environmental protection establishes that such person owns or has control of (i) such dump truck or other vehicle or (ii) any dump truck.
-
-d. In the instance where the notice of violation, appearance ticket or summons is issued for a breach of the provisions of subdivision a of this section and sets forth thereon civil penalties only, such process shall be returnable to the environmental control board, which board shall have the power to impose the civil penalties hereinabove provided in subdivision c of this section, provided further, that, notwithstanding any other provision of law, the environmental control board shall have such powers and duties as are set forth under section twelve hundred twenty-a of the vehicle and traffic law.
-
-e. (1)    Any dump truck or other vehicle that has been used or is being used to violate the provisions of this section shall be impounded by the department and shall not be released until either all removal charges and storage fees and the applicable fine have been paid or a bond has been posted in an amount satisfactory to the commissioner or as otherwise provided in paragraph (2) of this subdivision. The commissioner shall have the power to establish regulations concerning the impoundment and release of vehicles and the payment of removal charges and storage fees for such vehicles, including the amounts and rates thereof.
-
-   (2) In addition to any other penalties provided in this section, the interest of an owner as defined in subdivision c of this section in any vehicle impounded pursuant to paragraph (1) of this subdivision shall be subject to forfeiture upon notice and judicial determination thereof if such owner (i) has been convicted of or found liable for a violation of this section in a civil or criminal proceeding or in a proceeding before the environmental control board two or more times, both of which violations were committed within an eighteen month period or (ii) has been convicted of or found liable for a violation of this section in a civil or criminal proceeding or in a proceeding before the environmental control board if the material unlawfully dumped is a material identified as a hazardous waste or an acute hazardous waste in regulations promulgated pursuant to section 27-0903 of the environmental conservation law.
-
-   (3) Except as hereinafter provided, the city agency having custody of a vehicle, after judicial determination of forfeiture, shall no sooner than thirty days after such determination upon a notice of at least five days, sell such forfeited vehicle at public sale. Any person, other than an owner whose interest is forfeited pursuant to this section, who establishes a right of ownership in a vehicle, including a part ownership or security interest, shall be entitled to delivery of the vehicle if such person:
-
-      (i) redeems the ownership interest which was subject to forfeiture by payment to the city of the value thereof; and
-
-      (ii) pays the reasonable expenses of the safekeeping of the vehicle between the time of seizure and such redemption; and
-
-      (iii) asserts a claim within thirty days after judicial determination of for- feiture. Notwithstanding the foregoing provisions establishment of a claim shall not entitle such person to delivery of the vehicle if the city establishes that the unlawful dumping for which the vehicle was seized was expressly or impliedly permitted by such person.
-
-f. Rewards.
-
-   (1) Where a notice of violation, appearance ticket or summons is issued for a violation of subdivision a of this section based upon a sworn statement by one or more individuals and where the commissioner determines, in the exercise of his or her discretion, that such sworn statement, either alone or in conjunction with testimony at a civil or criminal proceeding or in a proceeding before the environmental control board, results in the conviction of or the imposition of a civil penalty upon any person for a violation of subdivision a of this section, the commissioner shall offer as a reward to such individual or individuals an amount that, in the aggregate, is equal to:
-
-      (i) fifty percent of any fine or civil penalty collected; or
-
-      (ii) five hundred dollars when a conviction is obtained, but no fine or civil penalty is imposed.
-
-   (2) Where a notice of violation, appearance ticket or summons is issued for a violation of subdivision a of this section based upon information furnished by an individual or individuals and where the commissioner determines, in the exercise of his or her discretion, that such information, in conjunction with enforcement activity conducted by the department or another governmental entity, results in the conviction of or the imposition of a civil penalty upon any person for a violation of subdivision a of this section, the commissioner shall offer as a reward to such individual or individuals an amount that, in the aggregate, is:
-
-      (i) up to fifty percent of any fine or civil penalty collected; or
-
-      (ii) up to five hundred dollars when a conviction is obtained, but no fine or civil penalty is imposed. In determining the amount of the reward, the commissioner shall consider factors that include, but are not limited to: (a) the quantity and type of the material dumped, deposited or otherwise disposed of; (b) the specificity of the information provided, including, but not limited to, the license plate number, make or model or other description of the dump truck or other vehicle alleged to have been used and the location, date or time of the alleged violation; (c) whether the information provided by the individual or individuals identified one or more violations of subdivision a of this section; and (d) whether the department has knowledge that violations of subdivision a of this section have previously occurred at that location.
-
-   (3) No peace officer, employee of the department or of the environmental control board, or employee of any governmental entity that, in conjunction with the department, conducts enforcement activity relating to a violation of subdivision a of this section shall be entitled to obtain the benefit of any such reward or obtain the benefit of such reward when acting in the discharge of his or her official duties.
-
-g. In addition to the foregoing penalties the offender shall be required to clear and clean the area upon which the offender dumped unlawfully within ten days after conviction thereof. In the event the offender fails to clear and clean the area within such time such clearing and cleaning may be done by the department or under the direction of the department by a private contractor and the cost of same shall be billed to the offender. In the event that the department has cleaned or cleared the area, or has caused the area to be cleaned or cleared by a private contractor prior to the offender's conviction, the offender shall be responsible for the cost of such clearing and or cleaning. Payment by such offender when required by this subdivision shall be made within ten days of demand by the department.
-
-h. The commissioner shall post a sign in any area where the commissioner deems appropriate because of instances of illegal dumping. Such sign shall state the penalties for illegal dumping and the reward provisions therein.
-
-(Am. L.L. 2018/134, 7/29/2018; Am. L.L. 2018/135, 7/29/2018, eff. 9/27/2018.
-
-
-
-
-
-
-*§ 16-120 Receptacles for the removal of waste material.* ::
-
-
-a. The owner, lessee, agent, occupant or other person who manages or controls a building or dwelling shall provide and maintain in accordance with this section separate receptacles for the deposit of incinerator residue and ashes; refuse, and liquid waste. The receptacles shall be provided for the exclusive use of each building or dwelling and shall be of sufficient size and number to contain the wastes accumulated in such building or dwelling during a period of seventy-two hours. The receptacles shall be made of metal or other material of a grade and type acceptable to the department, the department of health and mental hygiene and the department of housing preservation and development. Receptacles used for liquid waste shall be constructed so as to hold their contents without leakage. Metal containers shall be provided with tight fitting metal covers.
-
-b. Ashes and incinerators residue, refuse and liquid wastes shall be separated and placed into separate receptacles. No receptacle when filled shall weigh more than one hundred pounds.
-
-c. Incinerator, residue, ashes, refuse and liquid waste shall be stored in the building or dwelling or at the rear of the building or dwelling as may be required by the department of health or the department of housing preservation and development until time for removal and kept in tightly covered metal receptacles or containers made of other materials of a type and grade acceptable to the department of sanitation, department of health, and the department of housing preservation and development. After the contents have been removed by the department of sanitation or other collection agency any receptacles remaining shall be removed from the front of the building or dwelling before 9:00 p.m. on the day of collection, or if such collection occurs after 4:00 p.m., then before 9:00 a.m. on the day following collection. The receptacles shall at all times be kept covered or closed and kept in a manner satisfactory to the department of sanitation, the department of health, and in the case of residential premises, the department of housing preservation and development. No receptacles, refuse, incinerator residue or ashes, or liquid waste shall be kept so as to create a nuisance. Yard sweepings, hedge cuttings, grass, leaves, earth, stone or bricks shall not be mixed with household wastes.
-
-d. Newspapers, wrapping paper or other light refuse or rubbish which is likely to be blown or scattered about the streets shall be securely bundled, tied or packed before being placed for collection. Such material shall be kept and placed for collection in the same manner as the receptacles.
-
-e. (1) No person shall deposit household or commercial refuse or liquid wastes in a public litter basket placed on the streets by the department or any other person. There shall be a rebuttable presumption that the person whose name, or other identifying information, appears on any household or commercial refuse or liquid wastes deposited in such public litter basket violated this paragraph.
-
-   (2) No person shall place household or commercial refuse in or upon any sidewalk, street, lot, park, public place, wharf, pier, dock, bulkhead, slip, navigable waterway or other area whether publicly or privately owned, except in accordance with rules of the department relating to collection (i) by the department or (ii) by a private carter that is required to be licensed or registered pursuant to chapter 1 of title 16-A of the code. There shall be a rebuttable presumption that the person whose name, or other identifying information, appears on any household or commercial refuse placed in or upon any sidewalk, street, lot, park, public place, wharf, pier, dock, bulkhead, slip, navigable waterway or other area whether publicly or privately owned violated this paragraph.
-
-f. Any person violating the provisions of this section, except subdivision e, shall be liable for a civil penalty of not less than $25 nor more than $100 for the first violation, not less than $100 nor more than $200 for a second violation within any twelve-month period, and not less than $200 nor more than $300 for a third or subsequent violation within any twelve-month period. Any person violating the provisions of paragraph (1) of subdivision e of this section shall be liable for a civil penalty of $100 for the first violation, $250 for a second violation within any twelve-month period, and $350 for a third or subsequent violation within any twelve-month period. Any person violating the provisions of paragraph (2) of subdivision e of this section shall be liable for a civil penalty $75 for the first violation, $300 for a second violation within any twelve-month period, and $400 for a third or subsequent violation within any twelve-month period.
-
-g. In the instance where a notice of violation is issued for breach of the provisions of this section such process shall be returnable to the environmental control board, which shall have the power to impose the civil penalties provided in subdivision f of this section.
-
-h. In the event that a person fails to answer such notice of violation within the time provided therefor by the environmental control board, that person shall become liable for additional penalties. The additional penalties shall be $300 for each violation.
-
-i. Nothing herein contained shall be construed to supersede, substitute for or abrogate the provisions of article one hundred fifty-three of the health code or article five of subchapter two of chapter two of title twenty-seven of the code.
-
-(Am. L.L. 2018/135, 7/29/2018, eff. 9/27/2018.
-
-
-
-
-
-
-*§ 16-120.1 Storage, treatment, transportation and disposal of regulated medical waste, other medical waste and regulated household waste.* ::
-
-
-a. It shall be unlawful for any person to store, treat, transport or dispose of or to cause to be stored, treated, transported or disposed of any regulated medical waste or other medical waste except in the manner prescribed in the public health law, the environmental conservation law, or any rules or regulations promulgated pursuant thereto and the New York city health code and any regulations of the city department of health and the city department of sanitation. In addition, it shall be unlawful for any person to dispose of or to cause to be disposed of any regulated medical waste within the solid waste disposal system of the city, provided that the department may accept at its incinerators classes of regulated medical waste that were accepted at such incinerators as of June twenty-first, nineteen hundred eighty-nine if it has obtained all necessary authorizations required by law to incinerate such classes of regulated medical waste. In addition, it shall be unlawful to dispose of or to cause to be disposed of any laboratory waste or surgical waste as defined in this section, or classes of regulated medical waste that were accepted at department incinerators as of June twenty-first, nineteen hundred eighty-nine, whether or not such laboratory waste, sugical waste or other classes of regulated medical waste have been autoclaved or subjected to a similar decontamination technique other than incineration, in the landfills of the city.
-
-b.    For purposes of this section, the following terms shall have the following meanings:
-
-   1. Regulated medical waste means any waste that is generated in the diagnosis, treatment or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals, when listed as follows, provided, however, that regulated medical waste shall not include any hazardous waste identified or listed pursuant to section 27-0903 of the environmental conservation law or any household waste as defined in regulations promulgated under such section:
-
-      i. cultures and stocks of infectious agents and associated biologicals, including cultures from medical and pathological laboratories, cultures and stocks of infectious agents from research and industrial laboratories, wastes from the production of biologicals, discarded live and attenuated vaccines, and culture dishes and devices used to transfer, inoculate, and mix cultures;
-
-      ii. human pathological wastes, including tissues, organs, body parts and body fluids that are removed during surgery or autopsy or other medical procedures, and specimens of body fluids and their containers;
-
-      iii.    waste human blood and products of blood, including serum, plasma, and other blood components and their containers;
-
-      iv. sharps that have been used in animal or human patient care or in medical, research, or industrial laboratories, including hypodermic needles, syringes, pasteur pipettes, broken glassware and scalpel blades, blood vials, test tubes, needles with attached tubing, and such unused sharps that have been discarded;
-
-      v. contaminated animal carcasses, body parts, and bedding of animals that were known to have been exposed to infectious agents during research, production of biologicals, or testing of pharmaceuticals;
-
-      vi. wastes from surgery or autopsy that were in contact with infectious agents, including soiled dressings, sponges, drapes, lavage tubes, drainage sets, underpads, and surgical gloves;
-
-      vii.    laboratory wastes from medical, pathological, pharmaceutical, or other research, commercial, or industrial laboratories that were in contact with infectious agents, including slides and cover slips, disposable gloves, laboratory coats and aprons;
-
-      viii.    dialysis wastes that were in contact with the blood of patients undergoing hemodialysis or renal dialysis, including contaminated disposable equipment and supplies such as tubing, filters, disposable sheets, towels, gloves, aprons and laboratory coats;
-
-      ix. biological waste and discarded materials contaminated with blood, excretion, exudates or secretion from human beings or animals who are isolated to protect others from highly communicable diseases;
-
-      x. any other waste material designated by the administrator of the United States environmental protection agency as a regulated medical waste under the provisions of the medical waste tracking act of 1988, 42 U.S.C. § 6992, et seq., and the regulations promulgated pursuant thereto; and
-
-      xi. any other waste material included in the list of regulated medical wastes established in regulations promulgated by the state commissioner of environmental conservation pursuant to section 27-1502 of the environmental conservation law. For purposes of this paragraph, "infectious agents" shall be limited to those organisms that cause disease or an adverse health impact to humans.
-
-   2. Laboratory waste means all matter that is discarded from clinical, pathological or research laboratory areas at which activities are required to be conducted or supervised by persons licensed by the city or state to provide health, medical, pharmaceutical or laboratory services.
-
-   3. Other medical waste means laboratory waste and surgical waste as defined in paragraphs two and six of this subdivision.
-
-   4. Person means any individual, partnership, company, corporation, association, firm, organization, or any other group of individuals, or any officer or employee or agent thereof, provided that person shall not mean any individual who generates regulated household waste, and provided further that where a person authorized by law to transport regulated medical waste transports waste pursuant to an agreement with a generator of regulated medical waste or other medical waste, such person shall not be considered an agent of such generator for purposes of this paragraph.
-
-   5. Regulated household waste means any item that may cause punctures or cuts that is used in the administration of medication and is disposed of with residential solid waste, including but not limited to intravenous tubing and syringes with needles attached. Regulated household waste shall not include such items generated by persons licensed by the city or state to provide health, medical, pharmaceutical or laboratory services at facilities where such services are performed, but shall include any such items generated in the course of home health care.
-
-   6. Surgical waste means all materials discarded from surgical procedures and includes, but is not limited to, disposable gowns, shoe covers, masks, headcovers, gloves and sponges.
-
-c. No solid waste of any person required to be licensed by the city or state to provide health, medical, pharmaceutical or laboratory services shall be collected or received by the department for disposal unless such person has executed a certification that to the best of his or her knowledge or belief such waste does not contain any material for which such disposal is unlawful.
-
-d. The commissioner in conjunction with the commissioner of health and mental hygiene shall promulgate and implement regulations, consistent with the laws of this state, governing the safe disposal of regulated household waste. Any violation of such regulations shall be punishable only by a civil penalty of not less than fifty dollars nor more than two hundred fifty dollars.
-
-e. Any person who generates any quantity of regulated medical waste shall file with the commissioner a copy of any annual reports or additional reports required to be submitted by such person to the commissioner of environmental conservation pursuant to paragraph d of subdivision one of section 27-1510 of the environmental conservation law or paragraph (d) of subdivision two of section 1389-bb of the public health law. Such reports shall be filed with the commissioner within fifteen days of submission to the commissioner of environmental conservation.
-
-f. Any person who generates regulated medical waste or other medical waste shall file with the department a "solid waste removal plan." Such plan shall include at a minimum:
-
-   1. the name, address and telephone number of the person or facility generating such waste;
-
-   2. the name, address, telephone number and permit number(s) of the transporter of such waste;
-
-   3. the name, address and telephone number of the disposal site(s) for such waste;
-
-   4. an estimate of the quantity of such waste produced and disposed of monthly; and
-
-   5. any other information required by regulation of the commissioner or the commissioner of health and mental hygiene. An amended plan shall be filed within fifteen days of the time when any information in a plan that is filed with the department changes, or when the commissioner or the commissioner of health requires by regulation additional information.
-
-g. The commissioner of sanitation or health and mental hygiene or an authorized agent of such commissioner may enter upon public or private property for the purpose of conducting inspections or investigations necessary for the exercise of the powers or the performance of the duties of such commissioners pursuant to this section, including the inspection of documents or records relating to the storage, treatment, transportation or disposal of regulated medical waste or other medical waste required to be maintained by local, state or federal law, provided that such commissioner or agent may not inspect records containing medical information privileged under the laws of this state without all authorizations required by such laws, and that such commissioner or agent shall make reasonable efforts not to interfere with patient care activities. Such entry may be made without a warrant during regular and usual business hours upon property used for nonresidential purposes, including but not limited to the provision of health, medical, pharmaceutical or laboratory services, provided that such use is related to the generation, storage or disposal of regulated medical waste, or at other times upon such property in response to any immediate threat to the health or safety of one or more individuals, or of the public, that arises from the generation, storage or disposal of regulated medical waste upon such property. Warrantless inspection or investigation pursuant to this subdivision shall extend only to: (i) waste storage areas; (ii) documents or records relating to storage, treatment, transportation or disposal of regulated medical waste, including documents or records required to be maintained by local, state or federal law; (iii) bags and containers for the disposal of regulated medical waste; (iv) documents or records identifying the number and origin of specimens of human tissues, organs and fluids that constitute regulated medical waste, other than records containing medical information privileged under the laws of this state; and (v) any other inspection or investigation necessary to respond to an immediate threat to the health or safety of one or more individuals, or of the public, arising from generation, storage or disposal of regulated medical waste upon such property. Refusal to permit entry pursuant to this subdivision, where the commissioner of sanitation or health and mental hygiene or an authorized agent of such commissioner has obtained a warrant for such entry or is authorized by this subdivision to inspect or investigate without a warrant, shall be a misdemeanor punishable by not more than thirty days imprisonment, or by a fine of not more than one hundred dollars or both.
-
-h. 1. In addition to any other enforcement procedures authorized by law, the commissioner, with the written approval of the commissioner of health and mental hygiene, shall be authorized to order in writing that premises on which activity in violation of this section is occurring be closed if the commissioner finds that continuing activity on such premises would result in generation, storage or disposal of regulated medical waste or other medical waste in a manner posing an imminent threat to the public health or safety, provided that no facility licensed, permitted or certificated pursuant to article twenty-eight of the public health law or part thereof or facility providing inpatient services or part thereof may be closed pursuant to this subdivision. Such premises may be opened at any time by any person otherwise lawfully entitled to enter such premises in response to an immediate threat to the health or safety of one or more individuals, or of the public. For the purpose of this subdivision, the determination whether an imminent threat to the public health or safety exists shall be based on factors that include but are not limited to: (i) the quantity of regulated medical waste, the generation, storage or disposal of which is in violation of this section; (ii) the types of such regulated medical waste; and (iii) the risk of harm to the public or the environment.
-
-   2. Issuance of an order pursuant to this subdivision may occur prior to a hearing and determination whether a violation of the provisions of this section has occurred and whether there exists an imminent threat to the public health or safety, or during such hearing, or up to two business days after the conclusion of such hearing, provided that: (i) where such issuance occurs prior to such hearing and determination, such hearing shall be held within two business days of such issuance and such determination shall be rendered within twenty-four hours of the conclusion of such hearing; (ii) where such issuance occurs during such hearing, such determination shall be rendered within twenty-four hours of the conclusion of such hearing; and (iii) where such issuance occurs after the conclusion of such hearing but prior to such determination, such determination shall be made within twenty-four hours of such issuance. Any order issued pursuant to this subdivision may continue in effect after a finding of violation and imminent threat until the commissioner permits such premises to be opened pursuant to paragraph five of this subdivision.
-
-   3. Orders of the commissioner issued pursuant to this subdivision shall be posted at the premises on which the activity in violation of this subdivision has occurred.
-
-   4. Immediately upon the posting of an order issued pursuant to this subdivision, officers and employees of the department and officers of the New York city police department shall be authorized to act upon and enforce such order.
-
-   5. Where premises have been closed by order of the commissioner issued pursuant to this subdivision, the owner or lessee of such premises, or the authorized agent thereof, may at any time submit to the commissioner: (i) a written affirmation that such owner or lessee is in compliance with the provisions of this section and will maintain such compliance; and (ii) where such premises are used in the generation of waste for transport of which a legally authorized regulated medical waste transporter is required by law, proof of legal authorization to transport such waste or proof of agreement with a legally authorized regulated medical waste transporter to have such waste transported, or proof that such waste is lawfully treated on such premises so as not to require such authorization or agreement. Upon receipt of such affirmation and proof, the commissioner shall within one business day either permit such premises to be opened or issue a written determination that such owner or lessee is not in compliance with or has not instituted procedures sufficient to remain in compliance with the provisions of this section, or that such proof of legal authorization or agreement is insufficient.
-
-   6. It shall be a misdemeanor for any person or other individual to open or cause to be opened any premises closed in accordance with an order of the commissioner, except in response to an immediate threat to the health or safety of one or more individuals, or of the public.
-
-i. 1.    For the purpose of this subdivision, the following terms shall have the following meanings:
-
-      i. "Abandonment" means the intentional relinquishment or forsaking of all possession or control of any substance.
-
-      ii. "Disposal" means the discharge, deposit, injection, dumping, spilling, leaking or placing of any substance so that such substance or any related constituent thereof may enter the environment, or the abandonment of any substance.
-
-      iii.    "Environment" means any water, water vapor, any land including land surface or subsurface air, fish, wildlife, biota and all other natural resources.
-
-      iv. "Intentionally, knowingly, recklessly and criminal negligence" shall have the same meanings as defined in section 15.05 of the penal law.
-
-   2. i.    Any person who violates any provisions of this section other than subdivision d shall be guilty of a violation and, upon conviction thereof, shall be punished by a fine not to exceed five thousand dollars per day of violation, or by imprisonment for a term of not more than fifteen days, or by both such fine and imprisonment.
-
-      ii. Any person who intentionally, knowingly or recklessly violates any provisions of this section other than subdivision d shall be guilty of a misdemeanor, and upon conviction thereof, shall for a first conviction be punished by a fine not to exceed fifteen thousand dollars per day of violation or by imprisonment for a term of not more than ninety days, or both such fine and imprisonment. If the conviction is for an offense committed after a first conviction of such person under this subparagraph, within the preceding five years, punishment shall be by a fine not to exceed fifty thousand dollars per day of violation, or by imprisonment for not more than one year or by both such fine and im- prisonment.
-
-   3. Any person who with criminal negligence engages in conduct in violation of this section other than subdivision d which causes the release to the environment of regulated medical waste shall be guilty of a misdemeanor punishable by a fine of not more than fifteen thousand dollars or by imprisonment for not more than ninety days or by both such fine and imprisonment.
-
-   4. Any person who recklessly or knowingly engages in conduct in violation of this section other than subdivision d which causes the release to the environment of regulated medical waste shall be guilty of a misdemeanor punishable by a fine of not more than fifty thousand dollars or by imprisonment for not more than one year or both such fine and imprisonment.
-
-   5. In addition to any other penalties provided under paragraph one of this subdivision or any other provisions of law, any violation of the provisions of this section other than subdivision d shall be punishable by a civil penalty of not less than twenty-five hundred dollars nor more than ten thousand dollars for the first violation, not less than five thousand dollars nor more than ten thousand dollars for the second violation, and ten thousand dollars for the third and any subsequent violation. Civil penalties shall be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board. For the purposes of this paragraph, each bag or container of solid waste with a capacity of not larger than one cubic yard shall constitute a separate violation of this section.
-
-   6. Notwithstanding paragraphs one, two, three, four and five of this subdivision, failure to file an annual or additional report pursuant to subdivision e of this section or failure to file a solid waste removal plan or an amended plan pursuant to subdivision f of this section shall be punishable only by a civil penalty of not less than fifty dollars nor more than two hundred fifty dollars if such report or plan is filed within thirty days of the filing deadlines set forth in such subdivisions.
-
-   7. Any affirmative defense available under title forty-four of article twenty-seven of the environmental conservation law shall be available in any prosecution or proceeding pursuant to this section that alleges a violation of title fifteen of article twenty-seven of the environmental conservation law or any rules or regulations promulgated pursuant thereto.
-
-j. The commissioner shall promulgate and implement regulations providing that where an individual furnishes information that, in the opinion of the commissioner, results in a conviction or the imposition of a fine or civil penalty for a violation of any provision of this section, the commissioner shall offer as a reward to said individual, out of unexpended appropriations therefor:
-
-   i. fifty percent of any fine or penalty collected; or
-
-   ii. five hundred dollars when a prison sentence but no fine or civil penalty is imposed.
-
-k. The commissioner shall suspend the use of the city's solid waste disposal system by any person licensed by the city or state to provide health, medical, pharmaceutical or laboratory services upon whom a notice of violation of this section has been served pending a hearing on and a finding as to liability for the violation. Such hearing shall be held within two business days after such suspension and a finding as to liability for the violation shall be made within twenty-four hours of the conclusion of such hearing. If a violation has been found, the commissioner shall continue such suspension for, in the case of a first occurrence, not less than one week, in the case of a second occurrence, committed within an eighteen month period, not less than one month and, in the case of a third and each subsequent occurrence, committed within an eighteen month period, not less than three months. In calculating such eighteen month period any period of suspension shall be excluded. For purposes of this subdivision any solid waste introduced into the solid waste disposal system of the city under one certification executed pursuant to subdivision c of this section shall constitute an occurrence.
-
-l. In addition to the department, the department of health and mental hygiene shall enforce the provisions of this section, other than subdivisions h, j, and k of this section. This section shall not be construed to restrict in any manner the regulatory or enforcement authority conferred upon any agency of the city by any other provision of state or local law.
-
-
-
-
-
-
-*§ 16-120.2 Refuse compacting systems; multiple dwellings after May twentieth, nineteen hundred sixty-eight.* ::
-
-
-(a) Definitions. When used in this section:
-
-   "Refuse compacting system" means any machine or system of machines capable of reducing refuse by means other than burning so that such refuse is reduced by a volume to be determined by the commissioner and is suitable for collection by the department.
-
-(b) All multiple dwellings erected after May twentieth, nineteen hundred sixty-eight that are four or more stories in height and occupied by twelve or more dwelling units, or that are "class B" multiple dwellings as defined by the multiple dwelling law shall be provided with a refuse compacting system constructed in conformity with all applicable laws and rules.
-
-(c) On and after the effective date of the local law that added this section, any refuse compacting system that is required to be installed in a multiple dwelling pursuant to subdivision a of this section shall be utilized to compact all refuse that is not required to be source separated for other purposes pursuant to any provision of this title or any rules promulgated by the department in such multiple dwelling before such refuse is placed outside for collection by the department. Such refuse compacting system shall be maintained in good working condition and operated in accordance with the rules of the department and in conformity with all other applicable laws and rules.
-
-(d) Any person who violates the requirements of this section shall be liable for a civil penalty of two hundred fifty dollars for the first offense, five hundred dollars for the second offense committed within any twelve-month period and one thousand dollars for the third and any subsequent offense committed within any twelve-month period. For purposes of this section, the second and any subsequent violation shall only occur after notice of the first violation has been properly served and an opportunity to cure such violation has been provided to the violator, provided that such opportunity to cure shall not exceed thirty days. Such penalties may be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board.
-
-
-
-
-
-
-
-
-*§ 16-121 Obstructing tracks.* ::
-
-
-a. It shall be unlawful for any person to throw, place or pile, or assist others in throwing, placing or piling any snow, ice or other impediment or obstruction to the running of cars upon the tracks of any railroad company, or in the space between the rails thereof or in the space between the tracks and a line distant three feet outside of such rails or any ashes, garbage, paper, dust, wood, metal or other rubbish, refuse, junk or other offensive material whatsoever on any part of any railroad right of way.
-
-b. Violations. Any person who shall violate any provision of this section, upon conviction thereof, shall be punished by a fine of not less than one hundred dollars nor more than five hundred dollars or imprisonment for ninety days or both.
-
-
-
-
-
-
-*§ 16-122 Vehicles and other movable property.* ::
-
-
-a. Legislative intent. The need for this legislation is indicated by the ever increasing number of abandoned cars in the city of New York. The purpose of this section is to punish those persons who abandon and/or remove component parts of motor vehicles in public streets. It is not the intent to prohibit or preclude any person in lawful possession of a vehicle from making lawful repairs or removing any component part for the purpose of making such lawful repairs to a motor vehicle on a public street.
-
-b. It shall be unlawful for any person, such person's agent or employee to leave, or to suffer or permit to be left, any box, barrel, bale of merchandise or other movable property whether or not owned by such person, upon any marginal or public street or any public place, or to erect or cause to be erected thereon any shed, building or other obstruction.
-
-c. It shall be unlawful for any person, such person's agent or employee to leave, or suffer or permit to be left, any motor vehicle, not otherwise lawfully parked, whether or not owned by such person, in any marginal or public street, or any public place. The owner or driver of a disabled vehicle shall be allowed a reasonable time, not exceeding three hours, in which to remove said vehicle.
-
-d. Any person convicted of a violation of the provisions of subdivision b or c of this section shall be punished by a fine of not less than fifty dollars nor more than two hundred fifty dollars, imprisonment for not more than ten days, or both.
-
-e. It shall be unlawful for any person, such person's agent or employee, to abandon, or to suffer or permit to be abandoned any motor vehicle, whether or not owned by such person, in any marginal or public street, or any public place.
-
-f. It shall be unlawful for any person to dismantle, or to remove any component part of any motor vehicle in any marginal or public street or any public area.
-
-g. Any person convicted of a violation of the provisions of subdivision e or f of this section shall be punished by a fine of not less than one hundred dollars, or imprisonment for not more than one year.
-
-h. Any person violating the provisions of subdivision b or c of this section shall be liable and responsible for a civil penalty of not less than twenty-five dollars nor more than one hundred dollars.
-
-i. In the instance where the notice of violation, appearance ticket or summons is issued for breach of the provisions of this section and sets forth thereon civil penalties only, such process shall be returnable to the environmental control board, which shall have the power to impose the civil penalties hereinabove provided in subdivision h of this section.
-
-j. In the event that a violator fails to answer such notice of violation, appearance ticket or summons within the time provided therefor by the rules and regulations of the environmental control board, he or she shall become liable for additional penalties. The additional penalties shall not exceed fifty dollars for each violation.
-
-
-
-
-
-
-*§ 16-123 Removal of snow, ice and dirt from sidewalks; property owners' duties.* ::
-
-
-a. Every owner, lessee, tenant, occupant, or other person, having charge of any building or lot of ground in the city, abutting upon any street where the sidewalk is paved, shall, within four hours after the snow ceases to fall, or after the deposit of any dirt or other material upon such sidewalk, remove the snow or ice, dirt, or other material from the sidewalk and gutter, the time between nine post meridian and seven ante meridian not being included in the above period of four hours. Such removal shall be made before the removal of snow or ice from the roadway by the commissioner or subject to the regulations of such commissioner. In the boroughs of Queens and Staten Island, any owner, lessee, tenant or occupant or other person who has charge of any ground abutting upon any paved street or public place, for a linear distance of five hundred feet or more, shall be considered to have complied with this section, if such person shall have begun to remove the snow or ice from the sidewalk and gutter before the expiration of such four hours and shall continue and complete such removal within a reasonable time.
-
-b. In case the snow and ice on the sidewalk shall be frozen so hard that it cannot be removed without injury to the pavement, the owner, lessee, tenant, occupant or other person having charge of any building or lot of ground as aforesaid, may, within the time specified in the preceding subdivision, cause the sidewalk abutting on such premises to be strewed with ashes, sand, sawdust, or some similar suitable material, and shall, as soon thereafter as the weather shall permit, thoroughly clean such sidewalks.
-
-c. [Reserved.]
-
-d. Whenever any owner, lessee, tenant, occupant, or other person having charge of any building or lot of ground, abutting upon any street or public place where the sidewalk is paved, shall fail to comply with the provisions of this section, the commissioner may cause such removal to be made.
-
-e. The expense of such removal as to each particular lot of ground shall be ascertained and certified by the commissioner to the comptroller, who shall pay the same in the same manner as the expense of removing snow from the streets is paid. Upon the payment of such expense, the comptroller shall deliver a certificate thereof to the council and the amount of such expense shall be added to and made to form a part of the annual taxes of the next ensuing fiscal year against such property, and the same shall be collected in and with and as part of the annual taxes for such fiscal year. The corporation counsel is directed and may sue for and recover the amount of such expense.
-
-f. This section shall not be regarded as interfering with the owner of any lots throwing into the roadway of the streets any snow or ice which may be removed from the sidewalk or gutter directly in front of such lot.
-
-g. The term "lot" as used in this section shall include a space not to exceed twenty-five feet in width fronting the street upon which the violation is charged to have been permitted, committed or omitted.
-
-h. Any person violating the provisions of subdivisions (a) or (b) of this section shall be liable and responsible for a civil penalty of not less than ten dollars nor more than one hundred fifty dollars for the first violation, except that for a second violation of subdivision (a) or (b) within any twelve-month period such person shall be liable for a civil penalty of not less than one hundred fifty dollars nor more than two hundred fifty dollars and for a third or subsequent violation of subdivision (a) or (b) within any twelve-month period such person shall be liable for a civil penalty of not less than two hundred fifty dollars nor more than three hundred fifty dollars.
-
-i. In the instance where the notice of violation, appearance ticket or summons is issued for breach of the provisions of this section and sets forth thereon civil penalties only, such process shall be returnable to the environmental control board, which shall have the power to impose the civil penalties hereinabove provided in subdivision h of this section.
-
-j. In the event that a violator fails to answer such notice of violation, appearance ticket or summons within the time provided therefor by the rules and regulations of the environmental control board, he or she shall become liable for additional penalties. The additional penalties shall not exceed three hundred fifty dollars for each violation.
-
-
-
-
-
-
-
-
-*§ 16-124 Removal of snow and ice from the streets.* ::
-
-
-The commissioner, immediately after every snowfall or the formation of ice on the streets, shall forthwith cause the removal of the same, and shall keep all streets clean and free from obstruction.
-
-
-
-
-
-
-*§ 16-124.1 Borough-based snow plowing and removal plans.* ::
-
-
-a. The following terms shall have the following meanings for purposes of this section:
-
-   (1) The term "bus shelter" shall mean a location that has a cover or ceiling and is intended to be used as shelter for individuals waiting to board a New York city transit authority vehicle, and shall include three feet on any open side of such shelter and to the curb on all portions of the sidewalk covered under this provision.
-
-   (2) The term "bus stop" shall mean a location that is not a bus shelter, designated by signage for New York city transit authority vehicles to pick up or discharge passengers, which location includes five feet of the sidewalk and the gutter immediately adjacent to the curb for the portion of such curb.
-
-   (3) The term "curb cut" shall have the same meaning as defined in section 27-480 of the code.
-
-   (4) The term "pedestrian median" shall mean a direct path between curb cuts on a median strip dividing a roadway or, where no curb cuts exist on such a median strip, the portion of the median strip designed to be traversed by pedestrians in order to cross the roadway that such median strip divides.
-
-   (5) The term "primary street" shall mean a street that is determined by the department to be of the first priority for purposes of snow plowing and/or removal.
-
-   (6) The term "snow event" shall mean any snowfall equal to or in excess of six inches within a period of twenty-four hours in any of the five boroughs based on the department of sanitation's measurements.
-
-b. Beginning on November fifteenth, 2011, and on every November fifteenth thereafter, the commissioner shall submit to the council and make available to the public on the city's website a snow plowing and removal plan for each borough that shall include, but not be limited to, the following:
-
-   (1) The address of each department garage and other department facility within the borough identified by district or section and the number of uniformed department employees assigned to each such garage or facility for purposes of addressing snow conditions;
-
-   (2) An inventory by district of department-owned snow management equipment and resources and a city-wide inventory of other city-owned snow management equipment and resources that could, if available, be used during a snow event, as determined by city officials and the agency, office, agencies or offices responsible for the deployment of such city-owned snow management equipment and resources;
-
-   (3) (i) Definitions of each of the priority designation categories, including criteria for making such designations and any changes to the previous year's priority designation category and the reasons for such changes; and (ii) a link to a website on which a map of each community district with the priority designation categories for each street in such district is viewable;
-
-   (4) How the department plans to address the following types of tasks during a snow event: (i) plowing and/or removal of snow and ice from streets within each borough; (ii) plowing and/or removal of snow and ice from curb cuts and pedestrian medians at intersections on primary streets; (iii) plowing and/or removal of snow and ice from crosswalks, sidewalks adjacent to parks and bus stops; and (iv) dispersal of salt, sand or other material applied to roads in icy or snowy conditions; and
-
-   (5) The commissioner shall designate and identify the following: (i) the borough chief or chiefs who will be responsible for the implementation of the applicable borough-specific snow plan; (ii) department personnel who will report to the office of emergency management on a city-wide basis during snow events and who will be directly responsible for communicating with such office and the department; and (iii) personnel from the department's customer service and government relations offices who will communicate on a borough-by-borough basis with council members, community boards and the borough presidents in order to provide, receive and respond to information from such elected officials and community boards regarding snow event conditions.
-
-c. Beginning on October first, two thousand eleven, and every October first thereafter, the commissioner shall submit a draft snow plowing and removal plan for each borough for comment to the council members, community boards and borough president from that borough. Amendments to the draft plan shall be included in the final snow plowing and removal plan for each borough to be issued no later than November fifteenth of each year pursuant to this section.
-
-
-
-
-
-
-*§ 16-125 Dumping snow and ice from piers.* ::
-
-
-The commissioner may cause or authorize snow and ice to be dumped into the waters of the port of New York, between the piers near the inshore ends.
-
-
-
-
-
-
-*§ 16-126 Snow removal; employees and equipment.* ::
-
-
-a. In case of a snowfall or other emergency, the commissioner may employ and hire temporarily as many persons, vehicles, machinery and equipment as shall be rendered necessary by such emergency, forthwith reporting, in the case of a snowfall, the number of such persons, vehicles, machinery and equipment and in the case of any other emergency such action with the full particulars thereof to the mayor, but in the case of a snowfall no such person, vehicles, machinery or equipment shall be so hired or employed for a longer period than seven days and in the case of any other emergency for a longer period than three days.
-
-b. All such employees shall be employed directly by the department and not through contractors or other persons, unless the commissioner shall determine that this requirement must for proper action in a particular instance be dispensed with.
-
-c. The services of any person employed, and of vehicles, machinery and equipment hired pursuant to this section, shall be paid for in full and directly by the department, at such times as may be prescribed by the commissioner.
-
-d. In all emergency work performed by laborers in the removal of snow where workers are engaged by the hour or day by a contractor employed for the purpose, such work shall be paid for directly to those individuals employed on it, in the currency of the United States and not by check or ticket. Every contractor engaged in the removal of snow shall be required to stipulate with the commissioner or others empowered to enter into contracts for that purpose, as the case may be, to observe the provisions of this subdivision, a violation of which shall be deemed to abrogate any such contract.
-
-
-
-
-
-
-*§ 16-127 Earth, rocks and rubbish.* ::
-
-
-a. In all cases where the sidewalk or roadway of a street shall be incumbered or obstructed by the caving in or falling off of any earth, rocks or rubbish, or anything whatever, from any lot adjoining such sidewalk or roadway, the owner or occupant of such lot, or the agent of such owner or occupant, shall cause such earth, rocks, rubbish or other thing to be removed and cleaned from such sidewalk or roadway, within three days after a written or printed notice shall have been served by the commissioner or a duly designated representative, on such owner, personally, or shall have been left at the place of residence of such owner in this city; or, if such owner does not reside in the city, and such notice shall not be personally served, then within twenty days after such notice to be sent by mail, addressed to such owner at his or her place of residence, or, when such residence is unknown to such commissioner, within twenty days after such notice shall have been posted in a conspicuous place on such premises.
-
-b. If the owner, occupant or agent fails to comply with such notice, within the time specified in this section, after notice thereof, the commissioner shall cause the same to be removed at the expense of the owner, occupant or agent, and such expense shall be sued for and recovered in the name of the city.
-
-c. The corporation counsel shall cause a statement of such cost and expense, together with the description of the premises, to be filed in the office of the register or county clerk of the appropriate county.
-
-d. Any person convicted of a violation of any of the provisions of this section shall be punished by a fine of not less than fifty dollars nor more than two hundred fifty dollars, imprisonment for not more than ten days, or both.
-
-e. Any person violating the provisions of this section shall be liable and responsible for a civil penalty of not less than twenty-five dollars nor more than one hundred dollars.
-
-f. In the instance where the notice of violation, appearance ticket or summons is issued for a breach of the provisions of this section and sets forth thereon civil penalties only, such process shall be returnable to the environmental control board, which shall have the power to impose the civil penalties hereinabove provided in subdivision e of this section.
-
-g. In the event that a violator fails to answer such notice of violation, appearance ticket or summons within the time provided therefor by the rules and regulations of the environmental control board, such violator shall become liable for additional penalties. The additional penalties shall not exceed fifty dollars for each violation.
-
-
-
-
-
-
-*§ 16-128 Removal of incumbrances from streets.* ::
-
-
-a. The commissioner shall remove, or cause to be removed, any vehicle, box, barrel, bale of merchandise or other movable property or article or thing whatsoever found upon any street, in accordance with regulations adopted by the board of estimate.
-
-b. The board of estimate shall set forth, in such regulations, the procedures to be followed by the commissioner relating to:
-
-   1. the leasing of yards for storage of property removed under the authority of this section;
-
-   2. notification to the owner of the property removed, if such owner is ascertainable, that the property is being held by the commissioner;
-
-   3. redemption, by the owner, of the property removed;
-
-   4. reimbursement, by the owner, of the expenses of removal incurred by the commissioner;
-
-   5. the sale, by the commissioner, of the property held by him or her;
-
-   6. the keeping of records and accounts, the transmission of such records to the comptroller, and the transmission of funds collected to the commissioner of finance; and
-
-   7. such other regulations as the board of estimate may deem necessary to carry out the provisions of this section.
-
-c. Such regulations shall not become effective until adopted by the board of estimate and filed, by the secretary of such board, with the city clerk, pursuant to section eleven hundred five of the charter.
-
-
-
-
-
-
-*§ 16-129 Rates for the use of department disposal facilities.* ::
-
-
-The commissioner may require any person desiring to use some or all of the incinerators or other plants under his or her control to set apart for his or her use, for the disposal of manure, swill, ashes, street sweepings, bones, garbage, night soil, offal, fats, hides, hoofs or other refuse parts of slaughtered animals, refuse, rubbish, bodies of dead animals or any other offensive or noxious material, paper stock, or trade waste, to pay for the disposal of the same at rates established by the council by local law, upon recommendation of the commissioner, and on such terms and conditions as such commissioner shall prescribe and subject to rules governing the use of such incinerators or other plants, except as otherwise provided by section 16-203. The commissioner may make, adopt and promulgate rules to effectuate the purposes of this section.
-
-
-
-
-
-
-*§ 16-129.1 Rate for the use of department compost facilities.* ::
-
-
-The commissioner is authorized to collect a fee of ten dollars per cubic yard for the disposal of yard waste at department compost facilities. For purposes of this section, the term "yard waste" shall mean leaves, grass clippings, garden debris, vegetative residue that is recognizable as part of a plant or vegetable, small or chipped branches, and similar material, except that no material greater than eight inches in diameter and eight feet in length shall be considered yard waste; and the term "compost facilities" shall mean facilities operated by the department and used for the aerobic and thermophilic decomposition of organic constituents of solid waste to produce a stable, humus-like material.
-
-
-
-
-
-
-*§ 16-130 Permit for operators of dumps, non-putrescible solid waste transfer stations, putrescible solid waste transfer stations and fill material operations.* ::
-
-
-a. As used in this section:
-
-   1.    The term "solid waste" shall mean all putrescible and non-putrescible materials or substances, other than those materials or substances described in subparagraph (b) of this paragraph, that are discarded or rejected, including but not limited to garbage, refuse, waste collected by any person required to be licensed or registered pursuant to chapter 1 of title 16-A of this code, rubbish, tires, ashes, contained gaseous material, incinerator residue, construction and demolition debris, discarded automobiles and offal. Such term shall include recyclable materials, as defined in subdivision i of section 16-303 of this title.
-
-      (a) A material is discarded or rejected if it is:
-
-         (1) spent, useless, worthless or in excess to the owners at the time of such discard or rejection;
-
-         (2) disposed of;
-
-         (3) burned or incinerated, including material burned as a fuel for the purpose of recovering useable energy; or
-
-         (4) accumulated, stored or physically, chemically or biologically treated (other than burned or incinerated) instead of or before being disposed of.
-
-      (b) The following are not solid waste for the purpose of this section:
-
-         (1) domestic sewage;
-
-         (2) any mixture of domestic sewage and other wastes that passes through a sewer system to a publicly owned treatment works for treatment, except any material that is introduced into such system in order to avoid the provisions of this title or of state regulations promulgated to regulate solid waste management facilities;
-
-         (3) industrial wastewater discharges that are actual point source discharges subject to permits under article seventeen of the environmental conservation law; provided that industrial wastewaters while they are being collected, stored or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
-
-         (4) irrigation return flows;
-
-         (5) radioactive materials that are source, special nuclear, or by-product material under the federal Atomic Energy Act of 1954, as amended, 42 U.S.C. § 2011, et seq.;
-
-         (6) materials subject to in-situ mining techniques which are not removed from the ground as part of the extraction process;
-
-         (7) hazardous waste as defined in section 27-0901 of the environmental conservation law, including material containing hazardous waste; and
-
-         (8) regulated medical waste as defined in title fifteen of article twenty-seven of the New York state environmental conservation law, in title thirteen of article thirteen of the New York state public health law or in section 16-120.1 of the code, or any rules or regulations promulgated pursuant to such provisions of law.
-
-   2. The term "putrescible solid waste" shall mean solid waste containing organic matter having the tendency to decompose with the formation of malodorous by-products;
-
-   3. The term "non-putrescible solid waste" shall mean solid waste, whether or not contained in receptacles, that does not contain organic matter having the tendency to decompose with the formation of malodorous by-products, including but not limited to dirt, earth, plaster, concrete, rock, rubble, slag, ashes, waste timber, lumber, plexiglass, fiberglass, ceramic tiles, asphalt, sheetrock, tar paper, tree stumps, wood, window frames, metal, steel, glass, plastic pipes and tubes, rubber hoses and tubes, electric wires and cables, paper and cardboard;
-
-   4. The term "dump" shall mean any structure, building or other premises, whether improved or unimproved, at which solid waste is received for the purpose of final disposal, unless such waste is received for a fill material operation;
-
-   5. The term "non-putrescible solid waste transfer station" shall mean any structure, building or other premises, whether improved or unimproved, at which only non-putrescible solid waste is received for the purpose of subsequent transfer to another location, regardless of whether such non-putrescible solid waste is subject to any processing or reduction in volume at such structure, building or premises;
-
-   6. The term "putrescible solid waste transfer station" shall mean any structure, building or other premises, whether improved or unimproved, at which any amount of putrescible solid waste is received for the purpose of subsequent transfer to another location, regardless of whether such putrescible solid waste is mixed with non-putrescible solid waste or is subject to any processing or reduction in volume at such structure, building or premises;
-
-   7. The term "fill material" shall mean only clean material consisting of earth, ashes, dirt, concrete, asphalt millings, rock, gravel, stone or sand, provided that such material shall not contain organic matter having the tendency to decompose with the formation of malodorous by-products; and
-
-   8. The term "fill material operation" shall mean the grading, levelling, surcharging, compacting or final disposition of fill material for the purpose of land alteration or improvement, including but not limited to change of the existing property grade, filling of lands below established grades or of lands under water to established grades, and filling of lands which requires approval by any city or state agency.
-
-b. It shall be unlawful for any person or public agency other than the department to conduct, operate or use any pier or part thereof, or any piece or parcel of land or land under water within the city as a dump or as a non-putrescible solid waste transfer station or putrescible solid waste transfer station, or for a fill material operation without having first obtained for each pier or part thereof, or for each piece or parcel of land or of land under water, in addition to any other permit required by law, a permit from the commissioner and, where required by any law or rule, the prior written approval of the commissioner of ports and trade. The commissioner may establish by rule one or more classes of permits pursuant to this section and section 16-131 of this chapter.
-
-c. Nothing contained in this section or in section 16-131 of this chapter shall be construed to allow the grading, levelling, surcharging, compacting or final disposition of any material other than fill material for the purpose of land alteration or improvement.
-
-
-
-
-
-
-*§ 16-131 Rules for the operation of dumps, non-putrescible solid waste transfer stations, putrescible solid waste transfer stations and fill material operations; permits and fees.* ::
-
-
-a. The commissioner shall have power to adopt rules:
-
-   1. controlling and providing for supervision over the conduct, operation, and use by persons or public agencies of all piers or lands or lands under water used as dumps, non-putrescible solid waste transfer stations or putrescible solid waste transfer stations, or for fill material operations;
-
-   2. requiring applicants and permittees to disclose to the department information determined by the commissioner to be necessary for the department to fulfill its duties under this title. Such information may include but need not be limited to financial statements, and any annual or quarterly report required to be filed with the state department of environmental conservation pursuant to regulations promulgated by such department to regulate solid waste management facilities;
-
-   3. requiring permittees to maintain records determined by the commissioner to be necessary for the department to fulfill its duties under this chapter and to protect the public health and safety. Such records shall include, without limitation, a log of the names of prospective customers denied the use of such dump, transfer station, or fill material operation.
-
-b. The commissioner shall, pursuant to subdivision a of this section, adopt rules:
-
-   1. establishing, in consultation with the commissioners of health and environmental protection, requirements appropriate for protection of public health and the environment concerning siting of dumps, non-putrescible solid waste transfer stations, putrescible solid waste transfer stations and/or fill material operations in relation to other such facilities, residential premises and/or other premises for which such requirements may be appropriate. Requirements established pursuant to this paragraph shall be in addition to other applicable siting requirements;
-
-   2. limiting the hours of operation of premises required to be permitted pursuant to section 16-130 of this chapter;
-
-   3. prescribing the use of deodorants, and other odor control measures as may be needed, at putrescible solid waste transfer stations and, where appropriate, at other facilities required to be permitted pursuant to such section;
-
-   4. prescribing the use of ventilation systems in fully enclosed structures on premises required to be permitted pursuant to this section; and
-
-   5. requiring that all activities relating to the processing, tipping, sorting, storage and compaction of solid waste at putrescible solid waste transfer stations, and, in the commissioner's discretion, at other premises required to be permitted pursuant to this section, be conducted within a fully enclosed structure. If the commissioner determines that such activities would not adversely affect a residential area if not conducted within a fully enclosed structure, then the commissioner may grant an exemption from such requirement, provided that no exemption may be granted in contravention of regulations promulgated by the state department of environmental conservation to regulate solid waste management facilities or other applicable law. Any person who, on the effective date of this local law, holds a permit for, and conducts such activities on, premises where no fully enclosed structure exists, and who shall be required to conduct such activities within a fully enclosed structure, may be granted a reasonable time, to be determined by the commissioner, to construct such structure.
-
-c. The commissioner shall issue permits to such persons or public agencies engaged in use of piers or lands or lands under water within the city as dumps, non-putrescible solid waste transfer stations or putrescible solid waste transfer stations. The commissioner shall collect an annual fee of seven thousand dollars for each permit for any such pier or part thereof, or for each piece or parcel of land or land under water used as a dump or as a non-putrescible solid waste transfer station, and an annual fee of thirteen thousand dollars for each permit for any such pier or part thereof, or for each piece or parcel of land or land under water used as a putrescible solid waste transfer station. The commissioner shall collect an annual registration fee of seven thousand dollars for an intermodal solid waste container facility. The commissioner may by rule provide for suspension or revocation of any permit or registration issued pursuant to this subdivision for cause or violation of the orders or rules of the commissioner.
-
-d. The commissioner shall issue permits every six months to persons or public agencies engaged in use of piers or lands or lands under water for fill material operations. The commissioner shall collect a fee every six months of twelve hundred fifty dollars for each permit for any such pier or part thereof, or for each piece or parcel of land or land under water where the anticipated or actual aggregate amount of fill material for grading, levelling, surcharging, compacting or final disposition during such six-month period is equal to or greater than one thousand cubic yards, and a fee of six hundred twenty-five dollars for each permit for any such pier or part thereof, or for each piece or parcel of land or land under water where the anticipated or actual aggregate amount of fill material for grading, levelling, surcharging, compacting or final disposition during such six-month period is less than one thousand cubic yards, provided that no fee shall be charged for the first six-month permit issued in a calendar year for any pier or part thereof, or for each piece or parcel of land or land under water where the anticipated or actual aggregate amount of fill material for grading, levelling, surcharging, compacting or final disposition during such six-month period is less than three hundred cubic yards. The commissioner may by regulation provide for suspension or revocation of any permit issued pursuant to this paragraph for cause or violation of the orders or rules or regulations of the commissioner. Notwithstanding any other provision of this section or of section 16-130 of this chapter, no permit or fee shall be required of an owner or occupant of residential property engaged in a fill material operation or such property where the anticipated or actual aggregate amount of fill material for grading, levelling, surcharging, compacting or final disposition during a six-month period is less than three hundred cubic yards.
-
-e. Rules adopted by the commissioner pursuant to this section shall become effective only after filing and publication as prescribed by chapter forty-five of the charter. In addition, notwithstanding such chapter, prior to adoption by the commissioner of a final rule pursuant to subdivision e of section one thousand forty-three of the charter, and after consideration of relevant comments presented pursuant to subdivision d of such section, the commissioner shall submit to the council the draft text of the final rule proposed to be published in the City Record; the council shall have thirty days to comment upon such text. The final rule may include revisions in response to comment from members of the council and shall not be published in the City Record before the thirty-first day after such submission, unless the speaker of the council authorizes earlier publication.
-
-f. As used in this section:
-
-   1. the terms "dump," "non-putrescible solid waste transfer station," "putrescible solid waste transfer station," "fill material" and "fill material operation" shall have the meanings ascribed in section 16-130 of this chapter; and
-
-   2. the term "intermodal solid waste container facility" shall mean a facility or premises served by rail or vessel at which intermodal containers are transferred from transport vehicle to transport vehicle for the purpose of consolidating intermodal containers for shipment by rail or vessel to an authorized disposal or treatment facility, where the contents of each container remain in their closed containers during the transfer between transport vehicles, and storage remains incidental to transport at the location where the containers are consolidated.
-
-
-
-
-
-
-*§ 16-131.1 Issuance, renewal, suspension and revocation of permits.* ::
-
-
-The commissioner shall be responsible for the issuance, renewal, suspension and revocation of permits required by section 16-130 of this chapter. An application for such a permit shall also be presented by the department to the New York city trade waste commission for review by such commission. The commissioner shall consider the recommendations of such commission in making a determination pursuant to this section.
-
-a. The commissioner, consistent with article twenty-three-A of the correction law, may refuse to issue or renew a permit required by section 16-130 of this chapter, or may, after notice and the opportunity to be heard, suspend or revoke such a permit when the applicant for such permit or such permittee has been denied a license required by section 16-505 of this code to operate a business for the collection, removal or disposal of trade waste or has had such a license revoked for the reason that such applicant or licensee has been found to lack good character, honesty and integrity by the trade waste commission pursuant to the provisions of title sixteen-A of this code.
-
-b. The commissioner, consistent with article twenty-three-A of the correction law, may refuse to issue to an applicant a permit required by section 16-130 of this chapter and may, after due notice and hearing, in addition to any other penalties provided by law, refuse to renew, suspend or revoke such permit upon the occurrence of any of the following conditions:
-
-   1. the applicant or permittee has been convicted of a crime which in the judgment of the commissioner has a direct relationship to his or her fitness or ability to perform any of the activities for which a permit is required under section 16-130 of this chapter; or
-
-   2. the applicant or permittee has been found by a court or an administrative agency of competent jurisdiction to have violated:
-
-      (A) any provision of section 16-117.1, 16-119, 16-120.1, 16-130, 16-131, 16-131.2, 16-131.3 or 16-131.5 of this chapter; or
-
-      (B) any provision of article one hundred fifty-seven of the New York city health code; or
-
-      (C) any other law or rule related to the conduct, operation or use of a dump, non-putrescible solid waste transfer station, putrescible solid waste transfer station or fill material operation; or
-
-      (D) any federal or state law prohibiting unfair trade practices or conduct in restraint of competition, including but not limited to the Sherman Anti-Trust Act (15 U.S.C. § 1, § 2), the Clayton Act (15 U.S.C. § 18), the Robinson Patman Act (15 U.S.C. § 12, et seq.), the Federal Trade Commission Act (15 U.S.C. § 45, et seq.), and sections 340, et seq., of the general business law or an equivalent offense under the laws of any other jurisdiction; or
-
-   3. the commissioner has determined, after consideration of the results of an investigation conducted pursuant to this section, that the applicant or permittee has operated the business for which a permit is required by section 16-130 of this chapter in a manner inconsistent with the provisions of the federal or state laws prohibiting unfair trade practices or conduct in restraint of competition set forth in subparagraph (D) of paragraph two of this subdivision; or
-
-   4. the applicant or permittee has violated or failed to comply with any of the conditions for issuance of such permit as provided in this chapter or any of the rules promulgated hereunder.
-
-c. Where the commissioner or the New York city trade waste commission has reasonable cause to believe that a permittee or an applicant for a permit required by section 16-130 of this code may lack good character, honesty and integrity, such applicant or permittee shall, in addition to providing the information required by the rules promulgated pursuant to paragraph two of subdivision a of section 16-131 of this code, also comply with the fingerprinting and disclosure requirements set forth in subdivision b of section 16-508 of this code and pay the fee for the investigation thereof set forth in the rules of the New York city trade waste commission. The commissioner may, after consideration of the results of such investigation, refuse for the reasons set forth in section 16-509 of this code to issue a permit required by section 16-130 of this chapter and, after notice and opportunity to be heard, may revoke or suspend any such permit upon a finding that the applicant or the permittee lacks good character, honesty and integrity.
-
-d. For the purposes of this section, "applicant" or "permittee" shall mean the business of the applicant or permittee and any principal thereof, as the term "principal" is defined in section 16-501 of this code.
-
-e. The New York city trade waste commission or the department of investigation may, at the request of the commissioner, assist the commissioner in any investigation conducted pursuant to this section.
-
-
-
-
-
-
-*§ 16-131.2 Additional powers of the commissioner.* ::
-
-
-In addition to any other enforcement procedures authorized by law, the commissioner shall have the powers described in this section.
-
-a. The commissioner may order any person violating section 16-130 or 16-131 of this chapter or article one hundred fifty-seven of the New York city health code to discontinue such violation immediately.
-
-b. 1. If the commissioner finds that premises for which a permit is required pursuant to section 16-130 of this chapter are being used either without such permit or in a manner which poses an imminent threat to the public health or safety, then the commissioner may order in writing that (a) such premises be sealed, secured and closed and/or (b) that equipment, vehicles or other personal property used on such premises be removed or sealed and secured. Upon the effective date of such order, no person shall have access to such premises and/or use such equipment except as authorized by the commissioner. Upon such effective date, authorized officers and employees of the department, the department of health and mental hygiene and the New York city police department shall act upon and enforce such order. The finding whether an imminent threat to the public health or safety exists shall be based on factors that include but are not limited to: (i) the quantity of solid waste, or of material listed in subparagraph (b) of paragraph one of subdivision a of section 16-130 of this chapter, that may pose a threat; (ii) the types of solid waste, or of such material listed in such subparagraph, that may pose a threat; and/or (iii) the risk of harm to the public or the environment. For the purpose of this paragraph: "sealed, secured and closed" or "sealed and secured" shall mean the use of any means available to render the premises or any part thereof, and/or any equipment, vehicles or other personal property contained therein, inaccessible or inoperable, including but not limited to the use of a padlock or cinder blocks.
-
-   2. Any equipment, vehicles or other personal property removed pursuant to an order issued under paragraph one of this subdivision may be stored in a garage, pound or other place of safety, and the owner or other person lawfully entitled to the possession of such equipment, vehicles or other personal property may be charged with the reasonable costs for removal and storage, payable prior to the release of such equipment, vehicles or other personal property. Equipment, vehicles or other personal property not reclaimed by such owner or other person within ninety days of the notification to such owner or other person that such order has been rescinded shall be deemed abandoned and may be disposed of by the department at a public auction, provided that vehicles deemed abandoned shall be disposed of in a manner consistent with section twelve hundred twenty-four of the vehicle and traffic law and that timely notice of any public auction shall be provided to any record holder of a security interest at the address for such holder set forth in any instrument recorded in the city of New York.
-
-   3. Any order to seal, secure and close premises pursuant to paragraph one of this subdivision, or to remove or seal and secure equipment, vehicles or other personal property issued pursuant to such paragraph, shall contain notice of the right to request a hearing within thirty days of delivery of such order and posting of such order pursuant to the first sentence of paragraph four of this subdivision. If a hearing is requested within such thirty day period, the order shall be effective as set forth in the determination of the commissioner. If no hearing is requested within such thirty day period the order shall be effective on the thirtieth day after such delivery and posting pursuant to such sentence. A hearing held pursuant to this paragraph shall be conducted by the department. The hearing officer shall submit recommended findings of fact and a recommended decision to the commissioner, who shall make the final findings of fact and the final determination. Notwithstanding the foregoing provisions of this paragraph, if such order is based upon a finding by the commissioner of an imminent threat to the public health or safety, such order may provide that it shall be effective immediately upon posting pursuant to the first sentence of paragraph four of this subdivision; in such case a hearing shall be held within three business days of a request for such hearing and a determination shall be rendered within four business days of the conclusion of such hearing.
-
-   4. Orders of the commissioner issued pursuant to this subdivision shall be served by delivery of the order to the permittee, owner or other person of suitable age and discretion in actual or apparent control of the premises, equipment, vehicles or other personal property, and shall be posted at the premises that have been sealed, secured and closed, or on or in the vicinity of the equipment, vehicles or other personal property that has been sealed and secured, or on the premises from which equipment, vehicles or other personal property has been removed. The commissioner shall ensure that notice is delivered and posted pursuant to this paragraph, and in addition shall ensure that such order is mailed to the permittee at the residence or business address for such permittee set forth in the records of the department, to the record owner of such premises, and any record mortgagee of such premises, at the address set forth in the recorded instrument and to the person designated as owner or agent of the premises or designated to receive real property tax or water bills for the premises at the address for such person contained in one of the files compiled by the department of finance for the purpose of the assessment or collection of real property taxes and water charges or in the file compiled by the department of finance from real property transfer forms filed with the city register upon the sale or transfer of real property, to the owner of such vehicles at the address for such owner set forth in the registration record maintained by the department of motor vehicles pursuant to section four hundred one of the vehicle and traffic law or for vehicles not registered in New York state, such equivalent record in the state of registration, and to any record holder of a security interest in equipment, vehicles or other personal property at the address for such holder set forth in any instrument recorded in the city of New York, and at the address for such holder set forth in any certificate of title issued by the department of motor vehicles pursuant to title ten of the vehicle and traffic law. In addition, such order shall be mailed to the owner of equipment or personal property, other than vehicles, at any address for such owner provided by the permittee or the person to whom such order is delivered pursuant to the first sentence of this paragraph.
-
-   5. Where premises have been sealed, secured and closed or equipment, vehicles, or other personal property has been sealed and secured or removed by order of the commissioner issued pursuant to paragraph one of this subdivision, the permittee, owner or other person lawfully entitled to the possession of the premises or equipment, vehicles or other personal property, may at any time provide to the commissioner assurances that the conditions which caused the issuance of such order have been corrected and will not reoccur and any necessary permit will be obtained. Upon receipt of such assurances, the commissioner shall within two business days either issue a written determination that such conditions have not been corrected, or are likely to reoccur, or, if such assurances are satisfactory, rescind such order; provided that no equipment, vehicles or other personal property shall be released after such rescission unless costs for removal and storage owed pursuant to paragraph two of this subdivision have been paid.
-
-   6. (a)    No person shall remove or cause to be removed the seal from, or otherwise enter without the commissioner's authorization, any premises sealed by order of the commissioner issued pursuant to paragraph one of this subdivision.
-
-      (b) No person shall remove or cause to be removed the seal from, or otherwise tamper with or use, any equipment, vehicles or other personal property sealed by order of the commissioner issued pursuant to paragraph one of this subdivision.
-
-      (c) Any person who violates this paragraph shall upon conviction be guilty of a misdemeanor and be punished by a fine not to exceed twenty-five thousand dollars, or by imprisonment for a term of not more than one year, or by both such fine and imprisonment.
-
-
-
-
-
-
-*§ 16-131.3 Removal or abatement of public nuisance.* ::
-
-
-a. 1.    Whenever the commissioner finds that there exists, on premises required to be permitted pursuant to section 16-130 of this chapter, a condition hazardous to public health or safety, the commissioner may declare such premises to be a public nuisance and order the permittee and/or owner to remove or abate such public nuisance as such order shall specify. It shall be the duty of such permittee and/or owner upon whom such an order has been served to remove or abate such public nuisance in the manner and in the time provided by such order.
-
-   2. For the purpose of this subdivision, the finding whether a condition hazardous to the public health or safety exists shall be based on factors that include but are not limited to: (i) the quantity of solid waste, or of material listed in subparagraph (b) of paragraph one of subdivision a of section 16-130 of this chapter, that may create a condition hazardous to the public health or safety; (ii) the types of solid waste, or of such material listed in such subparagraph, that may create such a condition; and/or (iii) the risk of harm to the public or the environment.
-
-b. 1. An order of the commissioner issued pursuant to subdivision a of this section shall specify the work to be performed and shall fix a reasonable time for compliance which shall not be less than thirty days from the date of service of such order, or twenty days after the commissioner's determination pursuant to paragraph four of this subdivision, whichever is later. Such order shall contain a statement that upon the failure of the permittee and/or owner of such premises to comply with the commissioner's order within the stated time, the department may perform the work specified in the order or the department may apply for a court order directing such permittee and/or owner to comply with the commissioner's order or directing the department to perform the work specified in the commissioner's order. Such statement shall also indicate that if any of the work specified in the commissioner's order is performed by or on behalf of the department, the expense incurred in performing such work shall be a debt recoverable from such permittee and/or owner and a lien on the premises, including the land and buildings, with respect to which such order was issued.
-
-   2. Service of such order shall be made upon such permittee and/or owner by personal service or by certified mail addressed to the last known address of such permittee and/or owner or in any manner provided for service of process by article three of the civil practice law and rules. The commissioner may serve a copy of such order on any mortgagee or lienor of record in the same manner.
-
-   3. A copy of such order shall be filed with the office of the register in the county in which the premises with respect to which such order was issued are situated, provided, that in the county of Richmond, such copy shall be filed with the county clerk.
-
-   4. Within fifteen days after service of such order upon the permittee and/or owner, such permittee and/or owner or a mortgagee or lienor upon whom a copy of such order has been served may request a hearing. Such hearing shall be conducted by the department. The hearing officer shall submit recommended findings of fact and a recommended decision to the commissioner, who shall make the final findings of fact and the final determination.
-
-c. If the permittee and/or owner fails to comply with the commissioner's order within the time fixed for compliance pursuant to subdivision b of this section, the department may perform the work specified in the order.
-
-d. As an alternative to the remedy set forth in subdivision c of this section, if the permittee and/or owner fails to comply with the commissioner's order within the time fixed for compliance pursuant to subdivision b of this section, the commissioner may apply to any court of competent jurisdiction, upon such notice and in such manner as the court shall direct, for an order directing the permittee and/or owner to comply with the commissioner's order or directing the department to perform the work specified in the commissioner's order.
-
-e. 1. Whenever the commissioner finds that there exists on premises declared to be a public nuisance pursuant to subdivision a of this section a condition that poses an imminent threat to the public health or safety which requires immediate remedial action, the commissioner may, in his or her discretion, order the permittee and/or owner to remove or abate such public nuisance, or direct the department to remove or abate such public nuisance, and, notwithstanding any provision of this section to the contrary, no hearing shall be required to be held before the time fixed in the order for compliance, or before the department removes or abates such public nuisance, and the time for compliance provided in paragraph one of subdivision b of this section shall not apply to an order issued pursuant to this subdivision. Notice of an order or direction issued pursuant to this subdivision shall be served in the manner prescribed in paragraph two of subdivision b of this section, provided, that if the commissioner determines that service in such manner would result in delay prejudicial to the public health or safety, then the commissioner may serve such order or direction by delivery of a copy thereof to a person of suitable age and discretion in actual or apparent control of the premises to which it relates, or, if service cannot be made in such manner, by copy posted upon the premises to which it relates. An order or direction served in the manner prescribed in this subdivision shall take effect when delivered or when posted. After such order or direction takes effect, the commissioner shall serve such order or direction in the manner prescribed in paragraph two of subdivision b of this section. Such additional service shall include notice of the earlier service of such order or direction.
-
-   2. Notwithstanding any other provision of this section, if an order or direction is issued pursuant to paragraph one of this subdivision, a hearing shall be held within three business days of a request for such hearing and a determination shall be rendered within four business days of the conclusion of such hearing. Such hearing shall be conducted by the department. The hearing officer shall submit recommended findings of fact and a recommended decision to the commissioner, who shall make the final findings of fact and the final determination.
-
-   3. For the purpose of this subdivision, the finding whether an imminent threat to the public health or safety exists shall be based on factors that include but are not limited to: (i) the quantity of solid waste, or of material listed in subparagraph (b) of paragraph one of subdivision a of section 16-130 of this chapter, that may pose a threat; (ii) the types of solid waste, or of such material listed in such subparagraph, that may pose a threat; and/or (iii) the risk of harm to the public or the environment.
-
-f. The commissioner may request the assistance of the department of health or any city, state or federal agency to perform work on its behalf pursuant to this section.
-
-g. 1. The expense of the department with respect to any work performed by or on behalf of the department pursuant to subdivisions c, d and e of this section shall be a debt recoverable from the permittee and/or owner and a lien upon the premises, including the land and buildings, with respect to which such work was performed.
-
-   2. The department shall keep a record of all work performed by or on behalf of the department. Such records shall be accessible to the public during business hours. Within thirty days after the issuance of a purchase or work order for such work, such order shall be entered on the records of the department. Such entry shall constitute notice to all parties.
-
-   3. All such expenses shall constitute a lien upon the premises when the amount thereof shall have been definitely computed as a statement of account by the department and the department shall cause to be filed in the office of the city collector an entry of the account stated in the book in which such charges against the premises are to be entered. Such lien shall have a priority over all other liens and encumbrances on the premises except for the lien of taxes and assessments. However, no lien created pursuant to this section shall be enforced against a subsequent purchaser in good faith or mortgagee in good faith unless such transaction occurred after the date of entry of a purchase or work order on the records of the department pursuant to paragraph two of this subdivision.
-
-   4. A notice thereof stating the amount due and the nature of the charge shall be mailed by the city collector within five days after such entry to the last known address of the person whose name appears on the records in the office of the city collector as being the owner or agent or as the person designated by the owner to receive tax bills or, where no name appears, to the premises, addressed to either the owner or the agent. Such notice shall have stamped or printed thereon a reference to this section.
-
-   5. If such charge is not paid within thirty days from the date of entry, it shall be the duty of the city collector to receive interest thereon at the rate of interest applicable to such property for a delinquent tax on real property to be calculated to the date of payment from the date of entry.
-
-   6. Such charge and the interest thereon shall continue to be, until paid, a lien on the premises. Such charge and interest may be collected and the lien thereof may be foreclosed in the manner provided by law for the collection and foreclosure of taxes, sewer rents, sewer surcharges and water charges due and payable to the city and the provisions of chapter four of title eleven of the code shall apply to such charges and the interest thereon and the lien thereof.
-
-   7. (a) In any proceedings to enforce or discharge the lien, the validity of the lien shall not be subject to challenge based on (i) the lawfulness of the work done; or (ii) the propriety and accuracy of the items of expenses for which a lien is claimed, except as provided in this paragraph.
-
-      (b) No such challenge may be made except by (i) the owner of the property, or (ii) a mortgagee or lienor whose mortgage or lien would but for the provisions of this section have priority over the department's lien.
-
-      (c) An issue specified in subparagraph (a) which was decided or could have been contested in a prior court proceeding to secure a court order pursuant to subdivision d of this section shall not be open to reexamination, but if any mortgagee or lienor of record was not served with an order of the commissioner pursuant to paragraph two of subdivision b and with notice of such proceeding, his or her mortgage or lien shall have the same priority over the lien of the department that it would have had but for the provisions of this section.
-
-   8. In addition to establishing a lien, the department may recover such expenses and interest by bringing an action against the permittee and/or owner. The institution of such action shall not suspend or bar the right to pursue any other remedy provided by law for the recovery of such debt.
-
-h. Nothing contained in this section shall be construed to restrict authority to provide for the abatement of a public nuisance conferred upon any agency of the city by any other provision of law.
-
-i. For purposes of this section, "owner" means a person having title to any premises or structure; a tenant, lessee or occupant; a mortgagee or vendee in possession; a trustee in bankruptcy; a receiver or any other person having legal ownership or control of any premises or structure.
-
-
-
-
-
-
-*§ 16-131.4 Impoundment and forfeiture.* ::
-
-
-a. Any equipment, vehicles or other personal property that has been used or is being used to violate the provisions of section 16-130, 16-131, 16-131.2 or 16-131.3 of this chapter or article one hundred fifty-seven of the New York city health code may be impounded by the department pending forfeiture pursuant to the provisions of this section. Such equipment, vehicles or other personal property shall be released by the end of the following business day unless the department ascertains either (i) that the owner of the premises upon which the equipment, vehicles or other personal property has been or is being used has not obtained a permit required by section 16-130 of this chapter, (ii) that the owner has been convicted of or found liable for a violation of section 16-130, 16-131, 16-131.2 or 16-131.3 of this chapter, or article one hundred fifty-seven of the New York city health code, in a civil or criminal judicial proceeding or in a proceeding before an agency of competent jurisdiction and such violation was committed within eighteen months prior to the violation of law for which such equipment, vehicles or other personal property was impounded, or (iii) that the alleged violation of such sections or article for which such equipment, vehicles or other personal property was impounded involves the unlawful handling, processing, transportation, disposal or storage of a material identified as a hazardous waste or an acute hazardous waste in regulations promulgated pursuant to section 27-0903 of the environmental conservation law.
-
-b. Notice of impoundment and intended forfeiture shall be served together with the notice of the violation of law for which equipment, vehicles or other personal property was impounded. Such notice shall contain notice of the right to request a hearing before the department with respect to whether there is reasonable cause to believe that such equipment, vehicles or other personal property will be subject to forfeiture; a hearing shall be provided within three business days of such request, and a determination shall be rendered within four business days of the conclusion of such hearing. The hearing officer shall submit recommended findings of fact and a recommended decision to the commissioner, who shall make the final findings of fact and the final determination. If the commissioner determines that there is not reasonable cause to believe that such equipment, vehicles or other personal property will be subject to forfeiture, the department shall release such equipment, vehicles or other personal property, and no charges or fees shall be imposed as a condition of such release. If the commissioner determines that there is reasonable cause to believe that such equipment, vehicles or other personal property will be subject to forfeiture, the department may retain such equipment, vehicles or other personal property pending forfeiture pursuant to the provisions of this section. If after adjudication of the violation of law for which such equipment, vehicles or other personal property was impounded the court or agency of competent jurisdiction finds the respondent not guilty of or not liable for such violation, such equipment, vehicles or other personal property shall be released forthwith, and no charges or fees shall be imposed as a condition of such release. If after adjudication of such violation of law, the court or agency of competent jurisdiction finds the respondent guilty of or liable for such violation, then upon demand of the respondent the department shall either release such equipment, vehicles or other personal property upon payment of all outstanding fines and civil penalties, and removal charges and storage fees, or commence a forfeiture proceeding pursuant to this section within ten days after such demand.
-
-c. In addition to any other penalties provided in this section, the interest of an owner in any equipment, vehicles or other personal property impounded pursuant to subdivision a of this section shall be subject to forfeiture upon notice and judicial determination thereof if such owner either (i) has not obtained a permit required by section 16-130 of this chapter and has been convicted of or found liable for a violation of section 16-130, 16-131, 16-131.2, or 16-131.3 of this chapter, or article one hundred fifty-seven of the New York city health code, in a civil or criminal judicial proceeding or in a proceeding before an agency of competent jurisdiction, (ii) has been convicted of or found liable for a violation of one of such sections, or such article, two or more times, in a civil or criminal judicial proceeding or in a proceeding before such agency, both of which violations were committed within an eighteen month period, or (iii) has been convicted of or found liable for a violation of one of such sections or such article in a civil or criminal judicial proceeding or in a proceeding before such agency where such violation involved the unlawful handling, processing, transportation, disposal or storage of a material identified as a hazardous waste or an acute hazardous waste in regulations promulgated pursuant to section 27-0903 of the environmental conservation law.
-
-d. Except as hereinafter provided, the city agency having custody of equipment, vehicles or other personal property, after judicial determination of forfeiture, shall no sooner than thirty days after such determination upon a notice of at least five days, sell such forfeited equipment, vehicles or other personal property at public sale, provided that no sooner than thirty days after judicial determination of forfeiture or the date of final determination of a claim asserted pursuant to this subdivision, whichever is later, the city may instead convert such equipment, vehicles or other personal property to its own use. Any person, other than an owner whose interest is forfeited pursuant to this section, who establishes a right of ownership in equipment, vehicles or other personal property, including a part ownership or security interest, shall be entitled to delivery of the equipment, vehicles or other personal property if such person:
-
-   1. redeems the ownership interest which was subject to forfeiture by payment to the city of the value thereof; and
-
-   2. pays the reasonable expenses of the safekeeping of the vehicle between the time of seizure and such redemption; and
-
-   3. asserts a claim within thirty days after judicial determination of forfeiture. Notwithstanding the foregoing provisions establishment of a claim shall not entitle such person to delivery if the city establishes that the activity in violation of law for which the equipment, vehicles or other property was seized was expressly or impliedly permitted by such person.
-
-e. For purposes of this section, "owner" means a person, other than a holder of a security interest, having the property in or title to equipment, vehicles or other personal property, including but not limited to a person entitled to use and possession of equipment, vehicles or other personal property subject to a security interest in another person and also includes any lessee or bailee having exclusive use thereof.
-
-
-
-
-
-
-*§ 16-131.5 Inquiries and subpoena power.* ::
-
-
-The commissioner shall have the power to conduct such inquiries as may assist him or her in the performance of the functions of the department pursuant to sections 16-117.1, 16-120.1, 16-119, 16-130, 16-131, 16-131.1, 16-131.2, 16-131.3, 16-131.4 or 16-133 of this chapter and for such purpose shall have subpoena power to compel the attendance of witnesses, to administer oaths, examine witnesses and to compel the production of books, papers and documents.
-
-
-
-
-
-
-*§ 16-132 Lease of advertising space on litter baskets.* ::
-
-
-Notwithstanding any other provision of local law, the commissioner shall have the power, subject to the approval of the board of estimate, to lease, rent or otherwise grant advertising space to any person on any basket, container or receptacle placed in a public place by the department or its authorized agent for the public disposal of litter and to collect rentals, fees, charges or accept any other consideration for the lease, rental or other grant of such advertising space.
-
-
-
-
-
-
-*§ 16-133 Enforcement.* ::
-
-
-a. 1.    Any person who violates any provision of section 16-129, 16-130, 16-131, 16-131.2, 16-131.3 or 16-131.5 of this chapter, or article one hundred fifty-seven of the New York city health code, shall be guilty of a misdemeanor, and upon conviction thereof shall be punished by a fine not to exceed twenty-five thousand dollars, or by imprisonment for a term of not more than one year, or by both such fine and imprisonment.
-
-   2.    In addition to any other penalties provided under paragraph one of this subdivision, any violation of section 16-129, 16-130, 16-131, 16-131.2, 16-131.3 or 16-131.5 of this chapter, or article one hundred fifty-seven of the New York city health code, shall be punishable by a civil penalty of not less than twenty-five hundred dollars nor more than ten thousand dollars for the first violation, not less than five thousand nor more than ten thousand dollars for the second violation committed in a period of three years, and ten thousand dollars for the third and any subsequent violation committed in such period. Every owner of premises or of equipment, vehicles or other personal property shall be punishable by a civil penalty of not less than twenty-five hundred dollars nor more than ten thousand dollars for the first violation, not less than five thousand nor more than ten thousand dollars for the second violation committed in a period of three years, and ten thousand dollars for the third and any subsequent violation committed in such period by any person using or operating the same, in the business of such owner or otherwise, with the permission, express or implied, of such owner. In the case of a continuing violation, every day's continuance thereof may be deemed to be a separate and distinct violation. Civil penalties shall be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board, provided however that civil penalties for violations of article one hundred fifty-seven of the New York city health code may only be recovered as provided by law for violations of the New York city health code. As used in this paragraph, "owner" means a person, other than a holder of a security interest, having the property in or title to premises or equipment, vehicles or other personal property, including but not limited to a person entitled to use and possession of premises or equipment, vehicles or other personal property subject to a security interest in another person and also includes any lessee or bailee having exclusive use thereof.
-
-b. 1. Any person who violates any provision of section 16-117 of this chapter shall be guilty of a violation, and upon conviction thereof shall be punished by a fine of not less than two hundred fifty dollars nor more than five hundred dollars, or by imprisonment for a term of not more than fifteen days, or by both such fine and imprisonment.
-
-   2. In addition to any other penalties provided under paragraph one of this subdivision, any violation of section 16-117 of this chapter shall be punishable by a civil penalty of not less than two hundred fifty dollars nor more than five hundred dollars. Civil penalties shall be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board.
-
-c. The commissioner shall have the power to issue notices of violation for violations of article one hundred fifty-seven of the New York city health code and such notices of violation shall be returnable as provided by law for violations of the New York city health code.
-
-d. The commissioner of health shall have the power to issue notices of violation for violations of sections 16-130 and 16-131 of this chapter, and such notices of violation shall be returnable in a civil action brought in the name of the commissioner of health or in a proceeding before the environmental control board.
-
-e. Nothing contained in this section shall be construed to restrict existing authority of any agency to enforce any other provision of law, including but not limited to any provision of the New York city health code.
-
-
-
-
-
-
-*§ 16-134 Comprehensive study of commercial solid waste management system required.* ::
-
-
-a. 1. "Long haul transport vehicle" shall mean any motor vehicle used to remove solid waste or other material from a putrescible or non-putrescible solid waste transfer station for final disposal, reuse or recycling.
-
-   2. "Private carter" shall mean any individual or business entity required to obtain a license from the trade waste commission pursuant to subdivision a of section 16-505 of this title.
-
-   3. "Trade waste commission" shall mean the New York city trade waste commission as established by section 16-502 of this title.
-
-b. The department, in consultation with the trade waste commission, shall enter into one or more contracts for the performance of a comprehensive study of the existing commercial solid waste management system within the city of New York. In performing the study, the department and/or the contractor or contractors shall solicit and consider the views of elected officials, the citywide recycling advisory board, the borough solid waste advisory boards and the public, including residents of affected communities, environmental advocacy organizations, transfer station operators, private carters, business entities and academicians, and respond to substantive issues raised. The study shall include, but need not be limited to, an analysis of the following.
-
-   1. the effectiveness of procedures employed and the criteria applied by the department for the issuance and renewal of permits for the operation of putrescible and non-putrescible solid waste transfer stations in minimizing potential adverse environmental economic and public health impacts on the communities in which such transfer stations are located by examining such issues as (i) the effectiveness of the criteria applied by the department to the siting of putrescible and non-putrescible solid waste transfer stations, including the aggregate effect of the geographic proximity of solid waste transfer stations to each other and (ii) the scope and effectiveness of the operational restrictions imposed upon putrescible and non-putrescible solid waste transfer stations including the hours of operation and any performance standards established in the zoning resolution of the city of New York;
-
-   2. the manner in which all applicable laws, rules and regulations relating to the operation of putrescible and non-putrescible solid waste transfer stations, private carters and long haul transport vehicles are enforced, including who should be responsible for such enforcement and the effectiveness of such enforcement in obtaining compliance with such laws, rules and regulations and in minimizing potential environmental economic and public health impacts and an analysis of rules relating to routes for transporting material to or from such transfer stations;
-
-   3. the means and potential effects of limiting the number and capacity of putrescible and non-putrescible solid waste transfer stations in the city;
-
-   4. the size and type of vehicles that should be authorized to transport solid waste to or from putrescible and non-putrescible solid waste transfer stations and fuel-type requirements for such vehicles;
-
-   5. whether putrescible and non-putrescible solid waste transfer stations and city-owned marine transfer stations should receive and process both residential and commercial solid waste and the options for transporting such solid waste to and from such transfer stations, including an analysis of potential environmental, economic and public health impacts; and
-
-   6. potential environmental, economic and public health impacts on communities in which large numbers of privately-owned putrescible and non-putrescible solid waste transfer stations are located such as, but not limited to, potential impacts related to air quality, water quality, odors, traffic congestion and noise.
-
-c. The study required by subdivision b of this section, and a report containing a detailed analysis of the findings of such study, as well as recommendations based on such analysis and findings, shall be completed no later than eighteen months after registration of the consultant contract and at least two months before the next draft comprehensive solid waste management plan is submitted to the council or the New York state department of environmental conservation. Such report shall be submitted to the mayor and the council immediately upon its completion. A preliminary report containing data necessary to perform the analyses described in subdivision b of this section shall be submitted by the department to the mayor and the council during or before the last quarter of calendar year two thousand one.
-
-d. Such study shall be performed and such report shall be prepared in a manner designed to assist in the preparation of the next comprehensive solid waste management plan for the city of New York required by section 27-0107 of the New York state environmental conservation law.
-
-
-
-
-
-
-*§ 16-135 Snow removal volunteer registry.* ::
-
-
-a. The department or such entity as the commissioner delegates, shall:
-
-   1. assist organizations such as local not-for-profit organizations, civic organizations and community groups to establish registries of volunteers willing to help remove snow on behalf of persons who have difficulty fulfilling their obligations under section 16-123 of this chapter due to infirmity, illness or physical incapacity;
-
-   2. assist such organizations with volunteer recruitment efforts; and
-
-   3. assist such organizations in their efforts to inform the public about how to request assistance from the volunteers in their registries.
-
-b. The provisions of this section shall not alter the obligations of any persons under section 16-123 of this chapter.
-
-c. Notwithstanding the provisions of subdivision a of this section, snow removal volunteers shall not be considered employees or volunteers of the city and the city does not guarantee or warranty any of the work performed by snow removal volunteers, nor shall the city indemnify snow removal volunteers for any claims, damages, losses, and expenses arising out of or resulting from any act, conduct, omission, negligence, misconduct or unlawful act performed pursuant to this section.
-
-
-
-
-
-
-*§ 16-140 Solid Waste Management Plan.* ::
-
-
-(a) No final solid waste management plan for the city shall be submitted pursuant to article twenty-seven of the environmental conservation law unless such submission has been authorized by the council by local law, except as provided in subdivisions c, d and e of this section.
-
-(b) A draft solid waste management plan for the city which is to be submitted pursuant to article twenty-seven of the environmental conservation law shall be presented to the council at or before the time of such submission, but in no event later than the thirty-first day of March, nineteen hundred ninety-two. Any comments by the New York State department of environmental conservation shall be transmitted to the council immediately upon their receipt.
-
-(c) A proposed final solid waste management plan shall be presented to the council within forty-five days after the receipt of comments by the New York State department of environmental conservation but in no event later than the twenty-sixth day of June, nineteen hundred ninety-two. The council shall, not later than the thirty-first day of August, nineteen hundred ninety-two, pass a local law which either grants or denies the authority for the submission of a proposed final solid waste management plan for the city.
-
-(d) Notwithstanding the provisions of subdivision c of this section, in the event that on or before the tenth day of July, nineteen hundred ninety-two, the council passes a local law which denies the authority for the submission of a proposed final solid waste management plan for the city pursuant to article twenty-seven of the environmental conservation law and the mayor disapproves such law, such proposed plan shall not be submitted until either two-thirds of all the members of the council have voted whether to repass such local law, or the period within which such repassing may occur has expired, pursuant to section thirty-seven of the charter. In the event that such local law is repassed by a two-thirds vote of all the members of the council, such proposed plan shall not be submitted.
-
-(e) Notwithstanding the provisions of subdivisions a and c of this section, in the event the council does not act in accordance with subdivision c of this section, such proposed final solid waste management plan may be submitted pursuant to article twenty-seven of the environmental conservation law.
-
-
-
-
-
-
-*§ 16-141 Uniform civil penalties for littering and public urination.* ::
-
-
-a. Notwithstanding any inconsistent provision of law, the civil penalties for the violation of the prohibition against urination set forth section 1-04(k) of title 56 of the rules of the city of New York, or any successor rule of the department of parks and recreation that prohibits public urination, shall be no greater than the civil penalties established in paragraph b of subdivision 9 of section 16-118 of the code.
-
-b. Notwithstanding any inconsistent provision of law, the civil penalties for the violation of the first two sentences of section 1-04(c)(1) of title 56 of the rules of the city of New York, or any successor rules of the department of parks and recreation that prohibit littering and require the use of receptacles for refuse disposal, shall be no greater than the civil penalties established in paragraph c of subdivision 9 of section 16-118 of the code.
-
-
-
-
-
-
-
-
-*§ 16-142 Violations received after a disaster.* ::
-
-
-a. For the purposes of this section, the term "covered person" means any owner, lessee, tenant or occupant of a one-, two- or three-family residential building or of a premises or lot that contained such a building immediately preceding a natural or man-made disaster.
-
-b. It shall be an affirmative defense to a violation of subdivision two of section 16-118 for any covered person that:
-
-   1. A natural or man-made disaster, as determined by the commissioner, occurred within the prior 30 days preceding issuance of such violation and such building or premises is within the area affected by such disaster; or
-
-   2. The covered person was displaced by such disaster and such building or premises was undergoing or scheduled for work or acquisition through a city-operated disaster recovery program responding to such disaster.
-
-c. It shall be an affirmative defense to a violation of subdivisions a or b of section 16-123 for any covered person who is displaced by a natural or man-made disaster, as determined by the commissioner, that such building or lot was undergoing or scheduled for work or acquisition by a city-operated disaster recovery program responding to such disaster.
-
-d. The commissioner may establish by rule an affirmative defense, in addition to those enumerated in subdivisions b and c of this section, to any requirement of this chapter for any covered person that in the commissioner's determination cannot reasonably comply with such requirement due to (i) the direct effects of a natural or man-made disaster or (ii) a displacement caused by such disaster or the recovery therefrom.
-
-
-
-
-
-
-Chapter 2: Solid Waste Management
---------------------------------------------------
-
-
-
-*§ 16-201 Facility assignment.* ::
-
-
-a. The commissioner is authorized and empowered to promulgate regulations and procedures for the management on a city-wide basis of all solid waste generated or disposed of within the city and to supervise and regulate the transportation and disposition of all solid waste generated or disposed of within the city pursuant to the standards established herein, provided that no regulation shall abridge, impair or restrict any bona fide firm contracts for the purchase or delivery of solid waste for resource recovery entered into between private parties prior to the date at which final notice of regulations is filed with the city clerk, and that any such regulations are accompanied by a justification of such regulations that demonstrates either:
-
-   (1) That regulating privately collected solid waste or a portion of such waste, whether by waste origin, destination, type or by any other reasonable basis will, in the opinion of the commissioner, help facilitate the construction, expansion, rehabilitation or operation, by or for the city, of a solid waste recovery and management facility, or will help the city discharge its responsibilities with respect to the management, including trasportation* and disposition, on a city-wide basis, of all solid waste generated or disposed of within the city, or
-
-   (2) That a declaration of imminent peril to the public health has been authorized by the board of health and such situation can be addressed or prevented by regulating the disposal of privately collected waste.
-
-b. The commissioner may assign to persons who collect or dispose of solid waste a solid waste recovery and management facility or facilities at which such persons shall deliver such waste. The commissioner may assign days and hours when such persons shall use such facilities, and may limit or prohibit collection truck traffic on particular streets or limit such traffic to certain hours of the day.
-
-c. The commissioner shall weigh as one critical consideration in his ultimate determination of specific site assignments for disposal, the minimization of solid waste disposal vehicle traffic and transportation cost on city streets and roadways.
-
-d. The commissioner shall further consider the following objectives in determining facility assignments:
-
-   (1) meeting the daily operating capacity requirements of each resource recovery facility and minimizing overloading of facilities;
-
-   (2) extending the useful life of existing municipal landfills;
-
-   (3) ensuring the economic viability of resource recovery facilities processing waste generated within the city;
-
-   (4) ensuring that unacceptable wastes do not enter facilities;
-
-   (5) meeting any contractual obligations required under any resolution or resolutions authorizing the issuance of bonds for solid waste recovery and management facilities, or entered into pursuant to chapter five hundred sixty of the laws of nineteen hundred eighty;
-
-   (6) achieving uniform deliveries and minimizing congestion and dumping delays at facilities.
-
-e. The commissioner shall exercise due diligence in notifying each person assigned to a facility of a scheduled closing of such facility by certified mail at least seventy-two hours prior to such closing. Such notification shall include the expected duration of the closing and assignments to alternative facilities and days and times of such assignments.
-
-f. The commissioner shall exercise due diligence in notifying persons assigned to a facility of an emergency closing of a facility or any emergency during which facilities are not available. Unless the commissioner provides alternative facilities persons assigned to a closed or unavailable facility may arrange alternative means of disposal during the closing or unavailability of such facilities.
-
-
-
-
-
-
-*§ 16-202 Waste acceptability.* ::
-
-
-a. The commissioner shall promulgate a list of facilities and solid wastes accepted and not accepted at each such facility.
-
-b. Solid wastes not acceptable at certain or all facilities may include, but need not be limited to, the following:
-
-   (1) solid wastes that may adversely affect the health or safety of facility employees or damage facility equipment;
-
-   (2) wastes designated as hazardous wastes pursuant to the federal resource conservation and recovery act of 1976, as amended, and regulations promulgated pursuant thereto and titles seven and nine of article twenty-seven of the New York environmental conservation law and regulations promulgated pursuant thereto;
-
-   (3) wastes designated as hazardous air pollutants pursuant to section one hundred twelve of the federal clean air act, as amended, and regulations promulgated pursuant to such act;
-
-   (4) sewage sludge or containerized or free liquids;
-
-   (5) bulk wastes of a size or dimension too cumbersome for efficient burning at incinerators or resource recovery facilities;
-
-   (6) any or all classes of regulated medical waste or other medical waste as defined in section 16-120.1 provided that such list be consistent with such section.
-
-
-
-
-
-
-*§ 16-203 Charges.* ::
-
-
-a. The rates for use of facilities provided by or for the department shall be fixed by the board of estimate upon the recommendation of the commissioner, who shall require persons assigned to such facilities to pay such rates.
-
-b. The rates shall be sufficient, when added to other waste disposal and resource recovery revenues and to the value to the department of its proportionate use of all facilities comprising the solid waste management system of the city, as determined by the commissioner, to provide for all expenses of transportation, land acquisition, construction, equipment, operations including enforcement, administrative and insurance costs, maintenance, expansion, replacement, financing and reasonable reserves therefore and any other costs that may be required for the financing or completion of facilities, equipment or land to be used for furnishing solid waste management services. The commissioner may from time to time recommend and the board of estimate may prescribe changes in rates, provided that such changes shall be based on changes in the cost of furnishing solid waste management services.
-
-c. The rate for each facility may be fixed so as to vary according to volume, location of facility assignment, or weight, type, character or difficulty of storing, processing or disposing of the solid waste, or other factors relating to economic efficiency or allocation of resources and may not discriminate between classes of users. The commissioner shall state the basis for establishing such varying rates in the commissioner's recommendations to the board of estimate.
-
-d. The commissioner shall notify by mail all persons assigned to use facilities of the first meeting of the board of estimate at which any resolution fixing or changing such rates is scheduled to be considered. Such notice shall be mailed at least thirty days prior to such board of estimate meeting and shall include the proposed rates or rate changes. Failure to provide such notice shall not affect the validity of such rates.
-
-e. The commissioner may collect charges in such manner as he determines shall minimize burdens and costs of the department, provided that the commissioner shall also consider burdens and costs of persons assigned to facilities.
-
-
-
-
-
-
-*§ 16-204 Recordkeeping and filing requirements.* ::
-
-
-Each person assigned to a facility or facilities shall submit to the commissioner an annual report on such date as the commissioner shall determine, in a form established by the commissioner, which provides information required by the commissioner to plan, develop, maintain and operate facilities and provide waste management services. Such information shall include but not be limited to daily solid waste volumes and general composition or character of wastes by each vehicle route to and from facilities.
-
-
-
-
-
-
-*§ 16-205 Variances.* ::
-
-
-a. There shall be in the department a solid waste management board consisting of the commissioner, the commissioner of consumer affairs and the executive director of the office for economic development, all of whom shall serve on the board without compensation and all of whom shall have the power to exercise or delegate any of their functions, powers and duties as members of the board. Such board may grant variances from a regulation or modify assignments or rates of the commissioner involving the transportation, storage, processing or disposal of solid waste when such board finds that such regulation or order would impose unreasonable economic hardship. The specific terms of any variance granted shall be determined by such board on a case by case basis. Any person seeking a variance shall do so by filing with such board a petition for variance in a form prescribed by such board. Such forms shall document the need for a variance.
-
-b. Exemptions from formal variance request procedures may be made for day-to-day operational hardships such as equipment failure. The commissioner may grant temporary facility and time assignment variances to persons who report such hardships to the commissioner. Proof of hardship must be submitted to the commissioner within the time frame set by the commissioner. Subsequent exemptions may be withheld for failing to submit proof of hardship for any prior request.
-
-
-
-
-
-
-*§ 16-206 Enforcement proceedings.* ::
-
-
-a. The commissioner shall issue a notice of violation returnable to the environmental control board to any person violating a provision of this chapter or any regulation promulgated by the commissioner pursuant to this chapter.
-
-b. The environmental control board shall impose penalties as provided in subdivisions c and d.
-
-c. Each violation, whether committed on the same or a subsequent date, shall be deemed a separate violation and be punishable by a penalty.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - SCHEDULE OF PENALTIES FOR SPECIFIC VIOLATIONS
+    * - Description 
+      - Unit
+      - Revised Schedule* 
+    * - Dumpster (incl. permit)
+      - Mini 
+      - 30.45/load 
+    * - 10 yd. 
+      - 385.78/load 
       - 
-    * - Failure to submit accurate and timely annual report pursuant to section 16-204
-      - up to $ 1,000.00
-    * - Use of restricted streets or use of streets during restricted time periods as established pursuant to section 16-201
-      - up to $  100.00
-    * - Delivery of waste to an unauthorized facility in violation of assignments made pursuant to section 16-201
-      - up to $  300.00
-    * - Delivery to a specific facility of waste classified as unacceptable for that facility in violation of regulations promulgated pursuant to section 16-202
-      - up to $  300.00
-    * - Delivery to a specific facility of waste classified as unacceptable which may have an adverse effect on the health and safety of facility employees or which may damage equipment in violation of regulations promulgated pursuant to section 16-202
-      - up to $10,000.00
-    * - Delivery of waste classified as hazardous in violation of regulations promulgated pursuant to section 16-202
-      - up to $10,000.00
-    * - Delivery of waste classified as regulated medical waste or other medical waste in violation of regulations promulgated pursuant to section 16-202
-      -  up to $10,000.00
+    * - 20 yd. 
+      - 482.13/load 
+      - 
+    * - Demolition susp. plaster or sheetrock ceiling
+      - sq. ft.sq. ft. 
+      - 1.270.76 
+    * - Demolition of non fire-rated partition
+      - sq. ft. 
+      - 1.02 
+    * - Removal of non-code compliant hot water heater
+      - each 
+      - 76.13 
+    * - Removal of non-code compliant space heater
+      - each 
+      - 64.35 
+    * - Removal of non-code compliant heater, ceiling unit
+      - each 
+      - 193.05 
+    * - Removal of non-code compliant plumbing fixture
+      - each 
+      - 64.35 
+    * - Remove window and frame on lot lines
+      - each 
+      - 64.35 
+    * - Demolition of wooden stairs
+      - per floor 
+      - 256.39 
 ~
 
  
 
-d. Violations not listed in subdivision c may be punishable as determined by the environmental control board by a penalty not to exceed ten thousand dollars. e. Any person violating a provision of this chapter or any regulation promulgated by the commissioner pursuant to this chapter shall also be liable for any costs or expenses that may be incurred by the city as a result of such violation.
+   (2) Masonry 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Allowance for openings in interior walls for exhausts, vents and heaters
+      - per opening 
+      - 50.75 
+    * - Fireproofing columns, 4"solid block
+      - sq. ft. 
+      - 6.44 
+    * - New window opening in brick or concrete block wall
+      - each 
+      - 386.11 
+    * - New door opening in sheetrock
+      - each 
+      - 76.13 
+    * - New door opening in brick or concrete block wall
+      - each 
+      - 386.11 
+    * - Exterior wall opening for exhausts, vents and space heater
+      - each 
+      - 321.76 
+    * - New fire-rated stair enclosure – 
+      - 
+      - 
+    * -  top floor to roof
+      - each 
+      - 1,287.02 
+    * -  first floor to cellar
+      - each 
+      - 1,287.02 
+    * - Extend brick parapet to provide 3'6"height
+      - sq. ft. 
+      - 32.18 
+    * - New bulkhead (25 linear feet)
+      - each 
+      - 3,217.55 
+    * - Bulkhead ventilation louver (12"x 12") completely installed
+      - each 
+      - 128.70 
+    * - Gypsum block (4") to enclose boiler/meter rooms
+      - sq. ft. 
+      - 6.44 
+~
+
+ 
+
+   (3) Metals
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - New metal stair, 2'6"wide, for top floor to roof*
+      - floor 
+      - 2,233.00 
+    * - New roof railings to provide 3'6"parapet
+      - lin. ft. 
+      - 19.31 
+    * - Metal stair to cellar to replace existing*
+      - floor 
+      - 1,930.53 
+    * - Skylight including screen 20 sq. ft.
+      - each 
+      - 772.21 
+    * - Scuttle ladder to roof
+      - each 
+      - 257.40 
+    * - Fire escape, new
+      - floor 
+      - 2,445.44 
+    * - Extend fire escape to roof &amp; platform
+      - each 
+      - 1,930.53 
+    * - Exterior screened stair
+      - floor 
+      - 3,217.55 
+    * - Cellar"engineer's"hatch with frame, ladder, cutting, patching1 hardware new steel (24"x 24") completely inst.
+      - each 
+      - 1,930.53 
+~
+
+ 
+
+   (4) Carpentry
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Floor joist, 3 × 10
+      - lin. ft. 
+      - 10.15 
+    * - Floor joist, 3 × 12
+      - lin. ft. 
+      - 12.18 
+    * - Subflooring replacement
+      - sq. ft. 
+      - 1.83 
+    * - Framing for new partitions
+      - sq. ft. 
+      - 1.29 
+~
+
+
+
+ 
+
+   (5) Doors and Windows
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Building entry and/or vestibule, new installation
+      - lin. ft. 
+      - 257.40 
+    * - Hollow metal door and frame (common area) – replacement
+      - each 
+      - 450.46 
+    * - Hollow core wood door and frame
+      - each 
+      - 128.70 
+    * - Dwelling unit entrance door with frame including lock, door knobs and hinges
+      - each 
+      - 514.81 
+    * - Bulkhead door with frame
+      - each 
+      - 450.46 
+    * - Repair existing dwelling unit entrance door
+      - each 
+      - 128.70 
+    * - New dwelling unit entrance door lock
+      - each 
+      - 128.70 
+    * - Reversing swing of door
+      - each 
+      - 86.28 
+    * - Double hung window (double glaze) 20 sq. ft.
+      - each 
+      - 321.76 
+    * - Double hung window (single glaze) 20 sq. ft., installed
+      - each 
+      - 268.98 
+    * - Windows larger than 20 sq. ft.
+      - each sq. ft. above 20 
+      - 25.74 
+    * - Lot line window
+      - each 
+      - 406.00 
+    * - Glazing – wired
+      - sq. ft. 
+      - 10.94 
+~
+
+ 
+
+   (6) Finishes
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Painting (primer coat on sheetrock, plus one coat)
+      - sq. ft. 
+      - 0.37 
+    * - Plaster patching
+      - sq. ft. 
+      - 1.93 
+    * - Gypsum board, non-fire rated (1/2") for interior unit partitions
+      - sq. ft. 
+      - 2.03 
+    * - Fire-rated gypsum board (5/8") to fireproof underside of stairs, 2 hrs. rating
+      - sq. ft. 
+      - 2.58 
+    * - To separatecommercial/manufacturing from residential portion of building, 1 or 2 hrs. rating
+      - sq. ft. 
+      - 1.29/2.58 
+    * - To separate apartments, 1 hr. rating
+      - sq. ft. 
+      - 1.29 
+    * - To enclose fire stairs and/or fire corridor, 1 or 2 hrs. rating
+      - sq. ft. 
+      - 1.29/2.58 
+    * - To enclose cellar, common area rooms 1 or 2 hrs. rating
+      - sq. ft. 
+      - 1.29/2.58 
+    * - To enclose bath and/or kitchens
+      - sq. ft. 
+      - 1.29 
+    * - Dry-wall, impervious to water, for bathroom use
+      - sq. ft. 
+      - 1.93 
+    * - Note: All gypsum board descriptions and prices are finished, i.e. taped and spackled. 
+      - 
+      - 
+    * - INSULATION 
+      - 
+      - 
+    * - Wall Insulation (R-11)
+      - sq. ft. 
+      - 0.32 
+    * - Roof Insulation (R-30)
+      - sq. ft. 
+      - 0.64 
+    * - TILE AND FLOORINGS 
+      - 
+      - 
+    * - Tile repair in residential bathroom
+      - sq. ft. 
+      - 7.61 
+    * - Tile work in residential bathroom (new base only)
+      - bathroom 
+      - 64.35 
+~
+
+ 
+
+   (7) Specialities
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Mail Boxes
+      - each 
+      - 56.84 
+    * - Floor Signs
+      - each 
+      - 12.87 
+    * - Peephole Bell Chain on Existing Door
+      - per door 
+      - 64.35 
+    * - Smoke Detector, Hard Wired
+      - each 
+      - 128.70 
+    * - Intercom in Buildings with 8 or more units
+      - per D.U. 
+      - 152.25 
+    * - Bell and Buzzer System
+      - per D.U. 
+      - 50.75 
+~
+
+
+
+ 
+
+   (8) Equipment
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Electric or Gas Range
+      - each 
+      - 386.11 
+~
+
+
+
+ 
+
+   (9) Conveying Systems
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - ELEVATORS 
+      - 
+      - 
+    * - New Elevator: Base Price
+      - each 
+      - 57,915.90 
+    * - Additional
+      - per floor 
+      - 7,722.12 
+    * - Seal Off Shaft
+      - per floor 
+      - 514.81 
+    * - Service Car
+      - per floor 
+      - 15,225.00 
+~
+
+
+
+ 
+
+   (10) Mechanical
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - HEAT AND HOT WATER 
+      -  
+      -  
+    * - Hot Water Heater, Gas Fired, 40 Gal.
+      - each 
+      - 321.76 
+    * - Hot Water Heater, Electric, 40 Gal.
+      - each 
+      - 450.46 
+    * - Separate Domestic Central
+      - per D.U. 
+      - 321.76 
+    * - Hot Water System Central Heating System, Gas or Oil, Including Piping and Radiators
+      - per D.U. 
+      - 3,861.06 
+    * - Central Boiler, Gas or Oil
+      - per D.U. 
+      - 1,287.02 
+    * - Gas Fired Heater, Residential
+      - each 
+      - 965.27 
+    * - Gas Meter: Lines (3/4") to Individual D.U.
+      - lin. ft. 
+      - 7.61 
+    * - Electric BaseboardHeater to Heat 1,000 Sq. Ft.
+      - per D.U. 
+      - 1,930.53 
+    * - New Radiator or Convector
+      - each 
+      - 450.46 
+    * - Radiator: I. Valve and Air Vent
+      - each 
+      - 96.53 
+    * - Radiator: II. Valve and Steam Trap
+      - each 
+      - 115.83 
+    * - Gas Riser for Heat or Hot Water
+      - per D.U. 
+      - 772.21 
+    * - Gas Riser for Cooking
+      - per D.U. 
+      - 643.51 
+    * - Gas-Fired Hot Water Boiler for Individual Dwelling Unit, Installed with Piping, Venting and Valving
+      - per D.U. 
+      - 4,504.57 
+    * - Plumbing Valve on Existing Fixture
+      - each 
+      - 45.05 
+    * - Mechanical Ventilation (Including Exhaust Ducts) for Internal Units (with Existing Shaft)
+      -  
+      -  
+    * -  – Bathroom
+      - each 
+      - 304.50 
+    * -  – Kitchen
+      - each 
+      - 365.40 
+    * -  – Fan (Including Wiring)
+      - each 
+      - 609.00 
+    * - WATER DISPOSAL AND PLUMBING 
+      -  
+      -  
+    * - Water Closet
+      - each 
+      - 231.66 
+    * - Bath Tub w. Trim
+      - each 
+      - 463.33 
+    * - Shower Body, Piping with Trim
+      - each 
+      - 160.37 
+    * - Kitchen Sink with Trim
+      - each 
+      - 231.66 
+    * - Lavatory with Trim
+      - each 
+      - 193.05 
+    * - Sink Faucet
+      - each 
+      - 96.53 
+    * - Copper pipe (1/2")+
+      - lin. ft. 
+      - 6.44 
+    * - Copper pipe (3/4")+
+      - lin. ft 
+      - 9.01 
+    * - Replace Inadequately Sized Sink Trap
+      - each 
+      - 193.05 
+    * - Waste and Trap for Existing Tub
+      - each 
+      - 208.08 
+    * - Lead Bend for Water Closet
+      - each 
+      - 257.40 
+    * - New Water Riser and Branches
+      - per D.U. 
+      - 1,480.07 
+    * - New Water Main Assuming 6-story building 2"copper main street main on same of street as building2
+      - each 
+      - 3,552.50 
+    * - Replace Sprinkler Head
+      - each 
+      - 38.61 
+    * - Sprinkler System, New, Based on Per Head
+      - each 
+      - 261.87 
+    * - Relocate Existing Sprinkler Head
+      - each 
+      - 193.05 
+    * - Siamese Connection**
+      - each 
+      - 772.21 
+    * - Fire Pump**
+      - each 
+      - 15,444.24 
+    * - Alarm Valve**
+      - each 
+      - 965.27 
+    * - New Standpipe Main**
+      - each 
+      - 9,009.14 
+    * - Siamese, Check Valve**
+      - each 
+      - 1,544.42 
+    * - Siamese, Check Valve with Piping and Water Flow Alarm**
+      - each 
+      - 3,861.06 
+    * - Roof Tank 5,000 Gal. Inc. Structural Supports**
+      - each 
+      - 19,305.30 
+    * - New Water Meter:
+      -  
+      -  
+    * -  2"
+      - each 
+      - 2,030.00 
+    * -  3"
+      - each 
+      - 3,045.00 
+    * -  4"
+      - each 
+      - 4,060.00 
+    * - AIR DISTRIBUTION 
+      -  
+      -  
+    * - Supply Air Fan or Roof Exhaust Fan
+      - each 
+      - 487.20 
+    * - Wall Exhauster
+      - each 
+      - 436.45 
+    * - Fire Damper and Grill in Existing Shaft
+      - each 
+      - 64.35 
+    * - Turbine Fan in Existing Shaft
+      - each 
+      - 193.05 
+    * - Provide Ventilation for Enclosed Central Heating System Equipment
+      - each 
+      - 1,287.02 
+    * - VENTILATION EXHAUST RISER 
+      -  
+      -  
+    * - Kitchenette
+      - each 
+      - 386.11 
+    * - Bath
+      - each 
+      - 321.76 
+~
+
+ 
+
+   (11) Electrical
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Panel Board with Separate Electric Riser, Single Phase, Three Wire Service
+      - each 
+      - 900.91 
+    * - Single Pole Switch Outlet Fully Installed
+      - each 
+      - 77.22 
+    * - Lighting Outlet, Fully Installed
+      - each 
+      - 128.70 
+    * - New Fixture on Switch, Fully Installed
+      - each 
+      - 193.05 
+    * - Hall Lighting Outlet, Fully Installed
+      - each 
+      - 154.44 
+    * - 110 V Outlet
+      - each 
+      - 116.73 
+    * - 110 V Outlet (Ground Fault Interrupter Electrical Meter:
+      - each 
+      - 137.03 
+    * -  – Panel &amp; Rough Wiring
+      - building 
+      - 1,319.50 
+    * -  – Meter (Assembly) Plan
+      - per D.U. 
+      - 167.48 
+~
+
+ 
+
+   (12) Municipal Filing Fees, Professional Fees, Local Law Compliance and Extraordinary Costs of Legalization
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Municipal fees for filing necessary for Code Compliance (e.g. Dept. of Buildings Alteration Application, City Planning Commission Special Permit, etc.). Does not include regular annual filings for inspections or regulation.
+      - Actual fee charged
+    * - All Architectural and Engineering Fees
+      - Maximum 7 percent of approved, necessary and reasonable costs of Code Compliance items in categories 1 - 12 of this schedule.
+    * - Legal Fees – costs incurred in obtaining financing for Code Compliance
+      - Maximum 4 percent of approved necessary and reasonable costs of Code Compliance for cost items in categories 1 - 12 of this schedule.
+    * - Local Law Compliance (Handicapped, Landmarks and Asbestos)
+      - Approved necessary and reasonable costs of Code Compliance, reviewed and determined by the Loft Board case by case.
+    * - Extraordinary Costs of Legalization (construction management fees; overtime costs for alterations required to be done after hours; and excessive costs above scheduled allowance resulting from individual building characteristics)
+      - Maximum 7.5 percent for this category of approved, necessary and reasonable costs of Code Compliance.
+~
+
+
+
+ 
+
+1 Includes concrete plan.
+
+2 All other situations will be resolved on a case by case basis.
+
++ Plumbing items include necessary pipe installation. These items are for replacement work only.
+
+* The figures in this final cost schedule have been calculated by using the 1989 prices, published in the City Record on August 13, 1990, multiplied by 1.5 percent, the yearly index for 1990.
+
+** These items will only be considered as necessary and reasonable when installation is mandated resulting from other required code compliance work.
+
+The following Department of Buildings memoranda are included here for informational purposes only and not for comment. These directives are referred to in 29 RCNY § 2-01(d)(2).
+
+
+
+
+
+
+*§ 2-01.1 Failure to Take Reasonable and Necessary Action to Legalize Building.* ::
+
+
+(a)  Definition of Reasonable and Necessary Action.
+
+   (1) Reasonable and necessary action to obtain a certificate of occupancy, as used in § 284(1) of the Multiple Dwelling Law ("MDL"), means deliberate, diligent, and consistent action from the beginning of Article 7-C coverage through the issuance of a final residential certificate of occupancy for the IMD building, or the issuance of a final certificate of occupancy for the residential portions of the IMD building. Failure to take reasonable and necessary action to obtain a residential certificate of occupancy issued pursuant to MDL § 301 is a violation of this section.
+
+      (i) Factors to consider. In deciding whether an owner has been taking all reasonable and necessary actions to obtain a certificate of occupancy pursuant to subdivision (a) above, the Loft Board or its staff may consider but not be limited to the following factors:
+
+         (A) Whether the owner has filed an alteration application with the New York City Department of Buildings ("DOB").
+
+         (B) Whether the owner has timely cleared all DOB objections to obtain the building permit for the alteration.
+
+         (C) Whether the owner timely obtained a building permit after issuance of the Loft Board certification pursuant to 29 RCNY § 2-01(d)(2)(xi).
+
+         (D) Whether the building permit for the alteration that the Loft Board certified pursuant to 29 RCNY § 2-01(d)(2)(xi) is in effect.
+
+         (E) Whether any other current permit to further the legalization of the residential spaces is in effect.
+
+         (F) Whether the owner has timely engaged a contractor to perform the work necessary to obtain a certificate of occupancy.
+
+         (G) Whether there has been any stoppage of work due to reasons within the owner's control.
+
+         (H) Whether the owner has timely cleared all DOB objections and violations as required for obtaining a certificate of occupancy.
+
+         (I) Whether the owner has timely scheduled all DOB inspections required for obtaining a certificate of occupancy.
+
+      (ii) Monthly Reports about Legalization Projects.
+
+         (A) Any IMD owner who has not been issued a final residential certificate of occupancy issued pursuant to MDL § 301 for the IMD units must file with the Loft Board a monthly report relating to the legalization projects in the building on the approved Loft Board form, as available on the Loft Board's website or at the offices of the Loft Board. In the case of IMD buildings owned by a cooperative or a condominium, the cooperative or condominium board is responsible for the filing of the monthly report. The report is due on the first business day of every month.
+
+         (B) The report must be signed by the owner of the IMD building and a registered architect or professional engineer.
+
+         (C) The information provided in the report may be used as evidence in connection with a Loft Board determination as to whether the owner has exercised all reasonable and necessary action to obtain a final residential certificate of occupancy.
+
+         (D) The Executive Director may issue a fine in accordance with 29 RCNY § 2-11.1 for failure to file the legalization report for each report not filed on the first business day of each month.
+
+         (E) The filing of a false statement in the monthly report may result in fines in accordance with 29 RCNY § 2-11.1 for each false statement in the monthly report.
+
+   (2) An owner may not delegate its obligation to exercise reasonable and necessary action to obtain a final residential certificate of occupancy for the IMD units.
+
+(b) Failure to Take all Reasonable and Necessary Action toward Obtaining a Final Residential Certificate of Occupancy.
+
+   (1) Inspections.
+
+      (i) Staff employed or assigned to the Loft Board is authorized to conduct inspections at the direction of the Loft Board or Executive Director to determine if the owner is taking all reasonable and necessary action to obtain a final residential certificate of occupancy issued pursuant to MDL § 301. If an inspection report is prepared, the report is considered a record kept in the regular course of the Loft Board's business and is deemed prima facie proof of the facts contained therein.
+
+      (ii) Such inspections may be used by the Loft Board in determining when a penalty for failure to take all reasonable and necessary action toward obtaining a certificate of occupancy, pursuant to a hearing determination by an OATH Administrative Law Judge, or an ECB hearing officer, abates.
+
+   (2) Enforcement Proceedings. At any point prior to the issuance of the final residential certificate of occupancy issued pursuant to MDL § 301, the Loft Board may initiate an enforcement proceeding against an owner for failure to take all reasonable and necessary action to obtain a final residential certificate of occupancy even where the next legalization deadline for the owner to meet, as set forth in 29 RCNY §§ 2-01 et seq. or § 284(1) of the MDL, has not passed. The owner has the right to present to the Loft Board or its representative, within 30 calendar days of delivery of the notice of proceeding by hand, or 35 calendar days of the posting of the notice by mail, a response that includes information as to why that notice should be withdrawn or information regarding mitigating factors the owner wishes the Loft Board to consider in connection with its determination of the amount of the fine to impose. If applicable, the owner may file an application for an extension of the code compliance deadlines pursuant to 29 RCNY § 2-01(b).
+
+   (3) Hearings. Hearings will be conducted by OATH Administrative Law Judges or ECB hearing officers, who will determine whether the owner has made a diligent, consistent and good faith effort to obtain a residential certificate of occupancy for the IMD as required by Article 7-C of the MDL. Hearings conducted by OATH must be conducted in accordance with the rules and procedures governing OATH so long as they do not conflict with the Loft Board rules. Hearings conducted by an ECB hearing officer must be conducted following the procedures of ECB hearings.
+
+   When the OATH Administrative Law Judge or ECB hearing officer issues a finding that the owner has not exercised all reasonable and necessary action to obtain a final residential certificate of occupancy, he or she shall also recommend a fine in accordance with 29 RCNY § 2-11.1. Such fine accrues 30 calendar days from the date of delivery by hand or 35 calendar days from posting by mail of the notice of an enforcement proceeding, and may continue to accrue until the owner demonstrates compliance with this section.
+
+   (4) Defenses. To defend a Loft Board proceeding for failure to exercise all reasonable and necessary action to achieve compliance, an owner must show deliberate, diligent and consistent action to achieve a final residential certificate of occupancy and must document efforts to obtain the residential certificate of occupancy and any impediments to compliance outside of the owner's control.
+
+   (5) Mitigating Factors For Fines. Mitigating factors that may be considered regarding the amount of the fine imposed on the owner may include, but are not limited to, the following:
+
+      (i) Within 30 calendar days after the date of the notice, the owner has begun to take reasonable and necessary action to obtain a certificate of occupancy; or
+
+      (ii) The owner's failure to take reasonable and necessary action towards obtaining a certificate of occupancy were for reasons beyond the owner's control. Examples of such circumstances beyond the owner's control include, but are not limited to, a requirement for a certificate of appropriateness for modification of a landmarked building, a need to obtain a variance from the Board of Standards and Appeals, or the denial of reasonable access to an IMD unit.
+
+   (6) Evidence of violation not requiring hearing.
+
+      (i) Failure to file an alteration application to convert the IMD units to residential units within the later of:
+
+         (A) 3 months of the effective date of this rule, or
+
+         (B) 6 months from receipt of a Loft Board Order granting IMD status to a building or the issuance of an IMD registration number to the owner, or
+
+         (C) 6 months from a finding of Article 7-C coverage by a court of competent jurisdiction constitutes a rebuttable presumption that the owner is not engaged in taking reasonable and necessary action to obtain a residential certificate of occupancy or a certificate of occupancy for the residential portions of the building.
+
+      (ii) Where the Loft Board has issued certification pursuant to 29 RCNY § 2-01(d)(2)(xi), and an owner has failed to obtain an alteration permit within 3 months from the date of such certification or from the effective date of this rule, whichever is later, such failure to obtain the permit constitutes a rebuttable presumption that the owner is not engaged in taking reasonable and necessary action to obtain a residential certificate of occupancy or a certificate of occupancy for the residential portions of the building.
+
+      (iii) Where an alteration permit has been issued in connection with the legalization of the residential portions of an IMD building, the failure to maintain the permit in effect until the issuance of a final residential certificate of occupancy or a certificate of occupancy for the residential portions of the building constitutes a rebuttable presumption that the owner is not engaged in reasonable and necessary action to obtain a residential certificate of occupancy or a certificate of occupancy for the residential portions of the building.
 
+      (iv) Failure to maintain a temporary certificate of occupancy for the residential portions of the IMD building, if one was previously issued, constitutes a rebuttable presumption that the owner is not engaged in reasonable and necessary action to obtain a residential certificate of occupancy.
 
+   (7) Upon finding a violation pursuant to paragraph (6) of this subdivision, the Loft Board's Executive Director may issue a notice to the owner stating an intent to find the owner in violation of its obligation to exercise all reasonable and necessary action. The Loft Board's Executive Director may issue a fine in accordance with 29 RCNY § 2-11.1.
 
+   The owner has the right to present to the Loft Board's Executive Director or his or her representative within 30 calendar days of delivery of the notice by hand, or 35 calendar days of the posting of the notice by mail, a response that includes information as to why the notice should be withdrawn and/or information regarding mitigating factors pursuant to paragraph (5) of this subdivision the owner wishes to be considered in connection with Executive Director's determination of the amount of the fine to be imposed.
 
+   Following the receipt of a timely response from the owner, the Executive Director may either withdraw the notice, or may impose a fine in accordance with 29 RCNY § 2-11.1. Unless the owner first demonstrates compliance with this section, such fine begins to accrue 30 calendar days after delivery by hand or 35 calendar days after the posting of the notice by mail and continues to accrue until the owner demonstrates compliance with this section. If necessary, the owner may file an application for an extension of the code compliance deadlines, pursuant to 29 RCNY § 2-01(b).
 
+(c) Reporting Obstacles in Legalization Process. If an owner encounters an obstacle in the legalization process outside of its control, the owner must state that obstacle in the monthly reports filed with the Loft Board. Additionally, the owner must notify the Loft Board in writing within fourteen calendar days of the date the owner knew or reasonably should have known of the obstacle, or if necessary, the owner shall file an application for an extension of the code compliance deadlines pursuant to 29 RCNY § 2-01(b). An owner's failure to timely notify the Loft Board of an obstacle in the legalization process outside of the owner's control shall create a rebuttable presumption that there was no obstacle to the legalization process that was outside of the owner's control.
 
-*§ 16-207 Regulations.* ::
+(d) Access to IMD Units. The tenant's failure to provide access is not deemed outside of the owner's control if the owner has not within a reasonable time filed an access application pursuant to 29 RCNY § 2-01(g)(3).
 
+(e) Subsequent Enforcement Proceedings. Where the OATH Administrative Law Judge or ECB hearing officer issues a decision finding that the owner has failed to exercise all reasonable and necessary action to obtain a certificate of occupancy, such decision does not bar the OATH Administrative Law Judge or ECB hearing officer from subsequently issuing another such decision after three months.
 
-a. The commissioner, upon the recommendation of the solid waste management board and upon the approval of the board of estimate, may exempt that portion of privately collected solid waste from all or some provisions of any regulations for such period of time as is necessary and appropriate up to forty years, if the regulation of that solid waste will materially and adversely interfere with the development, financing or operation of any resource recovery facility owned or operated or being developed privately. Any person seeking an exemption shall do so by filing with the solid waste management board a petition for exemption in a form prescribed by such board. Such form shall document the need for an exemption. The effective date of any exemptions granted may be withheld until a bona fide, firm, long-term contract has been executed for delivery of such solid waste to a safe and reliable facility and copy of such contract has been received by the solid waste management board.
 
-b. In the event that any resource recovery facility owned or operated privately fails to adequately process or dispose of solid waste and such facility does not provide for alternate storage, processing or disposal, the privately collected solid waste exempted from regulation and not disposed by the facility may be made subject to any regulation for which it had been exempted.
 
-c. (1) Nothing herein shall be construed to prohibit or limit private collectors from extracting from the waste they collect materials that have value to such collectors for the purposes of recycling, reuse or resale.
 
-   (2) Any regulations promulgated shall not limit the amount or type of solid waste utilized by any person for the purposes of composting, materials recovery from solid waste, or operation of a recycling center.
 
-d. Such regulations shall make reasonable accommodation to permit persons to deliver solid waste to recycling facilities or permitted transfer facilities for the sole purpose of materials reclamation or volume reduction, provided, however, that nothing contained herein shall materially impair the authority of the com- missioner to enforce the regulation of the residual solid waste resulting from such reclamation or volume reduction activities in accordance with this chapter.
 
+*§ 2-02 Harassment.* ::
 
 
+(a) Applicability. These harassment rules apply to all harassment applications filed with the Loft Board, after September 11, 2013, the effective date of this amended rule. Harassment applications are subject to the harassment rule in effect on the date of the initial filing of the application.
 
+All orders of harassment must be kept in the Loft Board's records and in the office of the City Register in accordance with the provisions of 29 RCNY § 2-02(d)(l)(iii).
 
+(b) Definitions.
 
-*§ 16-208 Publication of regulations.* ::
+   Harassment means any course of conduct or single act engaged in by the landlord or any other person acting on its behalf that interferes with or disturbs the comfort, repose, peace or quiet of an occupant in the occupant's use or occupancy of its unit if such conduct is intended to cause the occupant to vacate the building or unit, or to surrender or waive any rights of such occupant under the occupant's written lease or other rental agreement or pursuant to Article 7-C. Harassment may also include any act or course of conduct by a prime lessee or any person acting on his or her behalf that would constitute "harassment" if engaged in by the landlord, against any of the prime lessee's current or former subtenants who are residential occupants qualified for the protection under Article 7-C.
 
+   Harassment includes, but is not limited to, the intentional interruption or discontinuance of or willful failure to provide or to restore services customarily provided in the building or required by written lease or other rental agreement or, for residential occupants qualified for the protections of Article 7-C, by the Loft Board rules regarding minimum housing maintenance standards. Harassment does not include either the lawful termination of a tenancy or lawful refusal to renew or extend a written lease or other rental agreement, or acts performed in good faith and in a reasonable manner for the purposes of operating, maintaining or repairing any building or part thereof.
 
-Notwithstanding any inconsistent provisions of section eleven hundred five of the charter, the regulations promulgated pursuant to this chapter shall be promulgated pursuant to the procedures set forth in this section. The commissioner shall:
+   There is no requirement that the landlord's actions or inactions be illegal to constitute harassment. The Loft Board may find that a particular act constitutes harassment whether it was directed toward one tenant or multiple tenants.
 
-a. publish notice of the proposed regulations in at least two newspapers of general circulation, the city record, and at least one industry journal:
+   Landlord means the owner of an IMD, the lessee of a whole building all or part of which contains IMD units, or the agent, executor, assignee of rents, receiver, trustee, or other person having direct or indirect control of such building.
 
-b. allow a sixty day period to receive comments on such proposed regulations and an additional ten days to review such comments before publishing a final notice of such regulations:
+   Occupant, unless otherwise provided, means a residential occupant qualified for the protections of Article 7-C, or any other residential tenant or nonresidential tenant of an IMD building.
 
-c. at least one hundred eighty days prior to the effective date of such regulations, submit to the city clerk final notice of such regulations, together with a set of the comments filed pursuant to this section, findings related to material substantive elements in such comments, and a justification for the necessity of such regulations; and
+   Ongoing Course of Conduct, for purposes of this section, means actions or inactions by or on behalf of the landlord that when considered together, show a continuous pattern of behavior.
 
-d. amend such regulations pursuant to section eleven hundred five of the charter.
+   Continuous Pattern of Behavior, includes, but is not limited to, acts, at least one of which happened within 180 calendar days preceding the filing of the harassment application, that show a sequence of events that are similar in nature or a sequence of events that are reasonably related.
 
+(c) Procedures for considering harassment applications.
 
+   (1) It is unlawful for a landlord or any other person acting on its behalf to engage in conduct constituting harassment against any occupant of an IMD building. A harassment application may be filed with the Loft Board by occupant(s) of an IMD building. The application must be filed on a form approved by the Loft Board and will be processed in accordance with 29 RCNY § 1-06, and the specific requirements provided below.
 
+   (2) (i) The description of the conduct complained of must contain the actual or approximate date(s) on which such conduct occurred, the manner and location of each occurrence, and if the complaint is filed on behalf of more than one occupant, the occupants against whom the occurrence was directed. The application must be filed within 180 calendar days of the conduct complained of, or where an ongoing course of conduct is alleged, as defined in subdivision (b), the application must be filed within 180 calendar days of the last occurrence.
 
+      (ii) [Reserved.]
 
+      (iii) If the Loft Board finds that an applicant has filed a harassment application in bad faith or in wanton disregard of the truth, the applicant may be subject to a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1.
 
-*§ 16-209 Definitions.* ::
+   (3) The applicant must serve all affected parties, as defined in 29 RCNY § 1-06(a)(2), with a copy of the application in accordance with the terms and procedures requiring service and proof of service of the application as described in 29 RCNY § 1-06(b).
 
+   Where a harassment application solely alleges that the owner's challenge of a sale of improvements is frivolous, the applicant must serve only the owner as an affected party.
 
-As used in this title:
+   Instructions for filing an answer ("Instruction Form") and an answer form must be enclosed with the copy of the application sent to the affected parties. Instructions for filing an answer must advise the owner that a finding of harassment may affect the owner's ability to decontrol or to obtain market rentals for covered IMD units pursuant to MDL §§ 286(6) and 286(12) and the Loft Board's rules. Inclusion of the Loft Board's approved Instruction Form with the application at the time of service constitutes compliance with this paragraph.
 
-a. "Solid waste" means all materials or substances discarded or rejected as being spent, useless, or worthless, including but not limited to garbage, refuse, industrial and commercial waste, sludges from air or water pollution control facilities or water supply treatment facilities, rubbish, ashes, contained gaseous material, incinerator residue, demolition and construction debris and offal, but not including sewage and other highly diluted water-carried materials or substances and those in gaseous forms.
+   (4) Parties have 15 calendar days after the date on which service of the application was completed, calculated from the mailing date shown on the certificate of mailing filed with the Loft Board, to file an answer with the Loft Board. Five copies of the answer with proof of service of the answer on the applicant(s), as described in 29 RCNY § 1-06(e), must be filed at the offices of the Loft Board.
 
-b. "Solid waste recovery and management facility" or "facility" means any facility, plant, works, system, building, structure, improvement, machinery, equipment, fixture or other real or personal property which is to be used, occupied or employed beyond the initial solid waste collection process for the storage, processing, or disposal of solid waste or the recovery by any means of any material or energy product or resource therefrom including but not limited to recycling centers, transfer stations, baling facilities, rail haul or barge haul facilities, processing systems, resource recovery facilities or other facilities for reducing solid waste volume, sanitary landfills, plants and facilities for compacting, composting or pyrolization of solid wastes, incinerators, and other solid waste disposal, reduction or conversion facilities. For the purpose of this title, solid waste recovery and management facilities include solid waste recovery and management projects as defined in subdivision two of section 51-0903 of the environmental conservation law.
+   (5) (i) Following the expiration of the deadline for filing an answer, the Loft Board or the Office of Administrative Trials and Hearings ("OATH") will send, by regular mail, a notice of conference to the affected parties. The notice of conference will schedule a date and time for an informal conference as soon as possible, but no sooner than 15 calendar days from the date of mailing the notice of conference. The notice of conference sent to the owner will advise the owner that a finding of harassment may affect the owner's ability to decontrol or to obtain market rentals for covered IMD units pursuant to MDL §§ 286(6) and 286(12) and the Loft Board's rules.
 
-c. "Person" means any governmental body, except the city of New York, public corporation or authority, private corporation, partnership or individual engaged in the business of removing, disposing of, conveying or transporting upon the streets, public places or bridges, or over the ferries in the city of solid waste.
+      (ii) The informal conference may be conducted by the Loft Board staff or OATH with the affected parties in an effort to resolve and alleviate the conditions and events alleged. Where resolution to the mutual satisfaction of the parties is achieved, a stipulation containing the terms of the resolution and the penalties, if any, for its breach must be executed by the parties and filed with the Loft Board for its approval on the Loft Board's summary calendar.
 
+   (6) Where charges of harassment remain unresolved following the informal conference, a hearing on the allegations in the harassment application will be held in accordance with the procedures of 29 RCNY § 1-06 and the following:
 
+      (i) The hearing will be limited to the charges contained on the original application, as modified at the conference, and any additional charges of harassment arising as a result of conduct occurring after the conference.
 
+      (ii) The acts performed by an occupant in good faith and in a reasonable manner for the purposes of operating a nonresidential conforming use will be presumed not to constitute harassment. The presumption may be rebutted by a showing that the acts were performed on the landlord's behalf and intended to cause another occupant to vacate the building, or its unit or to surrender or waive any rights of such occupant under the occupant's written lease or other rental agreement or pursuant to Article 7-C.
 
-Chapter 3: Solid Waste Recycling
---------------------------------------------------
+      (iii) A finding by the Loft Board that the owner has willfully violated the code compliance timetable or has violated the code compliance timetable more than once may be considered as evidence of harassment. (See rules on Code Compliance – 29 RCNY § 2-01(c)(5)).
 
+      (iv) The issuance of a municipal vacate order for hazardous conditions as a consequence of the owner's unlawful failure to comply with the code compliance timetable will result in a rebuttable presumption of harassment. (See rules on Code Compliance – 29 RCNY § 2-01(c)(6)).
 
+      (v) A finding by the Loft Board of unreasonable and willful interference with an occupant's use of its unit by the landlord or its agents may be considered as evidence of harassment. (See rules on Code Compliance – 29 RCNY § 2-01(h)).
 
+      (vi) A finding by the Loft Board of a willful violation of Minimum Housing Maintenance Standards may be considered as evidence of harassment of residential tenants. (See rules on Enforcement of Minimum Housing Maintenance Standards – 29 RCNY § 2-04(e)(6)).
 
-**Subchapter 1: Short Title, Policy and Definitions**
+      (vii) A finding by the Loft Board that the filing of an application by the owner objecting to the sale of improvements was frivolous may be considered as evidence of harassment of residential tenants. An objection to the sale may be found to be frivolous on grounds including, but not limited to, the following:
 
+         (A) That it was filed without a good faith intention to purchase the improvements at fair market value or
 
+         (B) That the owner's valuation of the improvements has no reasonable relationship to the fair market value, as determined by the Loft Board. (See rules on Sales of Improvements – 29 RCNY § 2-07(g)(1)(ii)). At the occupant's request the Loft Board will issue its findings on a pending harassment application based upon the allegation that the owner's objection to the sale of improvements is frivolous, or any other pending harassment application in the building, concurrently with its determination of the owner's challenge.
 
-*§ 16-301 Short title.* ::
+      (viii) A determination by a civil or criminal court of landlord harassment of an occupant(s) may be considered as evidence of harassment.
 
+(d) Findings of harassment.
 
-This chapter shall be known and may be cited as the "New York City Recycling Law."
+   (1) (i) Effect of harassment finding. A landlord that is found by the Loft Board to have harassed an occupant will not be entitled to the decontrol of or market rental for any IMD unit after a sale of improvements pursuant to MDL § 286(6) of Article 7-C and these rules. This restriction applies to any sale of improvements that takes place on or after the date of the order containing the finding of harassment until the date the order is terminated in accordance with 29 RCNY § 2-02(d)(2). This restriction may also apply to any sale of rights pursuant to MDL § 286(12) and 29 RCNY § 2-10 that takes place on or after the date of the order containing the finding of harassment until the date the order is terminated in accordance with 29 RCNY §§ 2-02(d)(2).
 
+      (ii) Civil penalty for a finding of harassment. If the Loft Board finds that a landlord harassed an occupant, the landlord may be liable for a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1 for each occurrence that is found to constitute harassment. Registration as an IMD will not be issued or renewed for any building for which fines have been imposed for landlord harassment until all fines have been paid.
 
+      (iii) Notice of a harassment finding. The order containing the finding of harassment is binding on all individuals or parties who succeed to the landlord's interest in the premises until the harassment order is terminated in accordance with 29 RCNY § 2-02(d)(2) below. A copy of the Loft Board's order containing the finding of harassment will be mailed to the applicant, the owner, and the affected parties to the proceeding. Notice of such order will be filed by the Loft Board in the office of the City Register.
 
+      (iv) Effect on other relevant laws. The procedure provided in this rule operates in addition to any procedures provided under other provisions of law and must not be construed to alter, affect or amend any right, remedy or procedure that may exist under any other provisions of law, including, but not limited to the following:
 
+         (A) An occupant may apply to the Supreme Court of the State of New York for an order enjoining a landlord from harassment pursuant to § 235-d(4) of the Real Property Law and may pursue all other remedies in relation to harassment including the award of damages before a court of competent jurisdiction.
 
+         (B) Upon the request of a residential occupant who either vacates, has been removed from or is otherwise prevented from occupying its unit as a result of harassment, a landlord must take all reasonable and necessary action to restore the occupant to its unit, provided that such request is made within 7 calendar days after removal, pursuant to § 26-521(b) of the New York City Administrative Code.
 
-*§ 16-302 Declaration of policy.* ::
+         (C) Residential occupants of IMDs are afforded the protections available to residential occupants pursuant to the Real Property Law and the Real Property Actions and Proceedings Law, including § 223-b of the Real Property Law regarding retaliatory evictions, notwithstanding that such occupants may reside in an owner-occupied IMD having fewer than 4 residential units.
 
+         (D) Special proceedings pursuant to Article 7-A of the Real Property Actions and Proceedings Law are available to all occupants of IMDs, notwithstanding that such IMDs may contain less than 3 residential units.
 
-It is hereby declared to be the public policy of the city to reduce environmental pollution and dangers to health, to decrease the demand for scarce landfill space, to minimize the size and cost of the proposed resource recovery program, and to encourage the conservation of valuable natural resources and energy. It is the policy of the city to promote the recovery of materials from the New York city solid waste stream for the purpose of recycling such materials and returning them to the economy. This chapter shall be liberally construed in order to effectuate the purposes set forth in this section.
+      (v) Violation of 29 RCNY § 2-04. If the OATH Administrative Law Judge assigned to the case finds that the acts alleged by the occupant do not constitute harassment, the Administrative Law Judge may, in the alternative and without the need for the applicant to amend his or her application or pleadings, consider whether the facts alleged in the application describe an owner's failure to provide a service or an owner's unlawful diminution of services. If so, upon notice to the owner, the application may be processed pursuant to the Loft Board's rules regarding diminution of services as described in 29 RCNY § 2-04. Upon notice that the facts alleged will be processed as a diminution of services claim, the owner may seek permission from the Administrative Law Judge to file a response to the claim of diminution of services. The Administrative Law Judge may recommend a fine, in accordance with 29 RCNY § 2-11.1 for any finding of diminution of services.
 
+   (2) (i) Termination of Harassment Findings. Where the Loft Board has issued a finding of harassment, the landlord may apply to the Loft Board pursuant to 29 RCNY § 1-06, for an order terminating the harassment finding following the expiration of the period of time specified in the harassment order. The order containing the finding of harassment must specify the period of time, within a range of 1 to 3 years from the date of the order of harassment, during which the landlord is barred from applying for an order of termination. However, where a landlord has been convicted of a crime for conduct found by the Loft Board to constitute harassment, the landlord may apply for an order of termination only after at least 5 years have passed since the date of the order of harassment. After the period during which the landlord is barred from applying for termination of the harassment finding has expired, the Loft Board may terminate the harassment finding if it finds that:
 
+         (A) Since notification of the order, the landlord has not engaged in the prohibited conduct or any other conduct which constitutes harassment;
 
+         (B) The landlord has achieved compliance with the fire and safety standards of Article 7-B, alternative building codes or provisions of the MDL, as provided in 29 RCNY § 2-01(a) governing Code Compliance Work and as may be exhibited by the issuance of a temporary certificate of occupancy, or Article 7-B certification on the approved Loft Board form, or if Article 7-B compliance was achieved prior to the date of the order of harassment, has obtained a final residential certificate of occupancy for the IMD units;
 
+         (C) The landlord has paid all civil penalties assessed in the order of harassment, and there are no other orders of harassment outstanding for the IMD building; and
 
+         (D) The landlord is in compliance with 29 RCNY § 2-05 relating to registration of the IMD building.
 
-*§ 16-303 Definitions.* ::
+      (ii) Orders Terminating Harassment Findings. An order terminating a prior Loft Board finding of harassment applies prospectively only, and the owner is not entitled to the decontrol of or market rental for any residential unit for which a sale of improvements pursuant to MDL § 286(6) and these Rules has taken place in the period from the date of the order finding harassment to the date of the order terminating such finding.
 
+      (iii) Suspension or Revocation of Termination of Harassment Orders. If the Loft Board at a regularly scheduled meeting or at a special session called in accordance with 29 RCNY § 1-03(a) has reasonable cause to believe that harassment is occurring or has occurred at the IMD after the date of an order terminating a prior finding of harassment, the Loft Board shall suspend such order of termination immediately. Notice of such suspension shall be mailed to the landlord and to all occupants. Upon the landlord's written request, the Loft Board shall schedule a hearing as soon as reasonably possible but not later than thirty days after the date of receipt of such request to determine whether the order of termination should be reinstated or revoked.
 
-When used in this chapter:
+      (iv) Filing at the City Register. The order of termination or suspension, reinstatement or revocation of termination must be included among the IMD registration material on file with the Loft Board. The Loft Board will file the notice of termination or notice of suspension, reinstatement or revocation of termination in the office of the City Register.
 
-"Architectural paint" means interior and exterior architectural coatings, including paints and stains purchased for commercial or residential use, but does not include architectural coatings purchased for industrial use or for use in the manufacture of products.
+(e) Harassment by prime lessees.
 
-"Department-managed solid waste" means all solid waste that the department and its contractors collect, all solid waste that the department receives for free disposal, all solid waste collected for recycling or reuse through special events or programs promoted, operated or funded by the department, and all solid waste diverted from collection by the department that is accepted through non-department infrastructure for recycling or reuse and counted towards the department's recycling goals as set forth in subdivision h of section 16-305 of this chapter.
+   (1) "Prime lessee." For the purposes of this harassment rule, the term "prime lessee" means the party with whom the landlord entered into a lease or rental agreement for use and occupancy of a portion of an IMD building, which is being used residentially, where the prime lessee is not the residential occupant qualified for protection of the unit, regardless of whether the lessee is currently in occupancy of any portion of the space the prime lessee has leased from the landlord or whether the lease remains in effect.
 
-"Household" means a single dwelling or a residential unit within a multiple dwelling, hotel, motel, campsite, ranger station, public or private recreation area, or other residence.
+   (2) It is unlawful for a prime lessee or any other person acting on his or her behalf to engage in conduct that would constitute "harassment" if engaged in by the landlord, as defined in 29 RCNY § 2-02(b), against any of the prime lessee's current or former subtenants who are residential occupants qualified for the protections of Article 7-C. A harassment application may be filed with the Loft Board by a residential occupant qualified for the protections of Article 7-C against the prime lessee. The application will be processed in accordance with the procedures described in 29 RCNY § 2-02(c). The deed owner of the building must be listed as an affected party in all applications brought under this subdivision (e).
 
-"Household and institutional compostable waste" means any compostable waste, excluding yard waste, in or otherwise destined for any waste stream collected by the department.
+   (3) (i) If the Loft Board finds that a prime lessee harassed an occupant, the prime lessee may be liable for a civil penalty as determined by the Loft Board in accordance with 29 RCNY § 2-11.1 for each occurrence that is found to constitute harassment.
 
-"Household hazardous waste" means:
+      (ii) A prime lessee found by the Loft Board to have harassed an occupant is not entitled to recover subdivided space pursuant to 29 RCNY § 2-09(c)(5)(i) and (c)(5)(v) relating to subletting and is not entitled to the rent adjustment provided for in 29 RCNY §§ 2-09(c)(6)(ii)(D)(b).
 
-1. any household waste that is ignitable, corrosive, reactive or toxic and that, but for its point of generation, would be a hazardous waste under part three hundred seventy-one of title six of the New York code, rules and regulations, as may be amended from time to time, and includes all pesticides, as defined in article thirty-three of the environmental conservation law, and hazardous waste, as defined in section 27-0901 of the environmental conservation law, as such laws may be amended from time to time; and
+   (4) (i) After the period of time barring the owner from terminating a harassment finding provided in the Loft Board order, the prime lessee may apply to the Loft Board pursuant to 29 RCNY § 1-06 for an order terminating such finding. The order containing the finding of harassment will specify the period of time, within a range of 1 to 3 years from the date of the order of harassment, during which the prime lessee will be barred from applying for an order of termination. However, where a prime lessee has been convicted of a crime for conduct found by the Loft Board to constitute harassment, the prime lessee may apply for an order of termination only after at least 5 years have passed since the date of the order of harassment. The Loft Board may grant such relief if it finds that:
 
-2. any other household waste that the commissioner determines, by rule, to be hazardous and require special handling.
+         (A) Since notification of the order the prime lessee has not engaged in the prohibited conduct and has not engaged in any other conduct which constitutes harassment, and
 
-"Organic waste" means any material found in the waste stream that can be broken down into, or otherwise become part of, usable compost, such as food scraps, soiled paper, and plant trimmings. As determined by the commissioner, such term may also include disposable plastic food service ware and bags that meet the ASTM International standard specifications for compostable plastics, but shall not include liquids and textiles.
+         (B) The prime lessee has paid all civil penalties assessed in the order of harassment, and there are no other orders of harassment outstanding for the prime lessee.
 
-"Post-collection separation" means the dividing of solid waste into some or all of its component parts after the point of collection.
+      (ii) An order terminating a prior Loft Board finding of harassment by a prime lessee applies prospectively only.
 
-"Post-consumer material" means those products generated by a business or a consumer which have served their intended end uses, and which have been separated or diverted from solid waste for the purposes of collection, recycling and disposition. "Private carter" means any person required to be licensed or permitted pursuant to chapter one of title sixteen-A of this code.
 
-"Publicly accessible textile drop-off bin" means any enclosed container that allows for members of the public to deposit textiles into such container for reuse or recycling in accordance with the textile reuse and recycling program established by section 16-310.1 of this chapter.
 
-"Recyclable materials" means solid waste that may be separated, collected, processed, marketed and returned to the economy in the form of raw materials or products, including but not limited to, types of metal, glass, paper, plastic, yard waste and any other solid waste required to be recycled or composted pursuant to this chapter, solid waste collected for recycling or reuse through special events or programs promoted, operated or funded by the department, and solid waste accepted through non-department infrastructure for recycling or reuse.
 
-"Recycled" or "recycling" means any process by which recyclable materials are separated, collected, processed, marketed and returned to the economy in the form of raw materials or products.
 
-"Recycling center" means any facility operated to facilitate the separation, collection, processing or marketing of recyclable materials for reuse or sale.
 
-"Recycling district" means any borough or smaller geographic area the commissioner deems appropriate for the purpose of implementing this chapter.
+*§ 2-03 Hardship Applications.* ::
 
-"Rigid plastic container" means any plastic container having a semi-flexible or inflexible finite shape or form that is capable of maintaining its shape while holding other products and is designed to hold food, beverages, and consumer household products, including, but not limited to, the following types of containers: plastic bottles, plastic jugs, plastic tubs, plastic trays, plastic cups, plastic buckets, plastic crates and plastic flower pots, and any other rigid plastic material that the commissioner may designate by rule, but not including containers made of polystyrene foam.
 
-"Solid waste" means all putrescible and non-putrescible materials or substances, except as described in paragraph three of this subdivision, that are discarded or rejected as being spent, useless, worthless or in excess to the owners at the time of such discard or rejection, including but not limited to, garbage, refuse, industrial and commercial waste, rubbish, tires, ashes, contained gaseous material, incinerator residue, construction and demolition debris, discarded automobiles and offal.
+(a) Procedures.
 
-1. A material is discarded if it is abandoned by being:
+   (1) Who may file.
 
-   i. disposed of;
+      (i) The owner of an interim multiple dwelling registered with the Loft Board may file an application for exemption of a building or portion thereof from Article 7-C of the Multiple Dwelling Law on the basis that compliance in obtaining a residential certificate of occupancy would cause hardship for any of the reasons set forth in 29 RCNY § 2-03(b) below.
 
-   ii. burned or incinerated, including being burned as a fuel for the purpose of recovering useable energy; or
+      (ii) A lessee of a whole building, any portion of which is an interim multiple dwelling registered with the Loft Board, may file an application for exemption from Article 7-C, provided that no application filed by a lessee shall be considered by the Loft Board unless the owner of the building consents in writing to the filing of such application.
 
-   iii. accumulated, stored, or physically, chemically or biologically treated (other than burned or incinerated) instead of or before being disposed of.
+      (iii) A duly authorized agent (including the attorney) of the owner of an interim multiple dwelling registered with the Loft Board may file an application for exemption on behalf of the owner.
 
-2. A material is disposed of if it is discharged, deposited, injected, dumped, spilled, leaked, or placed into or on any land or water so that such material or any constituent thereof may enter the environment or be emitted into the air or discharged into groundwater or surface water.
+   (2) Filing deadline.
 
-3. The following are not solid waste for the purpose of this chapter:
+      (i) Notices of application for exemption due to hardship for a building or portion thereof must be submitted to the Loft Board by no later than June 30, 1983 pursuant to § 285(2) of the Multiple Dwelling Law. Such notices shall be filed by letter from the owner, lessee of the whole building or agent and shall only be accepted for buildings registered or which by June 30, 1983 had applied to register as interim multiple dwellings with the Loft Board.
 
-   i. domestic sewage;
+      (ii) The applicant must perfect his/her/its application by no later than October 31, 1983.
 
-   ii. any mixture of domestic sewage and other wastes that passes through a sewer system to a publicly owned treatment works for treatment, except (A) any material that is introduced into such system in order to avoid the provisions of this chapter or the state regulations promulgated to regulate solid waste management facilities pursuant to 6 NYCRR part 360 or (B) food waste;
+      (iii) Notwithstanding any provisions of subparagraphs (i) and (ii) of this paragraph (2) to the contrary, the owner, lessee of the whole building or agent of a registered interim multiple dwelling which is subject to coverage under Article 7-C solely pursuant to MDL § 281(4) shall file his application on or before April 27, 1988 pursuant to MDL § 285(2).
 
-   iii. industrial wastewater discharges that are actual point source discharges subject to permits under article seventeen of the environmental conservation law; industrial wastewaters while they are being collected, stored, or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
+      (iv) Notwithstanding any provisions of subparagraphs (i), (ii) and (iii) of this paragraph (2), applications for a hardship exemption regarding interim multiple dwellings covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010 must be filed on or before March 21, 2011, in accordance with MDL § 285(2).
 
-   iv. irrigation return flows;
+      (v) Notwithstanding any provisions of subparagraphs (i), (ii), (iii) and (iv) of this paragraph (2), applications for a hardship exemption regarding interim multiple dwellings covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 4 of the Laws of 2013 must be filed before June 11, 2014, in accordance with MDL § 285(2).
 
-   v. radioactive materials that are source, special nuclear, or by-product material as defined by the Atomic Energy Act of 1954, as amended, 42 U.S.C. § 2011, et seq.;
+   (3) Perfecting hardship applications.
 
-   vi. materials subject to in-situ mining techniques which are not removed from the ground as part of the extraction process;
+      (i) An application shall only be accepted for a building with a current interim multiple dwelling registration.
 
-   vii. hazardous waste as defined in section 27-0901 of the environmental conservation law; and
+      (ii) (A) The application shall be in a form acceptable to the Loft Board and shall be consistent with the requirements of these regulations, the Board's regulations relating to applications to the Board, 29 RCNY §§ 1-06(a) to (j), and fees, 29 RCNY § 2-11. The applicant must: (a) indicate the basis for the application, (b) identify the residential units for which exemption is sought, and (c) state the specific claims for exemption for the building or portion of the building.
 
-   viii. regulated medical waste or other medical waste as described in section 16-120.1 of this title. "Source separation" means the dividing of solid waste into some or all of its component parts at the point of generation. "Yard waste" means leaves, grass clippings, garden debris, and vegetative residue that is recognizable as part of a plant or vegetable, small or chipped branches, and similar material.
+         (B) Deadlines for Interim Multiple Dwellings Subject to Article 7-C Pursuant to MDL § 281(1). The applicant must provide all information necessary or appropriate by no later than October 31, 1983 in order for the application to be considered. An additional time period of no more than sixty days for the submission of all required documentation in support of the completed application may be requested and will be granted if good cause is shown. Where an applicant is unable to file all necessary and appropriate information by October 31, 1983, due to the absence of legalization regulations, but has filed submissions and paid the filing fee such applicant may request additional time to provide all necessary and appropriate information within 30 days of the effective date or legalization regulations adopted by the Loft Board.
 
+         (C) Deadlines for Interim Multiple Dwellings Subject to Article 7-C Pursuant to MDL § 281(4). Notwithstanding the foregoing, an applicant who timely filed his application on or before April 27, 1988 for a hardship exemption involving an interim multiple dwelling subject to coverage under Article 7-C pursuant to MDL § 281(4) must provide all additional information necessary or appropriate in support of such application on or before February 21, 1993.
 
+         (D) Deadlines for Interim Multiple Dwellings Subject to Article 7-C Pursuant to MDL § 281(5). Notwithstanding the foregoing, an applicant who timely filed its hardship exemption application involving an interim multiple dwelling subject to coverage under Article 7-C pursuant to MDL § 281(5) must provide information to substantiate the hardship exemption claim at the time of filing, except as provided 29 RCNY § 2-03(a)(3)(iii).
 
+      (iii) In processing the application, the Loft Board may demand such additional information as it deems necessary or appropriate in making a determination. Failure of the applicant to provide any such information required by the Loft Board may result in the denial of the application.
 
+      (iv) Applications for exemption shall not be considered unless the owner has also filed an alteration application with the Department of Buildings. A copy of such alteration application must accompany each hardship application including two copies of the submitted plans and such additional copies of the plans as the Board may require. The Loft Board may vote to waive the requirement that an alteration application be filed and proceed with the consideration of the application for exemption. The approval of such a waiver shall apply only to the consideration of a hardship application and shall in no way affect the owner's obligation to file an alteration application for all other purposes as required by § 284 of the Multiple Dwelling Law. In deciding whether to waive the requirement that an alteration application be filed, the board will consider the following criteria:
 
+         (A) whether the information that would be contained in the alteration application is already available in other records or could be made available in an alternate form in other records or could be made available in an alternate form acceptable to the Board; and
 
+         (B) whether hardship can be proved without the information contained in the alteration application.
 
-**Subchapter 2: Citywide Recycling Program**
+      (v) Processing of an owner's application for exemption shall be in accordance with the rules regarding applications to the Board (Regulations for Internal Board Procedures – 29 RCNY § 1-06(a) to (j), except as set forth below. These rules provide for the service of the application on all affected parties, opportunity to answer in writing, and the conducting of informal conferences and administrative hearings. If a perfected application appears to the staff to be well rounded, there shall be conducted an administrative hearing following notice as provided pursuant to Internal Board Procedures at least sixty days in advance of the hearing date.
 
+(b) Processing of applications for exemption due to hardship. 
 
+   (1) Basis for application. The basis for applying for an exemption due to hardship is that compliance with Article 7-C of the Multiple Dwelling Law in obtaining a legal residential certificate of occupancy would cause hardship for one of the following two reasons.
 
-*§ 16-304 Department-disposed of solid waste. [Repealed]* ::
+      (i) Adverse impact. Compliance would cause an unreasonably adverse impact on a non-residential conforming use occupant existing on:
 
+         (A) June 21, 1982 for a building subject to coverage under Article 7-C pursuant to MDL § 281(1),
 
-a. 1. The following recycling percentage goals are established for the recycling of department-managed solid waste:
+         (B) July 27, 1987 for a building which is subject to coverage under Article 7-C pursuant to MDL § 281(4),
 
-      i. by July first, two thousand eleven, sixteen percent of department-managed solid waste;
+         (C) June 21, 2010 for an IMD covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapters 135 or 147 of the Laws of 2010, or
 
-      ii. by July first, two thousand thirteen, nineteen percent of department-managed solid waste;
+         (D) June 1, 2012 for an IMD covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 4 of the Laws of 2013.
 
-      iii. by July first, two thousand fourteen, twenty-one percent of department-managed solid waste;
+      (ii) Infeasible costs. The costs of compliance would render legal residential conversion financially infeasible.
 
-      iv. by July first, two thousand sixteen, twenty-four percent of department-managed solid waste;
+   (2) Appropriate tests.
 
-      v. by July first, two thousand eighteen, twenty-seven percent of department-managed solid waste;
+      (i) Adverse impact. The test for unreasonably adverse impact on a non-residential conforming use occupant existing on the applicable date referenced in 29 RCNY § 2-03(b)(1)(i) shall be whether legal residential conversion would necessitate displacement of such occupant. An owner making a claim on this basis will be required to produce as part of the application, evidence to substantiate the claim. Displacement of non-residential conforming use occupants may include instances where:
 
-      vi. by July first, two thousand nineteen, thirty percent of department-managed solid waste; and
+         (A) all or a critical portion, adversely affecting the conduct of business, of the space of an existing non-residential conforming use occupant would be lost as a result of the residential conversion;
 
-      vii. by July first, two thousand twenty, thirty-three percent of department-managed solid waste.
+         (B) the nature of an existing non-residential conforming use would render legal residential conversion to be infeasible or illegal by causing an imminent peril to the health and safety of residential occupants;
 
-   2. In addition, the following recycling goals are established for curbside and containerized waste collected by the department:
+         (C) the result of the legal residential conversion would be unreasonably disruptive to the business of the non-residential conforming use; or
 
-      i. By July first, two thousand eleven, sixteen percent of curbside and containerized waste collected by the department;
+         (D) the inability of an owner who purchased the building before June 21, 1982, or before July 27, 1987 for a building subject to coverage under Article 7-C pursuant to MDL § 281(4), to expand his/her/its business which is an existing non-residential conforming use due to legal residential conversion would result in the elimination of existing jobs.
 
-      ii. By July first, two thousand thirteen, eighteen percent of curbside and containerized waste collected by the department;
+      (ii) Infeasible costs. The test for cost infeasibility shall be that the owner would be unable to attain a reasonable return on his/her/its investment; not maximum return on investment.
 
-      iii. By July first, two thousand fourteen, nineteen percent of curbside and containerized waste collected by the department;
+         (A) Reasonable rate of return on the owner's investment shall be defined as a net annual return of five percent or more where net annual return is the percentage amount by which the annual earned income from the building exceeds the annual operating expenses of the building.
 
-      iv. By July first, two thousand sixteen, twenty-one percent of curbside and containerized waste collected by the department;
+         (B) Earned income shall mean the maximum annual collectible rent for the building, including any and all escalators, for both residential and non-residential units, plus miscellaneous income from all other sources in the building including vending machines, and sign rentals. The Loft Board shall impute a rental value for vacant units or units occupied either residentially or non-residentially by the landlord, any member of the landlord's family or an employee of the landlord, at the fair market value for the space, or if subject to Article 7-C at the maximum legal rent.
 
-      v. By July first, two thousand eighteen, twenty-three percent of curbside and containerized waste collected by the department;
+         (C) Operating expenses shall consist of the actual, reasonable cost of: fuel, labor, utilities, taxes other than income or corporate franchise taxes, fees, permits, necessary contracted services and non-capital repairs, insurance, parts and supplies, management fees and other administrative costs and interest on a bona fide mortgage. Criteria to be considered in determining a bona fide mortgage other than an institutional mortgage shall include: condition of the property; location of the property, the existing mortgage market at the time the mortgage is placed, the term of the mortgage, the amortization rate, the principal amount of the mortgage, security and other terms and conditions of the mortgage.
 
-      vi. By July first, two thousand nineteen, twenty-four percent of curbside and containerized waste collected by the department; and
+         (D) (a) No application shall be approved unless the owner's equity in such building exceeds five percent of:
 
-      vii. by July first, two thousand twenty, twenty-five percent of curbside and containerized waste collected by the department.
+               (1) the arms length purchase price of the property;
 
-b. The commissioner shall adopt and implement rules designating at least six recyclable materials, including plastics to the extent required in subdivision c of this section and yard waste to the extent required in section 16-308 of this chapter, contained in department-managed solid waste and requiring households to source separate such designated materials.
+               (2) the cost of any capital improvements for which the owner has not collected or will not collect a surcharge;
 
-c. 1. Prior to commencing delivery of department-managed recyclable materials to the designated recycling processing facility at the South Brooklyn Marine Terminal, the commissioner shall designate as recyclable materials, and require the source separation of, rigid plastic containers.
+               (3) any repayment of principal of any mortgage or loan used to finance the purchase of the property or, any capital improvements for which the owner has not collected or will not collect a surcharge; and
 
-   2. If the commissioner, in his or her discretion, determines that the cost to the city of recycling rigid plastic containers required to be designated as recyclable materials pursuant to paragraph one of this subdivision is not reasonable in comparison with the cost of recycling only metal, glass and plastic that have been designated as recyclable materials as of the effective date of the local law that added this subdivision, the commissioner shall within ten business days notify and provide documentation to the council of the factors relied upon to make such determination and shall not be required to designate any such rigid plastic containers as recyclable materials.
+               (4) any increase in the equalized assessed value of the property which occurred subsequent to the first valuation of the property after purchase by the owner.
 
-   3. If the commissioner determines that the cost to the city of recycling rigid plastic containers is not reasonable in comparison with the cost of recycling only metal, glass and plastic that have been designated as recyclable materials as of the effective date of the local law that added this subdivision, the commissioner shall annually reevaluate the cost to the city of designating such rigid plastic containers as recyclable materials, and shall annually make a new determination as to whether the cost of designating such containers as recyclable materials is reasonable in comparison with the cost of recycling only metal, glass and plastic that have been designated as recyclable materials as of the effective date of the local law that added this subdivision and shall report such evaluations to the council as part of the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter. The department shall not promulgate rules designating rigid plastic containers as recyclable materials, and need not conduct outreach or education relating thereto if, pursuant to paragraph two of this subdivision, the commissioner determines that the cost to the city of recycling rigid plastic containers is not reasonable in comparison with the cost of recycling only metal, glass and plastic that have been designated as recyclable materials as of the effective date of the local law that added this subdivision.
+            (b) For the purposes of this paragraph, owner's equity shall mean the sum of:
 
-   4. Immediately following the promulgation of rules designating rigid plastic containers as recyclable materials, the department shall undertake outreach and education, in cooperation with any other agency or entity designated for that purpose by the commissioner, to inform residents of such new designation and to provide instruction on compliance with the requirements of this subdivision and the rules promulgated pursuant thereto.
+               (1) the purchase price of the property less the principal of any mortgage or loan used to finance the purchase of the property,
 
-d. The commissioner shall adopt and implement rules establishing procedures requiring the placement of the designated materials at the curbside, in specialized containers, or in any other manner the commissioner determines, to facilitate the collection of such materials in a manner that enables them to be recycled. Under such rules, no person shall be liable for incorrectly placing a non-designated rigid plastic container in the recycling stream.
+               (2) the cost of any capital improvement for which the owner has not collected or will not collect a surcharge less the principal of any mortgage or loan used to finance said improvement,
 
-e. Where the department provides solid waste collection services to a building containing at least four and no more than eight dwelling units, the commissioner shall adopt and implement rules requiring the owner, net lessee or person in charge of such building to:
+               (3) any repayment of the principal of any mortgage or loan used to finance the purchase of the property or any capital improvement for which the owner has not collected or will not collect a surcharge, and
 
-   1. provide for the residents, where practicable, a designated area and, where appropriate, containers in which to store the source separated or other designated recyclable materials to be collected by the department; and
+               (4) any increase in the equalized assessed value of the property which occurred subsequent to the first valuation of the property after purchase by the owner.
 
-   2. inform all residents of the requirements of this chapter and the rules promulgated pursuant thereto by, at a minimum, posting instructions on source separation in or near the designated recycling area and making available to each resident at the inception of a lease, where applicable, a department-issued guide to recycling, which shall be made available to the owner, net lessee or person in charge of such building by the department pursuant to section 16-315 of this chapter in print form or on the department's website, or in an alternative guide containing similar information to the guide required by section 16-315 of this chapter. If reasonably accessible space for the storage of source separated or other designated recyclable materials is not available in such building, and such space is available behind the building's property line, such space behind the property line may be designated as the area for the storage of source separated or other designated recyclable materials. If no such space is available, the owner, net lessee or person in charge of such building shall post instructions on recycling and source separation in or near a designated area that is visible to all residents in the building. With respect to solid waste generated by households in the aforesaid buildings, the obligations of an owner, net lessee or person in charge of such building under this chapter shall be limited to those set forth in this subdivision and subdivisions d and g of this section or rules promulgated pursuant to such subdivisions.
+         (E) An owner of a building subject to Article 7-C pursuant to MDL § 281(1) making a hardship exemption claim based on infeasibility will be required to produce, as part of the application, evidence, subject to audit, based on a representative consecutive 12 month period beginning no earlier than January 1, 1982, or, for a building subject to coverage under Article 7-C pursuant to MDL § 281(4), no earlier than January 1, 1987, of the current net annual return for the building and the projected net annual return following legalization including, but not limited to, current and projected earned income, operating expenses and equity information.
 
-f. Where the department provides solid waste collection services to a building containing nine or more dwelling units, the commissioner shall adopt and implement rules requiring the owner, net lessee or person in charge of such building to:
+         (F) In order to bring a hardship exemption claim based on infeasibility, the owner of an interim multiple dwelling covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapters 135 or 147 of the Laws of 2010 must include in the application evidence, subject to audit, of the current net annual return for the building and the projected net annual return following legalization including, but not limited to, current and projected earned income, operating expenses and equity information. Such evidence must be based on a consecutive 12 month period beginning no earlier than January 1, 2010.
 
-   1. provide for the residents a designated area and, where appropriate, containers in which to store the source separated or other designated recyclable materials to be collected by the department;
+         (G) In order to bring a hardship exemption claim based on infeasibility, the owner of an interim multiple dwelling covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 4 of the Laws of 2013 must include in the application evidence, subject to audit, of the current net annual return for the building and the projected net annual return following legalization including, but not limited to, current and projected earned income, operating expenses and equity information. Such evidence must be based on a consecutive 12 month period beginning no earlier than January 1, 2012.
 
-   2. inform all residents of the requirements of this chapter and the rules promulgated pursuant thereto by, at a minimum, posting instructions on source separation in or near the designated recycling area, and making available to each resident at the inception of a lease, a department-issued guide to recycling, which shall be made available to the owner, net lessee or person in charge of such building by the department pursuant to section 16-315 of this chapter in print form or on the department's website, or in an alternative guide containing similar information to the guide required by section 16-315 of this chapter; and
+         (H) Inability to make a reasonable return on investment may include situations where the necessary and reasonable costs of compliance will cause residential units to rent at above prevailing market levels.
 
-   3. remove non-designated materials from the containers of designated source separated recyclable materials before such containers are placed at the curbside for collection and ensure that the designated materials are placed at the curbside in the manner prescribed by the department. With respect to solid waste generated by households in the aforesaid buildings, the obligations of an owner, net lessee or person in charge of such building under this chapter shall be limited to those set forth in this subdivision and subdivisions d and g of this section or rules promulgated pursuant to such subdivisions.
+   (3) Processing guidelines.
 
-   g. The commissioner shall adopt and implement rules for any building containing four or more dwelling units in which the amount of designated materials placed out for collection is significantly less than what can reasonably be expected from such building. These rules shall require residential generators, including tenants, owners, net lessees or persons in charge of such building to use transparent bags or such other means of disposal the commissioner deems appropriate to dispose of solid waste other than the designated recyclable materials. Upon request of the owner, net lessee or person in charge of such building, and if the commissioner determines that such owner, net lessee or person in charge of such building has complied with this subdivision, subdivision d of this section and, as applicable, subdivision e or subdivision f of this section or rules promulgated pursuant to such subdivisions and that the amount of designated materials placed out for collection remains significantly less than what can reasonably be expected from such building, the department may develop a schedule to conduct random inspections to facilitate compliance with the provisions of this chapter by tenants of such building, provided that lawful inspections may occur at reasonable times without notice to ensure compliance by the tenants, owner, net lessee or person in charge of such building.
+      (i) Applications for exemption due to hardship will not be granted if the result of self-created hardship.
 
-h. 1. In calculating the extent to which the department has met the recycling percentage goals set forth in paragraph one of subdivision a of this section, the department shall include in its calculations all curbside and institutional recycling it collects, including materials collected from households, schools, not-for-profit institutions and city agencies, and all recyclable materials collected as part of the public space recycling program pursuant to section 16-310 of this chapter, and may include yard waste collected pursuant to section 16-308 of this chapter and any other material collected for composting pursuant to this chapter, Christmas trees collected pursuant to section 16-309 of this chapter, clothing and textiles donated or collected pursuant to section 16-310.1 of this chapter, household hazardous waste diverted pursuant to section 16-310.3 of this chapter, rechargeable batteries collected pursuant to chapter four of this title, beverage containers returned within the city pursuant to title ten of article twenty-seven of the environmental conservation law, electronic waste collected within the city or otherwise diverted from the city's waste stream, including such waste collected or diverted pursuant to title twenty-six of article twenty-seven of the environmental conservation law, and plastic bags collected within the city or otherwise diverted from the city's waste stream, including such plastic bags collected or diverted pursuant to title twenty seven of article twenty seven of the environmental conservation law. Only recyclable materials specifically enumerated in this paragraph shall be counted for purposes of calculating the extent to which the department has met the recycling percentage goals set forth in paragraph one of subdivision a of this section.
+      (ii) Applications for exemption due to hardship will not be granted if compliance can be reasonably achieved through:
 
-   2. In calculating the extent to which the department has met the recycling percentage goals set forth in paragraph two of subdivision a of this section, the department shall include in its calculations all curbside and institutional recycling it collects, including materials collected from households, schools, not-for-profit institutions and city agencies, and all recyclable materials collected as part of the public space recycling program pursuant to section 16-310 of this chapter.
+         (A) alteration of units,
 
-   3. In calculating the extent to which the department has met the recycling percentage goals set forth in paragraphs one and two of subdivision a of this section, the department shall not include recycling of abandoned vehicles or recycling from lot cleaning operations, asphalt and mill tailings, construction and demolition debris or other commercial recycling programs. The commissioner shall not designate any such materials as recyclable materials under this section for purposes of calculating the extent to which the department has met such recycling percentage goals.
+         (B) relocation of tenants (residential) or non-residential conforming use) to vacant space within the building,
 
-   4. In calculating the percent of the department-managed solid waste stream recycled in connection with the percentage goals set forth in paragraph one of subdivision a of this section, the department shall ensure that any quantity of material counted as recycled must be fully included in the calculation of the city's total department-managed solid waste stream.
+         (C) re-design of space, or
 
-   5. All data used to make calculations pursuant to paragraphs one and two of this subdivision shall be made available on the department's website in raw form disaggregated by material type and using a non-proprietary format on a monthly basis, or, if such data is not generated by the department, within one month from the date that the department receives reports of such information.
+         (D) application for a non-use related variance, special permit, minor modification or administrative certification. Owners filing hardship applications shall be required to make a reasonable attempt to cooperate with the tenants to achieve compliance through the methods listed above.
 
-i. In the event that the department does not meet any recycling percentage goal set forth in paragraphs one or two of subdivision a of this section by the dates specified therein, the department shall, within sixty days of the date for meeting such goal, expand recycling outreach and education and shall take such other appropriate measures including, but not limited to, directing such outreach and education to the neighborhoods and community districts in which recycling diversion rates fall below the median city recycling diversion rate and consulting with the council to explore additional measures to meet the recycling percentage goals set forth in such subdivision. In expanding recycling outreach and education, the department may work with other agencies or entities designated for that purpose by the commissioner.
+      (iii) In considering such applications, the Loft Board shall require the owner and tenants to consider constructive suggestions for alternatives to the proposed legalization plan, which would allow for the minimum vacating of residential occupancy, without adversely affecting existing non-residential conforming uses.
 
-j. In the event that the department is unable to achieve two consecutive recycling percentage goals set forth in paragraphs one and two of subdivision a of this section by the dates specified therein, in addition to the requirements of subdivision i of this section, the commissioner shall retain a special advisor, who shall be selected by the mayor and the speaker, provided that the commissioner need not retain such special advisor more than once every three years. Within one hundred twenty days of such retention, such adviser shall submit a report to the mayor and council recommending additional measures that may be taken by the city following such report in order to meet such recycling percentage goals.
+(c) Granting of applications.
 
-k. 1. Beginning on March first, two thousand eleven and annually thereafter, the department shall submit to the mayor and the council and make available on its website, an annual department recycling report which shall include provisions addressing: the extent to which the department has met the recycling percentage goals set forth in paragraphs one and two of subdivision a of this section and including a description of the methodology used to arrive at its recycling percentages; city agency recycling pursuant to section 16-307 of this chapter; department of education recycling pursuant to section 16-307.1 of this chapter; yard waste composting pursuant to section 16-308 of this chapter; Christmas tree composting or recycling pursuant to section 16-309 of this chapter; the public space recycling program pursuant to section 16-310 of this chapter; the clothing and textiles collection program pursuant to section 16-310.1 of this chapter; household hazardous waste collected pursuant to section 16-310.3 of this chapter or otherwise collected by the department; and any composting capacity determinations or food waste composting pilot programs pursuant to section 16-316.2 of this chapter.
+   (1) In resolving applications for exemption due to hardship, the Loft Board shall grant only the minimum relief necessary to relieve any hardship.
 
-   2. Beginning the year that the department commences delivering department-managed recyclable materials to a designated recycling processing facility, the department shall annually report to the council the cost to the city of designating as recyclable materials any rigid plastic containers not previously designated by the commissioner pursuant to subdivision c of this section, and the then-current market value of any such materials.
+   (2) If the Loft Board approves an application for exemption due to hardship, the building or portion thereof for which the application is approved shall be exempt from Article 7-C of the Multiple Dwelling Law and may be converted to non-residential uses which must be in conformance with the zoning resolution and compatible with existing residential use. As a condition of approval of such application, the owner shall file with the Loft Board a certified copy of an irrevocable recorded covenant in form satisfactory to the Loft Board, enforceable by the City of New York for fifteen (15) years from the date of the recording, that the building or portion thereof for which the hardship exemption has been granted will not be re-converted to residential uses during that time. When the Loft Board approves such an application, the owner will be notified of the Board's intent to approve the application and will be afforded an opportunity of no more than 90 days to file the required covenant. The Loft Board will issue its final order approving the application following receipt of the certified copy of the covenant. If proof of the filing of the required covenant is not filed with the Loft Board within 90 days, the application will be denied and the owner will be required to comply with Article 7-C of the Multiple Dwelling Law.
 
+   (3) If the hardship exemption is granted for a portion of the building, the IMD status for such building and the remaining residential units, covered under Article 7-C of the Multiple Dwelling Law in such building, shall not be affected, even if there are less than three qualified units remaining.
 
+   (4) In approving an exemption application due to hardship, the Loft Board may fix reasonable terms and conditions regarding the owner's payment to the residential occupant of any reasonable moving costs and the fair market value of any improvements made or purchased by the residential occupant, and a reasonable time period for relocation, not to exceed one year.
 
 
 
 
-*§ 16-305.1 Weekly collection of designated recyclable materials.* ::
 
 
-a. Weekly collection of designated recyclable materials shall be maintained in all local service delivery districts.
+*§ 2-04 Minimum Housing Maintenance Standards.* ::
 
-b. Effective July first, two thousand three, and notwithstanding any inconsistent provision of this chapter, the department shall be authorized, by written order of the commissioner, to implement and maintain alternate week collection of designated recyclable materials in all local service delivery districts, provided that the department may, by written order of the commissioner, provide for more frequent collection of designated recyclable materials in designated local service delivery districts. Any such written order of the commissioner implementing alternate week collection shall expire no later than March thirty-first, two thousand four.
 
-c. For purposes of this section "designated recyclable materials" shall mean solid waste that has been designated by the commissioner as recyclable pursuant to section 16-305 or section 16-307 of this chapter.
+(a) Definitions. As used in these rules, the below terms have the following meanings:
 
-d. Nothing in this section shall be construed to require collection of designated recyclable materials in such parts of the city or during such times of the year that such materials are not otherwise collected.
+   Landlord means the owner of an interim multiple dwelling ("IMD"), the lessee of a whole building, part of which contains IMD units, or the agent, executor, assignee of rents, receiver, trustee, or other person having direct or indirect control of such dwelling.
 
+   Residential occupant means an occupant of an IMD unit qualified for protection under Article 7-C of the New York State Multiple Dwelling Law ("MDL").
 
+(b) Basic services. Landlords of IMD buildings must provide the following minimum housing maintenance services to residential occupants qualified for the protection of Article 7-C of the MDL:
 
+   (1) Water supply and drainage. The landlord of an IMD building must provide and maintain a supply of pure and wholesome water at all times sufficient in quantity and pressure to provide for sanitary maintenance. The landlord must properly maintain and keep in good repair the building's plumbing and drainage system. Where water mains are available in the street, every residentially occupied IMD unit must be supplied with water from those mains. The landlord must keep the water free from connection to any unsafe water supply or from cross-connections to any drainage system. Where a landlord of an IMD building installed or installs plumbing fixtures to residentially occupied IMD units, he or she must maintain same in good working order.
 
+   (2) Heat.
 
+      (i) Except as provided below, where there is a central heating system in an IMD building, the landlord must provide every residentially-occupied IMD unit with heat from that system. As illustrated in the chart below, during the period from October 1 through May 31, centrally supplied heat shall be provided so as to maintain every portion of the dwelling used or occupied for living purposes, between the hours of 6:00 AM and 10:00 PM at a temperature of at least 68 degrees Fahrenheit whenever the outside temperature falls below 55 degrees, and between the hours of 10:00 PM and 6:00 AM at a temperature of at least 55 degrees Fahrenheit whenever the outside temperature falls below 40 degrees Fahrenheit.
 
-*§ 16-306 Private carter-collected waste.* ::
+      (ii) Where the landlord provides a system of gas or electric heating for a residentially-occupied IMD unit, that system may be utilized instead of a central heating system in the instances where a central heating system is lacking, or may otherwise be used to supplement a central heating system. As illustrated in the chart below, during the period from October 1 through May 31, heat from individual systems of gas or electric heat where the landlord pays for operation shall be provided so as to maintain every portion of the residentially-occupied dwelling used or occupied for living purposes, between the hours of 6:00 AM and 10:00 PM, at a temperature of at least 68 degrees Fahrenheit whenever the outside temperature falls below 55 degrees Fahrenheit, and between the hours of 10:00 PM and 6:00 AM at a temperature of at least 55 degrees Fahrenheit whenever the outside temperature falls below 40 degrees Fahrenheit. 
 
+ 
 
-a. The commissioner shall adopt and implement rules designating recyclable materials that constitute in the aggregate at least one-half of all solid waste collected by private carters, and additional materials if the commissioner determines that economic markets exist for them. Pursuant to subdivision b of this section, such rules shall require generators of private carter-collected waste to source separate some or all of the designated materials and to arrange for lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters of such source separated materials. With regard to designated materials that are not required by such rules to be source separated, generators of private carter-collected waste may source separate these designated materials and, in any event, shall arrange for their lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters. If a generator or private carter-collected waste has source separated the designated materials in accordance with the rules and arranged for the lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters of such source separated materials and, with regard to designated materials that are not required by such rules to be source separated, arranged for lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters, such arrangement shall constitute an affirmative defense to any proceeding brought against the generator pursuant to section 16-324 of this chapter.
 
-b. The rules promulgated pursuant to subdivision a of this section shall require that generators of waste collected by businesses required to be licensed pursuant to section 16-505 of this code source separate the designated materials in such manner and to such extent as the commissioner determines to be necessary to minimize contamination and maximize the marketability of such materials. However, in promulgating such rules the commissioner shall not require source separation of a material unless the commissioner has determined that an economic market exists for such material. For the purpose of this section, the term "economic market" refers to instances in which the full avoided costs of proper collection, transportation and disposal of source separated materials are equal to or greater than the cost of collection, transportation and sale of said materials less the amount received from the sale of said materials. The New York city business integrity commission shall adopt and implement rules requiring businesses licensed to remove, collect or dispose of trade waste to provide for the collection of, and ensure the continued separation of, designated materials that have been source separated, provide for the separation of all other designated materials, and provide for recycling of all the designated materials. Rules promulgated by the business integrity commission pursuant to this subdivision shall be enforced in the manner provided in section 16-517 of this code and violations of such rules shall be subject to the penalties provided in subdivision a of section 16-515 of this code for violation of the provisions of chapter one of title 16-A of this code. In addition, the commissioner shall have the authority to issue notices of violation for any violation of such rule and such notices of violation shall be returnable in a civil action brought in the name of the commissioner before the environmental control board which shall impose a penalty not to exceed ten thousand dollars for each such violation.
+.. list-table::
+    :header-rows: 1
 
-c. The department shall complete a study of commercial recycling in the city no later than January first, two thousand twelve. Such commercial recycling study shall focus on the putrescible portion of the commercial waste stream, and shall include, but need not be limited to, the following: (i) an integration of all data on commercial waste in the city collected and transported through transfer stations and recycling processors; (ii) an assessment of current practices, operations and compliance with applicable local laws and rules, consistent with the scope of study set forth in the 2006 Solid Waste Management Plan; (iii) estimates of waste composition and recycling diversion rates from research conducted with respect to other jurisdictions; (iv) a computer-based model to measure the amount and composition of waste generated by different commercial sectors; (v) recommendations of methods to encourage waste prevention, reuse, recycling and composting for each of the commercial sectors studied, including any recommended changes to applicable law; and (vi) an assessment of the efficiency of the transportation of commercial waste within the commercial system by, among other things, mapping and monitoring routes along which commercial waste and recycling trucks travel, including long-haul carriers within and outside the city. Following completion of the commercial recycling study, the commissioner shall determine whether any additional studies are necessary in order to improve commercial recycling practices in the city and shall promptly report such determination to the mayor and the council.
+    * - Between the hours
+      - If Temperature Outside
+      - Landlord Must Provide Central Heat
+    * - 6:00 A.M. - 10:00 P.M.
+      - Below 55°F
+      - At least 68°F 
+    * - 10:00 P.M. - 6:00 A.M.
+      - Below 40°F
+      - At least 55°F
+~
 
 
 
+ 
 
+      (iii) To meet his or her obligations to provide heat, the landlord may install individual heating systems within the IMD units to supply all the heat required pursuant to these rules or to supplement the heat supplied by an existing building system, provided that the installation and system are approved for residential use by appropriate City agencies.
 
+      (iv) The landlord must not object to the installation by a residential occupant of an individual heating system, provided that:
 
-*§ 16-306.1 Organic waste.* ::
+         (A) The installation does not conflict with the landlord's legalization alteration plans approved by the Department of Buildings or certified by the Loft Board;
 
+         (B) The installation and system are approved for residential use by the appropriate City agencies; and
 
-a. When used in this section or section 16-324 of this chapter:
+         (C) The residential occupant has requested in writing that the landlord install the system and the landlord has refused to comply with the request within 45 days from the date of the request.
 
-   "Arena" means an establishment or facility that hosts live sporting or entertainment events.
+      (v) The landlord must maintain the IMD building's central heating systems and the IMD building's gas or electric heating fixtures and systems supplied to residentially occupied IMD units in proper working order unless the parties otherwise agreed in writing that the residential occupant(s) will be responsible for maintenance of the gas or electric heating fixtures and systems used to heat his or her unit.
 
-   "Capacity" means the combined capacity of facilities that are capable of accepting and processing, consistent with the terms of this section and exceeding a nominal amount, organic waste expected to be generated by and collected from designated covered establishments.
+   (3) Hot water. The landlord must, at all times between the hours of 6:00 a.m. and midnight, supply every bath, shower, washbasin and sink with hot water at a constant minimum temperature of 120 degrees Fahrenheit in all residentially occupied IMD units from a central source of supply or from individual gas or electric hot water heaters, except where such individual heaters have been previously installed, and where responsibility for operation has been assumed by the residential occupant.
 
-   "Catering establishment" means any room, place or space in the city, which is used, leased or hired out for the business of serving food or beverages for a particular function, occasion or event, to which the public is not invited or admitted and wherein music or entertainment is permitted.
+   (4) Electricity. The landlord must maintain electrical service to all residentially occupied IMD units at all times in order to allow the units to obtain electric power. The intention of this standard is to afford electrical service to all residentially occupied IMD units.
 
-   "Covered establishment" means:
+   (5) Gas. Where gas service is currently provided to residentially occupied IMD units, the landlord must maintain the service in good working order. The landlord must not unreasonably withhold his or her cooperation if the residential occupant wishes to install gas service at the residential occupant's cost and expense.
 
-      1. any location at which a food manufacturer has a floor area of at least twenty-five thousand square feet;
+   (6) Smoke and carbon monoxide detectors. By no later than thirty days after the date of the Loft Board order granting Article 7-C coverage, coverage pursuant to a registration from the owner or a finding of coverage by a court of competent jurisdiction, all residentially occupied IMD units must be equipped with operational smoke and carbon monoxide detecting devices, either battery operated or receiving their primary power from the building's electrical service, approved by the appropriate city agencies. If smoke or carbon monoxide detecting devices are not installed within 30 calendar days of the granting of Article 7-C coverage residential occupants are authorized to install them on their own. Where a battery operated smoke or carbon monoxide detecting device is provided and installed by the landlord, the residential occupant of that unit must reimburse the landlord a maximum of 10 dollars for each device. The residential occupant will have one year from the date of installation to reimburse the landlord. All sections of the Housing Maintenance Code relating to smoke and carbon monoxide detectors apply to IMD buildings.
 
-      2. any location at which a food wholesaler has a floor area of at least twenty thousand square feet;
+   (7) Public lighting. The landlord must provide and maintain electric lighting fixtures for every public hall, stair, fire stair and fire tower on every floor and must have these required lights in all such fixtures turned on at sunset every day and remain on until sunrise the following day. Where natural light is not adequate, the landlord must provide and maintain electrical lighting fixtures for every public hall, stair, fire stair and fire tower on every floor on a 24-hour a day, 7 day a week basis.
 
-      3. any location at which a retail food store has a floor area of at least ten thousand square feet, or any retail food store that is part of a chain of three or more retail food stores that have a combined floor area space of at least ten thousand square feet and that operate under common ownership or control and receive waste collection from the same private carter;
+   (8) Entrance door security. The landlord must properly maintain all existing entrance door security and at a minimum at least one door at the entrance to each building and each unit must have a working lock. All tenants must be provided with keys to all entrance door locks.
 
-      4. arenas or stadiums having a seating capacity of at least fifteen thousand persons;
+   (9) Elevator service. The landlord must not diminish nor permit the diminution of legal freight or passenger elevator service and must maintain this service in good working order.
 
-      5. any food service establishment that is part of a chain of two or more food service establishments that have a combined floor area of at least eight thousand square feet and that: (i) operate under common ownership or control; (ii) are individually franchised outlets of a parent business; or (iii) do business under the same corporate name, provided that the requirements of subparagraph (i) of paragraph 1 of subdivision c of this section shall not apply to any such food service establishment when the building or premises in which such food service establishment is located is in compliance with such requirement pursuant to paragraph seven of this definition;
+   (10) Window guards.
 
-      6. any location at which a food service establishment has a floor area of at least seven thousand square feet, provided that the requirements of subparagraph (i) of paragraph 1 of subdivision c of this section shall not apply to any such location when the building or premises containing such location is in compliance with such requirement pursuant to paragraph seven of this definition;
+      (i) The landlord must provide, install, and maintain, a window guard, of a type deemed acceptable by the New York City Department of Health and Mental Hygiene or any succeeding regulatory agency, and install the window guards pursuant to specifications provided by the New York City Department of Health and Mental Hygiene or any succeeding regulatory agency, on the windows of each unit in which a child or children years of age or younger reside, and on the windows, if any, in the public halls of an IMD building in which these children reside, except that this section does not apply to windows giving access to fire escapes or to a window on the first floor that is a required means of egress from the IMD unit. It is the duty of each landlord to ascertain whether a child 10 years of age or younger resides in the residential units in the IMD building.
 
-      7. any building or premises where food service establishments having a total combined floor area of at least eight thousand square feet are located and where the owner of the building or premises, or its agent, arranges or contracts with a private carter for the removal of waste from food service establishments having no less than eight thousand square feet of such building or premises, provided that any such food service establishments shall comply with the requirements of subparagraphs (ii), (iii) and (iv) of paragraph 1 of subdivision c of this section, but such requirements shall not apply to the owner or agent of any such building or premises;
+      (ii) No residential occupant of an IMD unit, or other person may obstruct or interfere with the installation of window guards required by subsection (i) above, nor may any person remove the window guards.
 
-      8. any location at which a food preparation establishment has a floor area of at least six thousand square feet;
+      (iii) No landlord may refuse a written request of a residential occupant of an IMD unit, to install window guards regardless of whether it is required by subsection (i), except that this section does not apply to windows giving access to fire escapes or to windows on the first floor that are a required means of egress from an IMD unit.
 
-      9. any catering establishment that is required to provide for the removal of waste pursuant to section 16-116 of this code whenever the anticipated attendance for any particular event is greater than one hundred persons;
+      (iv) The residential occupant of an IMD unit in which window guards are provided and installed must reimburse the landlord as follows: the residential occupant's share of the entire costs may be determined by adding:
 
-      10. any food service establishments located within and providing food to one or more hotels totaling at least one hundred sleeping rooms; and
+         (A) the residential occupant's pro-rata share of the full cost of window guards in the public areas (obtained by dividing said cost by the total number of residential units in the building); and
 
-      11. sponsors of a temporary public event.
+         (B) the full cost of the window guards (including installation charges) installed within the residential occupant's unit. The cost may not exceed $16.00 per window guard.
 
-   "Designated area" means within a one hundred mile radius of the city.
+      (v) The residential occupants of the remaining units in the building must reimburse the landlord for the remainder of the cost of window guards installed in the public areas, based on their pro-rata shares of the full cost of the window guards in the public areas, as defined in subparagraph (i), above. All reimbursement payments must be payable within days of installation.
 
-   "Food manufacturer" means any establishment that processes or fabricates food products from raw materials for commercial purposes, provided that it shall not include any establishment engaged solely in the warehousing, distribution or retail sale of product.
+(c) Additional lease agreement services. In addition to those services mandated by 29 RCNY § 2-04(b), landlords must maintain and continue to provide to residential occupants services specified in their lease or rental agreement. In the absence of a lease or rental agreement, landlords must provide those services to residential occupants which were specified in the lease or rental agreement most recently in effect in addition to those services mandated in 29 RCNY § 2-04(b) above. There must not be any diminution of services. Nothing contained in these rules allows reduction in the prior services supplied by mutual agreement where those services exceed the services mandated by 29 RCNY § 2-04(b) above. Where the prior services are below those mandated by 29 RCNY § 2-04(b), the services mandated by 29 RCNY § 2-04(b) must be provided.
 
-   "Food preparation establishment" means a business that is primarily engaged in providing food or food services for a temporary, fixed time, or based on contractual arrangements for a specified period of time at locations other than such establishment's permanent place of business.
+(d) Guide for the courts. The services mandated by subdivisions (b) and (c) of this section provide a guide which courts can use as part of their determination as to whether landlords are meeting their current and future responsibilities to residential occupants according to the Warranty of Habitability in Real Property Law § 235-b(1) for IMD buildings.
 
-   "Food service establishment" means any premises or part of a premises that is required to provide for the removal of waste pursuant to section 16-116 of this code where food is provided directly to the consumer, whether such food is provided free of charge or sold, and whether consumption occurs on or off the premises. Food service establishment shall include, but not be limited to, full-service restaurants, fast food restaurants, cafes, delicatessens, coffee shops, and business, institutional or government agency cafeterias, but shall not include retail food stores, convenience stores, pharmacies, and mobile food vending units, as such term is defined in section 89.03 of the health code. Food service establishment shall also not include any premises or place of business where the sole or primary source of food is a refreshment counter where the available food is limited to items such as beverages, prepackaged items, and snacks.
+(e) Enforcement and penalties.
 
-   "Food wholesaler" means any establishment primarily engaged in the wholesale distribution of groceries and related products including, but not limited to, packaged frozen food, dairy products, poultry products, confectioneries, fish and seafood, meat products, and fresh fruits and vegetables but shall not apply to establishments that handle only pre-packaged, non-perishable foods.
+   (1) Loft Board Staff, ECB and OATH Staff. The Loft Board authorizes the Loft Board's staff hearing examiners, Administrative Law Judges at the Office of Administrative Trials and Hearing ("OATH") or the hearing officers at the Environmental Control Board ("ECB"), as the Executive Director so designates, to conduct hearings on alleged violations of housing maintenance standards and, where such violations are determined to exist, to impose the fines in accordance with the ranges recommended in subparagraph (8) below. The Loft Board authorizes its staff to take all steps necessary to enforce the minimum housing maintenance standards.
 
-   "Hotel" shall have the same meaning as set forth in section 27-2004 of the housing maintenance code.
+   (2) Inspections and notices of violation. Staff employed or assigned to the Loft Board are authorized to conduct inspections in response to complaints or at the direction of the Loft Board or appropriate staff supervisors to determine whether violations of the Loft Board's Minimum Housing Maintenance Standards exist. Following an inspection, if a violation is determined to exist, a notice of violation must be issued to the landlord or his agent describing the violation and the unit in which it exists, specifying the applicable section of the Minimum Housing Maintenance rules, and establishing the maximum period of time permissible to cure the violation. A copy of the notice of violation must be left with an authorized person in charge at the premises, if that person is present, the managing agent, if that person is present, or posted in a conspicuous public place at the premises. In addition, a second copy of the notice of violation may be sent by regular mail to the owner or his designated agent, as indicated in the Loft Board's records. A copy of the notice of violation may also be sent by regular mail to the tenant or tenants who made the original complaint. The cure period for the first notice of violation of its kind within a 12 month period must be a minimum of 7 days from the date of: 1) personal delivery to an authorized person in charge at the premises or the managing agent or 2) posting of the notice in a conspicuous public place at the premises. Except for heat violations, the cure period for a second notice of violation for the same condition within twelve months from the first notice of violation is 24 hours from the date of: 1) delivery of the notice of violation to an authorized person in charge at the premises or the managing agent or 2) posting the notice of violation in a conspicuous public place at the premises. The cure period for a second heat violation occurring during the same Oct-May heat season is 24 hours from the date of: 1) delivery of the notice of violation to an authorized person in charge at the premises or the managing agent or 2) the date of posting the notice of violation in a conspicuous public place at the premises. There is a presumption that the violation continues after the service of the notice of violation. Fines imposed will begin to accrue the day immediately following the cure period and continue daily until the owner demonstrates that the violation is cured.
 
-   "In vessel composting" means a process in which organic waste is enclosed in a drum, silo, bin, tunnel, reactor, or other container for the purpose of producing compost, maintained under controlled conditions of temperature and moisture and where air-borne emissions are controlled.
+   (3) Re-Inspections and Hearing Notices. A re-inspection may be conducted by or on behalf of the Loft Board's staff to determine whether the violation has been cured at any time after the cure period specified in the notice of violation has elapsed. If the violation has not been cured, the Executive Director or designated staff member determines whether a hearing should be conducted by the Loft Board, the ECB or OATH. Thereafter, a notice of hearing will be issued. The notice of hearing will contain:
 
-   "Organic waste" shall have the same meaning as set forth in section 16-303 of this title, except that for purposes of this section, organic waste shall not include food that is donated to a third party, food that is sold to farmers for feedstock, and meat by-products that are sold to a rendering company.
+      (i) a description of the violation and the unit or the area in the building in which it exists;
 
-   "Private carter" means a business licensed by the business integrity commission pursuant to title 16-A of this code.
+      (ii) the section of the Minimum Housing Maintenance Standards allegedly violated;
 
-   "Retail food store" means any establishment or section of an establishment where food and food products offered to the consumer are intended for off-premises consumption, but shall exclude convenience stores, pharmacies, greenmarkets or farmers' markets and food service establishments.
+      (iii) information as to the maximum fines assessable if the violation is found to exist as alleged in whole or in part;
 
-   "Sponsor of a temporary public event" means the applicant for a street activity permit pursuant to chapter 1 of title 50 of the rules of the city of New York, or any successor provision, for any activity on a public street, street curb lane, sidewalk or pedestrian island or plaza with an anticipated attendance of greater than five hundred persons per day where the activity will interfere with or obstruct the regular use of the location by pedestrian or vehicular traffic. Such term shall not include activities conducted pursuant to a valid film permit, demonstrations, parades or block parties.
+      (iv) the time and place of the hearing;
 
-   "Stadium" means an establishment or facility that hosts live sporting or entertainment events.
+      (v) a notice to respondent that he or she is entitled to be represented by counsel, to present evidence and to examine and cross-examine witnesses; and
 
-b. The commissioner shall, on a regular basis and no less than annually, evaluate the capacity of all facilities within the designated area and the cost of processing organic waste by composting, aerobic or anaerobic digestion, or any other method of processing organic waste that the department approves by rule. If the commissioner determines that there is sufficient capacity and that the cost of processing organic waste consistent with this section is competitive with the cost of disposing of organic waste by landfill or incineration, he or she shall designate by rule all covered establishments or a subset of covered establishments, based on any criteria, among such covered establishments, that generate a quantity of organic waste that would not exceed the evaluated capacity. All such designated covered establishments shall comply with the requirements of subdivision c of this section beginning no later than six months following such designation. In addition, the commissioner shall include in his or her evaluation the capacity of any facilities outside of the designated area that have arrangements or contracts with transfer stations or private carters to accept and process organic waste generated by and collected from covered establishments.
+      (vi) a statement about respondent's right to file with the Loft Board, OATH or ECB, as applicable, an answer denying or admitting the violation with an explanation, prior to or at the hearing. The notice of hearing must be served by regular first class mail by the Loft Board, OATH or ECB to the owner of the premises, or his or her designated agent, as each is indicated in the Loft Board's records. A copy of the notice of hearing must also be sent by the Loft Board, OATH or ECB by regular first class mail to the tenant or tenants of any units where violations which are the subject of such hearing are alleged to have occurred. If the notice of hearing is sent by OATH or ECB, a copy of the notice of hearing must also be sent to the offices of the Loft Board.
 
-c. 1. Each designated covered establishment shall:
+   (4) Hearings. Hearings may be conducted by Loft Board staff hearing examiners, OATH Administrative Law Judges or ECB hearing officers, who will determine whether each violation alleged is sustained by the evidence, whether the landlord-respondent is responsible for providing the particular service in question, and whether the landlord-respondent has made good faith efforts to provide such service. Formal rules of evidence do not apply to such hearings. Where a hearing is conducted by an OATH Administrative Law Judge, the hearing must be conducted in accordance with the procedures governing hearings before the Loft Board. Where a hearing is conducted by an ECB hearing officer, the hearing must be conducted in accordance with the procedures governing hearings before the ECB. When the Loft Board hearing examiner or OATH Administrative Law Judge or ECB hearing officer makes a finding that the violation exists and that the landlord is responsible, he or she must impose a fine within the recommended range in subparagraph (8) below. The fines in subparagraph (8) below include a fine for each violation substantiated and an additional fine for each day the violation exists beginning the day immediately following the cure period until the violation is cured. The Loft Board hearing examiner, OATH Administrative Law Judge or ECB hearing officer is authorized to suspend the fines when a good faith effort to provide services is demonstrated. The landlord has the burden to prove by a preponderance of the evidence the date of cure, if any. If the case is before a Loft Board hearing examiner or OATH Administrative Law Judge, the Loft Board's staff has the burden of proving the factual allegations contained in the notice of violation by a preponderance of the evidence; however, each notice of violation made pursuant to subparagraph (2) is maintained by the Loft Board as a record kept in the regular course of business and is proof of the facts contained in the notice. If the case is before the ECB, the notice of violation must be sworn to or affirmed pursuant to § 1049-a(d)(1)(b) of New York City Charter. Hearings must electronically recorded and the original recording must be part of the record and the sole official transcript of the proceeding. A written decision sustaining or dismissing each allegation in the notice of hearing must be rendered by the Loft Board hearing examiner, OATH Administrative Law Judge or ECB hearing officer within a reasonable time after the conclusion of the hearing. Each decision, a copy of which must be served on the respondent by regular mail, must contain brief findings of facts, conclusions of law, and where appropriate, an order imposing a fine. If a landlord fails to appear at the hearing after proper notice, the landlord will be declared in default and a decision will be issued by the Loft Board's hearing examiner, OATH Administrative Law Judge or ECB hearing officer assigned to the case. If the case is before ECB, requests to vacate a default determination must be made in accordance with ECB's applicable policy and procedure. If the case is before the Loft Board hearing examiner or OATH Administrative Law Judge, requests to vacate a default determination must be made in accordance with the Loft Board's procedure as set forth in 29 RCNY § 1-06(i).
 
-      i. either (A) ensure collection by a private carter of all organic waste generated by such establishment for purposes of composting, aerobic or anaerobic digestion, or any other method of processing organic waste that the department approves by rule, (B) transport its own organic waste to a facility that provides for composting, aerobic or anaerobic digestion, or any other method of processing organic waste that the department approves by rule, provided that the covered establishment first obtains a registration issued by the business integrity commission pursuant to subdivision b of section 16-505 of this code, or (C) provide for on-site in vessel composting, aerobic or anaerobic digestion, or any other method of processing organic waste that the department approves by rule for some or all of the organic waste it generates on its premises, provided that it arranges for the collection or transport of the remainder of such organic waste, if any, in accordance with clause (A) or (B) of this subparagraph;
+   (5) Appeals of Decisions. An appeal from a determination of a Loft Board hearing examiner or OATH Administrative Law Judge issued pursuant to 29 RCNY § 2-04 must be brought in accordance with the provisions of 29 RCNY § 1-07.1. An appeal from a determination of an ECB hearing officer issued pursuant to 29 RCNY § 2-04 must be brought before the ECB in accordance with its applicable rules and provisions and must be in a form prescribed by the ECB, which may be obtained at www.nyc.gov/ecb.
 
-      ii. post a sign, which shall be in addition to any other sign required to be posted pursuant to this code, that states clearly and legibly the trade or business name, address, and telephone number of, and the day and time of pickup by, the private carter that collects the covered establishment's organic waste, that such covered establishment transports its own organic waste, or that such covered establishment provides for on-site processing for all of the organic waste it generates on its premises, provided that:
+   (6) Willful Violations of the Minimum Housing Maintenance Standards. Where a Loft Board hearing examiner, an OATH Administrative Law Judge or an ECB hearing officer determines that a violation of the Minimum Housing Maintenance Standards is willful, the owner of the building in which the iolation exists will be deemed out of compliance with Article 7-C, for purposes of assertion of the landlord's rights under Multiple Dwelling Law § 285(1). A second finding of a violation for the same condition within a 6-month period is presumed willful for purposes of this paragraph (6). A finding that a building is not in compliance with Article 7-C because of a willful violation of the Minimum Housing Maintenance Standards may be removed upon the lord's filing of a request with the Loft Board for a re-inspection to confirm that the violation has been corrected. If the Loft Board's staff person conducting the inspection determines that the violation or violations have been corrected, and so certifies, a copy of his or her inspection report must be filed with the prior decision and the building will deemed in compliance with Article 7-C for purposes of MDL § 285(1). A finding of a willful violation of Minimum Housing Maintenance Standards will be considered as evidence of harassment of residential occupants by the landlord.
 
-         (A) such sign shall be prominently displayed by affixing it to a window near the principal entrance to the covered establishment so as to be easily visible from outside the building or, if this is not possible, prominently displayed inside the covered establishment near the principal entrance;
+   (7) Outstanding, unpaid fines. The registration of a building as an IMD will not renewed for any building for which fines have been imposed, pursuant to 29 RCNY § 2-04 until such fines are paid in full.
 
-         (B) catering establishments shall not be required to display on such sign the day and time of the pickup by the private carter that collects the establishment's organic waste; and
+   (8) Range of fines for violations.
 
-         (C) this paragraph shall not apply to sponsors of temporary public events;
+ 
 
-      iii. provide separate bins for the disposal of organic waste in any area where such organic waste is generated and disposed of; and
 
-      iv. post instructions on the proper separation of organic waste where such instructions will be visible to persons who are disposing of organic waste, provided that this subparagraph shall not apply to sponsors of temporary public events.
+.. list-table::
+    :header-rows: 1
 
-   2. Any covered establishment that arranges for the collection by a private carter of its organic waste pursuant to this subdivision shall not commingle such organic waste with other designated and non-designated recyclable material or solid waste, and shall place such organic waste out for collection by a private carter in a container or containers that (i) has a lid and a latch that keeps the lid closed and is resistant to tampering by rodents or other wildlife, (ii) has the capacity that meets the disposal needs of the covered establishment and its private carter, (iii) is compatible with the private carter's hauling collection practices, and (iv) is closed and latched at the time it is placed out for collection.
+    * - Section
+      - Violation
+      - Range of Fines 
+~
 
-   3. Any private carter that collects source separated organic waste from a covered establishment shall either:
 
-      i. deliver collected organic waste to a transfer station that has represented that it will deliver such organic waste to a facility for purposes of composting, aerobic or anaerobic digestion, or any other method of processing organic waste that the department approves by rule; or
 
-      ii. deliver such organic waste directly to a facility for purposes of composting, aerobic or anaerobic digestion, or any other method of processing organic waste that the department approves by rule.
 
-d. Any transfer station that receives source separated organic waste pursuant to this section shall deliver or have delivered such organic waste directly to a facility that accepts organic waste for purposes of composting, aerobic or anaerobic digestion, or any other method of processing organic waste that the department approves by rule. This subdivision shall not apply to waste that cannot be processed at an organic waste processing facility.
 
-e. The provisions of this section relating to private carters shall be enforced by the business integrity commission. The provisions of this section relating to covered establishments shall be enforced by the department, the department of health and mental hygiene, and the department of consumer affairs.
 
-f. The department, the business integrity commission, the department of health and mental hygiene, and the department of consumer affairs may promulgate any rules necessary to implement this section, including, but not limited to, rules establishing reporting requirements sufficient to demonstrate compliance with this chapter.
+.. list-table::
+    :header-rows: 1
 
-g. Any person who owns or operates two or fewer food service establishments may request, and the commissioner shall grant, a waiver of the requirements of this section if: (1) no single food service establishment has a floor area of at least seven thousand square feet; (2) the food service establishment or establishments are individually franchised outlets of a parent business covered by paragraph five of the definition of "covered establishment" set forth in subdivision a of this section; and (3) the owner or operator establishes that such food service establishment or establishments do not receive private carting services through a general carting agreement between a parent business and a private carter. Such waiver shall be valid for twelve months and shall be renewable upon application to the commissioner via the department's website.
+    * - 29 RCNY § 2-04(b)(1)
+      - Failure to provide or maintain a safe water supply or plumbing and drainage systems
+      - First finding:$750 - $2,000 per violation for first finding sustaining a violation plus $125 per day 
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$4,000 - $6,000 per violation for subsequent finding within 12 months plus $125 per day
+    * - 29 RCNY § 2-04(b)(2)
+      - Failure to provide adequate heat
+      - First finding:$750 - $2,000 per violation for first finding sustaining a violation plus $250 - $500 per day
+    * -  
+      -  
+      - Subsequent finding during the same Oct-May period as the first finding:$3,000 - $4,000 per violation for subsequent finding during same Oct-May period plus $500 - $1,000 per day
+    * - 29 RCNY § 2-04(b)(3)
+      - Failure to supply hot water
+      - First finding:$750 - $2,000 per violation for first finding sustaining a violation plus $250 - $500 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months:$3,000 - $4,000 violation for subsequent finding within 12 months plus $500 - $1,000 per day
+    * - 29 RCNY § 2-04(b)(4)
+      - Failure to maintain electrical service to residential units
+      - First finding:$750 - $1,000 per violation for first finding sustaining a violation plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for the second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$4,000 - $6,000 per violation for any subsequent finding within 12 months plus $125 per day
+    * - 29 RCNY § 2-04(b)(5)
+      - Failure to maintain gas service in good working order
+      - First finding:$750 - $1,000 per violation for the first finding sustaining a violation plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for the second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$4,000 - $6,000 per violation for any subsequent finding within 12 months plus $125 per day
+    * - 29 RCNY § 2-04(b)(6)
+      - Failure to provide smoke detectors/ Failure to provide carbon monoxide detectors
+      - First finding:$750 - $1,000 per violation for the first finding sustaining a violation plus $10 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 per ation for the second finding within 12 months plus $10 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$3,000 per violation for any subsequent finding within 12 months plus $10 per day
+    * - 29 RCNY § 2-04(b)(7)
+      - Failure to provide lighting in public areas of the building
+      - First finding:$750 - $1,000 per violation for the first finding sustaining a violation plus $10 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 per ation for the second finding within 12 months plus $10 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$3,000 per violation for any subsequent finding within 12 months plus $10 per day
+    * - 29 RCNY § 2-04(b)(8)
+      - Improper maintenance of entrance door security; failure to provide keys
+      - First finding:$750 - $1,000 per violation for the first finding plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for the second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$4,000 - $6,000 per violation for any subsequent findings within 12 months plus $125 per day
+    * - 29 RCNY § 2-04(b)(9)
+      - Failure to provide or improper maintenance of elevator service
+      - First finding:$750 - $1,000 per violation for the first finding sustaining a violation plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months: $2,000 per lation for the second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$3,000 per violation for any subsequent finding within 12 months plus $125 per day
+    * - 29 RCNY § 2-04(b)(10)
+      - Failure to provide window guards
+      - First finding:$750 - $1,000 per violation for the first finding plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for the second finding plus $125 per day
+    * -  
+      -  
+      - Subsequent findings within 12 months of the first finding:$4,000 - $6,000 per violation for any subsequent finding plus $125 per day
+    * - 29 RCNY § 2-04(c)
+      - Failure to provide other minimum housing maintenance services
+      - First finding:$750 - $1,000 per violation for the first finding plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 per violation for the second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent findings within 12 months of the first finding:$3,000 per violation for any subsequent finding within 12 months plus $125 per day
+~
 
+ 
 
 
 
 
 
 
+*§ 2-05 Registration.* ::
 
-*§ 16-307 City agency waste.* ::
 
+(a)  Definitions.
 
-a. The commissioner shall adopt, amend and implement rules, as necessary, governing the source separation or post-collection separation, collection, processing, marketing, and sale of designated recyclable materials including, but not limited to, designated metal, glass, plastic and paper generated by any agency, as such term is defined in section 1-112 of the code.
+   Landlord. As used in these rules, the term "landlord" shall mean the owner of an interim multiple dwelling ("IMD"), the lessee of a whole building, part of which contains IMD units, or the agent, executor, assignee of rents, receiver, trustee, or other person having direct or indirect control of such a dwelling.
 
-b. Every agency shall, no later than July first, two thousand eleven, prepare and submit to the commissioner for approval, a waste prevention, reuse and recycling plan. Such plan shall provide for the source separation of designated metal, glass, plastic and paper, and such other designated recyclable materials as the commissioner deems appropriate, in all offices and buildings occupied by agencies that receive collection service from the department and, to the extent practicable, in those that receive private carter collection. Such plans shall provide for the source separation of designated recyclable materials in the lobbies of such offices or buildings that receive department collection, unless the placement of bins for the source separation of designated recyclable materials would be in violation of any other provision of law, and, to the extent practicable, in the lobbies of such offices or buildings that receive private carter collection. Each agency shall designate a lead recycling or sustainability coordinator to oversee implementation of such plans. If an agency has offices in more than one city-owned building, then such agency shall designate one assistant coordinator for each building in which such agency has offices, except the building in which the lead coordinator has his or her office, to assist the agency's lead coordinator.
+   Residential Occupant. As used in these rules, the term "residential occupant" shall mean an occupant of an IMD unit eligible for protection under Article 7-C of the New York State Multiple Dwelling Law ("MDL.")
 
-c. On or before July first, two thousand twelve and annually thereafter, every lead recycling or sustainability coordinator shall submit a report to the head of his or her respective agency and to the commissioner, summarizing actions taken to implement the waste prevention, reuse and recycling plan for the previous twelve-month reporting period, proposed actions to be taken to implement such plan, and updates or changes to any information included in such plan. The department shall consolidate the information contained in all reports prepared pursuant to this subdivision and include such information as part of the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter.
+   Agent. As used in § 284(2) of the MDL and these rules, the term "agent" or "managing agent" shall mean the person in control of and responsible for the maintenance and operation of the IMD building, which person shall be an individual, 21 years of age or older, and shall reside within New York City or customarily and regularly attend a business office located in New York City.
 
+(b) Procedure for Filing Registration Application. The following instructions constitute the procedures for registration of buildings, structures or portions thereof, pursuant to MDL § 284(2). Applications for registration shall be certified by the landlord in a form prescribed [promulgated] by the Loft Board. Instructions – Interim Multiple Dwelling Registration Application Form.
 
+   (1) Print all information in completing the registration application form and return it and the required documents listed in 29 RCNY § 2-05(b)(8) to: "IMD REGISTRATION" at the Loft Board's office, together with a check covering the registration and code-compliance monitoring fees, in accordance with subparagraph (3) below. The landlord must serve a copy of the initial registration application form on all occupants of the building including residential, commercial and manufacturing occupants and prime lessees, if different. Service shall be made by regular mail delivered to each occupant at the occupant's unit, or at a different address in accordance with the terms for delivery of the notice in the occupant's lease. The registration application form must specify which residential units are being registered as IMD units and include the unit designations and location in the building. Certification of such service to the occupants and prime lessees shall be attached to the registration application form filed with the Loft Board.
 
+   (2) The information requested on the registration application form is required pursuant to MDL §§ 284(2) and 325, and these rules. Additional information may be required pursuant to rules promulgated by the Loft Board.
 
+   (3) Pursuant to MDL § 282, the Loft Board may charge and collect reasonable fees. Registration and code compliance monitoring fees shall be payable to the Loft Board in accordance with 29 RCNY § 2-11.
 
+   (4) Completion and submission of a registration application form does not constitute a waiver of the applicant's right to contest before the Loft Board the coverage of the premises described therein as an IMD building under Article 7-C of the MDL, nor shall the act of filing the registration application form constitute evidence before the Loft Board that the building described therein is an IMD building. Notwithstanding the foregoing, the failure of an owner, a building occupant or prime lessee to contest the registration application within 45 calendar days after service of the registration application or 45 calendar days after the filing date with the Loft Board, whichever is later, shall constitute a "waiver" to contest coverage of the units registered, and shall preclude the landlord from contesting such coverage status. In the event the Loft Board or its staff subsequently discovers that a building, structure or portion thereof registered as an IMD does not qualify as an IMD subject to coverage under Article 7-C, in whole or in part, then the Executive Director may revoke such IMD status for the individual unit, or the building in its entirety, as applicable, effective upon notice to the owner, the building occupants and the prime lessees, listed on the registration application form. Any and all applications by a landlord, building occupant or the prime lessee to challenge the denial of a registration application form or the revocation of IMD status of a building or a unit by the Executive Director shall be governed by the terms and provisions of 29 RCNY § 1-07.1.
 
-*§ 16-307.1 School recycling.* ::
+   (5) Procedure to Contest a Registration Application. Any and all applications filed by a landlord, building occupant(s) or prime lessee, if applicable, to contest coverage of a building or individual unit under Article 7-C must be received by the Loft Board within 45 calendar days after service of the registration application form on the building occupants and prime lessee(s) or within 45 calendar days after filing of the registration application form with the Loft Board, whichever is later. Such applications must set forth the extent of coverage being contested, including the facts and rationale upon which coverage is being contested. A copy of the application must be served on ALL residential, commercial and manufacturing occupants of the building and the prime lessee(s) in the manner described in 29 RCNY § 1-06(b) for service of Loft Board applications, and the application filed with the Loft Board must include a certification that such service has been made.
 
+   (6) Any occupant in the building may apply for coverage under Article 7-C. Such applications shall be filed in accordance with the procedures set forth in 29 RCNY § 1-06, and shall be subject to the terms and provisions of the MDL and these rules, including, without limitation, the deadline for filing coverage applications set forth in MDL § 282-a, 29 RCNY § 1-06.1, and the Loft Board's website.
 
-a. The chancellor of the department of education shall designate a sustainability director for the department of education, who shall be responsible for (i) setting policies, guidelines and goals to promote waste prevention, reuse and recycling practices, and (ii) coordinating the department of education's waste prevention, reuse and recycling program in all school buildings, charter school locations, office buildings, and any other facilities under the jurisdiction of the department of education that receive department collection service.
+   (7) An interim multiple dwelling registration number issued by the Loft Board will be effective until such time as determined by the Loft Board or its staff.
 
-b. The chancellor of the department of education shall promulgate such rules as may be necessary to require that each school building, charter school location, office building, and any other facility under the jurisdiction of the department of education that receives department collection service, develop a site-specific waste prevention, reuse and recycling plan. Each such plan shall be implemented by January first, two thousand eleven. Such plan shall include, at a minimum, a requirement that each classroom maintain a separate receptacle, container or bin for the collection of designated recyclable paper, and that such receptacle, container or bin be appropriately labeled or decorated with recycling information. Such plan shall also provide that separate receptacles, containers or bins for the collection of designated metal, glass and plastic be appropriately labeled or decorated with recycling information and be placed as close as practicable to school entrances, unless the placement of such bins would be in violation of any other provision of law, and in locations within schools where food and beverages are routinely consumed.
+   (8) Required Documents For A Registration Application. A registration must be completed in its entirety. Legible copies of the following must be attached: (i) the current lease for each residential unit claimed to be covered under Article 7-C, or, where there is no current lease, the most recent lease agreement, including all executed riders, amendments, modifications and extensions, (ii) the lease in effect during the qualifying window period set forth in MDL § 281 for each residential unit claimed to be covered under Article 7-C, and if no lease existed during the window period, an owner must file proof of residential occupancy during the window period with the registration form; (iii) the lease in effect on June 21, 2010, if different, and if no lease existed on June 21, 2010, the owner must attach a signed statement outlining the rental agreement in effect on June 21, 2010 - including party names, monthly rent, a description of the premises, use of the premises, and the services provided by the landlord; and (iv) any lease for a unit engaged in commercial, manufacturing, or industrial activity in the building on June 21, 2010. If no lease existed for the commercial, manufacturing, or industrial unit on June 21, 2010, the owner must attach a signed statement outlining the rental agreement in effect on June 21, 2010. For cooperatives, legible copies of the proprietary leases for all units, including the units engaged in commercial, manufacturing, or industrial activity, must be attached. If any units were rented on June 21, 1982 for units seeking coverage pursuant to MDL § 281(1), or July 27, 1987 for units seeking coverage pursuant to MDL § 281(4), or June 21, 2010, for units seeking coverage pursuant to MDL § 281(5), copies of those leases and subleases or rental agreements must be attached. For condominiums, legible copies of all leases for units that were rented on June 21, 1982 for units seeking coverage pursuant to MDL § 281(1), or July 27, 1987 for units seeking coverage pursuant to MDL § 281(4) or June 21, 2010, for units seeking coverage pursuant to MDL § 281(5), must be attached. A registration application form will not be accepted, and an IMD Registration Number will not be issued, unless all questions set forth on the registration application form are answered in full, and all required leases or signed statements are attached. If a particular question or piece of information is inapplicable, the applicant shall enter "Not Applicable," or if the information is unavailable, enter "Not Available", and attach a signed statement explaining the reasons such information is inapplicable or unavailable. The content of a registration application form will be reviewed prior to issuance of an IMD Registration Number. In the space provided on the registration application form, an applicant must specify which units it seeks to register with the Loft Board for coverage under Article 7-C. The applicant shall enter the number of residential units occupied for residential purposes by families living independently from one another, the periods of such residential occupancy, and indicate the units' location in the building. "Family" shall have the meaning provided in MDL § 4(5), and may consist of a person or persons, regardless of whether they are related by marriage or ancestry.
 
-c. The principal of each school under the jurisdiction of the department of education shall designate a sustainability coordinator for his or her school who shall be responsible for implementing his or her school's waste prevention, reuse and recycling plan. The principal or the sustainability coordinator shall complete, and submit to the department of education sustainability director and to the chancellor, an annual survey regarding such school's compliance with its waste prevention, reuse and recycling plan.
+   (9) The acceptance of the registration application form in no way legalizes the residential occupancy. If the registration application form is accepted by the Loft Board staff, a copy of the form with the assigned IMD Registration Number will be returned to the applicant. That number must be included on all future correspondence with the Loft Board regarding the building. The Loft Board reserves the right to reject, revoke or amend an IMD Registration Number for a building. The Loft Board also reserves the right to revoke, at any time, the Article 7-C coverage for a unit in a building issued an IMD Registration Number.
 
-d. On or before January first, two thousand twelve, the chancellor shall submit a report to the commissioner regarding compliance with the requirements of this section for the period of January first, two thousand eleven through June thirtieth, two thousand eleven, and shall submit an annual compliance report by January first of each year thereafter for the preceding July first through June thirtieth. The department shall include the chancellor's report as part of the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter.
+   (10) For each building potentially subject to Article 7-C, the owner, the lessee of the whole building, if applicable, and the agent must each sign the registration application form thereby certifying to the truth, accuracy and completeness of the information contained therein. If the building is known by more than one address, the applicant shall list each address on the application form.
 
-e. The department shall distribute a model school waste prevention, reuse and recycling plan to all primary and secondary schools not under the jurisdiction of the department of education that receive department collection service. All such primary and secondary schools shall designate a sustainability coordinator for each such school, and develop a site-specific waste prevention, reuse and recycling plan. Each such plan shall be implemented by January first, two thousand eleven. Such plan shall include, at a minimum, a requirement that each room used primarily as a classroom for students between kindergarten and the twelfth grade maintain a separate receptacle, container or bin for the collection of designated recyclable paper, and that such receptacle, container or bin be appropriately labeled or decorated with recycling information. Such plan shall also provide that separate receptacles, containers or bins for the collection of designated metal, glass and plastic be appropriately labeled or decorated with recycling information and be placed as close as practicable to school entrances, unless the placement of such bins would be in violation of any other provision of law. Such bins shall also be placed in centralized locations within such schools where food and beverages are routinely consumed, other than classrooms, such as cafeterias and lunchrooms, or, if such school lacks a cafeteria or lunchroom, in a location readily accessible to all students in such school.
+   If the owner, lessee of the whole building or agent is a corporation, other than a corporation listed as exempt from the provisions of MDL § 325, the names, business, and residence addresses and phone numbers of each of its officers must be listed on the form.
 
+   Other officers, including treasurer or chief fiscal officer, and stockholders who own or control at least 10 percent of the corporation's stock, must be listed on a separate attachment.
 
+   If the owner, lessee of the whole building or agent is other than an individual or a corporation, the names, business and residential addresses and phone numbers for each member, general partner or participant in a partnership, joint venture or limited liability company must be listed on a separate attachment
 
+    At least one of the phone numbers filed with the registration application form must be a confidential telephone number where a responsible party can reasonably be expected to be reached 24 hours a day, 7 days a week for emergencies. Such number(s) must be within 50 miles radius of New York City limits, and must be indicated on a separate signed sheet of paper filed with the registration application form. Such responsible party shall be twenty-one years or older, and shall reside within New York City or customarily and regularly attend a business office located in New York City. The emergency number shall be confidential. Any change in the emergency number, managing agent information, owner's address or ownership shall be sent to the Loft Board within 5 days of the change. The failure to report such change is a violation of the Loft Board rules and the owner may be subject to civil penalties in accordance with 29 RCNY § 2-11.1.
 
+   (11) All landlords who file a registration application form agree to provide the minimum housing maintenance standards established by 29 RCNY § 2-04, as it may be amended from time to time, to all residentially occupied units covered under Article 7-C of the MDL.
 
+   (12) [Reserved.]
 
-*§ 16-308 Organic waste.* ::
+   (13) A notice, in the form prescribed by the Loft Board, as designated on the Loft Board's website, shall be posted in the lobby of every IMD building within five (5) business days after the issuance of the IMD Registration Number. Failure to post such notice or update the notice within 5 calendar days of a change in the information contained in such notice may subject the landlord to civil penalties in accordance with 29 RCNY § 2-11.1. Such notice must contain:
 
+      (A) The building's address;
 
-a. 1. No later than October first, two thousand thirteen, the commissioner shall establish a voluntary residential organic waste curbside collection pilot program for the diversion of organic waste from households in one designated collection area. Such pilot program shall end no earlier than July first, two thousand fifteen. For purposes of this subdivision, a household shall mean a single dwelling or a residential unit within a dwelling that contains two or more residential units and a designated collection area shall mean a contiguous area within a borough comprised of no fewer than one thousand households.
+      (B) The IMD Registration Number assigned by the Loft Board for the purpose of identifying the building;
 
-   2. No later than January first, two thousand fourteen, the commissioner shall establish a school organic waste collection pilot program for the diversion of organic waste from no fewer than three hundred schools located in no fewer than three boroughs. Provided there is sufficient capacity in trucks on collection routes for such pilot program, the department shall provide organic waste collection service to residential buildings with nine or more units that are located on such collection routes and that volunteer for such collection. Such pilot program shall end no earlier than July first, two thousand fifteen.
+      (C) The contact information for the owner and managing agent; and
 
-   3. No later than January first, two thousand fourteen, the commissioner shall expand the voluntary residential organic waste curbside collection pilot program established pursuant to paragraph one of this subdivision to no fewer than a total of three designated collection areas, each of which shall be in a different borough. No later than June first, two thousand fourteen, the commissioner shall expand the voluntary residential organic waste curbside collection pilot program established pursuant to paragraph one of this subdivision to no fewer than a total of four designated collection areas, each of which shall be in a different borough, with a goal of expanding such pilot program to no fewer than one hundred thousand households by such date.
+      (D) The Loft Board's phone number.
 
-   4. No later than January first, two thousand fifteen, the commissioner shall expand the school organic waste collection pilot program established pursuant to paragraph two of this subdivision to no fewer than a total of four hundred schools located in no fewer than five boroughs. Provided there is sufficient capacity in trucks conducting collection on collection routes for such pilot program, the department shall provide organic waste collection service to residential buildings with nine or more units that are located on such collection routes and that volunteer for such collection.
+   (14) If additional space is required to respond to any of the questions set forth on the registration application form, the applicant shall attach a signed separate sheet of paper to complete the response.
 
-   5. The commissioner shall have the authority, during the duration of the pilot program established pursuant to paragraph one of this subdivision, to discontinue voluntary residential organic waste curbside collection service to a designated collection area, provided, however, that the commissioner shall select a replacement designated collection area within sixty days of any such discontinuation.
+(c) Rent claims. A landlord of a building for which an IMD Registration Number has been issued shall be entitled to claim rents becoming due after the date of issuance of the IMD Registration Number, in summary proceedings, pursuant to MDL § 285(1), provided that such landlords are in compliance with the terms and provisions of Article 7-C and the Loft Board's rules. Finding that there are a significant number of ongoing disputes between landlords and residential occupants in loft dwellings over payment of past due rents and that Article 7-C did not intend to authorize landlords to recover past due rents from residents occupying premises which may not qualify for coverage under Article 7-C, the Loft Board believes that landlords' right to recover for past due rents pursuant to MDL § 285(1) should be stayed until the question of coverage of an IMD has been resolved. Landlords who waive their right to contest coverage by executing a written waiver in a form acceptable to the Loft Board, fail to contest coverage within 45 calendar days following the filing of the registration application with the Loft Board or following the service of the registration application on the occupants and the prime lessees, or whose coverage dispute has been resolved by a determination that the premises in question are covered by Article 7-C, and who have met the requirements of subdivision (b) of this section shall be deemed in full compliance with the registration provisions of Article 7-C. An owner must be in full compliance with all of the provisions of Article 7-C and the Loft Board's rules, including and without limitation, the registration requirements, in order to recover rent.
 
-   6. The department or its designee shall conduct outreach and education to residents for the duration of the pilot programs established pursuant to this subdivision. Such outreach and education shall include, but need not be limited to, the environmental benefits of source separating organic waste for composting, instructions for how to properly source separate organic waste and the benefits of reducing organic waste.
+(d) Confidentiality of lease information. All personal and confidential information contained in leases submitted together with the registration application forms pursuant to this section including all information which could lead to the identification of the premises, landlords, or tenants, shall be confidential pursuant to the Freedom of Information Law (Public Officers Law §§ 84 et seq.) as amended from time to time. Notwithstanding the foregoing, the current owner of the building may have access to such unit's information, and the current occupant of the unit may also have access to such information, as necessary in connection with an application filed with the Loft Board or a case filed in a court of competent jurisdiction.
 
-   7. On June first, two thousand fourteen and every six months thereafter for the duration of the pilot programs established pursuant to this subdivision, the department shall report to the mayor and the council the total amount of organic waste diverted during the previous six-month period from households and schools that participated in such pilot programs during the entirety of such six-month period. The department shall include such diversion information in the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter.
+(e) Initial Registration Application Form Filing Deadlines for Buildings Seeking Coverage under MDL § 281(4) Prior to June 21, 2010, the Effective Date of Chapter 135 of the Laws of 2010. Effective July 27, 1987, Article 7-C of the MDL was amended, in part, to extend coverage to certain residentially occupied buildings, structures or portions thereof that were excluded from the protections of Article 7-C because they did not meet the zoning requirements of MDL §§ 281(2)(i), (iii) or (iv). Now, pursuant to MDL § 281(4), any building, structure or portion thereof which contains units that were residentially occupied on May 1, 1987, since December 1, 1981, that were used for residential purposes since April 1, 1980, is an IMD covered by Article 7-C regardless of the zoning requirements of MDL §§ 281(2)(i), (iii) and (iv), if the building otherwise meets the criteria set forth in MDL § 281(1) and these rules. MDL § 281(1) defines an "interim multiple dwelling" as a building, structure or portion thereof which at any time was occupied for manufacturing, commercial or warehouse purposes; and which on December 1, 1981 was occupied for residential purposes since April 1, 1980 as the residence or home of any three or more families living independently of one another; lacks a certificate of compliance or occupancy pursuant to MDL § 301. Pursuant to MDL § 281(4), an interim multiple dwelling shall include any building within the City of New York which meets these qualifications, regardless of whether there are currently three or more qualifying units. Thus, a reduction in the number of occupied residential units in a building after December 1, 1981 since April 1, 1980, shall not result in the elimination of the protections of Article 7-C to any remaining residential occupants qualified for such protection whose units were residentially occupied on May 1, 1987 since April 1, 1980.
 
-   8. No later than January first, two thousand fifteen, the commissioner shall conduct a study on improving community composting and submit the findings of such study to the mayor and the council. The study shall include, but need not be limited to: (i) recommendations for how the city can optimize the use of existing community composting locations and resources; (ii) an assessment of markets for finished compost within the city, including use by city agencies and potential retail sales; and (iii) strategies to expand community composting locations in each of the five boroughs.
+   (1) The provisions of these rules, 29 RCNY § 2-05, shall be fully applicable to IMD buildings or additional covered units, which are subject to coverage under Article 7-C pursuant to MDL § 281(4), except as provided below:
 
-   9. No later than October first, two thousand fifteen, the commissioner shall issue a report to the mayor and the council on the pilot programs established pursuant to this subdivision, which shall include, but need not be limited to information on: (i) the number of households, residential buildings, and schools participating; (ii) the total amount of organic waste diverted; (iii) the costs associated with the programs; (iv) the availability of organic material processing capacity in and around the city; and (v) resident feedback concerning such pilot programs, including the adequacy of the receptacles used for such pilot programs and any other issues of concern. Such report shall include recommendations as to whether the voluntary residential organic waste curbside collection pilot program and the school organic waste collection pilot program should be expanded and, if so, a schedule for expanding such pilot program to additional designated collection areas in the city.
+      (i) Pursuant to MDL § 284(2), all residential units that qualify for coverage under Article 7-C pursuant to MDL §§ 281(4) were required to be initially registered on or before September 25, 1987. The initial registration period for such qualifying units under § 281(4) ended on June 30, 1988.
 
-b. On and after July first, two thousand sixteen, the commissioner shall provide for the source separation, collection and composting of department-managed yard waste generated within designated areas of the city in which a substantial amount of yard waste is generated from March first to July thirty-first and September first to November thirtieth of each year, unless the generator otherwise provides for recycling or storage for composting or mulching. In addition, the commissioner shall provide for the collection and composting of yard waste generated and source separated at residential properties owned or operated by the New York city housing authority. There shall be operated by or on behalf of the department one or more yard waste composting facilities through which the department shall compost yard waste collected by or delivered to the department pursuant to this section. In order to comply with this provision, the department may utilize the services of privately-owned or operated facilities. The department shall also work in consultation with the composting facility siting task force established by the two thousand and six solid waste management plan to identify additional locations to site yard waste composting facilities with the goal of establishing at least one such composting facility in each borough where the department conducts yard waste composting collection.
+(f) Deadlines for Filing Initial Registration Application after June 21, 2010 in Chapters 135 and 147 of the Laws of 2010.
 
-c. Any city agency, or person under contract with a city agency, that generates a substantial amount of yard waste shall, in coordination with the department, provide for the source separation, collection and composting of such yard waste. Unless otherwise provided by law, the department shall accept for composting any city agency yard waste source separated for department collection pursuant to this subdivision.
+   (1) Pursuant to MDL § 284(2), the initial registration for buildings covered pursuant to MDL § 281(5) shall have been filed by August 21, 2010, which was sixty days from the effective date of Chapter 135 of the Laws of 2010. The provisions of these rules, 29 RCNY § 2-05, shall be fully applicable to IMD buildings or additional covered units, which are subject to coverage under Article 7-C pursuant to MDL § 281(5). Pursuant to MDL § 282-a, the initial registration application form must be filed for all buildings, structures, or portions thereof seeking Article 7-C coverage by the certain date listed in 29 RCNY § 1-06.1(a), and on the Loft Board's website. This date is 6 months after the date the Loft Board adopted all rules necessary to implement the provisions of Chapters 135 and 147 of the Laws of 2010, which added MDL § 281(5). Any initial registration application forms filed after the certain date listed in 29 RCNY § 1-06.1(a) will not be accepted, notwithstanding that such residential units may otherwise meet the qualifying criteria for an IMD unit pursuant to MDL § 281, unless the landlord is directed to file a registration form pursuant to a Loft Board order finding coverage or if the landlord is directed to file a registration application form by a court of competent jurisdiction pursuant to the claim of Article 7-C coverage raised in a pleading before the certain date listed in 29 RCNY § 1-06.1(a), and on the Loft Board's website.
 
-d. Within twenty-four months of the effective date of the local law that amended this section, no landfill, waste transfer station, intermodal facility, incinerator or resource recovery facility owned, operated or used by the department shall accept truckloads of department-managed waste primarily composed of yard waste for final disposal from March 1 to July 31 and September 1 to November 30 of each year, except that composted yard waste may be used as part of the final vegetative cover for a department landfill.
+   (2) Registration Renewals. Renewal of registration pursuant to 29 RCNY § 2-11(b)(1)(i)(A) shall be required annually on or before July 1st. Prior to the processing of the registration renewal application, the landlord or the agent is required to pay all unpaid fines, late fees and registration and code compliance monitoring fees for prior registration periods at the rate set forth in 29 RCNY § 2-11(b)(9)(i), as may be amended from time to time. Failure to timely pay such registration and code compliance monitoring fees may result in the imposition of late fees, and other civil penalties, in accordance with the terms and provisions of these rules, including, without limitation, 29 RCNY § 2-11(b)(1)(i)(D) and 29 RCNY § 2-11.1.
 
-e. All city agencies responsible for the maintenance of public lands shall to the maximum extent practicable and feasible give preference to the use of compost materials derived from the city's yard waste in all land maintenance activities.
+(g) No applications filed by or on behalf of a landlord of an IMD building shall be processed by the Loft Board unless the registration renewal application is current and all applicable fees and penalties have been paid in full as of the date of filing such application. An application is not deemed filed until payment of all outstanding fees, fines and penalties has been received by the Loft Board.
 
-f. Generators of yard waste, except those identified in subdivision g of this section, shall separate, tie, bundle, or place into paper bags or unlined rigid containers, in accordance with rules promulgated by the commissioner, any yard waste set out for collection by the department pursuant to subdivision b of this section. The commissioner shall notify all residents in districts that receive yard waste collection by the department of such pre-collection procedures, and undertake any other action necessary to effectuate the purposes of this subdivision.
 
-g. No person engaged in a business that generates yard waste shall leave such yard waste for collection by the department, or disperse such yard waste in or about the curb or street. Any person engaged in a business that generates yard waste shall be required to collect and dispose of such yard waste at a permitted composting facility; provided, however, that if the department, by written order of the commissioner, determines that there is insufficient capacity at permitted composting facilities within the city of New York or within ten miles of the borough in which any such person generates yard waste, then such yard waste may be disposed of at any appropriately permitted solid waste management facility.
 
-h. Each permitted composting facility within the city, including those operated by city agencies, shall annually report to the commissioner the amount of yard waste and any other organic waste collected and disposed of by weight at such composting facility. All such reports shall be submitted prior to February first of each calendar year and shall contain the amount collected and disposed of for the previous calendar year. The department shall consolidate the information contained in all reports prepared pursuant to this subdivision and include such information as part of the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter.
 
-i. No person residing in a district where the department provides residential yard waste composting collection pursuant to subdivision b of this section shall dispose of grass clippings as regular waste for collection by the department during the period of time when the department conducts such composting collection. The department shall conduct outreach and education to inform residents within such districts of the dates when it will conduct yard waste composting collection. No person residing in a district where the department provides residential yard waste composting collection shall be held liable for a violation of this subdivision during the first year the department provides such residential yard waste composting collection.
 
 
+*§ 2-06 Interim Rent Guidelines.* ::
 
 
+(For time limitations on filing applications for rent overcharges, see 29 RCNY § 1-06.1).
 
+(a) Coverage.
 
-*§ 16-309 Christmas trees.* ::
+   (1) These rent guidelines apply to units of interim multiple dwellings ("IMDs"), as defined in § 281 of Article 7-C, with residential occupants qualified for protection pursuant to the article, who
 
+      (i) do not have a lease or rental agreement in effect on the date of this order, December 21, 1982 or
 
-The commissioner shall establish and implement a curbside collection system for Christmas trees during a minimum of two weeks in January of each year and provide for the composting or recycling of the Christmas trees the department collects or receives for disposal.
+      (ii) whose leases or rental agreements are in effect on December 21, 1982, but expire prior to the IMD's compliance with the safety and fire protection standards of Article 7-B of the Multiple Dwelling Law. These guidelines apply only to IMD's which have registered with the Loft Board.
 
+   (2) "Lease or rental agreement in effect" shall mean
 
+      (i) a written lease or rental agreement;
 
+      (ii) an oral agreement for a rental period of one year or less, provided that
 
+         (A) there has been a change from the previous rent, confirmed by rent checks tendered by the residential occupant and accepted by the landlord within the year prior to this order or
 
+         (B) there has been a substantial change in the level of services agreed to be provided within one year prior to this order.
 
-*§ 16-310 Public space recycling.* ::
+(b) Effective date. The effective date of these rent increases for registered IMD's will be the next regular rent payment date following December 21, 1982, or following the expiration of the lease or rental agreement, whichever is later. If application for registration is received by the Loft Board on or before January 31, 1983, and written request for the increase is made of the residential occupant within 30 days of the issuance of an IMD registration number, such increase shall be retroactive to the effective date of the increase. If application for registration is received by the Loft Board after January 31, 1983, and written request for the increase is made of the residential occupant within 30 days of the issuance of an IMD registration number, and the lease or rental agreement has expired, such increase shall be retroactive to the first regular rent payment date following submission of the registration application. At the option of the residential occupant, such retroactive increases may be paid over the same number of months as they accrued. Except as indicated above, the rent increases shall apply prospectively only.
 
+(c) Amount of increases. For purposes of these rent guidelines, the following percentages shall be calculated upon the total rent for the residential occupant, including both base rent and escalators. "Escalators" are lease or rental agreement provisions which provide for a residential occupant's payment as rent or additional rent charges based on, but not limited to: real estate taxes; heating fuel; labor; water and sewer; insurance; vault tax; and any cost-of-living increase formulas. Such provisions as relate to gas, electricity and steam charges are excluded from this definition of total rent and these utility escalators, when based on a fair calculation of the occupant's usage, shall be the only escalators permitted following the effective date of the rent increase provided they were part of the lease or rental agreement in effect on December 21, 1982. Rent levels for units covered by this order shall reflect no more than the following maximum percentage increases, calculated as of the effective date of this order to such unit:
 
-a. The department shall expand its public space recycling program by increasing the number of public space recycling receptacles for the collection of recyclable materials including, but not limited to, metal, glass, plastic and paper designated as recyclable materials by the commissioner, to a cumulative total of at least five hundred public space recycling receptacles within three years of the effective date of this section, and to a cumulative total of at least one thousand public space recycling receptacles within ten years of the effective date of this section, at public locations in the city, which shall be in or near public parks, transit hubs, or commercial locations with high-pedestrian traffic. As part of such expansion, the department shall place public space recycling receptacles in all business improvement districts that provide public litter basket maintenance. Wherever practicable, public space recycling receptacles placed pursuant to this section shall be placed adjacent to public litter baskets.
+   (1) For units where the last increase in total rent or a utility escalator pursuant to a lease or rental agreement tendered by the tenant and accepted by the landlord was:
 
-b. Notwithstanding the provisions of subdivision a of this section, the department shall not be required to expand the public space recycling program beyond existing or newly-established collection routes that can be efficiently serviced by the department. The commissioner shall have the authority to remove any public space recycling receptacle placed pursuant to this section, provided that the department replaces any such public space recycling receptacle, within thirty days of removal, with additional public space recycling receptacles at the same or in a different location on a one-to-one basis.
+      (i) Subsequent to December 31, 1979: the maximum permissible increase shall be 7 percent of the total rent as defined above.
 
-c. No person responsible for removing or transporting recyclable materials placed in public space recycling receptacles shall commingle such recyclable materials with non-recyclable materials or otherwise improperly dispose of such recyclable materials.
+      (ii) Between January 1, 1977 and December 31, 1979: the maximum permissible increase shall be 22 percent of the total rent defined above.
 
-d. The department shall report the total number of public space recycling receptacles added during the relevant reporting year, and the locations in which they were placed. Such report shall be included as part of the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter.
+      (iii) Before January 1, 1977: the maximum permissible increase shall be 33 percent of the total rent as defined above.
 
-e. The department may enter into sponsorship or partnership agreements with entities such as for-profit and not-for-profit corporations and district management associations established in accordance with section 25-414 of the code to further the goals of this chapter.
+   (2) For units which have had no rent increases since the inception of the lease or rental agreement between the residential occupant and landlord, the maximum percentage increases contained in category (i), (ii), and (iii) above shall be based upon the date of inception of the lease or rental agreement.
 
+   (3) For units where the current or most recent lease or rental agreement does not contain any escalator provisions and where the last rent increase was not an escalator adjustment, a surcharge of 2 percent for category (i), 4 percent for category (ii), and 6 percent for category (iii) may be added to the percentage increases. These rent increases shall be a permanent part of the rent.
 
+(d) Vacancy allowance. The Loft Board reserves the right to address a vacancy allowance when it discusses fixture fee procedures.
 
+(e) Subtenancy allowance. The Loft Board reserves the right to address a subtenancy allowance when it discusses coverage procedures.
 
 
 
-*§ 16-310.1 Textile reuse and recycling program.* ::
 
 
-a. On or before January first, two thousand eleven, the department shall establish a citywide textile reuse and recycling program that shall, at a minimum, provide for the recovery of textiles by placing department-approved publicly accessible textile drop-off bins at appropriate locations on city property or property maintained by the city and organizing public textile reuse and recycling sites throughout the city that provide convenient drop-off locations for all city residents. In addition, the commissioner shall explore opportunities to work cooperatively with private entities, including, but not limited to, not-for-profit corporations and religious institutions, to promote expanded siting of publicly accessible textile drop-off bins on private property throughout the city. The department shall consider using department personnel and/or facilities in order to implement the provisions of this section.
 
-b. No publicly accessible textile drop-off bin placed pursuant to this section shall be placed on city property or property maintained by the city, or on a public sidewalk or roadway, unless otherwise authorized by the city. No publicly accessible textile drop-off bin shall be placed on private property without the written permission of the property owner or the property owner's authorized agent. The owner or other person responsible for each such bin shall report at least every three months to the department the amount of textiles collected in such bin by weight. Each publicly accessible textile drop-off bin shall prominently display on the front and on at least one other side of the bin, the name, address and telephone number of the owner or other person responsible for the bin. This information shall be printed in characters that are plainly visible. In no event shall a post office box be considered an acceptable address for purposes of this subdivision.
+*§ 2-06.1 Interim Rent Guidelines (II).* ::
 
-c. The department shall report by weight the amount of textiles collected in publicly accessible textile drop-off bins located on city property or property maintained by the city, through public textile reuse and recycling sites pursuant to subdivision a of this section and in publicly accessible textile drop-off bins maintained on private property. Such report shall be included as part of the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter.
 
+(a) Coverage. 
 
+   (1) These rent guidelines apply to interim multiple dwelling ("IMD") units, as defined in § 281 of Article 7-C of the Multiple Dwelling Law, which:
 
+      (i) are subject to Article 7-C solely pursuant to MDL § 281(4); and
 
+      (ii) are registered with the Loft Board; and
 
+      (iii) have a residential occupant qualified for protection pursuant to Article 7-C of the Multiple Dwelling Law, who
 
-*§ 16-310.2 Paint stewardship program.* ::
+         (A) did not have a lease or rental agreement in effect on July 27, 1987; or
 
+         (B) had a lease or rental agreement in effect on July 27, 1987, which expired prior to October 29, 1992 and prior to the IMD unit's compliance with the safety and fire protection standards of Article 7-B of the Multiple Dwelling Law; or
 
-a. Within one year of the effective date of this section, the commissioner shall establish a voluntary paint stewardship program under which manufacturers of architectural paint, in cooperation with distributors of architectural paint and retail establishments that sell, or offer for sale, architectural paint in the city of New York, may establish a collection or other reclamation system to collect architectural paint from consumers for reuse, recycling or environmentally sound disposal.
+         (C) had a lease or rental agreement in effect on July 27, 1987, which is still in effect on October 29, 1992, but which expires prior to the IMD unit's compliance with the safety and fire protection standards of Article 7-B of the Multiple Dwelling Law.
 
-b. The commissioner shall provide assistance or guidance to participating architectural paint manufacturers, distributors and retail establishments in developing and implementing strategies to reduce the quantity of architectural paint in the waste stream, promote the reuse of architectural paint that would otherwise be discarded and disseminate information regarding options to recycle architectural paint including, but not limited to, posting information regarding the voluntary paint stewardship program on the department's website.
+   (2) "Lease or rental agreement" shall mean
 
+      (i) a written lease or rental agreement; or
 
+      (ii) an oral agreement for a rental period of one year or less, provided that
 
+         (A) there had been a change from the previous rent, confirmed by rent checks tendered by the residential occupant and accepted by the landlord within the year prior to July 27, 1987, or
 
+         (B) there had been a substantial change in the level of services agreed to be provided within the year prior to July 27, 1987.
 
+(b) Effective date. The effective date of these rent increases for registered IMDs will be the next regular rent payment date following October 29, 1992. Where written request for the increase is made of the residential occupant within 30 days of the issuance by the Loft Board of an IMD registration number, such increase shall be retroactive to the first regular rent payment date following the submission of the registration application to the Loft Board. However, any such increase shall not be retroactive to a date earlier than October 29, 1992. Except as indicated above, the rent increases shall apply prospectively only.
 
-*§ 16-311 Recycling outreach and education.* ::
+(c) Amount of increases. For purposes of these rent guidelines, the following percentages shall be calculated upon the total rent for the residential occupant, including both base rent and escalators. "Escalators" are lease or rental agreement provisions which provided for a residential occupant's payment as rent or additional rent charges based on, but not limited to: real estate taxes; heating fuel; labor; water and sewer; insurance; vault tax; and any cost-of-living increase formulas. Such provisions as relate to gas, electricity and steam charges are excluded from this definition of total rent and these utility escalators, when based on a fair calculation of the occupant's usage, shall be the only escalators permitted following the effective date of the rent increase provided they were part of the last lease or rental agreement in effect on or before July 27, 1987. Total Rent is the amount in base rent and escalators due the landlord from the tenant during the last payment period pursuant to a lease or rental agreement in effect on July 27, 1987, except that the total rent attributable to escalators shall only include the amount demanded by the landlord and paid by the tenant pursuant to said lease or rental agreement. Where no lease or rental agreement was in effect on July 27, 1987, total rent is the rental amount paid by the tenant to the landlord on or before July 27, 1987 pursuant to the last lease or rental agreement in effect. Rent levels for units covered by this order shall reflect no more than the following maximum percentage increases, calculated as of the effective date of this order to such unit:
 
+   (1) For units where the last increase in total rent or a utility escalator pursuant to a lease or rental agreement tendered by the tenant and accepted by the landlord was:
 
-a. The department shall provide instruction and materials for residential building owners, net lessees or persons in charge of such buildings, and their employees and residents, in order to improve compliance with the provisions of this chapter.
+      (i) Subsequent to October 29, 1990: there will be no increase permitted above the total rent as defined above.
 
-b. The commissioner shall establish a recycling education program that shall include recycling instructional workshops, training curricula and other relevant materials for residential building owners, net lessees or persons in charge of such buildings, and their employees and residents, including an internet-based recycling tutorial. Such program shall also provide instructional workshops, training curricula, and other relevant material to employees of city agencies, including a leaf and yard waste training program for employees of any such agencies that generate significant leaf and yard waste. The commissioner may utilize a private entity or not-for-profit corporation to assist with the establishment or performance of such program.
+      (ii) Between October 29, 1988 and October 29, 1990: the maximum permissible increase shall be 7 percent of the total rent as defined above.
 
+      (iii) Between October 29, 1986 and October 28, 1988: the maximum permissible increase shall be 16 percent of the total rent defined above.
 
+      (iv) Between October 29, 1984 and October 28, 1986: the maximum permissible increase shall be 24 percent of the total rent defined above.
 
+      (v) Before October 29, 1984: the maximum permissible increase shall be 33 percent of the total rent as defined above.
 
+   (2) For units which have had no rent increases since the inception of the last lease or rental agreement between the residential occupant and landlord, the maximum percentage increases contained in category (ii), (iii), (iv), and (v) above shall be based upon the date of inception of the last lease or rental agreement. These rent increases shall be a permanent part of the rent.
 
+(d) Overcharges and Penalties. Rent payments made prior to the date of adoption of this rule in excess of the amount prescribed by this rule, or 29 RCNY § 2-06, constitute an overcharge, which may be paid at the owner's option either in a lump sum or as a subtraction from the legal monthly rent payments at a rate equal to 20 percent of the legal rent permitted under this rule as of the date of adoption of this rule  until payment of the full overcharge is completed. No trebel damages shall be prescribed by this rule or 29 RCNY § 2-06.
 
-*§ 16-312 Processing recyclable materials.* ::
 
 
-The commissioner shall establish procedures and standards for processing recyclable materials designated pursuant to section 16-305 of this chapter in city owned or operated recycling centers, city owned or operated transfer stations or any city owned or operated facility that renders recyclable materials suitable for reuse or marketing and sale. The commissioner shall annually review such procedures and standards and make any changes necessary to conform to the requirements of the marketplace.
 
 
 
+*§ 2-06.2 Interim Rent Guidelines and Rent Adjustments pursuant to MDL § 286(2)(i).* ::
 
 
+(a) Coverage.
 
-*§ 16-313 Marketing recyclable materials.* ::
+   (1) These rent guidelines apply to interim multiple dwelling ("IMD") units, as defined in § 281 of Article 7-C of the Multiple Dwelling Law ("MDL"), which (i) are subject to Article 7-C solely pursuant to MDL § 281(5); (ii) are registered with the Loft Board; and (iii) do not meet the safety and fire protection standards of Article 7-B of the MDL.
 
+(b) Definitions. For the purposes of this section, the following definitions apply:
 
-The department shall establish procedures, standards and strategies to market the recyclable materials designated pursuant to section 16-305 of this chapter, including, but not limited to, maintaining a list of prospective buyers, establishing contact with prospective buyers, entering into contracts with buyers, and reviewing and making any necessary changes in collecting or processing the materials to improve their marketability.
+   (1) "Lease or rental agreement" means:
 
+      (i) a written lease or rental agreement; or
 
+      (ii) an oral agreement for a rental period of one year or less, provided that:
 
+         (A) There was a change in the rent for the IMD unit, confirmed by rent checks tendered by the residential occupant and accepted by the landlord within the year prior to June 21, 2010; or
 
+         (B) There had been a substantial change in the level of services agreed to be provided within the year prior to June 21, 2010.
 
+   (2) "Escalators" are additional charges agreed upon by the occupant and landlord to be paid by the occupant provided in a lease or rental agreement, including but not limited to charges based on: real estate taxes; heating fuel; labor; water and sewer; insurance; vault tax; or any cost-of-living increase formulas.
 
-*§ 16-314 Recycling program revisions.* ::
+   (3) (i) "Use-Based Escalators" are escalators that: 1) are based on a verifiable calculation of the occupant's usage and the cost to the owner; and 2) were part of the last lease or rental agreement in effect on or before June 21, 2010. Use-based escalators may include charges related to gas, electricity and steam.
 
+      (ii) Garbage Escalators are escalators related to garbage collection services that were part of the last lease or rental agreement in effect on or before June 21, 2010. Garbage escalators will not include charges for services provided by the New York City Department of Sanitation or a succeeding government agency at no cost to the owner.
 
-The commissioner shall annually review the recycling program and all rules promulgated thereunder, and shall make the necessary revisions to improve the efficiency of collecting, processing, marketing and selling the materials recycled pursuant to this chapter. These revisions may include designating additional recyclable materials. The commissioner shall not delete designated materials without designating additional materials so that the total quantity, by weight, of all designated recyclable materials collected, processed, marketed and sold does not decrease. Where the commissioner determines that it is appropriate to delete a designated material, the department shall provide notice of such deletion to the mayor and the council, including the reason for such deletion, and shall provide any relevant data supporting such decision.
+   (4) "Total rent"
 
+      (i) Lease in effect on June 21, 2010. Except as provided in (iii), total rent is the rent, including escalators, specified in the lease or rental agreement in effect on June 21, 2010, paid by the tenant pursuant to said lease or rental agreement.
 
+      (ii) No lease in effect on June 21, 2010. Except as provided in (iii), where no lease or rental agreement was in effect on June 21, 2010, the total rent is the rent, including escalators, paid by the tenant to the landlord on or before June 21, 2010 pursuant to the last lease or rental agreement prior to June 21, 2010.
 
+      (iii) Total rent shall not include use-based escalators or garbage escalators.
 
+(c) Rent Adjustments Pursuant to § 286(2)(i). For purposes of determining rent adjustments pursuant § 286(2)(i), there will be no increase permitted above the total rent as defined above for any unit subject to Article 7-C pursuant to MDL § 281(5).
 
+(d) Permissible Rent Levels. An owner of a unit subject to Article 7-C pursuant to MDL § 281(5) may not charge a residential occupant more than:
 
-*§ 16-315 Notice, education and research programs.* ::
+   (1) Total rent, as defined above; plus
 
+   (2) Any other rent adjustments authorized pursuant to Article 7-C and these Rules, including allowable rent adjustments authorized pursuant to 29 RCNY § 2-12; plus
 
-a. In addition to the notice requirements of section one thousand forty-three of chapter forty-five of the charter, within thirty days of the effective date of any rules promulgated pursuant to this chapter, and as frequently thereafter as the commissioner deems necessary, the department shall notify all community boards and persons occupying residential, commercial and industrial premises affected by the rules, of the requirements of the rules, by posting notices containing recycling information in public places where such notices are customarily placed and, in the commissioner's discretion, employing any other means of notification deemed necessary and appropriate.
+   (3) Use-based escalators, if any; plus
 
-b. The commissioner shall compile relevant recycling, reuse and composting information, including material available on the department's website, to create and make available a guide to the city's residential recycling program. Such guide shall, at a minimum, summarize and explain the laws and rules governing curbside recycling, list the collection locations and collection dates for non-curbside collected recyclable materials such as household hazardous waste and textiles, and provide detailed information and instructions on how to recycle any materials not collected by the department for which non-city or non-department recycling programs exist. Such guide shall be made available to residential building owners, or the net lessees or persons in charge of such buildings, community boards, not-for-profit organizations, public schools, and other relevant agencies and entities, and shall also be made available on the department website. The commissioner shall update the recycling guide biennially, or as necessary, based on changes to recycling laws, rules or other relevant information to be included therein.
+   (4) Garbage escalators, if any.
 
-c. The department shall develop and implement an educational program, in conjunction with the department of education, private schools, labor organizations, businesses, neighborhood organizations, community boards, and other interested and affected parties, and using flyers, print and electronic advertising, public events, promotional activities, public service announcements, and such other techniques as the commissioner determines to be useful, to assure the greatest possible level of compliance with the provisions of this chapter. The educational program shall encourage waste reduction, the reuse of materials, the purchase of recyclable products, and participation in city and private recycling activities.
+(e) Overcharges and Penalties. Rent payments made prior to September 11, 2013, the effective date of this rule, in excess of the permissible rent levels as described above in subdivision (d) constitute an overcharge which may be paid, at the owner's option, either in a lump sum to the tenant or as a 20 percent reduction of the legal rent permitted under this rule as of September 11, 2013, the effective date of the rule, until payment of the full overcharge is completed. No treble damages may be imposed for a violation of this section.
 
-d. The department shall perform such research and development activities, in cooperation with other city agencies, and public and private institutions, as the commissioner determines to be helpful in implementing the city's recycling program. Such research shall include, but not be limited to, investigation into the use of cooperative marketing programs, material recovery facilities, recycling as an economic development tool, export promotion, tax credits and exemptions for market promotion.
 
 
 
 
 
+*§ 2-07 Sales of Improvements.* ::
 
 
-**Subchapter 3: Recycling Studies**
+(a)  Definitions. The following terms shall have the following definitions unless context clearly indicates otherwise.
 
+   (1) Fair market value. "Fair market value" is defined as follows:
 
+      (i) A bona fide offer by a prospective incoming tenant to purchase improvements made or purchased by an outgoing tenant qualified for protection under Article 7-C is presumed to represent the fair market value of the improvements.
 
-*§ 16-316 Recycling and composting economic development study.* ::
+      (ii) The presumption in (i) above may be rebutted if the owner challenges the value in accordance with 29 RCNY § 2-07(g), in which case the fair market value will be determined by the Loft Board in accordance with 29 RCNY § 2-07(g).
 
+      (iii) If no such offer is made or available, the value shall be established by agreement of the parties or pursuant to an application to the Loft Board, which shall determine the value in accordance with the criteria and procedures set forth in this Rule.
 
-Within two years of the effective date of this section, the department, in conjunction with the mayor's office of long-term planning and sustainability and the New York city economic development corporation, shall perform a study on the economics of recycling and composting and the development of recycling and composting-related industries in the city of New York. Such study shall: (i) assess the New York city recycling market including but not limited to a growth forecast for recycling markets and related industries for the next five years; (ii) describe those industries or businesses that would address shortcomings in the city's recycling and composting infrastructure and areas where opportunities for recycling and composting-related job growth in the city appear practical, describing barriers to recycling and composting businesses, and outlining financial and other incentives that might be successful in attracting new recycling and composting-related businesses or encouraging the expansion of existing recycling and composting-related businesses; (iii) examine existing markets for processing and purchasing recyclable materials and the potential and steps necessary to expand these markets; and (iv) look at the city's taxation and finance authority to stimulate recycling and the demand for recycled materials. Sections of such study may be shared with or derived from the composting report required pursuant to section 16-316.2 of this subchapter.
+   (2) Improvements. "Improvements" are the fixtures, alterations and development of an interim multiple dwelling ("IMD") unit which were made or purchased by a residential tenant who is qualified for protection under Article 7-C.
 
+      (i) "Fixtures" are defined as that which is fixed or attached to real property permanently as an appendage, including, but not limited to, the following: kitchen installations, such as stoves, sinks, counters, and built-in cabinets; bathroom installations, such as sinks, toilets, bathtubs, and showers; other installations, such as partitions, ceilings, windows, and floors, including tiling; built-in shelves; plumbing and utility risers; electrical work; heating units; and hot water heaters.
 
+      (ii) "Alterations and development" include, but are not limited to the following: demolition work, such as debris removal; repair, other than normal recurring maintenance; renovation of ceiling, walls, windows, and floors; design, including professional fees paid to architects and designers in connection with the improvements; labor; equipment rental; and such removable personal property as is reasonable to establish residential use, such as a refrigerator and dishwasher.
 
+      Improvements do not include other removable household furnishings, such as rugs, tables, and chairs. A sale of improvements does not constitute a sale of rights pursuant to § 286(12) of the Multiple Dwelling Law ("MDL").
 
+   (3) Unit, as referred to in this Rule, means:
 
+      (i) A residential unit in an IMD building, as defined by MDL § 281 and these Rules, which is registered with the Loft Board or granted coverage by the Loft Board or a court of competent jurisdiction; or
 
-*§ 16-316.1 Waste characterization study.* ::
+      (ii) For the purposes of sales of improvements governed by this section only, a unit formerly registered as an IMD unit, but which has subsequently been legalized and removed from the Loft Board's jurisdiction.
 
+(b) Applicability. This section applies to sales which occur on or after March 23, 1985, except that the definition of the term "fair market value," provided in subdivision (a) of this section, applies only to sales of improvements where a Disclosure Form has been filed with the Loft Board on or after February 16, 1996.
 
-a. The commissioner shall complete follow-up studies to the studies performed in two thousand five regarding the characteristics of the city's residential and institutional waste streams for department-managed solid waste on or before January thirty-first, two thousand twelve, and on or before January thirty-first, two thousand eighteen. The results of each such study and an analysis of those results shall be submitted to the council and the mayor within sixty days of their completion.
+   (1) Right to sell. The residential occupant of an IMD unit which is qualified for protection under Article 7-C may sell the improvements of the unit to the owner or to a prospective tenant, either before or after such unit has been legalized and registered with DHCR, subject to the procedures established in these Rules. This right to sell may be exercised only once for each IMD unit. The improvements must be offered to the owner for an amount equal to their fair market value, as defined in 29 RCNY § 2-07(a) above, prior to their sale to a prospective incoming tenant.
 
-b. On or before January thirty-first, two thousand twenty-four, the commissioner shall complete a detailed, comprehensive citywide multi-season study of the city's residential and institutional waste streams for the purpose of determining the composition of the waste stream characterized by type of material. The results of such study and an analysis of those results shall be submitted to the council and the mayor within sixty days of its completion.
+   (2) Sales not subject, or partially subject, to these rules.
 
+      (i) Registration or a finding of coverage. This section does not apply to units which have never been registered with the Loft Board, unless the unit was granted coverage pursuant to a Loft Board order or court of competent jurisdiction. Any sale of improvements which occurred prior to registration of the unit with the Loft Board or prior to a finding of coverage by the Loft Board or a court of competent jurisdiction does not constitute a sale pursuant to MDL § 286(6), and is not covered by this section. This section does not apply to units which the Loft Board or the Executive Director have found are not covered by Article 7-C pursuant to 29 RCNY §§ 2-05 and 2-08, or which a court of competent jurisdiction has found do not qualify for Article 7-C coverage.
 
+      (ii) Sales between co-tenants. This section does not apply to sales of improvements between co-tenants of an IMD unit, where at least 1 of the co-tenants will remain in occupancy after the sale and is an occupant qualified for the protection of Article 7-C.
 
+      (iii) Compensation to prime lessee or sublessor. Compensation to a prime lessee or sublessor by a residential occupant does not constitute a sale of improvements pursuant to MDL § 286(6), and is governed by 29 RCNY § 2-09(c) in matters regarding the prime lessee's or sublessor's right to compensation for costs incurred in developing a residential unit. After compensation has been made by the residential occupant to the prime lessee or sublessor, the residential occupant has the right to sell the improvements in the unit pursuant to MDL § 286(6) and this section.
 
+(c) Procedure for sales of improvements to prospective incoming tenant.
 
+   (1) An outgoing tenant in an IMD unit proposing to sell improvements to a prospective incoming tenant must send the Loft Board approved Disclosure Form to the owner and prospective incoming tenant in accordance with the following procedures at least 30 calendar days in advance of the date of closing of the proposed sale.
 
-*§ 16-316.2 Food waste composting study.* ::
+      (i) The outgoing tenant must notify the owner of his or her intent to move and to sell the improvements, and the identity of the prospective incoming tenant, providing the following information to the owner:
 
+         (a) A list and description of the improvements included in the proposed sale which were made or purchased by the outgoing tenant with accompanying proof of payment;
 
-The department, in conjunction with the mayor's office of long-term planning and sustainability, shall issue a report by July first, two thousand twelve recommending methods to expand the diversion of compostable waste from the city's waste stream. In preparing such report, the department or the office of long-term planning and sustainability shall (1) study the viability of a curbside collection program for household and institutional compostable waste including, but not limited to, cost considerations and any concerns regarding siting composting facilities to conduct such a curbside collection program; (2) identify existing private and public facilities within three hundred miles of the city that accept compostable waste for composting and determine the available capacity at and cost to deliver compostable waste to such facilities and any siting considerations concerning such facilities; (3) review capacity at putrescible solid waste transfer stations permitted by the city, and putrescible solid waste transfer stations within sixty miles of the city, and determine whether any such transfer stations are capable of accepting source-separated compostable waste for consolidation and transportation, the cost to deliver source-separated compostable waste to such facilities and any siting considerations concerning such facilities; (4) explore opportunities to expand the currently available capacity to compost compostable waste at existing sites within the city or, in conjunction with the study required by section 16-316 of this chapter, explore opportunities to develop one or more new facilities within the city or within sixty miles of the city for the composting of compostable waste, including, but not limited to, opportunities to work with one or more entities to develop such facilities and any siting considerations concerning such a facility; (5) compile a comprehensive list of sites around the city including, but not limited to, city botanical gardens and greenmarkets, that accept household and institutional compostable waste on a voluntary basis, and recommend methods to encourage and expand options for voluntary composting; and (6) provide a plan to study the viability of instituting a food waste composting program for the residential or commercial waste stream, to be completed within two years of the issuance of such report.
+         (b) A written copy of the offer, verified by the prospective incoming tenant, to purchase the improvements, which includes all terms and conditions of the offer;
 
+         (c) Identification of the prospective incoming tenant by name, current business and home addresses and any other address and telephone numbers elected for purposes of delivery of notices and communications;
 
+         (d) An affidavit by the outgoing tenant that he or she made or purchased the improvements offered for sale; or an affidavit that he or she is authorized to sell the improvements on behalf of any other parties having ownership interest in such improvements, accompanied by appropriate evidence of such authorization;
 
+         (e) An affidavit by the prospective incoming tenant that he or she has received and reviewed the Disclosure Form; and
 
+         (f) Three reasonable dates and times within 10 calendar days after service of the Disclosure Form upon the owner, when the owner and/or the owner's designee could inspect the improvements.
 
+      (ii) The Disclosure Form must also include the following advisories to the prospective incoming tenant:
 
-*§ 16-316.3 Household hazardous waste collection.* ::
+         (a) The improvements included in the sale are limited to those items listed and described by the outgoing tenant;
 
+         (b) The prospective incoming tenant is purchasing absolute title to the use and enjoyment for the duration of the prospective tenancy of all other property deemed improvements pursuant to these rules. The owner is responsible for maintenance of improvements deemed fixtures pursuant to these rules; however, the owner has the right to alter or remove the improvements pursuant to code compliance requirements, subject to the terms of this section;
 
-a. No later than July first, two thousand eleven, the commissioner shall establish a citywide program for the diversion of household hazardous waste from department-managed solid waste which shall include, but need not be limited to, at least one annual drop-off collection event at one or more designated sites in each borough.
+         (c) The right to sell improvements may be exercised only once for the unit and an incoming tenant cannot re-sell such improvements to the owner or a prospective incoming tenant pursuant to MDL § 286(6);
 
-b. The department shall report annually the total amount of household hazardous waste diverted by the program established pursuant to subdivision a of this section. Such report shall specify each category of material and the amount of such material collected at each collection event or site established pursuant to subdivision a of this section. Such report shall be included as part of the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter.
+         (d) Upon completion of the sale of improvements by the prospective incoming tenant pursuant to MDL § 286(6), the prospective incoming tenant assumes the rights and obligations of the outgoing tenant as an occupant qualified for protection under Article 7-C;
 
-c. The commissioner shall study opportunities to establish additional household hazardous waste collection events and sites, as well as opportunities to provide for the collection of household hazardous waste at designated sites on a regular basis. The commissioner shall report on such opportunities to the mayor and the council within two years of the effective date of this section, and annually thereafter, and such report shall be included as part of the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter.
+         (e) The amount of the rent and a statement as to the types of further increases which may be applicable to the IMD unit pursuant to the terms of the Loft Board's rules or Rent Guidelines Board's orders;
 
+         (f) If the building has not been issued a final residential certificate of occupancy for the IMD unit at the time of the offer to purchase, the unit remains subject to the requirements of Article 7-C and the Loft Board's rules requiring that such units be brought into compliance;
 
+         (g) MDL § 286(5) provides that the costs of legalization as determined by the Loft Board are passed through to the tenants and may result in rent adjustments owed by the tenant above the base rent, amortized over a 10 or 15 year period;
 
+         (h) The offer is subject to the owner's right:
 
+            1. To purchase the improvements for an amount equal to their fair market value;
 
+            2. To challenge the offer as provided in 29 RCNY § 2-07(g) below; and
 
-*§ 16-316.4 Recycling incentive pilot program.* ::
+            3. To withhold consent to the prospective tenant, provided that consent may not be unreasonably withheld;
 
+         (i) If an owner purchases the improvements, the owner will not be entitled to the opportunity for decontrol of rent regulation or market rentals, as provided in 29 RCNY § 2-07(d)(4)(ii) below, if the owner is found to have harassed tenants, pursuant to 29 RCNY § 2-02, unless the harassment finding has been terminated pursuant to 29 RCNY § 2-02.
 
-a. On or before January 1, 2018, the department, in consultation with the New York city housing authority, shall perform and complete a review of voluntary recycling incentive pilot programs to improve the diversion of designated recyclable materials in public housing, as such term is defined in 24 CFR § 5.100. Such review shall include, but need not be limited to, the following: (i) engaging public housing residents and other stakeholders to identify potential recycling incentive pilot programs and locations where it would be feasible to implement such programs; (ii) examining any potential obstacles to implementing such programs; (iii) exploring financial and other incentives that have been proposed or implemented in other jurisdictions and their potential to increase recycling participation by public housing residents; (iv) determining the steps necessary to implement a recycling incentive pilot program for public housing residents; and (v) prioritizing community districts that have comparatively low rates of recycling in public housing, as determined by the department.
+   (2) The completed Disclosure Form with original signatures must be filed with the Loft Board, together with proof of service. Following receipt, the Loft Board staff will determine whether a sale for the unit in question has been previously filed with the Loft Board's office. If a sale was previously filed, the parties will be notified of the prior sale and the proposed sale will not be given any effect under MDL § 286(6).
 
-b. On or before July 1, 2018, the department shall report to the mayor and the council and post on its website a summary of its review of voluntary recycling incentive pilot programs. The summary shall include the department’s recommendation regarding implementing a voluntary recycling incentives pilot program to improve the diversion of designated recyclable materials in public housing.
+(d) Owner's response to offer and prospective incoming tenant.
 
-c. If the department determines that a voluntary recycling incentive pilot program is feasible and would be reasonably likely to improve the diversion of designated recyclable materials in public housing, the department shall implement such program by July 1, 2020. Within two years after implementation of such program, the department shall report to the mayor and the council, and post on its website, an assessment of the impact of such program on diversion rates. Such assessment shall include the department’s recommendation on expanding or making such program permanent and any other recommended changes to such program.
+   (1) Procedures for owner's response.
 
+      (i) Within 10 calendar days of service of the Disclosure Form, the owner may request any reasonable additional information from the outgoing and prospective incoming tenants that will enable the owner to decide whether to purchase the improvements, and to determine the suitability of the prospective incoming tenant.
 
+         (A) No request by the owner for additional information from the outgoing tenant may be unduly burdensome, and requests for additional information must be relevant to the criteria set forth in 29 RCNY § 2-07(g) below.
 
+         (B) If the Loft Board finds that the owner's request for additional information is unduly burdensome, it may reject the owner's request on application by the outgoing tenant.
 
+      (ii) In the owner's response to the Disclosure Form, the owner must affirm that the subject unit is currently registered with the Loft Board or DHCR, or any successor agency and was registered at the time of service of the Disclosure Form and that he or she either owns the premises or is authorized to act on behalf of the owner in this matter.
 
+      (iii) Within 20 calendar days after service of the Disclosure Form, or delivery of the additional information reasonably requested by the owner, whichever is later, the owner must notify the outgoing and prospective incoming tenants of the owner's:
 
+         (A) Rejection of the offer based on one or more of the grounds for challenge listed in 29 RCNY § 2-07(g)(2), by following the procedures provided in 29 RCNY § 2-07(g);
 
+         (B) Consent to the prospective incoming tenant and consent to the sale of improvements to the prospective incoming tenant; or
 
+         (C) Acceptance and commitment to purchase the improvements at the offered price.
 
-**Subchapter 4: Recycling Advisory Boards**
+      (iv) If the owner's challenge is based on the unsuitability of the prospective tenant, the owner may only initiate an action based on that ground in a court of competent jurisdiction. If an action is brought pursuant to this subparagraph, the owner must inform the Loft Board in writing within 20 calendar days after service of the Disclosure Form or delivery of the additional information requested, if any.
 
+   (2) Owner's rejection of the offer.
 
+      (i) If the owner rejects the outgoing tenant's offer to purchase the improvements, the owner must elaborate on the grounds for the rejection by filing a challenge application in accordance with the procedures provided in subdivision (g), except as provided in 29 RCNY § 2-07(d)(1)(iv). If the rejection is based on the claim that the offer exceeds the fair market value of the improvements, the rejection must include the owner's fair market valuation of the improvements and the owner's commitment to purchase if the fair market value is determined to be no greater than such valuation. If the rejection is based on the claim that the owner made or purchased the improvements, the rejection must indicate which improvements the owner alleges to have made or purchased and include proof.
 
-*§ 16-317 Citizens' solid waste advisory boards; membership.* ::
+      (ii) Failure of the owner to file with the Loft Board a complete application, including payment of a fee of $800.00 to cover the full cost of an appraiser selected by the Board, with copies to the outgoing and prospective tenants, within the time provided in 29 RCNY § 2-07(d)(1)(iii) above, shall be deemed an acceptance of the proposed sale. However, if the owner's challenge is on the ground of the unsuitability of the prospective tenant, the owner may only initiate an action based on that ground in a court of competent jurisdiction and must inform the Loft Board in writing within the time period in 29 RCNY § 2-07(d)(1)(iv).
 
+   (3) Owner's acceptance of sale and prospective tenant.
 
-Within six months of the effective date of this chapter, each borough shall establish a citizens' solid waste advisory board (the "citizens' board"), consisting of no fewer than twenty members who for the first term shall be comprised of the members of the borough's citizens' advisory committee on resource recovery and other persons appointed jointly by the borough president and the council members elected from the council districts included in any part of the borough. For each subsequent term, all members shall be appointed jointly by the borough president and the council members elected from the council districts included in any part of the borough. The membership of each citizens' board shall represent community boards, recycling industries, carting industries, environmental organizations, government agencies, labor organizations, business organizations, property owners, tenant organizations and members of the general public. Members shall serve for a term of two years without compensation and shall designate one member to serve as chairperson and one as vice-chairperson.
+      (i) The owner may send a notice of approval of the proposed sale to the prospective incoming tenant, and acceptance of the prospective incoming tenant.
 
+      (ii) An owner's failure to: 1) send a complete notice of approval, as described in (i) above or 2) file a challenge application with the Loft Board within the time period provided in 29 RCNY § 2-07(d)(1)(iii) above, or by another deadline agreed upon in writing by the owner and outgoing tenant, is deemed an acceptance of the proposed sale from the outgoing tenant to the incoming tenant and acceptance of the prospective incoming tenant, except as provided in 29 RCNY § 2-07(d)(1)(iv).
 
+      (iii) In the case of (i) or (ii) above, the tenant assumes the rights and obligations of the outgoing tenant as an occupant qualified for protection under Article 7-C, upon the execution of the sale provisions and compliance with the other provisions of these Rules. The prospective incoming tenant is permitted to commence residency, despite the lack of a residential certificate of occupancy covering the unit. He or she must pay the rent previously charged to the outgoing tenant, including any applicable pass-throughs or increases permissible under Article 7-C or the Loft Board's rules and orders, including but not limited to:
 
+         (A) Any increases permissible pursuant to 29 RCNY §§ 2-06, 2-06.1, or 2-06.2, if such increases have not already been imposed; or
 
+         (B) Any increases pursuant to the Rent Guidelines Board's orders, if applicable.
 
+   (4) Owner's purchase of improvements.
 
-*§ 16-318 Functions of the citizens' board.* ::
+      (i) If the owner elects to purchase the improvements in an IMD unit in accordance with the terms of the prospective incoming tenant's offer, the owner must notify the outgoing tenant and the prospective incoming tenant of the owner's acceptance in accordance with 29 RCNY § 2-07(d)(1)(iii), and must meet the terms of the offer within 30 calendar days of service of owner's acceptance upon the outgoing tenant. If the owner fails to meet the terms of the offer within the 30 calendar day period, the owner is deemed to have waived the right to purchase the improvements at an amount equal to their fair market value.
 
+      (ii) Upon completion of the purchase of improvements by the owner, an IMD unit subject to rent regulation solely by reason of Article 7-C of the MDL, and not receiving any benefits of real estate tax exemption or tax abatement, will be exempted from the provisions of Article 7-C requiring rent regulation,
 
-a. The department shall submit to each borough president the portion of the biennial report addressing the city's recycling program that is prepared pursuant to the city's two thousand six solid waste management plan, simultaneous with the submission of such report to the mayor and the council. Each borough president shall distribute copies of such portion to each member of the citizens' board in his or her borough. Within ninety days thereafter, each citizens' board shall review such portion, conduct a public hearing on such portion and make written recommendations to its borough president, the department and the council with respect to the recycling program within its borough. Each citizens' board shall also annually advise its borough president and the department with respect to the development, promotion and operation of the recycling program in its borough and pursuant to this function shall formulate and recommend:
+         (A) if such building had fewer than 6 residential units: (a) on June 21, 1982 for a unit covered under MDL § 281(1); (b) on July 27, 1987 for a unit solely covered under MDL § 281(4); or (c) on June 21, 2010 for a unit covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapters 135 or 147 of the Laws of 2010; or
 
-   1. annual recycling goals equal to or greater than those set forth in section 16-305 of this chapter and the methods proposed to achieve such goals;
+         (B) if the unit was purchased by the owner pursuant to these rules before July 27, 1987 and the building had fewer than 6 residential units on June 21, 1982, but 6 or more residential units on July 27, 1987.
 
-   2. means to encourage community participation in the recycling program; and
+      (iii) Upon completion of the purchase by the owner, any unit subject to rent regulation solely by reason of Article 7-C of the MDL, and not receiving any benefits of real estate tax exemption or tax abatement, will be subject to subsequent rent regulation after being rented at market value, if such building had 6 or more residential units on: (a) June 21, 1982 for a unit covered under MDL § 281(1); (b) July 27, 1987 for a unit solely covered under MDL § 281(4); or (c) June 21, 2010 for a unit covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapters 135 or 147 of the Laws of 2010.
 
-   3. means to promote the recycling program and educate the public with regard to the program.
+      (iv) The exemption from rent regulation is not available in a building when any sale of improvements takes place on or after the date of a finding of harassment, and before the harassment order is terminated by the Loft Board in accordance with 29 RCNY § 2-02(d)(2).
 
-b. In each borough, the citizens' board shall assume all the responsibilities and functions of the borough's citizens' advisory committee on resource recovery.
+(e) [Reserved.]
 
+(f) Notice between parties: form and time requirements.
 
+   (1) All notices, requests, responses and stipulations served by owners and tenants pursuant to this section must be in writing, with a copy delivered or mailed to the Loft Board, accompanied by proof of service. Service by the parties will be effected either (1) by personal delivery or (2) by certified or registered mail, return receipt requested, with an additional copy sent by regular mail.
 
+   (2) Unless otherwise agreed in writing by the parties, with notice to the Loft Board, these communications must be sent to the outgoing tenant and to the prospective incoming tenant at the respective addresses specified on the Disclosure Form; and to the owner at the address indicated on the latest IMD registration form filed with the Loft Board immediately prior to the filing of the Disclosure Form.
 
+   (3) If service was made personally, a verified statement of the person who effected service, setting forth the time, place and other details of service will constitute proof of service. If service was performed by mail, copies of the United States Post Office stamped return receipt and verified statement of mailing will constitute proof of service.
 
+   (4) The deadlines provided in this section are triggered by the effective date of service. Service is deemed effective upon personal delivery or 5 calendar days following service by mail.
 
-*§ 16-319 Citywide recycling advisory board; membership.* ::
+   (5) Communications by the Loft Board pursuant to this section will be sent by regular mail to the addresses indicated in paragraph (2) above.
 
+(g) Applications challenging proposed sale of improvements.
 
-There shall be a citywide recycling advisory board (the "citywide board") consisting of at least one representative from each citizens' board, five members appointed by the council, and five members appointed by the mayor. The membership of the citywide board shall represent community boards, recycling industries, carting industries, environmental organizations, government agencies, labor organizations, business organizations, real property owners, tenant organizations and members of the general public. Members shall serve for a term of one year without compensation and shall designate one member to serve as chairperson and one as vice-chairperson.
+   (1) Procedures.
 
+      (i) An owner of an IMD unit seeking to contest the proposed sale of improvements must apply to the Loft Board for a determination within 20 calendar days of service upon the owner of the Disclosure Form, or within such additional period as provided pursuant to 29 RCNY § 2-07(d) above, and must pay the mandated filing fee of $800. Before the owner files a challenge application under this subdivision, the owner's registration with the Loft Board, including payment of applicable registration fees, must be current, or before filing a challenge application with respect to improvements in a unit that was formerly subject to Article 7-C, the owner's registration with DHCR or any successor agency must be current. The owner must also state that he or she is the owner of the premises or is authorized to act on behalf of the owner in this matter.
 
+      (ii) Filing of an application challenging the sale of improvements to a prospective incoming tenant which is found by the Loft Board to be frivolous may constitute harassment, pursuant to 29 RCNY § 2-02, with the consequences provided in 29 RCNY § 2-07(d)(4). An objection to the sale may be found to be frivolous on grounds including, but not limited to, the following: that it was filed without a good faith intention to purchase the improvements at fair market value or that the owner's valuation of the improvements has no reasonable relationship to the fair market value, as determined by the Loft Board.
 
+      (iii) The owner must serve the outgoing and prospective incoming tenants with a copy of the owner's challenge application, and file within 5 calendar days of service 2 copies of the application at the Loft Board and proof of service as described in 29 RCNY § 1-06(b).
 
+      (iv) The outgoing and prospective incoming tenants will have 7 calendar days from when service of the application is deemed complete to file with the Loft Board an answer to the challenge application. Two copies of the answer must be filed with the Loft Board. One copy of the answer must be served on the owner and the other affected parties, if any, prior to filing the answer with the Loft Board. Proof of service must be filed with the Loft Board in accordance with 29 RCNY § 1-06(e).
 
+      (v) The outgoing tenant's answer must include 3 available dates and times during regular business hours within 10 calendar days of the date of filing of the answer with the Loft Board during which the improvements will be available to be inspected by a Loft Board-appointed appraiser in accordance with subparagraph (vi).
 
-*§ 16-320 Functions of the citywide board.* ::
+      (vi) The appraiser shall be appointed by the Loft Board, must be suitably qualified in valuing improvements and must be a Registered Architect, a Professional Engineer or a New York State Certified General Real Estate Appraiser.
 
+      (vii) The Board shall also notify the owner, outgoing tenant and prospective incoming tenant of an inspection date at one of the times designated by the outgoing tenant, or at another time fixed by the Board if none of the proposed dates is mutually convenient. Following the inspection, a copy of the appraiser's findings will be mailed to the three parties. A conference or hearing date must be scheduled no fewer than 8 calendar days nor more than 15 calendar days from the mailing of the notice of conference or hearing or, if applicable, the filing of the appraiser's report. There may be no more than one adjournment per party, limited to 7 calendar days, for good cause shown. Except as provided in these rules, the requirements of the Loft Board's rules regarding applications apply.
 
-The citywide board shall meet at least four times a year to discuss citywide recycling issues, including but not limited to budgetary issues. The citywide board shall annually review the department's recycling program and make recommendations to the mayor and the council concerning improvements to and changes in the program.
+      (viii) If a challenge application results in an order by the Loft Board determining that the offer constitutes fair market value, the owner may exercise the right to purchase improvements at that price. If the Loft Board determines that the offer does not constitute fair market value, in accordance with 29 RCNY § 2-07(g)(2), the owner may exercise the right to purchase the improvements at the price determined to constitute fair market value. The owner must notify the outgoing tenant within 10 calendar days of service of the Loft Board's order determining fair market value of the owner's intent to purchase at such price less half the cost of the appraisal and must consummate the purchase within 10 calendar days of the owner's notice to the outgoing tenant, except that where the fair market value determination is less than the price offered by the outgoing tenant, the outgoing tenant may decline to sell the improvements. The Loft Board's order determining fair market value constitutes the price at which the outgoing tenant must first offer to sell the previously offered improvements to the owner for a period of 2 years from the date of the Loft Board order.
 
+      (ix) If the owner elects not to purchase the improvements at the Loft Board-determined fair market value, the outgoing tenant may sell to the prospective incoming tenant, without challenge by the owner to the fair market value of the offer. The owner's failure to consummate a purchase, following notice of intent to purchase, within the period prescribed above, is deemed an election not to purchase.
 
+   (2) Grounds for challenge. An owner may challenge a proposed sale of improvements on the following grounds:
 
+      (i) The offer is not a bona fide, arms-length offer which discloses to the owner all its terms and conditions.
 
+      (ii) Some or all of the improvements offered for sale were made or purchased by the owner, not the outgoing tenant. Proof of ownership or payment is required.
 
+      (iii) The offer exceeds fair market value as determined in accordance with the following standards:
 
-*§ 16-321 Disclosure requirements.* ::
+         (A) A bona fide offer to purchase improvements made or purchased by the outgoing tenant is presumed to represent fair market value.
 
+         (B) The presumption may be rebutted if the owner establishes that:
 
-a. Whenever a person, other than a public servant, appointed to any advisory board created pursuant to this subchapter, engages in any business dealings with the department, or engages in business dealings with any other agency that relate to processing or disposal of solid waste or of waste described in paragraph three of the definition of solid waste in section 16-303 of this chapter or to recycling, or has an interest in a firm that is engaged in such business dealings with the department or with such other agency, such person shall, prior to appointment, disclose the nature of such business dealings to the commissioner and to the body or officer appointing such person, and, after appointment, disclose the nature of such business dealings to the commissioner and to all other members of such board; provided that such person need not disclose the amount of such business dealings.
+            (a) For such improvements as were purchased by the outgoing tenant, the offer exceeds the amount paid for the improvements minus depreciation for wear and tear and age; or
 
-b. When used in this section:
+            (b) For such improvements as were made by the outgoing tenant, the offer exceeds the replacement cost of the improvements minus depreciation for wear and tear and age.
 
-   1. "Advisory committee" means a committee, council, board or similar entity that is constituted to provide advice or recommendations to the city and which has no authority to take a final action on behalf of the city, to take any action that would have the effect of conditioning, limiting or requiring any final action by any other agency, or to take any action that is authorized by law.
+         (C) If any of the improvements offered for sale are out of compliance with the New York City Building Code or other applicable laws or regulations, the noncompliance may not be considered when calculating the amount paid for or the replacement costs of the improvements, for improvements made or purchased prior to (a) March 23, 1985, or (b) September 11, 2013, the effective date of this amended rule, for a unit covered under Article 7-C pursuant to MDL § 281(5).
 
-   2. "Agency" means a city, county, borough or other office, position, administration, department, division, bureau, board, commission, authority, corporation, advisory committee or other agency of government, the expenses of which are paid in whole or in part from the city treasury, and shall include but not be limited to, the council, the offices of each elected official, the department of education, community school boards, community boards, the financial services corporation, the health and hospitals corporation, the public development corporation and the New York city housing authority, but shall not include any court or any corporation or institution maintaining or operating a public library, museum, botanical garden, arboretum, tomb, memorial building, aquarium, zoological garden or similar facility.
+      (iv) On any other basis authorized under Article 7-C.
 
-   3. "Blind trust" means a trust in which a candidate for any advisory board created pursuant to this subchapter or a member of such board, or the spouse or unemancipated child of such candidate or member, has a beneficial interest, the holdings and sources of income of which such candidate or member and such spouse and unemancipated child have no knowledge, and the trustee of which shall have independent authority and discretion.
+      (v) If a basis of a challenge is the unsuitability of the prospective incoming tenant, the owner may only initiate an action based on that ground in a court of competent jurisdiction; such challenge will not be entertained by the Loft Board.
 
-   4. "Business dealings" means any transaction involving the sale, purchase, rental, disposition or exchange of any goods, services or property, and any performance of or litigation with respect to any of the foregoing, but shall not include any transaction involving the residence of any candidate for any advisory board created pursuant to this subchapter or of any member of such board, or any ministerial matter.
+   (3) Affected Parties. The term "affected parties," when used in an application challenging an offer to purchase improvements, is limited to the owner and the outgoing tenant, except that a prospective incoming tenant is an affected party in cases involving an owner's challenge to the prospective incoming tenant's offer to purchase improvements.
 
-   5. "City" means the city of New York and includes an agency of the city.
+(h) Deadline Extensions on consent and change of address. Deadlines set in this rule may be modified, applications may be withdrawn, and disputes may be resolved, by written agreement of the parties, subject to Loft Board written approval. Parties may change their address upon service of written notice to the Loft Board and the other affected parties, as defined in 29 RCNY § 2-07(g)(3) above. Notice is effective upon personal delivery or 5 calendar days following service by mail.
 
-   6. "Elected official" means a person holding office as mayor, comptroller, public advocate, borough president or member of the council.
+(i) Tenant's Right to Fair Market Value of Improvements in Cases of Hardship Exemptions, Vacate Orders and Owner Occupancy.
 
-   7. "Firm" means a sole proprietorship, joint venture, partnership, corporation or any other form of enterprise, but shall not include a public benefit corporation or local development corporation.
+   (1) In the event that:
 
-   8. "Interest" means an ownership interest in a firm or a position with a firm.
+      (i) The failure of an owner to comply with the legalization deadlines mandated by MDL § 284(1) results in a municipal vacate order pursuant to MDL § 284(1)(x);
 
-   9. "Ministerial matter" means an administrative act that is carried out in a prescribed manner and which does not involve substantial personal discretion.
+      (ii) The Loft Board grants a hardship exemption pursuant to MDL § 285(2); or
 
-   10.*   "Ownership interest" means an interest in a firm that is held by a candidate for any advisory board created pursuant to this subchapter, or by a member of such board, or by the spouse, domestic partner, or unemancipated child of such candidate or member, which exceeds five percent of the firm or an investment of twenty-five thousand dollars in cash or other form of commitment, whichever is less, or five percent or twenty-five thousand dollars of the firm's indebtedness, whichever is less, and any lesser interest in a firm when such candidate or member, or such spouse, domestic partner, or unemancipated child, exercises managerial control or responsibility regarding any such firm, but shall not include interests held in any pension plan, deferred compensation plan or mutual fund, the investments of which are not controlled by such candidate or member, or by such spouse, domestic partner, or unemancipated child, or in any blind trust that holds or acquires an ownership interest.
+      (iii) The owner successfully obtains the right to occupy former IMD units under the provisions of the Rent Stabilization Law and the Rent Stabilization Code §§ 2524.4(a) and 2525.6, an occupant qualified for Article 7-C protections may apply to the Loft Board for a determination of fair market value of improvements and reasonable moving expenses.
 
-* Editor's note: originally designated as "(10)"; revised by Code editor.
+   (2) As further provided in MDL § 284(1)(x), any vacate order pursuant to 29 RCNY § 2-07(i)(1)(i) above, is to be deemed an order to correct the non-compliant conditions, subject to the provisions of Article 7-C, and the occupant has the right to reoccupy the unit when the condition has been corrected and is entitled to all applicable protections of Article 7-C.
 
-   11. "Position" means a position in a firm, such as an officer, director, trustee, employee or any management position, or as an attorney, agent, broker or consultant to the firm, which does not constitute an ownership interest in the firm.
+   (3) The Loft Board shall determine the fair market value in accordance with this section except that the tenant shall be the applicant, affected parties shall be limited to the owner and tenant, and the tenant shall offer proof of reasonable moving expenses as well as both parties offering proof as to the value of the improvements.
 
-   12. "Public servant" means all officials, officers and employees of the city, including members of community boards and members of advisory committees, except unpaid members of advisory committees shall not be public servants.
+   (4) Upon a finding by the Loft Board of the fair market value of the improvements and of reasonable moving expenses, the owner will be required to pay such amounts to the tenant plus an amount equal to the application filing fee.
 
-   13. "Spouse" means a husband or wife of a candidate for any advisory board created pursuant to this subchapter or of a member of such board who is not legally separated from such candidate or member.
+(j) Effect of Sale: Filing the Sale Record with the Loft Board.
 
-   14. "Unemancipated child" means any son, daughter, step-son or step-daughter who is under the age of eighteen, unmarried and living in the household of a candidate for any advisory board created pursuant to this subchapter or of the member of such board.
+   (1) Except as provided in paragraph (2) below, within 30 calendar days of the sale of improvements to the owner, pursuant to MDL § 286(6), the owner must file a Loft Board-approved Sale Record, which provides the following information: address of IMD and location of unit; name and telephone number of incoming tenant; description of improvements conveyed; purchase price; and rent. Failure by the owner to file the required Sale Record within 30 calendar days of the sale of improvements may subject the owner to a civil penalty, as determined by the Loft Board in accordance with 29 RCNY § 2-11.1.
 
+   (2) If a prospective incoming tenant purchases the improvements in the IMD unit, no further filing is required. Unless the Loft Board is otherwise informed, receipt by the Loft Board of a Disclosure Form is presumed to be notice that a sale to the prospective incoming tenant identified has taken place within 60 calendar days following receipt of such Disclosure Form, or 60 calendar days following the last deadline modification approved by the Loft Board.
 
+   If no sale has occurred, the outgoing tenant must inform the Loft Board within 60 calendar days following the filing of the Disclosure Form, or 60 calendar days from the last deadline. If the outgoing tenant fails to advise the Loft Board within the prescribed 60 calendar days that no sale has taken place, such tenant may refute the presumption by: 1) filing a letter withdrawing the previously filed Disclosure Form, or 2) filing another Disclosure Form, with a new proposed sale along with an affidavit by the outgoing tenant stating that the prior proposed sale did not occur, that the tenant has remained in occupancy of the unit and that no sale of improvements in the unit has occurred.
 
 
 
 
 
-**Subchapter 5: City Purchase of Recycled Products [Repealed]**
 
+*§ 2-08 Coverage and Issues of Status.* ::
 
 
-*§ 16-322 City purchase of products made from secondary materials. [Repealed]* ::
+Registration as an interim multiple dwelling (hereinafter "IMD") with the New York City Loft Board (hereinafter "Loft Board") shall be required when a building, structure or portion thereof meets the criteria for an IMD set forth in §§ 281, 282-a of Article 7-C of the Multiple Dwelling Law (hereinafter "MDL") and these rules.
 
+(a) Definitions.
 
-Rules adopted by the commissioner pursuant to this chapter shall become effective only after filing and publication as prescribed by chapter forty-five of the charter. In addition, notwithstanding the provisions of chapter forty-five of the charter, prior to adoption by the commissioner of a final rule pursuant to subdivision e of section one thousand forty-three of the charter, and after consideration of relevant comments presented pursuant to subdivision d of such section, the commissioner shall submit to the council the text of the final rule proposed to be published in the city record. The council shall have thirty days from the date of such submission to comment upon such text. The final rule may include revisions in response to comments from the council and shall not be published in the city record before the thirty-first day after such submission, unless the speaker of the council authorizes earlier publication.
+   (1.) Building.
 
+      (i) As defined in § 12-10 of the Zoning Resolution, a building is any structure which:
 
+         (A) is permanently affixed to the land;
 
+         (B) has one or more floors and a roof; and
 
+         (C) is bounded by either open area or the lot lines of a zoning lot.
 
+      (ii) A building may be a row of structures, and have one or more structures on a single zoning lot. (iii) In deciding whether a structure is a single building, as distinguished from more than one building for purposes of IMD determination, the Loft Board shall employ the definition set forth above, and consider inter alia the following factors:
 
-*§ 16-324 Enforcement.* ::
+         (A) whether the structure is under common ownership;
 
+         (B) whether contiguous portions of the structure within the same zoning lot are separated by individual load-bearing walls, without openings for the full length of their contiguity, as distinguished from non-loadbearing partitions;
 
-a. Subject to the provisions of subdivision b of this section, any person who violates this chapter, except section 16-306.1 of this chapter, subdivision g of section 16-308 of this chapter, section 16-310.1 of this chapter or section 16-329 of this chapter, or any rule promulgated pursuant thereto, shall be liable for a civil penalty recoverable in a civil action brought in the name of the commissioner or in a proceeding returnable before the environmental control board, as follows:
+         (C) whether the structure has been operated as a single entity, having one or more of the following:
 
-   1. For residential buildings containing fewer than nine dwelling units, the civil penalty shall be in an amount of twenty-five dollars for the first violation, fifty dollars for the second violation committed on a different day within a period of twelve months, and one hundred dollars for the third and each subsequent violation committed on a different day within a period of twelve months, provided that the court before which such civil action is brought or such board may waive the penalty for the first violation upon a showing of good cause.
+            (a) a common boiler;
 
-   2. For residential buildings containing nine or more dwelling units and commercial, manufacturing or industrial buildings, the civil penalty shall be in an amount of one hundred dollars for the first violation, two hundred dollars for the second violation committed on a different day within a period of twelve months, and four hundred dollars for the third and each subsequent violation committed on a different day within a period of twelve months, provided that the court before which such civil action is brought or such board may waive the penalty for the first violation upon a showing of good cause. The owner, net lessee or person in charge of any residential building of nine or more dwelling units or a commercial, manufacturing or industrial building with respect to which four or more violations were committed on different days within a period of six months shall be classified as a persistent violator.
+            (b) a common sprinkler system;
 
-   3. For persistent violators only, each container or bag containing solid waste that has not been source separated or placed out for collection in accordance with the rules promulgated by the commissioner pursuant to this chapter shall constitute a separate violation, provided that no more than twenty separate violations are issued on a per bag or per container basis during any twenty-four hour period. Before issuing any such notices of violation to a persistent violator on a per bag or per container basis, the commissioner shall give such violator a reasonable opportunity to correct the condition constituting the violation.
+            (c) internal passageways;
 
-   4. There shall be a rebuttable presumption that the number of dwelling units designated on a notice of violation issued pursuant to this section reflects the number of dwelling units in the residential building for which the notice of violation was issued. Where such presumption is rebutted, the number of dwelling units on such notice of violation shall be deemed modified accordingly, and in no event shall such notice of violation be dismissed solely on the ground that the number of dwelling units on the original notice of violation was incorrectly stated.
+            (d) common fire escapes; or
 
-   5. The commissioner or the commissioner's designee shall establish a recycling training program for owners or employees of residential buildings of nine or more dwelling units for which at least three notices of violation for failing to properly source separate designated recyclable material have been issued within a twelve-month period and which the commissioner determines to be in need of recycling training. Such training program shall require the building owner, or an employee who is primarily responsible for waste disposal and/or janitorial services for any such building, to attend a training program established by the commissioner or the commissioner's designee designed to improve recycling practices at such building and a fee may be imposed on any owner or employee who participates in such training program. Such training program may be held in any location designated by the commissioner or the commissioner's designee, including, in order to facilitate tenant participation, at such building.
+            (e) other indicia of operation as a single entity.
 
-b. Any person who violates subdivision g of section 16-308 of this chapter shall be liable for a civil penalty in the amount of two hundred fifty dollars for the first violation, one thousand dollars for the second violation committed within a twelve-month period, and two thousand five hundred dollars for the third and each subsequent violation committed within a twelve-month period.
+         (D) whether the owner or a predecessor has at any time represented in applications or other official papers that the structure was a single building;
 
-c. Any owner or other person responsible for a publicly accessible textile drop-off bin who violates subdivision b of section 16-310.1 of this chapter shall be liable as follows:
+         (E) whether a single certificate of occupancy has been requested or issued for the structure; and
 
-   1. In the event that a publicly accessible textile drop-off bin is impermissibly placed on city property, or property maintained by the city, or on any public sidewalk or roadway, the owner of the publicly accessible textile drop-off bin, if the address of such owner is ascertainable, shall be notified by the department by certified mail, return receipt requested, that such publicly accessible textile drop-off bin must be removed within thirty days from the mailing of such notice. A copy of such notice, regardless of whether the address of such owner or other responsible person is ascertainable, shall also be affixed to the publicly accessible textile drop-off bin. This notice shall state that if the address of the owner or other responsible person is not ascertainable and notice is not mailed by the department, such publicly accessible textile drop-off bin shall be removed within thirty days from the affixing of such notice. This notice shall also state that the failure to remove the publicly accessible textile drop-off bin within the designated time period will result in the removal and disposal of the publicly accessible textile drop-off bin by the department. This notice shall also state that if the owner or other responsible person objects to removal on the grounds that the publicly accessible textile drop-off bin is not on city property, or property maintained by the city, or on any public sidewalk or roadway, such owner or other responsible person may send written objection to the department at the address indicated on the notice within twenty days from the mailing of such notice or, if the address of such owner or other responsible person is not ascertainable and notice is not mailed by the department, within twenty days from the affixing of such notice, with proof that the publicly accessible textile drop-off bin is not on city property, or property maintained by the city, or on any public sidewalk or roadway. Proof that the publicly accessible textile drop-off bin is not on city property, or property maintained by the city, or on any public sidewalk or roadway shall include, but not be limited to, a survey of the property prepared by a licensed surveyor that is certified by the record owner of such property.
+         (F) the pattern of usage of the building during the applicable qualifying window periods: (i) from April 1, 1980, to December 1, 1981, for buildings seeking coverage under Article 7-C pursuant to MDL § 281(1), (ii) from April 1, 1980 to May 1, 1987, for buildings seeking coverage under Article 7-C pursuant to MDL § 281(4), or (iii) from January 1, 2008 to December 31, 2009, for buildings seeking coverage under Article 7-C pursuant to MDL § 281(5).
 
-   2. Any owner or other person responsible for an impermissibly placed publicly accessible textile drop-off bin that fails to respond within twenty days of receipt of such notice under paragraph one of this subdivision or otherwise fails to establish that the publicly accessible textile drop-off bin is not on city property, or property maintained by the city, or on any public sidewalk or roadway pursuant to paragraph one of this subdivision, shall be liable for a civil penalty in the amount of one hundred dollars, recoverable in a proceeding returnable before the environmental control board.
+   (2.) Grandfathering. For purposes of these rules, "grandfathering" means the administrative process by which a residential unit, located where residential use is not otherwise permitted by the Zoning Resolution, is determined by the agency designated in the Zoning Resolution, to have been residentially occupied on a specified date, and is therefore a legal residential use as of right, eligible for Article 7-C coverage.* The term "residential use as of right" as employed in MDL § 281(2) means that the New York City Zoning Resolution permits residential use in the area in which the building is located. Grandfathering may also be accomplished by a special permit process defined in subdivision (ii) below, which requires a further discretionary approval in addition to determination of occupancy on a specified date.
 
-d. Any notice of violation or notice of hearing for a violation issued to the owner, net lessee or person in charge of a premises or to a food service establishment, mobile food commissary, store, or manufacturer, as those terms are defined in section 16-329 of this chapter, at which or by whom a violation of this chapter or any rule promulgated pursuant thereto is alleged to have occurred or to have been committed shall be served by delivering a copy of the notice thereof at the address maintained in the records of the department of housing preservation and development, the department of finance, or the department of health and mental hygiene. The notice of violation or notice of hearing may be served by regular mail or in accordance with section one thousand forty-nine-a of the charter or, if such notice is served by an agency other than the department, in accordance with the rules of such agency.
+      (i) Minor modification and an administrative certification. A "minor modification," and an "administrative certification" as found in MDL § 281(2)(i) are terms which refer to various procedures which may be specified in the Zoning Resolution in addition to the grandfathering determinations of occupancy concerning non-discretionary actions by the agency to which an application must be made.
 
-e. (1) Any covered establishment that violates section 16-306.1 of this chapter or rules of the department, the department of health and mental hygiene, or the department of consumer affairs promulgated pursuant thereto shall be liable for a civil penalty recoverable in a civil action brought in the name of the commissioner or the commissioner of health and mental hygiene, or the commissioner of consumer affairs, or in a proceeding returnable before the environmental control board, the health tribunal at the office of administrative trials and hearings, or the administrative tribunal of the department of consumer affairs, in the amount of two hundred fifty dollars for the first violation, five hundred dollars for the second violation committed on a different day within a period of twelve months, and one thousand dollars for the third and each subsequent violation committed on different days within a period of twelve months, except that the department, the department of health and mental hygiene, and the department of consumer affairs shall not issue a notice of violation, but shall issue a warning, for any violation by a designated covered establishment that occurs during the first twelve months after the commissioner designates such covered establishment pursuant to subdivision b of section 16-306.1.
+      (ii) Special permit. A "special permit" as found in MDL § 281(2)(iv) is a term referring to a grandfathering procedure specified in the Zoning Resolution which involves a discretionary determination, and approval by the City Planning Commission, to which the application must initially be made, and by the Board of Estimate or any entity which succeeds it in this function.**
 
-   (2) Any transfer station that violates section 16-306.1 of this chapter or rules of the department promulgated pursuant thereto shall be liable for a civil penalty recoverable in a civil action brought in the name of the commissioner or in a proceeding returnable before the environmental control board in the amount of two hundred fifty dollars for the first violation, five hundred dollars for the second violation committed on a different day within a period of twelve months, and one thousand dollars for the third and each subsequent violation committed on different days within a period of twelve months, except that the department shall not issue a notice of violation, but shall issue a warning, for any violation by a designated covered establishment that occurs during the first twelve months after the commissioner designates such covered establishment pursuant to subdivision b of section 16-306.1.
+   (3.) Living Independently. For purposes of MDL § 281 and these rules, "living independently" means having attributes of `independent living' by a family in each residential unit, such as:
 
-   (3) Any private carter that violates section 16-306.1 of this chapter or rules of the business integrity commission promulgated pursuant thereto shall be liable for a civil penalty recoverable in a civil action brought in the name of the chair of the business integrity commission, or in a proceeding brought by the chair of the business integrity commission held in accordance with title 16-A of this code, except that the chair of the business integrity commission shall not issue a notice of violation, but shall issue a warning, for any violation by a designated covered establishment that occurs during the first twelve months after the commissioner designates such covered establishment pursuant to subdivision b of section 16-306.1.
+      (i) a separate entrance providing direct access to the residential unit from a street or public area, such as a hallway, elevator, or stairway within a building;
 
-f. Any person who violates section 16-329 of this chapter or any rule promulgated pursuant thereto shall be liable for a civil penalty recoverable in a civil action brought in the name of the commissioner, the commissioner of health and mental hygiene or the commissioner of consumer affairs, or in a proceeding before the environmental control board, the health tribunal at the office of administrative trials and hearings, or the administrative tribunal of the department of consumer affairs, in the amount of two hundred fifty dollars for the first violation, five hundred dollars for the second violation committed on a different day within a period of twelve months, and one thousand dollars for the third and each subsequent violation committed on different days within a period of twelve months, except that the department, the department of health and mental hygiene, and the department of consumer affairs shall not issue a notice of violation, but shall issue a warning and provide information on replacement material, for any violation that occurs before January first, two thousand sixteen.
+      (ii) one or more rooms such as a kitchen area, a bathroom, a sleeping area and a living room area arranged to be occupied exclusively by the members of a family and their guests, which room or rooms are separated, and set apart from all other rooms within a building; and (iii) such other indicia of independent living which demonstrate the residential unit's use as a residence of a family living independently.
 
+   (4.) Residential unit.
 
+      (i) In order for a residential unit to be deemed an IMD unit qualifying for coverage under Article 7-C, the unit must:
 
+         (A) be the residence or home of a "family" as defined in MDL § 4(5)*** that is living independently;
 
+         (B) be located in a building, a portion of which was occupied at any time for manufacturing, commercial or warehouse purposes;
 
+         (C) lack a residential certificate of occupancy issued pursuant to MDL § 301, as further delineated in 29 RCNY § 2-08(b);
 
+         (D) except as set forth below in 29 RCNY §§ 2-08(a)(4)(ii), and (iii), be located in a geographical area in which the Zoning Resolution permits residential use as of right or in which the residential use may become a use as of right as a result of approval of a grandfathering application, in accordance with MDL §§ 281(2)(i), or (iv); or is located in a study area designated by the Zoning Resolution for possible rezoning to permit residential use, in accordance with MDL § 281(2)(iii);
 
-**Subchapter 7: Temporary Emergency Recycling Requirements**
+         (E) be located in a building that is not municipally owned;
 
+         (F) except as set forth below in 29 RCNY §§ 2-08(a)(4)(ii), and (iii), be occupied by a family living independently for residential purposes on December 1, 1981, since April 1, 1980 for coverage under § 281(1), and
 
+         (G) pursuant to MDL § 282-a, either (i) have been registered as part of an IMD building, structure or portion thereof by the landlord of such building, by that certain date which is 6 months after the date the Loft Board shall have adopted all rules necessary in order to implement the provisions of Chapters 135 and 147 of the Laws of 2010 (ii) have been included as part of a coverage application filed by a residential occupant of the building, structure or portion thereof by that certain date which is 6 months after the date the Loft Board shall have adopted all rules necessary in order to implement the provisions of Chapters 135 and 147 of the Laws of 2010 or (iii) if the landlord is directed to file a registration application form by a court of competent jurisdiction pursuant to a claim of Article 7-C coverage raised in a pleading before the certain date listed in 29 RCNY § 1-06.1(a), and on the Loft Board's website.
 
-*§ 16-325 Temporary emergency recycling requirements.* ::
+      (ii) In addition to the criteria set forth in subparagraph (i) of this 29 RCNY §§ 2-08(a)(4), in order for a residential unit to qualify for coverage under Article 7-C pursuant to MDL § 281(4), such residence or unit must have been occupied by a family living independently for residential purposes on May 1, 1987, since December 1, 1981, and occupied for residential purposes since April 1, 1980, regardless of whether the building is located in a geographical area in which the Zoning Resolution permits residential use as of right, or through grandfathering as defined in 29 RCNY § 2-08(a)(2), or because the building is located in a study area as defined in 29 RCNY § 2-08(a)(5).
 
+      (iii) Notwithstanding the foregoing, in order for a residential unit to qualify for coverage under Article 7-C pursuant to MDL § 281(5), as set forth in these rules, a residential unit is not required to have been residentially occupied between April 1, 1980 through December 1, 1981, but is required to have been occupied by a family living independently for residential purposes during a period of twelve consecutive months between January 1, 2008 through December 31, 2009, as further delineated in 29 RCNY §§ 2-08(c)(3) and (c)(4), regardless of whether the building is geographically located in an area in which the Zoning Resolution permits residential use. In addition to the criteria set forth in subparagraph (A), (B), (C), (E), and (G) of 29 RCNY § 2-08(a)(4)(i), in order for a residential unit to qualify as an IMD unit for purposes of coverage under Article 7-C pursuant to MDL § 281(5), such residence or home must:
 
-a. Notwithstanding any inconsistent provision of this chapter, the department shall be authorized, by written order of the commissioner, to suspend the collection of glass, plastic and beverage cartons as designated recyclable materials. Any such suspension with regard to glass shall take effect no earlier than July first, two thousand two and shall expire no later than March thirty-first, two thousand four. Any such suspension with regard to plastic and beverage cartons shall take effect no earlier than July first, two thousand two and shall expire no later than June thirtieth, two thousand three. During any period in which the collection of glass, plastic or beverage cartons as designated recyclable materials, is suspended pursuant to this subdivision, the department shall be authorized to collect the suspended recyclable materials with other non-recyclable solid waste.
+         (A) not be located in a "cellar" or "basement," as such terms are defined in MDL §§ 4(37), and 4(38) respectively;
 
-b. Notwithstanding any inconsistent provision of this chapter, the department shall be authorized, by written order of the commissioner, to suspend the provisions of section 16-308 of this chapter. Any such suspension shall take effect no earlier than July first, two thousand three and shall expire no later than June thirtieth, two thousand four. During any period in which the provisions of section 16-308 of this chapter are suspended pursuant to this subdivision, the department shall be authorized to collect yard waste with other non-recyclable solid waste.
+         (B) have a means of access from a street or public area, such as a hallway, elevator or stairway, and the unit must not require passage through another residence, or unit to obtain access;
 
-c. Notwithstanding any inconsistent provision of this chapter, during a period of suspension, the department shall only be required to maintain fiscal year two thousand two tonnage amounts for those recyclable materials whose collection has not been suspended. Upon expiration of any period of suspension, the department shall resume collection of recyclable materials whose suspension has ended and shall be required to maintain fiscal year two thousand two tonnage amounts for those materials, unless other standards are agreed upon by the council and the mayor.
+         (C) contain at least 1 window that opens onto a street, lawful yard or court;
 
-d. Notwithstanding any inconsistent provision of this chapter, the department shall not be required to designate additional recyclable materials during any period in which the collection of glass, plastic or beverage cartons as designated recyclable materials, or material designated pursuant to section 16-308 of this chapter, is suspended pursuant to subdivision a or b of this section.
+         (D) contain at least 400 square feet in area;
 
-e. The mayor and council shall create a temporary task force in order to develop a long term recycling plan in compliance with the provisions of this chapter. The task force shall be comprised of six mutually agreed upon appointees, three proposed by the mayor and three proposed by the speaker of the council. The task force shall meet on or before July fifteenth, two thousand two and monthly thereafter and issue a report to the mayor and speaker on February twenty-first, two thousand three. The task force shall examine and make recommendations that include steps necessary to improve the efficiency of source separation and collection of recyclable materials; appropriate recycling standards; the identification and development of markets for recyclable materials; the expansion of the New York State Returnable Container Act; and the development and implementation of strategies to educate residents on compliance with the recycling laws.
+         (E) not be located in an industrial business zone, as such term is defined in chapter 6-D of Title 22 of the New York City Administrative Code, except for buildings located in the:
 
+            (i) Williamsburg/Greenpoint industrial business zone;
 
+            (ii) North Brooklyn industrial business zone; or
 
+            (iii) Long Island City industrial business zone, provided that the residential units meet the qualifying criteria set forth above and the buildings are located in the following area of the Long Island City industrial business zone:
 
+               (a) have frontage on either side of 47th Avenue,*
 
+               (b) be located north of 47th Avenue and south of Skillman Avenue, or
 
+               (c) be located north of 44th Drive, south of Queens Plaza north, and west of 23rd Street; and
 
-**Subchapter 8: Solid Waste and Recyclable Materials At Street Events**
+         (F) not be located in the same building that contained, as of June 21, 2010, and continuing at the time of the submission of an application for coverage by any party, a use actively and currently pursued that is determined by the Loft Board to be inherently incompatible with residential use, as defined in 29 RCNY § 2-08(k).
 
+   (5.) Study area. A study area as found in MDL § 281(2)(iii) is a term referring to an area, defined in § 42-02 of the Zoning Resolution, which is currently zoned as manufacturing and under study by the City Planning Commission for a determination of the appropriateness of the zoning.
 
+(b) Certificate of occupancy.
 
-*§ 16-326 Definitions.* ::
+   (1) Registration as an IMD shall not be required of any building, structure or portion thereof for which a final residential certificate of occupancy was issued pursuant to MDL § 301 prior to:
 
+      (i) June 21, 1982, for buildings, structures, or portions thereof seeking coverage under Article 7-C solely pursuant to MDL § 281(1);
 
-For purposes of this subchapter, the following terms shall have the following meanings:
+      (ii) July 27, 1987, for buildings, structures or portions thereof seeking coverage under Article 7-C solely pursuant to MDL § 281(4);
 
-a. "Producer/Event Manager" means any person or entity hired by a sponsor to organize or manage a street event.
+      (iii) June 21, 2010, for buildings, structures or portions thereof seeking coverage under Article 7-C pursuant to MDL § 281(5) as enacted in Chapter 135 or as amended in Chapter 147 of the Laws of 2010; or (iv) June 1, 2012, for buildings, structures, or portions of buildings seeking coverage under Article 7-C pursuant to § 281(5) as amended in Chapter 4 of the Laws of 2013. Such units shall be exempt from Article 7-C coverage unless the residential certificate of occupancy is revoked.
 
-b. "Recyclable Materials" means metal cans, glass bottles and jars, plastic bottles and jugs, lightly-soiled aluminum foil and aluminum foil products, and any other material designated by the department for recycling at street events.
+   (2) Registration as an IMD with the Loft Board shall be required of:
 
-c. "Sponsor" means any person or entity that is required to apply for and obtain a street activity permit and that either organizes or manages a street event or hires a producer/event manager to organize or manage a street event.
+      (i) Any building, structure, or portion thereof, which otherwise meets the criteria for an IMD set forth in:
 
-d. "Street Event" means any street fair or festival on a public street where such activity may interfere with or obstruct the normal use by vehicular traffic of such street, but does not include street activities that occupy no more than one block for no more than one day where no licensed vendor participates.
+         (A) MDL § 281(1), and these rules, for all residentially-occupied units which lacked a final residential certificate of occupancy issued pursuant to § 301 of the MDL prior to June 21, 1982,
 
+         (B) MDL § 281(4), and these rules for all residentially-occupied units which lacked a final certificate of occupancy issued pursuant to § 301 of the MDL prior to July 27, 1987,
 
+         (C) MDL § 281(5) as enacted in Chapter 135 or as amended in Chapter 147 of the Laws of 2010, and these rules, for all residentially-occupied units which lacked a final certificate of occupancy issued pursuant to MDL § 301, prior to June 21, 2010, or
 
+         (D) MDL § 281(5) as amended in Chapter 4 of the Laws of 2013, and these rules, for all residentially-occupied units which lacked a final certificate of occupancy issued pursuant to MDL § 301, prior to June 1, 2012. Issuance of a certificate of occupancy pursuant to MDL § 301 for such units on or after June 21, 1982, July 27, 1987, June 21, 2010, or June 1, 2012, as applicable, will not be the basis for exemption from Article 7-C coverage;
 
+      (ii) Any building, structure, or portion thereof which meets the criteria for an IMD set forth in MDL § 281, and these rules, for all residentially occupied units which obtained a temporary residential certificate of occupancy issued pursuant to MDL § 301 prior to:
 
+         (A) June 21, 1982 for units covered under MDL § 281(1),
 
-*§ 16-327 Sponsor and producer/event manager responsibilities at street events.* ::
+         (B) July 27, 1987 for units covered under MDL § 281(4),
 
+         (C) June 21, 2010 for units covered under MDL § 281(5) as enacted in Chapter 135 or as amended in Chapter 147 of the Laws of 2010, and
 
-a. Every producer/event manager shall ensure that solid waste and recyclable materials generated at a street event are properly disposed of or recycled. b.
+         (D) June 1, 2012 for units covered under MDL 281(5) as amended in Chapter 4 of the Laws of 2013. Issuance of a temporary residential certificate of occupancy for such units prior to these dates will not be the basis for exemption from Article 7-C coverage if on or after these dates a period of time of any length existed for any reason during which a temporary or final certificate of occupancy issued pursuant to MDL § 301 was not in effect for such units;
 
-   1. Every producer/event manager shall provide a sufficient number of public solid waste receptacles and public recycling receptacles for street events as determined by the department, provided that the producer/event manager shall place at least two receptacles within or near each intersection within the street event area, one for solid waste and one for recyclable materials.
+      (iii) Any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281, and these rules, for all residentially occupied units for which a final certificate of occupancy issued pursuant to MDL § 301 has been revoked. The prior issuance of a final certificate of occupancy which has been revoked will not be the basis for exemption from Article 7-C coverage.
 
-   2. Every producer/event manager shall regularly monitor all solid waste and recycling receptacles throughout the street event area in order to prevent spillage of solid waste and recyclable materials into the street and shall remove any solid waste that has been deposited into receptacles designated for recyclable materials and remove any recyclable materials that have been deposited into receptacles designated for solid waste.
+      (iv) Any building, structure, or portion thereof that otherwise meets the criteria for an IMD set forth in MDL § 281, and these rules, and contains residential units which were subsequently converted to non-residential use following the applicable time period required to qualify such unit for coverage under Article 7-C. Current commercial use or commercial use after the qualifying window period shall not be the basis for exemption from Article 7-C coverage.
 
-   3. Every producer/event manager shall bag and bundle separately and tie securely all accumulated solid waste and recyclable materials at the end of each day of the street event.
+(c) Qualifying period of occupancy.
 
-   4. Every producer/event manager shall ensure that all bagged and bundled solid waste and recyclable materials are placed at a predetermined location designated by the department for collection.
+   (1) Registration with the Loft Board shall be required of any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(1), and these rules, and had at least three units residentially occupied on December 1, 1981, since April 1, 1980. If the building, structure or portion thereof contained three units so occupied on December 1, 1981, and on April 1, 1980, and if such residential use is permissible under the Zoning Resolution as of right, or through grandfathering, or the units are in a study area as defined in 29 RCNY § 2-08(a)(5), there shall be a presumption that the building is an IMD and that such units are covered under Article 7-C. However, if there is a determination by the Loft Board that there was a bona fide change to exclusively non-residential use in a unit between April 1, 1980, and December 1, 1981, such unit shall not be counted for purposes of determining whether the building qualifies for coverage as an IMD pursuant to MDL § 281(1). The occupant of any unit which changed to a bona fide exclusively non-residential use must have been a party distinct, and independent of the owner of the building for the presumption of IMD coverage to be rebutted.
 
-c. Every sponsor and producer/event manager shall comply with all applicable rules governing street events, including, but not limited to, rules set forth in chapter fourteen of title sixteen of the rules of the city of New York, to the extent such rules are not inconsistent with the provisions of this subchapter.
+   (2) Registration with the Loft Board shall also be required of any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(4), and these rules, that had one or more units residentially occupied on May 1, 1987, since December 1, 1981, that was occupied for residential purposes since April 1, 1980, regardless of whether residential use is permitted under the Zoning Resolution as of right, or through grandfathering as defined in 29 RCNY § 2-08(a)(2), or because the building is located in a study area as defined in 29 RCNY § 2-08(a)(5). Residential occupancy of one or more units of the building, structure or portion thereof, as described in this paragraph, on May 1, 1987, on December 1, 1981, and on April 1, 1980, shall create a presumption that the building is an IMD or that such unit or units are covered under Article 7-C. However, if there is a determination by the Loft Board that there was a bona fide change to exclusively non-residential use in a unit between April 1, 1980, and December 1, 1981, or between December 1, 1981 and May 1, 1987, such unit shall not be counted for purposes of determining whether the building qualifies for coverage as an IMD pursuant to MDL § 281(4). The occupant of any unit which changed to a bona fide exclusively non-residential use must have been a party distinct and independent of the owner of the building for the presumption of IMD coverage to be rebutted.
 
-d. The provisions of subdivisions a and b of this section shall apply to the sponsor when there is no producer/event manager.
+   (3) Registration with the Loft Board shall also be required of any building, structure or portion thereof which otherwise meets the criteria for an IMD set forth in MDL § 281(5) and these rules that contained at least three units residentially occupied by families living independently from one another for a period of twelve consecutive months between January 1, 2008 through December 31, 2009, regardless of whether residential use is permitted under the Zoning Resolution. However, if there is a determination by the Loft Board that there was a bona fide change to exclusively non-residential use in a unit during such qualifying twelve consecutive month window period, such unit shall not be counted for purposes of determining whether the building qualifies for coverage as an IMD pursuant to MDL § 281(5). The occupant of any unit which changed to a bona fide exclusively non-residential use must have been a party distinct and independent of the owner of the building for the presumption of IMD coverage to be rebutted. It is not required that the units that seek coverage under MDL § 281(5) occupy their respective units during the same twelve consecutive month period.
 
+   (4) Registration with the Loft Board shall also be required of any building, structure or portion thereof located in that certain area of Manhattan bounded on the south by West 24th Street, on the north by West 27th Street, on the east by Tenth Avenue and on the west by Eleventh Avenue, which contain at least two units residentially occupied by families living independently from one another for a period of twelve consecutive months between January 1, 2008 through December 31, 2009, regardless of whether residential use is permitted under the Zoning Resolution. However, if there is a determination by the Loft Board that there was a bona fide change to exclusively non-residential use in a unit during such qualifying twelve consecutive month window period, such unit shall not be counted for purposes of determining whether the building qualifies for coverage as an IMD pursuant to MDL § 281(5). The occupant of any unit which changed to a bona fide exclusively non-residential use must have been a party distinct and independent of the owner of the building for the presumption of IMD coverage to be rebutted. It is not required that the units in the same building seeking coverage under MDL § 281(5) be occupied residentially during the same consecutive twelve-month period.
 
+   (5) Neither vacancies of any duration for units residentially occupied on:
 
+      (i) December 1, 1981, and on April 1, 1980 as set forth in 29 RCNY § 2-08(c)(1) above, or
 
+      (ii) May 1, 1987, December 1, 1981, and April 1, 1980 as set forth in 29 RCNY § 2-08(c)(2) above, or
 
+      (iii) at any time prior to or following the qualifying twelve consecutive month window period between January 1, 2008 through December 31, 2009, as set forth in 29 RCNY §§ 2-08(c)(3) or (c)(4) above, nor a change or changes of residential occupants in any such units during the intervening period(s) will be the basis for exemption from Article 7-C coverage.
 
-*§ 16-328 Penalties.* ::
+(d) Calculation of residential units.
 
+   (1) For purposes of counting residential units to determine whether a building qualifies for coverage as an IMD building and must be registered, each unit must meet the criteria set forth in MDL § 281 and these rules, including 29 RCNY § 2-08(a)(4).
 
-In addition to any other applicable penalties, any producer/event manager, or any sponsor when there is no producer/event manager, who violates subdivision a or b of section 16-327 of this subchapter shall be liable for a civil penalty of one hundred dollars for each such violation, except that a sponsor or producer/event manager shall not be liable for more than five hundred dollars per day or more than two thousand dollars per street event. Such civil penalties shall be recoverable in a proceeding returnable before the environmental control board.
+      (i) The following types of units may qualify for Article 7-C coverage, provided that each unit satisfies the applicable criteria for coverage set forth in 29 RCNY § 2-08(a)(4), pursuant to MDL § 281(1), 281(4), or 281(5):
 
+         (a) any residential unit designated as "Artist in Residence" (A.I.R.) pursuant to directives of the Department of Buildings creating such status;
 
+         (b) any residential unit designated as "joint living work quarters for artists" [pursuant to the Zoning Resolution] except as provided below in 29 RCNY § 2-08(d)(2)(ii);
 
+         (c) any residential unit occupied by a subtenant or assignee of the prime tenant of such unit.
 
+      (ii) For a unit to qualify as a residential IMD unit, the building in which it is located must meet the criteria of MDL §§ 281 and 281(2)(ii) in that:
 
+         (A) a portion of the building or structure was occupied at any time for manufacturing, commercial or warehouse purposes;
 
+         (B) the building, structure or portion thereof lacked a residential certificate of occupancy pursuant to MDL § 301 as further delineated in 29 RCNY §§ 2-08(b)(1) and (2);
 
-**Subchapter 9: Restrictions on the Sale or Use of Certain Expanded Polystyrene Items**
+         (C) except as otherwise set forth in MDL § 281(5), and these rules, it contained at least three units residentially occupied on December 1, 1981, since April 1, 1980; and
 
+         (D) it is not municipally owned.
 
+   (2) For purposes of counting to determine whether a building qualifies as an IMD, and is covered under Article 7-C, residential units described as follows shall not be included:
 
-*§ 16-329 Restrictions on the sale or use of certain expanded polystyrene items.* ::
+      (i) any units designated as residential on a final certification of occupancy issued pursuant to MDL § 301 prior to:
 
+         (A) June 21, 1982 for a unit seeking coverage under MDL § 281(1);
 
-a. Definitions. When used in this section:
+         (B) July 27, 1987 for a unit seeking coverage under MDL § 281(4);
 
-   "Chain food service establishment" means five or more food service establishments located within the city that (1) conduct business under the same business name or (2) operate under common ownership or management or pursuant to a franchise agreement with the same franchisor.
+         (C) June 21, 2010 for a unit seeking coverage under MDL § 281(5) as enacted in Chapter 135 or as amended in Chapter 147 of the Laws of 2010; or
 
-   "Chain store" means five or more stores located within the city that (1) conduct business under the same business name or (2) operate under common ownership or management or pursuant to a franchise agreement with the same franchisor.
+         (D) June 1, 2012 for a unit seeking coverage under MDL § 281(5) as amended in Chapter 4 of the Laws of 2013.
 
-   "Economically feasible" means cost effective based on consideration of factors including, but not limited to, direct and avoided costs such as whether the material is capable of being collected by the department in the same truck as source separated metal, glass and plastic recyclable material, and shall include consideration of markets for recycled material.
+      (ii) any units designated as "joint living work quarters for artists" on a final certificate of occupancy issued prior to:
 
-   "Environmentally effective" means not having negative environmental consequences including, but not limited to, having the capability to be recycled into new and marketable products without a significant amount of material accepted for recycling being delivered to landfills or incinerators.
+         (A) June 21, 1982 for a unit seeking coverage under MDL § 281(1);
 
-   "Expanded polystyrene" means blown polystyrene and expanded and extruded foams that are thermoplastic petrochemical materials utilizing a styrene monomer and processed by any number of techniques including, but not limited to, fusion of polymer spheres (expandable bead foam), injection molding, foam molding, and extrusion-blown molding (extruded foam polystyrene). Such term shall not include rigid polystyrene.
+         (B) July 27, 1987 for unit seeking coverage under MDL § 281(4);
 
-   "Food service establishment" means a premises or part of a premises where food is provided directly to the consumer whether such food is provided free of charge or sold, and whether consumption occurs on or off the premises or is provided from a pushcart, stand or vehicle. Food service establishment shall include, but not be limited to, full-service restaurants, fast food restaurants, cafes, delicatessens, coffee shops, grocery stores, vending trucks or carts and cafeterias.
+         (C) June 21, 2010 for a unit seeking coverage under MDL § 281(5) as enacted in Chapter 135 or as amended in 147 of the Laws of 2010; or
 
-   "Manufacturer" means every person, firm or corporation that:
+         (D) June 1, 2012 for a unit seeking coverage under MDL § 281(5) as amended in Chapter 4 of the Laws of 2013; and
 
-      1. produces expanded polystyrene or polystyrene loose fill packaging that is sold or distributed in the city; or
+      (iii) any units designated for a commercial use with an accessory residential use on a final certificate of occupancy issued prior to:
 
-      2. imports expanded polystyrene or polystyrene loose fill packaging that is sold or distributed in the city.
+         (A) June 21, 1982 for a unit seeking coverage under MDL § 281(1);
 
-   "Mobile food commissary" means any facility that:
+         (B) July 27, 1987 for a unit seeking coverage under MDL § 281(4);
 
-      1. disposes of solid waste generated by the operation of a food service establishment that is located in or is a pushcart, stand or vehicle; or
+         (C) June 21, 2010 for a unit seeking coverage under MDL § 281(5) as enacted in Chapter 135 or as amended in 147 of the Laws of 2010; or
 
-      2.  supplies potable water and food, whether pre-packaged or prepared at the mobile food commissary, and supplies non-food items.
+         (D) June 1, 2012 for a unit seeking coverage under MDL § 281(5) as amended in Chapter 4 of the Laws of 2013.
 
-   "Polystyrene loose fill packaging," commonly known as packing peanuts, means a void-filling packaging product made of expanded polystyrene that is used as a packaging fill.
+(e) Zoning regulations.
 
-   "Safe for employees" means that, among other factors, the collection and sorting of any source separated material does not pose a greater risk to the health and safety of persons involved in such collection and sorting than the risk associated with the collection and sorting of any other source separated recyclable material in the metal, glass and plastic recycling stream.
+   (1) Registration as an IMD shall be required of any building, structure, or portion thereof, which meets the criteria for an IMD as set forth in MDL § 281(1), and these rules, including without limitation 29 RCNY § 2-08(a)(4). Notwithstanding the foregoing, any building located in a zoning district designated as manufacturing in the Zoning Resolution, for which district there are no "grandfathering" provisions as defined in these rules shall not qualify as an IMD unless such buildings, structures or portions thereof otherwise meet the criteria of:
 
-   "Single service articles" means cups, containers, lids, closures, trays, plates, knives, spoons, stoppers, paddles, straws, place mats, napkins, doilies, wrapping materials, toothpicks and all similar articles that are intended by the manufacturer to be used once for eating or drinking or that are generally recognized by the public as items to be discarded after one use.
+      (i) MDL § 281(1), if such IMD building is located in a "Study area" as defined in 29 RCNY § 2-08(a)(5), and the registration of such building shall be required, or
 
-   "Store" means a retail or wholesale establishment other than a food service establishment.
+      (ii) MDL § 281(1), if such IMD building also meets the requirements of MDL § 281(4), and the rules issued pursuant thereto, or
 
-b. No later than January first, two thousand fifteen, the commissioner shall determine, after consulting with the department's designated recycling contractor for metal, glass and plastic materials, manufacturers and recyclers of expanded polystyrene, and, in the commissioner's discretion, any other person or group having expertise on expanded polystyrene, whether expanded polystyrene single service articles can be recycled at the designated recycling processing facility at the South Brooklyn Marine Terminal in a manner that is environmentally effective, economically feasible, and safe for employees. At such time, the commissioner shall report to the mayor and the council on such determination. If the commissioner determines that expanded polystyrene single service articles can be recycled in such manner, the commissioner shall adopt and implement rules designating expanded polystyrene single service articles and, as appropriate, other expanded polystyrene products, as a recyclable material and require the source separation of such expanded polystyrene for department-managed recycling.
+      (iii) MDL § 281(5), and these rules. Except for a building or structure or portion thereof which qualifies for coverage under Article 7-C solely by reason of MDL §§ 281(4) or 281(5), the zoning regulations, and the grandfathering provisions for the district in which a building or structure is located determine whether and when the owner of such building, which otherwise meets the criteria for an IMD set forth in MDL § 281, and these rules issued pursuant thereto, is mandated to meet the compliance requirements for legalization set forth in MDL § 284(1).
 
-c. If expanded polystyrene single service articles are not designated as a recyclable material pursuant to subdivision b of this section, then, on and after July first, two thousand fifteen, no food service establishment, mobile food commissary, or store shall possess, sell, or offer for use single service articles that consist of expanded polystyrene including, but not limited to, providing food in single service articles that consist of expanded polystyrene. This subdivision shall not apply to (1) expanded polystyrene containers used for prepackaged food that have been filled and sealed prior to receipt by the food service establishment, mobile food commissary, or store or (2) expanded polystyrene containers used to store raw meat, pork, fish, seafood or poultry sold from a butcher case or similar retail appliance.
+   (2) Any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(1) and these rules, and which is located in an area which permits residential use as of right, shall be obligated to meet the compliance requirements for legalization by the dates designated in MDL § 284(1), except as provided in 29 RCNY §§ 2-08(e)(4)(i), and (iii) infra, and as further delineated in 29 RCNY § 2-01(a).
 
-d. If expanded polystyrene single service articles are not designated as a recyclable material pursuant to subdivision b of this section, then, on and after July first, two thousand fifteen, no manufacturer or store shall sell or offer for sale polystyrene loose fill packaging in the city.
+   (3) Any IMD unit designated as "joint living work quarters for artists" in a zoning district which does not otherwise permit residential use as of right and which is currently occupied by a resident or residents who cannot qualify as certified artists, as defined in § 276 of Article 7-B of the MDL, shall qualify for Article 7-C coverage if the building in which such unit is contained otherwise meets the criteria for an IMD set forth in MDL § 281, and these rules. The non-artist status of the current occupant shall not be the basis for exemption from Article 7-C coverage. At the time of issuance of the final certificate of occupancy, the occupant of such a unit must be in compliance with the Zoning Resolution, or the unit must be vacant.
 
-e. Any not-for-profit corporation, regardless of its income, and any food service establishment, mobile food commissary, or store that had a gross income under five hundred thousand dollars per location on their annual income tax filing for the most recent tax year and is not part of a chain food service establishment or a chain store may request from the commissioner of small business services, in a manner and form established by such commissioner, a financial hardship waiver of the requirements of this section. Such waiver request may apply to one or more single service articles possessed, sold, or offered for use by any such not-for-profit corporation, food service establishment, mobile food commissary, or store. The commissioner of small business services shall, after consultation with the commissioner, grant such waiver if such not-for-profit corporation, food service establishment, mobile food commissary, or store proves: (1) that there is no comparable alternative product not composed of expanded polystyrene that would cost the same as or less than the single service article composed of expanded polystyrene, and (2) that the purchase or use of an alternative product not composed of expanded polystyrene would create an undue financial hardship. Such financial hardship waiver shall be valid for twelve months and shall be renewable upon application to the commissioner of small business services. A pending application for such financial hardship waiver shall be a defense to any notice of violation issued pursuant to this section to which such pending application relates and such notice of violation shall be dismissed.
+   (4) Legalization compliance timetable.
 
-f. On and after January first, two thousand fifteen, the department shall provide outreach and education as follows:
+      (i) For any building, structure or portion thereof, which contains fewer than three residential units as of right and one or more residential units eligible for coverage by employing one of the grandfathering procedures set forth in MDL §§ 281(2)(i) or (iv) and defined in 29 RCNY § 2-08(a)(2)(i) and (ii), the timing of the compliance requirements of MDL § 284(1) shall commence upon approval of the grandfathering application of the unit which becomes the third eligible residential unit for purposes of calculation of residential units qualifying the building as an IMD.
 
-   (1) if expanded polystyrene single service articles are not designated as a recyclable material pursuant to subdivision b of this section, the department, in consultation with the department of health and mental hygiene and the department of consumer affairs, shall conduct outreach and education to food service establishments, mobile food commissaries, and stores to inform them of the provisions of this section and provide assistance with identifying replacement material, and such outreach and education shall be offered in multiple languages; and
+      (ii) For any registered building in the category described in 29 RCNY § 2-08(e)(4)(i), for which denial of a grandfathering application reduces the number of qualifying residential units below three, IMD status for such building expires and the other residential units in such building cease to be covered by Article 7-C, unless the building qualifies for coverage under Article 7-C pursuant to MDL §§ 281(4) or (5) and these rules.
 
-   (2) if expanded polystyrene single service articles are designated as a recyclable material pursuant to subdivision b of this section, the department shall provide instruction and materials for residential building owners, net lessees or persons in charge of such buildings, and their employees and residents, for the purpose of improving compliance with such new recycling designation.
+      (iii) Any building, structure or portion thereof which contains three or more residential units as of right, and one or more additional units eligible for coverage by employing one of the grandfathering provisions of MDL §§ 281(2)(i) or (iv), shall be obligated to meet the compliance requirements for legalization by the dates designated in MDL § 284(1), as further delineated in 29 RCNY § 2-01(a), for such as of right residential units. The timing of the compliance requirements for the other eligible units shall commence as follows:
 
-g. The department, the department of health and mental hygiene and the department of consumer affairs shall have the authority to enforce the provisions of this section.
+         (A) Where an application for grandfathering for such unit is made pursuant to one of the procedures designated as a "minor modification" or "administrative certification" in MDL § 281(2)(i), upon a determination of residential occupancy on the date designated in the particular grandfathering provision of the Zoning Resolution;
 
+         (B) Where an application for grandfathering for such unit is made pursuant to a "special permit application" as designated in MDL § 281(2)(iv), upon the granting of such special permit.
 
+      (iv) For any unit eligible for coverage by employment of one of the grandfathering procedures set forth in MDL §§ 281(2)(i), or (iv) and defined in 29 RCNY §§ 2-08(a)(2)(i) and (ii), the final denial of a grandfathering application or the failure to apply for grandfathering within the time period specified in the Zoning Resolution will terminate coverage for such unit unless such unit qualifies for coverage under Article 7-C pursuant to MDL § 281(4) or MDL § 281(5).
 
+      (v) For any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(1) and these rules, but is located in an area designated by the Zoning Resolution as a study area, the timing of the compliance requirements of MDL § 284(1) shall commence upon rezoning of such study area to permit residential use as of right. If the rezoning permits residential use only through grandfathering procedures, the timing of the compliance requirements of MDL § 284(1) and the rules issued pursuant thereto shall commence upon the approval of the grandfathering application of the unit which becomes the third eligible residential unit for purposes of calculation of units qualifying the building as an IMD. For any registered building in a study area as described in 29 RCNY § 2-08(a)(5), for which the City Planning Commission approved neither rezoning nor grandfathering by December 31, 1983, IMD status for such building expires and all of the units in such building cease to be covered by Article 7-C, unless there is a recommended extension of such deadline by the City Planning Commission. If the Board of Estimate, or its successor, disapproves rezoning for residential use or grandfathering, or the extension of such deadline, IMD status for such building expires and all the units in such building cease to be covered by Article 7-C. Notwithstanding the foregoing, any building, structure or portion thereof which ceased to be covered under Article 7-C as a result of the failure to rezone the study area, permit grandfathering or to extend the deadlines as set forth in the foregoing paragraph shall be covered by Article 7-C if it meets the criteria of MDL §§ 281(4) or 281(5).
 
-Chapter 4: [Rechargeable Batteries; Recycling Program]
---------------------------------------------------
+      (vi) For any building, structure or portion thereof that meets the criteria for an IMD set forth in MDL § 281(5) and these rules, the timing of the code-compliance deadlines are set forth in MDL § 284(1)(vi) and 29 RCNY §§ 2-01(a)(9) and (10).
 
+      (vii) For any building, structure or portion thereof registered pursuant to MDL § 281(5) for which there is a revocation of IMD status of one or more units in the building by the Executive Director as a result of a determination that such unit(s) did not meet the qualifying criteria set forth in 29 RCNY § 2-08(a)(4), and such revocation reduces the number of qualifying residential units below three (or two, with respect to an IMD building located in the geographic area described in 29 RCNY § 2-08(c)(4)), the IMD status for the entire such building shall expire and each of the units in the building shall be deemed to be "non-covered units". As set forth below, occupants of non-covered units are not entitled to the protections of Article 7-C. Residential occupancy of a non-covered unit shall not be permitted in the building until a final certificate of occupancy that designates the non-covered unit as residential is obtained.
 
+(f) Municipally owned buildings.
 
-*§ 16-401 Short title.* ::
+   (1) Any building, structure or portion thereof, which otherwise meets the criteria for an IMD as set forth in MDL § 281 and these rules, but is municipally owned, shall be exempt from coverage under Article 7-C.
 
+   (2) Any building, structure or portion thereof, which otherwise meets the criteria for an IMD as set forth in MDL §§ 281(1), 281(4) or 281(5) and these rules, formerly municipally owned, but for which title passed to a private owner, shall be required to register as an IMD and shall not be exempt from coverage under Article 7-C. The former ownership by the municipality shall not be the basis for exemption from Article 7-C coverage.
 
-This chapter shall be known as and may be called the "New York City Rechargeable Battery Law".
+(g) Accreted and additional units.
 
+   (1) (i) In a building, structure or portion thereof which meets the criteria of MDL §§ 281(1) and 281(2), or 281(4), and these rules, thereby qualifying as an IMD building, the occupant or occupants of any additional unit residentially occupied for the first time after April 1, 1980 but prior to April 1,1981 in such IMD building may also be covered under Article 7-C pursuant to MDL § 281(3). In order to qualify for coverage pursuant to MDL § 281(3), the occupancy of such unit must be permissible under the Zoning Resolution. For purposes of 29 RCNY § 2-09(3), occupancy of such additional unit(s) shall be deemed permissible if:
 
+         (i) the unit is located in a zoning district where residential use as of right is permitted under the Zoning Resolution; or
 
+         (ii) the unit is designated as "joint living work quarters for artist" in a zoning district which does not otherwise permit residential use as of right, regardless of whether the occupant or occupants qualify as "certified artists" as defined in § 12-10 of the Zoning Resolution; or
 
+         (iii) the unit can qualify as having a legal residential use pursuant to one of the grandfathering provisions of the Zoning Resolution, as defined in 29 RCNY § 2-08(a); or
 
+         (iv) the unit is in a study area, as defined in 29 RCNY § 2-08(a), for which the City Planning Commission has approved either rezoning for residential use or grandfathering by December 31, 1983.
 
-*§ 16-402 Declaration of policy.* ::
+      (ii) In a building, structure, or portion thereof that meets the criteria of MDL §§ 281(1), and 281(2), or 281(4), and these rules, thereby qualifying as an IMD building, the occupant or occupants of any additional unit residentially occupied during a period of twelve consecutive months between January 1, 2008 through December 31, 2009, in the IMD building may also be covered under Article 7-C provided that such additional unit meets the criteria set forth in MDL § 281(5) and as further delineated in these rules, including 29 RCNY § 2-08(a)(4).
 
+   (2) Registration of such accreted and additional units as part of the IMD shall be required for all units that qualify for Article 7-C coverage.
 
-It is hereby declared to be the public policy of the city of New York to reduce environmental pollution, to reduce the toxicity of waste materials in the solid waste stream directed to resource recovery and sanitary landfill facilities, and to maximize the removal of used rechargeable batteries and products that contain rechargeable batteries and encourage their recycling by entities that manufacture rechargeable batteries by banning the disposal of used rechargeable batteries from the solid waste stream and requiring manufacturers of rechargeable batteries to take back and recycle the used rechargeable batteries sold or disposed of in the city of New York.
+   (3) Where a building, structure or portion thereof meets the criteria of MDL §§ 281(1), and 281(2), 281(3), 281(4) or 281(5), and these rules, it must be registered with the Loft Board. A decrease in the number of residential units in a building that qualifies for coverage pursuant to MDL § 281 to fewer than three or two, as permitted in accordance with the terms and provisions set forth in MDL § 281(5) and these rules, after the applicable time period required for residential occupancy pursuant to MDL § 281, will not be the basis for exemption from Article 7-C coverage. In such instances, the owner, landlord, or agent of the building, structure or portion thereof shall be required to obtain a residential certificate of occupancy, unless the units are duly converted into a non-residential use in accordance with the terms and provisions of the MDL, these rules and all applicable law. However, the discontinuance of residential occupancy:
 
+      1.) after December 1, 1981 but prior to May 1, 1987 of a unit which qualifies for coverage under Article 7-C solely by reason of MDL § 281(4), or
 
+      2.) during the twelve month period required for coverage pursuant to MDL § 281(5), will result in such unit being exempt from Article 7-C coverage. Solely with respect to such instances, the remaining residentially occupied units, limited to units in existence during the qualifying period of occupancy, set forth in MDL § 281(1)(iii), 281(4) or 281(5), as further delineated in § 2-08(c), and accreted units as defined in MDL § 281(3) and 29 RCNY § 2-08(g)(1), shall be entitled to the protections of Article 7-C, including the legalization requirements of MDL § 284(1), provided these units also meet the statute of limitations requirements for coverage in MDL § 282-a.
 
+(h) Non-covered units in an IMD.
 
+   (1) Any unit that does not meet the statutory requirements for coverage set forth in MDL § 281, as further detailed in these rules, is not covered by Article 7-C. Any space in an IMD which was not occupied residentially during a window period set forth in MDL § 281 and is subsequently converted to residential use, is not covered by Article 7-C, and the owner of such unit must obtain a residential certificate of occupancy before permitting the commencement of such occupancy.
 
+   (2) Notwithstanding the foregoing, if a building qualifies as an IMD,
 
-*§ 16-403 Definitions.* ::
+      (i) any unit first occupied residentially on or after April 1, 1981, is not covered under Article 7-C, unless such unit meets the criteria qualifying for an IMD pursuant to MDL § 281(5), as set forth in 29 RCNY § 2-08(a)(4)(iii). Any residential unit first occupied residentially on or after January 2, 2009 is not covered under Article 7-C pursuant to MDL § 281(5).
 
+      (ii) any building or unit that meets the criteria for coverage pursuant to MDL § 281 is not covered under Article 7-C if:
 
-When used in this chapter:
+         (a) the owner, lessee or agent failed to register the building or the unit as an IMD; or
 
-a. "Battery manufacturer" means every person, firm or corporation that: (i) produces rechargeable batteries sold or distributed in the city of New York, or packages such batteries for sale in the city of New York, except that if such production or packaging is for a distributor having the right to produce or otherwise package that same brand of battery in the city of New York, then such distributor shall be deemed to be the battery manufacturer; or (ii) imports rechargeable batteries into the United States that are sold or distributed in the city of New York.
+         (b) a residential occupant failed to file a coverage application in accordance with the terms and provisions of these rules; or
 
-b. "Consumer" means any person who purchases one or more rechargeable batteries, or products containing such batteries at the time of sale, for personal use.
+         (c) a tenant failed to raise the claim of Article 7-C coverage in a court of competent jurisdiction in a pleading on or before the date listed in 29 RCNY § 1-06.1(a) and on the Loft Board website, which constitutes 6 months after the Loft Board shall have adopted all rules necessary in order to implement the provisions of Chapters 135 and 147 of the laws of 2010 which added MDL § 281(5). Occupants of any non-covered unit are not entitled to the protections of Article 7-C. Residential occupancy of such unit shall not be permitted unless a final residential certificate of occupancy is obtained for the unit.
 
-c. "Place of business" means the location at which a retailer sells or offers for sale to consumers, rechargeable batteries, or products containing such batteries at the time of sale.
+(i) De facto multiple dwellings. Registration as an IMD with the Loft Board shall be required of any building, structure or portion thereof judicially determined to be a de facto multiple dwelling, which otherwise meets the criteria for an IMD, as set forth in MDL § 281 and these rules. Such prior judicial determination will not be the basis for exemption from Article 7-C coverage.
 
-d. "Rechargeable battery" means any rechargeable nickel-cadmium, sealed lead, lithium ion, nickel metal hydride battery, or any other such dry cell battery capable of being recharged weighing less than twenty-five pounds, or battery packs containing such batteries, but shall not include a battery used as the principal electric power source for a vehicle, such as, but not limited to, an automobile, boat, truck, tractor, golf cart or wheelchair, for storage of electricity generated by an alternative power source, such as solar or wind-driven generators, or for memory backup in an electronic device.
+(j) The term "Interim Multiple Dwelling" ("IMD") as used in Multiple Dwelling Law § 281(5) shall not include any building in which an inherently incompatible use as described in subsection (k) of this section is being actively and currently pursued in any unit other than a residential unit of the building. The term "actively and currently pursued" shall refer to commercial, manufacturing or industrial use being conducted in the building on June 21, 2010 and continuing at the time of the submission of an application for coverage by any party. A unit eligible for coverage pursuant to MDL § 281(5), which is located in a building registered as an IMD under MDL §§ 281(1) or (4), shall not be excluded from Article 7-C coverage on the basis that any prohibited activity in use groups 15 through 18 existed in the building.
 
-e. "Retailer" means a person, firm or corporation that engages in the sale of rechargeable batteries, or products containing such batteries, to a consumer in the city of New York, including, but not limited to, transactions conducted through sales outlets, catalogs, by mail, telephone or the internet. For the purposes of this section retailer shall not include a "food store".
+(k) Uses in Use Groups Inherently Incompatible With Residential Use. Pursuant to MDL § 281(5), a use that falls within Use Groups 15-18, as defined in Article III Chapter 2 and Article IV Chapter 2 of the Zoning Resolution in effect on June 21, 2010 and continuing at the time of the submission of an application for coverage by any party, that is also set forth in the Appendix to these Rules, is inherently incompatible with residential use in the same building if it:
 
-f. "Food Store" means a store selling primarily food and food products for consumption or use off the premises that occupies less than 14,000 square feet of display space.
+      (i) has or should have a New York City or New York State environmental rating of "A", or "B" under Section 24-153 of the New York City Administrative Code for any process equipment requiring a New York City Department of Environmental Protection operating certificate; or
 
+      (ii) is or should be required under the Community Right-to-Know Law, at Chapter 7 of Title 24 of the Administrative Code of the City of New York, to file a Risk Management Plan for Extremely Hazardous Substances; or
 
+      (iii) is or should be classified as High-Hazard Group H occupancy as set forth in Section 307 of the New York City Building Code.
 
+(l) Residential Unit: For the purposes of subsections (j) through (s), in addition to the definition of Residential Unit in 29 RCNY § 2-08(a)(4) above, a residential unit may contain a non-residential use that:
 
+   (1) is clearly incidental to or secondary to the residential use of the residential unit;
 
+   (2) is carried on within the residential unit, by one or more occupants of such residential unit;
 
-*§ 16-404 Rechargeable battery disposal ban.* ::
+   (3) does not use more than 49 percent of the total floor area of a dwelling unit for the non-residential purposes; and
 
+   (4) has up to three non-residential employees.
 
-a. No person shall knowingly dispose of rechargeable batteries as solid waste at any time in the city of New York.
+(m) Owner's registration application. For all applications for registration filed pursuant to 29 RCNY § 2-05, except for any unit eligible for coverage pursuant to MDL § 281(5) that is located in a building registered as an IMD under MDL §§ 281(1) or (4), the owner seeking coverage under MDL § 281(5) must, if there are any commercial, manufacturing, or industrial uses in the non-residential units in the building as of June 21, 2010, and continuing at the time of the submission of an application for coverage by any party, submit a certification to the Loft Board, signed by a New York State licensed and registered architect or engineer, that such commercial, manufacturing or industrial use is not an inherently incompatible use under subdivision (k).
 
+(n) Rejection of owner's registration application. Where an owner files a registration application for coverage under MDL § 281(5) for a building that has or had a commercial, manufacturing or industrial tenant that was actively pursuing a use on June 21, 2010, and continuing at the time of the submission of an application for coverage by any party, that was inherently incompatible with residential use under subsection (k) above, the Executive Director shall determine that the building does not qualify for coverage and reject the registration application.
 
+(o) Revocation of IMD registration. The Executive Director may, on written notice to the owner, revoke the IMD registration at any time for failure to meet the requirements set forth in the provisions of MDL § 281(5), and this rule, where:
 
+   (1) previously undisclosed facts, or misrepresentations or false statements as to material facts in the registration application or submitted documents regarding the information which was the basis for the Loft Board issuance of an IMD registration number are discovered, or
 
+   (2) the Loft Board issued an IMD registration number in error and conditions are such that the IMD registration number should not have been registered. Such notice will inform the owner of the reasons for the revocation and that the owner has the right to present to the Executive Director or his or her representative within 10 business days of delivery of the notice by hand or 15 calendar days of the posting of the notice by mail, information as to why the registration should not be revoked.
 
+(p) Use after June 21, 2010. A commercial, manufacturing or industrial tenant engaged in an inherently incompatible use as described in subdivision (k) after June 21, 2010 shall not disqualify a building from Article 7-C coverage that otherwise qualifies for coverage.
 
-*§ 16-405 Rechargeable battery recycling program.* ::
+(q) Tenant applications for coverage. For all applications for coverage filed pursuant to 29 RCNY § 1-06, except for any unit eligible for coverage pursuant to MDL § 281(5) that is located in a building registered as an IMD under MDL §§ 281(1) or (4), the applicant seeking coverage under Article 7-C of the MDL must establish by a preponderance of the evidence that there are no commercial, manufacturing or industrial uses in the non-residential units that are inherently incompatible with residential use as defined in subdivision (k) in the building as of June 21, 2010 and continuing at the time of the submission of an application for coverage by any party.
 
+(r) Site visits. The Executive Director may conduct, or designate a Loft Board staff member to conduct, a site visit to the building for which coverage under Article 7-C of the MDL is being sought. The building owner shall arrange for the Executive Director and/or the Loft Board's staff to have access to the non-residential spaces upon reasonable notice. The Executive Director, or his/her staff, may also conduct informal conferences regarding the owner's registration application. The Executive Director may request additional information from the owner, building tenants or government agencies about the non-residential uses in the building on June 21, 2010 and continuing at the time of the submission of an application for coverage by any party.
 
-a. Rechargeable batteries shall be returned to a retailer that sells such batteries that are similar in shape, size and function to those to be disposed of. Rechargeable batteries contained in electronic products must be removed prior to disposal of such product.
+(s) Appeal of Decision. If the Executive Director rejects the registration or revokes the IMD registration number issued after the filing of the registration application because a use listed in subdivisions (k) of this section was actively and currently pursued in the unit on June 21, 2010, and continuing at the time of the submission of an application for coverage by any party, the applicant may appeal the Executive Director's determination to the Loft Board in accordance with, and subject to the terms of the provisions in 29 RCNY § 1-07.1.
 
-   1. Retailers having a place of business in the city of New York shall accept from consumers at any time during normal business hours rechargeable batteries of a similar size and shape as the retailer offers for sale. Retailers shall take up to ten such batteries per day from any person regardless of whether such person purchases replacement batteries, and retailers shall also accept as many such batteries as a consumer purchases from the retailer. Retailers shall conspicuously post and maintain, at or near the point of entry to the place of business, a legible sign, not less than 8 1/2 inches by 11 inches in size, stating that used rechargeable batteries of the size and shape sold or offered for sale by the retailer may not enter the solid waste stream, and that the retail establishment is a collection site for recycling such batteries. Such sign shall state the following in letters at least one-inch in height: "It is illegal to dispose of rechargeable batteries in the city of New York as solid waste. We accept used rechargeable batteries for return to the manufacturer."
 
-   2. Retailers that sell rechargeable batteries to consumers in the city of New York through non-retail outlets such as through catalogs, or by mail, telephone or the internet shall provide at the time of purchase or delivery to the consumer notice of an opportunity to return used rechargeable batteries at no cost to the consumer for reuse or reycling.
 
-   3. Retailers in the city of New York shall conspicuously maintain, at a location within the retail establishment convenient for use by consumers, collection boxes or other suitable receptacles, supplied by the manufacturer, into which consumers may deposit used rechargeable batteries.
 
-b. Every battery manufacturer, or any combination of battery manufacturers working together, shall, at the battery manufacturer's own expense, arrange for the return of, and recycle, all used rechargeable batteries collected by retailers. Battery manufacturers shall be responsible for, at a minimum, the following:
 
-   1. Every battery manufacturer, or any combination of battery manufacturers working together, shall, within six months of the passage of this law, submit a plan to the commissioner, or any other person responsible for the city of New York's recycling programs, that identifies the methods by which battery manufacturers will collect, transport, and recycle rechargeable batteries collected by retailers at the expense of the battery manufacturer.
 
-   2. Every battery manufacturer, or any combination of battery manufacturers working together, shall submit annual reports concerning the amount of rechargeable batteries received and recycled within the city of New York, either by number or by weight; the costs of such efforts; and any other relevant information to the commissioner or any other person responsible for the city of New York's recycling programs.
+*§ 2-08.1 Eviction of Residential Occupants.* ::
 
-   3. Every battery manufacturer, or any combination of battery manufacturers working together, shall undertake efforts to educate the citizens of the city of New York regarding the appropriate ways to recycle rechargeable batteries.
 
-c. The commissioner, or any other person responsible for the city of New York's recycling programs, shall approve or reject any battery manufacturer's collection, transportation, and recycling plans described in paragraph one of subdivision (b) of this section within thirty days of submission and, if rejected, inform the battery manufacturer in writing as to any deficiencies in the plan. Battery manufacturers shall amend and resubmit any rejected plans for reconsideration within sixty days of notification of the rejection of said plan. The commissioner or any other person responsible for the city of New York's recycling programs shall approve or reject said plan within thirty days of resubmission.
+(a)  Grounds for eviction. The landlord of an IMD registered with the Loft Board may bring eviction proceedings against the residential occupant of a unit in a court of competent jurisdiction on any of the following grounds:
 
-d. The commissioner, or any other person responsible for the city of New York's recycling programs, shall analyze the information provided by battery manufacturers pursuant to paragraph two of subdivision (b) of this section and report to the Mayor and the City Council every two years.
+   (1) that the unit is not the primary residence of such residential occupant, except that where a lease or rental agreement is in effect between the landlord and such residential occupant, the landlord may not seek to evict such occupant until such lease or rental agreement is no longer in effect; or
 
-e. The commissioner, or any other person responsible for the city of New York's recycling programs, shall promulgate any rules needed to implement this law.
+   (2) that the residential occupant is committing or permitting a nuisance in such unit; or is maliciously or by reason of gross negligence substantially damaging the building; or his or her conduct is such as to interfere substantially with the comfort and safety of the landlord or of the other occupants of the same building or of adjacent buildings or structures; or
 
+   (3) any of the grounds for eviction specified in the Real Property Law or the Real Property Actions and Proceedings Law, to the extent that such grounds are not inconsistent with Article 7-C and any regulations promulgated by the Loft Board.
 
+(b) Effect of eviction. Any unit which becomes vacant as a result of the eviction of a protected occupant or occupants pursuant to 29 RCNY § 2-08.1(a), supra, of these rules shall remain subject to all the requirements of Article 7-C, and rules and orders of the Loft Board, including the legalization requirements of § 284 of the Multiple Dwelling Law and rent guidelines issued by the Loft Board, except that the landlord may convert such unit to a non-residential conforming use, provided that the landlord file with the Loft Board a certified copy of an irrevocable recorded covenant in form satisfactory to the Loft Board, enforceable by the City of New York for fifteen (15) years from the date of recording, that the unit will not be re-converted to residential use during such time. When the conversion of such unit to a non-residential conforming use reduces the number of qualifying units below three, however, IMD status for such building and the remaining residential units covered under Article 7-C in such building, shall not be affected.
 
+(c) Succession rights.
 
+   (1) Any family member, as defined in paragraph (3) of this subdivision, shall not be evicted under subparagraph (a) of 29 RCNY § 2-08.1 where the protected occupant has permanently vacated the IMD unit and such family member has resided with the protected occupant in the unit as a primary residence for a period of no less than two years, or where such person is a "senior citizen" or a "disabled person," as defined in paragraph (3) of this subdivision, for a period of no less than one year, immediately prior to the permanent vacating of the unit by the protected occupant, or from the inception of the occupancy or commencement of the relationship, if for less than such periods. The minimum periods of required residency set forth in this subdivision shall not be deemed to be interrupted by any period during which the "family member" temporarily relocates because he or she:
 
+      (i) is engaged in active military duty;
 
-*§ 16-406 Penalties.* ::
+      (ii) is enrolled as a full time student;
 
+      (iii) is not in residence at the unit pursuant to a court order not involving any term or provision of the lease, and not involving any grounds specified in the Real Property Actions and Proceedings Law;
 
-a. Any person who violates section 16-404 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of fifty dollars for the first violation, one hundred dollars for a second violation committed within twelve months of a prior violation and two hundred dollars for a third or subsequent violation committed within twelve months of any prior violation.
+      (iv) is engaged in employment requiring temporary relocation from the housing unit;
 
-b. Any retailer who violates section 16-405 of this chapter shall be liable for a civil penalty in a proceeding before the environmental control board in the amount of two hundred dollars for the first violation, four hundred dollars for a second violation committed within twelve months of a prior violation, and five hundred dollars for a third or subsequent violation committed within twelve months of any prior violation.
+      (v) is hospitalized for medical treatment; or
 
-c. Any battery manufacturer who violates section 16-405 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of two thousand dollars for the first violation, four thousand dollars for a second violation committed within twelve months of a prior violation, and five thousand dollars for a third or subsequent violation committed within twelve months of any prior violation.
+      (vi) has such other reasonable grounds that shall be determined by the Loft Board upon application by such person.
 
+   (2) On a form prescribed by the Loft Board, a protected occupant may, at any time, advise the landlord of, or a landlord may at any time, request from the protected occupant, the information required in subparagraphs (i) through (iv) of this paragraph (2). Failure of the protected occupant to provide such information to the landlord, regardless of whether the landlord requests the information, shall place upon all such persons not so made known to the landlord, who seek to exercise the right to protection from eviction as provided for in this subdivision, the affirmative obligation to establish such right. Such required information is as follows:
 
+      (i) the names of all persons other than the protected occupant who are residing in the unit; and
 
+      (ii) if such other person is a "family member" as defined in paragraph (3) of this subdivision; and
 
-Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
---------------------------------------------------
+      (iii) if such other person is, or upon the passage of the applicable minimum period of required residency, may become a person entitled to protection from eviction pursuant to paragraph (1) of this subdivision, and the date of the commencement of such person's primary residence with the protected occupant; and
 
+      (iv) if such other person is a "senior citizen" or a "disabled person" as defined in paragraph (3) of this subdivision.
 
+   (3) For the purposes of this subdivision:
 
-*§ 16-420 [Short title.]* ::
+      (i) "family member" is defined as a husband, wife, son, daughter, stepson, stepdaughter, father, mother, stepfather, stepmother, brother, sister, grandfather, grandmother, grandson, granddaughter, father-in-law, mother-in-law, son-in-law, or daughter-in-law of the protected occupant; or any other person residing with the protected occupant in the IMD unit as a primary residence who can prove emotional and financial commitment, and interdependence between such person and the protected occupant. Although no single factor shall be solely determinative, evidence which is to be considered in determining whether such emotional and financial commitment and interdependence existed, may include, without limitation, such factors as listed below. In no event would evidence of a sexual relationship between such persons be required or considered.
 
+         (A) longevity of the relationship;
 
-This local law shall be known and may be cited as the "Electronic Equipment Collection, Recycling and Reuse Act".
+         (B) sharing of or relying upon each other for payment of household or family expenses, and/or other common necessities of life;
 
+         (C) intermingling of finances as evidenced by, among other things, joint ownership of bank accounts, personal and real property, credit cards, loan obligations, sharing a household budget for purposes of receiving government benefits, etc.;
 
+         (D) engaging in family-type activities by jointly attending family functions, holidays and celebrations, social and recreational activities, etc.;
 
+         (E) formalizing of legal obligations, intentions, and responsibilities to each other by such means as executing wills naming each other as executor and/or beneficiary, conferring upon each other a power of attorney and/or authority to make health care decisions each for the other, entering into a personal relationship contract, making a domestic partnership declaration, or serving as a representative payee for purposes of public benefits, etc.;
 
+         (F) holding themselves out as family members to other family members, friends, members of the community or religious institutions, or society in general, through their words or actions;
 
+         (G) regularly performing family functions, such as caring for each other or each other's extended family members, and/or relying upon each other for daily family services;
 
-*§ 16-421 Definitions.* ::
+         (H) engaging in any other pattern of behavior, agreement, or other action which evidences the intention of creating a long-term, emotionally committed relationship;
 
+      (ii) a "senior citizen" is defined as a person who is sixty-two years of age or older;
 
-As used in this chapter:
+      (iii) a "disabled person" is defined as a person who has an impairment which results from anatomical, physiological or psychological conditions, other than addiction to alcohol, gambling, or any controlled substance, which are demonstrable by medically acceptable clinical and laboratory diagnostic techniques, and which are expected to be permanent and which substantially limit one or more of such person's major life activities.
 
-a. "Brand name" means a manufacturer's name, brand designation, make or model name or number, or other nomenclature by which covered electronic equipment is offered for sale by a manufacturer.
+   (4) Any persons in occupancy of an IMD unit on or after the effective date of this rule who has then been in occupancy for the minimum periods of required residency set forth in this subdivision shall have the benefits of succession rights.
 
-b. "Cathode ray tube" means a vacuum tube or picture tube used to convert an electronic signal into a visual image.
 
-c. "Computer" means an electronic, magnetic, optical, electrochemical or other high-speed data processing device performing a logical, arithmetic or storage function, and may include both a computer central processing unit and a monitor; but such term shall not include an automated typewriter or typesetter, a portable hand-held calculator, a portable digital assistant, or other similar device.
 
-d. "Covered electronic equipment" means any computer central processing unit; cathode ray tube; cathode ray tube device; keyboard; electronic mouse or similar pointing device; television; printer; computer monitor, including but not limited to a liquid crystal display and plasma screens, or similar video display device that includes a screen that is greater than four inches measured diagonally and one or more circuit boards; a laptop or other portable computer; or a portable digital music player that has memory capability and is battery-powered. "Covered electronic equipment" does not include any automobile; mobile phone; household appliances such as clothes washers, clothes dryers, refrigerators, freezers, microwave ovens, ovens, ranges or dishwashers; equipment that is functionally or physically part of a larger piece of equipment intended for use in an industrial, research and development or commercial setting; security, anti-terrorism or medical equipment that utilizes a cathode ray tube, a cathode ray tube device or a flat panel display or similar video display device that is not separate from the larger piece of equipment; or any other device, as that term is defined in 21 U.S.C. § 321.
 
-e. "Electronic recycler" means a person who 1. refurbishes or otherwise processes covered electronic equipment for reuse or resale; or 2. removes, segregates or otherwise extracts components or commodities from covered electronic equipment, either by manual or mechanical separation or by changing such equipment's physical or chemical composition, for the purpose of reusing or recycling such components or commodities.
 
-f. "Label" means information, as required by this chapter, on the surface of covered electronic equipment, which must be permanently attached to, printed or engraved on or incorporated in any other permanent manner on such equipment, and obvious and visible to users of such equipment.
 
-g. "Manufacturer" means a person who: 1. assembles or substantially assembles, or has assembled or substantially assembled, covered electronic equipment for sale in the city; 2. manufactures or has manufactured covered electronic equipment under its own brand name or under any other brand name for sale in the city; 3. sells or has sold, under its own brand name, covered electronic equipment produced by another person for sale in the city; 4. owns a brand name that it licenses or has licensed to another person for use on covered electronic equipment sold in the city; 5. imports or has imported covered electronic equipment for sale in the city; or 6. manufactures or has manufactured covered electronic equipment for sale in the city without affixing a brand name.
+*§ 2-09 Occupant Qualified for Article 7-C Protection, Privity, Subletting and Recovery of Subdivided Unit.* ::
 
-h. "Monitor" means a separate visual display component of a computer, whether sold separately or with a central processing unit and includes the cathode ray tube, liquid crystal display, or other image projection technology, and its case, interior wires and circuitry, all exterior and interior cables, and power cord.
 
-i. "Orphan waste" means covered electronic equipment, the manufacturer of which cannot be identified or is no longer in business and for which no successor-in-interest has been identified.
+(a) Definitions.
 
-j. "Person" means any individual, business entity, partnership, company, corporation, not-for-profit corporation, association, governmental entity, public benefit corporation, public authority, or firm.
+   Prime lessee means the party with whom the landlord entered into a lease or rental agreement for use and occupancy of a portion of an IMD, which is being used residentially, regardless of whether the lessee is currently in occupancy or whether the lease remains in effect.
 
-k. "Recycle" means to use the materials contained in covered electronic equipment or components thereof as raw materials for new products or components, but not for energy recovery or energy generation by means of combustion, gasification, pyrolysis or other means.
+   Privity means a direct contractual relationship between two parties, which may be established explicitly, implicitly or by operation of law.
 
-l. "Reuse" means any operation by which covered electronic equipment or components thereof are used for the same purpose for which they were conceived.
+   Tenant refers directly or implicitly to a residential tenant and is deemed interchangeable with the word "occupant" in Article 7-C and these rules.
 
-m. "Sell" or "sale" means any transfer for consideration, by lease or sales contract of title to or the right to use covered electronic equipment from a manufacturer or retailer to any person, including, but not limited to, transactions conducted through retail sales outlets, catalogs, or the internet; "sell" or "sale" includes transfer of new, used or refurbished covered electronic equipment, but does not include transfers between end users of such equipment.
+(b) Occupant qualified for possession of residential unit and protection under Article 7-C.
 
-n. "Television" means a display system containing a cathode ray tube or any other type of display primarily intended to receive broadcast video programming, having a viewable area greater than four inches when measured diagonally.
+   (1) Except as otherwise provided herein, the occupant qualified for protection under Article 7-C is the residential occupant in possession of a residential unit, covered as part of an IMD.
 
+   (2) If the residential occupant in possession of a covered residential unit is not the prime lessee, the lack of consent of the landlord to a sublet, assignment or subdivision establishing such occupancy does not affect the rights of such occupant to protection under Article 7-C, provided that such occupant was in possession of such unit prior to:
 
+      (i) June 21, 1982, for an IMD unit subject to Article 7-C by reason of MDL § 281(1);
 
+      (ii) July 27, 1987, for an IMD unit subject to Article 7-C solely by reason of MDL § 281(4); or
 
+      (iii) June 21, 2010, for an IMD unit covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010, and these rules.
 
+   (3) When a residential occupant took possession of a residential unit covered as part of an IMD, on or after:
 
-*§ 16-422 Responsibility of Manufacturer Collection.* ::
+      (i) June 21, 1982, for an IMD unit subject to Article 7-C by reason of MDL § 281(1);
 
+      (ii) July 27, 1987, for an IMD unit subject to Article 7-C solely by reason of MDL § 281(4); or
 
-a. Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer must accept for collection, handling and recycling or reuse covered electronic equipment that is offered for return by any person in the city, and has been assembled, manufactured, or imported by such manufacturer, or has been sold under such manufacturer's brand name.
+      (iii) June 21, 2010, for an IMD unit covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010, and these rules, such occupant is qualified for the protection of Article 7-C if:
 
-b. Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer must accept for collection, handling and recycling or reuse on a one-to-one basis with the purchase of the same type of covered electronic equipment other than orphan waste that is offered for return by any person in the city, and has been assembled, manufactured or imported by persons other than such manufacturer, or has been sold under the brand name of a person other than such manufacturer.
+         (i) The occupant is a prime lessee with a lease currently in effect or, if the occupant took possession of the IMD unit with the consent of the landlord, as a statutory tenant pursuant to Article 7-C, without the issuance of a new lease; or
 
-c. Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, and ending on June thirtieth, two thousand eleven, such manufacturer must accept for collection, handling, and recycling or reuse orphan waste that is offered for return by any person in the city on a one-to-one basis with the purchase of the same type of product by such person.
+         (ii) The occupant is the assignee of a prime lessee and such assignment was consented to by the landlord; or
 
-d. Beginning July first, two thousand eleven, each manufacturer must accept for collection, handling, and recycling or reuse orphan waste of the same type sold by such manufacturer in the city that is offered for return by any person in the city.
+         (iii) Prior to establishment of such occupancy, the landlord was offered the opportunity to purchase improvements in the unit pursuant to § 286(6) of the MDL and these rules.
 
+   (4) The prime lessee, or sublessor who is not the prime lessee, is deemed to be the residential occupant qualified for protection under Article 7-C, if the prime lessee or sublessor can prove that the residential unit covered as part of an IMD is his or her primary residence, even if another person is in possession. If the prime lessee or sublessor fails to prove that such unit is his or her primary residence, any rights of such person to recover the unit are extinguished.
 
+      (i) The prime lessee or sublessor must exercise, in a court of competent jurisdiction, his or her right to recover the unit upon the expiration or termination of the sublease under the terms of which the prime lessee or sublessor is the immediate overtenant, provided that the sublease was in effect on: September 25, 1983 for a unit covered under MDL § 281(1); November 22, 1992 for a unit covered under MDL § 281(4); or September 11, 2013, the effective date of this amended rule, for an IMD unit covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010.
 
+      (ii) Where the sublease was no longer in effect on the relevant date above, the prime lessee or sublessor must exercise, in a court of competent jurisdiction, his or her right to recover the unit on or before:
 
+         (A) December 24, 1983, for IMD units that are subject to Article 7-C by reason of MDL § 281(1); or
 
+         (B) February 21, 1993, for IMD units that are subject to Article 7-C solely by reason of MDL § 281(4).
 
-*§ 16-423 Manufacturer Electronic Waste Management Plan.* ::
+         (C) If the IMD unit became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010, and the sublease is no longer in effect, the prime lessee or sublessor must exercise the right to recover the unit on or before December 10, 2013, 90 days after the effective date of this amended rule, or if the unit is not subject to Article 7-C on September 11, 2013 the effective date of this amended rule, 90 days following the finding of coverage by a Loft Board order, a finding of coverage by a court of competent jurisdiction, or the issuance of an IMD registration number after filing of a registration application, whichever is earlier.
 
+   (5) Where a prime lessee is in possession of a portion of the space which he or she leased from the landlord, such prime lessee is entitled to remain in possession, and is qualified for protection under Article 7-C, only with respect to the portion of such space which he or she occupied as a residential unit, including any portion thereof used for home occupations or as the working portion of a joint-living-working quarters for artists. The prime lessee is not entitled to claim any of the remaining portion of the leased space as primary residence against the occupant of any other residential unit within such space, except to the extent provided for in 29 RCNY § 2-09(c)(5) below, and subject to the provisions of 29 RCNY §§ 2-09(b)(3) and (b)(4) above. The current residential occupants of the remaining unit(s) created through subdivision are qualified for protection under Article 7-C with regard to their respective residential units covered by Article 7-C, except as provided in 29 RCNY §§ 2-09(b)(3) and (b)(4).
 
-a. No later than September first, two thousand eight, a manufacturer shall submit to the department an electronic waste management plan for the collection, handling, and recycling or reuse of covered electronic equipment and orphan waste. Any person who becomes a manufacturer on or after September first, two thousand eight shall submit to the department an electronic waste management plan for the collection, handling, and recycling or reuse of covered electronic equipment and orphan waste prior to selling any covered electronic equipment in the city.
+(c) Rights, obligations and legal relationships among the parties.
 
-b. A manufacturer's submission of an electronic waste management plan pursuant to subdivision a of this section shall be accompanied by a fee of one thousand five hundred dollars. A manufacturer's submission of an annual report pursuant to subdivision a of section 16-428 of this chapter shall be accompanied by a fee of one thousand two hundred fifty dollars. Any manufacturer who submits such plan or report without the requisite fee shall be deemed not to have submitted such plan or report and shall be subject to the penalties set forth in paragraph one of subdivision d of section 16-427 of this chapter for failure to submit such plan or report.
+   (1) Legalization and cost of legalization. The landlord of an IMD building is responsible for legalization of each residential IMD unit pursuant to MDL § 284, regardless of whether the occupant is the prime lessee or a person or persons with whom the prime lessee entered into an agreement permitting such persons to occupy units in space covered by the prime lease. The costs of legalization, as reflected in rent adjustments made pursuant to MDL § 286(5), and apportioned among the covered residential units, shall be borne directly by the residential occupants qualified for protection of such units.
 
-c. The manufacturer shall not impose a fee or other charge on any person for the collection, handling, and recycling or reuse of covered electronic equipment or orphan waste, except that a fee or other charge may be imposed by contractual agreement between a manufacturer and a business entity, partnership, company, corporation or firm having more than fifty full time employees other than a not-for-profit corporation as defined in subparagraph five or seven of subdivision a of section one hundred two of the New York not-for-profit corporation law, association, governmental entity, public benefit corporation or public authority.
+   (2) Privity.
 
-d. An electronic waste management plan shall include, at a minimum:
+      (i) Privity Between Residential Occupant and Prime Lessee. The residential occupant qualified for protection under Article 7-C, if other than the prime lessee, is deemed to be in privity with the prime lessee, if either:
 
-   1. details for the collection, handling, and recycling or reuse of covered electronic equipment and orphan waste as required by this chapter, including but not limited to the methods by which a person can return to the manufacturer such covered electronic equipment and orphan waste. Such methods shall be convenient for residents of the city;
+         (A) There is a lease or rental agreement in effect for the residential unit between the prime lessee and the residential occupant; or
 
-   2. how the manufacturer will inform residents and businesses of the city about the manufacturer's plan for the collection, handling, and recycling or reuse of covered electronic equipment and orphan waste, which shall include an internet website and a toll-free telephone number;
+         (B) There is a lease or rental agreement in effect for the residential unit or the space in which it is located, between the landlord and the prime lessee. No lease or rental agreement between the prime lessee and the residential occupant has any force or effect beyond the term of the lease or rental agreement between the prime lessee and the landlord, except as provided in 29 RCNY §§ 2-09(c)(6) or (c)(7).
 
-   3. information on the manufacturer's plan for the disposition of covered electronic equipment and orphan waste, including any plan for the recycling or reuse of such covered electronic equipment and orphan waste. If the manufacturer provides a plan for the recycling or reuse of covered electronic equipment and orphan waste, the manufacturer shall include details about anticipated end markets and electronic recyclers expected to be utilized by the manufacturer, including but not limited to details on the methods of collection, handling and recycling or reuse of covered electronic equipment used by such electronic recyclers, details on any disassembly or physical recovery operation to be used by such electronic recyclers, the locations of any such operations, and details on the manufacturer's compliance with applicable laws and regulations relating to the disposition, recycling or reuse of covered electronic equipment;
+      (ii) Privity Between Landlord and Prime Lessee. The prime lessee and the landlord are deemed to be in privity when there is a lease or rental agreement in effect between them.
 
-   4. a description of how the manufacturer will plan to attain the performance standards established in paragraph a of section 16-424 of this chapter;
+      (iii) Privity Between Residential Occupant and Landlord. The residential occupant and the landlord are deemed to be in privity when the residential occupant is the prime lessee; or when the lease or rental agreement between the prime lessee and the landlord, covering the residential occupant's unit or the space in which it is located, is no longer in effect. All leases or rental agreements, except subleases entered into pursuant to § 226-b of the Real Property Law ("RPL") and 29 RCNY § 2-09(c)(4), which have not expired will be deemed to be no longer in effect upon certification by the Department of Buildings of the landlord's compliance with the fire and safety protection standards of Article 7-B. Upon such certification, a residential lease subject to the Emergency Tenant Protection Act of nineteen seventy-four must be offered to the residential occupant, pursuant to § 286(3) of the MDL.
 
-   5. annual city sales data of the manufacturer's covered electronic equipment for the previous three calendar years;
+   (3) Services.
 
-   6. the method to be used to destroy all data in any covered electronic equipment and orphan waste collected, either through physical destruction of the data storage components thereof or through data wiping meeting or exceeding United States Department of Defense standard 5220.22M;
+      (i) When the landlord and residential occupant are in privity, the landlord is responsible for meeting the minimum housing maintenance standards established by the Loft Board in 29 RCNY § 2-04.
 
-   7. a list of the manufacturer's brand names, including: (i) any brand name under which the manufacturer assembles or substantially assembles, or has assembled or substantially assembled covered electronic equipment; (ii) any brand name under which the manufacturer manufactures and sells, or has manufactured and sold, covered electronic equipment; (iii) any brand name under which the manufacturer sells or has sold covered electronic equipment produced by another person under such manufacturer's own brand; (iv) any brand name that the manufacturer owns and licenses or has licensed to another person for use on covered electronic equipment; (v) any brand name under which the manufacturer imports or has imported covered electronic equipment for sale in the city; and (vi) any brand name of covered electronic equipment of which the manufacturer has become the successor-in-interest;
+      (ii) When the prime lessee and the residential occupant are in privity, there must not be any diminution of services provided by the prime lessee to the residential occupant. The prime lessee is responsible for meeting the minimum housing maintenance standards established by the Loft Board, to the extent such standards are required pursuant to the lease or rental agreement between the prime lessee and the residential occupant, and to the extent those services are within the control of the prime lessee. Otherwise, all services must be provided by the landlord.
 
-   8. a certification that the manufacturer's collection, handling, and recycling or reuse of covered electronic equipment complies with all local, state, federal and international laws and regulations; and
+   (4) Subletting rights of occupants qualified for protection under Article 7-C.
 
-   9. any other information as may be required by department rules.
+      (i) Right to Sublet. All occupants qualified for protection under Article 7-C have the right to sublet their units pursuant to and in accordance with the procedures specified in § 226-b of the RPL, notwithstanding that such occupants may reside in an IMD building having fewer than 4 residential units, and may not have a current lease or rental agreement in effect. The residential occupant of a unit located in a subdivided space, who is not in privity with the landlord, must obtain the consent of both the prime lessee of such space and the landlord to a proposed sublet of such unit, which may not be unreasonably withheld in accordance with § 226-b of the RPL.
 
-e. The department shall approve or disapprove a proposed electronic waste management plan submitted by a manufacturer within one hundred eighty days of its submission. The department may approve a submitted electronic waste management plan that does not conform with every one of the requirements of this chapter upon application and a showing of good cause by such manufacturer. If the department approves an electronic waste management plan, it shall expeditiously notify the manufacturer of the approval in writing. If the department disapproves an electronic waste management plan, it shall expeditiously notify the manufacturer in writing of the disapproval and specify the reasons for such disapproval. The manufacturer shall have thirty days to resubmit a revised electronic waste management plan after the department notifies the manufacturer of its disapproval. The department shall approve or disapprove a resubmitted electronic waste management plan within ninety days of resubmission.
+      (ii) Subletting Provisions. The right to sublet is subject to the following provisions:
 
-f. Beginning on July first, two thousand nine, or one hundred eighty days after an electronic waste management plan is approved by the department, whichever date is later, a manufacturer of covered electronic equipment shall implement its approved plan for the collection, handling and recycling or reuse of covered electronic equipment and orphan waste.
+         (A) The rent charged to the subtenant may not exceed the legal rent, as established pursuant to Article 7-C and these rules, plus a ten percent surcharge payable to the residential occupant if the unit sublet is furnished with the residential occupant's furniture;
 
-g. An electronic waste management plan may provide for the sharing of resources by one or more manufacturers, provided that such plan meets the requirements of this section. Any electronic waste management plan providing for the sharing of resources must include a list of manufacturers participating in such plan.
+         (B) The residential occupant must be able to establish that the residential unit is his or her primary residence;
 
-h. 1. Proposed modifications to a previously approved manufacturer's electronic waste management plan shall be submitted to the department which shall approve or disapprove such modification within sixty days and expeditiously notify the manufacturer of its determination in writing. If the department disapproves such modification, it shall specify the reasons for such disapproval in writing and the manufacturer shall have thirty days to submit a revised modification to the department.
+         (C) The residential occupant may not sublet the unit for more than a total of two years, including the term of the proposed sublease, out of the four-year period preceding the termination date of the proposed sublease;
 
-   2. At any time, the department may require submission of a proposed modification where it determines that the manufacturer is not in compliance with the collection standards as set forth in section 16-424 of this chapter. The department shall approve or disapprove such modification in accordance with paragraph one of this subdivision.
+         (D) The term of the proposed sublease may extend beyond the term of the residential occupant's lease, if such a lease is in effect, or beyond the date of the Department of Buildings certification of the landlord's compliance with Article 7-B of the MDL. In such event, the sublease is subject to the residential occupant's right to continued occupancy pursuant to Article 7-C of the MDL, including the right of the residential occupant to issuance of a lease in accordance with the terms and provisions of MDL § 286(3) and these rules, upon Article 7-B compliance. It is considered unreasonable for a landlord to refuse to consent to a sublease solely because the residential occupant has no lease or rental agreement in effect or because the sublease extends beyond the residential occupant's lease or beyond the anticipated date of achieving Article 7-B compliance.
 
-i. Notwithstanding the provisions of section 16-423 of this chapter, any person who becomes a manufacturer of covered electronic equipment subsequent to the effective date of this section may include within a submitted electronic waste management plan a proposed schedule for compliance with the minimum collection standards set forth in section 16-424 beyond the respective compliance dates set forth in such section. The commissioner may approve such proposed schedule or may approve a modification to such proposed schedule that provides for a reasonable compliance time beyond that provided for in such section.
+         (E) Where a residential occupant violates the provisions of this subparagraph (ii) of paragraph (4), the subtenant is entitled to damages of three times the overcharge and may also be awarded attorney's fees and interest from the date of the overcharge at the rate of interest payable on a judgment pursuant to § 5004 of the Civil Practice Law and Rules.
 
-j. All decisions of the department pursuant to this section shall be made public.
+         (F) The provisions in clauses (A) through (E) of this 29 RCNY § 2-09(c)(4)(ii) apply to all subleases for IMD units which are subject to Article 7-C by reason of MDL § 281(1), commencing on or after September 25, 1983, the original effective date of these rules. Subleases entered into on or after June 21, 1982, but prior to September 25, 1983 are not subject to clauses (A), (C) and (E) of 29 RCNY § 2-09(c)(4)(ii), but are subject to clauses (B) and (D) of § 29 RCNY § 2-09(c)(4)(ii) and the provisions of § 226-b of the RPL, in effect at the time of the commencement of the sublease.
 
+         (G) Notwithstanding the provisions of clause (F) of this 29 RCNY § 2-09(c)(4)(ii), the provisions in clauses (A) through (E) of 29 RCNY § 2-09(c)(4)(ii) apply to all subleases for IMD units which are subject to Article 7-C solely by reason of MDL § 281(4) commencing on or after November 23, 1992. Subleases for such units entered into on or after July 27, 1987, but before November 23, 1992, are not subject to clauses (A), (C) and (E), but are subject to clauses (B) and (D) of 29 RCNY § 2-09(c)(4)(ii) and the provisions of § 226-b of the RPL, in effect at the commencement of the sublease.
 
+         (H) Notwithstanding the provisions of clauses (F) and (G) of 29 RCNY § 2-09(c)(4)(ii), the provisions in clauses (A) through (E) of 29 RCNY § 2-09(c)(4)(ii) apply to all subleases for IMD units that are subject to Article 7-C by reason of MDL § 281(5) commencing on or after September 11, 2013, the effective date of this amended rule. Subleases for such units entered into on or after June 21, 2010, but before September 11, 2013 are not subject to clauses (A), (C) and (E), but are subject to clauses (B) and (D) of 29 RCNY § 2-09(c)(4)(ii) and the provisions of § 226-b of the RPL, in effect at the commencement of the sublease.
 
+      (iii) If any clause, sentence, paragraph, subdivision or part of this 29 RCNY § 2-09(c)(4) is adjudged by any court of competent jurisdiction to be invalid, the judgment shall not render invalid this entire section on subletting rights of residential occupants.
 
+   (5) Prime Lessee's Right to Recover Subdivided Space.
 
+      (i) Lease Between Prime Lessee and Landlord is in Effect and Residential Occupant Voluntarily Vocates the Subdivided Portion. Where the prime lessee is the residential occupant of a portion of the space leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is in effect, the prime lessee may recover for his or her own personal use, a residential unit located within the leased space voluntarily vacated by the residential occupant prior to the establishment of privity between such residential occupant and the landlord. The right to recover space pursuant to this rule is not available to a prime lessee found by the Loft Board to have harassed any residential occupant(s). The recovered space will be deemed part of the prime lessee's residential unit, and in no event may the prime lessee relet such space for any purposes whatsoever, except that the prime lessee retains the same rights to sublet the entire residential unit as provided in 29 RCNY § 2-09(c)(4).
 
-*§ 16-424 Performance Standards.* ::
+      (ii) Prime Lessee's Right to Compensation for Improvements When the Residential Occupant Voluntarily Vocates the Subdivided Portion. Where a prime lessee waives the right to recover a residential unit in space leased by a prime lessee and vacated by the residential occupant, the prime lessee may sell improvements to the unit made or purchased by the prime lessee to an incoming tenant, provided that the prime lessee first offers the improvements to the landlord for an amount equal to their fair market value pursuant to § 286(6) of the MDL and the Loft Board rules. If the incoming tenant purchases the improvements, the incoming tenant is deemed in privity with the landlord, and the initial maximum rent is to be determined in accordance with 29 RCNY § 2-09(c)(6)(ii)(A). If the landlord purchases the improvements, the rent due shall be the initial market rental subject to subsequent rent regulation if the IMD has six or more residential units and if the sole basis for rent regulation is Article 7-C.
 
+      (iii) Lease Between Prime Lessee and Landlord is in Effect and Prime Lessee Wants to Recover the Subdivided Portion. Where the prime lessee is the residential occupant of a portion of the space the prime lessee has leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is in effect, the prime lessee may recover for his or her own personal use, a residential unit located within the leased space, if the residential occupant of the unit agrees to the purchase by the prime lessee of the occupant's rights in the unit. The recovered space will be deemed part of the prime lessee's residential IMD unit, and in no event may the prime lessee relet such space for any purpose whatsoever, except that the prime lessee retains the same rights to sublet the entire residential IMD unit as provided in 29 RCNY § 2-09(c)(4).
 
-a. A manufacturer shall demonstrate whether, pursuant to its electronic waste management plan, it is collecting for recycling or reuse at least its share of covered electronic equipment. Such manufacturer's share of covered electronic equipment is determined by applying the following minimum collection standard percentage by the average annual sales of the manufacturer's covered electronic equipment in the city, reported by weight, during the previous three calendar years; by July 1, 2012, the minimum collection standard is twenty-five percent; by July 1, 2015, the minimum collection standard is forty-five percent; by July 1, 2018, the minimum collection standard is sixty-five percent.
+      (iv) Lease Between Prime Lessee and Landlord No Longer In Effect and Prime Lessee Wants to Recover Subdivided Portion. Where the lease or rental agreement between the prime lessee and the landlord is no longer in effect, the prime lessee's right to recover space pursuant to this subsection expires on:
 
-b. For purposes of calculating achievement of the minimum collection standard specified in paragraph a of this subdivision, a manufacturer may count the collection of a single item of covered electronic equipment as twice its weight when that item is donated free of charge for reuse to the New York city department of education, or to any not-for-profit corporation, as defined in subparagraphs five or seven of subdivision a of section one hundred two of the New York not-for-profit corporation law, a principal mission of which is to assist low-income children or families living in city. To qualify for the donation reuse credit under this subdivision, the covered electronic equipment must be: (a) no older than three years old, (b) in full working condition, and (c) accepted as a donation by the recipient in writing.
+         (A) July 5, 1988, for an IMD unit subject to Article 7-C by reason of MDL § 281(1);
 
-c. The commissioner may grant an annual waiver, in whole or in part, from the minimum collection standards set forth in subdivision a of this section where a manufacturer who has an approved electronic waste management plan has demonstrated to the commissioner's satisfaction that such minimum collection standards could not be met despite the best efforts of the manufacturer because the manufacturer has substantially increased the amount of covered electronic equipment sold within the city over the three-year period during which compliance with subdivision a of this section is to be measured and it was not practicable to meet the applicable minimum collection standard.
+         (B) January 22, 1993, for an IMD unit subject to Article 7-C solely by reason of MDL § 281(4); or
 
+         (C) November 12, 2013, 60 days after the effective date of this amended rule, or if the unit is not subject to Article 7-C on the effective date of this amended rule, 60 days following the finding of coverage by a Loft Board order, a finding of coverage by a court of competent jurisdiction, or issuance of an IMD registration number after the filing of a registration application by the owner, whichever is earlier, for IMD units subject to Article 7-C by reason of MDL § 281(5).
 
+      (v) Factors to Consider When Prime Lessee Seeks to Recover Subdivided Space. Where the prime lessee is the residential occupant of a portion of subdivided space that the prime lessee uses as his or her primary residence, and which the prime lessee has rented directly from the landlord, the prime lessee is entitled to recover as part of his or her primary residence, a residential unit, located within the leased space, even if the space is occupied by another person or persons, if the prime lessee can establish that:
 
+         (A) There was an express written agreement between the prime lessee and the occupant of such space, other than the mere expiration of the lease, entitling the prime lessee to recover such space, and that the prime lessee has not taken actions inconsistent with exercising the option entitling the prime lessee to recover such space;
 
+         (B) The prime lessee has occupied the entire demised premises as his or her own primary residence for at least one year prior to the subdivision and subletting of the unit;
 
+         (C) The prime lessee has a compelling need to recover such space; and
 
-*§ 16-425 Labeling.* ::
+         (D) The prime lessee has not been found to have harassed any residential occupants.
 
+         Space recovered pursuant to this provision is deemed part of the prime lessee's residential IMD unit, and in no event may the prime lessee relet any recovered space for any purpose whatsoever, except that the prime lessee has the same rights to sublet the entire residential IMD unit as provided in 29 RCNY § 2-09(c)(4) above, provided, however, that no such sublet is permitted for the first 2 years after recovery. The prime lessee retains the right to make a claim to recover space pursuant to this provision, before the Loft Board, where there is a lease or rental agreement in effect between the prime lessee and the landlord, or, where a lease or rental agreement is no longer in effect, on or before:
 
-a. Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer may not sell or otherwise distribute for sale in the city covered electronic equipment unless such equipment has a label that identifies such manufacturer.
+            (a) July 5, 1988 for an IMD unit subject to Article 7-C by reason of MDL § 281(1);
 
-b. Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer shall provide at the point of sale information on how a person can return covered electronic equipment pursuant to such manufacturer's electronic waste management plan. Such information shall include a toll-free telephone number or internet website address describing how covered electronic equipment can be returned pursuant to the manufacturer's electronic waste management plan.
+            (b) January 22, 1993 for an IMD unit subject to Article 7-C solely by reason of MDL § 281(4); or
 
-c. Beginning July first, two thousand nine, the department shall post on its web site all information provided to it from manufacturers describing how covered electronic equipment can be returned pursuant to a specific manufacturer's electronic waste management plan.
+            (c) November 12, 2013, 60 days from the effective date of this amended rule, or if the unit is not subject to Article 7-C on the effective date of this amended rule, 60 days after the finding of coverage by a Loft Board order, a finding of coverage by a court of competent jurisdiction or the issuance of an IMD registration number after the filing of registration application by the owner, whichever is earlier, for IMD units subject to Article 7-C by reason of MDL § 281(5).
 
+   (6) Rent.
 
+      (i) Maximum Permissible Rent When Residential Occupant is in Privity With Prime Lessee. When the residential occupant is in privity with the prime lessee, the maximum permissible rent payable by the residential occupant to the prime lessee shall be:
 
+         (A) The rent established in the residential occupant's lease or rental agreement, subject to the limitations in the applicable Loft Board Interim Rent Guidelines; or
 
+         (B) If such lease or rental agreement is no longer in effect, the amount permissible in accordance with 29 RCNY § 2-06 for an IMD unit subject to Article 7-C by reason of MDL § 281(1); or in accordance with 29 RCNY § 2-06.1 for an IMD unit subject to Article 7-C solely by reason of MDL § 281(4); or in accordance with 29 RCNY § 2-06.2 for an IMD unit subject to Article 7-C by reason of MDL § 281(5); and subject to any other relevant orders or rules of the Loft Board.
 
+      (ii) Maximum Permissible Rent When Residential Occupant is in Privity with Landlord. When the residential occupant is in privity with the landlord, the residential occupant must pay rent as follows:
 
-*§ 16-426 Disposal ban.* ::
+         (A) If the residential occupant is not the prime lessee, the maximum permissible rent is the amount last regularly paid under the terms of the lease or rental agreement with the prime lessee, or the sublessor, if other than the prime lessee, plus any increases permissible and subject to any limitations under 29 RCNY § 2-06 for an IMD unit subject to Article 7-C by reason of MDL § 281(1); or under 29 RCNY § 2-06.1 for an IMD unit subject to Article 7-C solely by reason of MDL § 281(4); or under § 2-06.2 for an IMD unit subject to Article 7-C by reason of § 281(5); and subject to any other relevant orders or rules of the Loft Board.
 
+         (B) Maximum Permissible Rent When Prime Lessee is Residential Occupant of Entire Leased Space. If the prime lessee is the residential occupant of the entire space leased from the landlord, the maximum permissible rent is:
 
-a. Beginning July first, two thousand ten, no person shall dispose of covered electronic equipment as solid waste in the city.
+            (a) The amount specified in the lease or rental agreement, subject to any limitations in the applicable Loft Board Interim Rent Guidelines; or
 
-b. Beginning July first, two thousand nine, no manufacturer shall dispose of covered electronic equipment as solid waste in the city.
+            (b) If the lease or rental agreement is no longer in effect, the amount permissible pursuant to 29 RCNY § 2-06 for an IMD unit subject to Article 7-C by reason of § 281(1); or 29 RCNY § 2-06.1 for an IMD unit subject to Article 7-C solely by reason of MDL § 281(4); or 29 RCNY § 2-06.2 for an IMD unit subject to Article 7-C by reason of § 281(5); and subject to any other relevant orders or rules of the Loft Board.
 
+(C) (a) Maximum Permissible Rent When Prime Lessee is Residential Occupant of a Portion of Leased Space and Lease is in Effect. If the prime lessee is the residential occupant of a portion of the space leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is in effect for the entire space, the maximum permissible rent is the amount specified in the lease or rental agreement for the entire space and any permissible increases pursuant to any relevant orders or rules of the Loft Board.
 
+   (b) Maximum Permissible Rent When the Prime Lessee is Residential Occupant of a Portion of Leased Space and the Lease Between the Prime Lessee and the Landlord is Not in Effect. If the prime lessee is the residential occupant of a portion of the space leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is no longer in effect for a residential unit or unit located in a portion of such leased space, because privity has been established between the residential occupant(s) of the subdivided unit or unit(s) and the landlord pursuant to 29 RCNY § 2-09(c)(2)(iii), the maximum permissible rent shall be based on the rent paid by the prime lessee to the landlord under the most recent rental agreement for the entire space, plus any increases permissible under 29 RCNY § 2-06 for an IMD unit subject to Article 7-C by reason of MDL § 281(1); or, under 29 RCNY § 2-06.1 for any IMD unit(s) subject to Article 7-C solely by reason of MDL § 281(4); or under 29 RCNY § 2-06.2 for an IMD unit subject to Article 7-C by reason of MDL § 281(5); and subject to any other relevant orders or rules of the Loft Board. The maximum permissible rent payable by the prime lessee to the landlord is equal to the percentage of the rent so calculated, equivalent to a fraction:
 
+      (1) The numerator of which is the square footage of the leased space occupied by the prime lessee's unit, plus the square footage of any other unit regarding which the prime lessee remains in privity with the residential occupant, and
 
+      (2) The denominator of which is the entire square footage of the space leased from the landlord.
 
+(D) (a) Maximum Permissible Rent When Prime Lessee is a Residential Occupant of a Portion of Leased Space and the Lease Between the Prime Lessee and Residential Occupant is Not in Effect. If the prime lessee is the residential occupant of a portion of the space leased from the landlord, but the lease or rental agreement for all other units within the space is no longer in effect because the occupants of such units have entered into privity with the landlord, the maximum permissible rent shall be based on the rent paid by the prime lessee to the landlord under the most recent lease or rental agreement for the entire space, plus any increases permissible under 29 RCNY § 2-06 for an IMD unit subject to Article 7-C by reason of MDL § 281(1); or, under 29 RCNY § 2-06.1 for any IMD unit(s) subject to Article 7-C solely by reason of MDL § 281(4); or under 29 RCNY § 2-06.2 for an IMD unit subject to Article 7-C by reason of MDL § 281(5); and subject to any other relevant orders or rules of the Loft Board. The maximum permissible rent payable by the prime lessee to the landlord is equal to the percentage of the rent so calculated, equivalent to a fraction:
 
-*§ 16-427 Enforcement.* ::
+      (1) The numerator of which is the square footage of the leased space which the prime lessee's unit occupies, and
 
+      (2) The denominator of which is the entire square footage of the space leased from the landlord.
 
-a. The department and the department of consumer affairs shall have the authority to enforce the provisions of this chapter. Any notice of violation charging a violation of any provision of this chapter shall be returnable to the environmental control board, which shall have the power to impose civil penalties as provided herein.
+   (b) Maximum Permissible Rent When the Rent Paid by the Residential Occupant and Prime Lessee is Greater than the Total Rent for the Unit. Where the rent paid by the residential occupant(s) of such space who were in privity with the prime lessee to the prime lessee and the prime lessee's proportionate share of the rent as calculated under 29 RCNY § 2-09(c)(6)(ii)(D)(a) above, without inclusion of any increases permissible under the applicable Loft Board Interim Rent Guidelines or any other increase permitted in the Loft Board rules or Article 7-C, is greater than the rent specified in the most recent lease or rental agreement for the entire space leased between the prime lessee and the landlord or, if applicable, the rent as calculated under 29 RCNY § 2-09(c)(6)(ii)(C)(b), the landlord has the option to treat the excess amount as follows:
 
-b. Any person who violates the provisions of subdivision a of section 16-426 of this chapter shall be liable for a civil penalty of one hundred dollars for each violation.
+      (1) Reduce the monthly legal rent payable by the prime lessee by one-half of the excess amount as calculated on a monthly basis, provided the monthly legal rent may not be less than $100; or
 
-c. Any manufacturer who violates the provisions of subdivision b of section of 16-426 of this chapter shall be liable for a civil penalty of one thousand dollars for each violation.
+      (2) Make a single lump sum payment to the prime lessee equal to one-half of the monthly excess amount multiplied by 36.
 
-d. 1. Beginning September first, two thousand eight, a manufacturer who fails to submit an electronic waste management plan or an annual report as required by this chapter shall be liable for a civil penalty of one thousand dollars per day for each day that an electronic waste management plan or an annual report is not submitted.
+   The landlord may exercise the option to make a single lump sum payment at any time. If the landlord chooses the option of a single lump sum payment, after the prime lessee has commenced paying a rent calculated under item (1) above, the single lump sum payment due to the prime lessee from the landlord may not be diminished by the amount of the prior reductions in rent. Upon payment of the single lump sum payment, the landlord may increase the prime lessee's monthly rent to the maximum permissible rent allowable under 29 RCNY § 2-09(c)(6)(ii)(D)(a) above. Any prime lessee found to have harassed any residential occupant is not entitled to the rent reduction or single lump sum payment provided for in items (1) and (2) above, respectively.
 
-   2. Beginning September first, two thousand eight, a manufacturer who submits an electronic waste management plan that has been disapproved by the department more than two times shall be liable for a civil penalty of one thousand dollars per day for each day that an electronic waste management plan is not submitted and approved by the department following the date of such second disapproval.
+   (c) Effective Date of Rent Adjustments. The rent adjustments provided in 29 RCNY § 2-09(c)(6)(ii)(A) and (c)(6)(ii)(D) apply to the next regular rent payment due on or after:
 
-   3. Beginning July first, two thousand nine, a manufacturer who knowingly submits an annual report as required by this chapter that contains a false or misleading statement as to a material fact or omits to state any material fact necessary in order to make a statement therein not false or misleading shall be liable for a civil penalty of ten thousand dollars.
+      (i) July 5, 1988, for IMD units subject to Article 7-C pursuant to MDL § 281(1);
 
-   4. Beginning July first, two thousand nine, or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, a manufacturer who fails to accept covered electronic equipment or orphan waste offered for return by any person in the city pursuant to such manufacturer's electronic waste management plan shall be liable for a civil penalty of two thousand dollars for each piece of covered electronic equipment or orphan waste not accepted.
+      (ii) January 22, 1993, for IMD units subject to Article 7-C solely pursuant to MDL § 281(4); or
 
-   5. Beginning July first, two thousand twelve, a manufacturer who has not met the performance standards set forth in subdivision a of section 16-424 of this chapter shall be liable for a civil penalty of fifty thousand dollars for each percentage point that said manufacturer falls below the performance standards, and shall also submit a modified electronic waste management plan to the department with details explaining how said manufacturer intends to comply with the performance standards. The department shall review such modified electronic waste management plan as provided in subdivision h of section 16-423 of this chapter.
+      (iii) November 12, 2013, 60 days from the effective date of the amended rule, for IMD units subject to Article 7-C by reason of MDL § 281(5), if the lease or rental agreement between the prime lessee and the landlord is no longer in effect.
 
+Otherwise, the rent adjustments apply to the next regular rent payment due after such lease or rental agreement, or portion thereof, is no longer in effect, but in no event earlier than:
 
+      (i) July 5, 1988, for IMD units subject to Article 7-C pursuant to MDL § 281(1);
 
+      (ii) January 22, 1993, for IMD units subject to Article 7-C solely by reason of MDL § 281(4); or
 
+      (iii) November 12, 2013, 60 days from the effective date of the amended rule, for IMD units subject to Article 7-C pursuant to MDL § 281(5).
 
+   (7) Prime lessee's or sublessor's right to compensation for costs incurred in developing residential unit(s).
 
-*§ 16-428 Reporting Requirements.* ::
+      (i) Right to Compensation. Where a prime lessee, or a sublessor who is not the prime lessee, has incurred costs for improvements made or purchased in developing residential unit(s) in any space for which the prime lessee or sublessor had or has a lease or rental agreement and for which the prime lessee or sublessor is not the residential occupant qualified for protection under Article 7-C, such prime lessee or sublessor is entitled to compensation from the residential occupant(s), for the prime lessee's or sublessor's actual costs incurred in developing the residential unit in question.
 
+      (ii) Agreements for Compensation for Improvements. The prime lessee or sublessor and the residential occupant may agree to payment of such compensation upon any terms that are mutually acceptable, at any time prior to the deadline for the filing of an application as described in subparagraph (iii) below. All such agreements must be submitted to the Loft Board within 90 calendar days following their execution.
 
-a. On or before July first, two thousand nine, and annually on or before July first thereafter, a manufacturer that offers any covered electronic equipment for sale in the city shall submit an annual report to the department that includes the following information for the prior calendar year:
+      (iii) Limitation on Right to Compensation. If the parties are unable to agree upon the amount and terms of compensation prior to the establishment of privity between the residential occupant and the landlord, as defined in 29 RCNY § 2-09(c)(2), the prime lessee, sublessor, or residential occupant, may apply to the Loft Board for resolution of the dispute over compensation of the prime lessee or sublessor. Such application may be brought after the residential unit has been registered with the Loft Board without timely contest of coverage or determined to be covered under Article 7-C by Loft Board order or a court of competent jurisdiction, but no later than 180 calendar days after the later of:
 
-   1. any approved modification to the manufacturer's electronic waste management plan;
+         (A) May 6, 1988, for IMD unit(s) subject to Article 7-C by reason of § 281(1); or
 
-   2. sales data for the manufacturer's covered electronic equipment sold in the city;
+         (B) November 23, 1992, for any IMD unit(s) subject to Article 7-C solely by reason of MDL § 281(4); or
 
-   3. the quantity of covered electronic equipment collected for recycling or reuse in this city, expressed both in terms of the total weight of such covered electronic equipment and as a percentage of the average annual sales of the manufacturer's covered electronic equipment in the city, reported by weight, during the previous three calendar years, and categorized by the type of covered electronic equipment collected pursuant to such manufacturer's electronic waste management plan, and further categorized, to the extent possible, by the quantity of such covered electronic equipment collected from individuals and government entities;
+         (C) September 11, 2013 for an IMD unit covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010; or
 
-   4. the weight of orphan waste collected, categorized by the type of covered electronic equipment collected, pursuant to such manufacturer's electronic waste management plan;
+         (D) The establishment of privity between the residential occupant and the landlord; or
 
-   5. information on the manufacturer's compliance with the performance standards established in section 16-424 of this chapter;
+         (E) The earlier of the date the landlord's registration of the residential unit without timely contest of coverage or the date of the determination of coverage of the residential unit by the Loft Board or a court of competent jurisdiction.
 
-   6. information on the end markets and electronic recyclers utilized by the manufacturer, including details on the methods of collection, handling and recycling or reuse of covered electronic equipment used by electronic recyclers, details on any disassembly or physical recovery operation to be used, the locations of any such operations, and details on the manufacturer's compliance with applicable laws and regulations relating to the disposition, recycling and reuse of covered electronic equipment and orphan waste;
+      The application must comply with the rules of the Loft Board governing applications, including 29 RCNY § 1-06(a). The affected parties are limited to the prime lessee or sublessor, the residential occupant, and the owner. The application fee is due and payable at the time of filing the application.
 
-   7. examples of how the manufacturer has informed residents and businesses of the city about the manufacturer's plan for the collection, handling and recycling or reuse of covered electronic equipment and orphan waste;
+      (iv) Factors to Determine Whether Compensation is Due. The Loft Board must first determine whether any compensation is due and payable to the prime lessee or sublessor, as applicable, based on consideration of the following factors:
 
-   8. the number of visits to the internet website and calls to the toll-free telephone numbers established by the manufacturer's electronic waste management plan; and
+         (A) Whether the prime lessee or sublessor incurred any costs, as defined in clause (A) of subparagraph (v) below, allocable to the particular unit in question; and
 
-   9. any other information required by department rules.
+         (B) Whether the prime lessee or sublessor has already been compensated in accordance with the terms of a prior agreement. The amount of rent paid to the prime lessee or sublessor, in excess of a proportionate share of the rent paid by the prime lessee to the landlord, based on the percentage of the total square footage of space occupied, will not be credited towards compensation of the prime lessee or sublessor, in the absence of a specific agreement.
 
-b. The department shall submit a report on implementation of this chapter to the mayor and the city council by January fifteenth, two thousand eleven, and yearly thereafter. The report must include, at a minimum: 1. data on the amount of electronic waste collected, categorized by manufacturer; 2. an evaluation of the recycling and reuse rates in the city for covered electronic equipment and orphan waste; 3. a discussion of compliance and enforcement related to the requirements of this chapter; and 4. any recommendations for any changes to the system of collection, handling and recycling or reuse of covered electronic equipment and orphan waste in the city.
+      (v) Factors to Determine the Amount Due for Improvements. If it is determined that the prime lessee or sublessor, as applicable, did incur costs for improvements for which he or she has not yet been compensated, the Loft Board will determine the amount due and payable in accordance with the following criteria:
 
+         (A) All improvements as defined in 29 RCNY § 2-07, are compensable;
 
+         (B) The Loft Board will establish the value of the improvements by determining the actual costs incurred for the improvements based on evidence presented;
 
+         (C) Compensation determined to be due and payable may be made in accordance with a payment schedule agreed to by the prime lessee or sublessor, as applicable, and the residential occupant, or, if no agreement is reached, a payment schedule not to exceed 6 months, set by the Loft Board, contained in the Loft Board's order.
 
+      (vi) Compensation made pursuant to this paragraph (7) provides residential occupants with an opportunity to purchase improvements but does not constitute a sale of improvements pursuant to § 286(6) of the MDL.
 
+      (vii) (A) Compensation by the Owner. A residential occupant may offer the landlord an opportunity to compensate the prime lessee or sublessor for costs incurred for improvements made or purchased in developing a residential IMD unit. The compensation to be paid by the landlord is the amount determined by agreement of the prime lessee or sublessor, as applicable, and the residential occupant, pursuant to subparagraph (7)(ii) above, or as determined by the Loft Board pursuant to subparagraph (7)(v) above. If the landlord chooses to pay this compensation to the prime lessee or sublessor, the residential occupant remains the occupant qualified for Article 7-C protection, except that the residential occupant will have no right to sell such improvements purchased by the landlord pursuant to § 286(6) of the MDL. Compensation of the prime lessee or sublessor by the landlord does not affect the rent due from the residential occupant;
 
-*§ 16-429 Confidential Information and Trade Secrets.* ::
+         (B) if the landlord compensates the prime lessee or sublessor pursuant to (A) above, the prime lessee or sublessor will have no right to recover the unit for his or her own personal use pursuant to 29 RCNY §§ 2-09(b)(4) and (c)(5). When the residential occupant vacates the unit, the landlord is entitled to lease the unit at market rent, absent a finding by the Loft Board of harassment by the landlord of occupants;
 
+         (C) if the landlord declines the opportunity to compensate the prime lessee or sublessor, the residential occupant remains responsible for the compensation payment established pursuant to subparagraphs (ii) or (v) above.
 
-Information relating to covered electronic equipment submitted to the department pursuant to this chapter may be designated by the department as confidential upon a showing of good cause by the person submitting it. Except as otherwise provided by or pursuant to law or court order, such information may be used only by the department, its agents and employees, other city agencies, and as authorized by the mayor, employees of the United States Environmental Protection Agency or the attorney general of the state of New York.
+   (8) Residential occupant's right to sale of improvements pursuant to MDL § 286(6). In accordance with MDL § 286(6) and the Loft Board rules, a residential occupant is entitled to sell all improvements to the unit made or purchased by the residential occupant:
 
+      (i) Upon filing an agreement with the Loft Board pursuant to 29 RCNY § 2-09(c)(7)(ii), or
 
+      (ii) Following a Loft Board determination of an application filed pursuant to 29 RCNY § 2-09(c)(7)(iii), or
 
+      (iii) Upon the expiration of the deadline for filing an application, if none has been filed.
 
 
 
-*§ 16-430 Application by the department of collected covered electronic equipment toward recycling goals.* ::
 
 
-The department shall be allowed to apply the amount of covered electronic equipment and orphan waste collected by manufacturers pursuant to this chapter towards achieving its recycling goals.
 
+*§ 2-10 Sales of Rights.* ::
 
 
+(a) Right to sell and the limitations on an occupant's right to sell.
 
+   (1) The Right to Sell. The residential occupant of an IMD unit may sell the rights afforded such occupant pursuant to Article 7-C, to the owner of the IMD or the owner's authorized representative, including a net lessee, in accordance with the terms of MDL § 286(12) and these rules. A sale pursuant to MDL § 286(12), after the effective date of the relevant provision of MDL § 281, as provided in 29 RCNY § 2-10(a)(2) below, constitutes a sale to the owner of all of the tenant's rights in the unit.
 
+   (2) Limitations.
 
-*§ 16-431 Severability.* ::
+      (i) No sale or agreement made prior to:
 
+         (A) June 21, 1982 for units subject to Article 7-C pursuant to MDL § 281(1),
 
-The provisions of this chapter shall be severable, and if any provision of this chapter is declared to be void or invalid by a court of competent jurisdiction, the remaining provisions shall not be affected, and shall remain in full force and effect.
+         (B) July 27, 1987 for units subject to Article 7-C solely pursuant to MDL § 281(4), or
 
+         (C) June 21, 2010 for units covered under MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010, in which an occupant purported to waive rights under the Article 7-C will be given any force or effect.
 
+      (ii) For any sale made pursuant to MDL § 286(12), the unit subject to a sale of rights may not be the subject of another sale pursuant to MDL § 286(12); nor may such unit be the subject of a subsequent sale of improvements pursuant to MDL § 286(6).
 
+(b) Filing requirement for sales which occur on or after the effective date of these Rules. For a sale of rights in a unit subject to Article 7-C pursuant to (i) MDL § 281(1), which occurs on or after March 16, 1990, (ii) MDL § 281(4), which occurs on or after November 23, 1992, or (iii) MDL § 281(5), which occurs on or after September 11, 2013 the effective date of this amended rule, the owner or authorized representative must file with the Loft Board a sales record on the Loft Board approved form ("sales record form") within 30 days of the sale, together with the sales agreement, if any, or any other documentation substantiating the sale.
 
+The Loft Board's approved form must be signed by the owner or its authorized representative and the occupant and his or her authorized representative, if any, who sold rights to the unit. If the occupant refuses to sign the form, the owner or its authorized representative must file with the form a sworn statement identifying the occupant, the reasons given by such occupant for refusing to execute the form and proof of the sale of rights, including supporting documentation. If the prior occupant could not be found, the owner or its representative must provide a description of the reasonable efforts used to locate the occupant and must file proof of the sale of rights including supporting documentation.
 
+Except as provided in paragraph (c) below, failure by the owner or the owner's authorized representative to file a sales record form within 30 calendar days of the date of the sale may subject the owner to a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1.
 
-*§ 16-432 Rulemaking authority.* ::
+(c) Filing requirement for sales which occurred prior to the effective date of these rules.
 
+   (1) Filing deadlines:
 
-The department shall be authorized to promulgate rules as necessary to implement the provisions of this chapter.
+      (i) For a unit subject to Article 7-C pursuant to MDL § 281(1), if the sale of rights occurred after June 21, 1982, but before March 16, 1990, the owner or its authorized representative must file the sales record form and the sales agreement with the Loft Board on or before June 14, 1990;
 
+      (ii) For a unit subject to Article 7-C solely pursuant to MDL § 281(4), if the sale of rights occurred after July 27, 1987, but before November 23, 1992, the current owner or its authorized representative must file the sales record form and the sales agreement with the Loft Board on or before February 21, 1993; or
 
+      (iii) For a unit covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010, if the sale of rights occurred after June 21, 2010, but before September 11, 2013 the effective date of this section, the current owner or its authorized representative must file the sales record form and the sales agreement with the Loft Board on or before December 10, 2013, which is 90 calendar days following the effective date of this section.
 
+   (2) The sales record form must contain a sworn statement by the owner or its authorized representative, on a form issued by the Loft Board, as to the current use and occupancy of the unit. If the owner intends to use the unit for non-residential purposes, the owner must: a) disclose its intention on the sales record form; and b) include a declaration of intent by the owner or its authorized representative that the use is consistent with applicable provisions of the New York City Zoning Resolution and the New York City Administrative Code, and in conformity with any existing certificate of occupancy, and any other source of legal authorization for such use.
 
-Chapter 4-B: [Recycling Program For Plastic Carryout Bags and Film Plastic]
---------------------------------------------------
+   (3) If the owner indicates in the sales record an intention to use the unit for non-residential purposes, the unit will be subject to inspection to determine its compliance with the requirements set forth in 29 RCNY § 2-10(d)(1)(ii).
 
+   (4) Failure by the owner or the owner's authorized representative to timely file a sales record form may subject the owner to a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1. The Loft Board may inspect any unit for which a sale of rights has occurred prior to the effective date of these rules. The Loft Board may also inspect any unit for which a sales record form was not timely filed to determine the current use of space.
 
+(d) Effect of sales.
 
-*§ 16-450 Title.* ::
+   (1) Non-Residential use.
 
+      (i) If the unit is to be used for non-residential purposes after a sale of rights pursuant to MDL § 286(12), upon approval by the Loft Board, the owner will be relieved of its obligations to comply with the requirements of Article 7-C of the MDL regarding such unit. The non-residential use must comply with applicable provisions of the New York City Zoning Resolution and the New York City Administrative Code, and with any existing certificate of occupancy for the unit, and any other source of legal authorization for such use. The unit may not be converted to non-residential use if there is a harassment finding by the Loft Board as to any occupants of the unit that the Loft Board has not terminated pursuant to 29 RCNY § 2-02(d)(2). If the Loft Board issues a harassment finding after the sale of rights, the owner is permitted to convert the IMD unit to non-residential use, provided that all other applicable requirements in this section are met.
 
-This chapter shall be known as and may be cited as the "New York City Plastic Carryout Bag and Film Plastic Recycling Law".
+      (ii) Prior to conversion to a non-residential use, the owner or its authorized representative must file with the Loft Board a declaration of intent on a form issued by the Loft Board stating that the unit will only be occupied for a conforming non-residential use. Following the Loft Board's receipt of the filing, the Loft Board must conduct or require an inspection of the premises to verify that the following fixtures, as defined in 29 RCNY § 2-07(a), have been removed or approved: (1) fixtures that were constructed or installed without necessary approvals by the appropriate government agencies and for which approvals have not been secured, and (2) fixtures that are intended primarily for residential occupancy.
 
+      The results of this inspection will be reported to the owner or its authorized representative. A determination on the request for non-residential conversion will be issued after the removal or approval of these fixtures has been verified. Any disputes will be resolved by application to the Loft Board.
 
+      (iii) Prior to approval by the Loft Board, in accordance with 29 RCNY § 2-10(d)(1)(ii), the owner remains subject to all the requirements of Article 7-C, these rules, and orders of the Loft Board, including the legalization requirements of MDL § 284.
 
+      (iv) When the conversion of a unit to a non-residential conforming use reduces the number of IMD units below three or two, as provided by MDL § 281(5), the IMD status for the building and for the remaining IMD units in the building, and the protections provided in Article 7-C to the protected occupants will not be eliminated.
 
+      (v) Notwithstanding the provisions of 29 RCNY § 2-01(l), if conversion of a unit to a non-residential conforming use increases the costs of legalization under MDL § 284 for the remaining IMD units, the additional increased costs must be paid by the owner and may not be passed through to the remaining residential occupants pursuant to Article 7-C and these Rules.
 
+   (2) Residential use. If the unit is to remain residential after a sale of rights pursuant to MDL § 286(12), the owner remains subject to all of the requirements of Article 7-C, these rules and orders of the Loft Board, including the legalization requirements of MDL § 284, except that the unit is no longer subject to rent regulation where coverage under Article 7-C was the sole basis for such rent regulation. The exemption from rent regulation will not be permitted if there is a finding by the Loft Board of harassment as to any occupant(s) in the IMD unit which has not been terminated pursuant to 29 RCNY § 2-02(d)(2).
 
-*§ 16-451 Declaration of policy.* ::
+   (3) Termination of harassment. If a sale of rights pursuant to MDL § 286(12) occurs during the period between the date of the order finding harassment and the date of the order terminating the harassment finding, the sale of rights does not relieve the owner of the requirements of Article 7-C, including rent regulation, and the owner may not convert the unit to non-residential use. The effect of a termination of harassment finding applies prospectively only.
 
+(e) [Reserved.]
 
-It is hereby declared to be the public policy of the city of New York to reduce environmental pollution, to reduce the toxicity of waste materials in the solid waste stream directed to resource recovery and sanitary landfill facilities, and to maximize the removal of plastic carryout bags and film plastic from the waste stream in order to recycle them. Plastic carryout bags and film plastic do not biodegrade, which means that such bags and film plastic ultimately break down into smaller pieces that enter the ecosystem. These pieces of plastic cause illness, injury and death to animal and marine life by entangling them or contaminating their food supplies. The production of plastic bags and film plastic worldwide uses over 12 million barrels of oil per year, which causes significant environmental impacts.
+(f) Abandonment of IMD unit.
 
+   (1) An owner or its authorized representative may apply to the Loft Board for a determination that the occupant of an IMD unit has abandoned the unit and no sale of rights pursuant to MDL § 286(12) or sale of improvements pursuant to MDL § 286(6) has been executed, provided there has been no finding of harassment as to any occupant(s) of the unit which has not been terminated pursuant to 29 RCNY § 2-02(d)(2).
 
+   (2) Abandonment means the relinquishment of possession of a unit and all rights relating to a unit either: (i) voluntarily, with the intention of never resuming possession or reclaiming the rights surrendered, or (ii) by the death of the IMD tenant, provided no family member, as defined in 29 RCNY § 2-08.1(c)(3), is denied the benefits of succession rights in accordance with 29 RCNY § 2-08.1.
 
+   (3) To be considered timely, an owner's application alleging abandonment must be filed with the Loft Board within 1 year of the date the owner knew or should have known that the IMD tenant vacated the unit.
 
+   (4) In deciding whether a unit has been abandoned voluntarily pursuant to subparagraph (i) of paragraph (2) above, the factors the Loft Board may consider include, but are not limited to, the following:
 
+      (i) The length of time since the occupant allegedly abandoned the unit;
 
-*§ 16-452 Definitions.* ::
+      (ii) Whether the occupant owed rent as of the time the occupant allegedly abandoned the unit and whether court proceedings to attempt to collect this rent have been initiated;
 
+      (iii) Whether the occupant's lease for the unit has expired;
 
-When used in this chapter:
+      (iv) Whether the occupant provided notice of an intent to vacate or requested permission to sublet the unit for a specific period of time;
 
-a. "Chain of stores" means five or more stores located within the city of New York that are engaged in the same general field of business and (1) conduct business under the same business name or (2) operate under common ownership or management or pursuant to a franchise agreement with the same franchisor.
+      (v) Whether the unit contained improvements which were made or purchased by the occupant and whether the occupant was reimbursed for those improvements;
 
-b. "Consumer" means any person who purchases a product from a store that is placed in a plastic carryout bag at the time of sale.
+      (vi) Whether any prior harassment findings have been made by the Loft Board concerning the occupant(s) of the unit or whether any harassment application remains pending;
 
-c. "Film plastic" means uncontaminated non-rigid film plastic packaging products composed of plastic resins that include, but are not limited to, newspaper bags, dry cleaning bags and shrink-wrap.
+      (vii) Whether any notices of violation or notices to appear pursuant to the Loft Board's Minimum Housing Maintenance Standards have been issued;
 
-d. "Food service establishment" means any establishment (1) where the primary business is providing food for individual portion service directly to the consumer, whether consumption of such food occurs on or off the premises or such service is provided in a premises or from a pushcart, stand or vehicle, and (2) that is subject to the permit requirement contained in section 81.05 of the New York city health code.
+      (viii) Whether the owner has made affirmative efforts to locate the occupant to attempt to purchase rights pursuant to MDL § 286(12) or improvements pursuant to MDL § 286(6); and
 
-e. "Manufacturer" means every person, firm or corporation that: (1) produces plastic carryout bags that are sold or distributed within the city of New York, or (2) imports plastic carryout bags into the United States that are sold or distributed within the city of New York.
+      (ix) Whether an inspection of the unit by the Loft Board staff indicates that the unit is presently vacant.
 
-f. "Operator" means a person, firm or corporation that owns or is in control of, or has responsibility for, the daily operation of a store.
+   (5) In determining whether abandonment has occurred as a result of the death of an IMD occupant as set forth in subparagraph (ii) of paragraph (2) above, proof of the occupant's death must be made by the presentation of a death certificate, or any other trustworthy evidence. The heir, beneficiary, administrator, or executor of the occupant's estate, as applicable, is an affected party in a case where an owner seeks an abandonment finding based on the death of an IMD occupant.
 
-g. "Plastic carryout bag" means a plastic bag provided by a store to a consumer at the point of sale that is not a reusable bag.
+   (6) If the owner's application alleging abandonment is granted by the Loft Board and if the unit is to be used for non-residential purposes, the owner or its authorized representative must comply with 29 RCNY § 2-10(d)(1).
 
-h. "Reusable bag" means (1) a bag made of cloth or other machine washable fabric that has handles, or (2) a durable plastic bag, with handles, that is at least 2.25 mils thick and is specifically designed and manufactured for multiple reuse.
+   (7) (i) Upon compliance with these specified provisions of 29 RCNY § 2-10(d)(1) with regard to units determined to be abandoned and used for non-residential purposes, the legal effect of the Loft Board's determination of abandonment is the same as that of a sale of rights as provided in 29 RCNY § 2-10(d).
 
-i. "Store" means a retail or wholesale establishment, other than a food service establishment, that sells products and provides plastic carryout bags to consumers in which to place these products and (1) has over five thousand square feet of retail or wholesale space or (2) is one of a chain of stores.
+      (ii) Upon the Loft Board's granting of the owner's application alleging abandonment with regard to units to remain residential, the legal effect of the Loft Board's determination of abandonment is the same as that of a sale of rights as provided in 29 RCNY § 2-10(d), but only if:
 
+         (A) On or prior to the date of the Loft Board's granting of the owner's application alleging abandonment, the owner has obtained a certificate of occupancy for the affected building and filed an application seeking a final rent order and/or removal from the Loft Board's jurisdiction; or
 
+         (B) Within one year after the date of the Loft Board's granting of the owner's application alleging abandonment, or prior to the expiration of the code compliance deadline for obtaining a certificate of occupancy in effect on the date of the Loft Board's granting of such application, as such code compliance deadline may be extended pursuant to 29 RCNY § 2-01(b), whichever is earlier, the owner has obtained a certificate of occupancy for the affected building and has filed an application seeking a final rent order and/or removal from the Loft Board's jurisdiction.
 
+   (8) If an IMD unit becomes vacant without a prior sale of rights or improvements and subparagraph (i) of paragraph (7) does not apply, and the owner fails to meet either the criteria set forth in 29 RCNY § 2-10(f)(7)(ii)(A) or the criteria set forth in 29 RCNY § 2-10(f)(7)(ii)(B), the unit must remain residential and the owner is not permitted to re-rent the unit at a market rate to the incoming tenant. Additionally, the owner must provide any incoming tenant(s) with written notice that the rent for the IMD unit may increase to a market rate if and when the owner complies with the criteria set forth in 29 RCNY § 2-10(f)(7)(ii)(A) or 29 RCNY § 2-10(f)(7)(ii)(B).
 
+   The written notice to an incoming tenant or tenants must include a copy of this subdivision (f) and a copy of the Loft Board order granting the abandonment application, if any. If an owner re-rents the unit at a market rate in violation of this provision, the incoming tenant(s) may challenge such rent by filing an application alleging a rent overcharge with the Loft Board.
 
+   (9) Paragraphs (3) and (8), and the amendments to paragraph (7) of this subdivision (f), made effective on October 8, 2006 apply only to those IMD units for which applications alleging abandonment are filed after April 8, 2007.
 
-*§ 16-453 Recycling program requirements.* ::
 
 
-a. Every operator shall establish an in-store recycling program that shall include, but need not be limited to, the following:
 
-   1. every plastic carryout bag provided by a store shall have printed or displayed on the outside face of the bag (i) the words "PLEASE REUSE OR RECYCLE AT A PARTICIPATING STORE" using letters at least one-half inch in height or (ii) a similar message encouraging the reuse or recycling of plastic carryout bags that is no less than one inch in height and uses letters at least one quarter inch in height; provided, however, that such store shall be allowed, for six months from the effective date of the local law that added this subdivision, to use its existing stock of plastic carryout bags and may apply to the commissioner for a waiver, based on economic hardship, to extend such six-month period;
 
-   2. a bin for the collection of plastic carryout bags and other film plastic shall be placed in a visible location that is easily accessible to the consumer, and clearly marked as available for the purpose of collecting plastic carryout bags and other film plastic for recycling;
 
-   3. all plastic carryout bags and other film plastic returned to a store are to be collected, transported and recycled in a manner consistent with the provisions of this chapter or any rule promulgated pursuant to this chapter; 4. plastic carryout bags and other film plastic collected by a store that are free of foreign material shall not be disposed of in any solid waste or hazardous waste facility; and
+*§ 2-11 Fees.* ::
 
-   5. the operator shall make available to consumers within a store at or near the place where plastic carryout bags are dispensed, reusable bags, which may be purchased and used in lieu of a plastic carryout bag or paper bag.
 
-b. Each operator or its designee shall maintain records indicating the weight of the plastic carryout bags and film plastic that are collected by such operator's store and transported for recycling.
+(a) Collection of fees. The Loft Board may charge and collect reasonable fees in the execution of its responsibilities. The Loft Board may, by amending these rules, add to, delete from or modify the types of applications for which fees are charged and/or revise the amount of the fee imposed.
 
-c. Each operator or its designee shall submit an annual report to the department covering the preceding calendar year, beginning with a report covering calendar year two thousand nine, which shall include for all stores that it operates within the city of New York the amount of carryout plastic bags and other film plastic by weight that is collected and transported for recycling, the costs to the operator of such efforts, and any other information the commissioner shall require by rule. Such annual report shall be submitted to the department no later than February twenty-eighth following the calendar year to which the annual report relates.
+(b) Schedule of reasonable fees.
 
-d. The commissioner shall, in consultation with operators, manufacturers and recyclers, develop a system to monitor and determine the weight of all plastic carryout bags and other film plastic collected under this chapter and shall analyze the information and report to the mayor and the council every two years beginning on December thirty-first, two thousand ten, regarding the implementation and enforcement of this chapter.
+   (1) Registration and code compliance monitoring fee.
 
+      (i) Fee amount. The filing fee for registration and code compliance monitoring is $500.00 per residential unit.
 
+         (A) Annual registration. Registration of a building or portion of the building as an interim multiple dwelling ("IMD") by the owner, lessee of a whole building, and the agent is required annually. The annual registration period begins on July 1st of each year and ends on June 30th of the following year. If more than 1 registration form is filed for a building, the filing fee for the residential IMD units in the building will be charged only once during any annual period.
 
+         (B) Fee required. Landlords filing annual renewal registration forms are required to pay the registration and code compliance monitoring fee prior to the processing of the registration form.
 
+         (C) Limitation on registration renewal. Registration as an IMD may be renewed only when all prior registration fees, all outstanding fines and all late filing fees pursuant to 29 RCNY § 2-11(b)(1)(i)(D) have been paid, or such owner has entered into, and is in compliance with, an installment agreement, payment plan or other similar arrangement for the payment of all outstanding monies due to the Loft Board.
 
+         (D) Late filing fees. If the annual renewal registration form and fee are not submitted by July 31st of each year in which they are required to be submitted, the owner must pay a late filing fee of $25.00 for the month of July for each residential IMD unit. Thereafter, the owner must pay an additional late filing fee of $5.00 per residential IMD unit for each month or portion of a month until the date when the completed registration form is submitted and the registration fee is paid.
 
-*§ 16-454 Manufacturer responsibilities.* ::
+   (2) Code compliance applications.
 
+      (i) The filing fee for an application for rent adjustments based upon the costs of compliance with Article 7-B of the MDL, or of obtaining a final residential certificate of occupancy, or both is $100.00 for each residential unit that is the subject of the application.
 
-a. A manufacturer whose plastic carryout bags are sold or distributed to a store subject to the provisions of this chapter shall make arrangements with the operator, upon the operator's request, for the collection, transport and recycling of all plastic carryout bags and other film plastic collected consistent with the provisions of this chapter. Such arrangements may include contracts or other agreements with third parties.
+      (ii) The filing fee for an application for certification of estimated future rent adjustments is $75.00 for each residential unit that is the subject of the application.
 
-b. A manufacturer that arranges with an operator for the collection, transport and recycling of plastic carryout bags and other film plastic shall report annually to such operator the total amount by weight of plastic carryout bags and other film plastic that has been collected from such operator. Such annual report shall cover the preceding calendar year, beginning with a report covering calendar year two thousand nine, and be submitted to such operator no later than January thirty-first following the calendar year to which the annual report relates.
+   (3) Article 7-C coverage applications.
 
-c. A manufacturer whose plastic carryout bags are sold or distributed to a store subject to the provisions of this chapter shall make arrangements with the operator, upon the operator's request, to provide such operator, educational materials that encourage the reduction, reuse and recycling of plastic carryout bags.
+      (i) The filing fee for an application, filed by either the landlord or by the tenant, for coverage of any building or portion of the building, pursuant to Article 7-C of the MDL is $25.00 for each unit that is the subject of the application.
 
+   (4) Rent dispute applications.
 
+      (i) The filing fee for an application, filed by either the landlord or tenant, disputing base rent or rent increases, not including rent adjustments based on costs of code compliance, is $50.00.
 
+   (5) Challenge to proposed sale of improvements applications.
 
+      (i) Filing fees.
 
+         (A) The filing fee for a challenge to a proposed sale of improvements to a prospective incoming tenant filed with the Loft Board is $800.
 
-*§ 16-455 Penalties.* ::
+      (ii) There is no fee for filing a Disclosure Form or Sales Record.
 
+   (6) Diminution of service applications.
 
-a. Any operator who violates subdivision a of section 16-453 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of three hundred dollars per day for each day that a recycling program meeting the requirements of such subdivision is not in effect. It shall be an affirmative defense to a violation of paragraph one or five of subdivision a of section 16-453 of this chapter that the operator used its best efforts to comply with such paragraph but was unable to because of circumstances beyond such operator's control.
+      (i) The filing fee for an application filed by a tenant for diminution of a service or by a landlord disputing its responsibility for providing any such service is $50.00.
 
-b. Any operator who violates subdivision b of section 16-453 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of: (1) one hundred dollars for the first violation; (2) seven hundred dollars for the second violation within a twelve-month period of the first violation; and (3) one thousand dollars for the third violation within such twelve-month period.
+   (7) Article 7-C compliance applications.
 
-c. Any operator who violates subdivision c of section 16-453 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of: (1) one hundred dollars for the first violation within twelve months of the date the report referred to in such subdivision is due; (2) seven hundred dollars for the second violation within such twelve-month period; and (3) one thousand dollars for the third violation within such twelve-month period.
+      (i) The filing fee for an application filed by a tenant or landlord concerning the landlord's compliance with Article 7-C is $50.00.
 
-d. Any manufacturer who violates subdivision a of section 16-454 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of five hundred dollars per day for each day that such violation continues.
+   (8) Tenant harassment applications.
 
-e. Any manufacturer who violates subdivision b of section 16-454 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of: (1) one hundred dollars for the first violation within twelve months of the date the report referred to in such subdivision is due; (2) one thousand dollars for the second violation within such twelve-month period; and (3) fifteen hundred dollars for the third violation within such twelve-month period.
+      (i) Harassment applications. The filing fee for an application filed by a tenant complaining of harassment is $100.00.
 
-f. Any manufacturer who violates subdivision c of section 16-454 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of: (1) one hundred dollars for the first violation; (2) one thousand dollars for the second violation within a twelve-month period of the first violation; and (3) fifteen hundred dollars for the third violation within such twelve-month period.
+   (9) Application for late filing of the tenant's alternate plan application.
 
-g. The failure of an operator or manufacturer to provide the report or maintain the records, or of a manufacturer to provide educational materials requested by an operator, required by sections 16-453 and 16-454 of this chapter shall constitute a continuing violation that subjects such operator or manufacturer to up to three notices of violation within the twelve-month periods provided in subdivisions b, c, e and f of this section.
+      (i) The filing fee for an application to allow late filing of an alternate plan application by a tenant is $50.00.
 
-h. The department shall have the authority to enforce all provisions of this chapter. The department of consumer affairs also shall have the authority to enforce paragraphs one, two and five of subdivision a of section 16-453 of this chapter.
+      (ii) There is no filing fee for legalization plans filed by the landlord.
 
+   (10) Unreasonable interference with use applications.
 
+      (i) The filing fee for an application filed by a tenant for unreasonable interference with use of the IMD unit by the landlord during code compliance work is $50.00.
 
+   (11) Landlord access applications.
 
-Chapter 4-C: Unlawful Removal and Acceptance of Recyclable Material
---------------------------------------------------
+      (i) The filing fee for an application filed by the landlord for an order by the Board to permit access to tenants' units to perform code compliance work following tenants' refusal of such access is $50.00.
 
+   (12) Landlord hardship applications.
 
+      (i) The filing fee for an application filed by the landlord for a hardship exemption from Article 7-C is $1,000.00.
 
-*§ 16-460 Definitions.* ::
+   (13) Decoverage applications.
 
+      (i) The filing fee for an application filed by the landlord for an exemption from legalizing nonconforming units (decoverage) is $200.00.
 
-As used in this chapter:
+   (14) Appeals to the Loft Board of administrative determinations.
 
- "Department-marked item" means any refrigerant-containing item that: (i) has written upon it a department service identification number that has been provided to the property owner by a 311 or department representative, or (ii) has affixed upon it an official decal or sticker indicating that such item is designated for future servicing of refrigerant removal by the department, or (iii) has affixed upon it an official decal or sticker indicating that such item has already been serviced for refrigerant removal by the department.
+      (i) The filing fee for an application to appeal the Loft Board staff's administrative determination, such as a request for an extension of a code compliance deadline, is $100.00.
 
-"Motor vehicle" means any vehicle operated or driven upon a street that is propelled by any power other than human or animal power.
+   (15) Reconsideration applications.
 
-"Motor vehicle operator" means any person who operates, drives or is in actual physical control of a motor vehicle, and shall include any other person in such vehicle who assists the motor vehicle operator by removing any recyclable material placed out for collection by the department or a licensed carter or by loading recyclable material into the motor vehicle, or both, in violation of section 16-461 of this chapter.
+      (i) The filing fee for an application for reconsideration of a Loft Board order is $100.00.
 
- "Motor vehicle owner" or "owner of a motor vehicle" means any person, other than a lienholder, having the property in or title to a motor vehicle, including a person entitled to the use and possession of a motor vehicle subject to a security interest by another person, and any lessee or bailee of a motor vehicle having the exclusive use thereof, under a lease or otherwise, for a period greater than thirty days.
+   (16) Abandonment applications.
 
-"Not-for-profit corporation" means a not-for-profit corporation as defined in subparagraph five or subparagraph seven of subdivision a of section one hundred two of the New York state not-for-profit corporation law.
+      (i) The filing fee for an application for a determination that the occupant of an IMD unit has abandoned the unit is $100.00.
 
-"Person" means any individual, firm, corporation or other legal entity.
+   (17) Sublessor – prime lessee compensation applications.
 
-Recyclable material" means material that is discarded by or in excess to its owner at the time of such discard and (i) is designated as recyclable by the commissioner by rule pursuant to subdivision b of section 16-305 of this title or (ii) has an identifying mark, stamp or embossment indicating such material is the public property of the city or state of New York or the property of any public or private utility company.
+      (i) The filing fee for an application to determine the value of improvements made or purchased by the prime lessee or a sublessor who is not the residential occupant qualified for protection pursuant to 29 RCNY § 2-09 is $500.00.
 
- "Refrigerant" means any substance consisting in whole or in part of a class I or class II ozone-depleting substance, which is used for heat transfer purposes and provides a cooling effect, including, but not limited to, chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A substitute substance shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use.
+   (18) Extension applications.
 
-"Refrigerant-containing item" means any recyclable material that uses a refrigerant that must be removed prior to disposal, including, but not limited to, any air conditioner, refrigerator, water cooler, or freezer.
+      (i) The filing fee for an extension of a code compliance deadline application is $50.00.
 
-"Solid waste" means solid waste as defined in section 16-303 of this title.
+   (19) Other applications.
 
-"Street" means any public street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk, boardwalk, viaduct, square or place, including marginal streets.
+      (i) The filing fee for all other types of applications filed with the Loft Board is $50.00.
 
+(c) Payment of application fees.
 
+   (1) The application fee is due and payable upon the applicant's submission of the application to the Loft Board. If an application fee is not paid at the time the application is submitted, the application will be deemed incomplete, and will not be considered filed or processed until such payment is made, unless a request for a waiver of the application fee is submitted at the time the application is filed, pursuant to subdivision (e) below. Payment may be made in person or by mail, by certified check, teller check or money order made payable to the City Collector, at the offices of the Loft Board.
 
+(d) Applicability. The fee schedule listed in subdivision (b) above applies to all applications received in person or postmarked on or after January 1, 1991.
 
+(e) Waiver of application fees for financial hardship.
 
+   (1) An applicant may request a waiver of the fees provided in this section on the basis of financial hardship. No waiver of fees will be permitted for registration applications set forth in 29 RCNY § 2-11(b)(1)(i).
 
-*§ 16-461 Unlawful removal or sale of material.* ::
+   (2) Procedure for requesting a waiver of application fees.
 
+      (i) The request for a waiver of fees pursuant to this section must be received by the Loft Board at the time the application is filed. The request must be made by letter setting forth all pertinent information, including the applicant's name, address, building address, IMD registration number, if applicable, and type of application for which waiver is requested. The request must be accompanied by the affidavit required by 29 RCNY § 2-11(e)(2)(ii) below.
 
-a. Recyclable material.
+      (ii) The request for a waiver of application fees must be filed with an affidavit setting forth:
 
-   1. Except for an authorized employee or agent of the department, it shall be unlawful for any person to remove and transport by motor vehicle any recyclable material that has been placed by any owner, tenant or occupant of any residential building, building occupied by city agencies or institutions, or vacant lot, or by their agent, within the stoop area, adjacent to the curb line or otherwise adjacent to such building or lot for collection or removal by the department. The owner of any motor vehicle used in violation of this subdivision shall also be liable for any such violation. This paragraph shall not prohibit any person from lawfully entering into a written agreement with the owner of a building, or his or her agent, pursuant to subdivision a of this section.
+         (1) the amount and all sources of applicant's income,
 
-   2. i. The owner or agent of any building containing four or more residential units or any building that is occupied by a city agency or institution receiving department collection, may not enter into an agreement for the supplemental collection of recyclable material for purposes of transport, handling or management with any person other than the department unless (A) regularly scheduled department collection of recyclable material from such building is insufficient to meet the needs of such building, (B) such owner or agent has requested supplemental collection of recyclable material from the department and the department has denied the request, and (C) such supplemental collection by a person other than the department does not take place on the same day as regularly scheduled department collection of recyclable material for such building, in which case such owner or agent may enter into an agreement for the supplemental collection of recyclable material with a person other than the department. The department shall respond to requests for supplemental collection of recyclable material within thirty days of the receipt of such request. If the department does not respond within such period, the department shall be deemed to have denied the request for supplemental collection. The requirements of this paragraph shall not apply to recyclable material that is not designated recyclable by the department pursuant to subdivision b of section 16-305 of this title. In no event may such agreement for the supplemental collection of recyclable material provide for the removal of department-marked items.
+         (2) any property owned and the value thereof,
 
-      ii. Nothing in this section shall be construed to allow the owner or agent of any building containing four or more units or any building that is occupied by a city agency or institution receiving department collection to enter into an agreement for recycling collection on the same day as regularly scheduled department collection of recyclable material for any such building.
+         (3) a statement stating why a waiver of fees is requested, and
 
-      iii. Any agreement lawfully entered into for the supplemental collection of recyclable material pursuant to this paragraph shall be written; signed and dated by the owner or agent and by or on behalf of the person responsible for the supplemental collection of recyclable material; notarized; filed with the commissioner within five business days of being signed; and shall include the address of the building receiving supplemental collection; the names, telephone numbers and taxpayer identification numbers, including individual or employer taxpayer identification numbers, but not social security numbers, of the person responsible for the collection of such material; the names, titles and telephone numbers of all signatories to such agreement; the terms relating to price and the days and times of collection, if any; the duration of such agreement; the estimated quantity of recyclable material to be collected on a weekly basis; and any other information required by the commissioner by rule.
+         (4) any other facts that will be helpful to the Loft Board in making a determination. The Loft Board may demand additional information prior to making the determination on the waiver request. The applicant must file the additional information with the Loft Board within 25 calendar days following the mailing date of the Loft Board's demand for additional information.
 
-      iv. Any agreement lawfully entered into for the supplemental collection of recyclable material pursuant to this paragraph shall not exceed two years in duration.
+   (3) The Loft Board will notify the applicant in writing of its determination regarding the waiver request. If the Loft Board denies the waiver request, it will provide a new deadline for the application fee. Failure to file the application fee by the new deadline may result in return of the application.
 
-      v. Valid proof of any agreement lawfully entered into for the supplemental collection of recyclable material pursuant to this paragraph must be in the possession of the motor vehicle operator at the time such recyclable material is collected. Valid proof shall mean a copy of such agreement or a copy of the notarized signatory page of such agreement, together with a letter from the department acknowledging the filing of such agreement with the commissioner. Such proof shall not be required where the person responsible for the supplemental collection of recyclable material is licensed pursuant to subdivision a of section 16-505 of this code.
 
-   3. On or before February first and August first of every year, every person engaged in the lawful collection of recyclable material pursuant to a written agreement in accordance with paragraph two of this subdivision shall submit to the commissioner a report identifying the weight of each type of recyclable material collected by such person during the periods of July first to December thirty-first and January first to June thirtieth, respectively. It shall be unlawful for any person to fail to submit a report in accordance with this paragraph or to submit a report containing false or misleading information.
 
-   4. i. The owner or agent of any residential building containing one, two or three residential units may enter into an agreement with any person for the collection of recyclable material from such building.
 
-      ii. Any such agreement shall be written; signed and dated by such owner and by or on behalf of the person responsible for the collection of recyclable material from such building; and shall include the address of such building and the names and telephone numbers of the parties to such agreement and shall be in the possession of such person at the time such recyclable material is removed. No such agreement may provide for the collection of department-marked items.
 
-b. Refrigerant-containing and department-marked items.
 
-   1. Except for an authorized employee or agent of the department, it shall be unlawful for any person to remove and transport by motor vehicle any refrigerant-containing item or department-marked item that has been placed by any owner, tenant or occupant of any residential building, building occupied by city agencies or institutions, or vacant lot, or by their agent, within the stoop area, adjacent to the curb line or otherwise adjacent to such building or lot for collection, removal, or refrigerant removal by the department. The owner of any motor vehicle used in violation of this subdivision shall also be liable for any such violation. This paragraph shall not apply to any person who has lawfully entered into a written agreement with the owner of a building, or his or her agent, pursuant to subdivision a of this section for the collection of refrigerant-containing items that are not department-marked items.
+*§ 2-11.1 Fine Schedule.* ::
 
-   2. There shall be a rebuttable presumption that the owner and/or operator of any motor vehicle carrying a department-marked item has violated this subdivision by either (i) unlawfully removing such department-marked item or (ii) directing or permitting an agent or employee or other individual under such person's control to unlawfully remove such department-marked item.
 
-   3. For any department-marked item removed in violation of this subdivision, a written agreement between the owner of a residential building or an authorized agent of such owner, and the person removing such item shall not be a defense in any proceeding before the environmental control board or other court of appropriate jurisdiction to the improper removal of such item.
+(a) Collection of fines. The Loft Board may charge and collect fines for violation of its rules. The Loft Board may, by amending these rules, modify the types of violations for which fines are assessed and/or revise the amount of the fine imposed.
 
-c. Commercial buildings. Except for an authorized employee of a person licensed by or registered with the business integrity commission pursuant to subdivision a or b of section 16-505 of this code, it shall be unlawful for any person to remove and transport by motor vehicle any amount of recyclable material that has been placed by any owner, tenant or occupant of a commercial building, or by their agent, within the stoop area, adjacent to the curb line or otherwise adjacent to such building for collection or removal by an entity licensed by or registered with the business integrity commission pursuant to subdivision a or b of section 16-505 of this code. It shall be presumed that a person operating a motor vehicle without plates issued by the business integrity commission is not an authorized employee of a person licensed by or registered with the business integrity commission pursuant to subdivision a or b of section 16-505 of this code. The owner of any motor vehicle used in violation of this subdivision shall also be liable for any such violation.
+(b) Range of fines.
 
+   (1) Code Compliance Fines Pursuant to 29 RCNY § 2-01 and 29 RCNY § 2-01.1: Where the owner is found to have violated code compliances deadlines or failed to take all reasonable and necessary action to obtain a final certificate of occupancy, the owner may be subject to a Class C civil penalty as follows: 
 
+ 
 
 
+.. list-table::
+    :header-rows: 1
 
+    * - VIOLATION DESCRIPTION 
+      - SECTION OF LAW 
+      - CURE 
+      - PENALTY
+    * - Failure to Meet Code Compliance Deadlines: §§ 281(1) and (4) buildings
+      - MDL § 284 (1); 29 RCNY § 2-01(a)(1) through (a)(7), (c)(2)
+      - No
+      - Up to $1,000 per missed deadline
+    * - Failure to Meet Code Compliance Deadlines: §§ 281(1) and (4) Buildings
+      - MDL § 284(1); 29 RCNY § 2-01(a)(8), (c)(2)
+      - No
+      - Up to $5,000 per missed deadline
+    * - Failure to Meet Code Compliance Deadlines: § 281(5) Buildings
+      - MDL § 284(1); 29 RCNY §§ 2-01(a)(9), (a)(10), (c)(2)
+      - No
+      - Up to $5,000 per missed deadline
+    * - Failure to Take Reasonable and Necessary Action to Obtain a Final Certificate of Occupancy
+      - 29 RCNY § 2-01.1(a), (b)(2), (b)(3)
+      - No
+      - Up to $1,000 per day up to $17,500
+    * - Failure to Take Reasonable and Necessary Action: Failure to Timely Clear DOB objections for Owner's Alteration Application
+      - 29 RCNY § 2-01(d)(2)(ix)
+      - Yes within 30 days
+      - Up to $1,000 per day up to $17,500
+~
 
-*§ 16-462 Rewards.* ::
 
 
-The commissioner shall establish a program to allow individuals to submit a sworn statement affirming the observation of a violation of section 16-461 of this chapter and, where the commissioner deems it appropriate, allow for a reward for any such sworn statement. Where a notice of violation or summons is issued for a violation of section 16-461 of this chapter based upon a sworn statement by one or more individuals and where the commissioner determines, in the exercise of his or her discretion, that such sworn statement, either alone or in conjunction with the testimony of the person submitting such sworn statement at a civil or criminal proceeding or in a proceeding before the environmental control board, contributes to the imposition of a civil or criminal penalty upon any person for a violation of section 16-461 of this chapter, the commissioner shall offer as a reward to such individual or individuals an amount that, in the aggregate, is equal to fifty percent of any civil or criminal penalty collected. No peace officer, employee of the department or of the environmental control board, employee of any company under contract with the department, or employee of any governmental entity that, in conjunction with the department, conducts enforcement activity relating to a violation of section 16-461 of this chapter, shall be entitled to obtain the benefit of any such reward when acting in the discharge of his or her official duties.
+ 
 
+   (2) Fines in Connection with Harassment Applications Pursuant to 29 RCNY § 2-02: A finding by the Loft Board that:
 
+      (i) A tenant filed a harassment application in bad faith or in wanton disregard of the truth pursuant to 29 RCNY § 2-02(c)(2)(iii); or
 
+      (ii) An owner or prime lessee harassed an occupant pursuant to 29 RCNY § 2-02(d)(1)(ii) or (e)(3)(i), in a manner that impacts on the tenant's safety including, but not limited to, refusing to make repairs, repeated housing maintenance violations intended to render the unit uninhabitable, assault, battery or threats of violence; or
 
+      (iii) An owner or prime lessee harassed an occupant pursuant to 29 RCNY § 2-02(d)(1)(ii) or (e)(3)(i) of these Rules in a manner that impacts on the tenant's quality of life, including, but not limited, to creating excessive noise or odors, threatening eviction, refusal to consent to sublet, and/or tampering with mail, May subject the tenant, owner or prime lessee to a Class C civil penalty as follows: 
 
+ 
 
-*§ 16-463 Receipt of recyclable material.* ::
 
+.. list-table::
+    :header-rows: 1
 
-a. 1. Notwithstanding any other provision of law, the commissioners of sanitation and consumer affairs, and the chairperson of the business integrity commission, shall be authorized to adopt rules providing for the licensing or registration, supervision and inspection of the operation and activities relating to the purchase and sale, acceptance and storage of recyclable material, including but not limited to scrap metal facilities located within the city of New York. This paragraph shall not apply to a redemption center, dealer or distributor as defined in section 27-1003 of the environmental conservation law.
+    * - VIOLATION DESCRIPTION 
+      - SECTION OF LAW 
+      - CURE 
+      - PENALTY 
+      - AGGRAVATED PENALTY
+    * - Harassment Application Filed in Bad Faith
+      - 29 RCNY § 2-02(c)(2)(iii)
+      - No
+      - Up to $4,000
+      - A tenant found to have previously filed a harassment application in bad faith may be subject to an aggravated penalty of up to $10,000.
+    * - Finding of Harassment: Safety Violations e.g., Hazardous Conditions; Housing Maintenance Violations; Refusal to Make Repairs
+      - 29 RCNY § 2-02(d)(1)(ii), (e)(3)(i)
+      - No
+      - $3,000 to $6,000 for each occurrence found to constitute harassment
+      - An owner or prime lessee previously found to have harassed a tenant may be subject to an aggravated penalty of up to $10,000.
+    * - Finding of Harassment: Quality of Life Violations e.g., Noise; Odors; Threat of Eviction; Refusal to Consent to Sublet
+      - 29 RCNY § 2-02(d)(1)(ii), (e)(3)(i)
+      - No
+      - $2,000 to $5,000 for each occurrence found to constitute harassment
+      - An owner or prime lessee previously found to have harassed a tenant may be subject to an aggravated penalty of up to $10,000.
+~
 
-   2. Any rules adopted pursuant to this subdivision shall provide that any person who removes refrigerant or contracts with a third party for the removal of refrigerant from refrigerant-containing items must submit proof that refrigerant removal was conducted in accordance with rules and guidelines established by the United States environmental protection agency.
 
-b. No person shall receive for storage, collection or processing recyclable material generated within the city of New York from any person other than (i) an authorized employee or agent of the department, (ii) an authorized employee of an entity licensed by or registered with the business integrity commission pursuant to subdivision a or b of section 16-505 of this code, (iii) a not-for-profit corporation, (iv) an owner, tenant or occupant of a building returning his or her own recyclable material generated solely by such owner, tenant or occupant and his or her household members, or (v) a person who has lawfully entered into a written agreement pursuant to subdivision a of section 16-461 of this chapter. There shall be a rebuttable presumption that all recyclable material received for storage, collection or processing was generated within the city of New York. This subdivision shall not apply to a redemption center, dealer or distributor as defined in section 27-1003 of the environmental conservation law, or to any person who, using a motor vehicle, collects recyclable containers in bulk and is required to be registered pursuant to local law.
 
-c. No person shall receive for storage, collection or processing any department-marked item from any person other than an authorized employee or agent of the department. A written agreement between the owner of a residential building or an authorized agent of such owner, and anyone delivering a department-marked item to such person shall not be a defense in any proceeding before the environmental control board or other court of appropriate jurisdiction to the improper receipt of such item.
+ 
 
-d. No person shall receive for storage, collection or processing any refrigerant-containing item that has not had such refrigerant lawfully removed by a person authorized to remove refrigerants, unless the person receiving the refrigerant-containing item either possesses refrigerant recovery equipment certified by the United States environmental protection agency, or has a valid agreement to remove such refrigerant with a person certified by the United States environmental protection agency to remove refrigerant, or is receiving such item for reuse for its original purpose.
+   (3) Failure to Renew IMD Registration Pursuant to 29 RCNY § 2-05: Where an owner fails to renew a building's registration as required in 29 RCNY § 2-05(f)(2), the owner may be subject to a Class C violation civil penalty as follows: 
 
+ 
 
 
+.. list-table::
+    :header-rows: 1
 
+    * - VIOLATION DESCRIPTION 
+      - SECTION OF LAW 
+      - CURE
+      - PENALTY
+    * - Failure to Timely Renew Registration
+      - 29 RCNY § 2-05(f)(2)
+      - Yes
+      - $5,000 for one year; $10,000 for two years; $17,500 for three years or more
+~
 
 
-*§ 16-464 Enforcement.* ::
 
+ 
 
-a. 1. Any person who violates paragraph one of subdivision a of section 16-461 of this chapter shall be liable for (i) a criminal fine of five hundred dollars or imprisonment not to exceed forty-eight hours, or both, or (ii) a civil penalty of five hundred dollars for the first offense, seven hundred fifty dollars for the second offense that occurs on a different day within any eighteen-month period and one thousand dollars for each subsequent offense that occurs on a different day within any eighteen-month period. For the purpose of imposing a criminal fine or civil penalty pursuant to this paragraph, every building or lot from which recyclable material has been removed unlawfully shall constitute a separate violation for which a criminal fine or civil penalty may be imposed.
+   (4) Fines in Connection with Unreasonable Interference Pursuant to 29 RCNY § 2-01(h): A finding by the Loft Board that:
 
-   2. No person shall be in violation of paragraph one of subdivision a of section 16-461 of this chapter if such person has removed three or fewer recyclable items, in the aggregate, per day or if such removed items are loose, individual magazines or soft-cover books that are not bundled and tied together with other mixed paper. This paragraph shall not apply to any refrigerant-containing item, or any large bulk metal item as defined by the commissioner by rule, or if the department observes the presence of additional recyclable material in the motor vehicle. There shall be a rebuttable presumption that the presence of such additional recyclable material in the motor vehicle indicates that such material was collected in violation of paragraph one of subdivision a of section 16-461 of this chapter.
+      (i) An owner unreasonably interfered with the tenant's use of an IMD unit; or
 
-   3. Any person who violates subparagraph i of paragraph two of subdivision a of section 16-461 of this chapter shall be liable for a civil penalty of one thousand dollars.
+      (ii) An owner unreasonably and willfully interfered with the tenant's use of an IMD unit, May subject the owner to a Class C civil penalty as follows: 
 
-   4. Any person who violates subparagraphs iii, iv or v of paragraph two of subdivision a of section 16-461 of this chapter shall be liable for a civil penalty of one hundred dollars for each such violation.
+ 
 
-   5. Any person who violates paragraph three of subdivision a of section 16-461 of this chapter shall be liable for a civil penalty of five hundred dollars.
 
-b. Any person who violates subdivision b of section 16-461 of this chapter shall be liable for (i) a criminal fine of seven hundred fifty dollars or imprisonment not to exceed forty-eight hours, or both, or (ii) a civil penalty of seven hundred fifty dollars for the first offense, one thousand dollars for the second offense that occurs on a different day within an eighteen-month period and one thousand five hundred dollars for each subsequent offense that occurs on a different day within such eighteen-month period. For the purpose of imposing a criminal fine or civil penalty pursuant to this subdivision, every building or lot from which recyclable material has been removed unlawfully shall constitute a separate violation for which a criminal fine or civil penalty may be imposed.
+.. list-table::
+    :header-rows: 1
 
-c. Any person who violates subdivision c of section 16-461 of this chapter shall be liable for (i) a criminal fine of one thousand dollars or imprisonment not to exceed forty-eight hours, or both, or (ii) a civil penalty of one thousand dollars for the first offense and two thousand dollars for each subsequent offense that occurs on a different day within any eighteen-month period. For the purpose of imposing a criminal fine or civil penalty pursuant to this subdivision, every building or lot from which recyclable material has been removed unlawfully shall constitute a separate violation for which a criminal fine or civil penalty may be imposed.
+    * - VIOLATION DESCRIPTION 
+      - SECTION OF LAW 
+      - CURE
+      - PENALTY
+    * - Finding by the Loft Board of Unreasonable Interference with the Use of an IMD Unit
+      - 29 RCNY § 2-01(h)
+      - No
+      - $2,500
+    * - Finding by the Loft Board of Unreasonable and Willful Interference with the Use of an IMD Unit
+      - 29 RCNY § 2-01(h)
+      - No
+      - $5,000
+~
 
-d. 1. Any owner of a motor vehicle used in violation of subdivision a or b of section 16-461 of this chapter shall be liable for a civil penalty of five hundred dollars for the first offense, seven hundred fifty dollars for a second offense within any eighteen-month period and one thousand dollars for each subsequent offense within any eighteen-month period, regardless of whether the same vehicle was used in the subsequent offense. Notwithstanding the foregoing, such motor vehicle owner shall not be liable if such owner establishes that the motor vehicle was used for purposes of violating the provisions of this chapter without such owner's permission.
 
-   2. Any owner of a motor vehicle used in violation of subdivision c of section 16-461 of this chapter shall be liable for a civil penalty of one thousand dollars for the first offense and two thousand dollars for each subsequent offense within any eighteen-month period, regardless of whether the same vehicle was used in the subsequent offense. Notwithstanding the foregoing, such motor vehicle owner shall not be liable if such owner establishes that the motor vehicle was used for purposes of violating the provisions of this chapter without such owner's permission.
 
-   3. Any motor vehicle that has been used or is being used to commit a violation of subdivision a, b or c of section 16-461 of this chapter may be impounded by the department and shall not be released until either all storage fees and the applicable fines and penalties have been paid or a bond has been posted in an amount satisfactory to the commissioner. Rules of the department related to the impoundment and release of motor vehicles in chapter five of title sixteen of the rules of the city of New York shall be applicable to the impoundment and release of motor vehicles pursuant to this paragraph. The commissioner shall have the power to promulgate amended rules concerning the impoundment and release of motor vehicles and the payment of storage fees for such motor vehicles, including the amounts and rates thereof. Where it is determined that the motor vehicle was not used to commit a violation of subdivision a, b or c of section 16-461 of this chapter, such fees shall be promptly returned.
+ 
 
-   4. In addition to any other penalties provided in this subdivision, the interest of a vehicle owner in any motor vehicle impounded pursuant to paragraph three of this subdivision shall be subject to forfeiture upon notice and judicial determination thereof if such vehicle owner has been convicted of or found liable for a violation of this chapter in a criminal or civil proceeding or in a proceeding before the environmental control board three or more times, all of which violations were committed within any eighteen-month period.
+   (5) Monthly Reports and Failure to Take Reasonable and Necessary Action to Legalize Building Pursuant to 29 RCNY §§ 2-01.1(a)(1)(ii) and (b)(6): An owner who is found:
 
-   5. Except as otherwise provided in this subdivision, the city agency having custody of a motor vehicle after judicial determination of forfeiture shall no sooner than thirty days after such determination upon a notice of at least five days, sell such forfeited motor vehicle at public sale. Any person, other than a vehicle owner whose interest is forfeited pursuant to this section, who establishes a right of ownership in such motor vehicle, including a part ownership or security interest, shall be entitled to delivery of the motor vehicle if such person:
+      (i) By the Loft Board's Executive Director to have violated the provisions of 29 RCNY § 2-01.1(b)(6) may be subject to a Class B civil penalty pursuant to 29 RCNY § 2-01.1(b)(7) as follows; or
 
-      (i) redeems the ownership interest which was subject to forfeiture by payment to the city of the value thereof;
+      (ii) To have failed to file monthly reports or to have made false statements in the monthly reports filed pursuant to 29 RCNY § 2-01.1(a)(1)(ii), may be subject to a Class B civil penalty as follows: 
 
-      (ii) pays the reasonable expenses of the safekeeping of such motor vehicle between the time of seizure and such redemption; and
+ 
 
-      (iii) asserts a claim within thirty days after judicial determination of forfeiture. Notwithstanding the foregoing provisions, establishment of a claim shall not entitle such person to delivery of such vehicle if the city establishes that the violation for which the motor vehicle was seized was expressly or impliedly permitted by such person.
 
-e. Any person who violates subdivision b of section 16-463 of this chapter shall be liable for (i) a criminal fine of one thousand dollars or imprisonment not to exceed forty eight hours, or both, or (ii) a civil penalty of one thousand dollars for the first offense and two thousand dollars for each subsequent offense within any eighteen-month period. For the purpose of imposing a criminal fine or civil penalty pursuant to this subdivision, each receipt from a separate motor vehicle of recyclable material shall constitute a separate violation for which a criminal fine or civil penalty may be imposed.
+.. list-table::
+    :header-rows: 1
 
-f. Any person who violates subdivision c of section 16-463 of this chapter shall be liable for (i) a criminal fine of one thousand five hundred dollars or imprisonment not to exceed forty eight hours, or both, or (ii) a civil penalty of one thousand five hundred dollars for the first offense and three thousand dollars for each subsequent offense within an eighteen-month period. For the purpose of imposing a criminal fine or civil penalty pursuant to this subdivision, each receipt from a separate motor vehicle of department-marked material shall constitute a separate violation for which a criminal fine or civil penalty may be imposed.
+    * - VIOLATION DESCRIPTION 
+      - SECTION OF LAW
+      - CURE within 30 days
+      - PENALTY PER VIOLATION, UP TO $17,500
+    * - Failure to Take Reasonable and Necessary Action: Failure to File an Application with DOB
+      - 29 RCNY § 2-01.1(b)(6)(i), (b)(7)
+      - Yes
+      - Up to $1,000 per day
+    * - Failure to Take Reasonable and Necessary Action: Failure to Obtain a Building Permit
+      - 29 RCNY § 2-01.1(b)(6)(ii), (b)(7)
+      - Yes
+      - Up to $1,000 per day
+    * - Failure to Take Reasonable and Necessary Action: Failure to Maintain a Current Work Permit
+      - 29 RCNY § 2-01.1(b)(6)(iii), (b)(7)
+      - Yes
+      - Up to $1,000 per day
+    * - Failure to Take Reasonable and Necessary Action: Failure to Maintain a Temporary Certificate of Occupancy for the Residential Portion of the Building
+      - 29 RCNY § 2-01.1(b)(6)(iv), (b)(7)
+      - Yes
+      - Up to $1,000 per day
+    * - Failure to Take Reasonable and Necessary Action: Failure to File Monthly Reports
+      - 29 RCNY § 2-01.1(a)(1)(ii)(D)
+      - Yes
+      - Up to $1,000 per missing report
+    * - Failure to Take Reasonable and Necessary Action: Filing False Statements in Monthly Report
+      - 29 RCNY § 2-01.1(a)(1)(ii)(E)
+      - No
+      - $4,000 per false statement
+~
 
-g. Any person who violates subdivision d of section 16-463 of this chapter shall be liable for (i) a criminal fine of one thousand five hundred dollars or imprisonment not to exceed forty eight hours, or both, or (ii) a civil penalty of one thousand five hundred dollars for the first offense and three thousand dollars for each subsequent offense within any eighteen-month period. For the purpose of imposing a criminal fine or civil penalty pursuant to this subdivision, each receipt from a separate motor vehicle of a refrigerant-containing item shall constitute a separate violation for which a criminal fine or civil penalty may be imposed.
 
-h. The provisions of this chapter may be enforced by the department, the police department, the department of consumer affairs and the business integrity commission.
 
-i. Where a notice of violation is issued for a violation of any of the provisions of this chapter, such process shall be returnable to the environmental control board or court of appropriate jurisdiction, which shall have the power to impose the civil penalties provided in this section.
+ 
 
+   (6) Fines in Connection with:
 
+      (i) An owner who fails to comply with the access notice provision of 29 RCNY § 2-01(g)(4)(iv);
 
+      (ii) An occupant who unreasonably withholds access pursuant to 29 RCNY § 2-01(g)(4)(iv);
 
+      (iii) An owner who fails to file a Sales Record form after a sale of improvements pursuant to 29 RCNY § 2-07(j) or a sale of rights pursuant to 29 RCNY §§ 2-10(b) or (c)(4) within 30 days of sale;
 
+      (iv) An owner who fails to report a change in the emergency number, managing agent information, owner's address or ownership information pursuant to 29 RCNY § 2-05(b)(10); or
 
-*§ 16-465 Severability.* ::
+      (v) An owner who fails to post the IMD notice pursuant to 29 RCNY § 2-05(b)(13), May be subject to a Class A civil penalty as follows:
 
+ 
 
-If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
 
+.. list-table::
+    :header-rows: 1
 
+    * - VIOLATION DESCRIPTION 
+      - SECTION OF LAW 
+      - CURE within 30 days 
+      - PENALTY
+    * - Failure to Comply with Access Notice Provisions
+      - 29 RCNY §§ 2-01(g)(1), (g)(2), (g)(4)(iv)
+      - Yes
+      - $1,000
+    * - Occupant Unreasonably Withholds Access
+      - 29 RCNY § 2-01(g)(4)(iv)
+      - Yes
+      - $1,000
+    * - Failure to Timely File Sale of Improvements Form
+      - 29 RCNY § 2-07(j)
+      - No
+      - $4,000
+    * - Failure to Timely File Sale of Rights Form
+      - 29 RCNY § 2-10(b), (c)(4)
+      - No
+      - $4,000
+    * - Failure to Report a Change in Ownership Information
+      - 29 RCNY § 2-05(b)(10)
+      - No
+      - $4,000
+    * - Failure to Post IMD Notice
+      - 29 RCNY § 2-05(b)(13)
+      - No
+      - $1,000
+~
 
 
-Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
---------------------------------------------------
 
+ 
 
 
-*§ 16-470 Definitions.* ::
 
 
-As used in this chapter: "In bulk" means fifty or more recyclable containers; "Motor vehicle" means any vehicle operated or driven upon a street that is propelled by any power other than human or animal power; "Owner" means a person, other than a lienholder, having the property in or title to a motor vehicle, including any person entitled to the use and possession of a motor vehicle subject to a security interest by another person and also includes any lessee or bailee of a motor vehicle having the exclusive use thereof, under a lease or otherwise, for a period greater than thirty days; "Person" means any individual, firm, corporation or other legal entity; "Recyclable container" means any bottle, can, jar or other container constructed from glass, metal or plastic that has been designated as a recyclable material pursuant to subdivision b of section 16-305 of this title; "Street" means any public street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk, boardwalk, viaduct, square or place, including marginal streets.
 
 
+*§ 2-12 MDL § 286(2)(ii) Rent Adjustments.* ::
 
 
+(a) Definitions.
 
+   "Alteration application" means, for the purposes of these Rules, the work application form submitted for filing to the Department of Buildings of the City of New York ("DOB"), which describes the work to be undertaken that will result in obtaining a final certificate of occupancy for an interim multiple dwelling ("IMD") unit, as defined in MDL § 281 for residential use or joint living-work quarters for artists usage and these rules.
 
-*§ 16-471 On-street acceptance or transfer of recyclable containers in bulk.* ::
+   "Alteration permit" means a building permit issued by the DOB authorizing the owner to make the alterations set forth in the approved alteration application which are necessary to obtain a residential certificate of occupancy for an IMD unit.
 
+   "Article 7-B compliance" means compliance with the fire protection and safety standards of Article 7-B of the MDL, or alternative building codes as authorized by MDL § 287. Article 7-B compliance must be evidenced by:
 
-a. It shall be unlawful for any person using a motor vehicle to accept, receive or otherwise collect recyclable containers in bulk from more than one person on or in any street in the city of New York.
+      (i) DOB's issuance of a temporary residential certificate of occupancy;
 
-b. It shall be unlawful for any person to transfer recyclable containers in bulk from one vehicle to another on or in any street in the city of New York where one or more of the vehicles involved in the transfer has a commercial license plate.
+      (ii) DOB's issuance of a final residential certificate of occupancy after June 21, 1992;
 
-c. This section shall not apply to authorized employees or agents of the city engaged in the collection of solid waste or recyclable materials, persons licensed pursuant to subdivision a of section 16-505 of this code, and persons registered or exempted from registration pursuant to subdivision b of section 16-505 of this code.
+      (iii) DOB records demonstrating that the alterations necessary for issuance of a residential certificate of occupancy have been completed; or
 
-d. The owner of any motor vehicle used in violation of this section shall also be liable for any such violation except where such vehicle owner establishes that the motor vehicle was used for purposes of violating the provisions of this section without such vehicle owner's permission.
+      (iv) The filing with the Loft Board of a sworn statement by a registered architect or professional engineer licensed in the State of New York stating that the IMD has achieved Article 7-B compliance and the date of such compliance on the Loft Board approved form.
 
+   "Maximum permissible rent," or "maximum rent permissible," for purposes of this rule, means "total rent" plus any permissible rent adjustments, as provided in 29 RCNY § 2-06 for units subject to Article 7-C pursuant to § 281(1), or 29 RCNY § 2-06.1 for units subject to Article 7-C pursuant to § 281(4). For units subject to Article 7-C pursuant to § 281(5), "maximum permissible rent" is defined in 29 RCNY § 2-06.2. If one or more rent adjustments pursuant to this section have already been applied, "maximum permissible rent" includes such adjustments.
 
+(b) Eligibility requirements. The owner of an IMD is eligible for 1 or more rent adjustments pursuant to MDL § 286(2)(ii) if all the following conditions are met:
 
+   (1) The residential unit for which the rent adjustment is sought is covered under Article 7-C of the MDL;
 
+   (2) The IMD building in which the covered residential unit is located is registered with the Loft Board;
 
+   (3) A final certificate of occupancy permitting residential occupancy of the covered unit was not issued on or before June 21, 1992;
 
-*§ 16-472 Registration.* ::
+   (4) The residential unit was not rented at market value between June 21, 1982 and June 21, 1992, unless the IMD unit is covered under Article 7-C pursuant to MDL § 281(5); and
 
+   (5) The owner meets or has already met 1 or more of the code compliance obligations in MDL § 284(1) which requires that the owner file an alteration application, obtain an approved alteration permit, and achieve Article 7-B compliance. An eligible owner is entitled to 1 or more of the applicable rent adjustments in subdivisions (c) through (e) of 29 RCNY § 2-12.
 
-a. On or after January 1, 2014, no person shall, while using a motor vehicle, accept, receive, transfer from one motor vehicle to another motor vehicle, or otherwise collect recyclable containers in bulk from more than two persons on private property in the city of New York without registering with the department pursuant to the provisions set forth in this section. Any application for registration or for renewal of a registration submitted to the department shall include the following:
+(c) Alteration application rent adjustment.
 
-   i. name and address of each such person and owner of such motor vehicle used for acceptance of recyclable containers in bulk; and
+   (1) Filing prior to June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who filed an alteration application with the DOB prior to June 21, 1992 is entitled to a six percent (6%) increase over the maximum rent permissible under Loft Board rules for the covered residential unit on June 21, 1992.
 
-   ii. the location, including the street address or nearest street address of the property, and tax block and lot number or numbers if more than one lot, or other information identifying specifically where such motor vehicle will accept recyclable containers in bulk and the name of the owner of such property and a signed certification from such owner approving the use of such property for the purpose of in bulk container acceptance.
+   (2) Filing on or after June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b and who files an alteration application with the DOB on or after June 21, 1992 is entitled to an increase over the maximum rent permissible as provided in MDL § 286(2)(ii)(A) for the covered residential unit on the date the alteration application is filed.
 
-b. Such registration shall be conspicuously posted in such motor vehicle.
+(d) Alteration permit rent adjustment.
 
-c. Prior to issuing a registration pursuant to this section, the department shall confirm that any location where a motor vehicle proposes to collect recyclable containers in bulk as specified pursuant to paragraph ii of subdivision a of this section is zoned for such use.
+   (1) Issuance prior to June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who obtained an alteration permit prior to June 21, 1992 is entitled to a fourteen percent (14%) increase over the maximum rent permissible under Loft Board rules for the covered residential unit on June 21, 1992.
 
-d. The commissioner may establish, by rule, a fee to process applications for registration pursuant to this section.
+   (2) Issuance on or after June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who obtains an alteration permit from the DOB on or after June 21, 1992 is entitled to an increase over the maximum rent permissible as provided in MDL § 286(2)(ii)(B) for the covered residential unit on the date the alteration permit is issued by the DOB.
 
-e. Any registration issued by the department pursuant to this section shall expire one year from its issuance, and may be renewed thereafter. A request for renewal shall be reviewed by the department prior to such expiration of such registration, if such request is submitted to the department no later than forty-five days prior to the expiration of such registration.
+(e) Article 7-B compliance rent adjustment.
 
+   (1) Compliance prior to June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who achieved Article 7-B compliance prior to June 21, 1992 is entitled to a twenty percent (20%) increase over the maximum rent permissible under Loft Board rules for a covered residential unit on June 21, 1992.
 
+   (2) Compliance on or after June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who achieves Article 7-B compliance on or after June 21, 1992 is entitled to an increase over the maximum rent permissible as provided in MDL § 286(2)(ii)(C) for the covered residential unit on the date Article 7-B compliance is achieved.
 
+(f) Payment of rent adjustments. Payment of rent adjustments based on filing an alteration application, obtaining an alteration permit or achieving Article 7-B compliance shall commence:
 
+   (i) the month immediately after the month the alteration application is filed, the alteration permit is obtained or Article 7-B compliance is achieved, or
 
+   (ii) on July 1, 1992, whichever is later.
 
-*§ 16-473 Reporting requirements.* ::
+(g) Effect on other rent increases.
 
+   (1) Rent adjustments pursuant to this section will be applied in addition to any rent increases which an owner is entitled to pursuant to 29 RCNY §§ 2-06, 2-06.1, 2-06.2, or the Loft Board rules related to setting the initial legal regulated rent.
 
-No later than January 31, 2015, and annually thereafter, any person registered pursuant to section 16-472 of this chapter shall submit an annual report to the department. Such report shall include, but not be limited to, the following:
+   (2) Any allowable rent adjustments pursuant to this section will be included in the calculation of the initial legal regulated rent.
 
-i. the name and address of each operator of the motor vehicle used for acceptance of recyclable containers in bulk;
+   (3) Rent adjustments pursuant to this section shall be effective upon filing an alteration application, obtaining an alteration permit or Article 7-B compliance regardless of the subsequent expiration of said alteration application, alteration permit or temporary certificate of occupancy, or the filing of a further qualifying alteration application for the building. If the Loft Board or a court of competent jurisdiction determines the sworn statement of Article 7-B compliance was erroneous, all rent increases based on such statement shall be nullified.
 
-ii. any change to the information contained in each such operator's registration;
 
-iii. each location where collected recyclable containers are delivered; and
 
-iv. the total amount of refunds paid out and revenue generated, in the aggregate, by the registrant for the prior calendar year pursuant to the registration issued by the department.
 
 
 
 
+**APPENDIX A**
 
 
-*§ 16-474 Operating requirements.* ::
 
 
-Any person registered pursuant to this chapter shall ensure that such person's motor vehicle accepts, receives, transfers from one motor vehicle to another motor vehicle or otherwise collects recyclable containers in bulk from another person on private property in the city of New York only at the location listed in the registration. Such person shall ensure that such property is operated and maintained in a safe and sanitary manner so as to avoid any nuisance or condition hazardous to public health or safety, including ensuring that the roadway, sidewalk and curb area abutting such property where such person operates is kept clean and free from obstruction and nuisances resulting directly from such person's activities, and that the roadway, sidewalk and curb area abutting any such property are free from garbage, refuse, rubbish, litter, debris and other offensive material including, but not limited to, unwanted recyclable containers.
-
-
-
-
-
-
-*§ 16-475 Exemption.* ::
-
-
-The provisions of sections 16-471, 16-472, 16-473 and 16-474 of this chapter shall not apply to persons using a motor vehicle to collect or receive recyclable containers in bulk on streets or private property from dealers, distributors or redemption centers as such terms are defined in section 27-1003 of the environmental conservation law.
-
-
-
-
-
-
-*§ 16-476 Enforcement.* ::
-
-
-a. Any person who violates section 16-471 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of one thousand dollars for each such violation.
-
-b. Any person who violates section 16-472 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of five hundred dollars for each such violation.
-
-c. Any person who violates sections 16-473 or 16-474 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of two hundred fifty dollars for each such violation.
-
-d. Any motor vehicle that has been used or is being used to collect recyclable containers in bulk in violation of section 16-471 of this chapter or without registering with the department in violation of section 16-472 of this chapter may be impounded by the department and shall not be released until either all storage fees and the applicable fine have been paid or a bond has been posted in an amount satisfactory to the commissioner. Rules of the department related to the impoundment and release of motor vehicles in chapter five of title sixteen of the rules of the city of New York shall be applicable to the impoundment and release of motor vehicles pursuant to this paragraph. Where it is determined that the motor vehicle was not used to commit a violation of section 16-471 or 16-472 of this chapter, such fees shall be promptly returned.
-
-e. The provisions of this chapter may be enforced by the department, the police department, the department of consumer affairs and the business integrity commission.
-
-
-
-
-
-
-*§ 16-477 Rulemaking authority.* ::
-
-
-The commissioner shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter.
-
-
-
-
-Chapter 4-E: Recovery for Refrigerants
---------------------------------------------------
-
-
-
-*§ 16-480 Definitions.* ::
-
-
-As used in this chapter:
-
-"Appliance" means any device that contains refrigerants and can be used for household purposes including, but not limited to, room air conditioners, refrigerators, water coolers, or freezers.
-
-"Original equipment manufacturer" means (1) a person or entity whose brand name appears on an appliance sold, offered for sale or distributed in the city or (2) a person or entity who manufacturers or has manufactured an appliance sold, offered for sale or distributed in the city.
-
-"Recover" or "recovery" means to remove refrigerants from an appliance in such a way that the refrigerants are not released into the atmosphere pursuant to subpart F of 40 CFR part 82.
-
-"Refrigerants" means any substances consisting in whole or in part of a class I or class II ozone-depleting substance, which are used for heat transfer purposes and provide a cooling effect, including, but not limited, to chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A "substitute substance" shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use.
-
-"Residential generator" means any person, entity, agency, or institution in the city of New York that receives solid waste or recycling collection service from the department.
-
-"Room air conditioner" means any electrical appliance that has a compressor, a condenser, an evaporator and a fan to cool and dehumidify the surrounding air and that is capable in ordinary usage of being mounted in a window or through a wall.
-
-"Serviced by the department" means the recovery of refrigerants by the department from appliances that are set out for department collection in the city of New York.
-
-
-
-
-
-
-*§ 16-481 Original equipment manufacturer responsibility for recovery.* ::
-
-
-a. On and after July first, two thousand fourteen, original equipment manufacturers shall be responsible for the lawful recovery of refrigerants from their appliances that are disposed of by residential generators.
-
-b. An original equipment manufacturer may elect to (i) establish its own refrigerant recovery program, (ii) participate with other original equipment manufacturers in a refrigerant recovery program, or (iii) have its appliances serviced by the department in the refrigerant recovery program provided pursuant to section 16-482 of this chapter. No program established pursuant to paragraph one or two of this subdivision may include curbside collection of appliances.
-
-
-
-
-
-
-*§ 16-482 Department refrigerant recovery program.* ::
-
-
-a. The department shall provide a program for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
-
-b. The department shall establish, by rule, a fee for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
-
-c. An original equipment manufacturer whose appliance is serviced by the department shall be billed by the department and shall be responsible for the payment of the fee established by the department for the recovery of refrigerants.
-
-
-
-
-
-
-*§ 16-483 Improper disposal of appliances.* ::
-
-
-No original equipment manufacturer or its agent shall dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants.
-
-
-
-
-
-
-*§ 16-484 Enforcement.* ::
-
-
-a. The department shall have the authority to enforce the provisions of this chapter.
-
-b. Any original equipment manufacturer or agent of such manufacturer who violates section 16-483 of this chapter shall be liable for a civil penalty of five hundred dollars for each violation.
-
-
-
-
-
-
-*§ 16-485 Rulemaking authority.* ::
-
-
-The department shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter, including but not limited to rules relating to reporting by original equipment manufacturers and registration with the department by such manufacturers, which registration may require the submission of information related to such manufacturers' refrigerant recovery programs, if any, and establishing penalties for violations of such rules.
-
-
-
-
-
-
-*§ 16-486 Severability.* ::
-
-
-If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
-
-
-
-
-Chapter 4-F: Carryout Bag Reduction
---------------------------------------------------
-
-
-
-*§ 16-490 Definitions.* ::
-
-
-As used in this chapter:
-
-Carryout bag. The term "carryout bag" means any bag that is provided by a covered store to a customer at the point of sale and is used to carry goods from such store, provided, however, that such term shall not include any of the following: (i) a bag without handles used to carry produce, meats, poultry, fish, dairy, dry goods or other non-prepackaged food items to the point of sale within a covered store or to prevent such food items from coming into direct contact with other purchased items; (ii) a bag provided by a pharmacy to carry prescription drugs; (iii) a garment bag; or (iv) any other bag exempted from the provisions of this chapter by rule of the commissioner.
-
-Covered store. The term "covered store" means a general vendor, green cart or a retail or wholesale establishment engaged in the sale of personal, consumer or household items including but not limited to drug stores, pharmacies, grocery stores, supermarkets, convenience stores, foodmarts, apparel stores, home center and hardware stores, stationery and office supply stores, and food service establishments located within grocery stores, supermarkets, convenience stores or foodmarts that provide carryout bags to customers in which to place purchased items. Such term does not include food service establishments located outside of grocery stores, supermarkets, convenience stores, or foodmarts, including emergency food providers, mobile food vendors that are not green carts, or stores licensed pursuant to section 63 of the state alcoholic beverage control law to sell liquor at retail for consumption off the premises.
-
-Emergency food provider. The term "emergency food provider" means any facility, including soup kitchens and food pantries, operated by a not-for-profit corporation or by a federal, state, or local government agency that provides food to needy individuals at no charge.
-
-Food service establishment. The term "food service establishment" has the same meaning as in section 81.03 of the health code of the city of New York or any successor provision.
-
-General vendor. The term "general vendor" has the same meaning as in subdivision b of section 20-452.
-
-Green cart. The term "green cart" means a green cart as in subdivision s of section 17-306 or any other non-processing mobile food vending unit in or on which non-potentially hazardous uncut fruits and vegetables are sold or held for sale or service, regardless of geographic restrictions on operation of such green cart or mobile food vending unit.
-
-Reusable carryout bag. The term "reusable carryout bag" means a bag with handles that is specifically designed and manufactured for multiple reuse and is either (i) made of cloth or other machine washable material, but not film plastic, or (ii) defined as a reusable carryout bag by rule of the commissioner. Reusable carryout bags provided to customers pursuant to this chapter shall be conspicuously labeled as reusable.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-491 Carryout bag fee.* ::
-
-
-a. Except as provided in section 16-493 or subdivision e of section 16-492, covered stores shall charge a fee of not less than five cents for each carryout bag provided to any customer. All fees collected by a covered store under this chapter shall be retained by the store. Covered stores shall separately itemize the fee charged pursuant to this subdivision on the standard receipt provided to customers.
-
-b. No covered store shall charge a fee for, or prevent a customer from using, a carryout bag brought by the customer to such store to carry purchased goods from such store.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-492 Additional obligations for covered stores.* ::
-
-
-a. All covered stores shall post signs at or near the point of sale to notify customers of the provisions of this chapter. Such signs shall measure at least five inches by seven inches and shall read as follows: "Pursuant to New York City law, all carryout bags provided by this store to a customer, with limited exceptions, shall be subject to a fee of not less than five cents per bag. Carryout bags brought by customers into this store to carry purchased goods from this store shall not be subject to a fee."
-
-b. No covered store shall provide a credit to any customer specifically for the purpose of reducing or eliminating the carryout bag fee required by subdivision a of section 16-491.
-
-c. Paper carryout bags provided by covered stores to customers shall contain a minimum of forty percent post-consumer recycled content and be conspicuously labeled with the amount of post-consumer recycled content.
-
-d. Plastic carryout bags provided by covered stores to customers labeled as "compostable" must be certified as compliant with the ASTM D6400-12 standard specification for labeling of plastics designed to be aerobically composted in municipal or industrial facilities or other standard determined by rule of the commissioner. Plastic carryout bags provided by covered stores to customers shall not be labeled as "biodegradable," "degradable," or "decomposable."
-
-e. Covered stores may provide their customers with reusable carryout bags free of charge from February 15, 2017, to April 30, 2017. In addition, covered stores may provide their customers with reusable carryout bags free of charge for a two-week period each year from April 17 to April 30.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-493 Exemptions.* ::
-
-
-All covered stores that provide carryout bags to customers shall provide carryout bags free of charge for items purchased at such covered store by any customer using the supplemental nutrition assistance program, special supplemental nutrition program for women, infants and children, or any successor programs, as full or partial payment toward the items purchased in such covered store.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-494 Reporting.* ::
-
-
-No later than March 1, 2018, and annually thereafter, the commissioner, in collaboration with the commissioners of environmental protection and consumer affairs, and the head of any other department or office designated by the mayor, shall include in the department's annual recycling report pursuant to subdivision k of section 16-305, information on the progress of single-use carryout bag reduction including, but not limited to: (i) the general effectiveness of this chapter in reducing the use of single-use carryout bags in the city and increasing the use of reusable carryout bags; (ii) the waste- and litter-reduction benefits of this chapter, including, where practicable, the amount of single-use plastic bags in the waste stream; (iii) the number of notices of violation issued pursuant to this chapter; and (iv) any cost savings for the city attributable to single-use carryout bag reduction such as reduced contamination of the residential recycling stream or reduction in flooding or combined sewer overflows.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-495 Outreach and education.* ::
-
-
-a. The commissioner shall establish an outreach and education program aimed at educating residents and covered stores on reducing the use of single-use carryout bags and increasing the use of reusable carryout bags. This outreach and education program shall include, but not be limited to, a multilingual public education program, including advertisements about the program in newspapers of general circulation, radio, and public venues such as subways and buses.
-
-b. To the extent practicable, the commissioner shall seek the assistance of for-profit and not-for-profit corporations in providing and distributing reusable carryout bags to residents and in providing and distributing signs pursuant to subdivision a of section 16-492 to covered stores.
-
-c. In conducting outreach and distributing reusable carryout bags to residents pursuant to this section, the commissioner shall prioritize such outreach and reusable carryout bag distribution to residents in households with annual income below two hundred percent of the federal poverty line and covered stores and residents within the police precincts identified in subparagraph b of paragraph four of subdivision b of section 17-307.
-
-d. No later than three months following the date the local law that added this subdivision became law, the commissioner shall distribute a multilingual letter to all covered stores informing them of their obligations to comply with the provisions of this chapter and any rules promulgated pursuant thereto. Failure to receive a letter pursuant to this subdivision shall not eliminate or otherwise affect the obligations of a covered store pursuant to this chapter and any rules promulgated pursuant thereto.
-
-e. On or before March 1, 2019, the commissioner shall issue a study on the effect of the law on residents, which shall include, but need not be limited to, determining the percentage reduction in single-use plastic or paper carryout bags usage by residents; residents' attitudes toward the law, disaggregated by race and income; and whether residents are substituting other types of plastic bags for single-use carryout bags. The commissioner shall also include an assessment on the potential effectiveness of coupling a ban on single-use plastic carryout bags with the carryout bag fee in reducing the amount of carryout bags in the waste stream.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-496 Enforcement.* ::
-
-
-a. Any notice of violation issued pursuant to this chapter shall be returnable to the environmental control board, which shall have the power to impose civil penalties as provided in this chapter.
-
-b. The department and the department of consumer affairs shall have the authority to enforce the provisions of this chapter.
-
-c. Any covered store that violates section 16-491 or subdivision b, c or d of section 16-492 or any rules promulgated pursuant thereto shall be liable for a civil penalty of $250 for a first violation and $500 for any subsequent violation of the same section or subdivision of this chapter or rule promulgated pursuant thereto within an eighteen-month period, except that the department and the department of consumer affairs shall not issue a notice of violation, but shall issue a warning for any violation that occurs during the six-month period from February 15, 2017, to August 14, 2017. For purposes of this chapter, each commercial transaction shall constitute no more than one violation.
-
-d. It shall not be a violation of this chapter for a general vendor or green cart to fail to provide a receipt to a customer that separately itemizes the carryout bag fee.
-
-e. No covered store that fails to post signs in accordance with subdivision a of section 16-492 shall be liable for a civil penalty.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-Chapter 4-G: Food Donation Web Portal
---------------------------------------------------
-
-
-
-*§ 16-497 Food donation web portal.* ::
-
-
-Within eighteen months after the effective date of the local law that added this section, the department or another agency or office designated by the mayor, shall, in conjunction with the department of information technology and telecommunications, create or modify and maintain a web portal that will allow prospective food donors and recipients, including but not limited to restaurants, grocery stores, produce markets, dining facilities and food rescue organizations, to post notifications concerning the availability of food, including food that would otherwise go to waste, and to arrange for the transportation or retrieval of such food. Such portal shall, at a minimum, allow (i) a prospective food donor to describe the type and amount of food available, including any information necessary to keep the food safe for human consumption, such as refrigeration requirements, as well as other information necessary to facilitate its donation, (ii) a prospective food recipient to specify the type and amount of food donations it will accept and the areas of the city from which it will accept donations and to receive prompt notification concerning the availability of food satisfying such specifications, and (iii) a prospective food donor and a prospective food recipient to communicate directly through a messaging system within such portal.
-
-
-
-
-
-
-Chapter 4-H: Reduced Permitted Capacity at Solid Waste Transfer Stations
---------------------------------------------------
-
-
-
-*§ 16-498 Definitions.* ::
-
-
-When used in this chapter, terms defined in subdivision a of section 16-130 shall have the meanings given therein and the following terms shall have the following meanings:
-
-Designated community districts. The term "designated community districts" means community district one in the borough of Brooklyn, community districts one and two in the borough of the Bronx, and community district 12 in the borough of Queens, as identified on the effective date of the local law that added this section on the map of community districts established pursuant to section 2702 of the New York city charter.
-
-Emergency. The term "emergency" means the same as "emergency conditions and potential incidents" as described in subdivision a of section 497 of the New York city charter regardless of whether a multi-agency response is needed.
-
-Exempted day. The term "exempted day" means each of the following days: January second; the day after the third Monday in January; February thirteenth; the day after the third Monday in February; the day after the last Monday in May; July fifth; the day after the first Monday in September; the day after the second Monday in October; the Wednesday following the first Monday in November; November twelfth; the day after the fourth Thursday in November; and December twenty-sixth, except that if any such day falls on a Sunday, the exempted day shall be the next following business day.
-
-Operational date. The term "operational date" means, for Brooklyn community district one and Queens community district 12, the first date on which a marine transfer station operated by the department and located in the same borough as such district begins accepting residential waste from the department. For Bronx community districts one and two, such term shall mean the date on which the first marine transfer station operated by the department and located in the city begins accepting residential waste from the department.
-
-Organic waste. The term "organic waste" has the same meaning as set forth in section 16-303.
-
-Overconcentrated district. The term "overconcentrated district" means a community district that contains 10 percent or more of the total citywide permitted capacity for putrescible and non-putrescible solid waste transfer stations, including transfer stations operated by or on behalf of the department.
-
-Permitted capacity. The term "permitted capacity" means, for a putrescible solid waste transfer station, the total amount of solid waste that is permitted by the department to be delivered to such solid waste transfer station as measured in tons per day, and for a non-putrescible solid waste transfer station, the average tons per day permitted to be delivered to such solid waste transfer station over the quarter year. For purposes of this chapter, a non-putrescible transfer station shall not include a facility permitted as a fill material transfer station by the department pursuant to sections 16-130 and 16-131 of chapter 4 of this title.
-
-Quarter year. The term "quarter year" means any of the four three-month periods of a year that begin with the first day in the months of January, April, July and October.
-
-Total quarterly capacity. The term "total quarterly capacity" means, for a non-putrescible solid waste transfer station, the total amount of solid waste allowed to be delivered to such transfer station within any quarter year.
-
-
-
-
-
-
-
-
-*§ 16-498.1 Reduction of overall permitted capacity.* ::
-
-
-a. By October 1, 2019 or the relevant operational date, whichever is later, the commissioner shall, for each designated community district, set the permitted capacity for each putrescible and non-putrescible solid waste transfer station operating in such designated community district. The permitted capacity of each putrescible and non-putrescible solid waste transfer station in community district one in the borough of Brooklyn shall be reduced by 50 percent below the permitted capacity for such transfer station on the effective date of the local law that added this section. The permitted capacity of each putrescible and non-putrescible solid waste transfer station in community districts one and two in the borough of the Bronx and community district 12 in the borough of Queens shall be reduced by 33 percent below the permitted capacity for such transfer station on the effective date of the local law that added this section.
-
-b. Any reductions in permitted capacity required pursuant to this section for a transfer station in a designated community district shall be implemented at the time that the transfer station's permit is renewed.
-
-c. On exempted days occurring after the date that reductions under this section are implemented for a designated community district, a putrescible solid waste transfer station in such designated community district may process waste in an amount equivalent to such transfer station's permitted capacity prior to the reductions required by this section.
-
-
-
-
-
-
-
-
-*§ 16-498.2 Allocating reductions of permitted capacity.* ::
-
-
-a. The commissioner shall not impose the reductions to permitted capacity required by section 16-498.1 on any putrescible or non-putrescible solid waste transfer station that exports by rail all or the majority of the waste accepted at any such transfer station and which does not use a public street to transport such waste between such transfer station and the rail facility.
-
-b. The commissioner shall determine the average daily amount of solid waste transported by barge for the three years preceding October 1, 2019, or the operational date, whichever is later, by each putrescible solid waste transfer station within a designated community district. In calculating any required reduction in permitted capacity for a putrescible solid waste transfer station pursuant to section 16-498.1, the commissioner shall not include, in any amount required to be reduced, such average daily amount of waste transported by barge, provided that:
-
-   1. On or before April 1, 2019, the owner of such transfer station submits an application to the commissioner to modify its permit to restrict the use of its permitted capacity, or a portion thereof, exclusively to putrescible solid waste that is transported out of the city from such transfer station by barge, and that application is approved by the commissioner; and
-
-   2. By October 1, 2019, or the relevant operational date, whichever is later, any such transfer station restricts the use of its permitted capacity, or such portion thereof, exclusively to putrescible solid waste that is transported from such transfer station by barge.
-
-c. A putrescible solid waste transfer station may reserve up to 20 percent of its permitted capacity exclusively for source separated organic waste to be recycled. Such reserved amount shall not be included in the transfer station's permitted capacity when the commissioner calculates any required reduction in permitted capacity for such putrescible solid waste transfer station pursuant to section 16-498.1, provided that:
-
-   1. On or before April 1, 2019, the owner of such transfer station submits an application to the commissioner to modify its permit to restrict the use of its permitted capacity, or a portion thereof, exclusively to source separated organic waste, and that application is approved by the commissioner; and
-
-   2. By October 1, 2019, or the relevant operational date, whichever is later, any such transfer station restricts the use of its permitted capacity, or such portion reserved for source separated organic waste, exclusively to source separated organic waste.
-
-d. The commissioner shall determine the average daily amount of metal, glass, plastic, paper and corrugated cardboard recycled for the three years preceding October 1, 2019, or the operational date, whichever is later, by each transfer station within a designated community district. In calculating any required reduction in permitted capacity pursuant to section 16-498.1, the commissioner shall not include, in any amount required to be reduced, the lesser of (i) such average daily amount of recycled metal, glass, plastic, paper and corrugated cardboard or (ii) 20 percent of the transfer station's permitted capacity.
-
-e. The commissioner shall determine the average daily amount of construction and demolition debris recycled for the three years preceding October 1, 2019, or the operational date, whichever is later, by each non-putrescible solid waste transfer station within a designated community district. In calculating any required reduction in permitted capacity pursuant to section 16-498.1, the commissioner shall not include, in any amount required to be reduced, 50 percent of such average daily amount of construction and demolition debris.
-
-f. After a reduction in permitted capacity required by section 16-498.1 in a designated community district, each non-putrescible solid waste transfer station within such community district shall have a total quarterly capacity equal to the permitted capacity allocated to such transfer station multiplied by 78. The amount of non-putrescible waste that may be delivered to a non-putrescible transfer station on any single day may not exceed such transfer station's daily permitted capacity prior to the reductions required by this section.
-
-
-
-
-
-
-
-
-*§ 16-498.3 Waiver.* ::
-
-
-a. The commissioner may waive the reductions to permitted capacity and the limits to total quarterly capacity required by this chapter for the duration of any emergency.
-
-b. After the reductions in permitted capacity required by section 16-498.1 have been implemented at a transfer station in a designated community district, the commissioner may, on a one-time basis, increase the permitted capacity of any such transfer station that seeks a modification to its permit solely to increase the amount of organic waste or metal, glass, plastic, paper or corrugated cardboard that is separated for recycling, provided that such increase shall be no greater than 20 percent of the transfer station's then-existing permitted capacity.
-
-
-
-
-
-
-
-
-*§ 16-498.4 Overconcentrated districts.* ::
-
-
-After October 1, 2019, the commissioner shall not increase permitted capacity for any putrescible or non-putrescible solid waste transfer station in an overconcentrated district or increase permitted capacity for any community district that would result in such district becoming an overconcentrated district, except in accordance with section 16-498.3, and except the commissioner may allow increased permitted capacity for any putrescible or non-putrescible solid waste transfer station that exports by rail all or the majority of the waste accepted at any such transfer station and which does not use a public street to transport such waste between such transfer station and the rail facility, and except that the commissioner may authorize the transfer of permitted capacity from a putrescible solid waste transfer station within a designated community district to another putrescible solid waste transfer station, within the same community district, for which the commissioner has set a reduced permitted capacity in accordance with subdivision a of section 16-498.1, or from a non-putrescible solid waste transfer station within a designated community district to another non-putrescible solid waste transfer station, within the same community district, for which the commissioner has set a reduced permitted capacity in accordance with subdivision a of section 16-498.1, provided that a transfer station receiving a transfer of permitted capacity may use such transferred permitted capacity only after the implementation, in accordance with subdivision b of section 16-498.1, of such reduction, and provided further that the permitted capacity of any transfer station receiving a transfer of permitted capacity may not exceed the permitted capacity of such transfer station that was in effect before the commissioner set a reduced permitted capacity for such transfer station in accordance with subdivision a of section 16-498.1, and provided further that the transfer station that is transferring its permitted capacity will no longer be operating as a waste transfer station after the transfer.
-
-
-
-
-
-
-
-
-*§ 16-498.5 Reporting.* ::
-
-
-On or before October 1, 2020, and annually thereafter, the commissioner shall report to the mayor and the speaker of the council the following information:
-
-a. A list of permitted solid waste transfer stations and for each such station, organized by community district:
-
-   1. The community district in which such transfer station is located;
-
-   2. The type of material permitted for acceptance at such transfer station;
-
-   3. The permitted capacity of such transfer station;
-
-   4. The average amount of waste accepted daily at such transfer station for each quarter year of the previous calendar year; and
-
-   5. a. Any change to such transfer station's permitted capacity during the previous calendar year, specifying which changes were required pursuant to this chapter.
-
-      b. The feasibility of reducing truck traffic traveling through residential neighborhoods by means other than reductions to permitted capacity for transfer stations.
-
-
-
-
-
-
-
-
-*§ 16-498.6 Notification.* ::
-
-
-No later than 120 days after the end of each quarter year, the commissioner shall notify the mayor and the speaker of the council if the amount of waste delivered to permitted solid waste transfer stations located within any community district is in excess of 90 percent of the total permitted capacity for such transfer stations. Such notification shall include the percentage of the total citywide permitted capacity for putrescible and non-putrescible solid waste transfer stations, including transfer stations operated by or on behalf of the department, in such community district for the quarter year and the percentage of the total citywide putrescible and non-putrescible solid waste delivered to such community district for the quarter year.
-
-
-
-
-
-
-
-
-*§ 16-498.7 Displaced employee list.* ::
-
-
-The commissioner shall maintain a list containing the names and contact addresses or telephone numbers of persons formerly employed by a transfer station in a designated community district whose employment ended as a result of the a reduction in permitted capacity required pursuant to section 16-498.1. The addition or deletion of information on such list relating to a person on such list shall be made only upon the request of such person. A copy of such list shall be made available upon request by an owner or operator of a transfer facility and shall be sent to all transfer stations on an annual basis. The provision of such list shall in no way be construed as a recommendation by the city regarding the employment of any person on such list, nor shall the city be responsible for the accuracy of the information set forth therein.
-
-
-
-
-
+**APPENDIX B**
 

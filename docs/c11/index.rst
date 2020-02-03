@@ -1,1575 +1,1045 @@
-Title 12: Personnel and Labor
+Title 21: Tax Commission
 ===================================================
 
-Chapter 1: Officers and Employees
+Chapter 1: General
 --------------------------------------------------
 
 
 
-*§ 12-101 Salaries; retroactive increases forbidden.* ::
+*§ 1-01 Scope.* ::
 
 
-Any action taken by the head of an agency or by the mayor to increase the salary of any officer or person whose salary is paid out of the city treasury, to take effect prior to the date of such action is void.
+This title shall govern the disposition of all applications to the Tax Commission for correction of tentative real property tax assessments.
 
 
 
 
 
 
-*§ 12-102 Salaries; increases after fixation in budget permitted.* ::
+*§ 1-02 Intent.* ::
 
 
-The head of an agency subject to the provisions of section one hundred twenty-four of the charter, or the mayor shall have the power to increase, during any fiscal year, the salary of any officer or person paid from the city treasury even after such salary shall have been fixed in the budget for such fiscal year.
+This title is intended to provide the public with a system of administrative review of applications protesting tentative real property tax assessments.
 
 
 
 
 
 
-*§ 12-103 Salaries; of county officials.* ::
+*§ 1-03 Definitions.* ::
 
 
-The salaries of all county officers in counties within the city, unless otherwise provided by law, shall be fixed by the mayor.
+Unless the context requires otherwise, the definitions contained in this rule apply.
 
+Administrative Code. "Administrative Code" means the Administrative Code of the City of New York.
 
+Applicant. "Applicant" means the person or entity applying for review of an assessment who is named as the applicant on the application form as filed or amended.
 
+Application. "Application" means application for administrative review by the Tax Commission of a tentative real property tax assessment set by the Department of Finance.
 
+Business day. "Business day" means any day other than a Saturday, Sunday, or a legal holiday of the City of New York.
 
+Calendar page. "Calendar page" means a listing, in calendar format, of the applications filed by a group representative for which hearings will be conducted at the same time.
 
-*§ 12-104 Payment of claims of certain employees authorized.* ::
+Charter. "Charter" means the New York City Charter.
 
+Counsel. "Counsel" means the Counsel to the Tax Commission.
 
-The mayor is hereby authorized to inquire into, hear and determine any claim heretofore or hereafter filed against the city, or any agency, or the board of education, by a duly appointed employee or his or her estate, where it is shown that such employee failed and neglected to cash the check paid to such employee for services rendered, notwithstanding a bar to the payment of any such claim by limitation of time or otherwise. The mayor may, after due consideration, authorize payment of such claim, and such claim shall thereupon be paid in such amount as the mayor shall determine to be just, in full statisfaction* thereof, provided that the claimant or his or her estate, shall execute and deliver a release upon receipt of such payment, in such form as shall be approved by the corporation counsel. The allowance in payment of such claim shall be without any interest whatsoever.
+Department of Finance. "Department of Finance" means the Department of Finance of the City of New York.
 
+Deferral of review or defer review. "Deferral of review" or "defer review" means that the application shall receive Tax Commission review in the year following its filing, provided there is a valid proceeding for judicial review of the assessment pending.
 
+Discontinuance of review or discontinue review. "Discontinuance of review" or "discontinue review" means the discontinuance of review of an application because of a procedural defect without reaching the merits of the claims presented, as provided in 21 RCNY § 4-03.
 
+Emergency. "Emergency" means an unforeseeable event that prevents an applicant or representative from appearing at a hearing on an application, such as an illness of the representative, the self-represented applicant or a family member for whose care such representative or applicant is responsible, or the death of a representative's or applicant's family member.
 
+Form. "Form" means a form published by the Tax Commission.
 
+Group representative. "Group representative" means, except as otherwise provided in 21 RCNY § 2-05, a person or firm who is designated as the representative on three or more applications and is assigned a group number by the Tax Commission.
 
-*§ 12-105 Heads of agencies; power to make deductions from salaries of subordinates.* ::
+Hearing officer. "Hearing officer" means a person whom the President designates to review and determine applications.
 
+Net lease. "Net lease" means a lease of the entire property where, in addition to rent, the lessee is obligated to pay all property charges, such as taxes, insurance and maintenance.
 
-Except as otherwise provided by law, every head of an agency is empowered:
+President. "President" means the President of the Tax Commission.
 
-1. To make ratable deductions from the salaries and wages of subordinates, on account of absences from duty without leave.
+Representative. "Representative" means the person or firm, including any individual within the firm whom the firm designates, who is designated by the applicant to appear in support of an application in accordance with chapter two of this title.
 
-2. In his or her discretion, to cause deductions to be made from the salaries, compensation or wages of subordinates of such agency, not exceeding thirty days' pay, as a fine for delinquency or misconduct.
+Self-representated applicant. "Self-represented applicant" means an applicant who is representing himself or herself with respect to an application.
 
-3. In his or her discretion, to suspend for not more than one month without pay, any subordinate pending the hearing and determination of charges against such subordinate, or the making of any explanation, as the case may be. If the subordinate so suspended be removed, such subordinate shall not be entitled to salary or compensation after suspension. If he or she be not so removed, such subordinate shall be entitled to full salary or compensation from the date of suspension to the date of reinstatement, less such deduction or fine as may be imposed.
+Tax Commission. "Tax Commission" means the Tax Commission of the City of New York.
 
+Tax Commission's Office. "Tax Commission's Office" means the Tax Commission's main office in Manhattan.
 
 
 
 
-
-*§ 12-106 Heads of agencies other than the police and fire commissioner, may rehear charges against and reinstate persons dismissed.* ::
-
-
-a. The head of any agency, upon written application by any person who has been dismissed from service, setting forth the reasons for demanding an opportunity of making a further explanation, shall have the power, in his or her discretion, to rehear the explanation and any new matter offered in further reply to the charges or complaint upon which such person was dismissed from service. Such person shall be required to waive, in writing, all claims against the city for back pay. Such application for another opportunity to explain shall only be presented to and granted by the officer who made the removal or such officer's immediate successor, when the applicant for the further explanation shall make it appear, by affidavit:
-
-   1. That on a further opportunity to explain, he or she can produce such evidence as would probably have changed the decision if it had been presented theretofore; and
-
-   2. If such evidence has been discovered since the previous explanation, that it is not cumulative; and
-
-   3. That the failure to produce it at the first explanation was not owing to want of diligence.
-
-b. If upon the further explanation, the head of such agency shall determine that such person has been illegally or unjustly dismissed, the head of such agency may, in his or her discretion, and with the approval in writing of the commissioner of citywide administrative services, cause such person to be reinstated.
-
-c. The consent of the mayor shall be required when reinstatement of an applicant is made by the immediate successor of the removing official. It shall be unlawful, however, for the immediate successor of the removing official to reinstate an applicant who has been removed for more than two years.
-
-d. This section shall not apply to members of the uniformed forces under the jurisdiction of the police commissioner and the fire commissioner.
-
-
-
-
-
-
-*§ 12-107 Publication of notice of appointments, removals, and changes of salaries.* ::
-
-
-Notice of all appointments and removals from office, and all changes of salaries except those resulting from collective bargaining or original jurisdiction adjustments, shall be transmitted within one week after they are made, by the appointing agency or department head, to and published within thirty days in the City Record, indicating the name, title and salary of each individual appointed, promoted, demoted, removed from office or whose services have otherwise terminated, and whether an appointment is a "provisional appointment."
-
-
-
-
-
-
-*§ 12-108 Overtime work by officers or employees and additional compensation therefor.* ::
-
-
-Notwithstanding the provisions of any other statute, general, special or local, the mayor may authorize the head of any agency to require any officer or employee in such agency or any class or group of officers or employees in such agency to work in excess of the maximum number of hours of employment prescribed for such officer or employee or class or group of officers or employees by any statute, general, special or local, provided that each such officer or employee shall be paid overtime compensation for such work at not less than his or her regular basic pay rate. The amounts received as overtime compensation pursuant to the provisions of this section shall be regarded as salary or compensation for the purposes of any pension or retirement system of which the employee receiving such overtime compensation is a member. Such overtime compensation shall not be regarded as salary or compensation for the purpose of determining the right to any increase of salary or any salary increment on account of length of service or otherwise, nor shall the payment of such overtime compensation be construed to constitute a promotion.
-
-
-
-
-
-
-*§ 12-109 Activities of mayor and other officers of the city or of any agency as officers or members of an educational corporation chartered by the board of regents of the University of the state of New York to carry out programs to encourage scholastic achievement by pupils within the city.* ::
-
-
-The provisions of sections eleven hundred and two thousand six hundred four of the charter, section three of the general city law and any other similar provision of law, general, special or local, or rule or regulation or rule of law shall not apply to the mayor, the head of any city department or of any agency, or any other officer of the city or of any agency in respect to his or her activities as an officer or member of an educational corporation chartered by the board of regents of the University of the state of New York to carry out award, citation, scholarship and other programs in cooperation with participating colleges and universities designed to encourage scholastic achievement on the part of pupils attending public, private and parochial schools within the city of New York or to foster interest in the humanities and the arts and to encourage participation in cultural programs. Notwithstanding any other provision of law, general, special or local, the mayor, the head of any department of the city or of any agency or any other officer of the city or any agency may, during his or her term of office, serve as an officer or member of such a corporation.
-
-
-
-
-
-
-*§ 12-110 Annual disclosure.* ::
-
-
-a. Definitions. As used in this section:
-
-   1. The term "affiliated" shall mean a firm that is a subsidiary of another firm, or two firms that have a parent in common, or two firms with a stockholder in common who owns at least twenty-five per cent of the shares of each such firm.
-
-   2. The term "agency" or "city agency" shall mean a city, county, borough or other office, position, administration, department, division, bureau, board, commission, authority, corporation, committee or other agency of government, the expenses of which are paid in whole or in part from the city treasury, and shall include but not be limited to the council, the offices of each elected city official, the board of education, community boards, the health and hospitals corporation, the New York city industrial development agency, the offices of the district attorneys of the counties of Bronx, Kings, New York, Queens and Richmond, and of the special narcotics prosecutor, the New York city housing authority, and the New York city housing development corporation, but shall not include any court or any corporation or institution maintaining or operating a public library, museum, botanical garden, arboretum, tomb, memorial building, aquarium, zoological garden or similar facility or any advisory committee as that term is defined in subdivision one of section twenty-six hundred one of the charter.
-
-   3. The term "business dealings" shall mean any transaction involving the sale, purchase, rental, disposition or exchange of any goods, services, or property, any license, permit, grant or benefit, and any performance of or litigation with respect to any of the foregoing, but shall not include any transaction involving a public servant's residence or any ministerial matter.
-
-   4. The term "city" shall mean the city of New York and shall include an agency of the city.
-
-   5. The term "conflicts of interest board" or "board" shall mean the conflicts of interest board appointed pursuant to section twenty-six hundred two of the New York city charter.;
-
-   6. The term "domestic partners" shall mean persons who have a registered domestic partnership, which shall include any partnership registered pursuant to section 3-240 of the administrative code of the city of New York.
-
-   7. The term "gift" shall mean anything of value for which a person pays nothing or less than fair market value and may be in the form of money, services, reduced interest on a loan, travel, travel reimbursement, entertainment, hospitality, thing, promise, or in any other form. "Gift" shall not include reimbursements.
-
-   8. The term "income" shall include, but not be limited to, salary from government employment, income from other compensated employment whether public or private, directorships and other fiduciary or advisory positions, contractual arrangements, teaching income, partnership income, lecture fees, consultant fees, bank and bond interest, dividends, income derived from a trust, real estate rents, and recognized gains from the sale or exchange of real or other property.
-
-   9. The term "independent body" shall mean any organization or group of voters which nominates a candidate or candidates for office to be voted for at an election, and which is not a political party as defined in paragraph twelve* of this subdivision.
-
-* Editor's note: should be "thirteen".
-
-   10. The terms "local authority," "local public authority" or "city public authority" shall be given the same meaning as the term "local authority" is given in subdivision two of section two of the public authorities law and shall include only such entities that have their primary office in the city of New York.
-
-   11. The term "local political party official" shall mean:
-
-      (a) any chair of a county committee elected pursuant to section 2-112 of the election law, or his or her successor in office, who received compensation or expenses, or both, from constituted committee or political committee funds, or both, during the reporting period aggregating thirty thousand dollars or more;
-
-      (b) that person (usually designated by the rules of a county committee as the "county leader" or "chair of the executive committee") by whatever title designated, who pursuant to the rules of a county committee or in actual practice, possesses or performs any or all of the following duties or roles, provided that such person received compensation or expenses, or both, from constituted committee or political committee funds, or both, during the reporting period aggregating thirty thousand dollars or more:
-
-         (1) the principal political, executive and administrative officer of the county committee;
-
-         (2) the power of general management over the affairs of the county committee;
-
-         (3) the power to exercise the powers of the chair of the county committee as provided for in the rules of the county committee;
-
-         (4) the power to preside at all meetings of the county executive committee if such a committee is created by the rules of the county committee or exists de facto, or any other committee or subcommittee of the county committee vested by such rules with or having de facto the power of general management over the affairs of the county committee at times when the county committee is not in actual session;
-
-         (5) the power to call a meeting of the county committee or of any committee or subcommittee vested with the rights, powers, duties or privileges of the county committee pursuant to the rules of the county committee, for the purpose of filling an office at a special election in accordance with section 6-114 of the election law, for the purpose of filling a vacancy in accordance with section 6-116 of such law or for the purpose of filling a vacancy or vacancies in the county committee which exist by reason of an increase in the number of election districts within the county occasioned by a change of the boundaries of one or more election districts, taking effect after the election of its members, or for the purpose of determining the districts that the elected members shall represent until the next election at which such members of such committee are elected; provided, however, that in no event shall such power encompass the power of a chair of an assembly district committee or other district committee smaller than a county and created by the rules of the county committee, to call a meeting of such district committee for such purpose;
-
-         (6) the power to direct the treasurer of the party to expend funds of the county committee; or
-
-         (7) the power to procure from one or more bank accounts of the county committee the necessary funds to defray the expenses of the county committee. The terms "constituted committee" and "political committee" as used in this subparagraph shall have the same meanings as those contained in section 14-100 of the election law.
-
-   12. The term "policymaking position" shall mean the position held by a person charged with "substantial policy discretion" as referenced in paragraphs twelve and fifteen of subdivision b of section twenty-six hundred four of the New York city charter and as defined by rule of the conflicts of interest board.
-
-   13. The term "political party" shall mean any political organization which at the last preceding election for governor polled at least fifty thousand votes for its candidate for governor.
-
-   14. The term "political organization" shall mean any political party as defined in paragraph thirteen of this subdivision, or independent body, as defined in paragraph nine of this subdivision, or any organization that is affiliated with or a subsidiary of a party or independent body.
-
-   15. The term "reimbursements" shall mean any travel-related expenses provided by non-governmental sources, whether directly or as repayment, for activities related to the reporting person's official duties, such as speaking engagements, conferences, or fact-finding events, but shall not include gifts.
-
-   16. The term "relative" shall mean the spouse, domestic partner, child, stepchild, brother, sister, parent, or stepparent of the person reporting, or any person whom the person reporting claimed as a dependent on his or her most recently filed personal income tax return, and each such relative's spouse or domestic partner.
-
-   17. The term "securities" shall mean bonds, mortgages, notes, obligations, warrants and stocks of any class, investment interests in limited or general partnerships and such other evidences of indebtedness and certificates of interest as are usually referred to as securities.
-
-   18. The terms "state agency" and "local agency" shall be given the same meanings as such terms are given in section eight hundred ten of the general municipal law.
-
-   19. The term "unemancipated child" shall mean any son, daughter, stepson or stepdaughter who is under age eighteen, unmarried and living in the household of the person reporting at the time the person files his or her annual disclosure report, and shall also include any son or daughter of the spouse or domestic partner of such person who is under age eighteen, unmarried and living in the household of the person reporting at the time the person files his or her annual disclosure report.
-
-b. Persons required to file an annual disclosure report. The following persons shall file with the conflicts of interest board an annual disclosure report, in such form as the board shall determine, disclosing certain financial interests as hereinafter provided. Reports shall, except as otherwise provided by the board, be filed electronically, in such form as the board may determine.
-
-   1. Elected and political party officials.
-
-      (a) Each elected officer described in sections four, twenty-four, twenty-five, eighty-one, ninety-one and eleven hundred twenty-five of the New York city charter, and each local political party official described in paragraph eleven of subdivision a of this section, shall file such report not later than such date designated by the conflicts of interest board each year.
-
-      (b) A local political party official required to file a report pursuant to subparagraph (a) of this paragraph who is also subject to the financial disclosure filing requirements of subdivision two of section seventy-three-a of the public officers law may satisfy the requirements of paragraph one by filing with the conflicts of interest board a copy of the statement filed pursuant to section seventy-three-a of the public officers law, on or before the filing deadline provided in such section seventy-three-a, notwithstanding the filing deadline otherwise imposed by paragraph one of this subdivision.
-
-   2. Candidates for public office.
-
-      (a) Each person, other than any person described in paragraph one, who has declared his or her intention to seek a designation or nomination for election to an office described in paragraph one of this subdivision and who has filed papers or petitions for a designation or nomination for election, or on whose behalf a certification of nomination or designating or independent nominating petition has been filed which has not been declined, for an office described in paragraph one shall file such report within 25 days after the last day for filing his or her designating or independent nominating petitions pursuant to the election law, provided that the board shall establish by rule the dates, not to exceed 31 days prior to the relevant payment date, by which a person who intends to seek payment on the payment dates of February 15, March 15, or April 15 shall file such report, and further provided that a person who has declared his or her intention to seek a designation or nomination for election to an office described in paragraph one of this subdivision and who intends to seek a payment of public funds on December 15 in the year preceding a covered election or January 15 in the year of a covered election, pursuant to subdivision 4 of section 3-705, shall file a report no later than November 1 of the year preceding such covered election, with such report covering a period of the first nine months of the calendar year preceding such covered election. Any person filing a report covering the first nine months of a year preceding a covered election shall file a report for the entire calendar year preceding a covered election by January 30 in the year of such covered election.
-
-      (b) Each person, other than any person described in paragraph one, who was a write-in candidate at the primary election for an office described in paragraph one of subdivision b of this section and whose name is thereafter entered in the nomination book at the board of elections, shall file such report within 25 days after such primary election.
-
-      (c) Each person, other than any person described in paragraph one, who has been designated to fill a vacancy in a designation or nomination for an office described in paragraph one of subdivision b of this section shall file such report within 20 days after a certificate designating such person to fill such vacancy is filed with the board of elections, or within five days before the election for which the certificate is filed, whichever is earlier.
-
-      (d) The conflicts of interest board shall obtain from the board of elections lists of all candidates for the elected positions set forth in paragraph one of subdivision b of this section, and from such lists, shall determine and publish lists of those candidates who have not, within ten days after the required date for filing such reports, filed the reports required by this section.
-
-   3. (a)    The following categories of persons who had such status during the preceding calendar year or up until the date of filing their annual disclosure report shall be required to file a report not later than the date designated by the conflicts of interest board each year:
-
-         (1) Each agency head, deputy agency head, assistant agency head, and member of any board or commission who on the date designated by the board for filing holds a policymaking position, as defined by rule of the board and as annually determined by the head of his or her agency, subject to review by the board;
-
-         (2) Each officer or employee of the city in the mayor's office, the city council, a district attorney's office, the office of the special narcotics prosecutor, or any other agency that does not employ M-level mayor's management plan indicators for its managers, whose responsibilities on the date designated by the board for filing involve the independent exercise of managerial or policymaking functions or who holds a policymaking position on such date, as defined by rule of the board and as annually determined by the appointing authority of his or her agency, subject to review by the board;
-
-         (3) Each officer or employee of the city, other than an officer or employee of the city in the mayor's office, the city council, a district attorney's office or the special narcotics prosecutor's office, who, on the date designated by the board for filing, is paid in accordance with the mayor's management pay plan at level M4 or higher, or who holds a policymaking position on such date, as defined by rule of the board and as annually determined by the head of his or her agency, subject to review by the board;
-
-         (4) Each officer or employee of the city whose duties at any time during the preceding calendar year involved the negotiation, authorization or approval of contracts, leases, franchises, revocable consents, concessions and applications for zoning changes, variances and special permits, as defined by rule of the board and as annually determined by his or her agency head, subject to review by the board.
-
-         (5) Each assessor required to file a report solely by reason of section three hundred thirty-six of the real property tax law.
-
-         (6) Each of the following members, officers and employees of city public authorities:
-
-            (i) Each member of the authority;
-
-            (ii) Each head, deputy head or assistant head of the authority;
-
-            (iii) Each officer and employee of the authority who on the date designated by the board for filing holds a policymaking position, as defined by rule of the board and as annually determined by the head of his or her authority, subject to review by the board; and
-
-            (iv) Each officer or employee of the authority whose duties at any time during the preceding calendar year involved the negotiation, authorization or approval of contracts, leases, franchises, revocable consents, concessions and applications for zoning changes, variances and special permits, as defined by rule of the conflicts of interest board and as annually determined by the head of his or her authority, subject to review by the board.
-
-         (7) Any person required by New York state law to file an annual disclosure report with the conflicts of interest board.
-
-      (b) Separation from service:
-
-         (1) Each person described in this paragraph shall, following separation from service, file such report for the portion of the last calendar year in which he or she served in his or her position within sixty days of his or her separation from service or on or before the date designated by the conflicts of interest board for filing pursuant to subparagraph (a) of this paragraph, whichever is earlier, if such person met the criteria of this subparagraph on his or her last day of service. Each such person who leaves service prior to the date designated by the board for filing pursuant to subparagraph (a) of this paragraph shall also file a report for the previous calendar year within sixty days of his or her separation from service or on or before such date designated by the board, whichever is earlier.
-
-         (2) Each such person who is terminating or separating from service shall not receive his or her final paycheck, and/or any lump sum payment to which he or she may be entitled, until such person has complied with the requirements of this section.
-
-         (3) Each elected officer and each local political party official described in paragraph eleven of subdivision a of this section shall, after leaving office, file such report for the previous calendar year, if such officer or local political party official has not previously filed such report, and shall file such report for the portion of the last calendar year in which he or she served in office, within sixty days of his or her last day in office or on or before the date designated by the board for filing pursuant to subparagraph (a) of paragraph one of this subdivision, whichever is earlier.
-
-c. Procedures involving the filing of annual disclosure reports.
-
-   1. Each agency head or head of a city public authority shall file with the conflicts of interest board, prior to the date required for the filing of reports, a list of persons obligated to report pursuant to this section.
-
-   2. Each agency head or head of a city public authority shall determine, subject to review by the conflicts of interest board, which persons within the agency or city public authority occupy positions that are described in clauses three and four of subparagraph (a) of paragraph three of subdivision b of this section, and shall, prior to the date on which the filing of the report is required, inform such employees of their obligation to report. The conflicts of interest board shall promulgate rules establishing procedures whereby any employee may seek review of the agency's or city public authority's determination that he or she is required to report.
-
-   3. The speaker of the council, each district attorney and the special narcotics prosecutor shall determine, subject to review by the conflicts of interest board, which persons on their staff occupy positions that are described in clause two of subparagraph (a) of paragraph three of subdivision b of this section, and shall, prior to the date required for the filing of the reports, inform such employees of their obligation to report.
-
-   4. The conflicts of interest board shall promulgate rules establishing procedures whereby a person required to file an annual disclosure report may request an additional period of time within which to file such report, due to justifiable cause or undue hardship. Such rules shall include, but not be limited to, the establishment of a date beyond which in all cases of justifiable cause or undue hardship no further extension of time will be granted.
-
-   5. Any amendments and changes to an annual disclosure report made after its filing shall be made on a form to be prescribed by the conflicts of interest board. Amendments shall be made only by the person who originally filed such report.
-
-d. Information to be reported.
-
-   1. Officers and employees of the city; members of city boards and commissions entitled to compensation; candidates for public office; elected and political party officials. The report filed by officers and employees of the city, members of city boards and commissions entitled to compensation, candidates for public office, elected officials, political party officials, and any other person required by state law to file a report other than a person described by paragraph three or four of this subdivision, shall contain the information required by this paragraph on such form as the board shall prescribe. For purposes of filing an annual disclosure report, members of the New York city housing development corporation shall be deemed to be members of a city board or commission entitled to compensation.
-
-      (a) List the name of the person reporting; his or her title or position; the entity by which he or she is employed or from which he or she receives compensation; his or her office address and telephone number; list the marital status of the person reporting, and if married, list the spouse's full name including maiden name where applicable; indicate whether the person is a member of a domestic partnership, and if so, list the partner's full name; list the names of all unemancipated children.
-
-      (b) List any office, trusteeship, directorship, partnership, or position of any nature including honorary positions, whether compensated or not, held by the person reporting or his or her spouse or domestic partner or unemancipated child with any firm, corporation, association, partnership, or other organization other than the state of New York. Do not list membership positions. If the listed entity was licensed or regulated by any state or local agency, or engaged in business dealings with, or had matters other than ministerial matters before, any state or local agency, list the name of such agency.
-
-      (c) (1)    List the name, address and description of any occupation, trade, business, profession or employment, other than the employment listed pursuant to paragraph one of this subdivision, engaged in by the person reporting. If such employer or business was licensed or regulated by any state or local agency, or engaged in business dealings with, or matters other than ministerial matters before, any state or local agency, list the name of any such agency.
-
-         (2) If the spouse, domestic partner or unemancipated child of the person reporting was engaged in any occupation, employment, trade, business or profession which activity was licensed or regulated by any state or local agency, or engaged in business dealings with, or had matters other than ministerial matters before, any state or local agency, list the name, address and description of such occupation, employment, trade, business or profession and the name of any such agency.
-
-      (d) List any positions the person reporting held as an officer of any political party or political organization, as a member of any political party committee, or as a political party district leader.
-
-      (e) If the person reporting practices law, is licensed by the department of state as a real estate broker or agent or practices a profession licensed by the state department of education, give a general description of the principal subject areas of matters undertaken by such person. If the person reporting practices with a firm or corporation of which he or she is a partner or shareholder, give a general description of principal subject areas of matters undertaken by such firm or corporation. Do not list the name of the individual clients, customers or patients.
-
-      (f) (1)    Describe the terms of, and the parties to, any agreement providing for future payments or benefits to the person reporting by a prior or current employer other than the city of New York. Such description of an agreement shall include interests in or contributions to a pension fund, profit-sharing plan, life or health insurance, buy-out agreements or severance payments, etc.
-
-         (2) Describe the terms of, and the parties to, any contract, promise or agreement between the person reporting and any person, firm or corporation with respect to the future employment of such reporting person.
-
-      (g) List the nature and amount of any income of one thousand dollars or more from each source derived during the preceding calendar year, to the person reporting or his or her spouse or domestic partner. Income from a business or profession and real estate rents shall be reported with the source identified by the building address in the case of real estate rents and otherwise by the name of the entity and not by the name of the individual customers, clients or tenants, with the aggregate net income before taxes for each building address or entity. The receipt of maintenance received in connection with a matrimonial action, alimony and child support payments shall not be listed.
-
-      (h) List the source of each of the following items received or accrued during the preceding calendar year by the person reporting:
-
-         (1) Any deferred income to be paid following the close of the calendar year for which this disclosure statement is filed, other than any source of income otherwise disclosed pursuant to subparagraph (a) of paragraph nine* of this subdivision, of one thousand dollars or more from each source. Deferred income derived from the practice of a profession shall be listed in the aggregate and shall be identified as to the source, including the name of the firm, corporation, partnership or association through which the income was derived, but shall not include individual clients' identities.
-
-* Editor's note: should be "subparagraph (1) of paragraph (i)".
-
-         (2) Reimbursement to the person reporting or his or her spouse or domestic partner, for expenditures, excluding campaign expenditures and expenditures in connection with official duties reimbursed by the city, of one thousand dollars or more in each instance.
-
-         (3) Honoraria received by the person reporting or his or her spouse or domestic partner from a single source in the aggregate amount of one thousand dollars or more.
-
-         (4) Any gift, its value and nature, from any single source received by the person reporting, his or her spouse or domestic partner or unemancipated child, during the preceding calendar year, excluding gifts from a relative, except as otherwise provided under the election law covering campaign contributions. Gifts in the aggregate amount or value of less than one thousand dollars from any single source shall not be reported where, from the beginning of the reporting period until the date the report is filed, the donor engaged in no business dealings with the city. Gifts in the aggregate amount or value of less than fifty dollars from any single source shall not be reported. The value of separate gifts from the same or affiliated donors during the reporting period shall be aggregated.
-
-      (i) (1) List the identity and value, if reasonably ascertainable, of each interest in a trust, estate or beneficial interest held by the person reporting or his or her spouse or domestic partner, including but not limited to (1) retirement plans (other than retirement plans of the state of New York or city of New York) and (2) deferred compensation plans established in accordance with the internal revenue code, where the person reporting or his or her spouse or domestic partner held a beneficial interest of one thousand dollars or more during the preceding calendar year. Do not report interests in an estate of a relative or interests in a trust or other beneficial interest established by or for a relative or by or for the estate of a relative.
-
-         (2) List each assignment of income of one thousand dollars or more, and each transfer other than to a relative during the preceding calendar year for less than fair consideration of an interest of one thousand dollars or more, in a trust, estate, or other beneficial interest, securities or real property, by the person reporting, which would otherwise be required to be reported herein and is not or has not been reported.
-
-      (j) List any interest of one thousand dollars or more, excluding bonds and notes, held by the person reporting, his or her spouse or domestic partner or the reporting person's unemancipated child, or partnership of which any such person is a member, or corporation, ten per centum or more of the stock of which is owned or controlled by any such person, whether vested or contingent, in any contract made or executed by a state or local agency. Include the name of the entity which holds such interest and the relationship of the person reporting, or his or her spouse or domestic partner or unemancipated child, to such entity and the interest in such contract. Do not list any interest in any such contract on which final payment has been made and all obligations under the contract, except for guarantees and warranties, have been performed, provided, however, that such an interest shall be listed if there has been an ongoing dispute during the calendar year for which this statement is filed with respect to any such guarantees or warranties. Do not list any interest in a contract made or executed by a state agency after public notice and pursuant to a process for competitive bidding or a process for competitive requests for proposals.
-
-      (k) List the name, principal address and general description or the nature of the business activity of any entity in which the person reporting or his or her spouse or domestic partner or unemancipated child had an investment of one thousand dollars or more, excluding investments in securities and interests in real property.
-
-      (l) List the type and market value of securities held by the person reporting or his or her spouse or domestic partner or unemancipated child from each issuing entity, valued at one thousand dollars or more at the close of the preceding calendar year, including the name of the issuing entity, exclusive of securities held by the person reporting issued by a professional corporation. Whenever an interest in securities exists through a beneficial interest in a trust, the securities held in such trust shall be listed only if the person reporting has knowledge thereof, except where the person reporting or his or her spouse or domestic partner has transferred assets to such trust for his or her benefit; in that event the securities shall be listed unless they are not ascertainable by the person reporting because the trustee is under an obligation or has been instructed in writing not to disclose the contents of the trust to the person reporting. Securities of which the person reporting or his or her spouse or domestic partner is the owner of record but in which he or she has no beneficial interest shall not be listed. Where the person or his or her spouse or domestic partner holds more than five per centum of the stock of a publicly held corporation or more than ten per centum of a privately held corporation, percentage of ownership shall be listed. List any securities owned for investment purposes by a corporation more than fifty per centum of the stock of which is owned or controlled by the person reporting or his or her spouse or domestic partner. The market value for such securities shall be reported only if reasonably ascertainable and shall not be reported if the security is an interest in a general partnership that was listed in subparagraph e of this subdivision or if the security is corporate stock, not publicly traded, in a trade or business of the reporting person or his or her spouse or domestic partner.
-
-      (m) List the location, size, general nature, acquisition date, market value and percentage of ownership of any real property in which any vested or contingent interest of one thousand dollars or more was held by the person reporting or his or her spouse or domestic partner or unemancipated child during the preceding calendar year. List real property owned for investment purposes by a corporation more than fifty per centum of the stock of which is owned or controlled by the person reporting or his or her spouse or domestic partner. Do not list any real property which is the primary or secondary personal residence of the reporting person or his or her spouse or domestic partner, except where there is a co-owner who is other than a relative.
-
-      (n) List the identity of each note or account receivable or other outstanding loan in the amount of one thousand dollars or more held by the person reporting or his or her spouse or domestic partner during the preceding calendar year, including debts secured by a mortgage, and other secured and unsecured debts. List the name of the debtor, type of obligation, date due and the nature of the collateral, if any, securing payment for each such debt. Debts, notes and accounts receivable owed to the person reporting or his or her spouse or domestic partner by a relative shall not be reported.
-
-      (o) List each creditor to whom the person reporting or his or her spouse or domestic partner was indebted, for a period of ninety consecutive days or more during the preceding calendar year, and each such creditor to whom any debt was owed on the date of filing, in an amount of five thousand dollars or more. Debts to be listed include real estate mortgages and other secured and unsecured loans. If any reportable liability has been guaranteed by any third person, list the name of such guarantor. Do not list liabilities incurred by, or guarantees made by, the person reporting or his or her spouse or domestic partner or by any proprietorship, partnership or corporation in which such person has an interest, when incurred or made in the ordinary course of trade, business or professional practice of such person. Include the name of the creditor and any collateral pledged by such individual to secure payment of any such liability. Do not list any liability to a relative or any obligation to pay maintenance in connection with a matrimonial action, alimony or child support payments. Revolving charge account information shall only be set forth if the liability thereon is in excess of five thousand dollars for a period of ninety consecutive days or more during the preceding calendar year, or if the liability thereon is in excess of five thousand dollars as of the time of filing. Any loan issued in the ordinary course of business by a financial institution to finance educational costs, the cost of home purchase or improvements for a primary or secondary residence, or purchase of a personally owned motor vehicle, household furniture or appliances shall be excluded.
-
-      (p) The name, title, and position of any relative of the person reporting who holds a position, whether paid or unpaid, with the city; the city agency with which such position is held; and the relationship between such relative and the person reporting.
-
-      (q) Whenever a "value" or "amount" is required to be reported pursuant to this section, such value or amount shall be reported as being within one of the following categories: (a) at least one thousand dollars but less than five thousand dollars; (b) at least five thousand dollars but less than thirty-two thousand dollars, or such other amount as the conflicts of interest board shall set pursuant to subdivision sixteen of section twenty-six hundred one and subdivision a of section twenty-six hundred three of the charter; (c) at least thirty-two thousand dollars, or such other amount as the conflicts of interest board shall set pursuant to subdivision sixteen of section twenty-six hundred one and subdivision a of section twenty-six hundred three of the charter, but less than sixty thousand dollars; (d) at least sixty thousand dollars but less than one hundred thousand dollars; (e) at least one hundred thousand dollars but less than two hundred fifty thousand dollars; (f) at least two hundred fifty thousand dollars but less than five hundred thousand dollars; and (g) five hundred thousand dollars or more.
-
-   2. Uncompensated members of boards and commissions of the city. The report required to be filed by a person who is a member of a city board or commission and is not entitled to compensation for such service shall contain the information required by this paragraph on such form as the board shall prescribe. For purposes of filing an annual disclosure report, members of the New York city housing development corporation shall be deemed to be compensated members of a city board or commission who are required to file an annual disclosure report in accordance with paragraph one of subdivision d of this section.
-
-      (a) The name of the person reporting; each of his or her city board, commission or agency titles and positions; his or her city employee identification number, if any; his or her office address, email address, if any, and telephone number; his or her home address, personal email address, if any, and home telephone number; whether he or she has a spouse or domestic partner and, if so, the full name of such spouse or domestic partner; and the names of all unemancipated children.
-
-      (b) The location, size, and general nature of any residential, commercial, retail or industrial real property that is owned by, rented to or rented by the person reporting, or his or her spouse or domestic partner or unemancipated child. Only real property that is within the city of New York shall be reported. Residential property in which the person reporting or a relative resides shall not be reported. For other residential property, only the borough, city (if outside New York city), town, or village shall be reported.
-
-      (c) The name of each employer or business, other than the city of New York, from which the person reporting or his or her spouse or domestic partner or unemancipated child received, during the reporting period, compensation for services performed or for goods sold or produced or as a member, officer, director, or employee. The name of individual clients, customers or patients shall not be reported, nor shall any business in which the reporting person or his or her spouse or domestic partner or unemancipated child was an investor only. The nature of the business shall also be identified, as well as the relationship between the reporting person or his or her spouse, domestic partner, or unemancipated child and the employer or business (owner, partner, officer, director, member, employee, and/or shareholder). An employer or business shall not be reported where, from the beginning of the reporting period until the date the report is filed, the employer or business engaged in no business dealings with the agency of which the person reporting is a board or commission member.
-
-      (d) The name of any entity in which the person reporting or his or her spouse or domestic partner or unemancipated child has an interest that exceeds five percent of the firm or an investment of ten thousand dollars, whichever is less. The nature of the business and the type of business shall also be identified. An entity shall not be reported where, from the beginning of the reporting period until the date the report is filed, the entity engaged in no business dealings with the agency of which the person reporting is a board or commission member.
-
-      (e) Gifts having a value of fifty dollars or more received by the person reporting or his or her spouse or domestic partner or unemancipated child during the reporting period, including the recipient of the gift, the donor of the gift, the relationship between the recipient and the donor, and the nature of the gift. The value of separate gifts from the same or affiliated donors during the reporting period shall be aggregated. A gift shall not be reported where (i) the gift is from a relative; or (ii) from the beginning of the reporting period until the date the report is filed, the donor engaged in no business dealings with the agency of which the person reporting is a board or commission member; or (iii) the gift consists of attendance, including meals and refreshments, at a meeting, public affair, function, or occasion and complies with the rules of the board governing the acceptance of such attendance, meals, or refreshments.
-
-   3. Members, officers and employees of city public authorities. The report required to be filed by a person pursuant to subdivision three of section twenty-eight hundred twenty-five of the public authorities law shall contain the following information:
-
-      (a) The name of the person reporting; the name of the city public authority of which the person reporting is a board member, officer or employee; his or her title and position with such entity; any city title and position that he or she holds; any city agency of which the person reporting is a member, officer or employee; his or her city employee identification number, if any; his or her office address, email address, if any, and telephone number; his or her home address, personal email address, if any, and home telephone number; whether he or she has a spouse or domestic partner and, if so, the full name of such spouse or domestic partner; and the names of all unemancipated children.
-
-      (b) The location, size, and general nature of any residential, commercial, retail or industrial real property that is owned by, rented to or rented by the person reporting, or his or her spouse or domestic partner or unemancipated child. Only real property that is within the city of New York shall be reported. Residential property in which the person reporting or a relative resides shall not be reported. For other residential property, only the borough, city (if outside New York city), town, or village shall be reported.
-
-      (c) The name of each employer or business, other than the city of New York, from which the person reporting or his or her spouse or domestic partner or unemancipated child received, during the reporting period, compensation for services performed or for goods sold or produced or as a member, officer, director, or employee. The name of individual clients, customers or patients shall not be reported, nor shall any business in which the reporting person or his or her spouse or domestic partner or unemancipated child was an investor only. The nature of the business shall also be identified, as well as the relationship between the reporting person or his or her spouse, domestic partner, or unemancipated child and the employer or business (owner, partner, officer, director, member, employee, and/or shareholder). An employer or business shall not be reported where, from the beginning of the reporting period until the date the report is filed, the employer or business engaged in no business dealings with the local public authority of which the person reporting is a board member, officer or employee.
-
-      (d) The name of any entity in which the person reporting or his or her spouse or domestic partner or unemancipated child has an interest that exceeds five percent of the firm or an investment of ten thousand dollars, whichever is less. The nature of the business and the type of business shall also be identified. An entity shall not be reported where, from the beginning of the reporting period until the date the report is filed, the entity engaged in no business dealings with the local public authority of which the person reporting is a board member, officer or employee.
-
-      (e) Gifts having a value of fifty dollars or more received by the person reporting or his or her spouse or domestic partner or unemancipated child during the reporting period, including the recipient of the gift, the donor of the gift, the relationship between the recipient and the donor, and the nature of the gift. The value of separate gifts from the same or affiliated donors during the reporting period shall be aggregated.
-
-   A gift shall not be reported where (i) the gift is from a relative; or (ii) from the beginning of the reporting period until the date the report is filed, the donor engaged in no business dealings with the local public authority of which the person reporting is a board member, officer or employee; or (iii) the gift consists of attendance, including meals and refreshments, at a meeting, public affair, function, or occasion and complies with the rules of the board governing the acceptance of such attendance, meals, or refreshments.
-
-   4. Tax assessors. The report required to be filed by a person pursuant to section three hundred thirty-six of the real property tax law shall be on the form prescribed by such law.
-
-   5. Filers in multiple filing categories. If a person is required to file an annual disclosure report by more than one paragraph of subdivision b of this section, he or she shall file the most comprehensive report of those required by paragraphs one through four of this subdivision. The most comprehensive report shall be deemed to be the report required by paragraph one of this subdivision; the second most comprehensive report shall be deemed to be the report required by paragraph four of this subdivision; and the third most comprehensive report shall be deemed to be the report required by paragraphs two and three of this subdivision.
-
-e. Information filed in reports required by this section shall be maintained by the conflicts of interest board and shall be made available for public inspection, upon written request on such form as the board shall prescribe, except that information filed in reports required by this section by each elected officer described in sections four, twenty-four, twenty-five, eighty-one, ninety-one and eleven hundred twenty-five of the New York city charter shall be made available for public inspection on the board's website without written request. The availability of forms for public inspection pursuant to this subdivision is subject to the following provisions:
-
-   1. Privacy, safety and security requests.
-
-      (a) Any person required to file a report pursuant to this section may, at the time the report is filed or at any time thereafter, except when a request for inspection is pending, submit a request to the conflicts of interest board, in such form as the board shall require, to withhold any item disclosed therein from public inspection on the ground that the inspection of such item by the public would constitute an unwarranted invasion of his or her privacy or a risk to the safety or security of any person. Such request shall be in writing and shall be in such form as the conflicts of interest board shall prescribe and shall set forth the reason such person believes the item should not be disclosed. During the time for evaluation of such a request, such report shall not be available for public inspection.
-
-      (b) The conflicts of interest board shall evaluate such request and any such item shall be withheld from public inspection upon a finding by the board that the inspection of such item by the public would constitute an unwarranted invasion of privacy or a risk to the safety or security of any person. In making this determination, the board shall consider the following factors:
-
-         (1) whether the item is of a highly personal nature;
-
-         (2) whether the item in any way relates to the duties of the positions held by such person, including whether there are security or safety issues relating to such duties;
-
-         (3) whether the disclosure poses a risk to the security or safety of the reporting person or any other individual;
-
-         (4) whether the item involves an actual or potential conflict of interest.
-
-      (c) The conflicts of interest board shall provide a written notification of the board's determination to the person who requested that information be withheld from public inspection and shall not release the information subject to the request until at least ten days after mailing of the notification. Such notification shall advise the person of his or her right to seek review of such determination by the supreme court of the state of New York and that the conflicts of interest board will not release the information subject to the request until ten days after the mailing of the notification.
-
-      (d) Any information regarding any financial interests of the spouse, domestic partner or an unemancipated child of a person filing in which the person filing has no financial interest shall be withheld from public inspection, except the information disclosed pursuant to subparagraph (p) of paragraph one of subdivision d of this section, as an unwarranted invasion of privacy unless the conflicts of interest board determines that such information involves an actual or potential conflict of interest on the part of the person filing, subject to the factors set forth in subparagraph (b) of paragraph one of this subdivision.
-
-      (e) Whether or not a person required to file a report pursuant to this section has submitted a request for privacy, the conflicts of interest board may upon its own initiative grant privacy as to any information contained in such person's report upon a finding by the board that the release of such information would constitute a risk to the safety or security of any person.
-
-      (f) Where a person required to file a report pursuant to this section files an amendment to a previously submitted report, both the original submission and the amendment shall be available for public inspection, subject to the provisions of this subdivision.
-
-      (g) The conflicts of interest board shall establish procedures governing the withholding of information on the ground of privacy. Such procedures shall include provision for the person who filed the information to appear in person to set forth, or submit a written statement setting forth, the reasons why the information should be withheld from public inspection.
-
-   2. Requests to examine reports. Whenever pursuant to this section the conflicts of interest board produces a report for public inspection, the board shall notify the person who filed the report of the production and of the identity of the person to whom such report was produced, except that no such notification shall be required if the report is made available for public inspection on the board's website without written request or if the request to examine the report is made by the department of investigation or any governmental unit, or component thereof, which performs as one of its principal functions any activity pertaining to the enforcement of criminal laws, provided that such report is requested solely for a law enforcement function. Nothing in this section shall preclude the conflicts of interest board from disclosing any and all information in an annual disclosure report to the department of investigation or any other governmental unit, or component thereof, which performs as one of its principal functions any activity pertaining to the enforcement of criminal laws, provided that such report is requested solely for a law enforcement function.
-
-f. Retention of reports. Reports filed pursuant to this section shall be retained by the conflicts of interest board for a period of two years following the termination of the public employment or service of the person who filed the report. In the case of candidates for office who have filed reports pursuant to this section and who were not elected, the reports shall be retained by the board for a period of two years following the day of an election on which the candidates were defeated. Notwithstanding the foregoing, the board, in consultation with the department of records and information services and the department of investigation, may establish by rule a different period or periods of retention of annual disclosure reports which takes into account the need for efficient records management and the need to retain such reports for a reasonable period for investigatory and other purposes. Such reports shall thereafter be destroyed by the board unless a request for public disclosure of an item contained in such report is pending. In lieu of the destruction of such reports, the board, in its discretion, may establish procedures providing for their return to the persons who filed them.
-
-g. Penalties.
-
-   1. Any person required to file a report pursuant to this section who has not so filed at the end of one week after the date required for filing shall be subject to a fine of not less than two hundred fifty dollars or more than ten thousand dollars. Factors to be considered by the conflicts of interest board in determining the amount of the fine shall include but not be limited to the person's failure in prior years to file a report in a timely manner, and the length of the delay in filing. In addition, within two months after the date required for filing, the conflicts of interest board shall inform the appropriate agency and the commissioner of investigation of the failure to file of any such person.
-
-   2. Any intentional violation of the provisions of this section, including but not limited to failure to file, failure to include assets or liabilities, and misstatement of assets or liabilities, shall constitute a misdemeanor punishable by imprisonment for not more than one year or by a fine not to exceed one thousand dollars, or by both, and shall constitute grounds for imposition of disciplinary penalties, including removal from office in the manner provided by law. In addition, any intentional violation of the provisions of this section may subject the person reporting to assessment by the conflicts of interest board of a civil penalty in an amount not to exceed ten thousand dollars.
-
-   3. Any intentional and willful unlawful disclosure of confidential information that is contained in a report filed in accordance with this section, by a city officer or employee or by any other person who has obtained access to such a report or confidential information contained therein, shall constitute a misdemeanor punishable by imprisonment for not more than one year or a fine not to exceed one thousand dollars, or by both, and shall constitute grounds for imposition of disciplinary penalties, including removal from office or position in the manner provided by law.
-
-   4. The conflicts of interest board shall establish procedures governing the receipt of complaints alleging a violation of this section.
-
-
-
-
-
-
-
-
-*§ 12-112 Council; violations of law by members of.* ::
-
-
-Any member of the council, who shall vote for any appropriation unauthorized by law or in excess of the amount authorized by law, or for any illegal or injurious disposition of corporate property or rights, shall be guilty of a misdemeanor and liable to the punishment and penalties prescribed therefor; and every member voting in favor thereof shall be individually liable to refund the amounts to the city at the suit of any citizen and taxpayer.
-
-
-
-
-
-
-*§ 12-113 Protection of sources of information.* ::
-
-
-a. Definitions. For purposes of this section:
-
-   1. "Adverse personnel action" shall include dismissal, demotion, suspension, disciplinary action, negative performance evaluation, any action resulting in loss of staff, office space or equipment or other benefit, failure to appoint, failure to promote, or any transfer or assignment or failure to transfer or assign against the wishes of the affected officer or employee.
-
-   2. "Remedial action" means an appropriate action to restore the officer or employee to his or her former status, which may include one or more of the following:
-
-      (i) reinstatement of the officer or employee to a position the same as or comparable to the position the officer or employee held or would have held if not for the adverse personnel action, or, as appropriate, to an equivalent position;
-
-      (ii) reinstatement of full seniority rights;
-
-      (iii) payment of lost compensation; and
-
-      (iv) other measures necessary to address the effects of the adverse personnel action.
-
-   3. "Commissioner" shall mean the commissioner of investigation.
-
-   4. "Child" shall mean any person under the age of nineteen, or any person ages nineteen through twenty-one if such person receives instruction pursuant to an individualized education plan.
-
-   5. "Educational welfare" shall mean any aspect of a child's education or educational environment that significantly impacts upon such child's ability to receive appropriate instruction, as mandated by any relevant law, rule, regulation or sound educational practice.
-
-   6. "Superior officer" shall mean an agency head, deputy agency head or other person designated by the head of the agency to receive a report pursuant to this section, who is employed in the agency in which the conduct described in such report occurred.
-
-   7. "Contract" shall mean any written agreement, purchase order or instrument having a value in excess of one hundred thousand dollars pursuant to which a contracting agency is committed to expend or does expend funds in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing, and shall include a subcontract between a covered contractor and a covered subcontractor. Such term shall not include contracts or subcontracts resulting from emergency procurements or that are government-to-government procurements.
-
-   8. "Contracting agency" shall mean a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
-
-   9. "Covered contractor" shall mean a person or business entity who is a party or a proposed party to a contract with a contracting agency valued in excess of one hundred thousand dollars, and "covered subcontractor" shall mean a person or entity who is a party or a proposed party to a contract with a covered contractor valued in excess of one hundred thousand dollars.
-
-   10. "Officers or employees of an agency of the city" shall be deemed to include officers or employees of local development corporations or other not-for-profit corporations that are parties to contracts with contracting agencies and the governing boards of which include city officials acting in their official capacity or appointees of city officials. Such officers and employees shall not be deemed to be officers or employees of a covered contractor or covered subcontractor.
-
-b. 1. No officer or employee of an agency of the city shall take an adverse personnel action with respect to another officer or employee in retaliation for his or her making a report of information concerning conduct which he or she knows or reasonably believes to involve corruption, criminal activity, conflict of interest, gross mismanagement or abuse of authority by another city officer or employee, which concerns his or her office or employment, or by persons dealing with the city, which concerns their dealings with the city, (i) to the commissioner, or (ii) to a council member, the public advocate or the comptroller, who shall refer such report to the commissioner. For purposes of this subdivision, an agency of the city shall be deemed to include, but not be limited to, an agency the head or members of which are appointed by one or more city officers, and the offices of elected city officers.
-
-   2. No officer or employee of a covered contractor or covered subcontractor shall take an adverse personnel action with respect to another officer or employee of such contractor or subcontractor in retaliation for such officer or employee making a report of information concerning conduct which such officer or employee knows or reasonably believes to involve corruption, criminal activity, conflict of interest, gross mismanagement or abuse of authority by any officer or employee of such contractor or subcontractor, which concerns a contract with a contracting agency, (i) to the commissioner, (ii) to a council member, the public advocate or the comptroller, who shall refer such report to the commissioner, or (iii) to the city chief procurement officer, agency chief contracting officer, or agency head or commissioner of the contracting agency, who shall refer such report to the commissioner.
-
-   3. Every contract or subcontract in excess of one hundred thousand dollars shall contain a provision detailing the provisions of paragraph two of this subdivision and of paragraph two of subdivision e of this section.
-
-   4. Upon request, the commissioner, council member, public advocate or comptroller receiving the report of alleged adverse personnel action shall make reasonable efforts to protect the anonymity and confidentiality of the officer or employee making such report.
-
-   5. No officer or employee of an agency of the city shall take an adverse personnel action with respect to another officer or employee in retaliation for his or her making a report of information concerning conduct which he or she knows or reasonably believes to present a substantial and specific risk of harm to the health, safety or educational welfare of a child by another city officer or employee, which concerns his or her office or employment, or by persons dealing with the city, which concerns their dealings with the city, (i) to the commissioner, (ii) to a council member, the public advocate, the comptroller or the mayor, or (iii) to any superior officer.
-
-c. An officer or employee (i) of an agency of the city, or (ii) of a public agency or public entity subject to the jurisdiction of the commissioner pursuant to chapter thirty-four of the charter who believes that another officer or employee has taken an adverse personnel action in violation of subdivision b of this section may report such action to the commissioner.
-
-d. 1. Upon receipt of a report made pursuant to subdivision c of this section, the commissioner shall conduct an inquiry to determine whether retaliatory adverse personnel action has been taken.
-
-   2. Within fifteen days after receipt of an allegation pursuant to subdivision c of this section of a prohibited adverse personnel action, the commissioner shall provide written notice to the officer or employee making the allegation that the allegation has been received by the commissioner. Such notice shall include the name of the person in the department of investigation who shall serve as a contact with the officer or employee making the allegation.
-
-   3. Upon the completion of an investigation initiated under subdivision c of this section, the commissioner shall provide a written statement of the final determination to the officer or employee who complained of the retaliatory adverse personnel action. The statement shall include the commissioner's recommendations, if any, for remedial action, or shall state the commissioner has determined to dismiss the complaint and terminate the investigation.
-
-e. 1. Upon a determination that a retaliatory adverse personnel action has been taken with respect to an officer or employee of an agency of the city in violation of paragraph one or five of subdivision b of this section, the commissioner shall without undue delay report his or her findings and, if appropriate, recommendations to the head of the appropriate agency or entity, who (i) shall determine whether to take remedial action and (ii) shall report such determination to the commissioner in writing. Upon a determination that the agency or entity head has failed to take appropriate remedial action, the commissioner shall consult with the agency or entity head and afford the agency or entity head reasonable opportunity to take such action. If such action is not taken, the commissioner shall report his or her findings and the response of the agency or entity head (i) if the complainant was employed by an agency the head or members of which are appointed by the mayor, to the mayor, (ii) if the complainant was employed by a non-mayoral agency of the city, to the city officer or officers who appointed the agency head, or (iii) if the complainant was employed by a public agency or other public entity not covered by the preceding categories but subject to the jurisdiction of the commissioner pursuant to chapter thirty-four of the charter, to the officer or officers who appointed the head of the public agency or public entity, who shall take such action as is deemed appropriate.
-
-   2. Any officer or employee of a covered contractor or covered subcontractor who believes that he or she has been the subject of an adverse personnel action in violation of paragraph two of subdivision b shall be entitled to bring a cause of action against such covered contractor or covered subcontractor to recover all relief necessary to make him or her whole. Such relief may include but shall not be limited to: (i) an injunction to restrain continued retaliation, (ii) reinstatement to the position such employee would have had but for the retaliation or to an equivalent position, (iii) reinstatement of full fringe benefits and seniority rights, (iv) payment of two times back pay, plus interest, and (v) compensation for any special damages sustained as a result of the retaliation, including litigation costs and reasonable attorneys' fees. An officer or employee described in this paragraph may bring an action in any court of competent jurisdiction for such relief. An officer or employee who brings a cause of action pursuant to this paragraph shall notify the agency chief contracting officer or agency head or commissioner of the contracting agency of such action; provided, however, that failure to provide such notice shall not be a jurisdictional defect, and shall not be a defense to an action brought pursuant to this paragraph. This paragraph shall not be deemed to create a right of action against the city, any public agency or other public entity, or local development corporations or not-for-profit corporations the governing boards of which include city officials acting in their official capacity or appointees of city officials, nor shall any such public agency, entity or corporation be made a party to an action brought pursuant to this subdivision.
-
-f. Nothing in this section shall be construed to limit the rights of any officer or employee with regard to any administrative procedure or judicial review, nor shall anything in this section be construed to diminish or impair the rights of a public employee or employer under any law, rule, regulation or collective bargaining agreement or to prohibit any personnel action which otherwise would have been taken regardless of any report of information made pursuant to this section.
-
-g. Violation of this section may constitute cause for administrative penalties.
-
-h. The commissioner shall conduct ongoing public education efforts as necessary to inform employees and officers of covered agencies and contractors of their rights and responsibilities under this section.
-
-i. Not later than October thirty-first of each year, the commissioner shall prepare and forward to the mayor and the council a report on the complaints governed by this section during the preceding fiscal year. The report shall include, but not be limited to, the number of complaints received pursuant to this section, and the disposition of such complaints.
-
-
-
-
-
-
-*§ 12-114 Fees paid to city.* ::
-
-
-a. Every officer of the city government shall be paid a fixed salary and all fees, percentages or commissions or other money paid to such officer in his or her official capacity, shall be the property of the city. All sums so received, including sums received for licenses or permits, shall be paid over not later than the next succeeding business day after receipt thereof, except as otherwise provided by law, to the commissioner of finance without deduction.
-
-b. Each such officer who shall receive any fees, perquisites, commissions or percentages, or money paid to such officer in his or her official capacity, or any other money which should be paid over to the city, shall make a detailed return to the comptroller, under oath, and in such form as the comptroller shall prescribe, showing the amount of all such fees, commissions, percentages, perquisites and money received by him or her since the last preceding statement and return, and showing when, from whom and for what reason such money was received.
-
-c. The comptroller may require any such officer to make such statement and return to him or her, if it has not been made as herein provided, and he or she shall order the commissioner of finance to withhold the salary of such officers until such return is produced, and upon the production of said return the comptroller shall immediately issue a release to the commissioner of finance for the salary so withheld.
-
-d. This section shall not apply to city marshals.
-
-
-
-
-
-
-*§ 12-115 Civil rights protected.* ::
-
-
-Nothing in the code contained shall affect any rights given or secured by section fifteen of the civil rights law.
-
-
-
-
-
-
-*§ 12-116 Certificates of appointment.* ::
-
-
-Every person who shall be appointed or elected to any office in any agency shall receive a certificate of appointment, designating the term for which such person has been appointed or elected.
-
-
-
-
-
-
-*§ 12-117 Official oath.* ::
-
-
-Every person elected or appointed to any office in any agency of the city, shall within five days after notice of such election or appointment, take and subscribe, before the mayor, any judge of a court of record, the appointing officer or the city clerk, an oath or affirmation faithfully to perform the duties of his or her office. Such oath or affirmation shall be filed in the office of the city clerk.
-
-
-
-
-
-
-*§ 12-118 Appropriations for contesting office to be made for prevailing party only.* ::
-
-
-An appropriation or payment for the contesting of the office of mayor or any seat in the council or office in any department, or the office of any officer whose salary is paid from the city treasury, shall be made only to the prevailing party. Such appropriations or payment shall be made to the prevailing party only upon the written certificate of the corporation counsel and of the presiding justice of the appellate division of the first department of the supreme court, certifying who is the prevailing party, and the value of the services rendered in the case.
-
-
-
-
-
-
-*§ 12-119 Definitions.* ::
-
-
-As used in sections 12-120 and 12-121 of this subchapter:
-
-a. The word "residence" means domicile and the word "resident" means domiciliary.
-
-b. The term "city service" means service as an employee of the city or of any agency thereof other than service in a position which is exempted from municipal residence requirements pursuant to the public officers law or any other state law.
-
-
-
-
-
-
-*§ 12-120 Residency requirements.* ::
-
-
-a. Except as otherwise provided in section 12-121, any person who enters city service on or after September first nineteen hundred eighty-six (i) shall be a resident of the city on the date that he or she enters city service or shall establish city residence within ninety days after such date and (ii) shall thereafter maintain city residence as a condition of employment. Failure to establish or maintain city residence as required by this section shall constitute a forfeiture of employment; provided, however, that prior to dismissal for failure to establish or maintain city residence an employee shall be given notice of and the opportunity to contest the charge that his or her residence is outside the city.
-
-b. Notwithstanding subdivision a of this section, employees who have completed two years of city service shall be deemed to be in compliance with the residency requirements of this section if they are residents of Nassau, Westchester, Suffolk, Orange, Rockland or Putnam county; provided, however, that
-
-   (i) the mayor may require deputy mayors, heads of mayoral agencies as defined in section 385 of the charter, deputy commissioners, assistant commissioners and general counsels of such agencies to have completed more than two years of city service to be in compliance with the residency requirements of this section,
-
-   (ii) the speaker of the council may require the council's chief of staff, deputy chiefs of staff, general counsel and division directors to have completed more than two years of city service to be in compliance with the residency requirements of this section,
-
-   (iii) the comptroller may require the chief of staff, deputy comptrollers, assistant comptrollers and general counsel to have completed more than two years of city service to be in compliance with the residency requirements of this section,
-
-   (iv) the borough presidents may require their chiefs of staff, deputy borough presidents and general counsels to have completed more than two years of city service to be in compliance with the residency requirements of this section, and
-
-   (v) the public advocate may require the chief of staff, deputy advocates and general counsel to have completed more than two years of city service to be in compliance with the residency requirements of this section.
-
-
-
-
-
-
-*§ 12-121 Exceptions to residence requirements.* ::
-
-
-a. The commissioner of citywide administrative services on his or her own initiative or upon application of the head of an agency may certify that there is difficulty in the recruitment of personnel for a position and that to restrict recruitment for such position to persons who meet the residency requirements of section 12-120 based on their residence or their willingness to establish residence consistent with such requirements would not be in the public interest. Persons appointed to positions so certified by the commissioner shall not be required to establish or maintain residence consistent with the requirements of such section as a condition of employment while in service in that position. Each agency head may make application to the commissioner, in such form as the commissioner shall prescribe, for the certification of positions within the agency head's jurisdiction. The commissioner may certify such positions subject to such limitations and conditions as the commissioner may deem appropriate. Notwithstanding the foregoing provisions, positions in the city council may be so certified by the speaker of the city council. Copies of all certifications of the commissioner and the speaker shall be filed with the city clerk and shall be subject to annual review by the commissioner and speaker.
-
-b.    Residence in the city or Nassau, Westchester, Suffolk, Orange, Rockland or Putnam county shall not be required as a condition of employment for:
-
-   (1) persons appointed to the position of chaplain; or
-
-   (2) employees whose regular work site is outside the city; or
-
-   (3) employees who have performed functions at a regular work site outside the city, where the city has reduced or terminated, or is in the process of reducing or terminating, the direct performance by city employees of such functions at such site, and the city seeks to transfer, reassign, or appoint such employees to positions located within the city. This paragraph shall apply only where the commissioner of citywide administrative services finds that it is in the public interest to waive the residence requirement for reasons including, but not limited to, facilitating the operations of the affected agency or agencies or furthering the interests of employee relations.
-
-c. City residence shall not be required as a condition of employment for campus peace officers level I, level II and level III, as defined by subdivision twenty-seven of section 2.10 of the criminal procedure law, employed by the city university of New York before the effective date of this subdivision.
-
-
-
-
-
-
-*§ 12-122 Temporary transfer of employees.* ::
-
-
-Whenever the mayor shall determine that there is such an accumulation of work in any agency, the performance of which work will impose upon the regular employees thereof unreasonable and unwarranted burden, the mayor, upon application by the head of such agency, and with the consent of the commissioner of citywide administrative services, may assign to it for temporary employment, employees from any other agency, with the consent of the head thereof. Such transfer shall be for a limited period to be stated in the order of the mayor and may be extended if the mayor shall so determine. Such transfer shall not in any way affect the civil service standing, continuity of service, right to pension, grade or compensation of an employee so transferred.
-
-
-
-
-
-
-*§ 12-123 Authorizing leaves of absence with pay, for employees of the city to attend conventions, encampments, or parades.* ::
-
-
-The mayor is hereby empowered to authorize the head of any agency, in the mayor's discretion, to grant to an employee in any such agency, including per diem employees, a leave of absence with pay for the purpose of attending a convention, encampment or parade of any organization composed of veterans of the wars in which the United States has participated, or a convention of any firefighter's association or other organization composed of active or exempt volunteer firefighter, if such employee is a member of such organization or association, and does actually attend such convention, encampment or parade.
-
-
-
-
-
-
-*§ 12-124 Payment of salaries; exceptions.* ::
-
-
-The salary of every officer or employee paid out of the city treasury who is unable to devote full time to the performance of such person's regular duties by reason of his or her attendance as a delegate at a constitutional convention shall be paid, notwithstanding such person's inability to devote full time to his or her regular duties.
-
-
-
-
-
-
-*§ 12-124.1 Electronic pay stubs.* ::
-
-
-a. The pay stub of each city employee receiving direct deposit shall be made available to such employee in electronic format which shall be printable by such employee.
-
-b. Each such city employee shall have access to such electronic pay stub through a secure password-protected website, which can be accessed remotely from a computer terminal or kiosk with intranet and/or internet access in compliance with any local, state and federal laws, regulations and rules, including those dealing with privacy protection. Every city agency shall make reasonable accommodations to provide computer terminals and/or kiosks with intranet and/or internet access for city employees employed by such agency to access such employee's electronic pay stub and shall permit said employees to access such pay stub as an incidental use.
-
-c. Any city employee who does not wish to receive an electronic pay stub pursuant to subdivision a of this section may request that a printed paper copy of such employee's pay stub be prepared and forwarded to such employee.
-
-d. No later than September 1, 2008, the executive director of payroll administration, in collaboration with the commissioner of citywide administrative services, or his or her respective designee, shall establish and report to the council a plan regarding staggered implementation cycles for all city agencies to comply with the provisions of this local law by December 31, 2009. Such plan shall include, but not be limited to, a phase-in period during which city employees receive their respective pay stubs in both electronic and printed paper copy format and have the opportunity to request such pay stubs in printed paper copy format pursuant to subdivision c of this section.
-
-e. Any obligation to prepare an electronic version of a city employee's pay stub pursuant to subdivision a of this section shall not negate or diminish any other obligation to furnish such employee with a W-2 wage and tax statement in accordance with federal laws and regulations.
-
-f. For the purposes of this section, the following terms shall have the following meanings:
-
-   (1) "city employee" shall include elected officials of the city of New York and employees of such officials, including employees of mayoral agencies, provided that such employee's pay is processed by the office of payroll administration; and
-
-   (2) "city agency" shall include any agency of the city of New York that employs a city employee.
-
-
-
-
-
-
-*§ 12-125 Retired employees; change of options.* ::
-
-
-Notwithstanding any other law to the contrary, no beneficiary shall be permitted to change any optional selection after it has become effective, provided, however, that if:
-
-(a) a retired member nominates the spouse of such member as the survivor beneficiary under option two or three of section 13-177 of the code, or if a retired member nominates the spouse of such member under option four of such section to receive payment of an annual benefit as a survivor; and
-
-(b) such person so nominated ceases by causes other than death to be his or her spouse or is separated from such spouse; then the board of trustees shall have authority to permit the change of the optional benefit to the maximum benefit that is the actuarial equivalent by and with the consent of all parties.
-
-
-
-
-
-
-*§ 12-126 Health insurance coverage for city employees, persons retired from city employment, and dependents of such employees and retirees.* ::
-
-
-a. Definitions. As used in this section, the following terms shall have the meaning hereinafter stated:
-
-   i. "City employee." A person: (1) who is employed by a department or agency of the city; and (2) is paid out of the city treasury; and (3) is employed under terms prescribing a work week regularly consisting of twenty or more hours during the fiscal year; and (4) is not employed by the board of education.
-
-   ii. "City retiree." A person who: (1) is receiving a retirement allowance, pension or other retirement benefit from a retirement or pension system either maintained by the city or to which the city has made contributions on behalf of such person pursuant to subdivision (g) of section 80-a of the retirement and social security law; and (2) immediately prior to such person's retirement as a member of such system, was a city employee, or was an employee of the board of education employed under terms prescribing a work week regularly consisting of twenty or more hours during the fiscal year; and (3) had at the time of retirement, at least five years of credited service as a member of such retirement or pension system, except that (A) such requirement of credited service shall not apply in cases of retirement for accident disability, (B) the requirement of credited service for vested retirement and service retirement shall be at least ten years for a person who was not an employee of the city or the board of education on or before the effective date of the local law that added this clause, and (C) notwithstanding the provisions of clause (B) of this subparagraph, the requirement of credited service for vested retirement and service retirement shall be at least fifteen years for a person who was not an employee of the city or the board of education on or before the effective date of the local law that added this clause, is receiving a retirement allowance from the New York city teachers' retirement system or the New York city board of education retirement system, and held a position represented by the recognized teacher organization for collective bargaining purposes on such person's last day of paid service.
-
-   iii.    "Dependent." The spouse of a city employee or city retiree or any child of a city employee or city retiree during the period of eligibility of such child for coverage under the insurance contract applicable to such employee or retiree; provided, however, that no spouse or child of any such employee or retiree shall be deemed a dependent after the death of such employee or retiree.
-
-   iv. "Health insurance coverage." A program of hospital-surgical-medical benefits to be provided by health and hospitalization insurance contracts entered into between the city and companies providing such health and hospitalization insurance.
-
-b. Payment of health insurance costs. Except as otherwise provided in section 12-126.1 and section 12-126.2 of this chapter, for city employees, city retirees and their dependents:
-
-   (1) The city will pay the entire cost of health insurance coverage for city employees, city retirees, and their dependents, not to exceed one hundred percent of the full cost of H.I.P.-H.M.O. on a category basis. Where such health insurance coverage is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the Social Security Act, the city will pay the amount set forth in such act under 1839(a) as added by title XVIII of the 1965 amendment to the Social Security Act; provided that such amount shall not exceed the sum of nineteen dollars and fifty-three cents per month per individual for the period beginning January first, nineteen hundred eighty-eight and ending December thirty-first, nineteen hundred eighty-eight, and provided further however that such amount shall not exceed the sum of twenty-seven dollars and ninety cents per month per individual for the period beginning January first, nineteen hundred eighty-nine and ending December thirty-first, nineteen hundred ninety-one, and provided further that such amount shall not exceed the sum of twenty-nine dollars per month per individual for the period beginning January first, nineteen hundred ninety-two and ending December thirty-first nineteen hundred ninety-five. Provided further, that such amount shall not exceed the sum of thirty-two dollars per month per individual effective January first, nineteen hundred ninety-six. Provided further, that such amount shall not exceed the sum of thirty eight dollars and seventy cents per month effective January first, two thousand and provided further that each year thereafter, the City shall reimburse covered employees in an amount equal to one hundred percent of the Medicare Part-B premium rate applicable to that year.
-
-   (2) Health insurance coverage for surviving spouses, domestic partners and children of police officers, firefighters and certain other city employees:
-
-      (i) Where the death of a member of the uniformed forces of the police or fire departments is or was the natural and proximate result of an accident or injury sustained while in the performance of duty, the surviving spouse or domestic partner, until he or she dies, and the children under the age of nineteen years and any such child who is enrolled on a full-time basis in a program of undergraduate study in an accredited degree-granting institution of higher education until such child completes his or her educational program or reaches the age of twenty-six years, whichever comes first, shall be afforded the right to health insurance coverage, and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act, as is provided for city employees, city retirees and their dependents as set forth in paragraph one of this subdivision. Where the death of a uniformed member of the correction or sanitation departments has occurred while such employee was in active service as the natural and proximate result of an accident or injury sustained while in the performance of duty, the surviving spouse or domestic partner, until he or she dies, and the child of such employee who is under the age of nineteen years and any such child who is enrolled on a full-time basis in a program of undergraduate study in an accredited degree-granting institution of higher education until such child completes his or her educational program or reaches the age of twenty-six years, whichever comes first, shall be afforded the right to health insurance coverage, and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act, as is provided for city employees, city retirees and their dependents as set forth in paragraph one of this subdivision. Where the death of an employee of the fire department of the city of New York who was serving in a title whose duties are those of an emergency medical technician or advanced emergency medical technician (as those terms are defined in section three thousand one of the public health law), or whose duties required the direct supervision of employees whose duties are those of an emergency medical technician or advanced emergency medical technician (as those terms are defined in section three thousand one of the public health law) is or was the natural and proximate result of an accident or injury sustained while in the performance of duty on or after September eleventh, two thousand one, the surviving spouse or domestic partner, until he or she dies, and the children under the age of nineteen years and any such child who is enrolled on a full-time basis in a program of undergraduate study in an accredited degree-granting institution of higher education until such child completes his or her educational program or reaches the age of twenty-six years, whichever comes first, shall be afforded the right to health insurance coverage, and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act, as is provided for city employees, city retirees and their dependents as set forth in paragraph one of this subdivision.
-
-         The mayor may, in his or her discretion, authorize the provision of such health insurance coverage for the surviving spouses, domestic partners and children of employees of the fleet services division of the police department who died on or after October first, nineteen hundred ninety-eight and before April thirtieth, nineteen hundred ninety-nine; the surviving spouses, domestic partners and children of employees of the roadway repair and maintenance division or the bridges division of the department of transportation who died on or after September first, two thousand five and before September twenty-eighth, two thousand five, or on or after April 3, 2018 and before April 5, 2018 or on or after October 21, 2019 and before October 23, 2019; the surviving spouses, domestic partners and children of employees of the bureau of wastewater treatment of the department of environmental protection who died on or after January eighth, two thousand nine and before January tenth, two thousand nine or the surviving spouses, domestic partners and children of employees of the bureau of water supply of such agency who died on or after February second, two thousand fourteen and before February fourth, two thousand fourteen; the surviving spouses, domestic partners and children of employees of the traffic enforcement district of the transportation bureau of the police department who died on or after November first, two thousand thirteen and before December first, two thousand thirteen; the surviving spouses, domestic partners and children of employees of the sanitation enforcement division of the department of sanitation who died on or after July twenty-eighth, two thousand fifteen and before July thirtieth, two thousand fifteen; and the surviving spouses, domestic partners and children of employees of the bureau of motor equipment of the department of sanitation who died on or after September 23, 2019 and before September 25, 2019 as a natural and proximate result of an accident or injury sustained while in the performance of duty, subject to the same terms, conditions and limitations set forth in the section. Provided, however, and notwithstanding any other provision of law to the contrary, and solely for the purposes of this subparagraph, a member otherwise covered by this subparagraph shall be deemed to have died as the natural and proximate result of an accident or injury sustained while in the performance of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-      (ii) Where a retired member of the fire department dies and is enrolled in a health insurance plan, the surviving spouse shall be afforded the right to such health insurance coverage and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act as is provided for retirees and their dependents as set forth in subparagraph (i) of this paragraph, provided such surviving spouse pays one hundred two percent of the group rate for such coverage, with two percent intended to cover administrative costs incurred, provided such spouse elects such health insurance coverage within one year of the death of his or her spouse. For purposes of this subparagraph, "retired member of the fire department" shall include persons who, immediately prior to retirement, were employed by the fire department of the city of New York in a title whose duties are those of an emergency medical technician or advanced emergency medical technician (as those terms are defined in section three thousand one of the public health law), or whose duties required the direct supervision of employees whose duties are those of an emergency medical technician or advanced emergency medical technician (as those terms are defined in section three thousand one of the public health law).
-
-      (iii) Where a retired member of the police department, including premerger retirees who were police officers employed by the New York city housing authority or the New York city transit authority, dies and is enrolled in a health insurance plan, the surviving spouse shall be afforded the right to such health insurance coverage and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act as is provided for retirees and their dependents as set forth in subparagraph (i) of this paragraph, provided such surviving spouse pays one hundred two percent of the group rate for such coverage, with two percent intended to cover administrative costs incurred, provided such spouse elects such health insurance coverage within one year of the death of his or her spouse.
-
-      (iv) Where an active or retired member of the New York city department of correction or sanitation dies and is enrolled in a health insurance plan, the surviving spouse or domestic partner shall be afforded the right to such health insurance coverage and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act as is provided for retirees and their dependents as set forth in subparagraph (i) of this paragraph, provided such surviving spouse or domestic partner pays one hundred two percent of the group rate for such coverage, with two percent intended to cover administrative costs incurred, provided such spouse or domestic partner elects such health insurance coverage within one year of the death of his or her spouse or domestic partner.
-
-c. Any amount paid by the city pursuant to subdivision b of this section shall not be deemed to be salary, wages or compensation within the meaning of any law relating to any retirement or pension system and shall not be considered or included for the purpose of computing or determining employee or city contributions or the rights, allowances and benefits to which a city employee or such employee's heirs or beneficiaries shall become entitled under any retirement or pension system; and shall not be construed as a change of grade or classification or as a promotion to higher grade or position.
-
-d. Such health insurance coverage as is provided under this section shall be administered by office of labor relations.
-
-
-
-
-
-
-
-
-*§ 12-126.1 Special provisions applicable to health insurance and welfare benefit fund coverage for certain members of city retirement systems.* ::
-
-
-a. Definitions. The following terms, as used in this section, shall have the following meanings, unless a different meaning is plainly required by the context:
-
-   (1) "NYCERS former fractional plan member". A member of the New York city employees' retirement system who, pursuant to the provisions of subdivision m of section 13-162 of the code, is deemed to have elected to become a career pension plan member (as defined in subdivision forty-six of section 13-101 of the code), and who currently is such a career pension plan member or a fifty-five-year-increased-service-fraction member (as defined in subdivision fifty-one of section 13-101 of the code).
-
-   (2) "BERS former fractional plan member". A member of the board of education retirement system of the city of New York who, pursuant to the provisions of paragraph (g) of subdivision eighteen of section twenty-five hundred seventy-five of the education law, is deemed to have elected to become a career pension plan member (as defined in paragraph twenty-eight of section two of the rules and regulations of such retirement system), and who currently is such a career pension plan member or a fifty-five-year-increased-service-fraction member (as defined in paragraph thirty-one of section two of such rules and regulations).
-
-   (3) "Health insurance and welfare benefits fund surcharge". An amount, expressed as a percentage of salary, specified in a collective bargaining agreement (or other similar instrument) between the city of New York (or the board of education of the city) and the employee organization or organizations representing NYCERS former fractional plan members or BERS former fractional plan members in which it is provided that such members shall absorb the additional health insurance and welfare benefit fund increases caused by the enactment of subdivision m of section 13-162 of the code and paragraph (g) of subdivision eighteen of section twenty-five hundred seventy-five of the education law.
-
-b. Commencing with the first full payroll period which begins after October first, nineteen hundred ninety-three, the salary of each NYCERS former fractional plan member and each BERS former fractional plan member shall be reduced by the amount of the health insurance and welfare benefits fund surcharge on each and every payroll of such member for each and every payroll period.
-
-c. The commissioner of labor relations shall promulgate rules for the appropriate administration of this section.
-
-d. Any salary reduction effectuated pursuant to subdivision b of this section shall be considered part of such member's salary for the purpose of computing employer and employee pension contributions and all retirement benefits administered by the New York city employees' retirement system or the board of education retirement system of the city of New York.
-
-
-
-
-
-
-*§ 12-126.2 Special provisions applicable to health insurance and welfare benefit fund coverage for certain correction officers and sanitation workers.* ::
-
-
-a. Definitions. The following terms, as used in this section shall have the following meanings, unless a different meaning is plainly required by the context:
-
-   (1) "RSSL". The New York state retirement and social security law.
-
-   (2) "Tier II member". A member of a retirement system or pension fund maintained by the city who is subject to the provisions of article eleven of the RSSL.
-
-   (3) "Tier III member". A member of a retirement system or pension fund maintained by the city who is subject to the provisions of article fourteen of the RSSL.
-
-   (4) "Tier IV member". A member of a retirement system or pension fund maintained by the city who is subject to the provisions of article fifteen of the RSSL.
-
-   (5) "Tier II or tier III correction officer participant in a twenty year retirement program." A tier II or tier III member of the uniformed correction force who is a participant in the twenty-year retirement program established pursuant to (A) section four hundred forty-five-a of the RSSL or (B) section four hundred forty-five-c of the RSSL or (C) section five hundred four-a of the RSSL or (D) section five hundred four-b of the RSSL.
-
-   (6) "Tier II or tier IV sanitation worker participant in a twenty-year retirement program." A tier II or tier IV member of the uniformed force of the New York city department of sanitation who is a participant in the twenty-year improved benefit retirement program established pursuant to section four hundred forty-five-b of the retirement and social security law or is a participant in the twenty-year retirement program established pursuant to section six hundred four-a of the retirement and social security law.
-
-   (7) "Health insurance and welfare benefits fund surcharge." An amount, expressed as a percentage of salary, specified in a collective bargaining agreement (or other similar instrument) between the city of New York and the employee organization or organizations representing tier II and tier III correction officer participants in a twenty-year retirement program or tier II or tier IV sanitation worker participants in a twenty-year retirement program in which it is provided that such participants shall absorb the additional health insurance and welfare benefit fund increases caused by the enactment of section four hundred forty-five-a of the retirement and social security law, section four hundred forty-five-b of the retirement and social security law, section four hundred forty-five-c of the retirement and social security law, section five hundred four-a of the retirement and social security, section five hundred four-b of the retirement and social security law and section six hundred four-a of the retirement and social security law.
-
-   (8) "Starting date." The first day of the first whole payroll period commencing after the date which is thirty days after the effective date of this section.
-
-b. Effective as of the starting date, the salary of any tier II or tier III correction officer participant in a twenty-year retirement program or any tier II or tier IV sanitation worker participant in a twenty-year retirement program shall be reduced by the amount of the health insurance and welfare benefits fund surcharge on each and every payroll of such member for each and every payroll period.
-
-c. The commissioner of labor relations shall promulgate rules for the appropriate administration of this section.
-
-d. Any salary reduction effectuated pursuant to subdivision b of this section shall be considered part of such participant's final average salary for the purpose of computing employer and employee pension contributions and all retirement benefits administered by any retirement system or plan to which the city of New York contributes on behalf of said such participant. However, this subdivision shall in no way be construed to supersede the provisions of sections four hundred thirty-one, five hundred twelve and six hundred eight of the retirement and social security law or any other similar provision of law which limits the salary base for computing retirement benefits payable by a public retirement system.
-
-
-
-
-
-
-*§ 12-126.3 Health insurance coverage and welfare fund benefits of certain retirees and their dependents.** ::
-
-
-a. Definitions. The following terms, as used in this section, shall have the following meanings, unless a different meaning is plainly required by the context:
-
-   (1) "Pre-merger transit police retiree". A member of the uniformed force of the former transit police department of the New York city transit authority who retired as such a member prior to April thirtieth, nineteen hundred ninety-five or retired thereafter as such an employee as a result of an application to retire filed prior to such April thirtieth.
-
-   (2) "Pre-merger civilian retiree of the transit police department". An employee of such former transit police department who was not a member of its uniformed force and who retired as such an employee prior to April thirtieth, nineteen hundred ninety-five or retired thereafter as such an employee as a result of an application to retire filed prior to such April thirtieth.
-
-   (3) "Pre-merger housing police retiree". A member of the uniformed force of the former housing police department of the New York city housing authority who retired as such a member prior to April thirtieth, nineteen hundred ninety-five or retired thereafter as such an employee as a result of an application to retire filed prior to such April thirtieth.
-
-   (4) "Pre-merger civilian retiree of the housing police department". An employee of such former housing police department who was not a member of its uniformed force and who retired as such an employee prior to April thirtieth, nineteen hundred ninety-five or retired as such an employee thereafter as a result of an application to retire filed prior to such April thirtieth.
-
-   (5) "Health insurance coverage". The program of hospital-surgical-medical benefits provided to participants therein and their dependents at city cost pursuant to section 12-126 of this chapter and any supplements to such program (i) provided for by an applicable collective bargaining agreement (or other similar instrument) or (ii) provided by other action or practice of the city and/or an appropriate public employee organization representing employees of the city police department.
-
-   (6) "Welfare fund benefits". The benefits provided to eligible participants and their dependents pursuant to (i) the provisions of a collective bargaining agreement (or other similar instrument) which denominates such benefits as welfare fund benefits or (ii) a welfare fund agreement executed pursuant to a collective bargaining agreement (or other similar instrument) and benefits provided as welfare fund benefits pursuant to other action or practice of the city and/or an appropriate employee organization representing employees of the city police department.
-
-   (7) "Appropriate public employee organization representing employees of the city police department". The certified or recognized public employee organization under article fourteen of the civil service law and chapter three of title twelve of the code which represents employees of the police department of the city who have a title and rank which are the same as or equivalent to the title and rank which a pre-merger retiree had at the time of the retirement of such pre-merger retiree.
-
-   (8) "Pre-merger retiree". A retiree identified in any of paragraphs one, two, three and four of this subdivision.
-
-   (9) "Similarly situated retiree of the city police department". A person (i) who retired as an employee of the police department of the city on a date the same as the retirement date of a pre-merger retiree and (ii) whose title and rank on the date of retirement were the same as or equivalent to the title and rank of such pre-merger retiree at the time of the retirement of such pre-merger retiree.
-
-b. Health insurance coverage and welfare fund benefits shall be provided pursuant to the provisions of this section to each pre-merger transit police retiree and each pre-merger housing police retiree, and the dependents of each such retiree, in the same manner and to the same extent as if such retiree, at the time of his or her retirement, was a similarly situated retiree of the city police department.
-
-c. (1)    Subject to the provisions of paragraphs two and three of this subdivision, health insurance coverage and welfare fund benefits shall be provided pursuant to the provisions of this section to each pre-merger civilian retiree of the transit police department and each pre-merger civilian retiree of the housing police department, and the dependents of each such retiree, in the same manner and to the same extent as if such retiree, at the time of his or her retirement, was a similarly situated retiree of the city police department.
-
-   (2) Where any civilian retiree referred to in paragraph one of this subdivision was not entitled, under the collective bargaining agreement (or other similar instrument) and/or employer-provided health insurance program applicable to such retiree immediately prior to his or her retirement, to reimbursement by his or her employer for the whole or any part of Medicare premiums paid, such retiree shall not be entitled to reimbursement under this section for the whole or any part of Medicare premiums paid.
-
-   (3) Subject to the provisions of paragraph two of this subdivision, all costs of providing health insurance coverage and welfare fund benefits to pre-merger civilian retirees of the housing police department shall be paid by the New York city housing authority.
-
-d. In relation to providing health insurance coverage and welfare fund benefits pursuant to the preceding provisions of this section to each pre-merger retiree, the respective powers and obligations of the city and the appropriate employee organization representing employees of the city police department (subject to the provisions of paragraphs two and three of subdivision c of this section) shall be the same as in the case of a similarly situated retiree of the city police department.
-
-e. Subject to the provisions of paragraphs two and three of subdivision c of this section, the costs of providing the health insurance coverage and welfare fund benefits prescribed by the preceding subdivisions of this section to each pre-merger retiree shall be paid by the city and/or paid by or shared with the appropriate public employee organization representing employees of the city police department in the same manner and to the same extent as the city and/or such public employee organization pay or share such costs with respect to a similarly situated retiree of the city police department.
-
-f. Nothing contained in this section shall be construed as amending or altering any provision of article fourteen of the civil service law or chapter three of title twelve of the code.
-
-
-
-
-
-
-*§ 12-126.3 Health insurance coverage for former mayors.** ::
-
-
-a. Any former mayor of the city of New York, upon attaining the age of sixty-two, shall be afforded the right to such health insurance coverage as is provided for city employees, city retirees, and their dependents as set forth in paragraph one of subdivision b of section 12-126.
-
-b. Any amount paid by the city pursuant to this section shall not be deemed to be salary, wages or compensation within the meaning of any law relating to any retirement or pension system and shall not be considered or included for the purpose of computing or determining employee or city contributions or the rights, allowances and benefits to which a city employee or such employee's heirs or beneficiaries shall become entitled under any retirement or pension system; and shall not be construed as a change of grade or classification or as a promotion to higher grade or position.
-
-c. Such health insurance coverage as is provided under this section shall be administered by the office of labor relations.
-
-
-
-
-
-
-*§ 12-127 City employees injured in course of duty.* ::
-
-
-a. Any member of the uniformed forces of the fire or police departments or any person employed in the department of sanitation in the sanitation service classification of the classified civil service who shall be injured while actually employed in the discharge of police orders of his or her superior officers in the police station, fire house or sanitation section station, as the case may be, or as the result of illness traceable directly to the performance of police, fire or sanitation duty, as the case may be, or any employee of the department of parks, general services, ports and terminals or environmental protection or a person employed by the police commissioner as a school crossing guard who shall be injured while actually employed in the discharge of duty, shall be received by any hospital for care and treatment when such facts are certified to by the head of the department. Unless otherwise provided in this section, such members shall be received by any hospital at the usual ward patient rates. The bill for such care and treatment at such rates, when certified by the superintendent or other person in charge of such hospital and approved by the head of the department concerned, shall be paid by the city.
-
-b. Any member of the uniformed forces of the fire or police department or any person employed in the department of sanitation in the sanitation service classification of the classified civil service or a person employed by the police commissioner as a school crossing guard who, while in the actual performance of duty, and by reason of the performance of such duty and without fault or misconduct on his or her part, shall receive injuries to an extent which may endanger his or her life, shall be received by any hospital for care and treatment, and shall be afforded such medical or surgical care and hospitalization as may be ordered by the chief medical officer of the respective departments in conformity with the provisions of this section. Such medical officer shall forthwith notify the comptroller of the care and hospitalization so ordered. The rate charged for such care and hospitalization for such member or such person shall not exceed the rate charged any person in receipt of an income equal to the salary of such member or of such person for the same accommodations. The comptroller and the heads of the departments affected shall make necessary rules and regulations to carry out the provisions of this section. Upon certification by the chief medical officer of the department concerned, the bill for such care and hospitalization, when certified by the superintendent or other person in charge of the hospital and approved by the head of the department concerned, shall be paid by the city. Notwithstanding any provision of law to the contrary, a provider of medical treatment or hospital care furnished pursuant to the provisions of this section shall not collect or attempt to collect reimbursement for such treatment or care from any such city employee.
-
-c. (1) Definitions. For purposes of this subdivision, the term "occupational disease" has the same meaning as such term is defined in section 2 of the workers' compensation law.
-
-   (2) Each agency shall keep a record of, and shall, as soon as practicable, transmit to the law department, any workers' compensation claim filed by an employee, the subject of which concerns an injury sustained in the course of duty while such employee was employed at such agency. Such record shall include, but not be limited to, the following data:
-
-      (i) the name of the agency where such employee worked;
-
-      (ii) such employee's title;
-
-      (iii) the date such employee or the city filed such claim with the appropriate office of the state of New York, if any;
-
-      (iv) the date the city began to make payment for such claim, or the date such claim was established by the appropriate state office and the date the city began to make payment for such claim pursuant to such establishment, if any;
-
-      (v) the date such injury occurred or occupational disease was contracted;
-
-      (vi) the location at which such injury occurred or occupational disease was contracted;
-
-      (vii) the nature of such injury or occupational disease, including, but not limited to, the circumstances, the type or diagnosis and a description of how such injury occurred or such occupational disease was contracted;
-
-      (viii) the length of time such employee is unable to work due to such injury or occupational disease, if any;
-
-      (ix) whether the employee was given modified assignment(s) or was transferred because of such injury or occupational disease and whether such employee suffered a loss of income or diminution of fringe benefits as a result of such transfer or modification; and
-
-      (x) a list of any expenses paid as a result of such claim, including, but not limited to, expenses relating to wage replacement, medical costs, administrative costs and any penalties.
-
-   (3) Each agency shall collect and report to the law department, no later than February 15 of the year following the reporting year, the following information:
-
-      (i) the number of persons employed by such agency as of December 31 of the reporting year;
-
-      (ii) the number of persons employed in each job title as of December 31 of the reporting year;
-
-      (iii) the total, average and median number of days of lost time due to workers' compensation injuries within each job title;
-
-      (iv) the total amount of wages and workers' compensation paid for disability to injured persons within each job title;
-
-      (v) the total amount of medical expenses paid for diagnosis and treatment of injuries and occupational diseases suffered by persons within each job title;
-
-      (vi) the number and nature of injuries and occupational diseases suffered by agency employees within each job title;
-
-      (vii) the causal factor and nature of the injuries and occupational diseases suffered by agency employees as reported in subparagraph (vi) of this paragraph by category, including, but not limited to, lifting, assault, repetitive stress, infectious pathogen and chemical exposure;
-
-      (viii) the average and median number of days between the onset of disability as measured by the first day of lost time and the first date of payment; and
-
-      (ix) the total number of workers' compensation claims.
-
-   (4) The mayor, in coordination with the law department, shall ensure that an annual report is prepared utilizing the data received from each city agency pursuant to paragraphs (2) and (3) of this subdivision. Such report shall be transmitted to the department of records and information services pursuant to section 1133 of the charter, the mayor, the comptroller, the public advocate and the speaker of the council by the first day of May, covering the previous calendar year. Such report shall include, but not be limited to:
-
-      (i) an analysis, with respect to each agency included in the report, of expenses paid as a result of workers' compensation claims, including, but not limited to, expenses relating to wage replacement, medical costs, administrative costs and any penalties paid by an agency;
-
-      (ii) a list by agency of the cause, job title, number and cost of workers' compensation claims;
-
-      (iii) a list of the occurrence of specific claims for each agency and for the city as a whole;
-
-      (iv) a list of the specific sites where injuries occurred or where occupational diseases were contracted for each agency and for the city as a whole;
-
-      (v) a ten-year comparison of data compiled pursuant to this paragraph; and
-
-      (vi) all data collected pursuant to paragraphs (2) and (3) of this subdivision.
-
-   (5) The law department may take appropriate steps to ensure the collection and reporting of information required pursuant to paragraphs (2) and (3) of this subdivision shall not violate any applicable federal, state or local law relating to privacy or confidentiality including, but not limited to, the confidentiality requirements of section 110-a of the workers' compensation law.
-
-   (6) Each agency shall develop and implement an annual accident and illness prevention program designed to reduce injuries and illnesses identified in the report required pursuant to paragraph (4) of this subdivision. A listing and description of these programs shall be included in the annual report required by paragraph (4) of this subdivision and made available at each agency.
-
-   (7) No later than 90 days after submission of the report required pursuant to paragraph (4) of this subdivision, the mayor shall submit to the comptroller, the public advocate and the speaker a report on steps the city will take to develop programs to mitigate injury and illness based on the data collected pursuant to paragraphs (2) and (3) of this subdivision.
-
-
-
-* Editor's note: Section 2 of L.L. 2020/022 provides: "This local law takes effect immediately; provided, however, that the report required by paragraph (4) of subdivision c of section 12-127 of the administrative code of the city of New York, as added by this local law, shall include data for the year 2021 and shall be submitted no later than May 1, 2022. Provided, further, that the report required by subdivision c of section 12-127 of the administrative code of the city of New York, as added by local law number 41 for the year 2004, shall be submitted for the years 2019 and 2020 prior to submission of the report required pursuant to this local law."
-
-
-
-
-
-
-*§ 12-128 Claims of officers and employees of city for injuries caused by persons deeming themselves aggrieved.* ::
-
-
-The comptroller with the approval of the mayor is authorized to audit, allow and certify for payment, as charges against the city, the reasonable expenses for medical and surgical treatment and maintenance incurred by the mayor or any other officer or employee of the city, by reason of gunshot wounds or other personal injuries received or sustained by the mayor or other officer or employee of the city at the hands of any person deeming himself or herself aggrieved by and seeking revenge for any alleged official act or omission on the part of said mayor or other officer or employee of the city.
-
-
-
-
-
-
-*§ 12-129 Hours of service during July and August.* ::
-
-
-Four hours on any Saturday during the months of July and August, shall constitute a full day's work for all employees of any city agency. The head of any agency shall have power to employ his or her subordinates on any legal holiday, or may employ them on any such Saturday in excess of the legal day's work above prescribed, paying them compensation therefor at the rate of their usual wages or salaries. The provisions of this section shall apply to and include per diem employees, but shall not apply to the uniformed forces of the police and fire departments.
-
-
-
-
-
-
-*§ 12-130 Office hours.* ::
-
-
-Except as otherwise provided by law, the office hours in all public offices of the city, and of all county offices within the city, shall be from nine o'clock antemeridian to five o'clock postmeridian. The head of a city office or department, or a county officer who comes within the foregoing provisions of this section, may adopt a rule that such office shall be closed to the public at four o'clock postmeridian, when in the judgement of such officer, the period between the hours of four o'clock postmeridian and five o'clock postmeridian is required for the performance of the work in such office. During the months of July and August the office hours of such offices shall be from nine o'clock antemeridian to four o'clock postmeridian if the head of the office or department so orders. The office hours of any such office, however, shall be from nine o'clock antemeridian to twelve o'clock noon on Saturday, provided that the commissioner of the department of finance may, in his or her discretion, adopt a rule that such office or department shall be closed to the public on Saturdays.
-
-
-
-
-
-
-*§ 12-131 Reproduction of records on film.* ::
-
-
-a. The head of each agency may cause any or all records kept in such agency to be reproduced on photographic film. Such photographic film shall be of durable material and the device used to reproduce such records on such film shall be one which accurately reproduces the orginal record in all details.
-
-b. Such photographic film shall be deemed to be an original record for all purposes, including introduction in evidence in all courts or administrative agencies. A transcript, exemplification or certified copy thereof shall, for all purposes recited herein, be deemed to be a transcript, exemplification, or certified copy of the original.
-
-
-
-
-
-
-*§ 12-132 Records to be kept and abstracts published.* ::
-
-
-Every agency shall keep a record of all its transactions, which shall be accessible to the public. A brief abstract, omitting formal language, shall be made, once a week of all transactions and of all contracts awarded and entered into for work and material of every description. Such abstract shall contain the name or names and residences by street and number, of the party or parties to the contract and of their sureties, if any. A copy of such abstract shall be promptly transmitted for publication in the City Record to the director thereof.
-
-
-
-
-
-
-*§ 12-133 Order to use patented articles prohibited.* ::
-
-
-It shall be unlawful for any officer of the city to order any owner or occupant to use any patented article on any building or in any public street or place, except under such circumstances that there can be a fair and reasonable opportunity for competition, the conditions to secure which shall be prescribed by the board of estimate.
-
-
-
-
-
-
-*§ 12-134 Powers and duties of the District Attorney's investigators.* ::
-
-
-In the performance of their duties, all detective investigators, senior detective investigators, racket investigators, senior racket investigators and supervising racket investigators employed by the district attorney of each county contained within the city of New York, shall have all the powers and perform all the duties of police officers in the state.
-
-
-
-
-
-
-*§ 12-138 Applicability of age qualifications to veterans of armed forces.* ::
-
-
-When the qualifications for any examination or test for, or appointment or election to any office, position or employment in the city, includes a maximum age limit, any person who heretofore and subsequent to July first, nineteen hundred forty, entered or hereafter, in time of war, shall enter the active military or naval service of the United States, or the active service of the women's army corps, the women's reserve of the naval reserve or any similar organization authorized by the United States to serve with the army or navy, shall be deemed to meet such maximum age requirement if his or her actual age, less the period of such service, would meet such maximum age requirement.
-
-
-
-
-
-
-*§ 12-139 Election of qualified transportation benefits in lieu of taxable dollar compensation.* ::
-
-
-Employees of the city of New York shall be permitted to use pre-tax earnings to purchase qualified transportation benefits, other than qualified parking, in accordance with federal law and shall thereupon be entitled to such personal income tax benefits as may be authorized by such law.
-
-
-
-
-
-
-*§ 12-140 Line of duty sick leave for World Trade Center rescue, recovery or cleanup operations.* ::
-
-
-(a) Notwithstanding any other law, rule or regulation to the contrary, officers and employees of a city with a population of one million or more who (i) do not receive benefits similar to those provided by this section pursuant to a collectively bargained agreement, section 14-122.1 of this code, section 15-108.1 of this code, or other statutory provision and (ii) filed and received approval for such filed notice of participation in World Trade Center rescue, recovery or cleanup operations and subsequently develop a qualifying World Trade Center condition, as defined in section two of the retirement and social security law, shall, after receipt of a written request for line of duty sick leave, be granted line of duty sick leave commencing on the date that such employee was diagnosed with a qualifying World Trade Center condition regardless of whether such officer or employee was employed by his or her current employer at the time that such officer or employee participated in World Trade Center rescue, recovery or cleanup operations. The officer or employee shall be compensated at his or her regular rate of pay for those regular work hours during which the officer or employee is absent from work. Such leave shall be provided without loss of an officer or employee's accrued sick leave.
-
-(b) A public employer shall not take any adverse personnel action against a public employee regarding the employee's employment because either (i) the employee utilizes, or requests to utilize, sick leave or any other available leave due to a qualifying World Trade Center condition, as such term is defined in section two of the retirement and social security law, or (ii) the employee utilizes or requests to utilize line of duty sick leave provided by this section.
-
-(c) For purposes of this section, an "adverse personnel action" means any discipline, including issuing a notice of discipline, discharge, suspension, demotion, penalization, or discrimination against an employee utilizing line of duty sick leave pursuant to subdivision (a) of this section. Nothing in this section shall limit an employer's power pursuant to another provision of law to discipline an officer or employee by termination, reduction of salary, or any other appropriate measure; to terminate an appointee who has not completed his or her probationary term; and to apply for ordinary or accident disability retirement for an officer or employee.
-
-
-
-
-
-
-Chapter 2: Department of Citywide Administrative Services
+Chapter 2: Representation
 --------------------------------------------------
 
 
 
-*§ 12-201 City surveyors; examination, appointment of.* ::
+*§ 2-01 General.* ::
 
 
-a. The commissioner of citywide administrative services shall have power and it shall be his or her duty to appoint an examining board which shall serve without compensation, consisting of a chairperson, two consulting or topographical engineers in the employ of the city, and two city surveyors engaged in private practice. Such board shall formulate and conduct examinations of applicants who apply to the commissioner for appointment as city surveyors of the city of New York. Every person applying for examination shall pay an examining fee to be fixed by the commissioner. The fee so collected shall be paid into the general fund. The commissioner, as soon as practicable thereafter, shall certify to the mayor all those applicants who have qualified by successfully passing such examination. To be eligible for appointment, the applicant must be licensed by the state of New York as a land surveyor and must have a minimum of six years surveying experience within the limits of the city.
+(a)  An applicant may be self-represented or may be represented by a representative. Any individual or firm authorized by an applicant may act as his or her representative unless that individual has been suspended from practice before the Tax Commission.
 
-b. There shall be appointed by the mayor as many city surveyors as are qualified by successfully passing such examination. Each city surveyor, before entering on his or her duties shall take an oath well and truly to perform such duties.
+(b) Only natural persons may be self-represented. All other applicants, including without limitation corporations and partnerships, must be represented by a representative.
 
+(c) On the application, the applicant shall state that the applicant will be self-represented or shall designate a representative.
 
+(d) On the form prescribed for such purpose, the applicant shall notify the Tax Commission of any of the following changes in representation:
 
+   (1) where the applicant is represented and wants to change representatives or become self-represented; or
 
+   (2) where the applicant is self-represented and wants to designate a representative.
 
+(e) An applicant who is not self-represented shall communicate with the Tax Comission only through the applicant's representative with respect to an application.
 
-*§ 12-202 Commissioner of citywide administrative services to conduct examinations for licenses for master plumbers.* ::
+(f) Representation of an applicant before the Tax Commission encompasses all presentations, both oral and written, including but not limited to, preparing and filing applications and other documents, corresponding and communicating with the Tax Commission, and appearing at hearings.
 
 
-The commissioner of citywide administrative services, in addition to his or her other powers and duties, shall formulate and conduct examinations to determine the merit and fitness of applicants who apply, pursuant to section 26-143 of the code, to the commissioner of health for licenses to engage in the trade, business or calling of a duly registered and licensed master plumber. The department of citywide administrative services shall keep in its office an official roster of candidates who have succeeded in passing such examinations and shall certify to the commissioner of health the names of such candidates who are successful.
 
 
 
 
+*§ 2-02 Standards of Conduct and Integrity for Representatives and Self-Represented Applicants.* ::
 
 
-*§ 12-203 Assistance of committee of plumbing industry.* ::
+(a)  Representatives and self-represented applicants shall observe in good faith the law governing the administrative review of assessments, this title, and forms and instructions.
 
+(b) Representatives and self-represented applicants shall exercise due diligence in:
 
-The commissioner of citywide administrative services shall call upon the plumbing industry for assistance in the preparation, conduct and rating of the practical and written examination of all persons seeking a plumber's license, pursuant to section 26-143 of the code. Such assistance shall consist of the obtaining of the services of two registered and licensed master plumbers of not less than ten years' experience as such, and one journeyman plumber of not less than ten years' experience as such, for each examination. The commissioner may also call upon duly accredited sanitary engineers or physicians to assist in the preparation and conduct of such examination. The names of such master and journeyman plumbers selected to assist the commissioner shall be publicly drawn for each examination from a panel of not less than thirty names furnished to the commissioner by a special committee to consist of one experienced master plumber representing each of the established and recognized master plumbers' associations, or branches thereof, in the five boroughs of the city, and one experienced journeyman plumber representing the established and recognized organization having jurisdiction over journeyman plumbers in the city. Such committee members shall be named once each year by the incumbent presidents or boards of directors or governors of their respective associations or organizations. No such master or journeyman plumber shall serve as such assistant oftener than once in five years. The compensation of each such person selected by the commissioner to assist in the preparation, conduct and rating of the written and practical examinations shall be fixed by the commissioner.
+   (1) learning and observing applicable statutes, rules, and instructions governing the disposition of applications before the Tax Commission;
 
+   (2) adhering to schedules for appearances;
 
+   (3) preparing or assisting in the preparation of, approving, and filing forms, documents, and other papers relating to applications; and
 
+   (4) determining whether their oral and written arguments and representations to the Tax Commission are correct.
 
+(c) A representative who knows or has reason to believe that an applicant has made a factual error in or omission from an application or other document submitted to the Tax Commission shall advise the applicant promptly of such error or omission. The representative shall urge the applicant to correct the error and promptly submit the corrected information. If the applicant refuses to do so, the representative shall withdraw from representation regarding the application where continued representation would violate this section or the applicable code or rules of professional conduct prescribed for the representative's profession.
 
+(d) Representatives and self-represented applicants shall not file an application, submit a document, or present testimony or other evidence that is obviously false or that the representative or applicant knows or has reason to believe is false or fraudulent or contains false information.
 
-*§ 12-204 Qualifications of plumbers. [Repealed]* ::
+(e) Representatives and self-represented applicants shall not make any representation or fail to disclose any fact in any situation where such representative or applicant knows or has reason to know such representation or failure to disclose will mislead the Tax Commission.
 
+(f) Representatives and self-represented applicants shall not present a demand or an opinion of fact or law to the Tax Commission at a hearing unless the representative or applicant holds it in good faith and can support it on reasonable grounds.
 
-The commissioner of citywide administrative services shall have sole power to examine applicants for positions as inspectors of plumbing and no person shall be appointed an inspector for plumbing who shall not have obtained a certificate from such commissioner.
+(g) An application shall not advance a claim unwarranted under existing law, unless supported by a good faith argument for extension, modification or reversal of existing law.
 
+(h) A representative shall not sign an application in the name of the applicant. A representative signing an application pursuant to a written power of attorney must sign in the representative's own name.
 
+(i) Representatives and self-represented applicants shall exercise due diligence in ascertaining and reporting to the Tax Commission transactions concerning the property occurring after an application is filed until the application is determined or an offer (if any) is accepted, whichever occurs later. Such transactions include: (1) any transfer of the property under review; (2) any transfer of an ownership interest in the property; or (3) the execution of a contract to transfer the property.
 
+(j) Representatives and self-represented applicants shall not request hearings on applications which in the exercise of due diligence and good faith they know are ineligible for review pursuant to law or this title.
 
+(k) Representatives and self-represented applicants shall not attempt to initiate conversations or correspondence about particular cases with the hearing officer before or after the hearing. At the hearing, representatives and self-represented applicants shall discuss the scheduled matters only. Representatives and self-represented applicants shall not telephone or write the hearing officer of other employees of the Tax Commission before or after the hearing with additional argument or information. Unless directed by the hearing officer, after the hearing additional material or argument shall not be submitted to supplement an application. After a hearing, correspondence on particular applications, if any, shall be addressed to the Director of Appraisal and Hearings of the Tax Commission.
 
+(l) Upon the request of the Tax Commission, representatives and self-represented applicants shall make inquiry, obtain information, check facts about use, occupancy or physical description of the property under review, or resolve any factual discrepancies arising from an application. If such information is privileged or impossible to furnish, the representative or self-represented applicant can submit, on or before the date such information is due, a written statement explaining why the information cannot be provided.
 
-*§ 12-206 Eligible List Reporting.* ::
+(m) Before commencing or causing to be commenced assessment review proceedings in court, representatives and self-represented applicants shall confirm that an application for review of the assessment was timely filed at the Tax Commission.
 
+(n) Representatives and self-represented applicants shall not attempt to influence or offer or agree to attempt to influence any hearing officer or employee of the Tax Commission by the use of threats, false accusations, duress or coercion, a promise of advantage, or the bestowing or offer of any gift, favor or thing of value. A representative or self-represented applicant shall report promptly any such acts of which the representative or self-represented applicant is aware to the New York City Department of Investigation.
 
-a. Definitions. For the purposes of this section only:
+(o) Representatives before the Tax Commission shall carry on their representation in accordance with the applicable code or rules of professional conduct prescribed for their profession. The Tax Commission may require a representative to furnish a statement, under oath, detailing the circumstances of the representative's engagement regarding an application, subject to limits of any applicable evidentiary privilege.
 
-   1. "Eligible list" shall mean any list established by the department of citywide administrative services after the administration of either an open-competitive or a promotional examination containing the names of persons eligible to be considered for appointment or promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
+(p) Representatives shall not engage in contemptuous conduct in practicing before the Tax Commission, including, but not limited to, using abusive language, making false or misleading accusations or statements, either intentionally or negligently, or persistently disregarding Tax Commission rules or written instructions, either intentionally or negligently.
 
-   2. "Promotion list" shall mean the agency-specific list established by the department of citywide administrative services after the administration of a promotional examination containing the names of persons eligible to be considered for promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
+(q) Before a representative may represent an applicant before the Tax Commission, he or she shall register with the Tax Commission. Such registration shall be on a form prescribed by the Tax Commission and shall include an acknowledgement by the representative of his or her agreement to observe Tax Commission rules and instructions in good faith and with due diligence. Such registration shall be renewed annually and updated in accordance with the instructions of the Tax Commission.
 
-b. The commissioner of the department of citywide administrative services shall submit a report on an annual basis beginning in two thousand five to the mayor, comptroller, public advocate and speaker of the council of the city of New York, by the first day of June, for the previous calendar year, regarding eligible lists. Such report shall include, but not be limited to, the following:
+(r) The Tax Commission may deny or defer review of an application or withdraw an offer affected by a representative's or applicant's failure to comply with a rule in this title or a written instruction.
 
-   1. each eligible list established during the reporting year by the department of citywide administrative services;
+(s) After providing the representative with notice and an opportunity to be heard, the Tax Commission may suspend for up to five years from practice before the Tax Commission on all or some applications or may censure any representative who fails to comply with a rule in this section. Upon a determination of probable cause that a representative has failed to comply with a rule in this section, the representative may be temporarily suspended pending a final determination of suspension.
 
-   2. the dates such eligible lists were established;
+(t) After providing the representative with notice and an opportunity to be heard, the Tax Commission may suspend the representative for up to one year from practice before the Tax Commission on all or some applications or may censure the representative where the representative fails to comply with a written instruction or rule not in this section or to adhere to a schedule for appearance. Upon a determination of probable cause that a representative has failed to comply with a written instruction or rule not in this section or to adhere to a schedule for appearance, the representative may be temporarily suspended pending a final determination of suspension.
 
-   3. the number of persons appointed or promoted from each eligible list and the agencies to which such appointments or promotions were made;
+(u) The Tax Commission may publish notice and may notify applicants that it has suspended or censured a representative. Such notice may state the basis of the suspension or censure and identify the applicant, property and representative.
 
-   4. the number of persons appointed or promoted on a provisional basis during the reporting year and the agencies to which such appointments or promotions were made;
+(v) For representatives who are attorneys:
 
-   5. the number of persons who, during the reporting year, were considered and not selected three times from promotion lists;
+   (1) the standards of conduct set forth in this section shall apply unless inconsistent with applicable attorney ethical rules;
 
-   6. the number of persons removed from eligible lists and the number of persons removed from promotion lists and the reason reported to the department of citywide administrative services by the agency for such removal; and
+   (2) subdivisions (s) and (t) of this section as such subdivisions relate to the suspension or temporary suspension of a representative shall not apply; and
 
-   7. the number of persons restored to eligible lists and the number of persons restored to promotion lists after having been removed.
+   (3) in appropriate cases, the Tax Commission may report to the governing disciplinary authorities any conduct that violates this title and/or applicable attorney ethical rules.
 
+(w) The Tax Commission may notify the applicant and the applicant's representative of a determination to deny or defer review of an application for a representative's failure to comply with a rule in this title or a written instruction and may publish notice of that determination. A published notice may state the basis of the determination and identify the applicant and property. After providing the representative with notice and an opportunity to be heard, a published notice may identify the representative.
 
 
 
 
 
-*§ 12-207 Availability of feminine hygiene products.* ::
 
+*§ 2-03 Administrative Procedures for Group Representatives.* ::
 
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
 
-   Feminine hygiene products. The term “feminine hygiene products” means tampons and sanitary napkins for use in connection with the menstrual cycle.
+(a)  Group representatives shall provide to the Tax Commission in writing: (1) their firm name; (2) the name(s) of the individual(s) within the firm who are responsible for the firm's appearances at the Tax Commission; and (3) the business mailing address, telephone number, fax number, and email address for the firm and for such individual(s). Group representatives shall provide timely written notice of any change of such information.
 
-   Temporary shelters. The term “temporary shelters” means department of homeless services family with children shelters, adult family shelters, single adult women shelters and single adult men shelters; and human resources administration domestic violence shelters and HIV/AIDS services administration (HASA) shelters.
+(b) Group representatives that designate another firm to appear for them before the Tax Commission shall promptly notify the Tax Commission in writing of such designation. Such designation will remain in effect until the Tax Commission receives notice of a change.
 
-b. The department of citywide administrative services shall make available to agencies operating or having oversight of providers operating temporary shelters a supply of feminine hygiene products sufficient to meet the needs of residents. The department shall also make available a supply of feminine hygiene products sufficient to meet the needs of youth in secure detention facilities operated by the administration for children’s services, as well as youth in congregate care facilities operated by the administration for children’s services who are awaiting placement with a licensed foster care agency.
+(c) Group representatives may request notification when the Tax Commission issues notices so that they may arrange for pick-up instead of delivery by mail.
 
+(d) Group representatives who file 500 applications or more in a calendar year shall arrange for pick-up of notices and reports prepared by the Tax Commission that are too voluminous to be mailed to such representatives by the Tax Commission. The Tax Commission will notify such representatives of the notices and reports that they must arrange to have picked up.
 
 
 
 
 
 
+*§ 2-04 Application Filing Procedures for Group Representatives.* ::
 
-*§ 12-208 Pay and employment equity data.** ::
 
+(a)  Group representatives shall file applications in person at the Tax Commission's Office in accordance with this section.
 
-a. Definitions. As used in this section, the term “agency” means any agency, the head of which holds office upon appointment of the mayor and those units within the executive office of the mayor designated by the mayor to be covered by the provisions of chapter 16 of the charter. Such term does not include agencies headed by boards, commissions, or other multi-member bodies, whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies.
+(b) Group representatives shall make appointments by telephone before they file 50 or more applications at one time. No appointment is necessary for applications filed on the last day fixed by law to timely file an application.
 
-b. No later than November 30, 2019, and on or before November 30 annually thereafter, each agency, to the extent the department of citywide administrative services does not already have such information, shall provide to the department of citywide administrative services information relevant to pay and employment equity. Such information for each current and former employee within such agency shall be as of the date of hire and shall, to the extent such information is available, include:
+(c) Applications shall be filed by group representatives at the specific places at the Tax Commission's Office designated for each of the following categories:
 
-   1. Agency;
+   (1) Category 1. Category 1 includes an application meeting the criteria set forth in either of the following two subparagraphs:
 
-   2. Start date;
+      (i) An application on a property indicated on the assessment roll by block and lot, including a condominium unit, assessed at $45,000,000 or more, or such other amount specified in the instructions of the Tax Commission.
 
-   3. Civil service title;
+      (ii) An application on 200 or more condominium units, or such other number specified in the instructions of the Tax Commission.
 
-   4. Salary range for such title;
+   (2) Category 2. Category 2 includes an application meeting the criteria set forth in any of the following three subparagraphs:
 
-   5. Business title;
+      (i) An application on a property indicated on the assessment roll by block and lot assessed at less than $45,000,000, or such other amount specified in the instructions of the Tax Commission, where such application is:
 
-   6. Title classification (title description);
+         (A) by an applicant who is neither the owner nor net lessee of the property;
 
-   7. Job category;
+         (B) signed by a fiduciary who must file documentation of authority to establish authority in the year of filing;
 
-   8. Career level;
+         (C) signed by an agent who must attach a power of attorney and proof of personal knowledge; or
 
-   9. Base salary;
+         (D) seeking Tax Commission review of a claim of misclassification, unlawfulness, or full or partial exemption.
 
-   10. The department of citywide administrative services occupational group code and group name;
+      (ii) An application on fewer than 200 condominium units, or such other number specified in the instructions of the Tax Commission, where such application is:
 
-   11. Whether such employee is a managerial or supervisory employee;
+         (A) by an applicant who is neither the owner nor net lessee of the property, other than a board of managers designated by unit owners as their agent;
 
-   12. Minimum number of years of work experience required for such position;
+         (B) signed by a fiduciary who must file documentation of authority to establish authority in the year of filing;
 
-   13. Number of years of work experience of such employee;
+         (C) signed by an agent who must attach a power of attorney and proof of personal knowledge; or
 
-   14. Highest level of education attained by such employee;
+         (D) seeking Tax Commission review of a claim of misclassification, unlawfulness, or full or partial exemption.
 
-   15. Gender;
+      (iii) An application on a property indicated on the assessment roll by identification number.
 
-   16. Racial group;
+   (3) Category 3. An application on one or more condominium units not otherwise covered by Category 1 or 2.
 
-   17. Ethnicity;
+   (4) Category 4. An application not otherwise covered by Category 1, 2 or 3.
 
-   18. Date of birth;
+(d) Within each of the four categories set forth above, group representatives shall sort applications in borough/block/lot sequence.
 
-   19. Whether such employee is a provisional employee;
+(e) Group representatives who file application data by electronic means shall file such applications at the specific places designated for such purpose at the Tax Commission's Office.
 
-   20. Whether such employee is full-time, part-time or seasonal;
+(f) Copies of applications and other papers required to be filed by this title shall be delivered in accordance with the instructions of the Tax Commission.
 
-   21. Change in personnel status, including but not limited to, appointed, deceased, decrease, demoted, dismissed, increase, promoted, resigned, retired, terminated and transfer; and
+(g) Group representatives shall clearly mark copies of applications as copies.
 
-   22. Whether such employee was previously employed by the city of New York.
+(h) Group representatives shall conspicuously mark applications excluded from their electronic application data on the face of the application, and shall file such applications in the place designated for such filings.
 
-c. No later than 90 days following receipt of the data collected pursuant to subdivision b of this section, the department of citywide administrative services shall provide such data to the office of data analytics.
 
-d. All agencies shall cooperate with the department as may be necessary and proper to ensure compliance with this subdivision. The department may request from any agency, including the office of payroll administration and financial information services agency, information it deems necessary to enable it to properly carry out its functions.
 
-e. The commissioner may promulgate such rules as are necessary to carry out the provisions of this section.
 
 
 
+*§ 2-05 Electronic Notice of Filing by Group Representatives Who File Fifty or More Applications in One Calendar Year; Application Data.* ::
 
 
+(a)  For the purposes of this section, "group representative" means a group representative, as defined in 21 RCNY § 1-03, who files fifty or more applications in a calendar year.
 
+(b) Group representatives shall provide notice of filing applications by electronic means in an electronic file format prescribed by the Tax Commission, in order to obtain calendar pages. The Tax Commission may schedule hearings on applications as provided in 21 RCNY § 4-09(i) or defer review of applications of group representatives that provide notice of filing applications by electronic means in a defective format or a format not prescribed by the Tax Commission. For group representatives that do not provide notice of filing applications by electronic means, the Tax Commission may schedule hearings on applications as provided in 21 RCNY § 4-09(i).
 
+(c) Notice of filing applications by electronic means shall include the following application data: (1) borough, block and lot of each property for which the representative filed an application for correction of the assessment; (2) the application form number; (3) the relationship between the applicant and the property; (4) whether the application seeks Tax Commission review of a claim of misclassification or exemption; (5) whether the application is ineligible for review because a required income and expense schedule was not timely filed; (6) whether review is requested, and if so, whether a hearing or review on the papers submitted is requested; (7) the name of the applicant; (8) the representative's group number assigned by the Tax Commission; (9) the condominium lots covered by an application, if any; and (10) any other data the Tax Commission determines is necessary or appropriate.
 
-*§ 12-208 Availability of diapers and baby wipes.** ::
+(d) Application data shall be accurate when filed and shall accurately report the applications filed by the representative.
 
+(e) Application data shall not include a record of a property indicated on the assessment roll by an identification number.
 
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
+(f) Application data in the format prescribed shall be transmitted electronically in the manner designated by the Tax Commission.
 
-   Child care center. The term “child care center” means a program regulated by article 43 or article 47 of the New York city health code and that is contracted by the administration for children’s services or contracted and funded by the department of education.
+(g) Notice of filing applications by electronic means shall be filed by 5:00 P.M. of the fourth business day following the last day fixed by law to timely file the subject applications.
 
-   Covered entity. The term “covered entity” means a child care center, domestic violence shelter, family justice center, LYFE program, or temporary shelter.
+(h) The Tax Commission shall reject notices of filing applications by electronic means whose format is defective and shall notify the representative of format defects. At the request of the representative, the Tax Commission shall return defective application data files to the representative for correction. In the event format corrections are not completed within two business days of the notice of defect, the Tax Commission may defer review of the applications.
 
-   Domestic violence shelter. The term “domestic violence shelter” means an emergency shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to section 459-b of the social services law or a tier II shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to the provisions of part 900 of title 18 of the New York codes, rules, and regulations.
+(i) The Tax Commission may review on papers submitted or defer review of applications that are inaccurately recorded on or erroneously omitted from a representative's application data file.
 
-   Family justice center. The term “family justice center” means a center and any successor location through which the office to end domestic and gender-based violence or a successor entity provides services to victims of domestic and gender-based violence.
+(j) The Tax Commission may require that group representatives that provide notice of filing by electronic means provide a certified written summary of the notice of filing, including the total number of applications in an application data file, the number of applications filed on each type of form, the number of applications seeking reclassification and exemption, and such other tracking information as the Tax Commission deems necessary or appropriate.
 
-   LYFE programs. The term “LYFE programs” means the living for the young family through education (LYFE) programs operated by the department of education to provide early childhood education to children of student parents.
 
-   Temporary shelter. The term “temporary shelter” means a facility with the capacity to shelter families with children operated by or under contract or similar agreement with the department of homeless services and the department of youth and community development.
 
-b. The department of citywide administrative services shall make available to agencies operating or contracting with a covered entity, a supply of diapers and baby wipes, for children three years old and younger, sufficient to meet the needs of residents or recipients utilizing services at such covered entity, when such residents or recipients are present at such covered entity. Each covered entity shall provide readily visible signage or other written notice, in at least each of the designated citywide languages, as such term is defined in section 23-1101, to all such residents or recipients, informing them of the availability of such diapers and baby wipes.
 
-
-
-
-
-
-Chapter 3: Collective Bargaining
+Chapter 3: Application
 --------------------------------------------------
 
 
 
-*§ 12-301 Short title.* ::
+*§ 3-01 Forms.* ::
 
 
-This chapter may be cited as the "New York city collective bargaining law."
+(a)  The Tax Commission shall prescribe forms for applications, supplemental applications, income and expense schedules, amendment of applications, supplements to applications, certifications by accountants, and submission of supplemental information.
 
+(b) Applications shall be filed on the forms prescribed for such purpose.
 
+(c) Applicants shall use forms for the current year and for the type of property at issue.
 
+(d) The Tax Commission shall publish instructions on the use and completion of forms.
 
+(e) Facsimiles of forms that are printed by representatives and self-represented applicants shall conform exactly in text and format to the forms prescribed by the Tax Commission, except for insubstantial deviations which Counsel authorizes in writing. A nonconforming facsimile shall be denied review unless the Tax Commission permits any defect(s) that are procedural and not jurisdictional to be cured before the scheduled review of the application.
 
+(f) The Tax Commission may modify forms and the content thereof and may prescribe new forms as deemed necessary or appropriate.
 
-*§ 12-302 Statement of policy.* ::
 
 
-It is hereby declared to be the policy of the city to favor and encourage the right of municipal employees to organize and be represented, written collective bargaining agreements on matters within the scope of collective bargaining, the use of impartial and independent tribunals to assist in resolving impasses in contract negotiations, and final, impartial arbitration of grievances between municipal agencies and certified employee organizations.
 
 
 
+*§ 3-02 Jurisdictional Requirements for Applications.* ::
 
 
+(a)  Jurisdiction.
 
-*§ 12-303 Definitions.* ::
+   (1) An application that lacks one or more jurisdictional requirements set forth in subdivisions (b) through (m) of this section shall be dismissed.
 
+   (2) An application dismissed for lack of jurisdiction is void.
 
-As used in this chapter, unless the context clearly indicates otherwise, and subject to the limitations of section 12-304:
+   (3) The Tax Commission may review applications for jurisdictional defects on its own initiative.
 
-a. The term "director" shall mean the director of the office created by section eleven hundred seventy of the charter.
+   (4) Jurisdiction is determined on the facts existing when an application is filed, except when an application is rendered moot by subsequent action of the Department of Finance.
 
-b. The term "board of collective bargaining" shall mean the board created by section eleven hundred seventy-one of the charter.
+   (5) Jurisdictional defects are incurable after the time for filing has expired.
 
-c. The term "board of certification" shall mean the board created by section eleven hundred seventy-two of the charter.
+(b) Standing.
 
-d. The term "municipal agency" shall mean an administration, department, division, bureau, office, board, or commission, or other agency of the city established under the charter or any other law, the head of which has appointive powers, and whose employees are paid in whole or in part from the city treasury, other than the agencies specified in paragraph two of subdivision g of this section.
+   (1) An applicant shall be a person aggrieved by an assessment when the application is filed.
 
-e. The term "municipal employees" shall mean persons employed by municipal agencies whose salary is paid in whole or in part from the city treasury.
+   (2) Persons aggrieved include:
 
-f. The term "mayoral agency" shall mean any municipal agency whose head is appointed by the mayor.
+      (i) a legal owner of an entire tax lot;
 
-g. The term "public employer" shall mean (1) any municipal agency; (2) the board of education, the New York city health and hospitals corporation, the New York city off-track betting corporation, the New York city board of elections and the public administrator and the district attorney of any county within the city of New York; (3) any public authority other than a state public authority as defined in subdivision eight of section two hundred one of the civil service law, whose activities are conducted in whole or in substantial part within the city; and (4) any public benefit corporation, or any museum, library, zoological garden or similar cultural institution, which is a public employer or government within the meaning of article fourteen of the civil service law, employing personnel whose salary is paid in whole or in part from the city treasury.
+      (ii) a lessee of an entire tax lot with authority to protest the assessment;
 
-h. The term "public employees" shall mean municipal employees and employees of other public employers.
+      (iii) a condominium board of managers;
 
-i. The term "municipal employee organization" shall mean any organization or association of municipal employees, a primary purpose of which is to represent them concerning wages, hours, and working conditions.
+      (iv) a partial tenant or other lessee whose lease grants authority to protest the assessment;
 
-j. The term "public employee organization" shall mean any municipal employee organization and any other organization or association of public employees, a primary purpose of which is to represent public employees concerning wages, hours, and working conditions.
+      (v) a contract vendee bound by a contract to purchase the property when the application is filed;
 
-k. The term "municipal labor committee" shall mean an association known by that name created pursuant to a memorandum dated March thirty-first, nineteen hundred sixty-six, as amended, signed by representatives of the city and certain employee organizations.
+      (vi) a mortgagee in possession;
 
-l. The term "certified employee organization" shall mean any public employee organization: (1) certified by the board of certification as the exclusive bargaining representative of a bargaining unit determined to be appropriate for such purpose; (2) recognized as such exclusive bargaining representative by a public employer in conformity with the rules set forth in the office of collective bargaining rules of practice and procedure; or (3) recognized by a municipal agency, or certified by the department of labor, as such exclusive bargaining representative prior to the effective date of this chapter, unless such recognition has been or is revoked or such certificate has been or is terminated.
+      (vii) a receiver appointed by a court;
 
-m. The term "matters within the scope of collective bargaining" shall mean matters specified in section 12-307 of this chapter.
+      (viii) the owner of a divided interest in the property; or
 
-n. The term "executive order" shall mean, in the case of a mayoral agency, an executive order, memorandum or directive of the mayor and in the case of any other municipal agency or public employer, a written order, directive or resolution of such agency or employer or the head thereof, which provides for the application of the provisions of this chapter or otherwise implements the provisions of this chapter.
+      (ix) any other person who demonstrates that he, she or it is aggrieved by the assessment.
 
-o. The term "grievance" shall mean: (1) A dispute concerning the application or interpretation of the terms of a written collective bargaining agreement or a personnel order of the mayor, or a determination under section two hundred twenty of the labor law affecting terms and conditions of employment; (2) A claimed violation, misinterpretation, or misapplication of the rules or regulations of a municipal agency or other public employer affecting the terms and conditions of employment; (3) A claimed assignment of employees to duties substantially different from those stated in their job classifications; or (4) A claimed improper holding of an open-competitive rather than a promotional examination. Notwithstanding the provisions of this subdivision, the term grievance shall include a dispute defined as a grievance by executive order of the mayor, by a collective bargaining agreement, or as may be otherwise expressly agreed to in writing by a public employee organization and the applicable public employer.
+   (3) A condominium board of managers may file a single application for all unit owners who have authorized the board to act for them.
 
-p. The terms "labor member," "city member," and "impartial member" shall refer to those members of the board of collective bargaining described in section eleven hundred seventy-one of the charter.
+   (4) An attorney or other agent for the aggrieved person may not be the applicant.
 
-q. The terms "designated representative" and "designated employee organization" shall mean a certified employee organization, council or group of certified employee organizations designated for the purposes specified in paragraph two, three or five of subdivision a of section 12-307.
+   (5) An applicant shall file proof of standing in accordance with instructions published by the Tax Commission.
 
+   (6) For the purposes of this paragraph, "person" shall include any natural person or entity that is capable of holding an interest in real property.
 
+(c) Time and location for filing an application.
 
+   (1) An application shall be timely filed.
 
+   (2) An application is filed when it has been received by the Tax Commission. A mailed application that is properly addressed to the Tax Commission's Office shall be deemed to have been received on the day it is received by the City agency responsible for receiving mail sent to the Tax Commission.
 
+   (3) An application may be filed in person at the Tax Commission's Office or at any office of the Department of Finance in the Bronx, Brooklyn, Queens and Staten Island that is designated for such purpose by that Department.
 
-*§ 12-304 Application of chapter.* ::
+   (4) An application may be filed by mail to the Tax Commission's Office.
 
+   (5) An application for property designated on the assessment roll only by identification number shall be filed at the Tax Commission's Office.
 
-This chapter shall be applicable to:
+   (6) An application for a tax class one property shall be filed between January 15 and March 15 inclusive. Such applications must be received by the Tax Commission no later than 5:00 P.M. on March 15.
 
-a. All municipal agencies and to the public employees and public employee organizations thereof;
+   (7) An application for a tax class two, three, or four property shall be filed between January 15 and March 1 inclusive. Such applications must be received by the Tax Commission no later than 5:00 P.M. on March 1.
 
-b. any agency or public employer, and the public employees and public employee organizations thereof, which have been made subject to this chapter by state law;
+   (8) When March 1 and 15 fall on a Saturday or Sunday, applications are timely if received by the Tax Commission by the following Monday no later than 5:00 P.M.
 
-c. any other public employer, and to the public employees and public employee organizations thereof, upon the election by the public employer or the head thereof by executive order of the chief executive officer to make this chapter applicable, subject to approval by the mayor, provided, however, that any such election by the New York city board of education shall not include any teacher as defined in section 13-501 of the administrative code or any employee who works in that capacity or any paraprofessional employees with teaching functions; and
+   (9) Acknowledgment in writing, with the time and date, of receipt by the Tax Commission at the Tax Commission's Office or at any borough office of the Department of Finance designated to receive applications is the only proof of timely filing recognized by the Tax Commission.
 
-d. any public employer, and the public employees and public employee organizations thereof, to whom the provisions of this chapter are made applicable pursuant to paragraph four of subdivision c of section 12-309 of this chapter.
+   (10) An application may not be filed by fax or email or other method not permitted by this section.
 
+(d) Genuine dispute.
 
+   (1) An application is moot if the claim or claims within the jurisdiction of the Tax Commission can be satisfied without changing the assessment.
 
+   (2) An application is moot if it states a claim or claims of error that the Department of Finance corrects before the Tax Commission determines the application.
 
+(e) An application shall state one or more of the four statutory claims of error in the assessment. The four statutory claims are that the assessment is excessive, unequal or unlawful, or that the property is misclassified.
 
+(f) An application shall identify the property whose assessment is protested by either its borough, block and lot or its street address.
 
-*§ 12-305 Rights of public employees and certified employee organizations.* ::
+(g) An application shall be signed by an authorized person.
 
+   (1) An application shall be signed by the applicant, the applicant's fiduciary, a condominium board of managers, or an authorized agent.
 
-Public employees shall have the right to self-organization, to form, join or assist public employee organizations, to bargain collectively through certified employee organizations of their own choosing and shall have the right to refrain from any or all of such activities. However, neither managerial nor confidential employees shall constitute or be included in any bargaining unit, nor shall they have the right to bargain collectively; provided, however, that public employees shall be presumed eligible for the rights set forth in this section, and no employee shall be deprived of these rights unless, as to such employee, a determination of managerial or confidential status has been rendered by the board of certification; and provided further, that nothing in this chapter shall be construed to: (i) deny to any managerial or confidential employee his or her rights under section fifteen of the civil rights law or any other rights; or (ii) prohibit any appropriate official or officials of a public employer as defined in this chapter to hear and consider grievances and complaints of managerial and confidential employees concerning the terms and conditions of their employment and to make recommendations thereon to the chief executive officer of the public employer for such action as such chief executive officer shall deem appropriate. A certified or designated employee organization shall be recognized as the exclusive bargaining representative of the public employees in the appropriate bargaining unit.
+   (2) A general partner may sign an application of a partnership.
 
+   (3) An officer may sign an application of a corporation.
 
+   (4) A member or manager may sign an application of a limited liability company.
 
+   (5) A fiduciary who signs an application shall attach documentation of authority.
 
+(h) An application shall be verified or certified upon personal knowledge.
 
+   (1) An application for a tax class two, three, or four property shall be verified by the applicant, the applicant's fiduciary, a condominium board of managers, or an authorized agent.
 
-*§ 12-306 Improper practices; good faith bargaining.* ::
+   (2) A person who signs an application for a tax class two, three, or four property shall appear and acknowledge his or her signature before a notary public or other person authorized to administer oaths.
 
+   (3) An application for a tax class one property shall be certified.
 
-a. Improper public employer practices. It shall be an improper practice for a public employer or its agents:
+   (4) A person who signs an application shall have personal knowledge of the facts about the property that are required by the application form; provided, however, that a person who signs an application on behalf an entity or a person under a disability in accordance with applicable law shall have knowledge of the facts about the property that are required by the application form based on documents and other reliable information relating to the property.
 
-   (1) to interfere with, restrain or coerce public employees in the exercise of their rights granted in section 12-305 of this chapter;
+(i) The Tax Commission shall have subject matter jurisdiction.
 
-   (2) to dominate or interfere with the formation or administration of any public employee organization;
+   (1) The claims within the jurisdiction of the Tax Commission are that the assessment is excessive, unequal, or unlawful or that the property is misclassified, as defined in Charter § 163 and § 164-b.
 
-   (3) to discriminate against any employee for the purpose of encouraging or discouraging membership in, or participation in the activities of, any public employee organization;
+   (2) An application shall state a claim or claims within the jurisdiction of the Tax Commission.
 
-   (4) to refuse to bargain collectively in good faith on matters within the scope of collective bargaining with certified or designated representatives of its public employees;
+   (3) An application claiming exemption in full or part shall be preceded by a valid application for an exemption timely filed with the Department of Finance.
 
-   (5) to unilaterally make any change as to any mandatory subject of collective bargaining or as to any term and condition of employment established in the prior contract, during a period of negotiations with a public employee organization as defined in subdivision d of section 12-311 of this chapter.
+(j) A copy of a duly executed power of attorney shall accompany an application signed by an authorized agent. The power of attorney shall be signed by the applicant, duly authorized officer of a corporate applicant, duly authorized member or manager of a limited liability company, duly authorized partner of a partnership, or fiduciary.
 
-b. Improper public employee organization practices. It shall be an improper practice for a public employee organization or its agents:
+(k) An agent signing shall have personal knowledge.
 
-   (1) to interfere with, restrain or coerce public employees in the exercise of rights granted in section 12-305 of this chapter, or to cause, or attempt to cause, a public employer to do so;
+   (1) Authorized agents, including without limitation attorneys, employees, and property managers, shall have personal knowledge of facts about the property stated in the application.
 
-   (2) to refuse to bargain collectively in good faith with a public employer or* on matters within the scope of collective bargaining provided the public employee organization is a certified or designated representative of public employees of such employer;
+   (2) Personal knowledge shall be stated in the form prescribed for that purpose and shall accompany the application.
 
-* Editor's note: so in original.
+   (3) For purposes of this subsection, review by an agent of an applicant's books and records alone shall not provide sufficient basis to attain personal knowledge.
 
-   (3) to breach its duty of fair representation to public employees under this chapter.
+(l) An application shall state the name of the applicant.
 
-c. Good faith bargaining. The duty of a public employer and certified or designated employee organization to bargain collectively in good faith shall include the obligation:
+(m) An application shall be filed with an original signature of the applicant, the applicant's fiduciary a condominium board of managers, or an authorized agent.
 
-   (1) to approach the negotiations with a sincere resolve to reach an agreement;
 
-   (2) to be represented at the negotiations by duly authorized representatives prepared to discuss and negotiate on all matters within the scope of collective bargaining;
 
-   (3) to meet at reasonable times and convenient places as frequently as may be necessary, and to avoid unnecessary delays;
 
-   (4) to furnish to the other party, upon request, data normally maintained in the regular course of business, reasonably available and necessary for full and proper discussion, understanding and negotiation of subjects within the scope of collective bargaining;
 
-   (5) if an agreement is reached, to execute upon request a written document embodying the agreed terms, and to take such steps as are necessary to implement the agreement.
 
-d. Joinder of parties in duty of fair representation cases. The public employer shall be made a party to any charge filed under paragraph three of subdivision b of this section which alleges that the duly certified employee organization breached its duty of fair representation in the processing of or failure to process a claim that the public employer has breached its agreement with such employee organization.
+*§ 3-03 Procedural Requirements to Obtain Review of Applications.* ::
 
-e. A petition alleging that a public employer or its agents or a public employee organization or its agents has engaged in or is engaging in an improper practice in violation of this section may be filed with the board of collective bargaining within four months of the occurrence of the acts alleged to constitute the improper practice or of the date the petitioner knew or should have known of said occurrence. Such petition may be filed by one or more public employees or any public employee organization acting on their behalf, or by a public employer, together with a request to the board for a final determination of the matter and for an appropriate remedial order.
 
+(a)  An applicant shall use forms prescribed for the current year when applying to the Tax Commission for review of a tentative assessment.
 
+(b) An applicant shall file the form as instructed for the claims made or the tax class of the property.
 
+(c) An application, when filed, shall be complete and correct, with all applicable items answered and all applicable forms attached.
 
+(d) An application shall be legible.
 
+(e) An application shall be typed, written or printed in ink.
 
-*§ 12-307 Scope of collective bargaining; management rights.* ::
+(f) A separate application shall be filed for each separately assessed property that is not a condominium unit.
 
+(g) A condominium board of managers may file a single application for all unit owners who have authorized the board to act for them.
 
-a. Subject to the provisions of subdivision b of this section and subdivision c of section 12-304 of this chapter, public employers and certified or designated employee organizations shall have the duty to bargain in good faith on wages (including but not limited to wage rates, pensions, health and welfare benefits, uniform allowances and shift premiums), hours (including but not limited to overtime and time and leave benefits), working conditions and provisions for the deduction from the wages or salaries of employees in the appropriate bargaining unit who are not members of the certified or designated employee organization of an agency shop fee to the extent permitted by law, but in no event exceeding sums equal to the periodic dues uniformly required of its members by such certified or designated employee organization and for the payment of the sums so deducted to the certified or designated employee organization, subject to applicable state law, except that:
+(h) An applicant shall not file more than one application for review of the same assessment.
 
-   (1) with respect to those employees whose wages are determined under section two hundred twenty of the labor law, the duty to bargain in good faith over wages and supplements shall be governed by said section;
+(i) Applications for full or partial exemption or for reclassification shall require interior and exterior inspection of the property by a City employee.
 
-   (2) matters which must be uniform for all employees subject to the career and salary plan, such as overtime and time and leave rules, shall be negotiated only with a certified employee organization, council or group of certified employee organizations designated by the board of certification as being the certified representative or representatives of bargaining units which include more than fifty percent of all such employees, but nothing contained herein shall be construed to deny to a public employer or certified employee organization the right to bargain for a variation or a particular application of any city-wide policy or any term of any agreement executed pursuant to this paragraph where considerations special and unique to a particular department, class of employees, or collective bargaining unit are involved;
+   (1) When contacted by the City, the representative and self-represented applicant shall promptly set an appointment to conduct an inspection.
 
-   (3) matters which must be uniform for all employees in a particular department shall be negotiated only with a certified employee organization, council or group of certified employees organizations designated by the board of certification as being the certified representative or representatives of bargaining units which include more than fifty percent of all employees in the depart- ment;
+   (2) The representative or self-represented applicant shall notify the Tax Commission by telephone or fax, email or other writing received on or before April 10 if an appointment to conduct an inspection has not been set. When April 10 falls on a Saturday or Sunday, such notification shall be timely if made by 5:00 P.M. the following Monday.
 
-   (4) all matters, including but not limited to pensions, overtime and time and leave rules which affect employees in the uniformed police, fire, sanitation and correction services, or any other police officer as defined in subdivision thirty-four of section 1.20 of the criminal procedure law who is also defined as a police officer in this code, shall be negotiated with the certified employee organizations representing the employees involved. For purposes of this paragraph only:
+(j) As required by Tax Commission instructions, copies of property records shall be attached to a required application when filed or submitted at the time of the scheduled review. Such records may include, but shall not be limited to, a commercial lease schedule, rent registration information filed with the New York State Department of Housing and Community Renewal, rent rolls maintained in the ordinary course of business, leases or abstracts of leases, income and expense schedules of the property maintained in the ordinary course of business, and applications for tax exemption or abatement.
 
-      (i) employees of the uniformed fire service shall also include persons employed at any level of position or service by the fire department of the city of New York as fire alarm dispatchers and supervisors of fire alarm dispatchers, fire protection inspectors and supervisors of fire protection inspectors, emergency medical technicians and advanced emergency medical technicians, as those terms are defined in section three thousand one of the public health law, and supervisors of emergency medical technicians or advanced emergency medical technicians;
+(k) Applications signed by an agent, which Charter § 163 requires to be accompanied by a power of attorney, shall also be accompanied by the prescribed form showing personal knowledge of the person signing the application.
 
-      (ii) employees of the uniformed police service shall also include persons employed at any level of position or service by the police department of the city of New York as traffic enforcement agents and supervisors of traffic enforcement agents, and school safety agents and supervisors of school safety agents; and
+(l) In order to obtain review, an applicant shall maintain standing as a person aggrieved until the hearing is conducted.
 
-      (iii) employees of the uniformed sanitation service shall also include persons employed at any level of position or service by the sanitation department of the city of New York as sanitation enforcement agents and supervisors of sanitation enforcement agents;
+(m) Claims in an application shall be made in good faith.
 
-   (5) all matters, including but not limited to pensions, overtime and time and leave rules which affect the following employees at any level of position or service in the following agencies shall be negotiated with the certified employee organizations representing the employees involved:
+(n) Claims shall be based on facts and circumstances pertaining to the property and may be based on prior year analysis and comparable year-to-year results.
 
-      (i) persons employed by the department of homeless services of the city of New York as special officers, senior special officers, supervising special officers and principal special officers;
+(o) One exact copy of each application shall be filed with the original, unless otherwise provided in written instructions.
 
-      (ii) persons employed by the department of health and mental hygiene of the city of New York as special officers, senior special officers, supervising special officers and principal special officers;
+(p) The Tax Commission may review applications for procedural defects on its own initiative.
 
-      (iii) [Repealed.]
+(q) The Tax Commission may permit cure of procedural defects in applications, including defects in applicable forms and income and expense schedules that are part of an application, set forth in this section, 21 RCNY § 3-04, and 21 RCNY § 4-03 if the application has been shown to be meritorious and if the cure is made no later than the hearing or other review.
 
-      (iv) persons employed by the human resources administration of the city of New York as special officers, senior special officers, supervising special officers and principal special officers;
 
-      (v) persons employed by the administration for children's services of the city of New York as special officers, senior special officers, supervising special officers and principal special officers;
 
-      (vi) persons employed by the taxi and limousine commission of the city of New York as taxi and limousine inspectors, supervising taxi and limousine inspectors, senior taxi and limousine inspectors and associate taxi and limousine inspectors;
 
-      (vii) persons employed by the department of transportation of the city of New York as parking control specialists and associate parking control specialists;
 
-      (viii) persons employed by the department of parks and recreation of the city of New York as urban park rangers and associate urban park rangers; and
 
-      (ix) persons employed by the department of finance of the city of New York as deputy sheriffs, supervising deputy sheriffs and administrative sheriffs.
+*§ 3-04 Substantive and Procedural Requirements for Income and Expense Schedules.* ::
 
-   (6) matters involving pensions for employees other than those in the uniformed forces referred to in paragraph four hereof, shall be negotiated only with a certified employee organization, council or group of certified employee organizations designated by the board of certification as representing bargaining units which include more than fifty percent of all employees included in the pension system involved.
 
-b. It is the right of the city, or any other public employer, acting through its agencies, to determine the standards of services to be offered by its agencies; determine the standards of selection for employment; direct its employees; take disciplinary action; relieve its employees from duty because of lack of work or for other legitimate reasons; maintain the efficiency of governmental operations; determine the methods, means and personnel by which government operations are to be conducted; determine the content of job classifications; take all necessary actions to carry out its mission in emergencies; and exercise complete control and discretion over its organization and the technology of performing its work. Decisions of the city or any other public employer on those matters are not within the scope of collective bargaining, but, notwithstanding the above, questions concerning the practical impact that decisions on the above matters have on terms and conditions of employment, including, but not limited to, questions of workload, staffing and employee safety, are within the scope of collective bargaining.
+(a)  An applicant shall report all income received or accrued and all expenses paid or incurred in the operation of the property in the reporting period specified in Charter § 163 or § 164-a.
 
-c. It shall be the policy of the city of New York that, to the extent not inconsistent with law, the city shall make benefits available to the domestic partners of city employees on the same basis as the city makes benefits available to the spouses of city employees.
+(b) Income and expense information shall be filed in the form prescribed for such purpose, in accordance with published instructions.
 
+(c) The applicant shall complete all applicable items listed in the prescribed form.
 
+(d) An income and expense schedule required by Charter § 163 or § 164-a or this section shall be filed as part of an application to review an assessment, unless such law permits the filing of an income and expense schedule until March 24, in which case such income and expense schedules must be received by the Tax Commission no later than 5:00 P.M. on such date. When March 24 falls on a Saturday or Sunday, income and expense schedules are timely if filed no later than 5:00 P.M. on the preceding Friday.
 
+(e) An income and expense schedule not included in an application must be filed attached to a supplemental application form.
 
+(f) If the property is occupied exclusively by seven families or more and operated by a cooperative or condominium corporation, the cooperative or condominium corporation applicant must file an income and expense schedule in a form prescribed as part of the application or supplemental application.
 
+(g) If the property is operated as a hotel or motel, the applicant must file an income and expense schedule in a form prescribed as part of the application or supplemental application.
 
-*§ 12-308 Judicial review and enforcement of a final order of the board of collective bargaining or the board of certification.* ::
+(h) If the property is owner-occupied, in whole or part, for business purposes as a department store, garage or other vehicle parking site, or theater, the applicant must file a schedule of gross receipts for the most recent three years in a form prescribed as part of the application or supplemental application.
 
+(i) An application may be denied review where income and expense information required by law or this chapter is not filed timely, not filed in the prescribed form, incomplete, or otherwise defective.
 
-a. Any order of the board of collective bargaining or the board of certification shall be (1) reviewable under article seventy-eight of the civil practice law and rules upon petition filed by an aggrieved party within thirty days after service by registered or certified mail of a copy of such order upon such party, and (2) enforceable by the supreme court in a special proceeding, upon petition of the board of collective bargaining, board of certification or any aggrieved party.
 
-b. If a proceeding by the board for enforcement of its order is instituted prior to the expiration of the period within which a party may seek judicial review of such order, the respondent may raise in his or her answer the questions authorized to be raised by section seven thousand eight hundred three of the civil practice law and rules and thereafter the proceedings shall be governed by the provisions of article seventy-eight of the civil practice law and rules that are not inconsistent herewith, except that if an issue specified in question four of section seven thousand eight hundred three of the civil practice law and rules is raised, the proceeding shall be transferred for disposition to the appellate division of the supreme court. Where an issue specified in question four of section seven thousand eight hundred three of the civil practice law and rules is raised, either in a proceeding to enforce or review an order of the board, the appellate division of the supreme court, upon completion of proceedings before it, shall remit a copy of its judgment or order to the court in which the proceeding was commenced, which court shall have the power to compel compliance with such judgment or order.
 
-c. In a proceeding to enforce or review an order of the board, the court shall have power to grant such temporary relief or restraining order as it deems just and proper, and to make and enter a judgment or decree enforcing, modifying and enforcing as so modified, or setting aside in whole or in part the order of the board.
 
+Chapter 4: Review and Determination
+--------------------------------------------------
 
 
 
+*§ 4-01 Determinations.* ::
 
 
-*§ 12-309 Powers and duties of board of collective bargaining; board of certification; director.* ::
+(a)  A claim or claims in an application may be determined with one or more of the following four outcomes:
 
+   (1) dismissal of the claim or claims for a jurisdictional defect;
 
-a. Board of collective bargaining. The board of collective bargaining, in addition to such other powers and duties as it has under this chapter and as may be conferred upon it from time to time by law, shall have the power and duty:
+   (2) confirmation of the assessment based on denial of review for a substantive or procedural defect;
 
-   (1) on the request of a public employer or public employee organization which is a party to a disagreement concerning the interpretation or application of the provisions of this chapter, to consider such disagreement and report its conclusion to the parties and the public;
+   (3) confirmation of the assessment following review; or
 
-   (2) on the request of a public employer or certified or designated employee organization to make a final determination as to whether a matter is within the scope of collective bargaining;
+   (4) an offer or a determination to correct the assessment.
 
-   (3) on the request of a public employer or a certified or designated employee organization which is party to a grievance, to make a final determination as to whether a dispute is a proper subject for grievance and arbitration procedure established pursuant to section 12-312 of this chapter;
+(b) The Tax Commission may not increase an assessed valuation.
 
-   (4) to prevent and remedy improper public employer and public employee organization practices, as such practices are listed in section 12-306 of this chapter. For such purposes, the board of collective bargaining is empowered to establish procedures, make final determinations, and issue appropriate remedial orders;
+(c) The Tax Commission may notify appropriate governmental agencies of errors in assessment or in official records.
 
-   (5) to recommend any needed changes in the provisions of this chapter or of an executive order;
+(d) If an application has not been determined by May 25, the assessment objected to shall be deemed to be the final determination as provided by Charter § 165 for purposes of fixing the time to bring a judicial review proceeding as provided by Charter § 166.
 
-   (6) to hold hearings and compel the attendance of witnesses and the production of documents;
 
-   (7) to adopt rules and regulations for the conduct of its business and the carrying out of its powers and duties including rules and regulations governing the procedures to be followed by mediation and impasse panels constituted pursuant to subdivision b or c of section 12-311 of this chapter;
 
-   (8) where either party to collective bargaining negotiations has rejected in whole or in part the recommendations of an impasse panel, to review such recommendations as provided in paragraph four of subdivision c of section 12-311 of this chapter.
 
-b. Board of certification. The board of certification, in addition to such other powers and duties as it has under this chapter and as may be conferred upon it from time to time by law, shall have the power and duty:
 
-   (1) to make final determinations of the units appropriate for purposes of collective bargaining between public employers and public employee organizations, which units shall be such as shall assure to public employees the fullest freedom of exercising the rights granted hereunder and under executive orders, consistent with the efficient operation of the public service, and sound labor relations, provided that in any case involving a petition for certification where supervisory or professional employees petition to be represented for purposes of collective bargaining separate and apart from non-supervisory or non-professional employees, or where a petition for certification has been filed requesting a unit of supervisory and non-supervisory or a unit of professional and non-professional employees and the public employer objects thereto, the board of certification shall not include such supervisory or professional employees in a bargaining unit which includes non-supervisory or non-professional employees respectively unless a majority of the supervisory or professional employees voting in an election vote in favor thereof;
 
-   (2) to determine the majority representative of the public employees in an appropriate collective bargaining unit by conducting secret-ballot elections or by utilizing any other appropriate and suitable method designed to ascertain the free choice of a majority of such employees, to certify the same as the exclusive bargaining representative thereof; to designate representatives; and to determine the length of time during which such certification or designation shall remain in effect and free from challenge or attack;
+*§ 4-02 Mandatory Denial of Review.* ::
 
-   (3) to decertify as exclusive bargaining representative an employee organization which has been found by secret-ballot election no longer to be the majority representative, or which shall otherwise become ineligible for certification under the provisions of this chapter, and to terminate or vacate designations of representatives;
 
-   (4) to determine whether specified public employees are managerial or confidential within the meaning of subdivision seven of section two hundred one of the civil service law and thus are excluded from collective bargaining;
+The Tax Commission shall deny review of an application on any of the following grounds:
 
-   (5) to hold hearings and compel the attendance of witnesses and the production of documents; and
+(a) Two or more applications for review of the same assessment are pending.
 
-   (6) to adopt rules and regulations for the conduct of its business and the carrying out of its powers and duties, including rules relating to the standards for determination of bargaining units.
+(b) The applicant failed to comply with Administrative Code § 11-208.1 for the applicable year.
 
-c. Director. The director in addition to such other powers and duties as he or she has under this chapter and as may be conferred upon such director from time to time by law, shall have the power and duty:
+(c) The applicant did not file a separate application for each separately assessed property that is not a condominium unit.
 
-   (1) To oversee adherence to the provisions of this chapter and to administer the provisions of section 12-311 of this chapter and the rules and regulations adopted by the board of collective bargaining, subject to the direction of such board;
+(d) The application does not contain the income and expense information required by Charter § 163 or § 164-a, Administrative Code § 11-216(b), or chapter three of this title.
 
-   (2) To administer the provisions of subdivision b of this section and the rules and regulations adopted by the board of certification, subject to the direction of such board;
+(e) The application is illegible.
 
-   (3) To maintain communication with public employers and public employee organizations engaged in collective bargaining negotiations, to facilitate such negotiations by furnishing at the request of both parties, such data or information as may aid them therein, and, if such director determines that either party is remiss in its obligations, to communicate this information as he or she deems appropriate;
+(f) The application is not typed, written or printed in ink.
 
-   (4) On the request of the mayor, to make available the mediation, impasse, and arbitration services of the office of collective bargaining to public employers and public employee organizations not otherwise entitled to make use thereof at a cost to them to be determined by the board; and
+(g) The application signed by an agent who is required to attach a power of attorney does not contain the agent's statement of personal knowledge.
 
-   (5) To direct the operations of the staff of the office of collective bargaining.
+(h) The applicant lost standing as a person aggrieved before the application is determined.
 
+(i) If an assessment review proceeding is commenced in court before September 30, review of the application shall be deemed waived unless the application has been reviewed and determined by the Tax Commission or a hearing is scheduled after September 15.
 
 
 
 
 
-*§ 12-310 Meetings; quorum; vote required; public hearings prior to adoption of rules.* ::
 
+*§ 4-03 Permissive Denial or Discontinuance of Review for Uncured Procedural Defects.* ::
 
-a. Meetings of board of collective bargaining. 
 
-   (1) The board of collective bargaining shall hold special meetings upon the call of the director or the request of any two members. Written notice of all regular and special meetings, including agendas and amendments to agendas shall be given to each board member, including alternate members, not more than ten days nor less than one day prior to any such meeting. A quorum shall consist of one city member, one labor member and one impartial member or of any four members.
+The Tax Commission may deny or discontinue review of an application on any of the following grounds:
 
-   (2) The board of collective bargaining, or such members thereof as it may designate, shall conduct meetings between representatives of the city responsible for labor relations and representatives of the municipal labor committee at least twice a year, and at such other times as the director determines. These meetings shall not take up grievances or negotiate changes in wages, hours, or working conditions, but shall deal with problems of general application, including those arising out of the administration of the procedures set forth in this chapter. The director shall also from time to time convene similar meetings between representatives of particular employers and certified employee organizations.
+(a) Failure to use forms prescribed for the current year when applying to the Tax Commission for review of a tentative assessment.
 
-b. Meetings of board of certification. The board of certification shall hold regular and special meetings upon the call of the chairperson or of the other two members, but shall meet at least ten times a year. Two members shall constitute a quorum.
+(b) The applicant did not file the form as instructed for the claims made or the tax class of the property.
 
-c. Vote required. Except as otherwise specifically provided, all actions, determinations, findings, and recommendations of the board of collective bargaining and the board of certification shall be by majority vote of members present and voting. In the absence of a city or labor member, or in the event of a vacancy, an alternate member of the board of collective bargaining may vote in the place and stead of the member for whom he or she is the alternate, or on account of whom the vacancy exists.
+(c) The applicant filed more than one application for review of the same assessment.
 
-d. Promulgation of rules. Rules and amendments to rules promulgated by the board of collective bargaining or the board of certification shall be in conformity with the requirements of chapter forty-five of the city charter.
+(d) Failure to provide material information required by the prescribed application form.
 
+(e) Failure to attach all required forms to an application.
 
+(f) The application contains inconsistent or false material statements.
 
+(g) Failure of the applicant to initial changes made to information provided in the application.
 
+(h) Failure of the applicant to initial all pages of an application form copied single-sided from a double-sided form.
 
+(i) Failure to file the required number of copies with the original in accordance with chapter three of this title.
 
-*§ 12-311 Bargaining notice; mediation; impasse panels.* ::
+(j) A person other than the applicant changed material information provided by the applicant in the application.
 
+(k)  The applicant failed to report to the Department of Finance by October 1 of the calendar year immediately preceding the filing of an application the cost of either of the following:
 
-a. Bargaining notices. 
+   (1) for property identified on the assessment roll by identification number, any additions to or retirements of such property during the calendar year ending on such date; or
 
-   (1) At such time prior to the expiration of a collective bargaining agreement as may be specified therein (or, if no such time is specified, at least ninety but not more than one hundred fifty days prior to expiration of the agreement) a public employer, or a certified or designated employee organization, which desires to negotiate on matters within the scope of bargaining shall send the other party (with a copy to the director) a notice of the desire to negotiate a new collective bargaining agreement on such matters. The parties shall commence negotiations within ten days after receipt of such a bargaining notice, unless such time is extended by agreement of the parties, or by the director or the board of collective bargaining.
+   (2) any new equipment taxable as real property not previously on the assessment roll.
 
-   (2) At any time after a public employee organization has been newly certified or designated to represent the public employees in a designated bargaining unit, the public employer or the newly certified or designated employee organization, if it desires to negotiate on matters within the scope of collective bargaining, may send the other party (with a copy to the director) a bargaining notice for the terms of a collective bargaining agreement on such matters. The parties shall commence negotiations within ten days after receipt of such a bargaining notice, unless such time is extended by agreement of the parties, or by the director or the board of collective bargaining.
+(l) Applications are not filed and eligible for review for all lots for which a consolidated income and expense statement is filed, for which consolidated review is requested, or which are operated as a single economic unit.
 
-   (3) Nothing herein shall authorize or require collective bargaining between parties to a collective bargaining agreement during the term thereof, except that such parties may engage in collective bargaining during such term on a matter within the scope of collective bargaining where (a) the matter was not specifically covered by the agreement or raised as an issue during the negotiations out of which such agreements arose and (b) there shall have arisen a significant change in circumstances with respect to such matter, which could not reasonably have been anticipated by both parties at the time of the execution of such agreement.
+(m) The applicant seeking full or partial exemption or reclassification:
 
-b. Mediation panels. 
+   (1) did not arrange with the City to promptly set an appointment to conduct an inspection.
 
-   (1) The office of collective bargaining shall maintain a register of mediators who have been approved for listing thereon by the board of collective bargaining.
+   (2) did not, either directly or through a representative, notify the Tax Commission by telephone or fax, email or other writing received on or before April 10, or by 5:00 P.M. the following Monday when April 10 falls on a Saturday or Sunday, that an appointment to conduct an inspection has not been set.
 
-   (2) If the director, upon the request of a party or upon his or her own initiative determines that collective bargaining negotiations between a public employer and a certified or designated employee organization would be aided by mediation, he or she shall appoint a mediation panel from such register to assist the parties in arriving at an agreement. A mediation panel shall not be appointed less than thirty days after the commencement of negotiations, unless requested by both parties. It shall be the duty of the parties to cooperate with the mediation panel to arrive at an agreement.
 
-   (3) The mediation panel shall perform its duties under the general direction and guidance of the director, to whom it shall report.
 
-c. Impasse panels. 
 
-   (1) The office of collective bargaining shall maintain a register of impasse panel members who have been approved for listing thereon by a majority of the entire board of collective bargaining, including at least one city member and one labor member.
 
-   (2) If the board of collective bargaining, upon recommendation of the director, determines that collective bargaining negotiations (with or without mediation) between a public employer and a certified or designated employee organization have been exhausted, and that the conditions are appropriate for the creation of an impasse panel, it shall promptly instruct the director to appoint such a panel. The director may also appoint an impasse panel upon request of both parties. In appointing a panel, the director shall submit to the parties a single list of seven persons from the register of impasse panel members, and each party shall inform the director of its preferences. To the extent the preferences disclose agreement, the person or persons agreed upon shall be appointed to the impasse panel; to the extent the preferences are not in agreement, the director shall proceed to designate the members of such panel from the register. Each party may at its own expense designate a consultant to an impasse panel, who shall be available to the panel for assistance.
 
-   (3) (a) An impasse panel shall have power to mediate, hold hearings, compel the attendance of witnesses and the production of documents, review data, and take whatever action it considers necessary to resolve the impasse. If an impasse panel is unable to resolve an impasse within a reasonable period of time, as determined by the director, it shall, within such period of time as the director prescribes, render a written report containing findings of fact, conclusions, and recommendations for terms of settlement.
+*§ 4-04 Notice of Appearance.* ::
 
-      (b) An impasse panel appointed pursuant to paragraph two of this subdivision c shall consider wherever relevant the following standards in making its recommendations for terms of settlement:
 
-         (i) comparison of the wages, hours, fringe benefits, conditions and characteristics of employment of the public employees involved in the impasse proceeding with the wages, hours, fringe benefits, conditions and characteristics of employment of other employees performing similar work and other employees generally in public or private employment in New York city or comparable communities;
+(a)  Representatives and self-represented applicants appearing at a hearing shall file with the hearing officer a notice of appearance form.
 
-         (ii) the overall compensation paid to the employees involved in the impasse proceeding, including direct wage compensation, overtime and premium pay, vacations, holidays and other excused time, insurance, pensions, medical and hospitalization benefits, food and apparel furnished, and all other benefits received;
+(b) Witnesses and other persons attending a hearing shall sign the notice of appearance for the application under review.
 
-         (iii) changes in the average consumer prices for goods and services, commonly known as the cost of living;
 
-         (iv) the interest and welfare of the public;
 
-         (v) such other factors as are normally and customarily considered in the determination of wages, hours, fringe benefits, and other working conditions in collective bargaining or in impasse panel proceedings.
 
-      (c) The report of an impasse panel shall be confined to matters within the scope of collective bargaining. Unless the mayor agrees otherwise, an impasse panel shall make no report concerning the basic salary and increment structure and pay plan rules of the city's career and salary plan. If an impasse panel makes a recommendation on a matter which requires implementation by a body, agency or official which is not a party to the negotiations: (i) it shall address such recommendation solely to such other body, agency or official; (ii) it shall not recommend or direct that the municipal agency or other public employer which is party to the negotiations shall support such recommendation; and (iii) it may recommend whether a collective bargaining agreement should be concluded prior to such implementation. Any alternative recommendations proposed by an impasse panel in the event such implementation does not occur shall not exceed the total cost of the original recommendations.
 
-      (d) The report of an impasse panel shall be submitted to the parties to the negotiations, to any other body, agency or official whose action is required to implement the panel's recommendations, and to the director. The director shall, with the advice and guidance of the board of collective bargaining, determine the time at which such report shall be released to the public, which shall not be later than seven days after its submission or, upon agreement of the parties and approval of the director, not later than thirty days after its submission, provided that if the parties conclude a collective bargaining agreement prior to the date on which the report is to be released, the report shall not be released except upon consent of the parties.
 
-      (e) Acceptance or rejection. Within ten days after submission of the panel's report and recommendations, or such additional time not exceeding thirty days as the director may permit, each party shall notify the other party and the director, in writing, of its acceptance or rejection of the panel's recommendations. Failure to so notify shall be deemed acceptance of the recommendations. The director may release the acceptance or rejections to the public at such time as the director, in his or her discretion, may deem advisable. Upon acceptance by all parties or ten days after the latest rejection by any party, unless an appeal is earlier filed with the board pursuant to subparagraph (a) of paragraph four of this subdivision, the recommendation shall become final and binding and shall constitute an award within the meaning of article seventy-five of the civil practice law and rules, provided, however, that any provisions of such award the implementation of which requires the enactment of a law shall not become binding until the appropriate legislative body enacts such law.
+*§ 4-05 Litigation Status.* ::
 
-   (4) Review of impasse panel recommendations:
 
-      (a) A party who rejects in whole or in part the recommendation of an impasse panel as provided in subparagraph (e) of paragraph three of this subdivision may appeal to the board of collective bargaining for review of the recommendations of the impasse panel by filing a notice of appeal with said board within ten days of such rejection. The notice of appeal shall also be served upon the other parties within said time. Upon failure to appeal within the time provided herein, the recommendations shall be final and binding upon the party failing to so appeal, as provided in subparagraph (e) of paragraph three of this subdivision, except that the board, upon its own initiative, may review recommendations which have been rejected. Panel recommendations which, pursuant to the provisions of this subparagraph, become final and binding on both parties shall constitute an award within the meaning of article seventy-five of the civil practice law and rules, provided, however, that any provision of such award the implementation of which requires the enactment of a law shall not become binding until the appropriate legislative body enacts such law.
+(a)  Representatives and self-represented applicants shall file a certificate of litigation status according to published instructions in the form prescribed for such purpose.
 
-      (b) The notice of appeal shall specify the grounds upon which the appeal is taken, the alleged errors of the panel, and the modifications requested. The board shall afford the parties a reasonable opportunity to argue orally before it or to submit briefs, or may permit both argument and briefs. Review of the recommendations shall be based upon the record and evidence made and produced before the impasse panel and the standards set forth in subparagraph (b) of paragraph three of this subdivision and shall include consideration of issues, if any, of conformity of the recommendations with any law or regulation properly governing the conduct of collective bargaining between the city of New York and its employees, provided, however, that when an appeal is taken to the board on any of the grounds of prejudice set forth in subparagraph (i), (ii) or (iii) of paragraph one of subdivision (b) of section seventy-five hundred eleven of the civil practice law and rules, review shall also be based upon the record made in any hearing which the board may direct on such issues, provided, however, that the board orders such hearing within thirty days of the filing of the notice of appeal.
+(b) The certificate of litigation status shall be filed: (1) with the hearing officer at a hearing; (2) with the application if the application requests review on papers; or (3) with a request for review on papers amending a request in the application for a hearing.
 
-      (c) Upon such review, the board may affirm or modify the panel recommendations in whole or in part. A modification of the recommendations shall be by the vote of a majority of the board. The board may also set aside the recommendations of an impasse panel in whole or in part if it finds that the rights of a party have been prejudiced on any of the grounds set forth in subparagraph (i), (ii) or (iii) of paragraph one of subdivision b of section seventy-five hundred eleven of the civil practice law and rules. An order setting aside a recommendation of such grounds shall be based on a written decision and shall be made upon a vote of a majority of the board. A member of the board who has acted as a member of an impasse panel shall not be disqualified from subsequently participating in a decision or determination of the board in the same dispute.
+(c) Failure to file a certificate of litigation status or errors therein may result in denial of review, and such a failure or such errors causing an error in the terms of an offer may result in the denial of a request for a revised offer.
 
-      (d) The recommendations of the impasse panel shall be deemed to have been adopted by the board if the board fails to issue a final determination within thirty days of filing of the notice of appeal, or within forty days of a notification of rejection to the director of the board where the board, upon its own initiative, reviews the panel's recommendations, provided, however, that when a hearing is ordered pursuant to subparagraph (b) of this paragraph four relating to allegations of prejudice, the impasse panel's recommendations shall be deemed to have been adopted by the board only if the board fails to issue a determination thereon within thirty days after the close of such hearing, and provided further, that the director may extend the thirty day or forty day periods mentioned in this subparagraph for an additional period not to exceed thirty days.
 
-      (e) Notwithstanding the provisions of this paragraph four, and except for purposes of judicial review, any provision of a determination of the board of collective bargaining the implementation of which requires the enactment of a law shall not become binding until the appropriate legislative body enacts such law.
 
-      (f) A final determination of the board pursuant either to subparagraph (c) or (d) of this paragraph four shall be binding upon the parties. Such a final determination shall constitute an award within the meaning of article seventy-five of the civil practice law and rules.
 
-d. Preservation of status quo. During the period of negotiations between a public employer and a public employee organization concerning a collective bargaining agreement, and, if an impasse panel is appointed during the period commencing on the date on which such panel is appointed and ending sixty days thereafter or thirty days after the panel submits its report, whichever is sooner, provided, however, that upon motion of the panel, and for good cause shown, the board of collective bargaining may allow a maximum of two sixty-day extensions of time for the completion of impasse panel proceedings, provided further, that additional extensions of time for the completion of impasse panel proceedings may be granted by the panel upon the joint request of the parties, and during the pendency of any appeal to the board of collective bargaining pursuant to subdivision c of this section, the public employee organization party to the negotiations, and the public employees it represents, shall not induce or engage in any strikes, slowdowns, work stoppages, or mass absenteeism, nor shall such public employee organization induce any mass resignations, and the public employer shall refrain from unilateral changes in wages, hours, or working conditions. This subdivision shall not be construed to limit the rights of public employers other than their right to make such unilateral changes, or the rights and duties of public employees and employee organizations under state law. For the purpose of this subdivision the term "period of negotiations" shall mean the period commencing on the date on which a bargaining notice is filed and ending on the date on which a collective bargaining agreement is concluded or an impasse panel is appointed.
 
-e. Number of members on panels; vote required. 
 
-   (1) Mediation and impasse panels shall consist of such odd number of persons (one or more) as may be agreed upon by the parties to the negotiations, or, in the absence of such agreement, as shall be deemed appropriate by the director.
+*§ 4-06 Amended Applications for Procedural Changes.* ::
 
-   (2) All actions, determinations, findings and recommendations of an impasse panel shall be by majority vote.
 
-f. Anything in this chapter notwithstanding, public employers and certified or designated employee organizations hereby are empowered to enter into written agreements setting forth procedures to be invoked in the event of an impasse in collective bargaining negotiations, and such agreements may include the undertaking by each party to submit unresolved issues to impartial arbitration, provided that (1) if the agreement between the parties fails to provide procedures which result in a final determination of all issues, then all unresolved issues between the parties shall be subject to the provisions of subdivision c of this section or so much thereof as may be applicable under the circumstances, and (2) questions, issues or disputes as to arbitrability or the scope of collective bargaining shall be determined by the board of collective bargaining only.
+(a)  To withdraw a hearing request, to withdraw an application or claim in an application, or to raise the market value claimed in an application, representatives and self-represented applicants shall file the form prescribed for such purpose.
 
+(b) To revoke the designation of representative in the application and to designate a new representative, applicants shall file the form prescribed for such purpose.
 
+(c) To consent to the substitution of a new applicant to obtain review of an application, applicants shall file the form prescribed for such purpose.
 
 
 
 
-*§ 12-312 Grievance procedure and impartial arbitration.* ::
 
 
-a. The board of collective bargaining shall maintain a register of arbitrators who have been approved for listing thereon by a majority of the entire board of collective bargaining including at least one city member and one labor member. The board of collective bargaining shall establish procedures for impartial arbitration which may be incorporated into executive orders and collective bargaining agreements between public employers and public employee organizations.
+*§ 4-07 Group Representatives' Response to Reports on Initial Application Status.* ::
 
-b. Executive orders, and collective bargaining agreements between public employers and public employee organizations, may contain provisions for grievance procedures, in steps terminating with impartial arbitration of unresolved grievances. Such provisions may provide that the arbitrator's award shall be final and binding and enforceable in any appropriate tribunal in accordance with the applicable law governing arbitration, except that awards as to grievances concerning assignment of employees to duties substantially different from those stated in their job classifications, or the use of open-competitive rather than promotional examinations, shall be final and binding and enforceable only to the extent permitted by law.
 
-c. Arbitrators appointed under arbitration provisions relating to municipal agencies shall be persons on the register of the board of collective bargaining. The costs of such arbitration shall be determined and allocated pursuant to section eleven hundred seventy-four of the charter. The board of collective bargaining, in its discretion, may publish arbitration awards.
+(a)  Group representatives shall examine Tax Commission reports of the initial status of applications and shall respond timely to notify the Tax Commission of omissions and other errors.
 
-d. As a condition to the right of a municipal employee organization to invoke impartial arbitration under such provisions, the grievant or grievants and such organization shall be required to file with the director a written waiver of the right, if any, of said grievant or grievants and said organization to submit the contractual dispute being alleged under a collective bargaining agreement to any other administrative or judicial tribunal except for the purpose of enforcing the arbitrator's award. This subdivision shall not be construed to limit the rights of any public employee or public employee organization to submit any statutory or other claims to the appropriate administrative or judicial tribunal.
+(b) The Tax Commission may defer review of an application if the representative or self-represented applicant fails to timely notify the Tax Commission of any omissions from or other errors in such report.
 
-e. Public employees and public employee organizations shall not induce or engage in any strikes, slowdowns, work stoppages, or mass absenteeism nor shall public employee organizations induce any mass resignations during the term of a collective bargaining agreement. A provision to that effect shall be inserted in all written collective bargaining agreements between public employers and public employee organizations. This subdivision shall not be construed to limit the rights of public employers or the duties of public employees and employee organizations under state law.
+(c) For the purposes of this section, notification will be considered timely if provided within thirty days of the issuance of the Tax Commission report of the initial status of an application or such other date stated on the report.
 
-f. It is hereby declared to be the policy of the city that written collective bargaining agreements with certified or designated employee organizations should contain provisions for grievance procedures and impartial binding arbitration, which may be invoked by a public employer or by a certified or designated employee organization.
 
-g. An employee may present his or her own grievance either personally or through an appropriate representative, provided that:
 
-   (1) a grievance relating to a matter referred to in paragraph two, three or five of subdivision a of section 12-307 of this chapter may be presented and processed only by the employee or by the appropriate designated representative or its designee, but only the appropriate designated representative or its designee shall have the right to invoke and utilize the arbitration procedure provided by executive order or in the collective agreement to which the designated representative is a party; and provided further that
 
-   (2) any other grievance of an employee in a unit for which an employee organization is the certified collective bargaining representative may be presented and processed only by, the employee or by the certified employee organization, but only the certified employee organization shall have the right to invoke and utilize the arbitration procedure provided by executive order or in the collective agreement to which the certified representative is a party.
 
 
+*§ 4-08 Consolidated Review of Related Lots.* ::
 
 
+(a)  Representatives and self-represented applicants shall notify the Tax Commission on the prescribed form if two or more tax lots are contiguous or near one another on the same or adjacent blocks, under common ownership or control, and operated as an economic unit or are otherwise related for purposes of valuation for taxation so as to make consolidated review of the assessments appropriate.
 
+(b) Notice of related lots shall be filed timely. Notice of related lots for which income and expense schedules must be filed on or before March 1 is due no later than 5:00 P.M. on March 4. Notice of related lots for which income and expense schedules must be filed on or before March 24 is due no later than 5:00 P.M. on March 15. Notice of related lots for which no income and expense schedule is required is due no later than 5:00 P.M. on March 4. When March 4 or 15 fall on a Saturday or Sunday notice of related lots is timely if filed no later than 5:00 P.M. the following Monday.
 
-*§ 12-313 Membership and rules of municipal labor committee.* ::
+(c) Failure to file or late filing of notice of related lots may result in denial or deferral of review of applications for the related lots.
 
 
-Membership in the municipal labor committee shall be open to any certified employee organization as defined in this chapter and which is otherwise eligible for membership under the rules of such committee. The board of collective bargaining may, upon the request of any certified employee organization, abrogate any rule of such committee relating to voting or eligibility for membership which it determines to be arbitrary or discriminatory, provided that prior to any such abrogation such committee shall be given an opportunity on at least ten days' notice to be heard thereon.
 
 
 
 
+*§ 4-09 Scheduling Review of Applications; Rescheduling; Default.* ::
 
 
-*§ 12-314 Special provisions relating to initial certification.* ::
+(a)  The Tax Commission shall review all applications that are eligible for review within one year of their filing, unless there is deferral of review.
 
+(b) The Tax Commission shall schedule the review of applications at its discretion.
 
-a. Any employee organization which (1) discriminates with regard to the terms and conditions of membership because of race, color, creed, religion, disability, gender, sexual orientation, age, or national origin, or (2) is engaged in or advocates the violent overthrow of the government of the United States or of any state or any political subdivision thereof shall be ineligible for certification as an exclusive bargaining representative. For purposes of this section, the finding of a court or an administrative tribunal of competent jurisdiction that an employee organization has engaged in discrimination upon one of the above bases in a particular case shall not be dispositive of the question of that employee organization's eligibility for certification unless it is also found that the employee organization has engaged in a pattern or practice of such discrimination generally.
+(c) The Tax Commission may review an application as soon as it is filed, upon notice to the representative or self-represented applicant, as specified in this section.
 
-b. No organization seeking or claiming to represent members of the police force of the police department shall be certified if such organization (i) admits to membership, or is affiliated directly or indirectly with an organization which admits to membership, employees other than members of the police force of the police department, or (ii) advocates the right to strike.
+(d) Review of an application may be (1) by hearing, in person or by telephone or (2) on papers submitted.
 
-c. Certificates or designations issued by the department of labor prior to the effective date of this chapter and in effect on such date shall remain in effect until terminated by the board of certification pursuant to its rules. Nothing contained in this subdivision shall limit the power of the board of certification to determine bargaining units differing from those determined by the department of labor.
+(e) Applicants shall request their preferred method of review in the application. The Tax Commission will make reasonable efforts to grant an applicant's preferred method of review.
 
+(f) Representatives and self-represented applicants shall appear for hearings at the scheduled time.
 
+(g) The Tax Commission shall deny review of an application upon an applicant's or representative's failure to appear, without good cause, at a scheduled hearing.
 
+(h) The Tax Commission may review an application on papers submitted or defer review of an application of a group representative who requests the rescheduling of a hearing and fails to show good cause therefor.
 
+(i) Notice and location of hearings for self-represented applicants and for non-group representatives.
 
+   (1) Self-represented applicants and non-group representatives may request a hearing in an office of the Tax Commission in any borough. The Tax Commission shall make reasonable efforts to grant the applicant's or representative's prepared location.
 
-*§ 12-315 Delegation of powers.* ::
+   (2) The Tax Commission will mail written notice of the date, time and location of a hearing held at the applicant's or representative's request to the applicant or the person the application designates as the representative, as the case may be, at the mailing address specified.
 
+   (3) Notice of hearing shall be mailed by June 15 and at least two weeks before the scheduled hearing date.
 
-The director, with the approval of at least five other members of the board of collective bargaining, may delegate to independent and impartial private institutions those functions of the office of collective bargaining relating to (a) the maintenance of registers of mediators, arbitrators, and members of impasse panels, (b) the submission of the names of persons on the impasse panel and arbitration registers for selection by parties to negotiations or to a grievance, and (c) the conduct of representation and decertification elections.
+   (4) An applicant or representative who requests a hearing and does not receive by June 22 a notice of a hearing shall notify the Tax Commission of such fact in writing or by telephone, fax or email by 5:00 P.M. on June 26. Failure to timely notify the Tax Commission may result in denial or deferral of review. When June 26 falls on a Saturday or Sunday, such notices are timely if provided by 5:00 P.M. the following Monday. A self-represented applicant and non-group representative shall provide a copy of an application and filing receipt upon the request of the Tax Commission.
 
+(j) Notice and location of hearings for group representatives.
 
+   (1) Hearings for group representatives shall be conducted in the Tax Commission's Office.
 
+   (2) The Tax Commission will provide the group representative with notice of the date and time of a hearing requested in the application. The Tax Commission may use regular mail for notice of hearings to group representatives, or fax or email for group representatives who maintain fax or email facilities in their regular course of business.
 
+   (3) As notice of hearing, the Tax Commission may provide calendar pages.
 
+   (4) The Tax Commission will provide notice of hearing to group representatives of at least three business days.
 
-*§ 12-316 Emergency suspension of salary and wages.* ::
+   (5) Except as provided in subdivision (k) of this section or for good cause shown, group representatives shall appear timely at all hearings scheduled during business days from March 15 to November 15, inclusive.
 
+   (6) Group representatives who do not receive by April 10 a notice of hearing for all applications they filed shall notify the Tax Commission of such fact in writing or by telephone, fax or email by 5:00 P.M. on April 15. Failure to timely notify the Tax Commission may result in denial or deferral of review. When April 15 falls on a Saturday or Sunday, such notices are timely if provided by 5:00 P.M. the following Monday. Group representatives shall provide copies of applications and filing receipts upon the request of the Tax Commission.
 
-a. It is hereby found and declared that a fiscal emergency exists for the city of New York by reason of the following: As a result of the severe economic and social dislocations of recent years, there has been a great increase in the need and demand for public services at a time when financing such services has become increasingly difficult. Due to a general decline in investor acceptance of local government securities and almost unprecedented high interest rates, the city of New York, despite the financial soundness of its obligations, recently has faced increased difficulty in selling a sufficient amount of its securities to enable it to refund its outstanding obligations or to meet its cash requirements. For the immediate future, this increased difficulty has caused concern that it may be unable to provide, without interruption, many services essential to its inhabitants while also meeting obligations to the holders of its outstanding securities as they come due. It is in the public interest and it is the policy of the city of New York to provide, without interruption, services essential to its inhabitants while meeting its obligations to the holders of its outstanding securities. The state of New York, in an attempt to assist the city of New York and other municipalities faced by a similar or analogous problem has enacted chapter one hundred sixty-eight and one hundred sixty-nine of the laws of nineteen hundred seventy-five, which among other provisions create a municipal assistance corporation for the city of New York, empowering it to issue bonds and notes and to use the proceeds from their sale primarily to provide the city of New York with amounts to pay the short-term obligations of the city as they mature. Despite statutory provisions which, in effect, secure the bonds and notes issued by the municipal assistance corporation for the city of New York with all the proceeds of the state stock transfer tax and of the state municipal assistance sales and compensating use taxes to the extent needed for that purpose, despite the agreement of the city of New York to make and observe such changes in its record keeping, accounting, budgeting and financial management practices as the municipal assistance corporation for the city of New York requires pursuant to such legislation and despite numerous economy measures taken by the city of New York, including a substantial reduction in the number of its employees, the municipal assistance corporation for the city of New York has been experiencing difficulty in selling the bonds it has issued and has expressed grave concern with regard to its ability to sell bonds which it plans to issue in the near future. The city of New York, as a result, is faced by a fiscal emergency which could seriously impair its ability to carry on orderly and uninterrupted operations and functions of government. Imposing certain additional nuisance taxes which the state in the past had given it power to impose is not a feasible solution since to do so may further impair the city's credit standing because the burden of present taxes has contributed to flight from the city of middleclass taxpaying residents and of a number of business firms. In view of this situation, it is necessary for the city to exercise its sovereign police power to suspend salary increases in the manner provided in subdivision b of this section.
+   (7) Group representatives who do not receive by July 1 a notice of hearing or a calendar page for all applications that the Tax Commission previously reported are eligible for review shall notify the Tax Commission of such fact in writing or by telephone, fax or email by 5:00 P.M. on July 5. Failure to timely notify the Tax Commission may result in denial or deferral of review. When July 5 falls on a Saturday or Sunday, such notices are timely if provided by 5:00 P.M. the following Monday. When July 5 falls on a legal holiday, such notices are timely if provided by 5:00 P.M. the next business day following such legal holiday. Group representatives shall provide copies of applications and filing receipts upon the request of the Tax Commission.
 
-b. The mayor shall have the power to direct by executive order that all or any part of increases in salary or wages of public employees which have taken effect since June thirtieth, nineteen hundred seventy-five or which will take effect after that date pursuant to collective bargaining agreements or other analogous contracts requiring such salary increases as of July first, nineteen hundred seventy-five or as of any date thereafter shall be suspended. All or any part of increased payments for holiday and vacation differentials, shift differentials, salary adjustments according to plan and step-ups or increments which have taken effect since June thirtieth, nineteen hundred seventy-five or which will take effect after that date pursuant to collective bargaining agreements or other analogous contracts requiring such increased payment, as of July first, nineteen hundred seventy-five or as of any date thereafter may, in the same manner, be suspended. For the purposes of computing the pension base of retirement allowances, the suspended salary or wage increases and the suspended other payment shall not be considered as part of compensation or final compensation or of annual salary earned or earnable. The suspensions provided herein shall be effective for the first pay period ending on or subsequent to September first, nineteen hundred seventy-five and shall continue until one year thereafter.
+(k) Requests by group representatives for days without scheduled hearings.
 
-c. This section shall not be applicable to public employees covered by a collective bargaining agreement or a public employee not covered by a collective bargaining agreement where the collective bargaining representative or such unrepresented employee, by an instrument in writing, has agreed to a deferment of salary or wage increase which has been certified by the mayor as being an acceptable and appropriate contribution toward alleviating the city's fiscal crisis. The mayor may, if he or she finds that the fiscal crisis has been alleviated or for any other appropriate reason, direct by executive order that the suspensions of salary or wage increases or suspension of other increased payments shall, in whole or in part, be terminated.
+   (1) Group representatives may request in writing, on or before March 1, that the Tax Commission not schedule any hearings on certain business days between April 1 and November 15.
 
-d. Notwithstanding the provisions of section 12-304 of this chapter, this section shall be applicable to all public employees, including public employees of any public employer as defined in this chapter.
+   (2) Insofar as practical, the Tax Commission will not assign hearings to the representative on those days. Requests for more than five consecutive business days or for more than fifteen days within any sixty-day period will be granted only upon a showing of good cause supported by documentary evidence. In addition to the foregoing, for applications for properties whose assessed value is $40,000,000 or more, or such other amount specified by the Tax Commission, requests for more than five consecutive business days or for more than seven days from April 1 until the assessment roll becomes final on May 25 will be granted only upon a showing of good cause supported by documentary evidence.
+
+(l) Condominium unit hearings. All applications for condominium units in tax class two within the same condominium seeking correction of the value of the residential portion of the condominium as a whole may be heard at the same time.
+
+(m) Rescheduling requests by self-represented applicants and non-group representatives.
+
+   (1) Upon written request, received at least seven days before the scheduled hearing date, rescheduling may be granted to an alternative date. Such alternative date will be set at the discretion of the Tax Commission.
+
+   (2) All rescheduled hearings will be conducted in the Tax Commission's Office.
+
+   (3) A self-represented applicant or non-group representative may appeal in writing a rescheduled date of hearing for good cause shown, supported by documentary evidence.
+
+   (4) In the event of an emergency or other need to reschedule arising within seven days of the scheduled hearing, rescheduling may be granted at the discretion of the Tax Commission on less than seven days notice. The self-represented applicant or representative shall promptly give notice of an emergency or other need to reschedule and request rescheduling prior to the scheduled hearing in writing or by telephone, fax or email. Upon receipt of documentary evidence showing good cause for rescheduling, rescheduling will be granted.
+
+   (5) Failure to notify the Tax Commission in advance of a scheduled hearing date of a need to reschedule shall result in a denial of review in the absence of good cause shown for failure to appear and provide advance notice.
+
+(n) Rescheduling requests by group representatives upon good cause shown.
+
+   (1) After calendar pages have been provided, hearings may be rescheduled, with notice to the group representative, to a date sooner or later than the scheduled date.
+
+   (2) The hearing officer initially assigned to review rescheduled applications may retain them for review upon rescheduling.
+
+   (3) Upon a group representative's written request, received at least seven days before the scheduled hearing date, rescheduling shall be granted only upon a showing of good cause supported by documentary evidence. convenience of the group representative shall not be good cause to reschedule. A group representative's claim of insufficient time to prepare for a hearing that the representative requested shall not be good cause to reschedule, unless the group representative is a sole practitioner and has three or more calendar pages for one week.
+
+   (4) If hearings are scheduled on a day the representative timely informed the Tax Commission the representative would not be available, good cause shall be deemed shown unless the representative requested that no hearings be scheduled more days than permitted by this section.
+
+   (5) In the event of an emergency or other need to reschedule arising within seven days of the scheduled hearing, rescheduling may be granted at the discretion of the Tax Commission on less than seven days notice. The group representative shall promptly give notice of an emergency or other need to reschedule and request rescheduling prior to the scheduled hearing in writing or by telephone, fax or email. Upon receipt of documentary evidence showing good cause for rescheduling, rescheduling will be granted.
+
+   (6) Failure to notify the Tax Commission before a scheduled hearing date of a need to reschedule shall result in a denial of review in the absence of good cause shown for failure to appear and provide advance notice. Upon written request to the President, reconsideration of such denial of review may be granted upon a representative's showing of good cause for the failure to provide advance notice and appear and a clearly meritorious claim of error in the assessment. Review, if granted, shall be conducted on the papers submitted, unless otherwise directed by the Tax Commission.
+
+   (7) If a group representative has a conflicting engagement in court, the representative shall promptly notify the Tax Commission in writing of the conflict and request rescheduling. Notice of a conflicting engagement shall be provided before a scheduled hearing. In the instance of a conflicting engagement in a proceeding in another administrative agency, the Tax Commission shall entertain a request for rescheduling only in the event that the other administrative proceeding was scheduled before the Tax Commission sent notice of the scheduled hearing. The group representative shall promptly notify the Tax Commission in writing or by email of the conflict and request rescheduling.
+
+(o) Discretionary rescheduling for less than good cause.
+
+   (1) The Tax Commission may grant requests to reschedule hearings without good cause shown upon a determination that a change of date is convenient for the Tax Commission.
+
+   (2) If a representative or a self-represented applicant cannot attend a scheduled hearing, he or she may request in advance review on papers submitted. Review on papers upon advance request is in the discretion of the Tax Commission. Papers received on or before the scheduled hearing date, or other date set by the Tax Commission, shall be considered in the review.
+
+(p) Failure to appear upon a claim of lack of notice.
+
+   (1) Failure to appear based on a claim of lack of notice of hearing will be excused upon a showing of good cause established by convincing evidence by the representative or self-represented applicant. An erroneous address of the representative or self-represented applicant to which notice was sent will constitute good cause established by convincing evidence only if the representative or self-represented applicant has timely notified the Tax Commission of his, her, or its correct address.
+
+   (2) Non-receipt of notice of hearing shall not constitute good cause established by convincing evidence by for failure to appear unless the representative or self-represented applicant has made inquiry of the Tax Commission as to the date of scheduled hearings before April 15 or July 5 as required by 21 RCNY § 4-09(j)(6) and (7).
+
+   (3) The Tax Commission may review on papers submitted or defer review of applications of a representative or self-represented applicant who fails to show good cause that his or her failure to appear was the result of non-delivery of the notice of hearing by the postal service.
+
+(q) Rescheduling at the initiative of the Tax Commission.
+
+   (1) Upon notice by the Tax Commission to the representative or self-represented applicant of a need to reschedule, hearings shall be rescheduled to a mutually convenient date.
+
+   (2) In the event that a date within two weeks of the originally scheduled date cannot be agreed upon as mutually convenient, the Tax Commission may review the applications on the papers submitted or reschedule the hearing at its discretion on notice of at least five business days.
+
+
+
+
+
+
+*§ 4-10 Burden of Proof on Market Value and Other Facts.* ::
+
+
+(a)  An assessment is presumed correct.
+
+(b) Applicants must initially show substantial evidence sufficient to raise a valid and credible dispute regarding valuation before a hearing officer will proceed with a substantive review of an application.
+
+(c) Applicants bear the burden to prove that the assessment is erroneous by a preponderance of the evidence.
+
+(d) A complete application is the minimum evidence required for eligibility for a substantive review of an application. Facts specific to the property may be submitted in addition to the facts required by the prescribed forms.
+
+(e) Applicants claiming that an assessment is excessive, unequal or misclassified must prove full market value, regardless of restrictions personal to the owner, according to the condition, ownership, and use of the property on the tax status date, January 5.
+
+(f) In proving market value, applicants shall adhere to the three approaches to valuation recognized by the courts: sales, income, and cost.
+
+(g) The Tax Commission shall review the assessment, not components of the underlying valuation formula. By itself, an error in the valuation methodology or calculations used to derive the assessment shall not establish an assessment error.
+
+(h) Evidence of market value estimates of the Department of Finance or assessments of comparable properties shall not establish the market value of a property.
+
+(i) Property for which an application for review of the assessment is filed shall be subject to interior and exterior inspection by a City employee.
+
+(j) The hearing officer may cause the person who signed the application or any other person to appear, take such person's testimony under oath and require such person to produce for examination such books, records and documents upon which the application is based.
+
+(k) Evidence to dispute the Department of Finance tax class ratio of assessment shall conform to Real Property Tax Law § 720(3) to be considered on a claim that an assessment is unequal. A representative or self-represented applicant shall provide notice at least ten days before a scheduled hearing that he or she expects to offer such evidence.
+
+(l) The hearing officer shall consider and weigh the strength, credibility and persuasiveness of arguments and facts offered in support of an application, including the application, documents, photographs and maps, and sworn testimony on personal knowledge, along with arguments, records, or other evidence offered by the Department of Finance, records of the Tax Commission, or facts within the knowledge and experience of the hearing officer.
+
+
+
+
+
+
+*§ 4-11 Proving Market Value.* ::
+
+
+(a)  Sale of the subject property.
+
+   (1) The price at which a property sold in a recent arm's-length transaction between a willing buyer and seller on the open market, if not shown to be abnormal, is significant evidence of the value of the property.
+
+   (2) Applicants shall report the fact and details of any of the following transactions concerning the property under review occurring within a two-year period preceding the tax status date, January 5, and thereafter until an application is determined or an offer is accepted, whichever occurs later: any transfer of the property under review, any transfer of an ownership interest in the property, and the execution of a contract to transfer the property.
+
+      (i) An application that fails to report the fact and details of a transaction concerning the property that occurred before filing shall be denied review.
+
+      (ii) Failure to report a transaction concerning the property that occurs after filing an application and before determination of the application while the application is pending for determination shall result in denial of review.
+
+      (iii) Failure to report a transaction concerning the property that occurs after a hearing and before an offer is accepted shall result in withdrawal or revocation of an offer.
+
+   (3) Applicants shall report the fact and details of any net lease of the property under review in effect when an application is filed, when any such net lease is negotiated or executed while the application is pending for determination, or when an offer is accepted. Failure to report on a net lease shall result in denial of review or confirmation of the assessment if review preceded the execution of the net lease or the report.
+
+   (4) Applicants shall report details about a transfer of the property under review on the form prescribed for that purpose. The details required by such form may include, but shall not be limited to, whether the sale was an arm's-length transaction between unrelated persons, whether the sale was made without economic duress, and other aspects of the consideration and circumstances of the sale.
+
+   (5) In reporting a transfer of the property under review, applicants may be required to submit a copy of a closing statement in sufficient detail to permit identification of the principals, the total consideration paid, whether by cash or assumption of mortgages or other liabilities such as unpaid taxes, and such other information deemed necessary by the Tax Commission.
+
+(b) Sales approach.
+
+   (1) The market or sales comparison approach to finding value relies on recent sales of properties of similar size, age, and location.
+
+   (2) The Tax Commission will rely on comparable sales as the primary valuation method for properties in tax class one.
+
+   (3) The Tax Commission may rely on comparable sales as the primary valuation method for properties in tax class two with four to ten residential units.
+
+   (4) Sales offered as evidence shall be identified by date, address and block and lot, and exterior description of the property.
+
+   (5) Sales are recent if they have occurred within two years before or within two years after the tax status date, January 5.
+
+   (6) Sales shall be offered as evidence only upon personal knowledge or belief in good faith that the properties are comparable. If no recent comparable sales exist, other recent sales may be offered with reasonable adjustments for differences that are identified.
+
+(c) Income approach.
+
+   (1) The income approach to finding value relies on the income that the property generates or can generate. A year's net operating income, based on reported figures or estimates, may be divided by a capitalization rate to find value. Alternatively, value may be derived by multiplying one year's gross rental income by a factor derived from analysis of open market transfers of comparable properties.
+
+   (2) The Tax Commission will rely on the income approach as the primary valuation method for properties in tax class two with more than ten units and tax class four. The Tax Commission may rely on the income approach for properties in tax class two with ten or fewer units.
+
+   (3) The Tax Commission may require, in addition to completion of the prescribed forms, submission of copies of rent rolls prepared in the normal course of business and other documents as may be deemed relevant by the Tax Commission to the determination of value.
+
+   (4) To establish the value of properties that do not currently generate rental income, such as owner-occupied properties, properties held in the cooperative or condominium form of ownership, and owner-occupied condominium units, evidence of rental income and operating expenses from comparable rental buildings shall be provided. Such rental buildings shall be similar in age, number, size and type of apartments, number of floors, and location.
+
+   (5) Comparable rental buildings shall be offered as evidence only upon personal knowledge or belief in good faith that the properties are comparable. If there are no comparable properties, other rental buildings may be offered with adjustments for differences that are identified.
+
+   (6) Representatives and self-represented applicants relying on rental income and operating expenses from comparable buildings in their argument at the hearing shall submit a written summary of the information relied upon at the hearing.
+
+   (7) For residential condominium units, documentary evidence of rental income, if any, such as signed leases and copies of rent checks, shall be provided.
+
+   (8) The Tax Commission may rely on the income approach for properties used as hotels, motels, retail department stores, parking sites, and theaters.
+
+(d) Cost approach.
+
+   (1) The cost approach to value relies on the cost of reproducing the existing structure, less depreciation.
+
+   (2) The Tax Commission will rely on the cost approach as the primary valuation method for specialty properties, including utility structures and equipment.
+
+   (3) The Tax Commission will rely on the cost approach as the primary valuation method for newly constructed properties and for valuation of alterations to existing properties.
+
+(e) The hearing officer may consider any reasonable valuation approach or a combination of approaches in determining value.
+
+(f) The hearing officer may:
+
+   (1) cause the person verifying the application or another person with personal knowledge to appear;
+
+   (2) take testimony under oath;
+
+   (3) require the applicant to produce for examination such books, records and documents upon which the application is based; and
+
+   (4) visit and inspect the property.
+
+(g) The hearing officer may upon notice to the reresentative or self-represented applicant require submission at or after a hearing additional information, including without limitation statements, documents, records, or photographs, that the hearing officer considers material to determine the application.
+
+(h) All testimony at a hearing shall be given under oath. All written information and documents offered by representatives and self-represented applicants for consideration at a hearing, or on review without a hearing, shall be authenticated upon personal knowledge.
+
+(i) Written statements submitted after the filing of an application to cure factual omissions or errors in the application shall be verified upon personal knowledge.
+
+(j) If the property is occupied, in whole or part, by the applicant or a related entity, the applicant shall so state.
+
+(k) If the applicant is a lessee, the applicant shall upon request of the hearing officer provide a copy of the lease or memorandum of lease and shall certify the nature of the relation, if any, between the parties to the lease.
+
+(l) If the applicant's claim concerns valuation of a new building or an alteration of an existing improvement, the applicant shall provide copies of contracts, cancelled checks or other documentary evidence of all costs of construction or alteration. The applicant shall state if any exemption application is pending or contemplated.
+
+(m) If the applicant's claim rests on a judgment of foreclosure, the applicant shall present evidence of the foreclosure, unpaid balance of mortgage, if any, and all other pertinent information.
+
+(n) If the applicant's claim rests on an adjudication of bankruptcy, the applicant shall present evidence of such adjudication and all other pertinent information.
+
+(o) If the applicant's claim rests on a change of law, the applicant shall provide a statement of the law and authorities substantiating the claim.
+
+(p) If the applicant's claim rests on demolition of or physical damage to the property, the applicant shall upon request of the hearing officer present evidence of the type and extent of damage, the type and extent of insurance coverage, governmental assistance for which the applicant has applied or will apply, litigation to recover for such damage that the applicant has commenced or will commence, existing tenancies, if any, and plans to repair, renovate or reconstruct the property.
+
+
+
+
+
+
+*§ 4-12 Offer and Acceptance.* ::
+
+
+(a)  An offer to correct an assessment requires that an error in assessment either be established by the applicant by a preponderance of the evidence or be admitted by the Department of Finance.
+
+(b) An offer may be extended upon such conditions as the Tax Commission deems just and equitable under the circumstances.
+
+(c) An offer may encompass the assessment for the current year and the immediately prior year or an earlier year authorized by Administrative Code § 11-225.
+
+(d) An offer to correct an assessment may be based in whole or part on error in assessment for an earlier year provided such error is established and a valid Real Property Tax Law article seven petition to correct the earlier assessment is pending.
+
+(e) A notice of offer and acceptance agreement will be issued in writing to the representative or self-represented applicant.
+
+(f) An offer shall be accepted in the form prescribed for that purpose within the time stated in the notice of the offer. The time for acceptance shall not be less than ten days.
+
+(g) Upon failure to file the acceptance within the time stated, in the proper form, and with all required papers, as prescribed in the acceptance agreement, the offer shall lapse and the assessment shall be confirmed.
+
+(h) A change to a prescribed term of an acceptance shall make the attempt to accept an offer ineffective.
+
+(i) An acceptance is filed when it is received in the Tax Commission's Office. A Tax Commission receipt form is the only proof of timely filing recognized by the Tax Commission.
+
+(j) If, after an offer and before acceptance, there has been a transfer of the property or the applicant's interest in the property, execution of a contract to sell, or a new net lease negotiated or executed, these facts shall be disclosed in the form prescribed for that purpose with a request for re-offer within the time allowed for acceptance, unless the applicant chooses not to accept the offer.
+
+(k) Offers are subject to review and approval and revocation by the Tax Commission.
+
+   (1) The Tax Commission may withdraw an offer at any time and for any reason prior to the Tax Commission's approval of the offer, whether or not such offer has been accepted. Upon withdrawal of an offer, the Department of Finance shall reinstate the original assessment.
+
+   (2) An offer may be revoked within six years after its approval by the Tax Commission on grounds of illegality, irregularity, fraud or misrepresentation in the application or in oral or written submissions in support of the application, or because the applicant or any person acting for the applicant is convicted of, or enters a plea of guilty to, a crime related to the assessment of the property. Upon revocation of an offer, the Department of Finance shall reinstate the original assessment and may impose additional taxes with interest. The applicant shall forthwith return any refund paid as a result of the offer.
+
+
+
+
+
+
+*§ 4-13 Reconsideration for Manifest and Substantial Error.* ::
+
+
+(a)  Representatives and self-represented applicants may request reconsideration of the merits of a determination upon a showing of manifest and substantial error.
+
+(b) Requests for reconsideration should be made to the President within fifteen days of the notice of determination.
+
+(c) Requests for reconsideration shall be in writing and shall specify the manifest and substantial error(s).
+
+
+
+
+
+
+*§ 4-14 Access to Hearings and Records.* ::
+
+
+(a)  Except as otherwise provided herein, hearings shall be open to the public.
+
+(b) Applications, written hearing records, and papers filed or submitted by applicants and the Department of Finance shall be available for public inspection and copying as provided by the Freedom of Information Law. Applicants may indicate that information to be disclosed in testimony or disclosed in papers filed or submitted, including leases, rent rolls and lease schedules, should be protected from further disclosure pursuant to such law.
+
+(c) Requests to copy or inspect records shall be made to the Records Access Officer at the Tax Commission's Office.
+
+(d) No original records shall be removed from the custody Tax Commission unless authorized by the President or Counsel or as otherwise required by law.
+
+(e) In the event that a City agency must take possession of an original record for official purposes, its authorized agent shall request such record in writing from Counsel.
+
+(f) In the event that a City agency requires a copy of a record for official purposes, its authorized agent shall request it from Counsel.
+
+
+
+
+Chapter 5: Fee For Applications To Correct Assessments
+--------------------------------------------------
+
+
+
+*§ 5-01 [Fee Authorized.]* ::
+
+
+The Tax Commission shall charge and collect the fee set forth in this chapter.
+
+
+
+
+
+
+*§ 5-02 Fee.* ::
+
+
+For purposes of this chapter "Fee" shall mean the amount charged to an applicant for reviewing applications as provided in this chapter.
+
+
+
+
+
+
+*§ 5-03 Imposition of Fee.* ::
+
+
+(a) The Fee shall be imposed on applications for properties having an assessed value of $2 million or more when the application is scheduled for review. An application shall be deemed to be "scheduled for review":
+
+   (i) for applications filed by group representatives, when the application first appears on a calendar page; and
+
+   (ii) for applications filed by self-represented applicants and non-group representatives, when a notice that the application has been scheduled for review has been mailed.
+
+(b) For purposes of this chapter "assessed value" shall mean the assessed value or actual assessed value shown on the notice of property value issued by the Department of Finance or, where a notice of revised property value has been issued by the Department of Finance, the assessed value shown on that revised notice. Where a single application covers multiple condominium units, the assessed value for purposes of this chapter shall mean the aggregate assessed value shown on such notice for all units covered by the application.
+
+
+
+
+
+
+*§ 5-04 Amount of Fee.* ::
+
+
+The amount of the Fee shall be one hundred seventy-five dollars.
+
+
+
+
+
+
+*§ 5-05 Exemption.* ::
+
+
+An application for which review has been waived prior to being scheduled for review shall be exempt from the Fee.
+
+
+
+
+
+
+*§ 5-06 Payment and Collection of Fee.* ::
+
+
+Unless the Tax Commission provides otherwise, the Fee shall be included on a Statement of Account or real property tax bill issued after the application has been scheduled for review. The Department of Finance shall administer the billing and collection of the Fee on behalf of the Tax Commission.
+
+
+
+
+
+
+*§ 5-07 Non-Payment of Fee.* ::
+
+
+Notwithstanding any other provision of these rules to the contrary, if any Fee remains outstanding, the Tax Commission may revoke an offer and restore the matter to its prior status, or decline to schedule an application for review.
 
 
 
