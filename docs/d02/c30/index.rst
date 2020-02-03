@@ -1266,6 +1266,7 @@ If any provision of these Regulations or the application thereof is held invalid
     * - ** Distinct and contemporaneous violations will be counted separately for the purpose of calculating a monetary penalty. For example, an employer who has between four and nine employees and is using a discriminatory advertisement in violation of 47 RCNY § 2-04(a)(1) and an application that references criminal history in violation of 47 RCNY § 2-04(a)(2) will be charged with two separate violations of $500.00 each. However, multiple violations of one section, for example, posting a discriminatory advertisement on three different websites, will be counted as one violation for the purpose of assessing a penalty under this section.
       - 
       - 
+
 ~
 
 
@@ -1405,6 +1406,7 @@ If any provision of these Regulations or the application thereof is held invalid
     * - ** Distinct and contemporaneous violations will be counted separately for the purpose of calculating a monetary penalty. For example, an employer who has 4 - 9 employees who requests consumer credit history from an applicant orally in violation of 47 RCNY § 2-05(a)(1) and requires that same applicant to sign a waiver authorizing a credit check in violation of 47 RCNY § 2-05(a)(4) will be charged with two separate violations of $500.00 each. However, multiple violations of one section, for example, posting a discriminatory advertisement on three different websites, will be counted as one violation for the purpose of assessing a penalty under this section.
       - 
       - 
+
 ~
 
 

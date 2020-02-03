@@ -687,6 +687,7 @@ e. Tear gas; sale or possession of; fees for permits.
       - $50.00 
     * - (g) To possess or carry any instrument or device to discharge or emit such gas or liquid
       - $5.00 
+
 ~
 
  

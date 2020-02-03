@@ -2492,6 +2492,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $33,500 or more but less than $34,400
       -  5 per centum 
+
 ~
 
  
@@ -2522,6 +2523,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $34,500 or more but less than $35,400
       - 5 per centum 
+
 ~
 
  
@@ -2552,6 +2554,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $35,500 or more but less than $36,400
       - 5 per centum 
+
 ~
 
  
@@ -2582,6 +2585,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $36,500 or more but less than $37,400
       - 5 per centum 
+
 ~
 
  
@@ -2612,6 +2616,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $57,500 or more but less than $58,400
       - 5 per centum 
+
 ~
 
  
@@ -2682,6 +2687,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $33,500 or more but less than $34,400
       -  5 per centum 
+
 ~
 
  
@@ -2712,6 +2718,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $34,500 or more but less than $35,400
       - 5 per centum 
+
 ~
 
  
@@ -2742,6 +2749,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $35,500 or more but less than $36,400
       - 5 per centum 
+
 ~
 
  
@@ -2772,6 +2780,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $36,500 or more but less than $37,400
       - 5 per centum 
+
 ~
 
  
@@ -2802,6 +2811,7 @@ Real property owned by a water-works corporation subject to the provisions of th
       - 10 per centum 
     * - $57,500 or more but less than $58,400
       - 5 per centum 
+
 ~
 
  
@@ -3130,6 +3140,7 @@ CONSTRUCTION OR RECONSTRUCTION OF INDUSTRIAL STRUCTURES OR RECONSTRUCTION OF AS 
       - 10 
     * - 19 
       -  5 
+
 ~
 
  
@@ -3164,6 +3175,7 @@ RECONSTRUCTION OF OTHER COMMERCIAL STRUCTURES OR CONSTRUCTION OF AS OF RIGHT OR 
       - 10 
     * - 10 
       -  5 
+
 ~
 
  
@@ -3188,6 +3200,7 @@ CONSTRUCTION OF OTHER NEW COMMERCIAL STRUCTURES
       - 20
     * -  5 
       - 10
+
 ~
 
 
@@ -3418,6 +3431,7 @@ a. (1) A recipient who, following the effective date of a certificate of eligibi
       - Tax on 20% of exemption base
     * - 22
       - Tax on 10% of exemption base
+
 ~
 
  
@@ -3452,6 +3466,7 @@ a. (1) A recipient who, following the effective date of a certificate of eligibi
       - Tax on 20% of exemption base
     * - 25
       - Tax on 10% of exemption base
+
 ~
 
  
@@ -3490,6 +3505,7 @@ a. (1) A recipient who, following the effective date of a certificate of eligibi
       - 10% 
     * - 12
       - 10% 
+
 ~
 
  
@@ -3534,6 +3550,7 @@ b. (1) A recipient who, following the effective date of a certificate of eligibi
       - Tax on 20% of exemption base
     * - 22
       - Tax on 10% of exemption base
+
 ~
 
  
@@ -3568,6 +3585,7 @@ b. (1) A recipient who, following the effective date of a certificate of eligibi
       - Tax on 20% of exemption base
     * - 25
       - Tax on 10% of exemption base
+
 ~
 
  
@@ -3592,6 +3610,7 @@ c. (1) A recipient who, following the effective date of a certificate of eligibi
       - Tax on 40% of exemption base
     * - 12
       - Tax on 20% of exemption base
+
 ~
 
 
@@ -3618,6 +3637,7 @@ c. (1) A recipient who, following the effective date of a certificate of eligibi
       - Tax on 40% of exemption base
     * - 15
       - Tax on 20% of exemption base
+
 ~
 
 
@@ -3648,6 +3668,7 @@ d. Except as provided in paragraphs (2) and (3) of subdivision d of section 11-2
       - No tax payments are to be deferred and no deferred tax payments are required to be made
     * - 11 through 20
       - Payment each year of 10% of total dollar amount of tax payments deferred pursuant to this part
+
 ~
 
  
@@ -3672,6 +3693,7 @@ e. A recipient who, following the effective date of a certificate of eligibility
       - Tax on 40% of exemption base
     * - 12
       - Tax on 20% of exemption base
+
 ~
 
 
@@ -3698,6 +3720,7 @@ e.1. A recipient who, following the effective date of a certificate of eligibili
       - Tax on 40% of exemption base
     * - 8
       - Tax on 20% of exemption base
+
 ~
 
 
@@ -4130,6 +4153,7 @@ c. Industrial and commercial abatements.
       - 40% of abatement base
     * - 15 
       - 20% of abatement base
+
 ~
 
 
@@ -4170,6 +4194,7 @@ c. Industrial and commercial abatements.
       - 20% of abatement base
     * - 25 
       - 10% of abatement base
+
 ~
 
  
@@ -4210,6 +4235,7 @@ c. Industrial and commercial abatements.
       - Amount of abatement:
     * - Years 1 through 15 
       - 100% of abatement base
+
 ~
 
 
@@ -4248,6 +4274,7 @@ c. Industrial and commercial abatements.
       - 40% of abatement base
     * - 15 
       - 20% of abatement base
+
 ~
 
 
@@ -4298,6 +4325,7 @@ c. Industrial and commercial abatements.
       - 40% of abatement base
     * - 12 
       - 20% of abatement base
+
 ~
 
 
@@ -4326,6 +4354,7 @@ c. Industrial and commercial abatements.
       - 20% of abatement base
     * - 10 
       - 20% of abatement base
+
 ~
 
 
@@ -4364,6 +4393,7 @@ c. Industrial and commercial abatements.
       - 10% of the initial tax amount
     * - 12 
       - 10% of the initial tax amount
+
 ~
 
  
@@ -4392,6 +4422,7 @@ c. Industrial and commercial abatements.
       - 40% of abatement base
     * - 8 
       - 20% of abatement base
+
 ~
 
 
@@ -8064,6 +8095,7 @@ a. (1) For each tax year commencing on or after June first, nineteen hundred six
     * - $ 11,000 and over
       - 
       - 7 1/2% of the rent
+
 ~
 
 
@@ -8346,6 +8378,7 @@ A tenant whose base rent for the tax year beginning June first, nineteen hundred
     * - $55,000
       - $59,999
       - 20% 
+
 ~
 
 
@@ -8380,6 +8413,7 @@ If the tenant's annualized base rent for such period is over fifty-nine thousand
     * - $55,000
       - $59,999
       - 20% 
+
 ~
 
 
@@ -8414,6 +8448,7 @@ If the tenant's base rent is over fifty-nine thousand nine hundred ninety-nine d
     * - $130,000
       - $139,999
       - 20% 
+
 ~
 
 
@@ -8448,6 +8483,7 @@ If the tenant's base rent is over one hundred thirty-nine thousand nine hundred 
     * - $130,000
       - $139,999
       - 20% 
+
 ~
 
 
@@ -8482,6 +8518,7 @@ If the tenant's annualized base rent for such period is over one hundred thirty-
     * - $180,000
       - $189,999
       - 20% 
+
 ~
 
 
@@ -9730,6 +9767,7 @@ a. To provide additional funds for the purpose of fulfilling any contract to mak
     * -  5,001.00 and over 
       - 
       - 12.00 
+
 ~
 
 
@@ -9754,6 +9792,7 @@ b. Where the premises are occupied by vending machines which sell tangible perso
       - 1.00
     * -  .25 and over
       - 2.00
+
 ~
 
 
@@ -9774,6 +9813,7 @@ c. Where the premises are occupied by vending machines other than those which se
       -  $ .40
     * -  .02 and over
       - 2.00
+
 ~
 
 
@@ -10902,6 +10942,7 @@ a. In accordance with section 110 of the public housing law, an excise tax on th
     * - Loose tobacco
       - $2.55 per 1.5 oz. package plus $0.51 for each additional 0.3 oz. or any fraction thereof in excess of 1.5 oz.
       - $0.25 per 1.5 oz. package plus an additional $0.05 for each 0.3 oz. or any fraction thereof in excess of 1.5 oz.
+
 ~
 
 
@@ -11915,6 +11956,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
       -  $1,355 plus 3.35% of excess over $45,000
     * - Over $90,000
       -  $2,863 plus 3.4% of excess over $90,000
+
 ~
 
 
@@ -11942,6 +11984,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
       -  $2,694 plus 3.2% of excess over $90,000
     * - Over $500,000
       -  $16,803 plus 3.4% of excess over $500,000
+
 ~
 
 
@@ -11969,6 +12012,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
       -  $2,694 plus 3.2% of excess over $90,000
     * - Over $500,000
       -  $15,814 plus 3.4% of excess over $500,000
+
 ~
 
 
@@ -11996,6 +12040,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
       -  $904 plus 3.35% of excess over $30,000
     * - Over $60,000
       -  $1,909 plus 3.4% of excess over $60,000
+
 ~
 
 
@@ -12023,6 +12068,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
       -  $1,796 plus 3.2% of excess over $60,000
     * - Over $500,000
       -  $16,869 plus 3.4% of excess over $500,000
+
 ~
 
 
@@ -12050,6 +12096,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
       -  $1,796 plus 3.2% of excess over $60,000
     * - Over $500,000
       -  $15,876 plus 3.4% of excess over $500,000
+
 ~
 
 
@@ -12077,6 +12124,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
       -  $753 plus 3.35% of excess over $25,000
     * - Over $50,000
       -  $1,591 plus 3.4% of excess over $50,000
+
 ~
 
 
@@ -12104,6 +12152,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
       -  $1,497 plus 3.2% of excess over $50,000
     * - Over $500,000
       -  $16,891 plus 3.4% of excess over $500,000
+
 ~
 
 
@@ -12131,6 +12180,7 @@ General. A tax is hereby imposed on the city taxable income of every city reside
       -  $1,497 plus 3.2% of excess over $50,000
     * - Over $500,000
       -  $15,897 plus 3.4% of excess over $500,000
+
 ~
 
 
@@ -12160,6 +12210,7 @@ For taxable years beginning after two thousand twenty:
       -  $591 plus 1.455% of excess over $45,000
     * - Over $90,000
       -  $1,245 plus 1.48% of excess over $90,000
+
 ~
 
 
@@ -12187,6 +12238,7 @@ For taxable years beginning after two thousand twenty:
       -  $394 plus 1.455% of excess over $30,000
     * - Over $60,000
       -  $830 plus 1.48% of excess over $60,000
+
 ~
 
 
@@ -12214,6 +12266,7 @@ For taxable years beginning after two thousand twenty:
       -  $328 plus 1.455% of excess over $25,000
     * - Over $50,000
       -  $692 plus 1.48% of excess over $50,000
+
 ~
 
 
@@ -12258,6 +12311,7 @@ For taxable years beginning after two thousand twenty:
       -  $5,260 plus 4.05% of excess over $150,000
     * - Over $500,000
       -  $19,435 plus 4.45% of excess over $500,000
+
 ~
 
 
@@ -12286,6 +12340,7 @@ For taxable years beginning after two thousand twenty:
       -  $5,260 plus 4.175% of excess over $150,000
     * - Over $500,000
       - $19,872 plus 4.45% of excess over $500,000
+
 ~
 
 
@@ -12314,6 +12369,7 @@ For taxable years beginning after two thousand twenty:
       -  $5,260 plus 4.25% of excess over $150,000
     * - Over $500,000
       - $20,135 plus 4.45% of excess over $500,000
+
 ~
 
 
@@ -12344,6 +12400,7 @@ For taxable years beginning after two thousand twenty:
       -  $4,418 plus 4.05% of excess over $125,000
     * - Over $500,000
       -  $19,606 plus 4.45% of excess over $500,000
+
 ~
 
 
@@ -12372,6 +12429,7 @@ For taxable years beginning after two thousand twenty:
       -  $4,418 plus 4.175% of excess over $125,000
     * - Over $500,000
       -  $20,075 plus 4.45% of excess over $500,000
+
 ~
 
 
@@ -12400,6 +12458,7 @@ For taxable years beginning after two thousand twenty:
       -  $4,418 plus 4.25% of excess over $125,000
     * - Over $500,000
       -  $20,356 plus 4.45% of excess over $500,000
+
 ~
 
 
@@ -12432,6 +12491,7 @@ For taxable years beginning after two thousand twenty:
       -  $3,530 plus 4.05% of excess over $100,000
     * - Over $500,000
       -  $19,730 plus 4.45% of excess over $500,000
+
 ~
 
 
@@ -12460,6 +12520,7 @@ For taxable years beginning after two thousand twenty:
       -  $3,530 plus 4.175% of excess over $100,000
     * - Over $500,000
       -  $20,230 plus 4.45% of excess over $500,000
+
 ~
 
 
@@ -12488,6 +12549,7 @@ For taxable years beginning after two thousand twenty:
       -  $3,530 plus 4.25% of excess over $100,000
     * - Over $500,000
       -  $20,530 plus 4.45% of excess over $500,000
+
 ~
 
 
@@ -12560,6 +12622,7 @@ For taxable years beginning after two thousand twenty:
       -  $158 plus 0.51% of excess over $45,000
     * - Over $108,000
       -  $479 plus 0.51% of excess over $108,000
+
 ~
 
 
@@ -12586,6 +12649,7 @@ For taxable years beginning after two thousand twenty:
       -  $162 plus 0.51% of excess over $45,000
     * - Over $108,000
       -  $484 plus 0.51% of excess over $108,000
+
 ~
 
 
@@ -12614,6 +12678,7 @@ For taxable years beginning after two thousand twenty:
       -  $100 plus 0.51% of excess over $27,500
     * - Over $66,000
       -  $296 plus 0.51% of excess over $66,000
+
 ~
 
 
@@ -12642,6 +12707,7 @@ For taxable years beginning after two thousand twenty:
       -  $111 plus 0.51% of excess over $28,750
     * - Over $69,000
       -  $317 plus 0.51% of excess over $69,000
+
 ~
 
 
@@ -12670,6 +12736,7 @@ For taxable years beginning after two thousand twenty:
       -  $86 plus 0.51% of excess over $25,000
     * - Over $60,000
       -  $264 plus 0.51% of excess over $60,000
+
 ~
 
 
@@ -12696,6 +12763,7 @@ For taxable years beginning after two thousand twenty:
       -  $88 plus 0.51% of excess over $25,000
     * - Over $60,000
       -  $266 plus 0.51% of excess over $60,000
+
 ~
 
 
@@ -12849,6 +12917,7 @@ For taxable years beginning after two thousand twenty:
     * - Over $10,000 but not over $12,500
       -  $0
       -  $10 
+
 ~
 
 
@@ -12901,6 +12970,7 @@ For taxable years beginning after two thousand twenty:
       - $0
       - $0
       - $10
+
 ~
 
  
@@ -12943,6 +13013,7 @@ Editor's note: there are two divisions designated (c) in this section.
       - $290 
     * - in 2009 - 2015
       - $125 
+
 ~
 
 
@@ -12967,6 +13038,7 @@ Editor's note: there are two divisions designated (c) in this section.
       - $145  
     * - in 2009 - 2015
       - $ 62.50 
+
 ~
 
 
@@ -13428,6 +13500,7 @@ Editor's note: there are two divisions designated (c) in this section.
       -   100 
     * - 25,000 and over
       -   0 
+
 ~
 
  
@@ -13518,6 +13591,7 @@ Editor's note: there are two divisions designated (c) in this section.
       - fifty percent 
     * - At least six years
       - one hundred percent 
+
 ~
 
 
@@ -15263,6 +15337,7 @@ As used in this chapter, the following terms shall mean and include:
       - $1,000 
     * - Over $30,000
       - None 
+
 ~
 
 
@@ -18004,6 +18079,7 @@ a. (1)    On and after July first, nineteen hundred seventy until and includi
       - $ .75 per day
     * - $20 or more
       - $1.00 per day
+
 ~
 
 
@@ -18028,6 +18104,7 @@ a. (1)    On and after July first, nineteen hundred seventy until and includi
       - $1.50 per day
     * - $40 or more
       - $2.00 per day
+
 ~
 
 

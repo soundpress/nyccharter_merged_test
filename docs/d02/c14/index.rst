@@ -365,6 +365,7 @@ Each mortgagor or contractor performing rehabilitation work with proceeds of a m
       - Basic rent plus 45 percent
     * - In excess of 150 percent
       - Basic rent plus 50 percent
+
 ~
 
  
@@ -453,6 +454,7 @@ Allowable architectural and legal fees and contractor's overhead and profit shal
 
     * - Construction Cost 
       - Fee as Percent of Constuction Cost 
+
 ~
 
 
@@ -489,6 +491,7 @@ Allowable architectural and legal fees and contractor's overhead and profit shal
       - 5.5 
     * - 2,000,000 
       - 4.0 
+
 ~
 
  
@@ -955,6 +958,7 @@ Chapter 3: City-aided Limited Profit Housing Companies
       - 123-4567 
       - 765-5432 
       - yes 
+
 ~
 
 
@@ -1221,6 +1225,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
       - 45 
     * - From 150 percent and over
       - 50 
+
 ~
 
  
@@ -1648,6 +1653,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
     :header-rows: 1
 
     * - TO ALL TENANTS OF (Name of Development)NOTICE OF APPLICATION (Housing Company)FOR RENTAL INCREASE
+
 ~
 
 
@@ -1663,6 +1669,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
     :header-rows: 1
 
     * - PLEASE TAKE NOTICE, that upon the annexed application of (Housing Company) the Department of Housing Preservation and Development of the City of New York will be requested to approve an increase in the maximum average monthly room rental in the housing development of (Housing Company) from (present maximum) to (requested maximum); andPLEASE TAKE NOTICE FURTHER that a public hearing will be held at the time and place designated by HPD in the attached cover letter from HPD, and at that time evidence will be introduced in support of said application by the undersigned. Interested parties may appear in person to comment or may provide written comments to HPD. YOU MAY APPEAR IN PERSON OR BY ATTORNEY (Place) ________________________________________Date (Date of Notice) ________________________________________Date (Date of Notice) Housing Company ________________________________________ (Attorneys)
+
 ~
 
 
@@ -1747,6 +1754,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
       - $7,500 
     * -  500 or more units
       - $8,500 
+
 ~
 
 
@@ -2255,6 +2263,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
     * - (ix)  Lock box service
       - X 
       - 
+
 ~
 
  
@@ -2860,6 +2869,7 @@ Targeted Area. "Targeted Area" means a geographic area in the city of New York i
     * - Borough
       - Zip Code
       - Neighborhood Name 
+
 ~
 
 
@@ -2939,6 +2949,7 @@ Targeted Area. "Targeted Area" means a geographic area in the city of New York i
     * - Queens
       - 11385
       - Ridgewood-Glendale
+
 ~
 
  
@@ -3423,6 +3434,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
       - 0% 
     * - $38,000 or more 
       - No exemption granted 
+
 ~
 
 
@@ -3487,6 +3499,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
       - Project 
       - Maximum Annual Abatement 
       - Maximum Total Abatement 
+
 ~
 
 
@@ -3553,6 +3566,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
       - 28 RCNY § 5-03(a)(9) 
       - 12 1/2% of CRC 
       - 150% of CRC 
+
 ~
 
 *   Conversions within the County of New York on any tax lot bordering on or south of 96th Street.
@@ -3605,6 +3619,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
       - $17,400 
     * - 5 1/2 
       - $19,800 
+
 ~
 
 
@@ -4043,6 +4058,7 @@ Maximum Allowance for All Buildings
       - Window guards, childproof
       - units
       - 25.
+
 ~
 
  
@@ -4138,6 +4154,7 @@ Maximum Allowance for All Buildings
       -  Top of car safety device
       - units
       - 2,800.
+
 ~
 
  
@@ -4243,6 +4260,7 @@ Maximum Allowance for All Buildings
       - Food waste disposers13
       - units
       - 300.
+
 ~
 
  
@@ -4308,6 +4326,7 @@ Maximum Allowance for All Buildings
       - Piping, heat mains, risers, branch
       - rooms
       - 220.
+
 ~
 
  
@@ -4403,6 +4422,7 @@ Maximum Allowance for All Buildings
       - Cogeneration equipment19
       - kilowatt
       - 400
+
 ~
 
  
@@ -4453,6 +4473,7 @@ Maximum Allowance for All Buildings
       - Steam or chemical cleaning
       - sq. ft.
       - 0.80
+
 ~
 
  
@@ -4491,6 +4512,7 @@ Maximum Allowance for All Buildings
       - $1,000.11.75/MBH
       - 14,000.5.25/MBH
       - 39,300.1.00/MBH
+
 ~
 
 
@@ -4511,6 +4533,7 @@ Maximum Allowance for All Buildings
       - $460.  9.10/MBH
     * - &gt;600 
       - $1,900.  6.70/MBH
+
 ~
 
 
@@ -4531,6 +4554,7 @@ Maximum Allowance for All Buildings
       - $500.  l.10/gal. 
     * - &gt;4,000 
       - $2,900.  .50/gal. 
+
 ~
 
 
@@ -4549,6 +4573,7 @@ Maximum Allowance for All Buildings
       - $1,600. + $10./linear ft. 
     * - Internal Square Feet 
       - $1,600. + $10./sq. ft.   
+
 ~
 
 
@@ -4723,6 +4748,7 @@ Maximum Allowance for All Buildings
       - set
       - 55.
       - 75.
+
 ~
 
  
@@ -5405,6 +5431,7 @@ Maximum Allowance for All Buildings
       - kilowatt
       - 400.00
       - 400.00
+
 ~
 
  
@@ -5443,6 +5470,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
       - $1,000 + $11.75/MBH
       - $14,000 + $5.25/MBH
       - $39,300 + $1.00/MBH
+
 ~
 
 
@@ -5480,6 +5508,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
       - $8,395 + $9.15/MBH
       - $13,700 + $6.50/MBH
       - $11,400 + $6.85/MBH
+
 ~
 
 
@@ -5510,6 +5539,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
       - $2,700 + $30.49/MBH
     * - &gt; 600
       - $13,326.51 + $10.90/MBH
+
 ~
 
  
@@ -5538,6 +5568,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
       - $3,775 + $1.60/gal.
     * - ≥ 4,000
       - $6,975 + $0.80/gal.
+
 ~
 
  
@@ -5566,6 +5597,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
       - $1,600 + $11/lin. ft.
     * - Internal Square Feet
       - $1,600 + $11/sq. ft.
+
 ~
 
  
@@ -5744,6 +5776,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
       - set
       - 55.00
       - 75.00
+
 ~
 
  
@@ -6438,6 +6471,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
       - Total Monthly Expenses Room Count 
       - = 
       - Adjusted Monthly Rent Per Room 
+
 ~
 
 
@@ -6455,6 +6489,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
     * - Adjusted Monthly Rent Per Room × Room Count Per Dwelling Unit 
       - = 
       - Initial Adjusted Monthly Rent for Such Dwelling Unit 
+
 ~
 
 
@@ -6643,6 +6678,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
       - 20% 
     * - Eleventh
       - 0% 
+
 ~
 
  
@@ -6669,6 +6705,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
       - 20% 
     * - Sixteenth
       -  0% 
+
 ~
 
  
@@ -6695,6 +6732,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
       - 20% 
     * - Twenty-first
       - 0% 
+
 ~
 
  
@@ -6721,6 +6759,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
       - 20% 
     * - Twenty-sixth
       - 0% 
+
 ~
 
  
@@ -6773,6 +6812,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
       - 1:2.3
     * - 28 RCNY § 6-08(b)(5)(i)
       - 1:2
+
 ~
 
  
@@ -6845,6 +6885,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
     * - Year After Expiration of Lower Income Housing Plan 
       - Maximum % of Units that can be at Market 
+
 ~
 
 
@@ -6877,6 +6918,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
       - 80% 
     * - Eleven
       - 100% 
+
 ~
 
  
@@ -6955,6 +6997,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
       - 2 
     * - 3 
       - 4 
+
 ~
 
 
@@ -6985,6 +7028,7 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
       - 4.5 
     * - 4 
       - 6.0 
+
 ~
 
 
@@ -7371,6 +7415,7 @@ Reconstruction. "Reconstruction" means reconstruction, alteration or improvement
       - 25% 
     * - Eighth
       - 12.5% 
+
 ~
 
  
@@ -7701,6 +7746,7 @@ Each Dismissal Request must be accompanied by a certified check or money order, 
       - $400 
     * - Multiple Dwelling with 501 or more open violations
       - $500 
+
 ~
 
 
@@ -8297,6 +8343,7 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
       - 50 micrograms of lead per square foot.
     * - Window Wells:
       - 100 micrograms of lead per square foot.
+
 ~
 
 
@@ -8319,6 +8366,7 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
       - 40 micrograms of lead per square foot.
     * - Window Wells:
       - 100 micrograms of lead per square foot.
+
 ~
 
 
@@ -8894,6 +8942,7 @@ A sample notice as required by 28 RCNY § 12-01(b) follows:
     :header-rows: 1
 
     * - NOTICEThe law requires the owner of the premises to provide and install one or more approved and operational smoke detectors in each apartment in this building and to periodically replace such devices upon the expiration of their useful life in accordance with Article 312 of Chapter 3 of Title 28 of the New York City Administrative Code. The tenant of each apartment is responsible for the maintenance and repair of the detectors installed in the apartment and for replacing any or all detectors which are stolen, removed, missing or become inoperable during the occupancy of the apartment with a device meeting the requirements of Article 312 of Chapter 3 of Title 28 of the Administrative Code, unless a detector becomes inoperable within one year of being installed due to a manufacturing defect. The tenant of each apartment in this building in which a battery-operated smoke detector is provided and installed shall pay the owner a maximum of twenty-five dollars or a maximum of fifty dollars where a combined smoke and carbon monoxide detecting device is installed for the cost of providing and installing each detector. The tenant has one (1) year from the date of installation to make such payment to the owner.
+
 ~
 
 
@@ -9080,6 +9129,7 @@ A sample form for providing notice to occupants pursuant to 28 RCNY § 12-06 fol
     :header-rows: 1
 
     * - NOTICEThe law requires the owner of the premises to provide a carbon monoxide alarm in each apartment in this building. The carbon monoxide alarm must be placed within 15 feet of the primary entrance to each sleeping room, must be equipped with an end of life alarm, and must be periodically replaced by the owner as necessary when the suggested useful life of the alarm expires. Tenants are responsible for the maintenance and repair of the alarms installed in the apartment and for replacing any or all alarms that are stolen, removed, missing, or become inoperable during the occupancy of the apartment, unless an alarm becomes inoperable within one year of being installed due to a manufacturing defect. The occupant of each apartment in which a carbon monoxide alarm is provided and installed must pay the owner $25.00 per alarm, or a maximum of $50.00 per device where a combined smoke and carbon monoxide detecting device is installed. This fee covers the cost of the work for the initial installation and each periodic replacement. The occupant has one year from the date of installation to pay the owner.
+
 ~
 
 
@@ -9140,6 +9190,7 @@ A sample notice, as required by subdivisions (a) and (b) of 28 RCNY § 12-11 fol
     :header-rows: 1
 
     * - NOTICEThe law requires the owner of the premises to advise tenants that when they suspect that a gas leak has occurred, they should take the following actions:1. Quickly open nearby doors and windows and then leave the building immediately; do not attempt to locate the leak. Do not turn on or off any electrical appliances, do not smoke or light matches or lighters, and do not use a house-phone or cell-phone within the building;2. After leaving the building, from a safe distance away from the building, call 911 immediately to report the suspected gas leak;3. After calling 911, call the gas service provider for this building as follows:___________________Provider___________________Number
+
 ~
 
 
@@ -9168,6 +9219,7 @@ Notices for Suspected Gas Leaks, Smoke Detecting Devices, and Carbon Monoxide Al
     :header-rows: 1
 
     * - NOTICEThe law requires the owner of the premises to notify tenants regarding the following:Suspected Gas Leak Procedure: When a tenant suspects that a gas leak has occurred, the tenant should take the following actions:1. Quickly open nearby doors and windows and then leave the building immediately; do not attempt to locate the leak. Do not turn on or off any electrical appliances, do not smoke or light matches or lighters, and do not use a house-phone or cell-phone within the building;2. After leaving the building, from a safe distance away from the building, call 911 immediately to report the suspected gas leak;3. After calling 911, call the gas service provider for this building as follows:___________________Provider___________________NumberSmoke Detectors: The law requires the owner of the premises to provide and install one or more approved and operational smoke detectors in each apartment and to periodically replace such devices upon the expiration of their useful life in accordance with Article 312 of Chapter 3 of Title 28 of the New York City Administrative Code. The tenant of each apartment is responsible for the maintenance and repair of the detectors installed in the apartment and for replacing any or all detectors which are stolen, removed, missing or become inoperable during the occupancy of the apartment with a device meeting the requirements of Article 312 of Chapter 3 of Title 28 of the Administrative Code, unless a detector becomes inoperable within one year of being installed due to a manufacturing defect. The tenant of each apartment in this building in which a battery-operated smoke detector is provided and installed shall pay the owner a maximum of twenty-five dollars or a maximum of fifty dollars where a combined smoke and carbon monoxide detecting device is installed for the cost of providing and installing each detector. The tenant has one (1) year from the date of installation to make such payment to the owner.Carbon Monoxide Detectors: The law requires the owner of the premises to provide a carbon monoxide alarm in each apartment in this building. The carbon monoxide alarm must be placed within 15 feet of the primary entrance to each sleeping room, must be equipped with an end of life alarm, and must be periodically replaced by the owner as necessary when the suggested useful life of the alarm expires. Tenants are responsible for the maintenance and repair of the alarms installed in the apartment and for replacing any or all alarms that are stolen, removed, missing, or become inoperable during the occupancy of the apartment, unless an alarm becomes inoperable within one year of being installed due to a manufacturing defect. The occupant of each apartment in which a carbon monoxide alarm is provided and installed must pay the owner $25.00 per alarm, or a maximum of $50.00 per device where a combined smoke and carbon monoxide detecting device is installed. This fee covers the cost of the work for the initial installation and each periodic replacement. The occupant has one year from the date of installation to pay the owner.
+
 ~
 
 
@@ -9924,6 +9976,7 @@ Table a – Relocation Allowance Payment for Personal Property
       - $400.00
     * - Single room occupancy unit
       -  $100.00
+
 ~
 
  
@@ -10263,6 +10316,7 @@ Table a – Relocation Allowance Payment for Personal Property
       - $275.00
     * - 8 - 8 1/2
       - $300.00
+
 ~
 
  
@@ -10295,6 +10349,7 @@ Table a – Relocation Allowance Payment for Personal Property
 
     * - Number of Persons Relocating
       - Amount of Payments 
+
 ~
 
 
@@ -10321,6 +10376,7 @@ Table a – Relocation Allowance Payment for Personal Property
       - $303.00 
     * - 8 or more
       - $317.00 
+
 ~
 
  
@@ -10614,6 +10670,7 @@ The above schedule shall be revised without further amendment to these regulatio
     * - 4 - 4 1/2
       - $260 / 8 - more 
       - $300.00
+
 ~
 
 
@@ -10704,6 +10761,7 @@ The above schedule shall be revised without further amendment to these regulatio
       - $71,400 
     * - 5 or more
       - $71,400 
+
 ~
 
 
@@ -10828,6 +10886,7 @@ The above schedule shall be revised without further amendment to these regulatio
       - 31 
       - $412 
       - $4,944 
+
 ~
 
  
@@ -10889,6 +10948,7 @@ Replacement housing payment under the schedule method is computed by determining
     * - 8 or more 
       - $800 
       - $400 
+
 ~
 
 
@@ -10931,6 +10991,7 @@ The above bonus or relocation allowance payments are subject to the following li
       - $600 
     * - 8 or more
       - $700 
+
 ~
 
 
@@ -12657,6 +12718,7 @@ No. 26 U.S. gauge stamped metal over existing plaster when erected without damag
     * - Up to 17 feet 
       - 13.75 pounds per foot 
       - 8 inches 
+
 ~
 
 
@@ -12708,6 +12770,7 @@ The bracket braces shall be angle iron not less than two and one-half inches by 
     * - 9'-0"
       - 4'-0"Long 
       - 8"Channel 21.25 pounds 
+
 ~
 
  
@@ -12848,6 +12911,7 @@ The Department of Housing Preservation and Development has promulgated the follo
     * - Order No.
       - Description 
       - Section of Multiple Dwelling Law orHousing Maintenance Code
+
 ~
 
 
@@ -13083,6 +13147,7 @@ The Department of Housing Preservation and Development has promulgated the follo
     * - 775 
       - File with the department registration statement for change of ownership of building
       - § 27-2099 
+
 ~
 
  
@@ -13521,6 +13586,7 @@ Table IMinimum Tensile Energy Absorption – Extensible
     * - Cross Direction Plus Machine Direction of Paper(Single-ply or Multi-ply)
       - 30.8 ft. lb./sq. ft. 
       - Not specified 
+
 ~
 
 
@@ -13544,6 +13610,7 @@ Table IIMinimum Tensile Breaking Strengths – Non-Extensible
     * - Cross Direction Plus Machine Direction of Paper(Single-ply or Multi-ply)
       - 95.0 lbs./in. width 
       - Not specified 
+
 ~
 
 
@@ -15257,6 +15324,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
       - 20%
       - 0%
       - 0%
+
 ~
 
  
@@ -17622,6 +17690,7 @@ Wherever the Zoning Resolution states that HPD's approval is required, such appr
     * - 5
       - 201 202 203 204 205 206 207 209 210 211 212 305 316 317 318 410 412 413 414 501 502 503
       - $270
+
 ~
 
 

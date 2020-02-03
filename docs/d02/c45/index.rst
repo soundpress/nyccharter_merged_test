@@ -701,6 +701,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
     * - CATEGORY I NEW BUILDING
       - FEE
+
 ~
 
 
@@ -729,6 +730,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
       - $2,200.00
     * - Add $440.00 for each additional 20,000 Square Feet or Part of
       - 
+
 ~
 
  
@@ -741,6 +743,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
     * - CATEGORY II OPEN AREA FEE
       - FEE
+
 ~
 
 
@@ -766,6 +769,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
     * - 400,001 to 500,000 Square Feet
       - $2,475.00
     * - Add $550.00 for each additional 100,000 Square Feet or Part of
+
 ~
 
 
@@ -783,6 +787,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
 
     * - CATEGORY III MISCELLANEOUS FEE
       - FEE
+
 ~
 
 
@@ -840,6 +845,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
     * - $1,70,001 to $1,800,000
       - $7,920.00
     * - Add $440.00 for each additional $100,000 of Estimated Cost or Part of
+
 ~
 
 
@@ -858,6 +864,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
     * - CATEGORY IV AMENDMENTS
       - 
     * - Any revisions or changes submitted thirty days after date of approval – $200.00
+
 ~
 
 
@@ -874,6 +881,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
     * - CATEGORY V CHANGE OF USE
       - 
     * - No physical work, including lot subdivisions – $100.00
+
 ~
 
 
@@ -937,6 +945,7 @@ NYC DEPARTMENT OF BUSINESS SERVICES WORK NOTICE AND WORK PERMIT FEE SCHEDULE EFF
       - 4. Places of Assembly
       - each copy
       - $50.00
+
 ~
 
  
@@ -1479,6 +1488,7 @@ Schedule of Special Rebates
     * - One hundred thirty-third through one hundred forty-fourth
       - 7%
       - 9%
+
 ~
 
 
@@ -1531,6 +1541,7 @@ Schedule of Special Rebates
       - 0.2
     * - 145 and thereafter
       - 0.0
+
 ~
 
 
@@ -1761,6 +1772,7 @@ Schedule of Special Rebates
       - $2,500
     * - Over 250,000 square feet
       - $5,000
+
 ~
 
 
@@ -1990,6 +2002,7 @@ ATTACHMENT D-1: KEYSPAN NATURAL GAS SERVICEPSC No. 12 Gas Rate ScheduleTemporary
       - 39%
     * - Greater than 1,000,000
       - 39%
+
 ~
 
  
@@ -2387,6 +2400,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - 18%
     * - one hundred thirty-third through one hundred forty-fourth
       - 9%
+
 ~
 
 
@@ -2413,6 +2427,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - 18%
     * - one hundred forty-fifth through one hundred fifty-sixth
       - 9%
+
 ~
 
 
@@ -2457,6 +2472,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - 0.2
     * - 145 and thereafter
       - 0.0
+
 ~
 
 
@@ -2483,6 +2499,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - 0.2
     * - 157 and thereafter
       - 0.0
+
 ~
 
 
@@ -2651,6 +2668,7 @@ To qualify as an eligible building, a building shall be located in an eligible r
       - $2,500
     * - Over 250,000 square feet
       - $5,000
+
 ~
 
 
@@ -5152,6 +5170,7 @@ a   Effective July 1, 1989, Tompkins will merge with Broome-Tioga to form the
       - $18,220
     * - 8
       - $20,260
+
 ~
 
  
@@ -5527,6 +5546,7 @@ As used in this subchapter, the following terms have the following meanings:
       - Participation goal:12% of total annual agency expenditures on such contracts3% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts10% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
     * - For goods contracts under one hundred thousand dollars:Category:Black AmericansAsian AmericansHispanic AmericansWomenEmerging
       - Participation goal:7% of total annual agency expenditures on such contracts8% of total annual agency expenditures on such contract5% of total annual agency expenditures on such contracts25% of total annual agency expenditures on such contracts6% of total annual agency expenditures on such contracts
+
 ~
 
 
@@ -7059,6 +7079,7 @@ c. Initial Business Needs Assessment.
       - 1 - 6
       - 7 - 12
       - More than 12
+
 ~
 
  
@@ -7169,6 +7190,7 @@ c. Initial Business Needs Assessment.
       - Positive &amp; more than 50% above industry standard
       - Positive &amp; more than 50% below industry standard
       - Within 50% of industry standard
+
 ~
 
  
@@ -7249,6 +7271,7 @@ c. Initial Business Needs Assessment.
       - 
       - 
       - 
+
 ~
 
  
@@ -7589,6 +7612,7 @@ Chart A
       - Lot
       - New Zoning District
       - Commercial Overlay
+
 ~
 
 
@@ -8539,6 +8563,7 @@ Chart A
       - 140
       - R9A
       - C2-4
+
 ~
 
  

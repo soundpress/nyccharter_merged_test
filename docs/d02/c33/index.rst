@@ -361,6 +361,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
     * - Event Type
       - Fee
       - Deadline
+
 ~
 
 
@@ -419,6 +420,7 @@ Vendor means an individual, entity or organization that sells or offers for sale
     * - Street Fair
       - 20% of the total fee paid by vendors to participate
       - December 31st of the preceding year. Applications for 1 day/1 block, 90 days
+
 ~
 
  

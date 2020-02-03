@@ -685,6 +685,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
 
     * - Days a violation was not cured after the expiration of the cure period
       - Civil penalty per violation not cured within the cure period
+
 ~
 
 
@@ -713,6 +714,7 @@ Pursuant to § 3-213(e) of the Lobbying Law, statements of registration must be 
       - $4,500
     * - More than 240
       - $5,000 - $20,000
+
 ~
 
  

@@ -544,6 +544,7 @@ Except as specifically provided in this section, every application made pursuant
       - $192,820
     * - over 1,000,000 sq. ft.
       - $314,225
+
 ~
 
  
@@ -560,6 +561,7 @@ Except as specifically provided in this section, every application made pursuant
       -  $1,880
     * - Type II Actions
       -  $110
+
 ~
 
 
@@ -619,6 +621,7 @@ Except as specifically provided in this section, every type of application liste
       -  $17,765
     * - Over 500,000 square feet
       -  $29,485
+
 ~
 
  
@@ -649,6 +652,7 @@ For this purpose the amount of floor area shall be calculated based upon the flo
       -  $18,445
     * - Over 500,000 square feet
       -  $30,620
+
 ~
 
  
@@ -667,6 +671,7 @@ For this purpose the amount of floor area shall be calculated based upon the flo
       -  $3,400
     * - Any other change in the City Map
       -  $5,445
+
 ~
 
 
@@ -724,6 +729,7 @@ For this purpose the amount of floor area shall be calculated based upon the flo
       - 
     * - 100,000 square feet and over
       -  $3,400
+
 ~
 
 
@@ -757,6 +763,7 @@ Total amount of floor area, or in the cases of open uses, area of the zoning lot
       -  $3,100
     * - 100,000 square feet and over
       -  $3,400
+
 ~
 
 
@@ -791,6 +798,7 @@ In the case of area transfer of development rights or floor area bonus, the fee 
       - $120,000
     * - Applications that may result in the development of at least 2,500,000 square feet of floor area
       - $160,000
+
 ~
 
 

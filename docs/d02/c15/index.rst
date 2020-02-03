@@ -1144,6 +1144,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Demolition of wooden stairs
       - per floor 
       - 256.39 
+
 ~
 
  
@@ -1195,6 +1196,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Gypsum block (4") to enclose boiler/meter rooms
       - sq. ft. 
       - 6.44 
+
 ~
 
  
@@ -1234,6 +1236,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Cellar"engineer's"hatch with frame, ladder, cutting, patching1 hardware new steel (24"x 24") completely inst.
       - each 
       - 1,930.53 
+
 ~
 
  
@@ -1258,6 +1261,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Framing for new partitions
       - sq. ft. 
       - 1.29 
+
 ~
 
 
@@ -1311,6 +1315,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Glazing – wired
       - sq. ft. 
       - 10.94 
+
 ~
 
  
@@ -1374,6 +1379,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Tile work in residential bathroom (new base only)
       - bathroom 
       - 64.35 
+
 ~
 
  
@@ -1404,6 +1410,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Bell and Buzzer System
       - per D.U. 
       - 50.75 
+
 ~
 
 
@@ -1421,6 +1428,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Electric or Gas Range
       - each 
       - 386.11 
+
 ~
 
 
@@ -1450,6 +1458,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Service Car
       - per floor 
       - 15,225.00 
+
 ~
 
 
@@ -1635,6 +1644,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * - Bath
       - each 
       - 321.76 
+
 ~
 
  
@@ -1674,6 +1684,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
     * -  – Meter (Assembly) Plan
       - per D.U. 
       - 167.48 
+
 ~
 
  
@@ -1696,6 +1707,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): T
       - Approved necessary and reasonable costs of Code Compliance, reviewed and determined by the Loft Board case by case.
     * - Extraordinary Costs of Legalization (construction management fees; overtime costs for alterations required to be done after hours; and excessive costs above scheduled allowance resulting from individual building characteristics)
       - Maximum 7.5 percent for this category of approved, necessary and reasonable costs of Code Compliance.
+
 ~
 
 
@@ -2117,6 +2129,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
     * - 10:00 P.M. - 6:00 A.M.
       - Below 40°F
       - At least 55°F
+
 ~
 
 
@@ -2208,6 +2221,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
     * - Section
       - Violation
       - Range of Fines 
+
 ~
 
 
@@ -2311,6 +2325,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
     * -  
       -  
       - Subsequent findings within 12 months of the first finding:$3,000 per violation for any subsequent finding within 12 months plus $125 per day
+
 ~
 
  
@@ -3711,6 +3726,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - 29 RCNY § 2-01(d)(2)(ix)
       - Yes within 30 days
       - Up to $1,000 per day up to $17,500
+
 ~
 
 
@@ -3751,6 +3767,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - No
       - $2,000 to $5,000 for each occurrence found to constitute harassment
       - An owner or prime lessee previously found to have harassed a tenant may be subject to an aggravated penalty of up to $10,000.
+
 ~
 
 
@@ -3773,6 +3790,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - 29 RCNY § 2-05(f)(2)
       - Yes
       - $5,000 for one year; $10,000 for two years; $17,500 for three years or more
+
 ~
 
 
@@ -3803,6 +3821,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - 29 RCNY § 2-01(h)
       - No
       - $5,000
+
 ~
 
 
@@ -3849,6 +3868,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - 29 RCNY § 2-01.1(a)(1)(ii)(E)
       - No
       - $4,000 per false statement
+
 ~
 
 
@@ -3901,6 +3921,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - 29 RCNY § 2-05(b)(13)
       - No
       - $1,000
+
 ~
 
 

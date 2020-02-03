@@ -247,6 +247,7 @@ b. The commissioner is authorized to collect the following annual fees for the c
       - $  823.00 
     * - 16-20
       - $1,083.00 
+
 ~
 
 
@@ -1376,6 +1377,7 @@ c. Each violation, whether committed on the same or a subsequent date, shall be 
       - up to $10,000.00
     * - Delivery of waste classified as regulated medical waste or other medical waste in violation of regulations promulgated pursuant to section 16-202
       -  up to $10,000.00
+
 ~
 
  

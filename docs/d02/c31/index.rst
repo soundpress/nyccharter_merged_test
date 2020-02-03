@@ -1361,6 +1361,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
       - Description
       - Penalty
       - Default
+
 ~
 
 
@@ -1691,6 +1692,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
       - Use of non-motorized vessels in restricted areas
       - $50
       - $200
+
 ~
 
  
@@ -1759,6 +1761,7 @@ Unless otherwise indicated all citations are to the New York City Administrative
       - Description
       - Penalty
       - Default
+
 ~
 
 
@@ -1845,6 +1848,7 @@ Unless otherwise indicated all citations are to the New York City Administrative
       - Miscellaneous violation of code pertaining to Public Pay Telephones
       - $250
       - $1,000
+
 ~
 
  
@@ -1895,6 +1899,7 @@ The following citations are to the NYC Administrative Code. Pursuant to 48 RCNY 
       - Use or discharge of fireworks without permit
       - $750
       - $750
+
 ~
 
 
@@ -1923,6 +1928,7 @@ A repeat violation is a violation by the same respondent, at the same place of o
       - Description
       - Penalty
       - 
+
 ~
 
 
@@ -2265,6 +2271,7 @@ A repeat violation is a violation by the same respondent, at the same place of o
       - Persistent Violator, recycling
       - 
       - $400
+
 ~
 
  
@@ -2895,6 +2902,7 @@ Worker Penalty: Where the Hearing Officer finds that the respondent is a worker 
       - $25,000$25,000
       - -$6,000N/A
       - -$4,000-$4,000
+
 ~
 
  
@@ -3000,6 +3008,7 @@ Exceptions:
       - 
       - Penalty 
       - Default 
+
 ~
 
 
@@ -3825,6 +3834,7 @@ Exceptions:
       - 
       - $250
       - $250
+
 ~
 
  
@@ -3887,6 +3897,7 @@ All Citations are to the NY State Vehicle and Traffic Law.
       - 2nd Offense
       - $150
       - $200
+
 ~
 
 
@@ -3919,6 +3930,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
       - Description
       - Penalty
       - Default
+
 ~
 
 
@@ -4249,6 +4261,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
       - Violation of miscellaneous rules regarding use and supply of water
       - $150
       - $1,000
+
 ~
 
  
@@ -4283,6 +4296,7 @@ SMALL BUSINESS SERVICES PENALTY SCHEDULE
       - Discharging, causing or permitting oil, oil refuse or other inflammable matter from any ship or vessel into the Port of New York
       - 1st offense: $1,5002nd offense: $5,0003rd offense: $10,0004th offense: $15,0005th and any subsequent offense:$20,000
       - 1st offense: $10,0002nd offense: $20,0003rd offense: $20,0004th offense: $20,0005th and any subsequent offense:$20,000
+
 ~
 
 
@@ -5733,6 +5747,7 @@ As used in this chapter:
       - Description in Summons
       - Citation Monetary Penalty
       - Community Service Hour Requirement
+
 ~
 
 
@@ -6062,6 +6077,7 @@ As used in this chapter:
     * - Causing or permitting unreasonable noise (10:00 P.M. to 7:00 A.M.)
       - 1st - $752nd - $1503rd - $350
       - 1st – 12nd – 23rd – 3
+
 ~
 
 

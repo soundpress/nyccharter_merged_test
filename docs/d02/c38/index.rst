@@ -533,6 +533,7 @@ The Commissioner from time to time shall establish fees for use by the public of
       - Description
       - Penalty
       - Default Penalty
+
 ~
 
 
@@ -959,6 +960,7 @@ The Commissioner from time to time shall establish fees for use by the public of
       - Youth baseball league’s failure to return automated external defibrillator to the Department in satisfactory condition
       - $2,500
       - $2,500
+
 ~
 
  
@@ -1357,6 +1359,7 @@ TENNIS PERMITS &amp; FEES
       - $15.00
     * - Central Park Tennis Locker
       - $20.00
+
 ~
 
  
@@ -1381,6 +1384,7 @@ ADDITIONAL RECREATIONAL PERMITS
       - $25.00 application fee plus $1.00 per individual in group
     * - Special Event Permit Application Fee
       - $ 25.00
+
 ~
 
 
@@ -1405,6 +1409,7 @@ FIELDS AND PLAYING SURFACES
       - $12.50 per hour 
     * - Baseball, softball, roller hockey, volleyball, and basketball hardtop playing surfaces(when used by groups 18 years of age &amp; over)
       - $8.00 per hour 
+
 ~
 
 
@@ -1425,6 +1430,7 @@ SUMMER DAY CAMP
       - $500.00 per child
     * - Extended Day Session (8 A.M. to 6:00 P.M.)Ages 6 - 13
       - $575.00 per child
+
 ~
 
 
@@ -1445,6 +1451,7 @@ USE OF BOARDWALK SPACE BY RESTAURANTS
       - $55.00 per linear foot
     * - Table Service Restaurants
       - $110.00 per linear foot
+
 ~
 
 
@@ -1465,6 +1472,7 @@ CAPITAL PROJECT BID DOCUMENTS
       - $25.00
     * - Bid document 100 pages or more
       - $100.00
+
 ~
 
 
@@ -1768,6 +1776,7 @@ CAPITAL PROJECT BID DOCUMENTS
       - 
       - 
       - 
+
 ~
 
  
@@ -1892,6 +1901,7 @@ CAPITAL PROJECT BID DOCUMENTS
       - November 15 through January 15
       - April 15 through June 15
       - September 15 through November 1
+
 ~
 
 
@@ -1914,6 +1924,7 @@ CAPITAL PROJECT BID DOCUMENTS
       - March 17 through August 31
       - September 1 through November 31
       - December 1 through March 16
+
 ~
 
 
@@ -2086,6 +2097,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
       - $25
       - $25
       - $25
+
 ~
 
 
@@ -2112,6 +2124,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
       - $25
       - $25
       - $25
+
 ~
 
 
@@ -2128,6 +2141,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
     * - Track &amp; Field Session Fee
     * - $1,350.00 per two-hour Track &amp; Field Session
+
 ~
 
 
@@ -2146,6 +2160,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
       - $200.00 for each two-hour Track &amp; Field Session 
     * - Event management software 
       - $250.00 for each event
+
 ~
 
 
@@ -2253,6 +2268,7 @@ This membership does not include session fees. Membership includes, but is not l
       - $25
       - $25
       - $25
+
 ~
 
 
@@ -2273,6 +2289,7 @@ This membership does not include session fees. Membership includes, but is not l
       - $10 - $100
     * - Recreation Center without Indoor Pool
       - $10 - $100
+
 ~
 
 
@@ -2358,6 +2375,7 @@ This membership does not include session fees. Membership includes, but is not l
       - $500 for 30 participants; $20 per participant for up to 10 additional participants
       - $1,000 for 30 participants; $35 per participant for up to 10 additional participants
       - With lunch provided: $525 for 7 participants; $75 for every additional participantWithout lunch provided: $455 for 7 participants; $65 for every additional participant
+
 ~
 
 
@@ -3055,6 +3073,7 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
     * - Parking
       - Rotunda parking garage; permit holders only
       - $275/month
+
 ~
 
  
@@ -3115,6 +3134,7 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
     * - Key Deposit or Replacement
       -  
       - $10
+
 ~
 
  
@@ -3180,6 +3200,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
     * - Bottom Painting
       - 30 feet or less31 feet or more
       - $13.75/linear foot$14.75/linear foot
+
 ~
 
  
@@ -3204,6 +3225,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
     * - Dock &amp; Dine
       - Non-commercial Vessels onlyUp to 4 hours
       - $1/linear foot 
+
 ~
 
 
@@ -3269,6 +3291,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
     * - Labor Rate
       -  
       - $95 per hour
+
 ~
 
  
@@ -3595,6 +3618,7 @@ In addition to any penalties provided for in this chapter, violations of these r
     * - $30/day 
       - $180/week 
       - $1,550/season 
+
 ~
 
 

@@ -312,6 +312,7 @@ Table 1. Volume of Course Aggregate per Unit of Volume of Concrete*
       - .760 
       - .741 
       - .722 
+
 ~
 
  
@@ -360,6 +361,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
       - 12.8 
       - 12.4 
       - 12.0 
+
 ~
 
 
@@ -570,6 +572,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
       - Penetration Resistance to Hardened Concrete, Test for
     * - E4-83a
       - Practices for Load Verification of Testing Machines.
+
 ~
 
  
@@ -1238,6 +1241,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
       - Designated Number of Seats or Occupants 
     * - (4) (ii) Movable Seats
       - 10 
+
 ~
 
 
@@ -1745,6 +1749,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
     * - Up to 17 feet 
       - 13.75 pounds per foot 
       - 8 inches 
+
 ~
 
 
@@ -1796,6 +1801,7 @@ The bracket braces shall be angle iron not less than two and one-half inches by 
     * - 9'-0"
       - 4'-0"long 
       - 8"channel 21.25 pounds 
+
 ~
 
  
@@ -2223,6 +2229,7 @@ AMSI/ASME B 31.1 – 1980
       - 10% at Random 
     * - Over 150 psig 
       - 100%
+
 ~
 
 
@@ -2793,6 +2800,7 @@ Chapter 29: Sprinkler Systems
       - 100 heads 
     * - 4 inch
       - Unlimited heads 
+
 ~
 
 (l) The sprinkler main shall not be less in size than the sprinkler rise the check valve of equal diameter to the main and the riser shall be provided on the sprinkler main. For draining the sprinkler system, a 3/4" plugged valve shall be provided on the sprinkler main just inside the aforesaid check valve. All sprinkler piping and fittings shall be so installed that they can be thoroughly drained. On the sprinkler main, an outside screw and yoke gate valve, readily accessible, must be provided near the front of the front of the building and located so as to control the water supply to all the interior sprinkler systems. The said outside screw and yoke gate valve must be sealed in an open position. If tank water supply is used for sprinklers, an outside screw and yoke gate valve shall be provided on the piping leading from the tank to the sprinkler system under conditions similar to those specified for such valves on sprinkler mains.
@@ -2927,6 +2935,7 @@ Effective February 25, 1949, automatic wet-pipe sprinklers used in certain Class
       - 30 sprinkler heads 
     * - 4 inch pipe
       - 60 No Limit 
+
 ~
 
 
@@ -3053,6 +3062,7 @@ Branch lines should not exceed eight sprinkler heads on either side of a cross m
       - 100 sprinklers 
     * - 4 inch
       - Unlimited sprinklers 
+
 ~
 
 The sprinkler main shall not be less in size than the sprinkler riser and shall not be less in size than any branch it serves. Except as otherwise specifically provided in 1 RCNY § 29-06(h), the total number of sprinklers in a structure shall determine the required size of the tap, service main, risers and branches, but in no case shall the size of the main supply be less than two inches. The following sprinklers will not be counted in computing the size of the taps, mains and risers:
@@ -3253,6 +3263,7 @@ Extract from the Multiple Dwelling Law  Section 248, Subdivision 4, Paragraph b.
       - (76) 
       - 101/2
       - (3.050) 
+
 ~
 
  
@@ -3280,6 +3291,7 @@ Table A Maximum Support Spacing Distance End Line Sprinkler Head Drop Elbow
     * - 11/2"-3"(38-76mm) 
       - 24"(610mm) 
       - 12"(305mm) 
+
 ~
 
 
@@ -3309,6 +3321,7 @@ Table B Maximum Support Spacing Distance Inline Sprinkler Head Drop Tee
     * - 1-1/2"-3"(38-76mm)  
       - 7' (2.135m) 
       - 7' (2.135m) 
+
 ~
 
 
@@ -5000,6 +5013,7 @@ Figure 1 Summary chart of fire safety requirements
       - Requirements of 1 RCNY § 310-01 (d)(1) are applicable
       - Requirements of 1 RCNY § 310-01 (d)(1) are applicable
       - Requirements of 1 RCNY § 310-01 (d)(1) are applicable
+
 ~
 
  
@@ -5655,6 +5669,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
     :header-rows: 1
 
     * - "THE FOLLOWING PEOPLE SHOULD NOT RIDE THIS AMUSEMENT DEVICE:People under the influence of alcohol.People under the influence of drugs or medications that could impair judgment.People with heart conditions.Pregnant women.People with disabilities that may interfere with their safety during the operation of the amusement device.People with motion sickness.People with any physical ailments that could be aggravated by this amusement device."
+
 ~
 
 
@@ -5978,6 +5993,7 @@ These standards are adopted in full, except to the extent there is a conflict wi
     * - F2461
       - Standard Practice for Manufacture, Construction, Operation, and Maintenance of Aquatic Play Equipment.
       - 2009
+
 ~
 
  
@@ -6292,6 +6308,7 @@ Table 1General Inspections
     * - (8)
       - Verify that all signs required by section 3301.9 of the building code are installed and contain the required information.
       - Once per sign
+
 ~
 
  
@@ -6325,6 +6342,7 @@ Table 2 Safety Netting Inspections
     * - (6)
       - Verify that vertical safety netting is secured and kept closed at all times, except during actual loading operations or perimeter construction operations.
       - Daily
+
 ~
 
 
@@ -6357,6 +6375,7 @@ Table 3 Maintenance of Site and Adjacent Area Inspections
     * - (5)
       - When the building is extended, enlarged or increased in height so that any portion of such building, except chimneys or vents, extends higher than the top of any previously constructed chimneys within 100 feet (30.48 m), verify that the chimneys conform to § 801 of the New York City mechanical code.
       - As appropriate
+
 ~
 
 
@@ -6389,6 +6408,7 @@ Table 4 Housekeeping Inspections
     * - (5)
       - Verify that containers are covered and secured when full.
       - Daily
+
 ~
 
 
@@ -6427,6 +6447,7 @@ Table 5 Removal and Storage of Material Inspections
     * -  
       - (ii)  Where the steel mill and lumber mill are located, verify that any material that overhangs is relocated by the next workday.
       - Daily
+
 ~
 
  
@@ -6469,6 +6490,7 @@ Table 6 Protection of Sidewalks Inspections
     * - (9)
       - Verify that temporary footbridges and walkways for the public are at least 5 feet (1.524 m) in width.
       - Daily as appropriate
+
 ~
 
  
@@ -6490,6 +6512,7 @@ Table 7 Warning Signs and Lights Inspections
     * - (2)
       - Verify that steps necessary to protect the public are taken, including provisions for flagmen/flagwomen whenever intermittent operations are conduced on or across areas open to the public or when dangerous operations, such as blasting, may affect such areas.
       - Throughout the day, as appropriate
+
 ~
 
 
@@ -6510,6 +6533,7 @@ Table 8 Scaffolds, Structural Ramps, Runways and Platform Inspections
     * - (1)
       - Verify that where they pose a risk to the public that all structural ramps, scaffolds, runways and platforms are provided with guardrails, toeboards, screening, or nets, unless otherwise specified by the building code.
       - Daily
+
 ~
 
 
@@ -6563,6 +6587,7 @@ Table 9 Material Handling and Hoisting Equipment Inspections
     * -  
       - (v)  When the sidewalk and/or street is temporarily closed.
       -  
+
 ~
 
  
@@ -6769,6 +6794,7 @@ Table 10 Facade project inspections
     * - (35)
       - Verify that, at the end of the shift, suspended scaffolds have been lowered to the street, sidewalk shed deck, or building setback, or have been otherwise secured to the roof or the building in accordance with the scaffold plans.
       - Daily, at the end of the shift
+
 ~
 
  
@@ -7685,6 +7711,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
     * - ASME B30.26
       - Rigging hardware
       - 2015
+
 ~
 
 
@@ -9819,6 +9846,7 @@ Table A – Minimum Clear Distances
       - 45
     * - over 1,000
       - (as established by the utility owner/operator or an engineer, licensed and registered to practice the profession of engineering under the education law of the state of New York, who is also a qualified person with respect to electrical power transmission and distribution)
+
 ~
 
  
@@ -9947,6 +9975,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
       - 20
     * - over 1,000
       - (as established by the utility owner/operator or an engineer, licensed and registered to practice the profession of engineering under the education law of the state of New York, who is also a qualified person with respect to electrical power transmission and distribution)
+
 ~
 
 
@@ -10078,6 +10107,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
     * - Standard
       - Name
       - Year
+
 ~
 
 
@@ -10151,6 +10181,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
     * - SAE J1063
       - Cantilevered Boom Crane Structures - Method of Test
       - 1993
+
 ~
 
  
@@ -10353,6 +10384,7 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
     * - ASME B30.19
       -  Cableways
       -  2011
+
 ~
 
 
@@ -10431,6 +10463,7 @@ Table 1
     * - 318 – 11
       - Building Code Requirements for Structural Concrete
       - 406.5.4, 721.2.4.3, 1604.3.2, Table 1613.8, Table 1704.3, 1704.3.1.3, Table 1704.4, 1704.4.1 Table 1704.32, 1805.5.7.2, 1805.9, Table 1808.2.13, 1808.9.2.1, 1808.9.3, 1808.9.3.1, 1809.6.3.2, 1809.6.3.2.2, 1810.1.2.5.1, 1810.1.2.5.2, 1810.7.4.1, 1810.8.3, 1810.8.4, 1901.2, 1901.3, 1901.4, 1902.1, 1903.1, 1903.2, 1903.3, 1903.4, 1903.5, 1903.5.1, 1903.5.2, 1903.6, 1903.7, 1904.1, 1904.2, 1904.3, 1904.4.1, 1904.5, 1905.1.1, 1905.1.4, 1905.3, 1905.4, 1905.5, 1905.6.5.5, 1905.6.6, 1905.8.3, 1905.11.3, 1906.1, 1906.2, 1906.3, 1906.4, 1907.1, 1907.2, 1907.4.1, 1907.6, 1907.7.2, 1907.7.3, 1907.7.4, 1907.7.5, 1907.7.6, 1907.8, 1907.9, 1907.10, 1907.11, 1907.12, 1907.13, 1908, 1908.1, 1908.1.1, 1908.1.2, 1908.1.3, 1908.1.4, 1908.1.5, 1908.1.6, 1908.1.7, 1908.1.8, 1908.1.9, 1908.1.11, 1908.2, 1908.2.1, 1909.1, 1909.3, 1909.4, 1909.5, 1909.6, 1912.1, 1912.1.1, 1915.2, 1915.3, 1915.4, 1915.6, 1916.2, 1916.3.1, 2108.3, 2205.3, 3305.3.2 
+
 ~
 
 
@@ -10466,6 +10499,7 @@ Table 2
     * - A10.4 – 07
       - Safety Requirements for Personnel Hoists
       - 3010.3 
+
 ~
 
 
@@ -10541,6 +10575,7 @@ Chapter 3600: Appendices
       - × 
       - 8-30% Limitation (Total) - 8-30% Limitation (Land) 8-30% Limitation (Total) 
       - (See Example 3) 
+
 ~
 
 
@@ -10564,6 +10599,7 @@ or, at the option of the owner, or where the assessment roll method would not re
       - Appraised Market Value (Land and Structure) 
       - = 
       - Appraised Market Value (Land) 
+
 ~
 
 
@@ -10610,6 +10646,7 @@ or, at the option of the owner, or where the assessment roll method would not re
     * - TRANS EX AV
       - 0
       - 136,080
+
 ~
 
 
@@ -10646,6 +10683,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
       - $514,041 
       - 
       - 
+
 ~
 
 
@@ -10674,6 +10712,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
     * - ACTUAL EX AV
       - 1,570
       - 1,570
+
 ~
 
 
@@ -10710,6 +10749,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
       - $92,481 
       - 
       - 
+
 ~
 
 
@@ -10738,6 +10778,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
     * - ACTUAL EX AV
       - 0
       - 0
+
 ~
 
 
@@ -10774,6 +10815,7 @@ The example property assessment roll indicates that the ESTIMATED MARKET VALUE i
       - $223,302 
       - 
       - 
+
 ~
 
 
@@ -10853,6 +10895,7 @@ Pursuant to § 28-103.19 of the Administrative Code, the reference standard FEMA
     * - FEMAFIRMs 360497
       - Flood Insurance Rate Map, Community Number 360497, Panel Numbers 1 through 0457, Revised September 5, 2007;Federal Emergency Management Agency, with the following Letters of Map Revision:Letter of Map Revision effective September 29, 2008, FEMA case # 08-02-0948P, revising FIRM panel 0111 andLetter of Map Revision effective April 18, 2018, FEMA case # 17-02-1503P, revising FIRM panels 0092F, 0094F, 0111F, and 0113F.
       - G102.2, G102.3, G102.3.1, G102.3.2, G103.3, G201.2
+
 ~
 
 
@@ -11503,6 +11546,7 @@ Delivered Audio Quality (DAQ). A measure of audio quality over a transmission me
       - Speech easily understood. Infrequent noise/distortion.
     * - 5
       - Speech easily understood.
+
 ~
 
  
@@ -11576,6 +11620,7 @@ Add 24.5.2.5.5.2 Dedicated Radio Console Enclosure. The DRC shall be enclosed an
     :header-rows: 1
 
     * - AUXILIARY RADIO COMMUNICATIONS 
+
 ~
 
 
@@ -12069,6 +12114,7 @@ Table 1Minimum Distances Between Sewage System Components and Between Components
       - –
       - –
       - –
+
 ~
 
 
@@ -12338,6 +12384,7 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 2,255
     * - Over 60
       - Unsuitable
+
 ~
 
 
@@ -12448,6 +12495,7 @@ Table 3Minimum Septic Tank Capacities for One- and Two-Family Homes
     * - 6
       - 1,750
       - 47
+
 ~
 
 
@@ -12736,6 +12784,7 @@ Table 4Cylindrical Seepage Pits – Required Absorptive Area (Sq Ft)
       - 302
       - 339
       - 377
+
 ~
 
  
@@ -12823,6 +12872,7 @@ Table 5Specification for Sand and Aggregate
       - 3/4 inch
     * - less than 100
       - 1/2 inch
+
 ~
 
  
@@ -12970,6 +13020,7 @@ Table 6Sand Filter Field Design Flow
       - 780
       - 900
       - 1,015
+
 ~
 
 
@@ -13090,6 +13141,7 @@ Table 7Special Inspection
     * - Maintenance and operation
       - Dye tests or other diagnostic measures to verify the condition of the system
       - 1 RCNY § 8001-01(k)(6)
+
 ~
 
 
@@ -13126,6 +13178,7 @@ Table 7Special Inspection
     * - 70
       - Standard for septic tanks, bituminous coated metal
       - 2001
+
 ~
 
 

@@ -275,6 +275,7 @@ Editor's note: the amendments to this 16 RCNY § 1-01 that were effective on 3/6
       -  $823.00 
     * - 16 - 20
       -  $1,083.00 
+
 ~
 
 
@@ -1387,6 +1388,7 @@ For the purpose of these Rules and Regulations:
       - NYC Department of Transportation,Bureau of Highway Operations
     * - Equipment Permits
       - NYC Department of Buildings
+
 ~
 
 
@@ -1407,6 +1409,7 @@ If the property is marginal land, land under water or designated wet lands, the 
       - NYS Department of EnvironmentalConservation
     * - Work Permit
       - U.S. Army Corps of Engineers NewYork District
+
 ~
 
 
@@ -1803,6 +1806,7 @@ No person or public agency other than the Department of Sanitation may conduct, 
     * - All other residential, commercial, or manufacturing zones
       - 67 decibels 
       - 57 decibels 
+
 ~
 
 
@@ -2027,6 +2031,7 @@ No person or public agency other than the Department of Sanitation may conduct, 
     * - All other residential, commercial, or manufac turing zones
       - 67 decibels 
       - 57 decibels 
+
 ~
 
 
@@ -2410,6 +2415,7 @@ Every person who owns, operates, maintains or otherwise controls a putrescible s
     * - All other residential, commercial, or manufac turing zones
       - 67 decibels 
       - 57 decibels 
+
 ~
 
 
@@ -2685,6 +2691,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
       - 400 feet
       - Queuing area on site(G)
       - M1, M2 and/or M3 allowed(H)
+
 ~
 
 
@@ -3932,6 +3939,7 @@ Table I Minimum Tensile Energy Absorption – Extensible
     * - Cross Direction Plus Machine Directionof Paper (Single-ply or Multi-ply)
       - 30.8 ft. lb./sq. ft. 
       - Not specified 
+
 ~
 
 
@@ -3955,6 +3963,7 @@ Table II Minimum Tensile Breaking Strengths – Non-Extensible
     * - Cross Direction Plus Machine Directionof Paper (Single-ply or Multi-ply)
       - 95.0 lbs./in. width 
       - Not specified 
+
 ~
 
 

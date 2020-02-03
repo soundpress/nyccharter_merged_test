@@ -428,6 +428,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
       - Second/Subsequent Violation Penalty($)
       - Second/Subsequent Violation Mitigated Penalty($)
       - Second/Subsequent Violation Maximum Penalty($)
+
 ~
 
 
@@ -744,6 +745,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
       - 2,400
       - None
       - 2,400
+
 ~
 
  
@@ -2869,6 +2871,7 @@ Open-flame decorative device. An open-flame device used for decorative or lighti
     * - NO SMOKING IN THESE PREMISES UNDER PENALTY OF FINE OR IMPRISONMENT, OR BOTH, BY ORDER OF THE COMMISSIONER
       - 2"Min. 1"or 3/4"Min. 1/4"
       - Red Black Black 
+
 ~
 
 
@@ -3444,6 +3447,7 @@ Chapter 5: Fire Operations Features
     * - Battery Tests
     * - Primary battery performance test
     * - Secondary battery/batteries performance test
+
 ~
 
  
@@ -3597,6 +3601,7 @@ Table 1Stationary Storage Battery System Size Thresholds
       - &gt;2 kWh and =20 kWh
       - &gt;20 kWh and = 500 kWh
       - &gt; 500 kWh
+
 ~
 
 
@@ -3618,6 +3623,7 @@ Table 2Stationary Storage Battery System Compliance Requirements
       - Small
       - Medium
       - Large
+
 ~
 
 
@@ -3903,6 +3909,7 @@ Table 2Stationary Storage Battery System Compliance Requirements
       - Yes
       - Yes
       - Yes
+
 ~
 
  
@@ -7361,6 +7368,7 @@ Table 1 (R3809-01)
       - 2
     * - 100 lbs.
       -  1
+
 ~
 
 
@@ -7822,6 +7830,7 @@ Chapter 46: Fees
       - $305.00
     * - Renewal application (without examination)
       - $5.00
+
 ~
 
  
@@ -7844,6 +7853,7 @@ Chapter 46: Fees
       - $75.00
     * - Portable radio inspection (per radio)
       - $75.00
+
 ~
 
 
@@ -7866,6 +7876,7 @@ Chapter 46: Fees
       -  $2,940.00
     * - Renewal application
       - $420.00
+
 ~
 
 
@@ -7890,6 +7901,7 @@ Chapter 46: Fees
       - $105.00, plus $50.00 per building floor included in application
     * - Renewal application
       - $105.00
+
 ~
 
 
@@ -7936,6 +7948,7 @@ Chapter 46: Fees
       - 50% surcharge
     * - Filing of design and installation documents for new or altered facility or installation more than one year after the date of commencement of work without approved design and installation documents
       - 100% surcharge
+
 ~
 
  
@@ -7953,6 +7966,7 @@ Chapter 46: Fees
 
     * - 9. Document management for fire alarm system, emergency alarm system, auxiliary radio communication system or fire extinguishing system application and for any other application not requiring a work permit from the Department of Buildings (per application)
       - $165.00
+
 ~
 
 
@@ -8006,6 +8020,7 @@ Fees for terminals placed in operation after the first day of the month of July 
     * - 4/1 to 6/30 
       - $  35.00 
       - $12.00 
+
 ~
 
 
@@ -8417,6 +8432,7 @@ OATH. New York City Office of Administrative Trials and Hearings.
       - $15.00/mile
     * -  – Provision of Oxygen (as applicable)
       - $66.00
+
 ~
 
 

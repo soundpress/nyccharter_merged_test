@@ -442,6 +442,7 @@ Until this Board adopts rules to supplement §§ 260-265 inclusive and 272 of th
       - Stairways Enclosed 
       - Stairways Enclosed 
       - 
+
 ~
 
 
@@ -625,6 +626,7 @@ FIRE DRILL ORGANIZATION
       -  Squad No. 6 
       - 
       - 
+
 ~
 
  
@@ -1782,6 +1784,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
       - 300 heads 
     * - 8 inch
       - 420 heads 
+
 ~
 
  
@@ -1818,6 +1821,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
       - 75 heads 
     * - 8 inch
       - 105 heads 
+
 ~
 
  
@@ -1852,6 +1856,7 @@ The requirement of the Board of a minimum sound level of 85 decibels in a 10 foo
       - 60 heads 
     * - 8 inch
       - 84 heads 
+
 ~
 
  
@@ -2567,6 +2572,7 @@ Each factory built fireplace shall be equipped with a means of providing it with
       - 96,000 gallons
     * - If distant 85 feet or more
       - 100,000 gallons
+
 ~
 
 
@@ -3048,6 +3054,7 @@ TABLE 5-01CROSS-REFERENCE TABLE OF RULES REPEALED, RENUMBERED AND TRANSFERRED
       - Action
       - BSA Section(2 RCNY)Effective May 5, 2019
       - FDNY Section(3 RCNY)Effective May 5, 2019
+
 ~
 
 
@@ -3226,6 +3233,7 @@ TABLE 5-01CROSS-REFERENCE TABLE OF RULES REPEALED, RENUMBERED AND TRANSFERRED
       - Repeal
       - N/A
       - N/A
+
 ~
 
  

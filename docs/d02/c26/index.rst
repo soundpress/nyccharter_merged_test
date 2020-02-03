@@ -1646,6 +1646,7 @@ Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and
       - H-2 Institutional (incapacitated)
     * - F-1b Assembly (churches, concert halls, etc.)
       -  
+
 ~
 
 
@@ -1738,6 +1739,7 @@ Table A
       - H-2 Institutional (incapacitated)
       - LEED-certified or higher
       - Minimum 25% reduction in energy costs. Additional 5% reduction required if payback within 7 years.
+
 ~
 
  
@@ -1764,6 +1766,7 @@ Table B
     * - HVAC comfort controls – $2M or more
       - B-1 Storage (moderate hazard)B-2 Storage (low hazard)C MercantileE BusinessF-1a Assembly (theaters, etc.)F-1b Assembly (churches, concert halls, etc.)F-3 Assembly (museums, etc.)F-4 Assembly (restaurants, etc.)G EducationH-1 Institutional (restrained)H-2 Institutional (incapacitated)
       - Minimum 5% reduction in energy costs.
+
 ~
 
 
@@ -1795,6 +1798,7 @@ Table C
     * -  
       - F-1a Assembly (theaters, etc.)F-1b Assembly (churches, concert halls, etc.)F-3 Assembly (museums, etc.)F-4 Assembly (restaurants, etc.)G EducationH-1 Institutional (restrained)H-2 Institutional (incapacitated)
       -  
+
 ~
 
 
@@ -2156,6 +2160,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
       - Total Volatile Organic Compounds
       - 8,000 
       -  – 
+
 ~
 
  
@@ -2183,6 +2188,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
     * -  
       - Total Volatile Organic Compounds
       - 1,000 
+
 ~
 
 
@@ -2217,6 +2223,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
       - 100 
     * - Primer For Non-Flat Paint
       - 150 
+
 ~
 
  
@@ -2431,6 +2438,7 @@ Any of the following mercury-added lamps shall comply with the standards specifi
       - 1,975 
       - 12,000 
       - 20 
+
 ~
 
  
@@ -2461,6 +2469,7 @@ Any of the following mercury-added lamps shall comply with the standards specifi
     * - Other Self-Ballasted 
       - 6,000 
       - 5
+
 ~
 
 
@@ -2503,6 +2512,7 @@ Any of the following composite wood or agrifiber products containing added urea-
       - No added urea formaldehyde resins 
     * - Strawboard
       - No added urea formaldehyde resins 
+
 ~
 
  
@@ -2529,6 +2539,7 @@ Any of the following dioxin producing products purchased or leased by any agency
       - Standard
     * - Paper Products
       - Process-chlorine free 
+
 ~
 
 
@@ -2714,6 +2725,7 @@ Any of the following dioxin producing products purchased or leased by any agency
       - 18 
     * - Solids/Semi-Solid
       - 3 
+
 ~
 
 

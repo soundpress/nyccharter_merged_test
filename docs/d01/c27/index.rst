@@ -2788,6 +2788,7 @@ No person shall cause or permit the shipment or delivery of fuel into the city o
     * - All other sections, subdivisions and paragraphs of this chapter
       - 400
       - 1,600
+
 ~
 
  
@@ -3832,6 +3833,7 @@ No person shall cause or permit discharge into the open air of the exhaust of an
     * - 8000
       - 32
       - 37
+
 ~
 
  
@@ -4532,6 +4534,7 @@ Table I
       -   440 
       -  2,625 
       -   660 
+
 ~
 
 * By the same respondent of the same provision of law, order, rule or regulation and, if the respondent is the owner, agent, lessee or other person in control of the premises with respect to which the violation occurred, at the same premises (all violations committed within two years).
@@ -4667,6 +4670,7 @@ TABLE VI
     * - 24-241
     * - 24-244
     * - 24-245
+
 ~
 
  
@@ -6606,6 +6610,7 @@ a. Definitions. As used in this section, the following terms shall mean:
       - 417 lbs. per million gallons(50 parts per million) or less
     * - pH 
       - not less than 5.0 and not more than 9.5
+
 ~
 
 
@@ -6630,6 +6635,7 @@ a. Definitions. As used in this section, the following terms shall mean:
       - 417 lbs. per million gallons(50 parts per million) or less
     * - pH 
       - not less than 5.0 and not more than 9.5; 
+
 ~
 
 
@@ -6687,6 +6693,7 @@ b. Imposition and computation of sewer surcharge.
     * - 
       - 300 = 
       - maximum parts per million by weight of B.O.D. allowable in receivable industrial waste.
+
 ~
 
  

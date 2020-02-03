@@ -1539,6 +1539,7 @@ For construction contracts:
       - 18% of total annual agency expenditures on such contracts
     * - Emerging
       - 6% of total annual agency expenditures on such contracts
+
 ~
 
 
@@ -1563,6 +1564,7 @@ For construction contracts:
       - 37% of total annual agency expenditures on such contracts
     * - Emerging
       - 6% of total annual agency expenditures on such contracts
+
 ~
 
 
@@ -1589,6 +1591,7 @@ For standard services contracts:
       - 10% of total annual agency expenditures on such contracts
     * - Emerging
       - 6% of total annual agency expenditures on such contracts
+
 ~
 
 
@@ -1615,6 +1618,7 @@ For goods contracts under one hundred thousand dollars:
       - 25% of total annual agency expenditures on such contracts
     * - Emerging
       - 6% of total annual agency expenditures on such contracts
+
 ~
 
 

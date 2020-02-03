@@ -301,6 +301,7 @@ Below is a sample outline for a licensee's book recording ammunition received, d
       -  
       -  
       - 
+
 ~
 
 
@@ -355,6 +356,7 @@ AMMUNITION SOLD**
       -  
       -  
       - 
+
 ~
 
 
@@ -1166,6 +1168,7 @@ AMMUNITION RECEIVED
       -  
       -  
       - 
+
 ~
 
  
@@ -1250,6 +1253,7 @@ AMMUNITION SOLD
       -  
       -  
       - 
+
 ~
 
  
@@ -4654,6 +4658,7 @@ For purposes of these rules, the following terms shall have the following meanin
     * - Extra Large
       - 2,000 or more
       - $2,000,000 or more
+
 ~
 
 

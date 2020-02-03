@@ -1838,6 +1838,7 @@ Table 104.7.6.1
     * -  7.392 
       - —&gt; add 2.608 —&gt;
       - 10.000 
+
 ~
 
 
@@ -1861,6 +1862,7 @@ Table 104.7.6.2
     * -  7.453 
       - —&gt; add 2.547 —&gt;
       - 10.000 
+
 ~
 
 
@@ -1884,6 +1886,7 @@ Table 104.7.6.3
     * -  7.248 
       - —&gt; add 2.752 —&gt;
       - 10.000 
+
 ~
 
 
@@ -1907,6 +1910,7 @@ Table 104.7.6.4
     * -  7.275 
       - —&gt; add 2.725 —&gt;
       - 10.000 
+
 ~
 
 
@@ -1930,6 +1934,7 @@ Table 104.7.6.5
     * -  6.808 
       - —&gt; add 3.192 —&gt;
       - 10.000
+
 ~
 
 
@@ -3592,6 +3597,7 @@ Table 28-112.2
       - Filing Fee
       - Renewal Fee
       - Comments
+
 ~
 
 
@@ -3774,6 +3780,7 @@ Table 28-112.2
       - Full fee at the rate in effect on the date of reinstatementFull fee at the rate in effect on the date of reinstatementBased upon the full fee at the rate in effect on the date of reinstatement, the percentage of the fee equal to the percentage of work remaining as determined by the department inspector, plus the renewal fee.
       - 
       - 
+
 ~
 
  
@@ -3974,6 +3981,7 @@ Table 28-112.7.1
       - Filing Fee
       - Renewal Fee
       - Comments
+
 ~
 
 
@@ -4060,6 +4068,7 @@ Table 28-112.7.1
       - As provided by department rules
       - 
       - 
+
 ~
 
  
@@ -4106,6 +4115,7 @@ Table 28-112.7.2
       - $30 for each device.
       - 
       - 
+
 ~
 
 
@@ -4158,6 +4168,7 @@ Table 28-112.7.3
       - Increase above fee by 25% for each floor for each additional twenty-five feet or fraction thereof.
       - 
       - 
+
 ~
 
 
@@ -4198,6 +4209,7 @@ Table 28-112.7.4
       - $100 for each inspection, for each device.
       - 
       - 
+
 ~
 
 
@@ -4226,6 +4238,7 @@ Table 28-112.8
       - Fee
       - Renewals
       - Comments
+
 ~
 
 
@@ -4392,6 +4405,7 @@ Table 28-112.8
       - As provided by department rules.
       - 
       - 
+
 ~
 
  
@@ -9274,6 +9288,7 @@ The first energy efficiency reports for covered buildings in existence on the ef
       - 2017 
       - 2018 
       - 2019 
+
 ~
 
 

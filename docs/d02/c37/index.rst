@@ -311,6 +311,7 @@ Chapter 3: Fees
     * -  
       - Category IV – Carnarsie Cemetery
       -  
+
 ~
 
 Schedule of PricesCertificate of Burial Right
@@ -329,6 +330,7 @@ A certificate of burial right grants the privilege of interment or entombment in
       - $1,995.00
     * - Urn Gardens
       - $300.00
+
 ~
 
 
@@ -389,6 +391,7 @@ A certificate of burial right grants the privilege of interment or entombment in
     * - (xiii)
       - Late charges and penalties. Arrearages in annual care charges may be assessed a late payment charge equal to 20% of the balance in arrears, except that late payment charges assessed subsequent to December 31, 1991, shall be excluded from the balance upon which late charges are assessed. Persons issuing checks returned as uncollectible shall be charged a penalty of $15.00 per check.
       - 
+
 ~
 
  
@@ -963,6 +966,7 @@ Paper and Paper Products1
       -  – 
       - 90 
       -  – 
+
 ~
 
  
@@ -990,6 +994,7 @@ Paper and Paper Products1
     * - Form bond including computer paper and carbonless
       - 50 percent 
       - 10 percent
+
 ~
 
 
@@ -1026,6 +1031,7 @@ Building Insulation Products 4
       -  5 percent recovered material
     * - Rock wool
       -  50 percent recovered material
+
 ~
 
  
@@ -1046,6 +1052,7 @@ Plastics 6
       - Minimum Percentage by Weight of Post-Consumer Material Content
     * - 50 percent 
       - 15 percent 
+
 ~
 
 
@@ -1086,6 +1093,7 @@ Note – The minimum content standards are based on the weight of material (not 
       - Minimum Percentage by Weight of Post-Consumer Material Content
     * - 75 percent 
       - 75 percent 
+
 ~
 
  
@@ -1338,6 +1346,7 @@ Chapter 11: Personnel Practice and Procedure
       - $96
     * - $100,000 &amp; over
       - $101
+
 ~
 
  
@@ -1636,6 +1645,7 @@ These regulations shall be applicable also to examinations conducted by the Depa
       - $220
     * - For examination for appointment as City Surveyor
       - $275
+
 ~
 
  
@@ -3100,6 +3110,7 @@ The salary grade for positions which are now or may hereafter be made subject to
     * - 32
       - 13,100
       - Unlimited
+
 ~
 
 

@@ -67,6 +67,7 @@ Chapter 1: License Enforcement
 
     * - License 
       - Date (years refer to calendar years)
+
 ~
 
 
@@ -129,6 +130,7 @@ Chapter 1: License Enforcement
       - April 1 of Odd Years
     * - Towing Vehicles
       - December 31 of Odd Years
+
 ~
 
  
@@ -879,6 +881,7 @@ Terms designating weight and size must be applied to each lot of eggs in connect
       - 15-18 ounces 
       - 28 pounds 
       - ____________
+
 ~
 
 
@@ -3230,6 +3233,7 @@ Retail food stores shall obey the Federal Trade Commission Trade Regulations ent
     :header-rows: 1
 
     * - WARNING It is illegal to use this gate on a fire escape window. Use of this gate on a fire escape window is a serious safety hazard and may also subject the user to a fine by the Department of Buildings.
+
 ~
 
 
@@ -5715,6 +5719,7 @@ The maximum fees are set based on the size of the bond, not the number of people
     * - Bail Bond Amount
       - Calculation of Fees
       - Maximum Fees
+
 ~
 
 
@@ -5746,6 +5751,7 @@ The maximum fees are set based on the size of the bond, not the number of people
     * - $50,000
       - 10% of $3,000 + 8% of $7,000 + 6% of $40,000
       - $3,260
+
 ~
 
  
@@ -5797,6 +5803,7 @@ The maximum fees are set based on the size of the bond, not the number of people
     * - Bail Bond Amount
       - Calculation of Fees
       - Maximum Fees
+
 ~
 
 
@@ -5828,6 +5835,7 @@ The maximum fees are set based on the size of the bond, not the number of people
     * - $50,000
       - 10% of $3,000 + 8% of $7,000 + 6% of $40,000
       - $3,260
+
 ~
 
  

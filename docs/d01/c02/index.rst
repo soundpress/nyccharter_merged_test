@@ -1011,6 +1011,7 @@ d. 1. Where the use of such screening tool required pursuant to subdivision c of
       - 140
     * - 2021
       - 142
+
 ~
 
 
@@ -3519,6 +3520,7 @@ Each participating candidate for nomination for election or election in a covere
       - $1,386,000 
     * - member of the city council:
       - $161,000 
+
 ~
 
 
@@ -3549,6 +3551,7 @@ Each participating candidate for nomination for election or election in a covere
       - $129,000 
     * - member of the city council:
       - $43,000 
+
 ~
 
 

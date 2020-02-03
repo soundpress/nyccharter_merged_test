@@ -671,6 +671,7 @@ The EFAP food budget will consist of two components: a food supplement and a mea
       - EFAP Meal Budget
       - =
       - Total EFAP Food Budget 
+
 ~
 
 
@@ -690,6 +691,7 @@ Correspondingly each provider's food allocation may consist of two components: a
       - Meal Budget
       - =
       - A Provider's Food Allocation
+
 ~
 
 
@@ -711,6 +713,7 @@ Correspondingly each provider's food allocation may consist of two components: a
       - EFAP Food Supplement
       - =
       - EFAP Meal Budget 
+
 ~
 
 
@@ -730,6 +733,7 @@ Each provider will receive a meal budget per cycle based on its number of funded
       - Total Number of Funded Meals for All Providers
       - =
       - Dollar Value of Each Funded Meal
+
 ~
 
 
@@ -749,6 +753,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
       - Dollar Value of Each Funded Meal
       - =
       - A Provider's Meal Budget
+
 ~
 
 
@@ -766,6 +771,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
     * - The Total # of Individuals Served in each Soup Kitchen for Twelve Month Period
       - =
       - Total # of Meals Served in each Soup Kitchen for Twelve Month Period
+
 ~
 
 
@@ -783,6 +789,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
       - 3 Meals per Individual Served
       - =
       - Total # of Meals Served in Each Food Pantry for Twelve Month Period 
+
 ~
 
 
@@ -800,6 +807,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
     * - Meal Category
       - Percent of Programs Within Category
       - Meal Factor 
+
 ~
 
 
@@ -831,6 +839,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
     * - 7
       - 6%
       - .125
+
 ~
 
  
@@ -849,6 +858,7 @@ Finally, the number of funded meals for a provider is multiplied by the dollar v
       - 4
     * - 5,000 - 6,699 meals
       - 2
+
 ~
 
 
@@ -871,6 +881,7 @@ One would determine the total number of funded meals for a provider serving 6,00
       - 2,000
     * -  
       - 33,188 funded meals
+
 ~
 
 
@@ -1159,6 +1170,7 @@ The following documents are worth four points and establish identity and residen
       - Yes 
       - 4 
       - Yes
+
 ~
 
 
@@ -1222,6 +1234,7 @@ The following documents are worth four points and establish identity and residen
       - Acceptable as Photo ID?
       - Point Value for Proof of ID
       - Acceptable as Proof of Date of Birth?
+
 ~
 
 
@@ -1307,6 +1320,7 @@ The following documents are worth four points and establish identity and residen
       - Yes 
       - 3 
       - Yes
+
 ~
 
  
@@ -1324,6 +1338,7 @@ The following documents are worth four points and establish identity and residen
       - Acceptable as Photo ID?
       - Point Value for Proof of ID
       - Acceptable as Proof of Date of Birth?
+
 ~
 
 
@@ -1429,6 +1444,7 @@ The following documents are worth four points and establish identity and residen
       - No 
       - 2 
       - No
+
 ~
 
  
@@ -1448,6 +1464,7 @@ The following documents are worth four points and establish identity and residen
       - Acceptable as Photo ID?
       - Point Value for Proof of ID
       - Acceptable as Proof of Date of Birth?
+
 ~
 
 
@@ -1563,6 +1580,7 @@ The following documents are worth four points and establish identity and residen
       - Yes
       - 1
       - No
+
 ~
 
  
@@ -1595,6 +1613,7 @@ The following documents are worth four points and establish identity and residen
       - Description
       - Point Value for Proof of Residency
       - Acceptable as Proof of Address?
+
 ~
 
 
@@ -1725,6 +1744,7 @@ The following documents are worth four points and establish identity and residen
       - Signed letter from a school administrator indicating that the applicant: (i) is enrolled, employed or otherwise connected with the school; (ii) resides in housing in New York City that is affiliated with the school; (iii) receives mail at a central school-based location different from where the applicant resides; and (iv) the school mail box and/or street address where applicant’s mail is delivered.This document must be presented with a photo ID from the institution issuing the letter.The IDNYC card will display the name of the school and the address where the applicant receives mail.
       - 1
       - Yes
+
 ~
 
  
@@ -1763,6 +1783,7 @@ The following documents are worth four points and establish identity and residen
       - Signed letter from an executive-level official at a residential care program located within New York City which is funded, administered, and/or overseen by the NYC HRA-Emergency &amp; Intervention Services - Office of Domestic Violence. The letter must indicate that the applicant has resided in New York City for at least 15 days; has security concerns about a home address appearing on his/her IDNYC card: and that s/he is permitted to receive mail at a Post Office Box affiliated with the program. The letter must be dated no more than 30 days prior to the date submitted.The card issues will display the P.O. Box or no address at all.
       - 1
       - Yes
+
 ~
 
 
@@ -1831,6 +1852,7 @@ An applicant is not required to provide photo identification if accompanied by a
     * - Where Caretaker is Stepparent: (1) Applicant’s Birth Certificate AND (2) Stepparent’s Marriage Certificate
       - Two documents (both are required)Applicant's birth certificate, in addition to the caretaker's certificate of marriage, civil union or domestic partnership showing that the caretaker is married to, or the domestic partner of, a parent named on applicant's birth certificate. A birth certificate issued in Puerto Rico prior to July 1, 2010 will not be accepted. All birth certificates issued prior to that date have been invalidated by Puerto Rico law.
       - Yes
+
 ~
 
  
@@ -1866,6 +1888,7 @@ An applicant is not required to provide photo identification if accompanied by a
     * - Where Caretaker is an Employee of the NYS Office for People with Developmental Disabilities (OPWDD) NYS Department of Health (DOH), NYS Office of Mental Health (NYS OMH) or NYC Department of Health and Mental Hygiene (NYC DOHMH) or an Agency or Facility that is Licensed, Certified or Funded by OPWDD, NYS DOH, NYS OMH or NYC DOHMH: Signed Letter
       - Signed letter from executive-level official at OPWDD, NYS DOH, NYS OMH or NYC DOHMH or an agency or facility that is operated, licensed, certified or funded by one of those agencies, establishing relationship of applicant to the agency or facility. Must be dated no more than 60 days prior to the date submitted and must authorize the employee to represent the agency or facility and accompany the applicant at the IDNYC enrollment site. Accepted only if caretaker also presents employee ID issued by the agency or facility.
       - Yes
+
 ~
 
 
@@ -2252,6 +2275,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
       - $1,428
       - $1,542
       - $1,599$1,714
+
 ~
 
 
@@ -2299,6 +2323,7 @@ HRA shall administer the LINC Rental Assistance Programs for Families with Child
       - $1,018
       - $1,053
       - $1,168
+
 ~
 
 
@@ -2673,6 +2698,7 @@ HRA shall administer the LINC IV and LINC V Rental Assistance Programs, except t
       - $1,542
       - $1,599
       - $1,714
+
 ~
 
 
@@ -2974,6 +3000,7 @@ HRA shall administer the LINC VI Rental Assistance Program, except that HRA shal
       - $650
       - $750
       - $1,000
+
 ~
 
 
@@ -3336,6 +3363,7 @@ HRA shall administer the CITYFEPS Programs and shall make eligibility determinat
       - $1,432
       - $1,651
       - $1,651
+
 ~
 
 
@@ -3696,6 +3724,7 @@ HRA shall administer the Special Exit and Prevention Supplement Program, except 
       - $1,956
       - $2,197
       - $2,197
+
 ~
 
 
@@ -4146,6 +4175,7 @@ HRA shall administer HRA HOME TBRA subject to oversight by the New York City Dep
       - 6
     * - 13 or 14
       - 7
+
 ~
 
  
@@ -4720,6 +4750,7 @@ HRA will administer the CityFHEPS Program and will make eligibility determinatio
       - $2,257
       - $2,600
       - $2,600
+
 ~
 
 
@@ -5195,6 +5226,7 @@ HRA shall administer the Pathway Home Program, except that HRA shall make initia
       - $1,200
       -  $1,500
       - $1,800
+
 ~
 
 

@@ -355,6 +355,7 @@ Worker decontamination enclosure system. "Worker decontamination enclosure syste
     * - CATEGORY
       - NYC Asbestos Control Program Section #s 
       - 12 NYCRR Part 56 Section #s 
+
 ~
 
 
@@ -386,6 +387,7 @@ Worker decontamination enclosure system. "Worker decontamination enclosure syste
     * - Pre-Demolition Abatement Activity Procedures
       - 120-129 
       -  – 
+
 ~
 
  
@@ -884,6 +886,7 @@ Worker decontamination enclosure system. "Worker decontamination enclosure syste
       - $1,100
     * - 10,000 or more square/linear feet of ACM
       - $1,300
+
 ~
 
 
@@ -1176,6 +1179,7 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
       - Pre-Abatement
       - During Abatement
       - Post-Abatement 
+
 ~
 
 
@@ -1276,6 +1280,7 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
       - – 
       - –
       - 1d
+
 ~
 
  
@@ -1456,6 +1461,7 @@ Monitoring requirements and procedures for other than post-abatement clearance a
     * - TEM 37 mm
       - 1,250
       - 1 to 10 liters/min. 
+
 ~
 
 
@@ -1513,6 +1519,7 @@ Post-abatement clearance air monitoring requirements are as follows:
     * - TEM 
       - 1,250 Liters 
       - 1 to 10 liters/min. 
+
 ~
 
 
@@ -1632,6 +1639,7 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
     :header-rows: 1
 
     * - DANGERASBESTOS MAY CAUSE CANCER, CAUSES DAMAGE TO LUNGSAUTHORIZED PERSONNEL ONLYWEAR RESPIRATORY PROTECTION AND PROTECTIVE CLOTHING IN THIS AREA
+
 ~
 
 
@@ -1648,6 +1656,7 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
     :header-rows: 1
 
     * - DANGERCONTAINS ASBESTOS FIBERSMAY CAUSE CANCER, CAUSES DAMAGE TO LUNGSDO NOT BREATHE DUSTAVOID CREATING DUST
+
 ~
 
 
@@ -2540,6 +2549,7 @@ The following regulations shall apply to pre-demolition abatement activities:
       - Abatement from Vertical Exterior Surfaces
     * - 15 RCNY § 1-120 through 1-128
       - Pre-Demolition Abatement Activity Procedures
+
 ~
 
  
@@ -3249,6 +3259,7 @@ An owner of equipment that is required to have a certificate of operation must p
     * - Temperature
       - + 0.5%
       - 0.1 °F
+
 ~
 
 
@@ -3272,6 +3283,7 @@ An optional test using the following standards may be applied as provided in the
     * - Nitric Oxide (NO)
       - + 5 ppm at 0 - 100 ppm+ 5% 101 - 2,000 ppm
       - 1 ppm
+
 ~
 
 
@@ -4201,6 +4213,7 @@ Table 1. Flue Fed Incinerators — 100 to 1,000 Rooms — Manual Grates
       - 433,000
       - 577,000
       - 720,000
+
 ~
 
  
@@ -7112,6 +7125,7 @@ Individuals who have committed 4 or more offenses within a 5 year period, or who
     * - 15 RCNY §§ 16-11, 16-13, 16-14, 16-16
       - Restricted Areas (15 RCNY § 16-11); Injury, Destruction or Abuse of Natural Resources or Property (15 RCNY § 16-13(a)); Firearms, Weapons, Explosives (15 RCNY § 16-13(b)); Animals (15 RCNY § 16-13(c)), Tents and Other Structures (15 RCNY § 16-13(e)); Motor Vehicle Access (15 RCNY § 16-13(f)); Littering, Polluting, Dumping (15 RCNY § 16-14(a)); Bathing, Swimming, Washing of Objects (15 RCNY § 16-14(b)); Target Shooting (15 RCNY § 16-14(d)); Camping (15 RCNY § 16-14(e)); Fires (15 RCNY § 16-14(f)); Motorized Equipment (15 RCNY § 16-14(h)); Commercial Activities (15 RCNY § 16-14(i)); Manned and Unmanned aircraft (15 RCNY § 16-14(k); Horses (15 RCNY § 16-14(l)), Biking (§ 16-14(m)); Conformance with State and Local Laws (15 RCNY § 16-16).
       - 18 months - 5 years or revocation
+
 ~
 
 
@@ -7330,6 +7344,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
     * - Category
       - 
       - Permit Fee
+
 ~
 
 
@@ -7796,6 +7811,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
     * - •
       - Shield Wires, each
       - $7.92
+
 ~
 
  
@@ -8874,6 +8890,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
       - 0.5
     * - ≥ 500,000
       - 0.2
+
 ~
 
 
@@ -10462,6 +10479,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
     * - Zinc
       - 5      
       -  – 
+
 ~
 
  
@@ -10904,6 +10922,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
       - 
       - 46,201 to 61,600 
       - 400 (lb) 
+
 ~
 
  
@@ -11416,6 +11435,7 @@ DEP Containment Requirement
       - Double Check Valve Assembly (Provided that internal protective devices are installed for the hazardous fixtures in accordance with Department of Building requirements).
     * - Non-Hazardous Facilities
       - None
+
 ~
 
 
@@ -14835,6 +14855,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - D10VH
     * - Makita
       - 6408
+
 ~
 
 
@@ -14867,6 +14888,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - 743
     * - Bosch
       - CS20
+
 ~
 
  
@@ -14889,6 +14911,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - EU2000 series
     * - Honda
       - EU6500isA
+
 ~
 
 
@@ -14909,6 +14932,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - MS500K
     * - Black and Decker
       - MS550GB
+
 ~
 
 
@@ -14929,6 +14953,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - W6V3
     * - DeWalt
       - DW272
+
 ~
 
 
@@ -14953,6 +14978,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - 6509-22
     * - Milwaukee
       - 6524-21
+
 ~
 
 
@@ -14975,6 +15001,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - C10FCE
     * - DeWalt
       - DW706
+
 ~
 
 
@@ -15005,6 +15032,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - DW402
     * - Bosch
       - 1700A
+
 ~
 
  
@@ -15025,6 +15053,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - 6266-22
     * - Black and Decker
       - JS600
+
 ~
 
 
@@ -15049,6 +15078,7 @@ b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as 
       - 11224VSR
     * - DeWalt
       - DW505
+
 ~
 
 
@@ -16165,6 +16195,7 @@ The fee for a new registration or registration renewal is as follows:
     * - 2.8 to less than 4.2
       - $345
       - $345
+
 ~
 
 
@@ -16197,6 +16228,7 @@ The fee for a new registration or registration renewal is as follows:
       - $190
     * - 280 to less than 450
       - $345
+
 ~
 
 
@@ -16223,6 +16255,7 @@ For higher outputs, see subdivision (h) of 15 RCNY § 34-04.
       - $190
     * - 375 to less than 600
       - $345
+
 ~
 
 
@@ -16249,6 +16282,7 @@ For higher outputs, see subdivision (i) of 15 RCNY § 34-04.
       - $190
     * - 2.8 to less than 4.2
       - $345
+
 ~
 
 
@@ -16271,6 +16305,7 @@ For higher outputs, see subdivision (i) of 15 RCNY § 34-04.
       - Fee
     * - 100 To 2,000
       - $250
+
 ~
 
 
@@ -16329,6 +16364,7 @@ The fee for a new work permit required under section 24-121 of the Air Code, or 
       - $1,440
     * - 140 Or More
       - $1,440 plus $125 per additional 10 MMBTU/HR Or Fraction Thereof Not To Exceed $ 10,000.
+
 ~
 
  
@@ -16359,6 +16395,7 @@ The fee for a new work permit required under section 24-121 of the Air Code, or 
       - $1,440
     * - 42 Or More
       - $1,440 plus $125 per additional 10 MMBTU/HR Or Fraction Thereof Not To Exceed $10,000.
+
 ~
 
  
@@ -16387,6 +16424,7 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
       - $940
     * - 100,001 Or More
       - $1,405
+
 ~
 
 
@@ -16415,6 +16453,7 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
       - $1,060
     * - 100,001 Or More
       - $1,580
+
 ~
 
 
@@ -16443,6 +16482,7 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
       - $1,175
     * - 100,001 Or More
       - $1,750
+
 ~
 
 
@@ -16479,6 +16519,7 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
       - $1,440
     * - 140 Or More
       - $1,440 plus $125 per additional 10 MMBTU/HR Or Fraction Thereof Not To Exceed $10,000.
+
 ~
 
  
@@ -16511,6 +16552,7 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
       - $1,440
     * - Over 14,000
       - $1,440 plus $125 per additional 1,000 KW Or Fraction Thereof Not To Exceed $10,000.
+
 ~
 
  
@@ -16543,6 +16585,7 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
       - $1,440
     * - Over 18,775
       - $1,440 plus $125 per additional 1,350 HP Or Fraction Thereof Not To Exceed $10,000.
+
 ~
 
  
@@ -16569,6 +16612,7 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
       - $1,500
     * - 75.1 Or More
       - $2,400
+
 ~
 
 
@@ -16635,6 +16679,7 @@ The fees for equipment approvals are as follows:
       - $800
     * - 1,000 LF or 1,000 SF or more
       - $1,200
+
 ~
 
 
@@ -16665,6 +16710,7 @@ The fees for equipment approvals are as follows:
       - $1,100
     * - 10,000 or More LF or SF
       - $1,300
+
 ~
 
 
@@ -16691,6 +16737,7 @@ The fees for equipment approvals are as follows:
       - $100
     * - Investigator
       - $250
+
 ~
 
 
@@ -16747,6 +16794,7 @@ The fees for equipment approvals are as follows:
     * - Pre-Demolition
       - 120-129
       - —
+
 ~
 
  
@@ -17320,6 +17368,7 @@ Except as specifically provided in this section, every application made pursuant
       - $25,000.00 
     * - over 500,000 sq. ft.
       - $43,000.00 
+
 ~
 
  
@@ -18171,6 +18220,7 @@ Chapter 54: Community Right-To-Know Law Penalty Schedule
       - $5,000$10,000$10,000
       - YesNoNo
       - MMM
+
 ~
 
 
@@ -18924,6 +18974,7 @@ Chapter 55: Stormwater Penalty Schedule
       - 
       - $10,000
       - $8,000
+
 ~
 
  
@@ -19404,6 +19455,7 @@ Chapter 59: Hazardous Substances Emergency Response Law Penalty Schedule
       - SAME AS ABOVE
       - SAME AS ABOVE
       - $10,000
+
 ~
 
 

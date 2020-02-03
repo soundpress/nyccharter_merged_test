@@ -377,6 +377,7 @@ For a full description of violations, refer back to text of section of rule indi
       - Cure
       - Penalty
       - Default Penalty
+
 ~
 
 
@@ -567,6 +568,7 @@ For a full description of violations, refer back to text of section of rule indi
       - N
       - $15,000
       - $15,000
+
 ~
 
  

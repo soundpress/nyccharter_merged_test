@@ -851,6 +851,7 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
       - 
       - 
       - 
+
 ~
 
 
@@ -979,6 +980,7 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
       - Vendor on sidewalk that allows less than 12 feet as pedestrian path; or unit not at, or abutting curb.
     * - § 17-315(e)
       - Vendor within bus stop, within 10 feet of any driveway, any subway entrance or exit, or any crosswalk at any intersection.
+
 ~
 
  
@@ -1719,6 +1721,7 @@ Table 8-1. Corrective actions required for Legionella culture results.
     * - 4
       - ≥ 1,000 CFU/ml
       - Initiate immediate disinfection by increasing biocides within 24 hours. Within 48 hours perform full remediation of the tower by hyperhalogenating2, draining, cleaning, and flushing. Review treatment program, retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached. For Legionella results at this level, notify Department within 24 hours of receiving test result.3
+
 ~
 
 
@@ -1754,6 +1757,7 @@ Table 8-2. Corrective actions required for bacteriological indicator results.
     * - 4
       - ≥1,000,000 CFU/ml
       - Initiate immediate disinfection by increasing biocides within 24 hours. Within 48 hours perform remediation of the tower by hyperhalogenating2, cleaning, and flushing. Review treatment program, retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
+
 ~
 
 
@@ -1838,6 +1842,7 @@ The following penalties shall be imposed for sustained initial and repeat violat
       - Description
       - Penalty: First violation
       - Repeat violation(s)
+
 ~
 
 
@@ -1968,6 +1973,7 @@ The following penalties shall be imposed for sustained initial and repeat violat
       - Miscellaneous provisions
       - $250
       - $250
+
 ~
 
  
@@ -3001,6 +3007,7 @@ This chapter applies to sales of cigarettes and tobacco products in the City of 
 
     * - Cigar Pack Size
       - Price Floor
+
 ~
 
 
@@ -3027,6 +3034,7 @@ This chapter applies to sales of cigarettes and tobacco products in the City of 
       - $23.75
     * - 20-pack
       - $41.25
+
 ~
 
  
@@ -3045,6 +3053,7 @@ This chapter applies to sales of cigarettes and tobacco products in the City of 
 
     * - Smokeless Tobacco Pack Size
       - Price Floor
+
 ~
 
 
@@ -3069,6 +3078,7 @@ This chapter applies to sales of cigarettes and tobacco products in the City of 
       - $18.00
     * - Greater than 2.7 ounces but less than or equal to 3.0 ounces
       - $20.00
+
 ~
 
  
@@ -3097,6 +3107,7 @@ This chapter applies to sales of cigarettes and tobacco products in the City of 
       - $14.00
     * - Greater than 0.56 ounces but less than or equal to 0.64 ounces
       - $16.00
+
 ~
 
 
@@ -3117,6 +3128,7 @@ This chapter applies to sales of cigarettes and tobacco products in the City of 
 
     * - Shisha Container Size
       - Price Floor
+
 ~
 
 
@@ -3147,6 +3159,7 @@ This chapter applies to sales of cigarettes and tobacco products in the City of 
       - $44.20
     * - 35 ounces
       - $170.00
+
 ~
 
  
@@ -3167,6 +3180,7 @@ This chapter applies to sales of cigarettes and tobacco products in the City of 
 
     * - Loose Tobacco Size
       - Price Floor
+
 ~
 
 
@@ -3237,6 +3251,7 @@ This chapter applies to sales of cigarettes and tobacco products in the City of 
       - $16.83
     * - Greater than 9.9 ounces but less than or equal to 10.2 ounces
       - $17.34
+
 ~
 
  
@@ -3464,6 +3479,7 @@ Table I Minimum Tensile Energy Absorption – Extensible
     * - Cross Direction Plus Machine Direction of Paper(Single-ply or Multi-ply)
       - 30.8 ft. lb./sq.ft. 
       - Not specified 
+
 ~
 
 
@@ -3487,6 +3503,7 @@ Table II Minimum Tensile Breaking Strengths – Non-Extensible
     * - Cross Direction Plus Machine Direction of Paper(Single-ply or Multi-ply)
       - 95.0 lbs./in. width 
       - Not specified 
+
 ~
 
 

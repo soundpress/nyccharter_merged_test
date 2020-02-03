@@ -2564,6 +2564,7 @@ a. Whenever the chief medical examiner shall furnish to any private individual a
       - five dollars per page
     * - 7. For each copy or photostat of notice of death slip 
       - five dollars per page
+
 ~
 
 
@@ -7010,6 +7011,7 @@ Table ICarpet 14-Day VOC Emissions Test Criteria
     * - Xylenes, technical mixture(m-,o-, p-xylene combined)
       - 108-38-3 95-47-6106-42-3
       - 651
+
 ~
 
  
@@ -7032,6 +7034,7 @@ Table IICarpet Cushion 24-Hour VOC Emissions Test Criteria
       - 50
     * - Total Volatile Organic Compounds
       - 1000
+
 ~
 
 

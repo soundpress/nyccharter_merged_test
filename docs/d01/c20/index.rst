@@ -706,6 +706,7 @@ f. Enforcement.
       - One thousand five hundred to three thousand dollars
     * - One thousand or more newsracks
       - Two thousand to four thousand dollars
+
 ~
 
 
@@ -1209,6 +1210,7 @@ b. 1.    Except as provided in subdivision c of this section, such civil pena
 
     * - Section of the Administrative Code
       - Maximum Civil Penalty (dollars)
+
 ~
 
 
@@ -1277,6 +1279,7 @@ b. 1.    Except as provided in subdivision c of this section, such civil pena
       - 10,000 
     * - All other Provisions of this subchapter and rules or orders relating thereto
       - 5,000 
+
 ~
 
  
@@ -4550,6 +4553,7 @@ b. Effective July first, nineteen hundred seventy-one, all motor vehicles licens
     * - 4. On and after Jan. 1, 1974
       - zero grams
       - zero grams
+
 ~
 
 
@@ -5846,6 +5850,7 @@ Table 1. Clear Deck Spaces
       - 4
     * - 150 and above
       - 6
+
 ~
 
 

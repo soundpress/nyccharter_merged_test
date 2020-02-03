@@ -1536,6 +1536,7 @@ Branch.
       - $500,001.00 
     * - $500,000.51 
       - $500,001.00 
+
 ~
 
 
@@ -2442,6 +2443,7 @@ Example 1: A taxpayer which was subject to tax for all of 1985 reports on a cale
     * - Deposits
       - $1,080,000* 
       - $1,350,000 
+
 ~
 
 
@@ -2470,6 +2472,7 @@ The taxpayer's short period entire net income allocation percentage is computed 
       -  80% 
     * - Total
       -  398% 
+
 ~
 
 
@@ -2494,6 +2497,7 @@ $72,000/12 (months) = $6,000$  6,000 × 7 (months) = $42,000$42,000 × 79.6% =
       - $33,432
     * - Total allocated entire net income
       -  $63,432 
+
 ~
 
 
@@ -2520,6 +2524,7 @@ Example 2: A banking corporation incorporated outside the United States has been
     * - Deposits
       - $672,000* 
       - $1,120,000 
+
 ~
 
 
@@ -2548,6 +2553,7 @@ Example 2: A banking corporation incorporated outside the United States has been
       -  60% 
     * - Total
       -  330% 
+
 ~
 
 
@@ -2608,6 +2614,7 @@ Example: A banking corporation incorporated outside the United States had been d
     * - Deposits
       - $990,000* 
       - $1,650,000 
+
 ~
 
 
@@ -2632,6 +2639,7 @@ The taxpayer's short period alternative entire net income allocation percentage 
       -  60%
     * - Total
       -  210% 
+
 ~
 
 
@@ -2658,6 +2666,7 @@ $120,000/12 (months) = $10,000$  10,000 × 7 (months) = $70,000 $  70,000 ×
       - $10,000
     * - Total allocated alternative entire net income
       - $59,000
+
 ~
 
 
@@ -2710,6 +2719,7 @@ Example: A taxpayer, which was subject to tax for all of 1985, reports on a cale
     * - Deposits
       - $855,000* 
       - $1,125,000 
+
 ~
 
 
@@ -2738,6 +2748,7 @@ The taxpayer's short period asset allocation percentage is computed as follows:
       -  76% 
     * - Total
       -  385% 
+
 ~
 
 
@@ -2762,6 +2773,7 @@ $1,800,000/12 (months) = $150,000$   150,000 × 11 (months) = $1,650,000 $1,6
       -  $1,270,500
     * - Total allocated taxable assets
       -  $1,420,500
+
 ~
 
 
@@ -3100,6 +3112,7 @@ The request must set forth complete information on which the request is made, to
       - Declaration of Estimated Tax
     * - NYC-3360B
       - Banking Corporation Tax Report of Change in Tax made by U.S. Internal RevenueService and/or NY State Department of Taxation and Finance
+
 ~
 
  
@@ -3330,6 +3343,7 @@ Example 2: The taxpayer makes and files on or before October 15, 1981 a timely d
       - (2) The estimated tax must be paid in two equal install- ments (after deducting the amount, if any, paid with the return for the preceding taxable year or with the application for extension of time to file such return). One payment must be made at the time of filing the declaration and one on or before the 15th day of the first month of the succeeding taxable year.
     * - (C) On or before the 15th day of the first month if the succeeding taxable year
       - (3) The estimated tax must be paid in full at the time of filing the declaration (after deducting the amount, if any, paid with the return for the preceding taxable year or with the application for extension of time to file such return).
+
 ~
 
 
@@ -4321,6 +4335,7 @@ In addition to all other powers granted to the Commissioner of Finance under the
       -  $16
     * - Addition to tax under paragraph (1)
       -  $184
+
 ~
 
 
@@ -4343,6 +4358,7 @@ In addition to all other powers granted to the Commissioner of Finance under the
       -  $40
     * - Maximum amount of the addition under paragraph (3)
       -  $10
+
 ~
 
 
@@ -4365,6 +4381,7 @@ In addition to all other powers granted to the Commissioner of Finance under the
       - $12.50
     * - Addition to tax under paragraph (1)
       - $112.00
+
 ~
 
 
@@ -4596,6 +4613,7 @@ Example 1:
       - $15,000 
       - $24,000 
       - $50,000 
+
 ~
 
  
@@ -4678,6 +4696,7 @@ To illustrate:
       -  20% 
     * - Beginning on and after June 1, 1989
       -  30% 
+
 ~
 
 
@@ -4788,6 +4807,7 @@ For each tax year commencing on or after June 1, 1970 and ending on or before Ma
     * - $11,000 or over 
       -  
       - 7 1/2% of the rent 
+
 ~
 
 
@@ -4814,6 +4834,7 @@ For tax years beginning on or after June 1, 1977 and ending on or before May 31,
     * - $11,000 or over 
       -  
       - 6% of the rent 
+
 ~
 
 
@@ -5022,6 +5043,7 @@ Note: This deduction is not permitted where the tenant of the parking space is e
       -  Type of Business    Comm. Rent Reg. No.
     * -  Note: A vehicle owner engaged in commercial activity and occupying space in a garage is subject to the Commercial Rent or Occupancy Tax Law and is required to file returns and pay the tax imposed by said Law.
       - 
+
 ~
 
  
@@ -5098,6 +5120,7 @@ Example 1: Under the terms of a lease entered into by A, a tenant, with B, his l
       - $5,000
     * - TOTAL
       - $14,000 
+
 ~
 
 
@@ -5236,6 +5259,7 @@ Example 1: Assume the taxpayer filed his tax return for the year June 1, 1982 to
       - $2
     * - Addition to tax under paragraph (1)
       - $58
+
 ~
 
 
@@ -5260,6 +5284,7 @@ Example 2: A notice and demand for the $200 deficiency is issued on January 8, 1
       - $40
     * - Maximum amount of the addition under paragraph (3)
       - $10
+
 ~
 
 
@@ -5282,6 +5307,7 @@ Example 3: A taxpayer files his tax return for the year June 1, 1982 to May 31, 
       - $12.50
     * - Additional to tax under paragraph (1)
       - $112.50
+
 ~
 
 
@@ -5548,6 +5574,7 @@ The Commissioner of Finance is entitled to collect fees for the services hereina
       - $35.00 
     * - (h) For the processing of paper checks, drafts or similar paper instruments, written for payments issued through the City's financial management system
       - $3.50 
+
 ~
 
  
@@ -6271,6 +6298,7 @@ Example:
       - $500,001.00 
     * - $500,000.51 
       - $500,001.00 
+
 ~
 
 
@@ -6499,6 +6527,7 @@ Example 2: For the calendar year 1969, a taxpayer has Federal gross income of $4
     * - New York City net operating loss
       - 
       - ($40,000)
+
 ~
 
  
@@ -6538,6 +6567,7 @@ Example 3: If the dividends in example 2 were from subsidiaries, the New York Ci
     * - New York City net operating loss
       - 
       - ($90,000)
+
 ~
 
  
@@ -6578,6 +6608,7 @@ Federal
     * - Taxable income
       - 
       - 0
+
 ~
 
  
@@ -6618,6 +6649,7 @@ Federal
     * - Taxable income
       - 
       - $45,000 
+
 ~
 
  
@@ -6669,6 +6701,7 @@ New York City
     * -  
       - 
       - 
+
 ~
 
  
@@ -6715,6 +6748,7 @@ New York City
     * - Entire net income
       - 
       - $40,000
+
 ~
 
  
@@ -6743,6 +6777,7 @@ Example 6: In 1969 a corporation paid salaries of $30,000 to its officers and st
       - $1,500
     * - Tax at 5 1/2 percent
       - $82.50
+
 ~
 
 
@@ -6769,6 +6804,7 @@ Example 7: In 1966, X Corp. filed a separate New York City General Corporation T
       - $15,000
     * -  Combined net operating loss
       - ($15,000)
+
 ~
 
 
@@ -6907,6 +6943,7 @@ Example 1: HCO Corporation is a calendar year taxpayer with three shareholders, 
       - ×  .30
     * -  
       - $408,000 
+
 ~
 
  
@@ -6939,6 +6976,7 @@ Example 2: The facts are the same as in example 1 except that only 60% of B's sa
       - ×  .30
     * -  
       - $393,000 
+
 ~
 
  
@@ -6969,6 +7007,7 @@ Example 3: The facts are the same as in Example 1 but D is an officer but not a 
       - ×  .30
     * -  
       - $258,000 
+
 ~
 
  
@@ -6999,6 +7038,7 @@ Example 4: ABC Corporation is a calendar year taxpayer. For calendar year 2000, 
       - ×  .30
     * -  
       - $168,000 
+
 ~
 
  
@@ -7549,6 +7589,7 @@ Calculation of Distributive Share Percentage ("DSP"). The distributive share per
       - $500,000
       - $600,000
       - 100%
+
 ~
 
 
@@ -7938,6 +7979,7 @@ Example: The taxpayer is a New York City sales agent of a Pennsylvania manufactu
       - percentage equal to a fraction, the numerator of which is the gross income of a utility corporation included on its New York City Utility Tax reports for periods during the preceding year, and the denominator of which is the gross income of the corporation as defined in Title 11, Chapter 11 of the Code for such periods, except that it shall include income from sources within and without the City.
     * - Administrative Code Title 11, Chapter 6, Subchapter 2 (General Corporation Tax)
       - percentage of entire capital required to be allocated within New York City on its report for thepreceding year (equal to the sum of allocated business capital, allocated investment capital and allocated subsidiary capital divided by the sum of business capital, investment capital and subsidiary capital).
+
 ~
 
 
@@ -8504,6 +8546,7 @@ Example 9: Corporation T and three 80 percent or more owned subsidiaries, Corpor
       - 6,000 
       - 8,000 
       - 4,000 
+
 ~
 
  
@@ -8737,6 +8780,7 @@ Rent.
       - 85% 
     * - Breakfast
       - 85% 
+
 ~
 
  
@@ -8815,6 +8859,7 @@ Example: A hotel suite contains a kitchenette with a microwave oven, refrigerato
       - $  .75 per day
     * - $20 or more
       - $1.00 per day
+
 ~
 
 
@@ -8841,6 +8886,7 @@ Example: A hotel suite contains a kitchenette with a microwave oven, refrigerato
       - $1.50 per day
     * - $40 or more
       - $2.00 per day
+
 ~
 
 
@@ -9043,6 +9089,7 @@ Example A: (a) Assume the taxpayer filed his tax return for the quarter ending F
       -  $16 
     * - Addition to tax under paragraph (1)
       -  $184 
+
 ~
 
 
@@ -9065,6 +9112,7 @@ Example A: (b) A notice and demand for the $200 deficiency is issued on January 
       -  $40 
     * - Maximum amount of the addition under paragraph (3)
       -  $10 
+
 ~
 
 
@@ -9087,6 +9135,7 @@ Example B: (a) A taxpayer files his tax return for the quarter ending February, 
       - $12.50
     * - Additional to tax under paragraph (1)
       -  $112.50
+
 ~
 
 
@@ -10494,6 +10543,7 @@ Motor vehicle. "Motor vehicle" means a motor vehicle registered by an individual
       - A passenger motor vehicle leased for three years by an individual resident from a leasing company located in Kings County and registered pursuant to the vehicle and traffic law in the name of the leasing company at the address of the leasing company in Kings County will qualify for exemption provided the lease shows the address of the individual resident's primary residence in New York County and the vehicle is not used in the individual resident's trade or business.
     * - Example 4:  
       - A passenger motor vehicle leased for three years by an individual resident from a leasing company located in New Jersey and registered in New Jersey in the name of the leasing company does not qualify for exemption because the vehicle is not registered pursuant to the vehicle and traffic law which requires a vehicle operated in New York State by a resident to be registered in New York State.
+
 ~
 
 
@@ -10516,6 +10566,7 @@ Primary residence. "Primary residence" means the dwelling place which is a perma
       - If an individual resides in New York County during Monday through Friday of each week, and maintains a weekend home outside the City, the New York County residence will be deemed primary if more than 183 days are spent there, and in addition, the individual uses that address in filing tax returns and registering his motor vehicle.
     * - Example 2:  
       - Where an individual's family resides outside the City, but the individual stays in an apartment in New York County less than 183 days, votes outside the City and files non-resident City tax returns, the New York County apartment will not be deemed a primary residence.
+
 ~
 
 
@@ -10572,6 +10623,7 @@ Vendor. "Vendor" means a person operating a garage, parking lot, or other place 
       - T is an individual resident. T garages a motor vehicle on an annual basis near T's primary residence. Payment for the garaging service is required monthly. The monthly payment period begins on the first day of the month, but T has until the 15th day of the month to pay for the garaging service. T applies for an exemption certificate, which is issued to T on October 10th. The exemption is effective for payments made to the vendor on or after the date on which T submits the certificate to the vendor with respect to parking, garaging or storing services rendered on or after October 1. If T pays for the garaging service on October 11th and submits the certificate on October 12th, the entire amount paid on October 10th is subject to the additional 8% parking tax because the vendor received the payment before T submitted the certificate.
     * - Example 2:  
       - The facts are the same as in example (1), except that T submits the certificate and payments for September and October to the vendor on October 13th. The payment for October is exempt from the additional 8% parking tax because T paid the vendor on or after the day that T submitted the certificate to the vendor, and the certificate is effective as of the first day of the month in which issued. However, the payment for September is subject to the additional 8% tax because it applies to services rendered prior to October 1, the effective date of the certificate, even though the vendor received payment for September with the exemption certificate.
+
 ~
 
 
@@ -10743,6 +10795,7 @@ Chapter 22: Real Estate Tax Abatement On Rent-controlled Property Occupied By El
       - 3rd quarter 1974 
     * - January 1975 
       - 4th quarter 1974 
+
 ~
 
  
@@ -10912,6 +10965,7 @@ To Illustrate: Assume real property is sold for $300,000 with the purchase price
       - × 1% 
     * -  Tax Due
       - $3,038.80
+
 ~
 
  
@@ -10968,6 +11022,7 @@ Illustration b: X Corporation owns real property in New York City with a fair ma
     * - Total consideration attributable toreal property
       - $500,000
       - 
+
 ~
 
  
@@ -11400,6 +11455,7 @@ Example 1: A, as an "insider," purchases 2% of the stock of a cooperative housin
       - $100.000
     * - Total consideration
       - $300,000
+
 ~
 
 
@@ -11426,6 +11482,7 @@ Example 3: A owns 80 shares in a cooperative housing corporation attributable to
       - $1,000,000
     * - Tax rate = 2.625%; tax is
       - $26,250
+
 ~
 
 
@@ -11446,6 +11503,7 @@ The consideration received for the transfer of stock attributable to each of the
       - $800,000
     * - Tax rate = 1.425%; tax is
       - $11,400
+
 ~
 
 
@@ -11584,6 +11642,7 @@ To illustrate: A parcel of land situated partly within Westchester County and pa
       - $120,000
     * - Property situated in Westchester County
       -  $40,000
+
 ~
 
 
@@ -11619,6 +11678,7 @@ The following shows the computation of the consideration subject to tax:
     * - 6. 
       - Total consideration subject to tax (Item 5 × Item 4)
       - $150,000
+
 ~
 
 
@@ -11747,6 +11807,7 @@ Example E: Corporation X has five shareholders (col. 1 of table below) and owns 
       - 35,000 shares (out of 50,000) 
       - 70% 
       - 59.6% 
+
 ~
 
 
@@ -11842,6 +11903,7 @@ The electronic return is required to be filed electronically, and the paper retu
       - (Kings County) Municipal Building210 Joralemon Street, Room 2,Brooklyn, NY 11201
     * - Queens
       - (Queens County)144-06 94th StreetJamaica, NY 11435
+
 ~
 
 
@@ -11936,6 +11998,7 @@ Example A(a): Assume the grantor filed the tax return in connection with a trans
       - $16
     * - Addition to tax under paragraph (1)
       -  $184
+
 ~
 
 
@@ -11958,6 +12021,7 @@ Example A(b): A notice and demand for the $200 deficiency is issued on January 8
       - $40
     * - Maximum amount of the addition under paragraph (3)
       - $10
+
 ~
 
 
@@ -11980,6 +12044,7 @@ Example B: Grantor or grantee files the tax return in connection with a transfer
       - $12.50
     * - Addition to tax under paragraph (1)
       - $112.50
+
 ~
 
 
@@ -12721,6 +12786,7 @@ Example A(a): Assume the taxpayer filed his tax return for the tax year beginnin
       - $16
     * - Addition to tax under paragraph (1)
       -  $184
+
 ~
 
 
@@ -12743,6 +12809,7 @@ Example A(b): A notice and demand for the $200 deficiency is issued on January 8
       - $40
     * - Maximum amount of the addition under paragraph (3)
       - $10
+
 ~
 
 
@@ -12765,6 +12832,7 @@ Example B: A taxpayer files his tax return for the tax year beginning June 1, 19
       - $12.50
     * - Addition to tax under paragraph (1)
       -  $112.50
+
 ~
 
 
@@ -13493,6 +13561,7 @@ Example 1: Calculation of distributive share percentage ("DSP"). Partnership ABC
       - $500x
       - $600x
       - 100%
+
 ~
 
 
@@ -13533,6 +13602,7 @@ Example 3: Basic credit calculation. AB is a partnership doing business in New Y
       - 25% 
       - NA 
       - NA 
+
 ~
 
 
@@ -13569,6 +13639,7 @@ Measure 2: A's total UBTI is $500x, on which the tax would be $20x before any UB
       - 75%
       - $200x
       - $8x
+
 ~
 
 
@@ -13605,6 +13676,7 @@ Measure 2: A's total UBTI is $200x, on which the tax liability would be $8x. A's
       - 75%
       - $200x
       - $8x
+
 ~
 
 
@@ -13643,6 +13715,7 @@ A is allowed a credit of $12x. However, because A's actual tax liability for 199
       - 75%
       - $350x
       - $14x
+
 ~
 
 
@@ -13693,6 +13766,7 @@ AB and BC are partnerships doing business in New York City. B is a partner in bo
       - $500x
       - $400x
       - $16x
+
 ~
 
 
@@ -13749,6 +13823,7 @@ Total Credit for 1995: B's total UBT Paid Credit with respect to AB and BC is $2
       - $500x - 50%
       - $400x
       - $16x
+
 ~
 
 
@@ -13800,6 +13875,7 @@ Partnership C is a partner in Partnership B. B is a partner in partnership A. Fo
       - $30x
       - $30x
       - $30x
+
 ~
 
 
@@ -13844,6 +13920,7 @@ For each year, B's distributive share from A is $400x. Its distributive share pe
       - $24x
       - $4x
       - $40x
+
 ~
 
 
@@ -13888,6 +13965,7 @@ For each year, C's distributive share percentage in B is 50% and C has separate 
       - $28x
       - $18x
       - $36x
+
 ~
 
 
@@ -14214,6 +14292,7 @@ Example 1: The computation of a net operating loss under subparagraph (iii) abov
       - $3,000 
       - ($5,000) 
       - ($40,000) 
+
 ~
 
  
@@ -14260,6 +14339,7 @@ Example 1: Partnership A &amp; B, which is engaged in the carrying on of an unin
       -  $5,000.00
     * - Unincorporated business taxable income
       - $9,250.00
+
 ~
 
  
@@ -14286,6 +14366,7 @@ Recomputation to allow net operating loss deduction for 1975.
       -  $5,000.00
     * - Unincorporated business taxable income-revised
       - $2,850.00
+
 ~
 
 
@@ -14322,6 +14403,7 @@ Example 2: If, in Example 1 above, the partnership had not engaged in business p
       -  $3,230
     * - Net income
       - $12,920
+
 ~
 
 
@@ -14356,6 +14438,7 @@ Allocation Schedule
       -  $5,000.00
     * - Unincorporated business taxable income
       - $3,090.00
+
 ~
 
  
@@ -14439,6 +14522,7 @@ Example: Y Co. partnership operated by individuals A, B, C, E and G sustained a 
       -  100%
       -  100%
       -  100%
+
 ~
 
  
@@ -14483,6 +14567,7 @@ The pertinent items of income and deduction were as follows:
       - $40,000 
       - ($90,000) 
       - $50,000 
+
 ~
 
 
@@ -14503,6 +14588,7 @@ On the foregoing information, the unincorporated business net operating loss ded
       - $90,000
     * - Loss recognized for deduction purposes 60 percent of $81,250 (the lesser of the amount of carryback or taxable income for 1974 as computed under paragraph (2)(ii) of this subdivision (c) =
       - $48,750
+
 ~
 
 
@@ -14541,6 +14627,7 @@ This entity qualifies for a carryover because the interests of A, B, C and E in 
     * - Limited to 75 percent, representing the sum of the interests of A, B, C and E in 1977 =
       - 
       - $6,562.50
+
 ~
 
 
@@ -14891,6 +14978,7 @@ Example (i): Individual A is a manufacturer whose plant is located in Connecticu
       - 
       - 
       - 41%
+
 ~
 
 
@@ -14917,6 +15005,7 @@ Example (ii): The facts are the same as in example (i) except that the figures r
       - 142%
     * - 5.  Average of percentages (divide total percentages, Item 4, by 4)
       - 35.5%
+
 ~
 
 
@@ -15145,6 +15234,7 @@ Example 2: Allocation of Business Income – Formula Allocation with a Flow Thro
       - 
       - 
       -   70%
+
 ~
 
 
@@ -15183,6 +15273,7 @@ Without taking into account its distributive share from AB, A has a 50% business
       - 
       - 
       -   50%
+
 ~
 
 
@@ -15221,6 +15312,7 @@ Without taking into account its distributive share from AB, B has a 90% business
       - 
       - 
       -   90%
+
 ~
 
 
@@ -15287,6 +15379,7 @@ Calculation of A's Allocation Percentage
       - 
       - 
       - 57.50%
+
 ~
 
  
@@ -15359,6 +15452,7 @@ Calculation of B's Allocation Percentage:
       - 
       - 
       - 84.29%
+
 ~
 
  
@@ -15439,6 +15533,7 @@ Example 6: Assuming the same facts presented in Example 5, except that the busin
       -  $48,000
     * - Aggregate deduction for active partners, X and Y, limited to 20 percent of amount allocated to New York City
       -  $9,600
+
 ~
 
 
@@ -15565,6 +15660,7 @@ Example 1: A joint venture is entered into by four individual venturers, and X &
       - $90,000
     * - Total additional exemptions allowable
       - $180,000
+
 ~
 
 
@@ -15599,6 +15695,7 @@ Distribution of Joint Venture Income:
       - $400,000
     * -   (Allocated 100% to NYC)
       - 
+
 ~
 
 
@@ -15636,6 +15733,7 @@ Distribution of Joint Venture Income:
       -  $    -0-    
       -  $    -0-    
       - $50,000
+
 ~
 
 
@@ -15664,6 +15762,7 @@ Example 4: Corporation A, Partnership B and Mr. C enter into a joint venture sub
       - ($300,000)
     * - Balance distributable
       - $135,000
+
 ~
 
 
@@ -15687,6 +15786,7 @@ Corporation A's proportionate interest in the excess of U.B. gross income over U
     * -  
       - $345,000
       - $345,000
+
 ~
 
 
@@ -15710,6 +15810,7 @@ Partnership B's proportionate interest in the excess of U.B. gross income over U
     * -  
       - $45,000
       - $45,000
+
 ~
 
 
@@ -15736,6 +15837,7 @@ Mr C's proportionate interest in the excess of U.B. gross income over U.B. deduc
     * - Total of all proportionate interests in the excess of U.B. gross income over U.B. deductions
       - 
       - $435,000
+
 ~
 
 
@@ -15760,6 +15862,7 @@ If Corporation A's net income allocable to New York City is $345,000 or more, th
       - ($300,000)
     * - Balance distributable (not less than zero)
       - 0 
+
 ~
 
 
@@ -15783,6 +15886,7 @@ Corporation A's proportionate interest in the excess of U.B. gross income over U
     * -  
       - $135,000
       - $135,000
+
 ~
 
 
@@ -15806,6 +15910,7 @@ Partnership B's proportionate interest in the excess of U.B. gross income over U
     * -  
       - $0 
       - $0 
+
 ~
 
 
@@ -15832,6 +15937,7 @@ Mr. C's proportionate interest in the excess of U.B. gross income over U.B. dedu
     * - Total of all proportionate interests in the excess of U.B. gross income over U.B. deductions
       - 
       - $135,000
+
 ~
 
 
@@ -15988,6 +16094,7 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
       - In two equal installments – first at time of filing declaration, and second on or before January 15 of the succeeding taxable year.
     * - (4) After September 15, if not required to be filed on or before September 15
       - In full at time of filing declaration.
+
 ~
 
 
@@ -16120,6 +16227,7 @@ Example: Assume that the taxpayer is an individual proprietor who used the cash 
       - $ 640
       - $280
       - $440
+
 ~
 
  
@@ -16177,6 +16285,7 @@ Assume further that the taxpayer's books at the beginning of 1983 included the f
     * - (f) Net additional tax due
       -  
       - $440
+
 ~
 
  
@@ -16257,6 +16366,7 @@ Since the taxpayer used the cash method for the two years preceding the change-o
       - 
       - $856
       - 
+
 ~
 
  
@@ -16315,6 +16425,7 @@ Example: The computation of the reduction of tax for the adjustment year is illu
       - $3,200 
       - $1,200 
       - $280 
+
 ~
 
  
@@ -16359,6 +16470,7 @@ Tax attributable to 1981 installment payments in 1982 (first adjustment year), t
     * - Tax attributable to prior inclusion in 1981:
       -  $2,000  × $3,200 = $66.67$96,000
       - 
+
 ~
 
  
@@ -16405,6 +16517,7 @@ Tax attributable to 1981 installment payments in 1983 (second adjustment year):
     * - Tax attributable to prior inclusion in 1981:
       -  $2,000  × $3,200 = $66.67$96,000
       - 
+
 ~
 
  
@@ -16635,6 +16748,7 @@ Example 1:
       -  $16
     * - Addition to tax under paragraph (1)
       -  $184
+
 ~
 
 
@@ -16657,6 +16771,7 @@ Example 1:
       -  $40
     * - Maximum amount of the addition under paragraph (3)
       -  $10
+
 ~
 
 
@@ -16677,6 +16792,7 @@ Example 2: A taxpayer files his tax return for the year January 1, 1983 to Decem
       -  $12.50
     * - Addition to tax under paragraph (1)
       -  $112.50
+
 ~
 
 
@@ -16826,6 +16942,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
       - 9% 
     * - Between March 15, 1980 and February 23, 1983
       - 12% 
+
 ~
 
 
@@ -16860,6 +16977,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
       - 8.9% 
     * - March 1, 1989 through February 28, 1990
       - 10.2% 
+
 ~
 
  
@@ -16900,6 +17018,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
       - 10.5%
     * -  July 1, 1981
       - 12%
+
 ~
 
 
@@ -16932,6 +17051,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
       - 8.9% 
     * - March 1, 1989 through February 28, 1990
       - 10.2% 
+
 ~
 
  
@@ -16972,6 +17092,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
       - 10.5% 
     * -  July 1, 1981
       - 12% 
+
 ~
 
 
@@ -17004,6 +17125,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
       - 7.2% 
     * - March 1, 1989 through February 28, 1990
       - 8.5% 
+
 ~
 
  
@@ -17048,6 +17170,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
       - 8.9% 
     * - March 1, 1989 through February 28, 1990
       - 10.2% 
+
 ~
 
 
@@ -17426,6 +17549,7 @@ Example: Y, a company with 1,000 employees outside the eligible area in the base
       - 55 
       - 60 
       - 215 
+
 ~
 
 
@@ -17814,6 +17938,7 @@ Chapter 33: Filing of Income and Expense Statements
       - $60,000
     * - $25,000,000 and above
       - $100,000
+
 ~
 
  
@@ -19048,6 +19173,7 @@ Section 1805 of the real property tax law requires that certain changes to asses
     * - Initial Tax Liability
       - $60,000**
       - $600,000 x 0.10
+
 ~
 
 
@@ -19082,6 +19208,7 @@ Example: In this case, the construction was completed by November 2011; therefor
     * - Post Completion Tax
       - $110,000*
       - $100,000*
+
 ~
 
 
@@ -19108,6 +19235,7 @@ The abatement base is equal to the post-completion tax liability less 115% of th
       - $69,000
     * - Abatement Base
       - $31,000
+
 ~
 
 
@@ -19159,6 +19287,7 @@ Example 1: Commercial construction in special commercial abatement area – reta
       - Addition to Abatement Base Due to Inflation Protection
       - Total Abatement Base
       - Yearly Abatement Percentage
+
 ~
 
 
@@ -19344,6 +19473,7 @@ Example 1: Commercial construction in special commercial abatement area – reta
       - 
       - 34,387
       - 10%
+
 ~
 
  
@@ -19368,6 +19498,7 @@ Example 2: Commercial construction in special commercial abatement area – reta
       - Yearly Abatement Percentage
       - Abatement Base for Retail over 10%
       - Yearly Abatement Percentage
+
 ~
 
 
@@ -19528,6 +19659,7 @@ Example 2: Commercial construction in special commercial abatement area – reta
       - 20%
       - 5,158
       - 20%
+
 ~
 
  
@@ -19584,6 +19716,7 @@ e. The amount of the additional industrial abatement is set forth below:
       - 10% of the initial tax liability
     * - Year 12
       - 10% of the initial tax liability
+
 ~
 
  
@@ -19622,6 +19755,7 @@ a. Abatement for commercial construction work outside of a special commercial ab
       - 40% of abatement base
     * - 15
       - 20% of abatement base
+
 ~
 
 
@@ -19660,6 +19794,7 @@ b. Abatement for industrial construction work or commercial construction work in
       - 20%
     * - 25
       - 10%
+
 ~
 
  
@@ -19678,6 +19813,7 @@ c. Abatement for industrial construction work on a peaking unit. Upon approval b
       - Amount of abatement
     * - Years 1 to 15
       - 100% of abatement base
+
 ~
 
 
@@ -19706,6 +19842,7 @@ d. Abatement for industrial construction work or commercial construction work in
       - 40% of abatement base
     * - 15
       - 20% of abatement base
+
 ~
 
 
@@ -19738,6 +19875,7 @@ e. Abatement for renovation construction work in renovation areas.
       - 40% of abatement base
     * - 12
       - 20% of abatement base
+
 ~
 
 
@@ -19768,6 +19906,7 @@ f. Abatement for renovation construction work in renovation areas. Upon approval
       - 20% of abatement base
     * - 10
       - 20% of abatement base
+
 ~
 
 
@@ -19796,6 +19935,7 @@ g. Abatement for commercial construction work on new construction in certain are
       - 40% of the abatement base
     * - 8
       - 20% of the abatement base
+
 ~
 
 
@@ -20599,6 +20739,7 @@ Scheduled fines. The following schedule of fines shall apply to violations liste
       - $500.00
     * - (x) Misuse and fraudulent use of a parking permit in violation of 34 RCNY § 4-08(o)(3)(iv)
       - $50.00 
+
 ~
 
  

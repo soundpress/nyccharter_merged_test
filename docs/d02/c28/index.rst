@@ -73,6 +73,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
       - $3,000.00 per map sheet
     * - (4)  alteration map preparation
       - $4,500 for up to two sheets and$1,500 for each additional sheet, not toexceed a total charge of $9,000.
+
 ~
 
 
@@ -233,6 +234,7 @@ Whenever used in this subchapter, the following terms shall be deemed to mean an
       - $3,000.00 per map (A separate additional fee of $3,000 is required if a proposed alteration of the City Map will also require the discontinuance and closing of a portion of a street.)
     * -  (4)  vanity address application
       - $5,500.00
+
 ~
 
 
@@ -370,6 +372,7 @@ Note: This situation usually arises with respect to developments where two or mo
       - $250.00
     * - (5)  Vanity Address Request
       - $11,00.00
+
 ~
 
 
@@ -606,6 +609,7 @@ Vanity addresses will be assigned by the Office of the Queens Borough President,
       - $10,500
     * - (9)  Annual Vanity Address Inspection Fee
       - $500
+
 ~
 
  

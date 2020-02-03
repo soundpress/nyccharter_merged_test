@@ -2471,6 +2471,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
       - 1st Offense Penalty After Hearing
       - Repeat Penalty
       - Default Penalty
+
 ~
 
 
@@ -2715,6 +2716,7 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
       - $1,500
       - 2nd $2,500Subs. $5,000
       - $5,000
+
 ~
 
  
@@ -3666,6 +3668,7 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
       - 1st Offense Penalty
       - Repeat Penalty
       - Default Penalty
+
 ~
 
 
@@ -4111,6 +4114,7 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
       - $3,500
       - Subs. $5,000
       - $5,000
+
 ~
 
  

@@ -5036,6 +5036,7 @@ c. Fees. The fee for a permit for minor electrical work as described in subdivis
       - $ 83.00
     * - (vii) For wiring or rewiring boiler controls in buildings:
       - $ 12.00
+
 ~
 
  
@@ -5445,6 +5446,7 @@ Subsection 230.42(A)—Revise to read as follows:
       - 525 
       - 500 
       - 375 
+
 ~
 
 
@@ -6095,6 +6097,7 @@ Exception: In service equipment and switchboards supplied directly from separate
       - 80 
     * - Over 4 
       - 70
+
 ~
 
 

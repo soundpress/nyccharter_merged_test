@@ -2248,6 +2248,7 @@ Through Truck Route Network
 
     * - Street
       - Limits
+
 ~
 
 
@@ -2328,6 +2329,7 @@ Through Truck Route Network
       - 21st Street to Crescent Street
     * - 213th Street
       - Hempstead Avenue to Jamaica Avenue
+
 ~
 
  
@@ -2344,6 +2346,7 @@ Local Truck Route Network
 
     * - Street
       - Limits
+
 ~
 
 
@@ -2584,6 +2587,7 @@ Local Truck Route Network
       - Merrick Boulevard to Hillside Avenue
     * - 213th Street
       - Hempstead Avenue to Jamaica Avenue
+
 ~
 
  
@@ -2602,6 +2606,7 @@ Through Truck Route Network
 
     * - Street
       - Limits
+
 ~
 
 
@@ -2626,6 +2631,7 @@ Through Truck Route Network
       - Staten Island Expressway to Kings County Line
     * - West Shore Expressway
       - Staten Island Expressway to Richmond Parkway
+
 ~
 
  
@@ -2644,6 +2650,7 @@ Local Truck Route Network
 
     * - Street 
       - Limits
+
 ~
 
 
@@ -2860,6 +2867,7 @@ Local Truck Route Network
       - Bloomingdale Road to Arthur Kill Road
     * - Woolley Avenue
       - South Gannon Avenue to Victory Boulevard
+
 ~
 
  
@@ -2874,6 +2882,7 @@ Limited Local Truck Route Network
 
     * - Street
       - Limits
+
 ~
 
 
@@ -2906,6 +2915,7 @@ Limited Local Truck Route Network
       - Slosson Avenue to Richmond Road
     * - Woolley Avenue
       - Willowbrook Road to South Gannon Avenue
+
 ~
 
  
@@ -2922,6 +2932,7 @@ Through Truck Route Network
 
     * - Street 
       - Limits
+
 ~
 
 
@@ -2986,6 +2997,7 @@ Through Truck Route Network
       - Lincoln Tunnel entrance to 11th Avenue
     * - 42nd Street
       - Dyer Avenue to 11th Avenue
+
 ~
 
  
@@ -3004,6 +3016,7 @@ Local Truck Routes
 
     * - Street
       - Limits
+
 ~
 
 
@@ -3270,6 +3283,7 @@ Local Truck Routes
       - University Heights Bridge to Broadway
     * - 215th Street
       - Tenth Avenue to Broadway
+
 ~
 
  
@@ -3338,6 +3352,7 @@ Through Truck Route Network
 
     * - Street 
       - Limits
+
 ~
 
 
@@ -3380,6 +3395,7 @@ Through Truck Route Network
       - Flatbush Avenue to Atlantic Avenue
     * - l0th Avenue
       - Prospect Expressway Exit Ramp to McDonald Avenue
+
 ~
 
  
@@ -3396,6 +3412,7 @@ Local Truck Route Network
 
     * -  Street 
       - Limits
+
 ~
 
 
@@ -3716,6 +3733,7 @@ Local Truck Route Network
       - Fort Hamilton Parkway to l8th Avenue; and 25th Avenue to Avenue U
     * - 92nd Street
       - Fort Hamilton Parkway to 7th Avenue
+
 ~
 
  
@@ -3732,6 +3750,7 @@ Through Truck Route Network
 
     * - Street
       - Limits
+
 ~
 
 
@@ -3766,6 +3785,7 @@ Through Truck Route Network
       - Bruckner Expressway to Throgs Neck Bridge
     * - Willis Avenue
       - Willis Ave. Bridge to East 135th Street
+
 ~
 
  
@@ -3782,6 +3802,7 @@ Local Truck Route Network
 
     * - Street
       - Limits
+
 ~
 
 
@@ -4012,6 +4033,7 @@ Local Truck Route Network
       - Willis Avenue Bridge to East 149th Street
     * - Zerega Avenue
       - Westchester Avenue to Homer Avenue
+
 ~
 
  
@@ -5132,6 +5154,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
       - 3'
     * - All Other Legal Street Furniture
       - 5'
+
 ~
 
  
@@ -5404,6 +5427,7 @@ Table A
       - $672,506 + $14.11 per ft. over 30,000 ft.
       - $806,949 + $16.93 per ft. over 30,000 ft. 
       - $70,168 + $1.47 per ft. over 30,000 ft.
+
 ~
 
  
@@ -5474,6 +5498,7 @@ Table 1 Average Vehicle Occupancy and Target Average Passenger Occupancy by Subr
       - Subregion Name
       - 1994 AVO 
       - Target APOs 
+
 ~
 
 
@@ -6004,6 +6029,7 @@ Table 1 Average Vehicle Occupancy and Target Average Passenger Occupancy by Subr
       - Mariner's Point 
       - 1.22 
       - 1.52 
+
 ~
 
  

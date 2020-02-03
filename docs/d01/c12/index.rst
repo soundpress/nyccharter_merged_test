@@ -753,6 +753,7 @@ g. (1) (a) Upon election, the following persons (each of whom has been granted a
       - 866878. 
       - 
       - 
+
 ~
 
  
@@ -2544,6 +2545,7 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
       - $11,500 
     * -  2007 and each calendar year thereafter
       - $12,000 
+
 ~
 
  
@@ -2582,6 +2584,7 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
       - The sum of a lower-based component and a higher-based component computed pursuant to the formula, above, for the first anniversary year, except that for each such anniversary year succeeding the first, the lower-based component shall be computed on a base sum $500 higher than the base sum required to be used in computing the lower-based component for the next preceding anniversary year and the higher based component shall be computed on a base sum $500 higher than the base sum required to be used in computing the higher-based component for such next preceding anniversary year
     * - Twentieth anniversary year and each succeeding anniversary year
       - $12,000
+
 ~
 
 
@@ -2813,6 +2816,7 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
       - $11,500 
     * -  2007 and each calendar year thereafter
       - $12,000 
+
 ~
 
  
@@ -2851,6 +2855,7 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
       - The sum of a lower-based component and a higher-based component computed pursuant to the formula, above, for the first anniversary year, except that for each such anniversary year succeeding the first, the lower-based component shall be computed on a base sum $500 higher than the base sum required to be used in computing the lower-based component for the next preceding anniversary year and the higher-based component shall be computed on a base sum $500 higher than the base sum required to be used in computing the higher-based component for such next preceding anniversary year
     * - Twentieth anniversary yea rand each succeeding anniversary year
       - $12,000
+
 ~
 
 
@@ -3986,6 +3991,7 @@ b. (1) For the purpose of any actuarial valuation, determination or appraisal wh
     * - BERS
       - 7%
       - July 1, 2011 to June 30, 2021
+
 ~
 
 
@@ -4026,6 +4032,7 @@ f. (1) Subject to the provisions of subdivision h of this section, during the ap
     * - BERS
       - 1 1/4%
       - July 1, 2011 to June 30, 2021
+
 ~
 
 
@@ -4062,6 +4069,7 @@ g. (1) Subject to the provisions of subdivision h of this section, during the ap
     * - BERS
       - 1 1/4%
       - July 1, 2011 to June 30, 2021
+
 ~
 
 
@@ -4110,6 +4118,7 @@ i. (1) Subject to the provisions of paragraph three of this subdivision, in addi
     * - BERS
       - 0%
       - July 1, 2011 to June 30, 2021
+
 ~
 
 
@@ -4338,6 +4347,7 @@ bb. Subject to the provisions of subdivisions k and l of this section, installme
       - Each fiscal year (9-a) in the regular installment period (19)
       - Each general UAL and BSL responsible obligor (10-a) of BERS
       - The sum obtained by adding together (a) such obligor's share of the BERS regular installment of general nineteen hundred ninety consolidated UAL contribution (43) applicable to such fiscal year and (b) such obligor's share of the BERS installment of general nineteen hundred ninety BSL contribution (49) applicable to such fiscal year.
+
 ~
 
  
@@ -4656,6 +4666,7 @@ i. Subject to the provisions of subdivisions k and l of section 13-638.2 of this
     * - Col. B
       - Each fiscal year (2) inthe regular installmentperiod (6)
       - The sum obtained by adding together (a) the regular installment of nineteen hundred ninety consolidated UAL contribution (20) applicable to such fiscal year and (b) the installment of nineteen hundred ninety BSL contribution (22) applicable to such fiscal year.
+
 ~
 
 
@@ -4818,6 +4829,7 @@ i. Subject to the provisions of subdivisions k and l of section 13-638.2 of this
     * - Col. B
       - Each fiscal year (2) inthe regular installmentperiod (6)
       - The sum obtained by adding together (a) the regular installment of nineteen hundred ninety consolidated UAL contribution (20) applicable to such fiscal year and (b) the installment of nineteen hundred ninety BSL contribution (22) applicable to such fiscal year.
+
 ~
 
 
@@ -5536,6 +5548,7 @@ a. City retired employees. Notwithstanding any other provision of law, any city 
       - one hundred
     * -  prior to 1940 
       - one hundred
+
 ~
 
  
@@ -5963,6 +5976,7 @@ e. (1) commencing with a payment for the month of July, nineteen hundred eighty-
       - twenty-eight
     * - 1951 and earlier 
       - twenty-nine
+
 ~
 
  
@@ -5983,6 +5997,7 @@ e. (1) commencing with a payment for the month of July, nineteen hundred eighty-
       - twenty-one
     * - January 1, 1968 to and including March 31, 1969 
       - twenty-two
+
 ~
 
 
@@ -6009,6 +6024,7 @@ e. (1) commencing with a payment for the month of July, nineteen hundred eighty-
       -  eight
     * - January 1, 1968 to and including March 31, 1969 
       -  nine
+
 ~
 
 
@@ -6035,6 +6051,7 @@ f. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
       -  eight
     * - 1972 calendar year 
       -   seven
+
 ~
 
 
@@ -6069,6 +6086,7 @@ h. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
       - four
     * - 1976 calendar year 
       -  three
+
 ~
 
 
@@ -6379,6 +6397,7 @@ d. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
       - twenty-eight
     * - 1951 and earlier 
       - twenty-nine
+
 ~
 
  
@@ -6403,6 +6422,7 @@ d. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
       - twenty-one
     * - January 1, 1968 to and including March 31, 1969 
       - twenty-two
+
 ~
 
 
@@ -6429,6 +6449,7 @@ e. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
       -  eight
     * - 1972 calendar year 
       -  seven
+
 ~
 
 
@@ -6463,6 +6484,7 @@ g. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
       -  four
     * - 1976 calendar year 
       -  three
+
 ~
 
 
@@ -6660,6 +6682,7 @@ f. Commencing September first, two thousand, all retired members who have retire
       - 90%
     * - prior to 1961
       - 100%
+
 ~
 
  
@@ -6700,6 +6723,7 @@ j. Notwithstanding the provisions of subdivision i of this section, or any other
       - 80% 
     * - 2008-2009
       - 90% 
+
 ~
 
  
