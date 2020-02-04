@@ -1,10 +1,10 @@
 Chapter 46: Elections and Voter Assistance
-============================================================================================================================================================================================================
+===================================================
 Section 1051.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1051. Department; board.*
+*Section 1051. Department; board.* ::
 
 
 There shall be a department of campaign finance.
@@ -13,10 +13,10 @@ There shall be a department of campaign finance.
 
 
 Section 1052.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1052. Campaign finance board.*
+*Section 1052. Campaign finance board.* ::
 
 
 a. 1. There shall be a campaign finance board consisting of five members. Two members of the board shall be appointed by the mayor, provided that not more than one such member shall be enrolled in any one political party, and two members shall be appointed by the speaker of the council, provided that not more than one such member shall be enrolled in any one political party, and one member, who shall be the chairperson, shall be appointed by the mayor after consultation with the speaker. The members shall first be appointed to serve as follows:
@@ -143,10 +143,10 @@ e. The board shall take such actions as it deems necessary and appropriate to en
 
 
 Section 1053.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1053. Voter guide.*
+*Section 1053. Voter guide.* ::
 
 
 a. For all elections in which there are contested elections for the offices of mayor, public advocate, borough presidents, comptroller, or city council or ballot proposals or referenda pursuant to this charter or the municipal home rule law, each printed voter guide published by the board shall contain:
@@ -173,10 +173,10 @@ d. The board shall promulgate such rules as it deems necessary for the preparati
 
 
 Section 1054.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1054. Voter assistance advisory committee.*
+*Section 1054. Voter assistance advisory committee.* ::
 
 
 a. There shall be a voter assistance advisory committee consisting of nine members, which shall assist the board with its duties and responsibilities under this chapter, including but not limited to overseeing the voter assistance program established by this chapter. Two members shall be appointed by the mayor, provided that not more than one such member shall be enrolled in any one political party; two members shall be appointed by the speaker of the city council, provided that not more than one such member shall be enrolled in any one political party; one member shall be appointed by the comptroller; one member shall be appointed by the borough presidents acting together; and one member shall be appointed by the mayor in consultation with the speaker and shall serve as chair. In addition, the committee shall include the public advocate, or in his or her absence, a representative, and the executive director of the board of elections (or, in his or her absence, the deputy executive director of the board of elections). In appointing members to the committee, the mayor, speaker, comptroller and borough presidents shall consider experience with groups or categories of residents that are underrepresented among those who vote or among those who are registered to vote and community, voter registration, civil rights, and disabled groups. The appointed members shall first be appointed to serve as follows:
@@ -223,10 +223,10 @@ c. The committee shall meet at least every other month. The committee shall hold
 
 
 Section 1055.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1055. Coordinator of voter assistance. [Repealed]*
+*Section 1055. Coordinator of voter assistance. [Repealed]* ::
 
 
 Heads of mayoral agencies shall cooperate to the extent practicable with the board of elections and the campaign finance board and its coordinator of voter assistance to improve public awareness of the candidates, proposals or referenda in all elections in which there are contested elections held in the city of New York for any city, county, state, or federal office and/or ballot proposals or referenda pursuant to city, county, state, or federal law, and to encourage voter registration and voting by all residents of the city of New York eligible to vote. Such cooperation shall include providing the campaign finance board with appropriate information concerning the resources, opportunities, and locations the agency can provide for public awareness and voter assistance activities.
@@ -235,10 +235,10 @@ Heads of mayoral agencies shall cooperate to the extent practicable with the boa
 
 
 Section 1056-b.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1056-b. Posting of sample ballots online by the board of elections.*
+*Section 1056-b. Posting of sample ballots online by the board of elections.* ::
 
 
 The board of elections shall make available on its website, at least one week before an election, sample ballots that adhere to the requirements of section 7-118 of the election law.
@@ -247,10 +247,10 @@ The board of elections shall make available on its website, at least one week be
 
 
 Section 1057.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1057. Non-partisanship in program operations.*
+*Section 1057. Non-partisanship in program operations.* ::
 
 
 The campaign finance board and the voter assistance advisory committee shall conduct all their activities in a strictly non-partisan manner.
@@ -259,10 +259,10 @@ The campaign finance board and the voter assistance advisory committee shall con
 
 
 Section 1057-a.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1057-a. Agency based voter registration.*
+*Section 1057-a. Agency based voter registration.* ::
 
 
 Each agency designated as a participating agency under the provisions of this section shall implement and administer a program of distribution of voter registration forms pursuant to the provisions of this section. The following offices are hereby designated as participating voter registration agencies: The administration for children's services, the business integrity commission, the city clerk, the civilian complaint review board, the commission on human rights, community boards, the department of small business services, the department for the aging, the department of citywide administrative services, the department of city planning, the department of consumer affairs, the department of correction, the department of cultural affairs, the department of environmental protection, the department of finance, the department of health and mental hygiene, the department of homeless services, the department of housing preservation and development, the department of parks and recreation, the department of probation, the department of records and information services, the taxi and limousine commission, the department of transportation, the department of youth and community development, the fire department, and the human resources administration. Participating agencies shall include a mandate in all new or renewed agreements with those subcontractors having regular contact with the public in the daily administration of their business to follow the guidelines of this section. Such participating agencies shall be required to offer voter registration forms to all persons together with written applications for services, renewal or recertification for services and change of address relating to such services, in the same language as such application, renewal, recertification or change of address form where practicable; provided however that this section shall not apply to services that must be provided to prevent actual or potential danger to the life, health, or safety of any individual or of the public. Such agencies shall provide assistance to applicants in completing voter registration forms, including the section of the form allowing for registration to become an organ donor, and in cases in which such an agency would provide assistance with its own form, such agency shall provide the same degree of assistance with regard to the voter registration and organ donor forms as is provided with regard to the completion of its own form, if so requested. As part of such assistance, such agencies shall also, upon request by an applicant who identifies himself or herself as being on parole and when practically feasible, check publicly available information to inform such applicant if a restoration of their right to vote has been granted, provided that such assistance may be provided by a person other than the person to whom the request was made and further provided that such assistance shall not be considered an endorsement of the accuracy of any publicly available information not maintained by the city. Such agencies shall also receive and transmit the completed application form from any applicants who request to have such form transmitted to the board of elections for the city of New York.
@@ -311,10 +311,10 @@ Each agency designated as a participating agency under the provisions of this se
 
 
 Section 1057-b.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1057-b. Designating and independent nominating petitions; number of signatures.*
+*Section 1057-b. Designating and independent nominating petitions; number of signatures.* ::
 
 
 a. The number of signatures required for any designating petition or independent nominating petition for the designation or nomination of a candidate for an elected office of the city shall be governed by applicable provisions of the New York state election law, except that in no event shall the number of signatures required exceed the following limits:
@@ -335,10 +335,10 @@ b. (1) The following provisions of the election law shall not apply to the exten
 
 
 Section 1057-c.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1057-c. Notice at former poll sites.*
+*Section 1057-c. Notice at former poll sites.* ::
 
 
 On the day of any primary, special, or general election, prior to the opening of the polls, the board of elections in the city of New York shall post a notice on or near the main entrance or entrances of each building that was used as a poll site in any primary, special, or general election in any of the prior four calendar years, but which is not being used as a poll site for the election being held on such day, unless the owner of such building objects to such notice being posted. Such notice shall only be required at former poll sites that covered one or more election districts in which an election is being held on such day. Such notice shall include, but not be limited to: (i) a statement that the building is not in use as a poll site for such election, (ii) the address or addresses of the poll site or sites that are being used for such election, accompanied by a list of the election districts being served at each such poll site; (iii) the website for the official poll site locator of the board of elections in the city of New York; and (iv) a phone number of the board of elections in the city of New York that may be called for poll site information.
@@ -349,10 +349,10 @@ On the day of any primary, special, or general election, prior to the opening of
 
 
 Section 1057-d.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1057-d. Notifications to voters.*
+*Section 1057-d. Notifications to voters.* ::
 
 
 a. The board of elections in the city of New York shall send e-mail and text message notifications related to voting for local, state, and federal elections to registered New York city voters who provide the board with an e-mail address or mobile phone number for this purpose. The board shall provide opportunities for city residents to provide an e-mail address or mobile phone number to the board for this purpose and shall maintain a database of all such e-mail addresses and mobile phone numbers. Such e-mail and text message notifications shall be sent for primary elections, general elections and special elections for which each such voter is eligible to vote, for the following purposes and at the following times:
@@ -389,10 +389,10 @@ e. The board shall not share, sell or otherwise disclose e-mail addresses or mob
 
 
 Section 1057-e.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1057-e. Voter information portal.*
+*Section 1057-e. Voter information portal.* ::
 
 
 The board of elections in the city of New York shall provide a secure website and mobile application that shall not require the user to create an account, but shall, through methods determined by the board, require verification that the user is accessing his or her own record. The information presented in such website and mobile application shall be updated with any applicable changes no less frequently than daily. Such website and mobile application shall include, but not be limited to, the following functionality:
@@ -455,10 +455,10 @@ The board of elections in the city of New York shall provide a secure website an
 
 
 Section 1057-f.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1057-f. Online voter registration.*
+*Section 1057-f. Online voter registration.* ::
 
 
 a. The campaign finance board shall provide a secure website and mobile application that allows any individual qualified to vote in the city of New York to confidentially submit to such board through such website and mobile application the information collected on a voter registration application form pursuant to section 5-210 of the election law for the purpose of registering to vote or updating such individual’s voter registration. Such website and mobile application shall allow such individual to electronically provide a signature of a quality and likeness comparable to a signature written with ink, consistent with subdivision c of this section. The website and mobile application shall also allow such individual to view the notices contained on or accompanying a printed voter registration application form. Upon receipt of such information and signature, the campaign finance board shall print such information onto a voter registration application form, electronically-affix such signature, and transmit such printed application to the New York city board of elections, consistent with section 5-210 of the election law, or transmit such information and signature though any other method consistent with section 5-210 of the election law.
@@ -479,10 +479,10 @@ f. In implementing the provisions of this section, the campaign finance board ma
 
 
 Section 1057-g.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1057-g. Ranked choice voting for certain primary elections and elections for which nominations were made by independent nominating petitions.*
+*Section 1057-g. Ranked choice voting for certain primary elections and elections for which nominations were made by independent nominating petitions.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:

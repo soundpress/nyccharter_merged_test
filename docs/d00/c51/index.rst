@@ -1,10 +1,10 @@
 Chapter 45-A: Office of Administrative Trials and Hearings
-============================================================================================================================================================================================================
+===================================================
 Section 1048.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1048. Office.*
+*Section 1048. Office.* ::
 
 
 1. There shall be an office of administrative trials and hearings which shall conduct adjudicatory hearings for all agencies of the city unless otherwise provided for by executive order, rule, law or pursuant to collective bargaining agreements. The office shall be directed by the chief administrative law judge, who shall be an attorney admitted to practice for at least five years in the state of New York. The chief administrative law judge shall be appointed by the mayor.
@@ -31,10 +31,10 @@ Editor's note: the local law that added division 6. to this Section 1048 shall e
 
 
 Section 1049.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1049. Powers of the chief administrative law judge.*
+*Section 1049. Powers of the chief administrative law judge.* ::
 
 
 1. (a) The chief administrative law judge shall have authority to direct the office established pursuant to section one thousand forty-eight with respect to its management and structure and to appoint a staff of administrative law judges. Each administrative law judge shall be an attorney admitted to practice in the state of New York for at least five years. Each administrative law judge shall be appointed for a term of five years removable only for cause after notice and opportunity for a hearing on a record.
@@ -131,10 +131,10 @@ Section 1049.
 
 
 Section 1049-a.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1049-a. Environmental control board.*
+*Section 1049-a. Environmental control board.* ::
 
 
 a. There shall be in the office of administrative trials and hearings an environmental control board consisting of the commissioner of environmental protection, the commissioner of sanitation, the commissioner of buildings, the commissioner of health and mental hygiene, the police commissioner, the fire commissioner and the chief administrative law judge of the office of administrative trials and hearings, who shall be chair, all of whom shall serve on the board without compensation and all of whom shall have the power to exercise or delegate any of their functions, powers and duties as members of the board, and six persons to be appointed by the mayor, with the advice and consent of the city council, who are not otherwise employed by the city, one to be possessed of a broad general background and experience in the field of air pollution control, one with such background and experience in the field of water pollution control, one with such background and experience in the field of noise pollution control, one with such background and experience in the real estate field, one with such background and experience in the business community, and one member of the public, and who shall serve for four-year terms. Such members shall be compensated at a rate that may be specified by the chair and approved by the mayor. Within the board's appropriation, the chair may appoint an executive director, subject to the approval of the board, and such hearing officers, including non-salaried hearing officers, and other employees as the chair may from time to time find necessary for the proper performance of the board's duties. The board shall be convened by the chairperson or in his or her absence a deputy commissioner of the office of administrative trials and hearings or at the request of any three members thereof. Five members of the board, at least two of whom shall not be city officials, shall constitute a quorum.
@@ -247,10 +247,10 @@ d. (1) (a) The environmental control board shall conduct proceedings for the adj
 
 
 Section 1049-b.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1049-b. Effect of non-payment of civil penalties imposed by the environmental control board or a tribunal of the office of administrative trials and hearings.*
+*Section 1049-b. Effect of non-payment of civil penalties imposed by the environmental control board or a tribunal of the office of administrative trials and hearings.* ::
 
 
 a. To the extent an agency issues licenses, permits or registrations, and such agency issues notices of violation returnable to the environmental control board or to a tribunal of the office of administrative trials and hearings, such agency may deny an application for any license, permit or registration, or an application for renewal of any license, permit or registration, and may suspend, terminate or revoke any license, permit or registration, based on the failure to timely pay civil penalties imposed by the environmental control board or a tribunal of the office of administrative trials and hearings by such applicant, licensee, permittee or registrant.

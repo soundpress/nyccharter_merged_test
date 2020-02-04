@@ -1,12 +1,12 @@
 Title 43: Mayor
-======================================================================================================
+===================================================
 
 Chapter 1: Uniform Rules and Regulations for All City Agencies Pertaining to the Administration of the Freedom of Information Law
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 1-01 Scope.*
+*§ 1-01 Scope.* ::
 
 
 (a) These Rules and Regulations shall govern the procedures by which records made available for public inspection pursuant to the Freedom of Information Law (Public Officers Law, Art. 6) may be obtained from a city agency.
@@ -18,7 +18,7 @@ Chapter 1: Uniform Rules and Regulations for All City Agencies Pertaining to the
 
 
 
-*§ 1-02 Designation of Records Access Officer.*
+*§ 1-02 Designation of Records Access Officer.* ::
 
 
 The head or governing body of each agency shall be responsible for insuring compliance with these Rules and Regulations and shall designate one or more persons as records access officer or officers to coordinate the agency's response to public requests for inspection and copying of records. The designation shall include the name, specific job title, telephone number and business address of such access officer. The designation of a records access officer or officers shall not be construed to prohibit other agency officers and employees who have been authorized previously to make records or information available to the public from continuing to do so.
@@ -28,7 +28,7 @@ The head or governing body of each agency shall be responsible for insuring comp
 
 
 
-*§ 1-03 Responsibilities of Records Access Officer.*
+*§ 1-03 Responsibilities of Records Access Officer.* ::
 
 
 Each agency's records access officer shall have the following responsibilities:
@@ -52,7 +52,7 @@ Each agency's records access officer shall have the following responsibilities:
 
 
 
-*§ 1-04 Hours and Location.*
+*§ 1-04 Hours and Location.* ::
 
 
 (a) Each agency shall designate a location or locations where records shall be available for public inspection and copying.
@@ -64,7 +64,7 @@ Each agency's records access officer shall have the following responsibilities:
 
 
 
-*§ 1-05 Procedure for Making Requests; Responses to Requests.*
+*§ 1-05 Procedure for Making Requests; Responses to Requests.* ::
 
 
 (a) Any request to inspect or copy records shall be made in writing and addressed to the records access officer of the appropriate agency. The request shall reasonably describe the record or records sought and shall, whenever possible, supply information regarding dates, file designations or other information which will enable the records access officer to identify the records sought.
@@ -114,7 +114,7 @@ Each agency's records access officer shall have the following responsibilities:
 
 
 
-*§ 1-06 Procedures for Appeals.*
+*§ 1-06 Procedures for Appeals.* ::
 
 
 (a) The head or governing body of each agency shall hear appeals or shall designate a person or body to hear appeals (an "appeals officer") from denials of requests by a records access officer. No records access officer shall also serve as an appeals officer.
@@ -130,7 +130,7 @@ Each agency's records access officer shall have the following responsibilities:
 
 
 
-*§ 1-07 Fees.*
+*§ 1-07 Fees.* ::
 
 
 Except when a different fee is otherwise prescribed by law:
@@ -148,7 +148,7 @@ Except when a different fee is otherwise prescribed by law:
 
 
 
-*§ 1-08 Public Notice; Promulgation of Rules and Regulations by City Agencies.*
+*§ 1-08 Public Notice; Promulgation of Rules and Regulations by City Agencies.* ::
 
 
 (a) Each agency shall publicize by posting in a conspicuous location:
@@ -172,7 +172,7 @@ Except when a different fee is otherwise prescribed by law:
 
 
 
-*§ 1-09 Removal of Records.*
+*§ 1-09 Removal of Records.* ::
 
 
 In no case shall an agency permit removal of agency records from agency premises by a requesting party.
@@ -182,7 +182,7 @@ In no case shall an agency permit removal of agency records from agency premises
 
 
 
-*§ 1-10 Severability.*
+*§ 1-10 Severability.* ::
 
 
 If any provision of these Rules and Regulations or the application thereof to any person or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the other provisions of these Rules and Regulations or the application thereof to other persons and circumstances.
@@ -191,11 +191,11 @@ If any provision of these Rules and Regulations or the application thereof to an
 
 
 Chapter 3: City Policy Concerning Aliens
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 3-01 Definitions.*
+*§ 3-01 Definitions.* ::
 
 
 Alien. "Alien" means any person who is not a citizen or national of the United States.
@@ -207,7 +207,7 @@ Line worker. "Line worker" means a person employed by any City agency whose duti
 
 
 
-*§ 3-02 Confidentiality of Information Respecting Aliens.*
+*§ 3-02 Confidentiality of Information Respecting Aliens.* ::
 
 
 (a) No City officer or employee shall transmit information respecting any alien to federal immigration authorities unless
@@ -227,7 +227,7 @@ Line worker. "Line worker" means a person employed by any City agency whose duti
 
 
 
-*§ 3-03 Availability of City Services to Aliens.*
+*§ 3-03 Availability of City Services to Aliens.* ::
 
 
 Any service provided by a City agency shall be made available to all aliens who are otherwise eligible for such service unless such agency is required by law to deny eligibility for such service to aliens. Every City agency shall encourage aliens to make use of those services provided by such agency for which aliens are not denied eligibility by law.
@@ -236,11 +236,11 @@ Any service provided by a City agency shall be made available to all aliens who 
 
 
 Chapter 2: Percent For Art Law Procedures
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 2-01 Definitions.*
+*§ 2-01 Definitions.* ::
 
 
 Agency. "Agency" means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
@@ -274,7 +274,7 @@ Work(s) of art. "Work(s) of art" means all forms of visual arts conceived in any
 
 
 
-*§ 2-02 Applicability.*
+*§ 2-02 Applicability.* ::
 
 
 These Regulations apply to projects listed in the city's capital budget and include each line project and each project of a multi-project effort generally described in a lump sum budget line. Individual projects including multi-year projects, which are part of a major improvement program or betterment at a specific site may be subject to these Rules as set forth below.
@@ -284,7 +284,7 @@ These Regulations apply to projects listed in the city's capital budget and incl
 
 
 
-*§ 2-03 Panel.*
+*§ 2-03 Panel.* ::
 
 
 (a) Membership and organization. 
@@ -324,7 +324,7 @@ These Regulations apply to projects listed in the city's capital budget and incl
 
 
 
-*§ 2-04 Procedures.*
+*§ 2-04 Procedures.* ::
 
 
 (a) Upon the initiation of design of an eligible project in accordance with § 219(b) of the Charter, the Design Agency shall notify the Commissioner in writing of the following:
@@ -368,7 +368,7 @@ These Regulations apply to projects listed in the city's capital budget and incl
 
 
 
-*§ 2-05 Eligibility and Exemptions.*
+*§ 2-05 Eligibility and Exemptions.* ::
 
 
 (a) In the scope of each capital project, the Design Agency shall specifically state, either, that:
@@ -386,7 +386,7 @@ These Regulations apply to projects listed in the city's capital budget and incl
 
 
 
-*§ 2-06 Project Eligibility Monitoring.*
+*§ 2-06 Project Eligibility Monitoring.* ::
 
 
 (a) Each capital budget request form ("CB Form III") submitted to the Office of Management and Budget ("OMB") shall have indicated thereon that such project either is or is not an eligible project, or that at such stage of planning, eligibility cannot yet be determined.
@@ -398,7 +398,7 @@ These Regulations apply to projects listed in the city's capital budget and incl
 
 
 
-*§ 2-07 Art Commission; Removal or Alteration of Works of Art.*
+*§ 2-07 Art Commission; Removal or Alteration of Works of Art.* ::
 
 
 (a) The procedures set forth herein are in addition to and not in lieu of the procedures of the Art Commission pursuant to § 854 of the Charter.
@@ -414,7 +414,7 @@ These Regulations apply to projects listed in the city's capital budget and incl
 
 
 
-*§ 2-08 Implementation.*
+*§ 2-08 Implementation.* ::
 
 
 (a) Following receipt of the panel's recommendations, the Design Agency shall make its final decision concerning the work(s) of art to be included in the eligible project. If the Design Agency's decision differs from the panel's recommendations, the Design Agency shall promptly, and within the design phase, provide a written explanation for its decision to the Commissioner, who shall forward copies of such explanation to members of the panel and to the persons referred to in 43 RCNY § 2-03(e) above.
@@ -427,11 +427,11 @@ These Regulations apply to projects listed in the city's capital budget and incl
 
 
 Chapter 4: Charge For Bad Checks [Executive Order No. 125]
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 4-01 Charge of Payment on Account of Insufficient Funds.*
+*§ 4-01 Charge of Payment on Account of Insufficient Funds.* ::
 
 
 Pursuant to § 85 of the General Municipal Law, a charge of fifteen dollars per check may be added to any account owing to the City of New York or any of its agencies where a tendered payment of such account was by a check or other written order that was returned for insufficient funds.
@@ -440,11 +440,11 @@ Pursuant to § 85 of the General Municipal Law, a charge of fifteen dollars per 
 
 
 Chapter 5: Petitions For Rulemaking
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 5-01 Short Title.*
+*§ 5-01 Short Title.* ::
 
 
 These Rules and Regulations shall be known and may be cited as "Rules for Pe- titioning."
@@ -454,7 +454,7 @@ These Rules and Regulations shall be known and may be cited as "Rules for Pe- ti
 
 
 
-*§ 5-02 Definitions.*
+*§ 5-02 Definitions.* ::
 
 
 Agency. "Agency" shall mean an agency the head of which holds office upon the appointment of the Mayor.
@@ -476,7 +476,7 @@ Rule. "Rule" shall have the meaning set forth in § 1041(5) of the New York City
 
 
 
-*§ 5-03 Scope.*
+*§ 5-03 Scope.* ::
 
 
 These Rules and Regulations shall govern the procedures by which the public may submit petitions for rulemaking pursuant to § 1043(f) of the New York City Charter (City Administrative Procedures Act).
@@ -486,7 +486,7 @@ These Rules and Regulations shall govern the procedures by which the public may 
 
 
 
-*§ 5-04 Procedures for Submitting Petitions and Responses to Petitions.*
+*§ 5-04 Procedures for Submitting Petitions and Responses to Petitions.* ::
 
 
 (a) Any person may petition an agency to consider the adoption of a rule. The petition must contain the following information:
@@ -524,7 +524,7 @@ These Rules and Regulations shall govern the procedures by which the public may 
 
 
 
-*§ 5-05 Public Notice and Promulgation of Rules and Regulations by City Agencies.*
+*§ 5-05 Public Notice and Promulgation of Rules and Regulations by City Agencies.* ::
 
 
 (a) Each agency shall publicize by posting in a conspicuous location,
@@ -542,7 +542,7 @@ These Rules and Regulations shall govern the procedures by which the public may 
 
 
 
-*§ 5-06 Severability.*
+*§ 5-06 Severability.* ::
 
 
 If any provision of these Rules and Regulations or the application thereof to any person or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the other provisions of these Rules and Regulations or the application thereof to other persons and circumstances.
@@ -551,11 +551,11 @@ If any provision of these Rules and Regulations or the application thereof to an
 
 
 Chapter 7: New York City Made In New York Film Production Tax Credit Program
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 7-01 Purpose and General Description.*
+*§ 7-01 Purpose and General Description.* ::
 
 
 (a)  The purpose of these regulations is to set forth the application process for the New York City Made In New York Film Production Tax Credit program established by Local Law Number 2 of the Year 2005, as amended by Local Law No. 24 of the Year 2006, pursuant to subdivision (b) of § 1201-a of the Tax Law. The Mayor's Office of Film, Theatre and Broadcasting has authority to promulgate regulations to establish procedures for the allocation of such credits including, but not limited to, the application process, standards for application evaluations, and any other provisions deemed necessary and appropriate. The Mayor's Office of Film, Theatre and Broadcasting shall administer the program, including the issuance of tax credit certificates. These regulations do not govern the New York State film production tax credit program. Eligibility in and receipt of a tax credit in the New York State program does not guarantee eligibility in or receipt of a tax credit in the New York City Made In New York film production tax credit program. In addition, eligibility in and receipt of a tax credit in the New York City Made In New York film production tax credit program does not guarantee eligibility in or receipt of a tax credit in the New York State program.
@@ -569,7 +569,7 @@ Chapter 7: New York City Made In New York Film Production Tax Credit Program
 
 
 
-*§ 7-02 Definitions.*
+*§ 7-02 Definitions.* ::
 
 
 As used in this regulation, the following terms shall have the following meanings:
@@ -637,7 +637,7 @@ As used in this regulation, the following terms shall have the following meaning
 
 
 
-*§ 7-03 Application Process.*
+*§ 7-03 Application Process.* ::
 
 
 For the purposes of this Chapter, only an authorized applicant shall be eligible to apply for the New York City Made In New York film production tax credit.
@@ -667,7 +667,7 @@ For the purposes of this Chapter, only an authorized applicant shall be eligible
 
 
 
-*§ 7-04 [Reserved]*
+*§ 7-04 [Reserved]* ::
 
 
 The Office shall allocate the amount of the credits allocated for each calendar year in order of priority based upon an applicant's effective date. In the event that an approved applicant's New York City Made In New York production tax credit would exceed the maximum amount of credits allowed for that given year, the approved applicant will be allocated credits on a priority basis in the immediately succeeding calendar year. A maximum of $12.5 million of credits may be allocated in 2004 and 2005, and $30 million in 2006 through 2011.
@@ -677,7 +677,7 @@ The Office shall allocate the amount of the credits allocated for each calendar 
 
 
 
-*§ 7-06 Criteria for Evaluation of Applications.*
+*§ 7-06 Criteria for Evaluation of Applications.* ::
 
 
 (a)  Initial application. In the event that any of the following criteria are not met, or in the event that the Office concludes that the authorized applicant knowingly submitted false or misleading information, the Office shall disapprove the initial application:
@@ -723,7 +723,7 @@ The Office shall allocate the amount of the credits allocated for each calendar 
 
 
 
-*§ 7-07 Record Retention.*
+*§ 7-07 Record Retention.* ::
 
 
 Each authorized and approved applicant must maintain records, in paper or electronic form, of any qualified productions costs used to calculate its potential or actual benefit(s) under this program for a minimum of three years from the date of filing of the tax return on which the applicant claims the tax credit. The Office shall have the right to request such records upon reasonable notice.
@@ -733,7 +733,7 @@ Each authorized and approved applicant must maintain records, in paper or electr
 
 
 
-*§ 7-08 Appeal Process.*
+*§ 7-08 Appeal Process.* ::
 
 
 If the authorized applicant's initial application or an approved applicant's final application is disapproved by the Office, or if the approved applicant disagrees with the amount of the tax credit granted by the Office, the applicant may appeal such determination. In the case of an appeal from a disapproval of an initial or final application, such appeal shall be made by sending a letter to the City of New York Mayor's Office of Film, Theatre and Broadcasting, Attn: Commissioner, 1697 Broadway, New York, NY 10019, within thirty (30) days from the date of the denial letter issued by the Office. In the case of an appeal from a determination of the amount of the tax credit, such appeal shall be made by sending a letter to the same address as listed above within thirty (30) days from the date of issuance of the certificate of tax credit. Failure to request an appeal within thirty (30) days will finalize the denial decision and/or the amount of the tax credit. Upon receipt of a timely letter of appeal, the Commissioner will appoint an appeal officer within the Office to review. Such appeal officer will make a report on the appeal to the Commissioner. The Commissioner or his designee shall issue a final order within sixty (60) days of the report. A copy of the final order will be issued to the appellant within ten (10) days after the date the Commissioner or his designee renders the final order.
@@ -743,7 +743,7 @@ If the authorized applicant's initial application or an approved applicant's fin
 
 
 
-*§ 7-09 Applicability.*
+*§ 7-09 Applicability.* ::
 
 
 The amendments made by the rules that added this section shall not apply to initial or final applications submitted prior to the effective date of such amendments, with the exception of the amendments made to 43 RCNY § 7-05 by § 4 of such rules.
@@ -752,11 +752,11 @@ The amendments made by the rules that added this section shall not apply to init
 
 
 Chapter 6: City Environmental Quality Review (CEQR) [Executive Order No. 91 of 1977, As Amended]
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 6-01 Applicability.*
+*§ 6-01 Applicability.* ::
 
 
 [Except as modified by City Planning Rules, 43 RCNY § 5-02(a) and (d).] No final decision to carry out or approve any action which may have a significant effect on the environment shall be made by any agency until there has been full compliance with the provisions of this chapter.
@@ -766,7 +766,7 @@ Chapter 6: City Environmental Quality Review (CEQR) [Executive Order No. 91 of 1
 
 
 
-*§ 6-02 Definitions.*
+*§ 6-02 Definitions.* ::
 
 
 [Additional definitions, City Planning Rules 43 RCNY § 5-02(c).] As used herein, the following terms shall have the indicated meanings unless noted otherwise:
@@ -826,7 +826,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-03 Actions Involving Federal or State Participation.*
+*§ 6-03 Actions Involving Federal or State Participation.* ::
 
 
 (a) [See also City Planning Rules 43 RCNY § 5-04(e)] If an action under consideration by an agency may involve a "major federal action significantly affecting the quality of the human environment under the National Environmental Policy Act of 1969," then the following procedures shall apply:
@@ -852,7 +852,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-04 Exempt Actions.*
+*§ 6-04 Exempt Actions.* ::
 
 
 [See also City Planning Rules 43 RCNY § 5-02(d).] The following actions shall not be subject to the provisions of this chapter:
@@ -906,7 +906,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-05 Determination of Significant Effect – Applications.*
+*§ 6-05 Determination of Significant Effect – Applications.* ::
 
 
 (a) [Inapplicable, City Planning Rules 43 RCNY § 5-02(a). Superseded by City Planning Rules 43 RCNY § 5-05(a). See also City Planning Rules 43 RCNY § 5-02(b)(2) and 43 RCNY § 5-02(d).]Each agency shall ascertain whether an application need be filed pursuant to this section, employing lists of actions, classified as either exempt, Type I or Type II pursuant to 43 RCNY §§ 6-04
@@ -932,7 +932,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-06 Determination of Significant Effect – Criteria.*
+*§ 6-06 Determination of Significant Effect – Criteria.* ::
 
 
 (a) An action may have a significant effect on the environment if it can reasonably be expected to lead to one of the following consequences:
@@ -964,7 +964,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-07 Determination of Significant Effect – Notification.*
+*§ 6-07 Determination of Significant Effect – Notification.* ::
 
 
 (a) [Error. Reference to 43 RCNY § 6-05(a) should be to 43 RCNY § 6-05(b).] The lead agencies shall determine within 15 calendar days following notification of completion of the application pursuant to 43 RCNY § 6-05(a) whether the proposed action may have a significant effect on the environment;
@@ -1014,7 +1014,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-08 Draft Environmental Impact Statements – Responsibility for Preparation.*
+*§ 6-08 Draft Environmental Impact Statements – Responsibility for Preparation.* ::
 
 
 (a) Non-agency applicants. 
@@ -1038,7 +1038,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-09 Environmental Impact Statements – Content.*
+*§ 6-09 Environmental Impact Statements – Content.* ::
 
 
 (a) [Lead to be guided by technical standards and methodologies developed by Office of Environ. Coord., City Planning Rules 43 RCNY § 5-04(c).] Environmental impact statements should be clearly written in a brief and concise manner capable of being read and understood by the public. Within the framework presented in subdivision (d) of this section, such statements should deal only with the specific significant environmental impacts which can be reasonably anticipated. They should not contain more detail than is appropriate considering the nature and magnitude of the proposed action and the significance of its potential impacts.
@@ -1090,7 +1090,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-10 Draft Environmental Impact Statements – Procedures.*
+*§ 6-10 Draft Environmental Impact Statements – Procedures.* ::
 
 
 (a) Notice of Completion. Upon the satisfactory completion of a draft EIS, the lead agencies shall immediately prepare, file and make available for public inspection a Notice of Completion as provided in paragraphs (1), (2) and (3) of this subdivision. Where a proposed action is simultaneously subject to the Uniform Land Use Review Procedure ("ULURP"), the City Planning Commission shall not certify an application pursuant to ULURP until a Notice of Completion has been filed as provided in paragraph (3) of this subdivision.
@@ -1148,7 +1148,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-11 Final Environmental Impact Statements – Procedures.*
+*§ 6-11 Final Environmental Impact Statements – Procedures.* ::
 
 
 (a) [Interested and involved agencies assist with FEIS on request, City Planning Rules 43 RCNY § 5-05(b)(2).] Except as provided in paragraph (1) of this subdivision, the lead agencies shall prepare or cause to be prepared a final EIS within 30 calendar days after the close of a public hearing.
@@ -1166,7 +1166,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-12 Agency Decision Making.*
+*§ 6-12 Agency Decision Making.* ::
 
 
 (a) No final decision to carry out or approve an action which may have a significant effect on the environment shall be made until after the filing and consideration of a final EIS.
@@ -1188,7 +1188,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-13 Programmatic Environmental Impact Statements.*
+*§ 6-13 Programmatic Environmental Impact Statements.* ::
 
 
 (a) Whenever possible, agencies shall identify programs or categories of actions, particularly projects or plans which are wide in scope or implemented over a long time frame, which would most appropriately serve as the subject of a single EIS. Broad program statement, master or area wide statements, or statements from comprehensive plans are often appropriate to assess the environmental effects of the following;
@@ -1214,7 +1214,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-14 Rules and Regulations.*
+*§ 6-14 Rules and Regulations.* ::
 
 
 [Inapplicable, City Planning Rules 43 RCNY § 5-02(a).]The lead agencies shall promulgate such rules, regulations, guidelines, forms and additional procedures as may be necessary to implement this chapter.
@@ -1224,7 +1224,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 
-*§ 6-15 Lists of Actions.*
+*§ 6-15 Lists of Actions.* ::
 
 
 (a) Type I. [See City Planning Rules 43 RCNY § 5-02(d).] Type I actions enumerated in § 617.12 of 6 NYCRR 617 are likely to, but will not necessarily, require the preparation of an EIS because they will in almost every instance significantly affect the environment. However, ministerial actions never require the preparation of an EIS except where such actions may directly affect a critical area or an historic resource enumerated in paragraphs (22) and (23), respectively, of subdivision (a) of § 617.12. In addition, for the purpose of defining paragraph (2) of said subdivision and section, the following thresholds shall apply:
@@ -1261,11 +1261,11 @@ Effective Date.[See new City Planning transition Rules 43 RCNY § 5-08 and 43 RC
 
 
 Chapter 8: Premiere Permits and Fees
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 8-01 Premiere Permits Relating to Certain Entertainment Events.*
+*§ 8-01 Premiere Permits Relating to Certain Entertainment Events.* ::
 
 
 The Mayor's Office of Film, Theatre &amp; Broadcasting ("MOFTB") shall issue Premiere Permits in connection with certain entertainment events held in New York City. These include special events associated with movie premieres, theatre openings, and other similar events held with respect to films, television commercials and radio productions. Premiere Permits for such events may, at the discretion of the Commissioner of MOFTB and, as indicated below, be issued to individuals or commercial entities.
@@ -1275,7 +1275,7 @@ The Mayor's Office of Film, Theatre &amp; Broadcasting ("MOFTB") shall issue Pre
 
 
 
-*§ 8-02 Definitions.*
+*§ 8-02 Definitions.* ::
 
 
 For purposes of this chapter, the following terms shall have the following meanings:
@@ -1297,7 +1297,7 @@ For purposes of this chapter, the following terms shall have the following meani
 
 
 
-*§ 8-03 Fees.*
+*§ 8-03 Fees.* ::
 
 
 (a)  MOFTB shall determine which fee category is appropriate for a proposed event. Fees are based on the City resources required as determined by the anticipated attendance at events to be held, and permits will authorize activities including, for example, the placement of a "red carpet", the setting aside of a "limousine lane", or the siting of a tent or other structure. Fees shall be paid in the form of a certified check or money order made payable to "New York City Department of Finance" or, if available as a payment method, through the use of a credit or debit card. Fees shall be non-refundable, and payment shall accompany each application for a Premiere Permit as follows:
@@ -1331,7 +1331,7 @@ For purposes of this chapter, the following terms shall have the following meani
 
 
 
-*§ 8-04 Processing of Premiere Permits.*
+*§ 8-04 Processing of Premiere Permits.* ::
 
 
 (a)  Applications for Premiere Permits shall be submitted to the MOFTB no later than fourteen (14) days prior to the date of the event. Upon receipt of an application, MOFTB shall forward it to CECM, which shall notify and consult, as appropriate, with the Police Department, the Fire Department, the Department of Transportation, and the Department of Sanitation. CECM shall consider information, if any, submitted by any of the foregoing agencies in connection with such notification and shall attempt to resolve any issues in connection with the issuing of a permit.
@@ -1366,11 +1366,11 @@ For purposes of this chapter, the following terms shall have the following meani
 
 
 Chapter 9: Permits Issued By Mayor's Office of Film, Theatre and Broadcasting
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 9-01 Permits for Scouting, Rigging and Production Activities.*
+*§ 9-01 Permits for Scouting, Rigging and Production Activities.* ::
 
 
 (a)  Scope of Rules. The Mayor's Office of Film Theatre and Broadcasting ("MOFTB") shall issue permits in connection with filming, including but not limited to the taking of motion pictures; the taking of photographs; the use and operation of television cameras, transmitting television equipment, or radio remotes in or about city property; load-ins or load-outs supporting indoor performances; or such activities in or about any street, park, marginal street, pier, wharf, dock, bridge or tunnel within the jurisdiction of any City department or agency, or involving the use of any City owned or maintained facilities or equipment. As defined herein, MOFTB will issue permits for scouting, rigging and shooting activities. Obtaining such a permit does not obviate the need to comply with other applicable laws, rules or case law also governing such activity.
@@ -1396,7 +1396,7 @@ Chapter 9: Permits Issued By Mayor's Office of Film, Theatre and Broadcasting
 
 
 
-*§ 9-02 Processing of Permit Applications.*
+*§ 9-02 Processing of Permit Applications.* ::
 
 
 (a)  Definitions. For purposes of this chapter, the following terms shall have the following meanings:
@@ -1558,7 +1558,7 @@ Chapter 9: Permits Issued By Mayor's Office of Film, Theatre and Broadcasting
 
 
 
-*§ 9-03 Indemnification and Insurance.*
+*§ 9-03 Indemnification and Insurance.* ::
 
 
 (a)  By accepting a permit, a permittee agrees to protect all persons and property from damage, loss or injury arising from any of the operations performed by or on behalf of the permittee, and to indemnify and hold harmless the City, to the fullest extent permitted by law, from all claims, losses and expenses, including attorneys' fees, that may result therefrom. This indemnification requirement does not apply to any person or entity acting with an Optional Permit in accordance with 43 RCNY § 9-01(b)(2).
@@ -1575,11 +1575,11 @@ Chapter 9: Permits Issued By Mayor's Office of Film, Theatre and Broadcasting
 
 
 Chapter 10: Green Building Standards
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 10-01 Definitions.*
+*§ 10-01 Definitions.* ::
 
 
 (a)  Definitions of the terms "capital project", "city agency", "green building standards", "LEED energy and atmosphere credit 1", "LEED green building rating system", and "not less stringent" set forth in subdivision (a) of § 224.1 of the Charter shall apply to such terms as they appear in this chapter.
@@ -1611,7 +1611,7 @@ Chapter 10: Green Building Standards
 
 
 
-*§ 10-02 Selected Green Building Rating System.*
+*§ 10-02 Selected Green Building Rating System.* ::
 
 
 Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and after June 26, 2009 the "selected green building rating system" is the Leadership in Energy and Environmental Design (LEED) 2009 New Construction and Major Renovations Rating System, LEED 2009 for Commercial Interiors Rating System, LEED 2009 for Schools New Construction and Major Renovations Rating System, LEED 2009 for Core and Shell Development Rating System, and LEED 2009 for Existing Buildings: Operations and Maintenance Rating System published by the United States Green Building Council, whichever is most appropriate for the project under United States Green Building Council guidelines except that for projects that either received funding from the city treasury or received design approval prior to June 26, 2009 or that applied to the United States Green Building Council for certification prior to June 26, 2009, the selected green building rating system may be New Construction version 2.2, Existing Buildings version 2.0, or Commercial Interiors version 2.0 of the Leadership in Energy and Environmental Design (LEED) building rating system published by the United States Green Building Council, whichever is most appropriate for the project under United States Green Building Council guidelines. Except as otherwise provided in subdivision (a) of 43 RCNY § 10-05 for calculation of required reductions in energy cost, the selected green building rating system shall apply to capital projects subject to subdivision (b) of § 224.1 of the Charter unless an alternative, not less stringent, green building standard has been specifically approved by the Director of the Office of Environmental Coordination as set forth in such subdivision.
@@ -1621,7 +1621,7 @@ Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and
 
 
 
-*§ 10-03 Applicability.*
+*§ 10-03 Applicability.* ::
 
 
 (a)  Except as otherwise provided in subdivision (b) of this section, capital projects within spaces classified in the occupancy groups listed in paragraph (1) of this subdivision having one or more of the six characteristics listed in paragraph (2) of this subdivision, are subject to this chapter and the green building requirements of § 224.1 of the Charter, summarized in 43 RCNY § 10-04.
@@ -1632,7 +1632,7 @@ Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - B-1 Storage (moderate hazard)
       - F-3 Assembly (museums, etc.) 
@@ -1646,7 +1646,6 @@ Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and
       - H-2 Institutional (incapacitated)
     * - F-1b Assembly (churches, concert halls, etc.)
       -  
-
 ~
 
 
@@ -1688,7 +1687,7 @@ Pursuant to paragraph (11) of subdivision (a) of § 224.1 of the Charter, on and
 
 
 
-*§ 10-04 Table Summaries of Green Building Standards.*
+*§ 10-04 Table Summaries of Green Building Standards.* ::
 
 
 The following tables summarize the requirements of § 224.1 of the Charter as they apply to the capital projects described in 43 RCNY § 10-03:
@@ -1701,7 +1700,7 @@ Table A
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Estimated Construction Cost
       - Occupancy Group
@@ -1739,7 +1738,6 @@ Table A
       - H-2 Institutional (incapacitated)
       - LEED-certified or higher
       - Minimum 25% reduction in energy costs. Additional 5% reduction required if payback within 7 years.
-
 ~
 
  
@@ -1752,7 +1750,7 @@ Table B
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Estimated Construction Cost
       - Occupancy Group
@@ -1766,7 +1764,6 @@ Table B
     * - HVAC comfort controls – $2M or more
       - B-1 Storage (moderate hazard)B-2 Storage (low hazard)C MercantileE BusinessF-1a Assembly (theaters, etc.)F-1b Assembly (churches, concert halls, etc.)F-3 Assembly (museums, etc.)F-4 Assembly (restaurants, etc.)G EducationH-1 Institutional (restrained)H-2 Institutional (incapacitated)
       - Minimum 5% reduction in energy costs.
-
 ~
 
 
@@ -1787,7 +1784,7 @@ Table C
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Estimated Construction Cost for Plumbing Systems
       - Occupancy Group
@@ -1798,7 +1795,6 @@ Table C
     * -  
       - F-1a Assembly (theaters, etc.)F-1b Assembly (churches, concert halls, etc.)F-3 Assembly (museums, etc.)F-4 Assembly (restaurants, etc.)G EducationH-1 Institutional (restrained)H-2 Institutional (incapacitated)
       -  
-
 ~
 
 
@@ -1812,7 +1808,7 @@ Note to Table C: Capital projects required to comply with the provisions of subd
 
 
 
-*§ 10-05 Calculation of Required Energy Cost Reduction and Potable Water Use Reduction.*
+*§ 10-05 Calculation of Required Energy Cost Reduction and Potable Water Use Reduction.* ::
 
 
 (a)  The required energy cost reduction, summarized in the tables set forth in subdivisions (a) and (b) of 43 RCNY § 10-04, shall be calculated in accordance with the methodology prescribed under LEED Energy and Atmosphere Credit 1 of LEED NC v.2.1 or the New York State Energy Conservation Construction Code, whichever is more stringent.
@@ -1824,7 +1820,7 @@ Note to Table C: Capital projects required to comply with the provisions of subd
 
 
 
-*§ 10-06 Procedures.*
+*§ 10-06 Procedures.* ::
 
 
 (a)  Application for USGBC certification. In accordance with subdivision (k) of § 224.1 of the Charter and this chapter, a City agency must apply to the U.S. Green Building Council for certification of projects accounting for at least 50% of the amount of capital dollars allocated for capital projects of such agency unless the agency is utilizing an approved green building rating system other than the LEED green building rating system. This subdivision does not apply to the projects of entities that are not City agencies.
@@ -1842,7 +1838,7 @@ Note to Table C: Capital projects required to comply with the provisions of subd
 
 
 
-*§ 10-07 Exemptions.*
+*§ 10-07 Exemptions.* ::
 
 
 (a)  The Director of the Office of Environmental Coordination may, on behalf of the Mayor, administer exemptions for capital projects from one or more of the requirements outlined in 43 RCNY § 10-04 if, in his or her sole discretion, such exemption is necessary in the public interest.
@@ -1855,7 +1851,7 @@ Note to Table C: Capital projects required to comply with the provisions of subd
 
 
 Chapter 11: Environmental Preferable Purchasing Program
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
@@ -1864,7 +1860,7 @@ Chapter 11: Environmental Preferable Purchasing Program
 
 
 
-*§ 11-01 Definitions.*
+*§ 11-01 Definitions.* ::
 
 
 (a)  For the purposes of this chapter only, the following terms shall have the following meanings:
@@ -1986,7 +1982,7 @@ Chapter 11: Environmental Preferable Purchasing Program
 
 
 
-*§ 11-02 Applicability, Exemptions and Waivers.*
+*§ 11-02 Applicability, Exemptions and Waivers.* ::
 
 
 Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstanding § 6-302(a)(3)(i)-(vi) of the Administrative Code of the City of New York, these rules shall apply to products purchased or leased by any agency or purchased or leased by a contractor pursuant to any contract with any agency for construction work in any building, such contracts being designated as being subject to this chapter, pursuant to § 6-302 of the Administrative Code of the City of New York on the applicability of the environmentally preferable purchasing program contained in chapter three of title six of such code. These rules shall be subject to any exemption or waiver contained in § 6-303 of the Administrative Code or contained in any other provision of such chapter.
@@ -2001,7 +1997,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
 
 
 
-*§ 11-03 Hazardous Content of Electronic Devices.*
+*§ 11-03 Hazardous Content of Electronic Devices.* ::
 
 
 (a)  No new cathode ray tube, product containing a cathode ray tube, liquid crystal display (LCD), plasma screen or other flat panel television or computer monitor or similar video display product, desktop computer or laptop computer, computer peripheral including, but not limited to, a keyboard, mouse and other pointing device, printer, scanner, facsimile machine and card reader, copier, and multi-function device shall contain lead, mercury, cadmium, hexavalent chromium, polybrominated biphenyls or polybrominated diphenyl ethers, except that this section shall not apply to:
@@ -2117,7 +2113,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
 
 
 
-*§ 11-04 Volatile Organic Compounds and Other Airborne Hazards.*
+*§ 11-04 Volatile Organic Compounds and Other Airborne Hazards.* ::
 
 
 (a)  (1) No carpet or carpet adhesive shall contain any volatile organic compound in any concentration exceeding that specified below, according to the selected test method.
@@ -2126,7 +2122,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Product 
       - Volatile Organic Compound
@@ -2160,7 +2156,6 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
       - Total Volatile Organic Compounds
       - 8,000 
       -  – 
-
 ~
 
  
@@ -2171,7 +2166,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Product 
       - Volatile Organic Compound
@@ -2188,7 +2183,6 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
     * -  
       - Total Volatile Organic Compounds
       - 1,000 
-
 ~
 
 
@@ -2203,7 +2197,7 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Product 
       - Maximum Concentration of Volatile Organic Compounds in Grams per Liter
@@ -2223,7 +2217,6 @@ Except as provided for in 43 RCNY §§ 11-06, 11-07, and 11-10 and notwithstandi
       - 100 
     * - Primer For Non-Flat Paint
       - 150 
-
 ~
 
  
@@ -2235,7 +2228,7 @@ Any other architectural coating not listed above but regulated under part 205 of
 
 
 
-*§ 11-05 Mercury-Added Lamps.*
+*§ 11-05 Mercury-Added Lamps.* ::
 
 
 Any of the following mercury-added lamps shall comply with the standards specified below:
@@ -2244,7 +2237,7 @@ Any of the following mercury-added lamps shall comply with the standards specifi
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Fluorescent Tube Lamps 
       - 
@@ -2438,7 +2431,6 @@ Any of the following mercury-added lamps shall comply with the standards specifi
       - 1,975 
       - 12,000 
       - 20 
-
 ~
 
  
@@ -2449,7 +2441,7 @@ Any of the following mercury-added lamps shall comply with the standards specifi
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Compact Fluorescent Lamps 
       - 
@@ -2469,7 +2461,6 @@ Any of the following mercury-added lamps shall comply with the standards specifi
     * - Other Self-Ballasted 
       - 6,000 
       - 5
-
 ~
 
 
@@ -2481,7 +2472,7 @@ Any of the following mercury-added lamps shall comply with the standards specifi
 
 
 
-*§ 11-06 Added urea-formaldehyde resins reduction.*
+*§ 11-06 Added urea-formaldehyde resins reduction.* ::
 
 
 Any of the following composite wood or agrifiber products containing added urea-formaldehyde resins purchased or leased by any agency shall meet the standards specified below, except that this section shall not apply to any composite wood or agrifiber product containing added urea-formaldehyde resins purchased or leased by any contractor pursuant to any contract with any agency.
@@ -2490,7 +2481,7 @@ Any of the following composite wood or agrifiber products containing added urea-
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Product
       - Formaldehyde Emission Standards (ppm)*
@@ -2512,7 +2503,6 @@ Any of the following composite wood or agrifiber products containing added urea-
       - No added urea formaldehyde resins 
     * - Strawboard
       - No added urea formaldehyde resins 
-
 ~
 
  
@@ -2524,7 +2514,7 @@ Any of the following composite wood or agrifiber products containing added urea-
 
 
 
-*§ 11-07 Dioxin reduction.*
+*§ 11-07 Dioxin reduction.* ::
 
 
 Any of the following dioxin producing products purchased or leased by any agency shall meet the standards specified below, except that this section shall not apply to any dioxin producing products purchased or leased by any contractor pursuant to any contract with any agency.
@@ -2533,13 +2523,12 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Product 
       - Standard
     * - Paper Products
       - Process-chlorine free 
-
 ~
 
 
@@ -2556,7 +2545,7 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 
-*§ 11-08 Energy and water efficiency standards.*
+*§ 11-08 Energy and water efficiency standards.* ::
 
 
 (a) Any energy-using product for which the United States environmental protection agency and the United States department of energy have developed energy efficiency standards for compliance with the Energy Star program shall be ENERGY STAR labeled.
@@ -2577,7 +2566,7 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 
-*§ 11-09 Minimum recycled material content.*
+*§ 11-09 Minimum recycled material content.* ::
 
 
 (a) Any of the following products listed in the CPG, that can be procured at a reasonably competitive price, and for which the United States environmental protection agency has issued a recovered materials advisory notice, shall contain no less recovered material and postconsumer material than the minimum amount recommended in the most recent such notice:
@@ -2692,7 +2681,7 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 
-*§ 11-10 Green Cleaning product categories.*
+*§ 11-10 Green Cleaning product categories.* ::
 
 
 (a) (1) No agency shall purchase and use bathroom cleaners, degreasers, general purpose cleaners, or glass cleaners, unless such cleaning products comply with the standards set forth by one of the following third-party programs:
@@ -2711,7 +2700,7 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Product 
       - Maximum Percentage (%) of Volatile Organic Compounds by Weight
@@ -2725,7 +2714,6 @@ Any of the following dioxin producing products purchased or leased by any agency
       - 18 
     * - Solids/Semi-Solid
       - 3 
-
 ~
 
 
@@ -2780,11 +2768,11 @@ Any of the following dioxin producing products purchased or leased by any agency
 
 
 Chapter 12: Waivers from Inclusion In the Doing Business Database
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 12-01 Purpose.*
+*§ 12-01 Purpose.* ::
 
 
 The purpose of this chapter is to set forth the procedure for persons to seek waivers from inclusion in the doing business database as described in paragraph (c) of subdivision 18 of § 3-702 of the administrative code.
@@ -2794,7 +2782,7 @@ The purpose of this chapter is to set forth the procedure for persons to seek wa
 
 
 
-*§ 12-02 Definitions.*
+*§ 12-02 Definitions.* ::
 
 
 For the purposes of this chapter, the following terms shall have the following meanings:
@@ -2814,7 +2802,7 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 
-*§ 12-03 Applicability.*
+*§ 12-03 Applicability.* ::
 
 
 A waiver may be requested by any person having business dealings with the city in such instances in which such person is providing essential goods, services or construction such as those necessary for security or other essential government operations. Notwithstanding the foregoing, if the transaction is a bid or proposal, a waiver may only be requested if the notice included in the solicitation specifies that a waiver may be applied for.
@@ -2824,7 +2812,7 @@ A waiver may be requested by any person having business dealings with the city i
 
 
 
-*§ 12-04 Procedure for Requesting Waiver.*
+*§ 12-04 Procedure for Requesting Waiver.* ::
 
 
 (a)  Any person seeking a waiver from the doing business database in connection with a transaction considered a business dealing with the city shall obtain a waiver application form from the CCPO as described in 43 RCNY § 12-07. The waiver applicant shall provide all information that is required of waiver applicants and submit the application to the agency involved with the transaction.
@@ -2844,7 +2832,7 @@ A waiver may be requested by any person having business dealings with the city i
 
 
 
-*§ 12-05 Public Notice of Waiver Approvals.*
+*§ 12-05 Public Notice of Waiver Approvals.* ::
 
 
 All approved waivers shall be posted on the websites of both the CCPO and the campaign finance board in locations that are accessible by the public. In the event that an independently elected official (or an agency under the control of such an official), submits a written response for consideration by the CCPO pursuant to 43 RCNY § 12-04(e), a copy of such response shall be included in the CCPO's public posting.
@@ -2854,7 +2842,7 @@ All approved waivers shall be posted on the websites of both the CCPO and the ca
 
 
 
-*§ 12-06 Scope of Waiver.*
+*§ 12-06 Scope of Waiver.* ::
 
 
 Waivers granted under these rules apply only to the requirement that information about covered persons be included in the doing business database.
@@ -2864,7 +2852,7 @@ Waivers granted under these rules apply only to the requirement that information
 
 
 
-*§ 12-07 Form of Waiver Application.*
+*§ 12-07 Form of Waiver Application.* ::
 
 
 (a)  The CCPO shall create a waiver application form that shall be completed by waiver applicants and agencies. The information required on the form shall include all information required by the CCPO in order to determine whether a waiver should be granted, including but not limited to the information set forth below.
@@ -2890,7 +2878,7 @@ Waivers granted under these rules apply only to the requirement that information
 
 
 
-*§ 12-08 Basis for Waiver.*
+*§ 12-08 Basis for Waiver.* ::
 
 
 A waiver may be granted in the following circumstances:
@@ -2908,7 +2896,7 @@ A waiver may be granted in the following circumstances:
 
 
 
-*§ 12-09 Efforts to Obtain Data.*
+*§ 12-09 Efforts to Obtain Data.* ::
 
 
 A waiver shall be granted only after substantial efforts have been made by the CCPO to obtain the information. Such efforts may include any efforts made by the agency at the direction of the CCPO.
@@ -2917,11 +2905,11 @@ A waiver shall be granted only after substantial efforts have been made by the C
 
 
 Chapter 13: Indigent Defense Plan For the City of New York
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 13-01 Definitions.*
+*§ 13-01 Definitions.* ::
 
 
 Assigned Counsel Panels. Panels of private attorneys certified by Screening and Advisory Committees appointed by the Appellate Division, First and Second Judicial Departments, respectively, to represent indigent persons for purposes of Article 18-B of the County Law.
@@ -2943,7 +2931,7 @@ Provider. A private institutional legal services organization selected by CJC in
 
 
 
-*§ 13-02 Competitive Procurement Process.*
+*§ 13-02 Competitive Procurement Process.* ::
 
 
 The Office of the Criminal Justice Coordinator ("CJC") shall select Providers through a competitive procurement process in accordance with the rules of the Procurement Policy Board. These Providers, along with attorneys appointed from appropriate Assigned Counsel Panels of the First and Second Judicial Departments, will provide indigent legal services as described below. Indigent Defense Organization Oversight Committees, as established by the First or Second Judicial Departments, shall monitor the Providers.
@@ -2953,7 +2941,7 @@ The Office of the Criminal Justice Coordinator ("CJC") shall select Providers th
 
 
 
-*§ 13-03 Criminal Matters.*
+*§ 13-03 Criminal Matters.* ::
 
 
 In classification proceedings under Article 6-C of the Correction Law and in any other criminal matters in which an indigent person is entitled to counsel pursuant to Article 18-B of the County Law, CJC shall select Providers in each of the City's five counties to provide representation at the trial level. In appellate matters in which an indigent person is entitled to counsel pursuant to Article 18-B of the County Law, CJC shall select providers in each of the First and Second Judicial Departments to provide representation in such matters. Providers shall be assigned by the court at the trial and appellate levels. In any case where, due to conflict of interest or other appropriate reason, Providers decline or are unable to represent an indigent person at the trial or on appeal in a criminal matter, counsel shall be furnished by attorneys assigned by the ACP from the appropriate Criminal Defense Panel of the Appellate Division, First or Second Judicial Department, or by alternate providers selected by the CJC through the City's procurement process.
@@ -2963,7 +2951,7 @@ In classification proceedings under Article 6-C of the Correction Law and in any
 
 
 
-*§ 13-04 Family Law Matters.*
+*§ 13-04 Family Law Matters.* ::
 
 
 Indigent persons who are parties in proceedings brought under sections 262 or 1120 of the Family Court Act or section 407 of the Surrogate's Court Procedure Act shall be represented by attorneys selected by the First and Second Judicial Departments from the Family Law Panels of the Appellate Division, First or Second Judicial Department, and Providers selected by CJC. Attorneys shall be assigned by the court.
@@ -2973,7 +2961,7 @@ Indigent persons who are parties in proceedings brought under sections 262 or 11
 
 
 
-*§ 13-05 Investigative, Expert, and Other Services in Matters Handled by 18-B Attorneys.*
+*§ 13-05 Investigative, Expert, and Other Services in Matters Handled by 18-B Attorneys.* ::
 
 
 The authorization to attorneys appointed to represent indigent persons to obtain necessary investigative, expert, or other services and the determination of the amount of reasonable compensation therefor shall be made pursuant to section 722-c of the County Law by the court in which the matter is pending. Expert and Ancillary Services Roster (EASR). The OACP shall compile and administer an Expert and Ancillary Services Roster consisting of the names of investigators, experts and other professionals who have indicated their availability to provide services to attorneys who represent indigent persons in criminal matters pursuant to this chapter, together with the curriculum vitae of such persons. The OACP shall make that roster available on a regular basis to panel members who represent indigent persons pursuant to Article 18-B of the County Law. Persons desiring to be included in the EASR shall apply to the OACP and the outcome of that application shall be subject to a background review which may consist, inter alia, of a criminal background check, verification of credentials, and verification of educational and professional attainments. The Ancillary Services Roster shall be provided simply as an informational service to courts and panel members; inclusion of a name on the roster shall not be construed as an endorsement by the OACP of the qualifications or competence of persons so named and shall not be cited by any person as such an endorsement. Application for Appointment of Investigator, Expert, or other Service Providers. Attorneys representing indigent persons pursuant to this chapter may seek the appointment of an investigator, expert or other service provider pursuant to section 722-c of the County Law, whether or not the name of such person appears on the EASR. Investigators, experts, or other ancillary service providers not listed on the EASR, will be subject to a background review prior to payment being processed for services.
@@ -2983,7 +2971,7 @@ The authorization to attorneys appointed to represent indigent persons to obtain
 
 
 
-*§ 13-06 Payment Procedures and Submission of Vouchers in Criminal Matters Handled by Attorneys on Criminal Panels and Experts Assigned to Matters Handled by 18-B Attorneys.*
+*§ 13-06 Payment Procedures and Submission of Vouchers in Criminal Matters Handled by Attorneys on Criminal Panels and Experts Assigned to Matters Handled by 18-B Attorneys.* ::
 
 
 Attorneys on the Criminal Panels representing or who have represented indigent persons pursuant to Article 18-B of the County Law and this chapter, and investigators, experts, and other persons providing or who have provided services in accordance with Article 18-B of the County Law and this chapter shall apply to the court in which the representation was furnished or services provided pursuant to sections 722-b and 722-c of the County Law to fix his or her reasonable compensation for such representation or services. Applications shall be made on the appropriate voucher form or template promulgated by the OACP. Vouchers shall be signed by the judge presiding or who presided in the matter in which the attorney provided representation or the person provided ancillary services, approving the amount for which payment is being sought by the voucher, and shall be submitted to the OACP for review prior to payment by the comptroller.
@@ -2992,11 +2980,11 @@ Attorneys on the Criminal Panels representing or who have represented indigent p
 
 
 Chapter 15: New York City 'Made In New York Marketing Credit Program'
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 15-01 Purpose and general description.*
+*§ 15-01 Purpose and general description.* ::
 
 
 (a) The "Made in New York Marketing Credit Program" ("the Program"), established and administered by the Mayor's Office of Media and Entertainment ("MOME"), offers "Made in New York" film and television productions a number of opportunities to promote their project in major media markets that are City-Owned assets or are privately owned and operated media outlets with which the City has established relationships. Qualified "Made in New York" productions that apply and are approved for this Program will be provided media outlets including, but not limited to, bus shelters, subway cars, and broadcasts on New York City Media group television stations. The amount of media advertising offered will be determined by certain production costs as defined in this rule. In exchange for the marketing credits, recipients will be required to make a monetary contribution to a New York City cultural institution approved by the New York City Department of Cultural Affairs or a non-profit organization with proposals for program funding on a Participatory Budgeting New York City ballot. The "Made in NY" logo must be included in all media advertising.
@@ -3012,7 +3000,7 @@ Chapter 15: New York City 'Made In New York Marketing Credit Program'
 
 
 
-*§ 15-02 Definitions.*
+*§ 15-02 Definitions.* ::
 
 
 As used in this rule, the following terms have the following meanings:
@@ -3068,7 +3056,7 @@ As used in this rule, the following terms have the following meanings:
 
 
 
-*§ 15-03 Application process.*
+*§ 15-03 Application process.* ::
 
 
 For the purposes of this chapter, only an authorized applicant will be eligible to apply for the New York City Made in New York Marketing Credit Program.
@@ -3092,7 +3080,7 @@ For the purposes of this chapter, only an authorized applicant will be eligible 
 
 
 
-*§ 15-04 Evaluation of applications.*
+*§ 15-04 Evaluation of applications.* ::
 
 
 (a) In order to be approved for marketing credit, each of the following requirements must be satisfied:
@@ -3116,7 +3104,7 @@ For the purposes of this chapter, only an authorized applicant will be eligible 
 
 
 
-*§ 15-05 Allocation of New York City Made in New York marketing credit.*
+*§ 15-05 Allocation of New York City Made in New York marketing credit.* ::
 
 
 (a) When an application has been approved the Office will allocate the credit in order of priority based upon submission date of an application and subject to the availability of media assets. In the event that an marketing credit recipient is unable to use the media assets after the credit has been allocated, such recipient will lose its "first come, first served" status and will be accommodated subject to availability without guarantee of reallocation.
@@ -3142,7 +3130,7 @@ For the purposes of this chapter, only an authorized applicant will be eligible 
 
 
 
-*§ 15-06 Appeal process.*
+*§ 15-06 Appeal process.* ::
 
 
 (a) If an authorized applicant's application is disapproved by the Office, or if a marketing credit recipient disagrees with the amount of the media assets granted by the Office, each such person or entity may appeal such determination.
@@ -3162,7 +3150,7 @@ For the purposes of this chapter, only an authorized applicant will be eligible 
 
 
 
-*§ 15-07 Final report.*
+*§ 15-07 Final report.* ::
 
 
 As part of the community benefit component of the Program, within thirty (30) days after the completion of a marketing credit recipient's media campaign, such recipient must submit to the Office by U.S. mail, email or fax, proof of payment to the identified New York City cultural institution, in the form of a cancelled check or letter of acknowledgment. Such recipients who have not satisfied this component of the Program will be required to make a payment to MOME in an amount equivalent to 100% of the value of the media assets received, as determined by MOME.
@@ -3174,7 +3162,7 @@ As part of the community benefit component of the Program, within thirty (30) da
 
 
 
-*§ 15-08 Record retention.*
+*§ 15-08 Record retention.* ::
 
 
 Each marketing credit recipient must maintain records, in paper or electronic form, of any qualified productions costs used to calculate the media assets received through this Program for a minimum of three years from the date of filing of the tax return applicable to the time period for which such recipient claims the marketing credit. The Office has the right to request such records upon reasonable notice.
@@ -3185,7 +3173,7 @@ Each marketing credit recipient must maintain records, in paper or electronic fo
 
 
 Chapter 14: Environmental Remediation
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
@@ -3194,7 +3182,7 @@ Chapter 14: Environmental Remediation
 
 
 
-*§ 43-1401 Purpose.*
+*§ 43-1401 Purpose.* ::
 
 
 The purpose of this subchapter is to provide for the orderly and efficient administration of chapter nine of title twenty-four of the administrative code of the city of New York, the City voluntary cleanup program.
@@ -3206,7 +3194,7 @@ The purpose of this subchapter is to provide for the orderly and efficient admin
 
 
 
-*§ 43-1402 Definitions.*
+*§ 43-1402 Definitions.* ::
 
 
 For the purposes of this subchapter, the following terms shall have the following meanings:
@@ -3396,7 +3384,7 @@ iii. "Waste" means (1) any garbage, refuse, or sludge from a waste water treatme
 
 
 
-*§ 43-1403 Eligibility.*
+*§ 43-1403 Eligibility.* ::
 
 
 a. Ineligible sites. Any real property that does not meet the definition of a qualified local brownfield site shall be ineligible for the City voluntary cleanup program.
@@ -3418,7 +3406,7 @@ c. Public interest consideration. The office may reject an application to partic
 
 
 
-*§ 43-1404 Applications.*
+*§ 43-1404 Applications.* ::
 
 
 a. Pre-application. A person interested in applying to the City voluntary cleanup program shall request a pre-application meeting with the office. At the pre-application meeting, the person and representatives of the office shall discuss the suitability of the property for participation in the program. Following the meeting, the office may issue a pre-enrollment letter stating its intent to work with the applicant on the development of a complete application and to consider its eligibility for acceptance of the site into the program. Following the meeting and prior to the applicant submitting an application, the office shall assist the applicant in the applicant's performance of all activities necessary to develop a complete application. Such activities shall include, but not be limited to, scoping of the remedial investigation work plan, review of the results of the remedial investigation and development of the remedial investigation report, scoping of the remedial action work plan, and development of a citizen participation plan.
@@ -3484,7 +3472,7 @@ f. Citizen participation upon entering the City voluntary cleanup program.
 
 
 
-*§ 43-1405 City Voluntary Cleanup Agreements.*
+*§ 43-1405 City Voluntary Cleanup Agreements.* ::
 
 
 a. The following terms and conditions apply to City voluntary cleanup agreements required for eligibility in the program.
@@ -3594,7 +3582,7 @@ b. The City voluntary cleanup agreement shall be binding while in effect on each
 
 
 
-*§ 43-1406 Work plans and reports.*
+*§ 43-1406 Work plans and reports.* ::
 
 
 a. Work plans. All work undertaken as part of a remedial program under a City voluntary cleanup agreement shall be detailed in a work plan, unless determined otherwise by the Office.
@@ -3710,7 +3698,7 @@ d. Review of work plans and reports.
 
 
 
-*§ 43-1407 Remedial program.*
+*§ 43-1407 Remedial program.* ::
 
 
 a. The remedial program shall be fully protective of public health and the environment including, but not limited to, soil, groundwater according to its classification pursuant to § 17-0301 of the New York state environmental conservation law, drinking water, surface water, air (including indoor air), sensitive populations (including children), and ecological resources (including fish and wildlife).
@@ -4202,7 +4190,7 @@ l. Institutional controls, engineering controls, and restrictive declarations.
 
 
 
-*§ 43-1408 Notice of completion.*
+*§ 43-1408 Notice of completion.* ::
 
 
 a. The office shall issue a notice of completion upon approval of the remedial action report.
@@ -4292,7 +4280,7 @@ g. Transfer of a notice of completion. A notice of completion may be transferred
 
 
 
-*§ 43-1409 Citizen Participation.*
+*§ 43-1409 Citizen Participation.* ::
 
 
 a. To facilitate the remedial process and enable citizens to participate more fully in decisions that affect their health, the office shall require applicants and enrollees to provide opportunities for citizen involvement in the development and implementation of a remedial program and shall encourage applicants and enrollees to consult with the public prior to the office adopting final determinations. The primary goal of the citizen participation program is to facilitate communication between the office and enrollees and the individuals, groups, and organizations that have expressed interest in or are affected by a site, its remedial program, or the decision-making process associated with the remediation of a site.
@@ -4378,7 +4366,7 @@ i. Interim remedial measures. For interim remedial measures, the office shall no
 
 
 
-*§ 43-1410 Miscellaneous.*
+*§ 43-1410 Miscellaneous.* ::
 
 
 a. Submissions to the office. Applicants and enrollees shall submit all work plans and reports, including all attachments, appendices, and certifications, in an electronic format acceptable to the office. The office may request a printed copy. The office reserves the right to require submission of large figures and drawings on paper.
@@ -4473,7 +4461,7 @@ f. In accordance with § 27-1303 of the New York state environmental conservatio
 
 
 
-*§ 43-1415 Purpose and applicability.*
+*§ 43-1415 Purpose and applicability.* ::
 
 
 a. Purpose. The New York city brownfield incentive grant (BIG) program is intended to promote the cleanup and redevelopment of brownfield properties in the city of New York.
@@ -4503,7 +4491,7 @@ b. Applicability. Brownfield incentive grants are available to provide financial
 
 
 
-*§ 43-1416 Definitions.*
+*§ 43-1416 Definitions.* ::
 
 
 a. "Affordable housing development" means a development that will be built by a developer on a qualifying brownfield property where at least twenty percent of the housing units are affordable to families that earn no more than eighty percent of the average median income of an area, as determined by the United States department of housing and urban development, and that has been issued a letter of interest from a federal, state, or local housing subsidy program.
@@ -4585,7 +4573,7 @@ q. "Strategic brownfield property" means a property within a brownfield opportun
 
 
 
-*§ 43-1417 Types of grants.*
+*§ 43-1417 Types of grants.* ::
 
 
 a. Pre-enrollment grants are awarded for services and activities performed at qualifying brownfield properties that are not yet enrolled in the City voluntary cleanup program.
@@ -4627,7 +4615,7 @@ c. Other Grants.
 
 
 
-*§ 43-1418 Eligibility.*
+*§ 43-1418 Eligibility.* ::
 
 
 a. General.
@@ -4741,7 +4729,7 @@ d. Eligibility requirements for specific grants.
 
 
 
-*§ 43-1419 Eligible Services and Activities.*
+*§ 43-1419 Eligible Services and Activities.* ::
 
 
 a. Eligible services and/or activities within each grant type for which grant awards may be issued are listed in Schedule B.
@@ -4823,7 +4811,7 @@ d. The grant administration contractor shall establish a list of qualified vendo
 
 
 
-*§ 43-1420 Applications.*
+*§ 43-1420 Applications.* ::
 
 
 a. Applications are required for all brownfield incentive grants.
@@ -4863,7 +4851,7 @@ h. To be eligible for a brownfield incentive grant available to qualifying brown
 
 
 
-*§ 43-1421 Agreements.*
+*§ 43-1421 Agreements.* ::
 
 
 a. Brownfield incentive grants require an executed agreement between the grantee and the grant administration contractor prior to the disbursement of funds.
@@ -4915,7 +4903,7 @@ b. Brownfield incentive grant agreements shall include:
 
 
 
-*§ 43-1422 Grant Awards and Award Limits.*
+*§ 43-1422 Grant Awards and Award Limits.* ::
 
 
 a. Brownfield incentive grants shall be paid to the grantee or the qualified vendor who performed the work upon receipt of invoices for eligible activities and/or services listed in schedule B, provided that brownfield opportunity area local match grants shall be paid to the grantee upon receipt of a copy of a work plan approved by the New York state department of state and a copy of a contract executed with the New York state department of state. Brownfield opportunity area local match grants shall be paid to a community based organization in a place-based community brownfield planning area identified by the Office upon receipt of an executed agreement with the Office identifying the work to be performed.
@@ -4961,7 +4949,7 @@ c. Award limits.
 
 
 
-*§ 43-1423 Grant Disbursements and Administration.*
+*§ 43-1423 Grant Disbursements and Administration.* ::
 
 
 a. Administration of grants. The grant administration contractor shall review all invoices and all other documents provided by the applicant pursuant to this subchapter prior to awarding grant funds, in order to ensure that services and/or activities comply with this subchapter.
@@ -4983,7 +4971,7 @@ b. Disbursement of grants.
 
 
 
-*Schedule A: Grant Awards and Award Limits*
+*Schedule A: Grant Awards and Award Limits* ::
 
 
 VCP: The City Voluntary Cleanup Program administered by the Office of Environmental Remediation.BOA: The brownfield opportunity area. This is a program for area-wide brownfield and community planning managed by the New York State Department of State.N/A: not applicable.
@@ -5040,7 +5028,7 @@ VCP: The City Voluntary Cleanup Program administered by the Office of Environmen
 
 
 
-*Schedule B: Eligible Services and Activities/Reimbursable Allowance a, b*
+*Schedule B: Eligible Services and Activities/Reimbursable Allowance a, b* ::
 
 
 
@@ -5082,7 +5070,7 @@ VCP: The City Voluntary Cleanup Program administered by the Office of Environmen
 
 
 
-*§ 43-1428 Purpose.*
+*§ 43-1428 Purpose.* ::
 
 
 The New York City green property certification program is established to acknowledge the benefits to public health and the environment of remedial action to property in New York city performed by enrollees in the City voluntary cleanup program and in other government remediation programs that achieve equivalent property remediation.
@@ -5094,7 +5082,7 @@ The New York City green property certification program is established to acknowl
 
 
 
-*§ 43-1429 Definitions.*
+*§ 43-1429 Definitions.* ::
 
 
 For the purposes of this subchapter, the following terms have the following meanings:
@@ -5118,7 +5106,7 @@ f. Recipient. "Recipient" means an Enrollee who is eligible for and has been iss
 
 
 
-*§ 43-1430 Eligibility.*
+*§ 43-1430 Eligibility.* ::
 
 
 a. To be eligible for New York City green property certification, a property must be located in the City of New York and (1) be admitted to the City voluntary cleanup program or the New York State brownfield cleanup program or (2) be an equivalent remediation property.
@@ -5148,7 +5136,7 @@ b. Properties that have fulfilled the eligibility requirements for New York City
 
 
 
-*§ 43-1431 Applications.*
+*§ 43-1431 Applications.* ::
 
 
 a. No application is required for properties admitted to the City voluntary cleanup program.
@@ -5162,7 +5150,7 @@ b. An application may be submitted for properties, especially those properties w
 
 
 
-*§ 43-1432 Records.*
+*§ 43-1432 Records.* ::
 
 
 a. The Office will maintain a public record of all properties certified under the New York City green property certification program. The Office will provide confirmation of such certification to any member of the public upon request.
@@ -5176,7 +5164,7 @@ b. The Office will provide a certificate and/or make available other symbols of 
 
 
 
-*§ 43-1433 Rescission and termination.*
+*§ 43-1433 Rescission and termination.* ::
 
 
 a. The Office may rescind a New York City green property certification if it determines that a certified property is no longer in compliance with the agreement, the notice of completion or equivalent record of completion, or the site management plan governing institutional and/or engineering controls established within the respective remediation program to which the property is admitted. Compliance for the purpose of this subdivision includes compliance with reporting requirements. The Office may reinstate a New York City green property certification if it determines that the recipient has cured the non-compliance.
@@ -5204,7 +5192,7 @@ b. The recipient of a New York City green property certification may terminate t
 
 
 
-*§ 43-1434 Miscellaneous.*
+*§ 43-1434 Miscellaneous.* ::
 
 
 Certification categories. The Office may establish certification categories, including categories that recognize a cleanup for unrestricted use of the property and categories that recognize the use of sustainable methods for remediation and redevelopment of the property.
@@ -5221,7 +5209,7 @@ Certification categories. The Office may establish certification categories, inc
 
 
 
-*§ 43-1440 Applicability.*
+*§ 43-1440 Applicability.* ::
 
 
 The New York City Clean Soil Bank and other types of materials exchange are available for properties that are enrolled in the City voluntary cleanup program, properties with an (E) Designation or a restrictive declaration that are remediating their sites under OER oversight, properties in a remedial program administered by DEC, City-owned, City-Financed, or City-Subsidized capital construction properties, and other City-Supported private development properties.
@@ -5233,7 +5221,7 @@ The New York City Clean Soil Bank and other types of materials exchange are avai
 
 
 
-*§ 43-1441 Definitions.*
+*§ 43-1441 Definitions.* ::
 
 
 "DEC" means the New York State Department of Environmental Conservation.
@@ -5253,7 +5241,7 @@ The New York City Clean Soil Bank and other types of materials exchange are avai
 
 
 
-*§ 43-1442 Eligible Properties.*
+*§ 43-1442 Eligible Properties.* ::
 
 
 a. The following properties are eligible to participate in the New York City Clean Soil Bank and Other Materials Exchange Program as properties that generate or receive eligible soil materials for exchange:
@@ -5279,7 +5267,7 @@ b. Generating properties that are not in remedial or other programs operated by 
 
 
 
-*§ 43-1443 Operation of the New York City Clean Soil Bank and Other Materials Exchange Program.*
+*§ 43-1443 Operation of the New York City Clean Soil Bank and Other Materials Exchange Program.* ::
 
 
 a. To apply to be a generating property, eligible properties other than City-operated facilities must submit a soil or other materials availability form to the Office. The Office will determine if the soil or other material is eligible for transfer to a receiving property. For soil exchange, this will be done by comparing soil quality to the soil quality required by applicable laws, rules, regulations and agreements between the Office and DEC.
@@ -5308,7 +5296,7 @@ g. Prior to the transfer of any eligible materials, all private parties particip
 
 
 
-*§ 43-1450 Environmental review and assessment letter.*
+*§ 43-1450 Environmental review and assessment letter.* ::
 
 
 The office may issue environmental review and assessment letters if requested to do so by a person or entity. An environmental review and assessment letter is typically issued in connection with a proposed financing or re-financing of real property and states that the existing condition of a site does not require further action. The fee for obtaining an environmental review and assessment letter from OER is $3,500.
@@ -5323,7 +5311,7 @@ The office may issue environmental review and assessment letters if requested to
 
 
 
-*§ 43-1460 Fee for hazardous waste program fee exemption.*
+*§ 43-1460 Fee for hazardous waste program fee exemption.* ::
 
 
 
@@ -5333,7 +5321,7 @@ The office may issue environmental review and assessment letters if requested to
 
 
 
-*§ 43-1461 Modification of special mixed use noise requirements.*
+*§ 43-1461 Modification of special mixed use noise requirements.* ::
 
 
 a. Definitions.
@@ -5406,11 +5394,11 @@ c. Fee for Modifying Special Mixed Use Noise Requirements. An applicant requesti
 
 
 Chapter 16: Unlawful Advertisement for Certain Occupancies*
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 16-01 Certain advertising prohibited.*
+*§ 16-01 Certain advertising prohibited.* ::
 
 
 It is unlawful to advertise occupancy and use of dwelling units in a class A multiple dwelling for occupancy that would violate subdivision eight of section four of the New York State Multiple Dwelling Law, defining a "Class A" multiple dwelling as a multiple dwelling that is occupied for permanent residence purposes.
@@ -5422,7 +5410,7 @@ It is unlawful to advertise occupancy and use of dwelling units in a class A mul
 
 
 
-*§ 16-02 Definition.*
+*§ 16-02 Definition.* ::
 
 
 For purposes of this chapter, the term "advertise" means any form of communication, promotion or solicitation, including but not limited to direct mail, newspapers, magazines, flyers, handbills, television commercials, radio, signage, direct mail, websites, text messages or similar displays, intended or used to induce, encourage or persuade the public to enter into a contract for goods and/or services.
@@ -5434,7 +5422,7 @@ For purposes of this chapter, the term "advertise" means any form of communicati
 
 
 
-*§ 16-03 Recommended penalties.*
+*§ 16-03 Recommended penalties.* ::
 
 
 Any person found to have violated the provisions of 43 RCNY § 16-01 will be liable for a civil penalty of $1,000 for the first violation, $5,000 for the second violation and $7,500 for the third and subsequent violations.
@@ -5446,7 +5434,7 @@ Any person found to have violated the provisions of 43 RCNY § 16-01 will be lia
 
 
 
-*§ 16-04 Adjudication.*
+*§ 16-04 Adjudication.* ::
 
 
 Violations of 43 RCNY § 16-01 will be adjudicated by the Environmental Control Board within the Office of Administrative Trials and Hearings.
@@ -5457,11 +5445,11 @@ Violations of 43 RCNY § 16-01 will be adjudicated by the Environmental Control 
 
 
 Chapter 17: Required Disclosures of Short-Term Rental Transactions by Booking Services*
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 17-01 Definitions.*
+*§ 17-01 Definitions.* ::
 
 
 Administering agency. The term "administering agency" means the Office of Special Enforcement, as established under executive order number 96 for the year 2006, or such other agency as subsequently designated by executive order.
@@ -5489,7 +5477,7 @@ Short-term rental. The term "short-term rental" means a rental for occupancy of 
 
 
 
-*§ 17-02 Reporting requirements for booking services.*
+*§ 17-02 Reporting requirements for booking services.* ::
 
 
 1. A booking service shall submit to the administering agency a report of transactions for which it charged, collected or received a fee, directly or indirectly, for activity described in the definition of booking service, except those transactions described in 43 RCNY § 17-05. Each short-term rental associated with such fee is considered to be a separate transaction. Such report shall include the following information:
@@ -5523,7 +5511,7 @@ Short-term rental. The term "short-term rental" means a rental for occupancy of 
 
 
 
-*§ 17-03 Method of submission.*
+*§ 17-03 Method of submission.* ::
 
 
 1. Each report shall be electronically submitted by a booking service through a secure portal accessible from the administering agency's website.
@@ -5547,7 +5535,7 @@ Short-term rental. The term "short-term rental" means a rental for occupancy of 
 
 
 
-*§ 17-04 Penalties.*
+*§ 17-04 Penalties.* ::
 
 
 1. A booking service that fails to submit a report in compliance with the requirements of this chapter shall be liable for a civil penalty, to be assessed once per reporting period for each set of missing, incomplete or inaccurate records corresponding to a unique listing.
@@ -5565,7 +5553,7 @@ Short-term rental. The term "short-term rental" means a rental for occupancy of 
 
 
 
-*§ 17-05 Exempt transactions based on rentals occurring in certain buildings.*
+*§ 17-05 Exempt transactions based on rentals occurring in certain buildings.* ::
 
 
 1. The administering agency shall publish a list of addresses for buildings it has reason to believe at the time of such publication are class B multiple dwellings lawfully used for transient occupancy. Booking services are not required to include in reports transactions which are based on a short-term rental occurring in a building on this list, and no penalties shall be assessed based on the absence of or material deficiencies for transactions occurring at these addresses in such report.
@@ -5593,7 +5581,7 @@ Short-term rental. The term "short-term rental" means a rental for occupancy of 
 
 
 
-*§ 17-06 Privacy and security of information.*
+*§ 17-06 Privacy and security of information.* ::
 
 
 1. Information submitted in the report shall be available for public review only to the extent required by federal, state and local law.
@@ -5615,7 +5603,7 @@ Short-term rental. The term "short-term rental" means a rental for occupancy of 
 
 
 
-*§ 17-07 Retention and Disposal of Information Obtained in the Report.*
+*§ 17-07 Retention and Disposal of Information Obtained in the Report.* ::
 
 
 1. The administering agency will retain the reports:
@@ -5635,7 +5623,7 @@ Short-term rental. The term "short-term rental" means a rental for occupancy of 
 
 
 
-*§ 17-08 No Private Right of Action.*
+*§ 17-08 No Private Right of Action.* ::
 
 
 1. Nothing contained in this chapter shall be construed as creating any private right of action against the City or any agency, office or employee thereof.

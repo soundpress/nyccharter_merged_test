@@ -1,12 +1,12 @@
 Title 46: Law Department
-======================================================================================================
+===================================================
 
 Chapter 1: Adjudications
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 1-01 Fitness and Discipline Adjudications of Law Department Employees.*
+*§ 1-01 Fitness and Discipline Adjudications of Law Department Employees.* ::
 
 
 New York City Law Department adjudications regarding the fitness and discipline of agency employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Corporation Counsel.
@@ -15,11 +15,11 @@ New York City Law Department adjudications regarding the fitness and discipline 
 
 
 Chapter 2: Escrow Agreements
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 2-01 Escrow Agreements Entered into with the New York City Law Department.*
+*§ 2-01 Escrow Agreements Entered into with the New York City Law Department.* ::
 
 
 (a) The Corporation Counsel, or a named representative, when acting as escrow agent for agreements entered into with the New York City Law Department, will deposit any money received pursuant to such escrow agreement into an Attorney Trust Account maintained by the Law Department.
@@ -38,11 +38,11 @@ Chapter 2: Escrow Agreements
 
 
 Chapter 3: False Claims
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 3-01 Submission of Proposed Civil Complaints to the City.*
+*§ 3-01 Submission of Proposed Civil Complaints to the City.* ::
 
 
 (a)  Any person may submit a proposed civil complaint alleging a violation of § 7-803 of Chapter 8 of Title 7 of the Administrative Code of the City of New York on behalf of the City of New York. Such submission shall include the person's name, address, telephone numbers and e-mail address (if available), and shall enclose all material evidence and information possessed by such person in support of the allegations of the proposed civil complaint. Information and materials submitted in support of the proposed complaint shall include, but not be limited to (1) identification of the person or entity alleged to have submitted a false or fraudulent claim to the City; (2) a description of the nature of the allegedly fraudulent claim; (3) the dollar amount alleged to have been falsely or fraudulently submitted to the City; (4) the date(s) on which the allegedly false or fraudulent claims were made; (5) the City agency(ies) to which the allegedly false or fraudulent claims were made.
@@ -58,7 +58,7 @@ Chapter 3: False Claims
 
 
 
-*§ 3-02 Review of Proposed Civil Complaints.*
+*§ 3-02 Review of Proposed Civil Complaints.* ::
 
 
 (a)  Within thirty days of receipt of the proposed civil complaint, DOI shall forward a copy of each proposed civil complaint and all documentation submitted in support thereof to the Law Department, addressed to "Chief, Affirmative Litigation Division, New York City Law Department, 100 Church Street, New York, NY 10007," and marked "CONFIDENTIAL – TO BE OPENED ONLY BY ADDRESSEE." DOI shall at that time notify the Law Department in writing whether the proposed civil complaint alleges wrongdoing that is already the subject of an ongoing investigation, or may warrant the opening of a new investigation by DOI.
@@ -78,7 +78,7 @@ Chapter 3: False Claims
 
 
 
-*§ 3-03 Processing of Proposed Civil Complaints.*
+*§ 3-03 Processing of Proposed Civil Complaints.* ::
 
 
 (a)  In accordance with Administrative Code § 7-804(b)(2), within one hundred eighty days of the receipt of a proposed civil complaint by the Department of Investigation, the Law Department shall in writing notify the person who has submitted the proposed complaint of its intention to commence a civil enforcement action, or to designate the person or his or her attorney to commence a civil enforcement action, or to decline to commence such action, in which case it shall provide its reasons for so declining. If the Commissioner of Investigation has determined that a civil enforcement action may interfere with or jeopardize an investigation by a governmental agency, the Law Department shall notify the complainant of such fact within ninety days of the City's receipt of the proposed civil complaint.

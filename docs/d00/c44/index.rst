@@ -1,10 +1,10 @@
 Chapter 35: Department of Citywide Administrative Services
-============================================================================================================================================================================================================
+===================================================
 Section 810.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 810. Department, commissioner.*
+*Section 810. Department, commissioner.* ::
 
 
 There shall be a department of citywide administrative services, the head of which shall be the commissioner of citywide administrative services. The commissioner may appoint deputies within available appropriations.
@@ -13,10 +13,10 @@ There shall be a department of citywide administrative services, the head of whi
 
 
 Section 811.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 811. Powers and duties of the commissioner; general.*
+*Section 811. Powers and duties of the commissioner; general.* ::
 
 
 The commissioner shall be responsible for citywide personnel matters, as set forth in this chapter, and shall have all the powers and duties of a municipal civil service commission provided in the civil service law or in any other statute or local law other than such powers and duties as are by this chapter assigned to the mayor, the city civil service commission or the heads of the city agencies; the commissioner shall in addition have the power to perform all the functions and operations of the city of New York relating to the maintenance and care of public buildings and facilities; the procurement of goods and other personal property; the disposition of surplus property; the provision to city agencies of services other than personal services; the acquisition, disposition and management by the city of real property other than housing; and the provision of automotive, communication, energy, and data processing services.
@@ -25,10 +25,10 @@ The commissioner shall be responsible for citywide personnel matters, as set for
 
 
 Section 812.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 812. Personnel management, declaration of intent.*
+*Section 812. Personnel management, declaration of intent.* ::
 
 
 a. The personnel policies and practices of the city government, in furtherance of this charter, the civil service law and rules and other applicable law, shall: (1) preserve and promote merit and fitness in city employment, (2) ensure that appointments and promotions in city service are made, and that wages are set, without regard to political affiliation, and without unlawful discrimination based on sex, race, color, religion, religious observance, national origin, disability, age, marital status, citizenship status or sexual orientation; and promote and support the efficient and effective delivery of services to the public.
@@ -39,10 +39,10 @@ b. Consistent with subdivision a of this section, the heads of city agencies sha
 
 
 Section 813.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 813. City civil service commission.*
+*Section 813. City civil service commission.* ::
 
 
 a. There shall be a city civil service commission, consisting of five members, not more than three of whom shall be members of the same political party. Members shall be appointed by the mayor, from a list of nominations provided by the screening committee established pursuant to subdivision b of this section, for overlapping terms of six years. Of the members first appointed, two shall serve for two years and two for four years and one for six years. The members shall be removable in the manner provided for members of a municipal civil service commission in the civil service law. A vacancy in such commission shall be filled in the same manner as regular appointments for the balance of the unexpired term. The mayor shall designate a member as chair and vice chair, respectively, for one-year terms. Within appropriations for such purposes, the members of the commission shall be reimbursed on a per diem basis for attendance at regularly scheduled meetings and hearings of the commission.
@@ -61,10 +61,10 @@ f. The commission shall prepare and transmit directly to the mayor departmental 
 
 
 Section 814.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 814. Personnel management; powers and duties of the commissioner.*
+*Section 814. Personnel management; powers and duties of the commissioner.* ::
 
 
 a. The commissioner shall have the following powers and duties in addition to the powers and duties of a municipal civil service commission provided in the civil service law, and those vested in the commissioner as head of the department, except where any specific power or duty is assigned to the mayor, heads of city agencies or the civil service commission pursuant to this chapter:
@@ -125,10 +125,10 @@ e. The commissioner shall submit a quarterly report to the mayor, the council, t
 
 
 Section 814.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 814. 1. Office of diversity and inclusion.*
+*Section 814. 1. Office of diversity and inclusion.* ::
 
 
 a. Definitions.
@@ -165,10 +165,10 @@ c. Powers and duties. The commissioner, acting through the office, shall have th
 
 
 Section 815.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 815. Agency heads; powers and duties concerning personnel management.*
+*Section 815. Agency heads; powers and duties concerning personnel management.* ::
 
 
 a. Subject to the civil service law and applicable provisions of this charter, heads of city agencies shall have the following powers and duties essential for the management of their agencies in addition to powers and duties vested in them pursuant to this charter or other applicable law:
@@ -239,10 +239,10 @@ k. The head of each city agency shall require each employment agency, or authori
 
 
 Section 815.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 815. 1. Anti-sexual harassment training.*
+*Section 815. 1. Anti-sexual harassment training.* ::
 
 
 a. Definitions. For purposes of this section, the following terms have the following meanings:
@@ -281,10 +281,10 @@ d. Compliance.
 
 
 Section 816.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 816. Management service.*
+*Section 816. Management service.* ::
 
 
 a. The commissioner, in consultation with the heads of agencies, shall develop and submit to the mayor a city-wide plan and schedule for the development of qualified and competent technical, professional, management, administrative, and supervisory personnel in the civil service to meet the managerial needs of city government. The mayor shall approve, disapprove or modify the plan within one year after the effective date of this chapter.
@@ -319,10 +319,10 @@ c. The commissioner shall conduct city-wide programs and functions related to th
 
 
 Section 817.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 817. Appointments and promotions.*
+*Section 817. Appointments and promotions.* ::
 
 
 a. All appointments, promotions and changes in status of persons in the public service of the city shall be made in the manner prescribed by the constitution of the state and in accordance with the provisions of the civil service law and other provisions of law not inconsistent therewith nor with this charter.
@@ -333,10 +333,10 @@ b. Whenever qualifications for the appointment of persons to public office are p
 
 
 Section 818.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 818. Power of investigation.*
+*Section 818. Power of investigation.* ::
 
 
 The commissioner shall have the power to make investigations concerning all matters touching the enforcement and effect of the provisions of the civil service law insofar as it applies to the city and the rules and regulations prescribed thereunder, or concerning the actions of any examiner or subordinate of the department, or of any officer or employee of the city or of any county within the city, in respect to the execution of the civil service law; and in the course of such investigations the commissioner shall have the power to administer oaths, to compel the attendance of witnesses, and to examine such persons as deemed necessary.
@@ -345,10 +345,10 @@ The commissioner shall have the power to make investigations concerning all matt
 
 
 Section 819.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 819. No compensation to unauthorized employee.*
+*Section 819. No compensation to unauthorized employee.* ::
 
 
 No officer of the city whose duty is to sign or countersign warrants shall draw, sign or issue, or authorize the drawing, signing or issuing of any warrant on the commissioner of finance or other disbursing officer of the city for payment of salary to any person in its service whose appointment or retention has not been in accordance with the civil service law and the valid rules in force thereunder.
@@ -357,10 +357,10 @@ No officer of the city whose duty is to sign or countersign warrants shall draw,
 
 
 Section 820.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 820. Examination for licenses.*
+*Section 820. Examination for licenses.* ::
 
 
 The commissioner shall, unless otherwise provided by law, have power, upon request of any person charged with the duty of issuing licenses or permits, to conduct, under rules and regulations to be established by the commissioner, examinations and tests to determine the qualifications of persons applying for such licenses or permits. The commissioner shall certify to the person having power to issue the license or permit the result of any such examination or test.
@@ -369,10 +369,10 @@ The commissioner shall, unless otherwise provided by law, have power, upon reque
 
 
 Section 821.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 821. Officers or employees designated to serve in exempt civil service positions.*
+*Section 821. Officers or employees designated to serve in exempt civil service positions.* ::
 
 
 a. Notwithstanding any provision in this charter to the contrary, the mayor or head of an agency may designate any officer or employee occupying a position in the competitive class of the civil service to serve in a position in the exempt class, and in such case, the officer or employee so designated shall thereupon enter upon and exercise all the powers and duties and receive the salary of such exempt position, and shall retain all the rights, privileges and status of such officer or employee's position in the competitive class.
@@ -389,10 +389,10 @@ e. Upon the termination of the officer or employee's services in such exempt pos
 
 
 Section 822.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 822. Public buildings and facilities.*
+*Section 822. Public buildings and facilities.* ::
 
 
 With respect to public buildings and facilities, the commissioner shall have the following powers and duties:
@@ -407,10 +407,10 @@ With respect to public buildings and facilities, the commissioner shall have the
 
 
 Section 823.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 823. Procurement of goods, other personal property and services.*
+*Section 823. Procurement of goods, other personal property and services.* ::
 
 
 With respect to the procurement and disposal of goods and other personal property and the procurement of services other than personal services, the commissioner shall have the following powers and duties:
@@ -431,10 +431,10 @@ With respect to the procurement and disposal of goods and other personal propert
 
 
 Section 824.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 824. Real property.*
+*Section 824. Real property.* ::
 
 
 With respect to real property, the commissioner shall have the following powers and duties:
@@ -455,10 +455,10 @@ With respect to real property, the commissioner shall have the following powers 
 
 
 Section 825.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 825. Communications and energy.*
+*Section 825. Communications and energy.* ::
 
 
 With respect to communications and energy, the commissioner shall have the following powers and duties:
@@ -471,10 +471,10 @@ With respect to communications and energy, the commissioner shall have the follo
 
 
 Section 826.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 826. Data processing services.*
+*Section 826. Data processing services.* ::
 
 
 The commissioner shall provide data processing support, programming, and computer systems analysis services for city agencies when necessary or desirable, in accordance with executive orders promulgated by the mayor.
@@ -483,10 +483,10 @@ The commissioner shall provide data processing support, programming, and compute
 
 
 Section 827.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 827. Automotive services.*
+*Section 827. Automotive services.* ::
 
 
 The commissioner shall acquire by purchase, lease or otherwise, vehicles and other automotive equipment for the use of city agencies; manage, maintain, store and operate a fleet of motor vehicles; assign fleets to agencies in accordance with the direction of the mayor and ensure the effective operation of all shops, yards, garages, fuel depots and other facilities required for the maintenance of fleets operated by agencies; and ensure the maintenance of records for all city-owned vehicles.
@@ -495,10 +495,10 @@ The commissioner shall acquire by purchase, lease or otherwise, vehicles and oth
 
 
 Section 828.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 828. Right of entry.*
+*Section 828. Right of entry.* ::
 
 
 The commissioner, officers and employees of the department may, in accordance with law, enter upon public or private property for the purpose of making surveys, borings or other investigations necessary for the exercise of the powers or the performance of the duties of the commissioner and the department. Refusal to permit such entry shall be a misdemeanor punishable by not more than thirty days' imprisonment or by a fine of not more than fifty dollars, or both.
@@ -507,10 +507,10 @@ The commissioner, officers and employees of the department may, in accordance wi
 
 
 Section 829.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 829. Performing administrative functions for the office of administrative trials and hearings and the board of standards and appeals.*
+*Section 829. Performing administrative functions for the office of administrative trials and hearings and the board of standards and appeals.* ::
 
 
 The mayor may designate the department to perform specified administrative functions for the office of administrative trials and hearings and the board of standards and appeal when the mayor determines that such a designation will reduce costs or result in more effective performance of such functions. Such functions may include personnel services, labor relations, facilities management, purchasing, management information systems, budget administration, and internal auditing.

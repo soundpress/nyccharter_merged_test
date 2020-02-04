@@ -1,10 +1,10 @@
 Chapter 26: Department of Buildings
-============================================================================================================================================================================================================
+===================================================
 Section 641.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 641. Department; commissioner.*
+*Section 641. Department; commissioner.* ::
 
 
 There shall be a department of buildings, the head of which shall be the commissioner of buildings. The commissioner or the first deputy commissioner shall be a registered architect or a licensed professional engineer in good standing under the education law.
@@ -13,10 +13,10 @@ There shall be a department of buildings, the head of which shall be the commiss
 
 
 Section 642.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 642. Deputies.*
+*Section 642. Deputies.* ::
 
 
 The commissioner shall appoint two deputies, one of whom shall be the first deputy commissioner. The commissioner may, by instrument in writing filed with the department, designate a deputy commissioner who is a registered architect or a licensed professional engineer to possess any of the powers granted to the commissioner by subdivision (b) or (d) of section six hundred forty-five of this chapter. The deputy commissioner so designated shall possess such powers in addition to any other powers that may be assigned to him or her by the commissioner pursuant to any other provision of law.
@@ -25,10 +25,10 @@ The commissioner shall appoint two deputies, one of whom shall be the first depu
 
 
 Section 643.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 643. Department; functions.*
+*Section 643. Department; functions.* ::
 
 
 The department shall enforce, with respect to buildings and structures, such provisions of the building code, zoning resolution, multiple dwelling law, labor law and other laws, rules and regulations as may govern the construction, alteration, maintenance, use, occupancy, safety, sanitary conditions, mechanical equipment and inspection of buildings or structures in the city, and shall perform the functions of the city of New York relating to
@@ -51,10 +51,10 @@ The department shall enforce, with respect to buildings and structures, such pro
 
 
 Section 644.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 644. Department; powers.*
+*Section 644. Department; powers.* ::
 
 
 (a) There shall be a main office of the department and in each borough at least one branch office and a borough superintendent. Persons appointed as inspectors to perform functions of the department shall have such qualifications as shall be prescribed by the commissioner of citywide administrative services after consultation with the commissioner; provided however that, for inspections related to work on medical and natural gas piping systems, backflow prevention, electrical work and other work as the department may include through rule, such qualifications shall include:
@@ -121,10 +121,10 @@ Further provided however that, for all other inspections, such qualifications sh
 
 
 Section 646.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 646. Conduct of investigations.*
+*Section 646. Conduct of investigations.* ::
 
 
 The commissioner shall have the power and duty to conduct such inquiries as may assist him in the performance of the functions of the department where the public safety is involved and for such purpose he shall have subpoena power to compel the attendance of witnesses, to administer oaths, examine witnesses and to compel the production of books, papers and documents.
@@ -133,10 +133,10 @@ The commissioner shall have the power and duty to conduct such inquiries as may 
 
 
 Section 647.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 647. Definition of "class".*
+*Section 647. Definition of "class".* ::
 
 
 The term "class" as used in this chapter refers to the classification of buildings in the building code or other applicable laws and shall be deemed to refer also to the terms "class" or "kinds" as used in the multiple dwelling law where such law is applicable.
@@ -145,10 +145,10 @@ The term "class" as used in this chapter refers to the classification of buildin
 
 
 Section 648.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 648. Appeals.*
+*Section 648. Appeals.* ::
 
 
 Appeals may be taken from decisions of the commissioner and of a deputy commissioner or the borough superintendent acting under a written delegation of power filed in accordance with the provisions of section six hundred forty-two or subdivision (c) of section six hundred forty-five of this chapter, to the board of standards and appeals as provided by law.
@@ -157,10 +157,10 @@ Appeals may be taken from decisions of the commissioner and of a deputy commissi
 
 
 Section 649.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 649. Inspection.*
+*Section 649. Inspection.* ::
 
 
 The commissioner, any deputy commissioner, borough superintendents, inspectors, or any officer of the department authorized in writing by the commissioner or a borough superintendent to act in his borough may, in accordance with law, for the purpose of performing their respective official duties, enter and inspect any building, structure, enclosure, premises or any part thereof or anything therein or attached thereto; and any refusal to permit such entry or inspection shall be a misdemeanor triable in criminal court and punishable upon conviction by not more than thirty days imprisonment or by a fine of not more than one hundred dollars, or both.
@@ -169,10 +169,10 @@ The commissioner, any deputy commissioner, borough superintendents, inspectors, 
 
 
 Section 650.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 650. [Office of the tenant advocate.]*
+*Section 650. [Office of the tenant advocate.]* ::
 
 
 a. Establishment of the office of the tenant advocate. There shall be in the department an office of the tenant advocate, whose duties shall include, but not be limited to:
@@ -203,10 +203,10 @@ c.  Posting of office information. The department shall post on its website the 
 
 
 Section 651.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 651. Office of building energy and emissions performance.*
+*Section 651. Office of building energy and emissions performance.* ::
 
 
 a. There shall be in the department an office of building energy and emissions performance. The office shall be headed by a director, who is a registered design professional, who shall be appointed by and shall report to the commissioner. The duties of the office shall include, but not be limited to:

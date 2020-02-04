@@ -1,10 +1,10 @@
 Chapter 23: Office of Animal Welfare
-============================================================================================================================================================================================================
+===================================================
 Section 581.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 581. Office of animal welfare.*
+*Section 581. Office of animal welfare.* ::
 
 
 The mayor shall establish an office of animal welfare. Such office may, but need not, be established in the executive office of the mayor and may be established as a separate office, within any other office of the mayor or within any department, the head of which is appointed by the mayor. Such office shall be headed by a director who shall be appointed by the mayor or the head of such department. For the purposes of this section, “director” means the director of the office of animal welfare. The director may appoint deputies and staff within available appropriations.
@@ -15,10 +15,10 @@ The mayor shall establish an office of animal welfare. Such office may, but need
 
 
 Section 582.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 582. Powers and duties.*
+*Section 582. Powers and duties.* ::
 
 
 a. The director shall have the power to perform the following functions relating to animal welfare:

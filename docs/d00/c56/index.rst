@@ -1,10 +1,10 @@
 Chapter 50: Term Limits
-============================================================================================================================================================================================================
+===================================================
 Section 1137.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1137. Public policy.*
+*Section 1137. Public policy.* ::
 
 
 It is hereby declared to be the public policy of the city of New York to limit the time elected officials can serve as mayor, public advocate, comptroller, borough president and council member so that there is more opportunity for citizen participation in the legislative and executive branches and the airing of a greater diversity of ideas. It is further declared that this policy is most appropriately served by limiting the time such officials can serve to not more than two consecutive full terms. It is further declared that public confidence in government should be protected by restricting amendments that would affect the application of term limits to any elected official then in office.
@@ -13,10 +13,10 @@ It is hereby declared to be the public policy of the city of New York to limit t
 
 
 Section 1138.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1138. Term limits.*
+*Section 1138. Term limits.* ::
 
 
 a. Notwithstanding any provision to the contrary contained in this charter, no person shall be eligible to be elected to or serve in the office of mayor, public advocate, comptroller, borough president or council member if that person had previously held such office for two or more consecutive full terms, unless one full term or more has elapsed since that person last held such office.

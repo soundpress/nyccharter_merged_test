@@ -1,8 +1,8 @@
 Title 19: Transportation
-======================================================================================================
+===================================================
 
 Chapter 1: Streets and Sidewalks
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
@@ -11,7 +11,7 @@ Chapter 1: Streets and Sidewalks
 
 
 
-*§ 19-101 Definitions.*
+*§ 19-101 Definitions.* ::
 
 
 Whenever used in this title:
@@ -37,7 +37,7 @@ h. "Reclaimed asphalt pavement" shall mean asphalt pavement that has been proces
 
 
 
-*§ 19-101.1 Department of design and construction.*
+*§ 19-101.1 Department of design and construction.* ::
 
 
 Any power granted by this chapter to the commissioner of transportation or the department of transportation related to construction or other work shall be performed by the department of design and construction in accordance with chapter fifty-five of the charter unless otherwise directed by the mayor pursuant to such chapter. Where the commissioner of transportation or the department of transportation is authorized by this chapter to promulgate specifications relating to construction or other work, such promulgation shall be done in consultation with the department of design and construction.
@@ -47,7 +47,7 @@ Any power granted by this chapter to the commissioner of transportation or the d
 
 
 
-*§ 19-101.2 Review of major transportation projects.*
+*§ 19-101.2 Review of major transportation projects.* ::
 
 
 a. For the purposes of this section, the following terms shall be defined as follows:
@@ -79,7 +79,7 @@ j. Prior to the implementation of a major transportation project, the department
 
 
 
-*§ 19-101.3 Reporting requirement following the completion of major transportation projects.*
+*§ 19-101.3 Reporting requirement following the completion of major transportation projects.* ::
 
 
 a. For purposes of this section, "affected council member(s) and community board(s)" and "major transportation project" shall have the same meanings as in section 19-101.2 of this chapter.
@@ -95,7 +95,7 @@ d. The department shall consult with the fire department and the police departme
 
 
 
-*§ 19-101.4 Online accessible list of pedestrian safety projects.*
+*§ 19-101.4 Online accessible list of pedestrian safety projects.* ::
 
 
 a. For the purposes of this section, the following terms shall be defined as follows:
@@ -157,7 +157,7 @@ b. The department shall post on its website, in a format accessible to people wi
 
 
 
-*§ 19-101.5 Electric vehicle advisory committee.*
+*§ 19-101.5 Electric vehicle advisory committee.* ::
 
 
 a. There shall be an advisory committee on electric vehicles in New York city. Committee members shall include the commissioner of the department, who shall serve ex officio and appoint a chairperson, the commissioner of the department of environmental protection, the commissioner of the department of buildings, and the director of the office of long term planning and sustainability, or the designee of each such commissioner or director, at least one representative from the electric vehicle industry appointed by the commissioner of the department, the speaker of the city council or his or her designee, the five borough presidents or their designees and transportation and environmental advocates appointed by the commissioner of the department. The appointed members of the advisory committee shall serve without compensation. The advisory committee shall meet at least twice per year and shall make recommendations on or before February 1 annually, commencing in 2015, on ways to promote the usage of electric vehicles among the general public, which shall include consideration of methods to enhance the availability of electric vehicle charging methods and of parking, regulatory, technical and fiscal issues surrounding the increased use of electric vehicles in New York City.
@@ -171,7 +171,7 @@ c. Appointment of committee members shall occur within one hundred eighty days o
 
 
 
-*§ 19-101.6 Notification of resurfacing work.*
+*§ 19-101.6 Notification of resurfacing work.* ::
 
 
 a. No later than two days prior to resurfacing any street, the department shall, where practicable, notify the police department and the fire department of such resurfacing work. Such notification shall include a description and location of such resurfacing work.
@@ -185,7 +185,7 @@ b. Nothing in this section shall be construed to require the department to provi
 
 
 
-*§ 19-102 Unlawful use or opening of street.*
+*§ 19-102 Unlawful use or opening of street.* ::
 
 
 Except as otherwise provided by law, no person shall remove, open or otherwise distrub the pavement of, or excavate in, a public street, or use any part of a public street so as to obstruct travel therein (i) without a permit from the commissioner, and (ii) unless such removal, opening or other distrubance of the pavement or such excavation or use is carried out in accordance with the provisions of this subchapter and of section 24-521 of the code, the rules of the department in relation thereto and the terms and conditions of such permit.
@@ -195,7 +195,7 @@ Except as otherwise provided by law, no person shall remove, open or otherwise d
 
 
 
-*§ 19-103 Permits.*
+*§ 19-103 Permits.* ::
 
 
 a. In addition to any of the requirements specified in this subchapter and except as hereinafter specifically provided, all permits issued by the commissioner pursuant to this subchapter shall be subject to the provisions of this section and any rules promulgated pursuant thereto. All applications for permits shall be submitted to the commissioner in such form and shall contain such information as the commissioner shall prescribe.
@@ -231,7 +231,7 @@ i. As used in this section, the term "permit" includes a license.
 
 
 
-*§ 19-104 Revocable consents.*
+*§ 19-104 Revocable consents.* ::
 
 
 The issuance of revocable consents by the commissioner pursuant to this subchapter shall be subject to the provisions of chapter fourteen of the charter and the rules adopted by the commissioner pursuant thereto.
@@ -241,7 +241,7 @@ The issuance of revocable consents by the commissioner pursuant to this subchapt
 
 
 
-*§ 19-105 Rules.*
+*§ 19-105 Rules.* ::
 
 
 The commissioner may promulgate rules to carry out the provisions of this subchapter and the policies and procedures of the department in connection therewith.
@@ -251,7 +251,7 @@ The commissioner may promulgate rules to carry out the provisions of this subcha
 
 
 
-*§ 19-106 Right of entry.*
+*§ 19-106 Right of entry.* ::
 
 
 The commissioner may enter in the day time upon any lands, tenements, hereditaments and waters which he or she shall deem necessary to be surveyed, used or converted, for the purpose of laying out and surveying streets, bridges, tunnels and approaches to bridges and tunnels.
@@ -261,7 +261,7 @@ The commissioner may enter in the day time upon any lands, tenements, hereditame
 
 
 
-*§ 19-107 Temporary closing of streets.*
+*§ 19-107 Temporary closing of streets.* ::
 
 
 a. (i)    Except as otherwise provided by law, it shall be unlawful for any person to close any street, or a portion thereof, within the jurisdiction of the commissioner, to pedestrian or vehicular traffic without a permit from the commissioner.
@@ -277,7 +277,7 @@ c. For purposes of this section, a "street closure" shall not include a street c
 
 
 
-*§ 19-108 Display of permit.*
+*§ 19-108 Display of permit.* ::
 
 
 A copy of any permit issued pursuant to this subchapter shall be kept on the site of the opening or use or at the designated field headquarters of the work with respect to which the permit was issued and shall be presented upon demand of a police officer or any authorized officer or employee of the department or of any other city agency.
@@ -287,7 +287,7 @@ A copy of any permit issued pursuant to this subchapter shall be kept on the sit
 
 
 
-*§ 19-109 Protection at work site.*
+*§ 19-109 Protection at work site.* ::
 
 
 a. Protective measures. Any person who removes, opens or otherwise disturbs the pavement of or excavates in a public street or uses any part of a public street so as to obstruct travel therein shall provide barriers, shoring, lighting, warning signs or other protective measures in accordance with the rules of the department, so as to prevent danger to persons and property, and such barriers, shoring, lighting warning signs or other protective measures shall be maintained in accordance with such rules until the work shall be completed, or the danger removed.
@@ -301,7 +301,7 @@ c. Disturbance, prohibited. It shall be unlawful to throw down, displace or remo
 
 
 
-*§ 19-110 Liability for damage.*
+*§ 19-110 Liability for damage.* ::
 
 
 In all cases where any person shall engage in any activity for which a permit is required pursuant to this subchapter, such person shall be liable for any damage which may be occasioned to persons, animals or property by reason of negligence in any manner connected with the work.
@@ -311,7 +311,7 @@ In all cases where any person shall engage in any activity for which a permit is
 
 
 
-*§ 19-111 Curbs.*
+*§ 19-111 Curbs.* ::
 
 
 All curbs for the support of sidewalks hereafter to be laid shall be of the material or materials, dimensions and construction required in department specifications for such work, which shall be prescribed by the commissioner and kept on file in his or her office.
@@ -321,7 +321,7 @@ All curbs for the support of sidewalks hereafter to be laid shall be of the mate
 
 
 
-*§ 19-111 Gutter stones. [Repealed]*
+*§ 19-111 Gutter stones. [Repealed]* ::
 
 
 In the construction and installation of all new and reconstructed curbs at corner located street intersections and pedestrian crosswalks not located at street intersections, provision shall be made for the installation of the following: two ramps at corners located at street intersections and one ramp at pedestrian crosswalks not located at street intersections. Such ramps shall be no less than four feet wide and shall blend to a common level with the roadway. If a common level is unobtainable, then the lip of such ramps shall not exceed a maximum of five-eights of an inch and shall have a rounded edge. The slope of such ramp shall not exceed eight per cent. This section shall apply to all construction of new curbs and to all replacement of existing curbs. The commissioner shall have discretion to waive one of the two mandatory ramps at corners located at street intersections where any of the following obstacles exists preventing construction of such ramp within an intersection: fire hydrants, light poles, traffic signals, fire alarms, or free-standing police alarms, underground vaults, tunnels, utility maintenance holes (manholes), chambers or where the gradient of the street on which the ramp is to be located or an intersecting street exceeds a gradient of 1:8. The commissioner may waive the construction of both such ramps where the existence of underground vaults, tunnels, utility maintenance holes (manholes) and chambers would either prevent the safe construction of such ramps or render impossible the construction of such ramps to proper specifications without removal of said underground installations. A certification to such effect shall be made part of the engineering design documents for such construction, and a copy thereof shall be filed with the city clerk. Curbs for non-pedestrian routes, such as, but not limited to, service paths for highways and pedestrian restricted traffic islands shall not be subject to the provisions of this section.
@@ -331,7 +331,7 @@ In the construction and installation of all new and reconstructed curbs at corne
 
 
 
-*§ 19-113* Construction generally.*
+*§ 19-113* Construction generally.* ::
 
 
 Streets of twenty-two feet in width and upward shall have sidewalks on each side thereof. The materials and construction of streets, including the width of the sidewalks thereon, shall fully conform to department specifications for such work, all of which shall be prescribed by the commissioner and kept on file in his or her office.
@@ -341,7 +341,7 @@ Streets of twenty-two feet in width and upward shall have sidewalks on each side
 
 
 
-*§ 19-113** Construction generally.*
+*§ 19-113** Construction generally.* ::
 
 
 a. Streets of twenty-two feet in width and upward shall have sidewalks on each side thereof.
@@ -355,7 +355,7 @@ c. Department specifications for streets shall include a requirement that asphal
 
 
 
-*§ 19-114 Excavations or embankments near landmarks.*
+*§ 19-114 Excavations or embankments near landmarks.* ::
 
 
 The commissioner shall cause a covenant to be incorporated in all contracts hereafter made by him or her for constructing, regulating or repairing any street, requiring the contractor to obtain the permit required pursuant to section 3-508 of the code and to take such other precautions for the care and preservation of monuments, bolts and other landmarks as the commissioner may direct.
@@ -365,7 +365,7 @@ The commissioner shall cause a covenant to be incorporated in all contracts here
 
 
 
-*§ 19-115 Paving, generally.*
+*§ 19-115 Paving, generally.* ::
 
 
 All streets shall be paved and arched in full accordance with department specifications for such work, which shall be prescribed by the commissioner and kept on file in his or her office.
@@ -375,7 +375,7 @@ All streets shall be paved and arched in full accordance with department specifi
 
 
 
-*§ 19-116 Paving by abutting owners.*
+*§ 19-116 Paving by abutting owners.* ::
 
 
 The commissioner may issue a permit to allow any person or persons to pave the street opposite to his, her or their property, where the same shall extend from the intersection of one cross street to the intersection of another. Such work shall be done in conformity with the rules and specifications of the commissioner and subject to such conditions as he or she may impose.
@@ -385,7 +385,7 @@ The commissioner may issue a permit to allow any person or persons to pave the s
 
 
 
-*§ 19-117 Licensing of vaults.*
+*§ 19-117 Licensing of vaults.* ::
 
 
 a. Limitation. It shall be unlawful for any person to erect or build, or cause or permit any vault to be made without a license issued by the commissioner pursuant to this section or a revocable consent issued pursuant to chapter fourteen of the charter and the rules adopted by the commissioner pursuant thereto. All vaults shall be constructed in accordance with the provisions of the building code of the city of New York. A license issued pursuant to this section shall not authorize the construction of a vault which extends further than the line of the sidewalk or curbstone of any street.
@@ -409,7 +409,7 @@ h. Exemption. Openings over which substantial and securely fixed gratings of met
 
 
 
-*§ 19-118 Construction.*
+*§ 19-118 Construction.* ::
 
 
 All vaults shall be constructed of materials conforming to the requirements of the building code of the city of New York, and so that the outward side of the grating or opening into the street shall be either within twelve inches of the outside of the curbstone of the sidewalk, or within twelve inches of the coping of the area in front of the house to which such vault shall belong.
@@ -419,7 +419,7 @@ All vaults shall be constructed of materials conforming to the requirements of t
 
 
 
-*§ 19-119 Vault openings; protection of.*
+*§ 19-119 Vault openings; protection of.* ::
 
 
 It shall be unlawful for any person to remove or insecurely fix, or cause, procure, suffer or permit to be removed or to be insecurely fixed, so that the same can be moved in its bed, any grate or covering or aperture of any vault or chute under any street. However, the owner or occupant of the building with which such vault is connected, may remove such grate or covering for the proper purpose of such vault or chute. The opening or aperture shall be inclosed, while such grate or covering be removed, with a strong box or curb at least twelve inches high, firmly and securely made. Openings of more than two square feet of superficial area shall be inclosed at such times with strong railings not less than three feet high, to be approved by the commissioner. Such grates or coverings shall not in any case be removed until after sunrise of any day and shall be replaced before one-half hour after sunset.
@@ -429,7 +429,7 @@ It shall be unlawful for any person to remove or insecurely fix, or cause, procu
 
 
 
-*§ 19-120 Vault covers must afford secure footing.*
+*§ 19-120 Vault covers must afford secure footing.* ::
 
 
 The commissioner may order the removal and replacement of vault covers which are broken or present a slippery surface in the manner provided in the rules of the department.
@@ -439,7 +439,7 @@ The commissioner may order the removal and replacement of vault covers which are
 
 
 
-*§ 19-121 Construction and excavation sites; storage of materials and equipment on street.*
+*§ 19-121 Construction and excavation sites; storage of materials and equipment on street.* ::
 
 
 a. Permit. It shall be unlawful for any person to obstruct, or cause to be obstructed, any portion of a street with construction materials or equipment, unless authorized by a permit issued by the commissioner.
@@ -467,7 +467,7 @@ c. Removal of unauthorized obstructions. The commissioner may remove any constru
 
 
 
-*§ 19-122 Removal of debris.*
+*§ 19-122 Removal of debris.* ::
 
 
 Any person other than the commissioner of environmental protection or the commissioner of design and construction, who may hereafter pave or cause to be paved any street, shall remove the sand, dirt, rubbish or debris from such street and every part thereof, within seven days after the pavement shall have been completed. In addition to any penalties which may be imposed for violation of this section, either commissioner may cause such sand, dirt, rubbish or debris to be removed at the expense of the party neglecting or refusing so to do, who shall be liable for the amount expended by the city. This section shall be so construed as to apply to the removal of all sand, dirt, rubbish or debris collected in any part of any and all streets covered by any pavement so done or laid, or excavation that may have been made, or other work done in pursuance thereof.
@@ -477,7 +477,7 @@ Any person other than the commissioner of environmental protection or the commis
 
 
 
-*§ 19-123 Commercial refuse containers.*
+*§ 19-123 Commercial refuse containers.* ::
 
 
 It shall be unlawful for any person using a commercial refuse container or the owner or lessee thereof to place or to permit the placement of such container on any street unless the owner of such container has obtained a permit therefor from the commissioner and unless such container is in compliance with the provisions of this section and the rules of the department in relation thereto. Commercial refuse containers may be placed temporarily on the street for such purposes and in such manner as the commissioner shall prescribe. Such containers shall not be used for the deposit of putrescible waste. The name and address of the owner of the container and the permit number shall be posted on the container in the manner provided in the rules of the department. The container shall be painted with a phosphorescent substance, in a manner to be set forth in the rules of the department, so that the dimensions thereof shall be clearly discernible at night. The street under such container shall be shielded by wooden planking, skids or other protective covering approved by the commissioner. The provisions of this section which require the owner of a container to obtain a permit prior to the placement of such container on the street shall not apply to containers which are specifically authorized to be placed on the street under a permit issued pursuant to section 19-121 of this subchapter.
@@ -487,7 +487,7 @@ It shall be unlawful for any person using a commercial refuse container or the o
 
 
 
-*§ 19-124 Canopies.*
+*§ 19-124 Canopies.* ::
 
 
 a. Permit required. It shall be unlawful to erect or maintain a canopy over the sidewalk without a permit granted by the commissioner, and unless such canopy is erected and maintained in accordance with this section and the rules of the department. Such canopies may be erected and maintained: 1. In connection with the entrance to a building or place of business within a building by or with the consent of the owner of the building. 2. In connection with a sidewalk cafe licensed by the commissioner of consumer affairs. Such canopies shall be constructed of a noncombustible frame, covered with flameproof canvas or cloth, approved slow-burning plastic, sheet metal or other equivalent material, securely fastened to the face of the building and supported by posts in the ground or in the sidewalk, located between the building line and the curb line, and not less than eight feet above the sidewalk.
@@ -521,7 +521,7 @@ i. Removal of unauthorized canopies.
 
 
 
-*§ 19-125 Posts and poles.*
+*§ 19-125 Posts and poles.* ::
 
 
 a. General provisions. It shall be unlawful for any person to erect any post or pole in any street unless under a permit or revocable consent of the commissioner.
@@ -539,7 +539,7 @@ e. Notwithstanding any provision of law to the contrary, any business subject to
 
 
 
-*§ 19-126 Building, structure and crane moving.*
+*§ 19-126 Building, structure and crane moving.* ::
 
 
 a. It shall be unlawful for any person to use, move, or remove, or to cause or permit to be used, moved or removed, or to aid or assist in using, moving or removing, any building, structure, or crane, used in connection with the construction, repair or demolition of buildings or other structures within the building line into, along or across any street, without a permit from the commissioner.
@@ -551,7 +551,7 @@ b. The applicant for such a permit, where there are car tracks or overhead wire 
 
 
 
-*§ 19-127 Use of hand trucks on the streets.*
+*§ 19-127 Use of hand trucks on the streets.* ::
 
 
 It shall be unlawful for any person to use hand trucks for commercial purposes upon any street unless each hand truck shall have attached thereon a sign or plate displaying the name and address of the owner of the hand truck, in letters not less than one inch in size.
@@ -561,7 +561,7 @@ It shall be unlawful for any person to use hand trucks for commercial purposes u
 
 
 
-*§ 19-128 Public telephone booths. [Repealed]*
+*§ 19-128 Public telephone booths. [Repealed]* ::
 
 
 a. For the purposes of this section, the following terms shall be defined as follows:
@@ -591,7 +591,7 @@ f. This section shall not apply with regard to traffic control signals at a loca
 
 
 
-*§ 19-128.1 Newsracks.*
+*§ 19-128.1 Newsracks.* ::
 
 
 a. Definitions. For purposes of this section, the following terms shall have the following meanings:
@@ -690,7 +690,7 @@ f. Enforcement.
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Number of newsracks owned or controlled by such person
       - A violation of paragraph one of subdivision e, paragraph two of subdivision c or subdivision d of this section
@@ -706,7 +706,6 @@ f. Enforcement.
       - One thousand five hundred to three thousand dollars
     * - One thousand or more newsracks
       - Two thousand to four thousand dollars
-
 ~
 
 
@@ -726,7 +725,7 @@ g. Severability. If any subdivision, paragraph, subparagraph, sentence or clause
 
 
 
-*§ 19-129 Board or plank walks.*
+*§ 19-129 Board or plank walks.* ::
 
 
 It shall be unlawful for any person to construct or lay down in any street, a board or plank walk, except sidewalk bridges as defined in section 27-1021 of the code, without a permit from the commissioner.
@@ -736,7 +735,7 @@ It shall be unlawful for any person to construct or lay down in any street, a bo
 
 
 
-*§ 19-130 Balustrades.*
+*§ 19-130 Balustrades.* ::
 
 
 It shall be unlawful for any person to place or to expose to show or for sale, upon any balustrade that now is or hereafter may be erected upon any street, any goods, wares, merchandise or manufacture of any description.
@@ -746,7 +745,7 @@ It shall be unlawful for any person to place or to expose to show or for sale, u
 
 
 
-*§ 19-131 Restrictions on Clinton avenue.*
+*§ 19-131 Restrictions on Clinton avenue.* ::
 
 
 a. The two strips of land, each twenty feet in width, which were added to each side of Clinton avenue in the borough of Brooklyn between Gates avenue and Willoughby avenue pursuant to chapter two hundred fifty-seven of the laws of eighteen hundred ninety-nine shall not be added to the traveled portion of Clinton avenue, but shall be reserved and preserved as ornamental courtyards for the benefit and improvement of such avenue.
@@ -774,7 +773,7 @@ e. This section shall not affect the title, or the right to possession of the se
 
 
 
-*§ 19-132 Restrictions on First place, Second place, Third place and Fourth place in the borough of Brooklyn.*
+*§ 19-132 Restrictions on First place, Second place, Third place and Fourth place in the borough of Brooklyn.* ::
 
 
 The buildings to be erected upon the lots fronting upon first place, second place, third place and fourth place in the borough of Brooklyn, shall be built on a line thirty-three feet five inches and a quarter of an inch back from the sides or lines of such places as they are now established by the map of the city, and the intervening space of land shall be used for courtyards only.
@@ -784,7 +783,7 @@ The buildings to be erected upon the lots fronting upon first place, second plac
 
 
 
-*§ 19-133 Removal of unauthorized projections and encroachments.*
+*§ 19-133 Removal of unauthorized projections and encroachments.* ::
 
 
 a. The commissioner may serve an order upon the owner of any premises requiring such owner to remove or alter any unauthorized projection or encroachment, on or in front of his premises, within a period to be specified in such order. Such order shall be served personally, or by leaving it at the house or place of business of the owner, occupant or person having charge of the house or lot in front of which the projection or encroachment may be, or by posting such order thereon.
@@ -800,7 +799,7 @@ c. 1. In addition to any otheer remedies or penalties, whenever such removal, al
 
 
 
-*§ 19-133.1 Unlawful sidewalk ATMs.*
+*§ 19-133.1 Unlawful sidewalk ATMs.* ::
 
 
 a. For purposes of this section, "Automated Teller Machine Booth" ("ATM booth") shall mean any device linked to the accounts and records of a banking institution that enables consumers to carry out banking transactions, including, but not limited to, account transfers, deposits, cash withdrawals, balance inquiries, and loan payments.
@@ -818,7 +817,7 @@ e. In addition to any other fines, penalties, sanctions or remedies provided for
 
 
 
-*§ 19-134 Certain extensions and projections not removable.*
+*§ 19-134 Certain extensions and projections not removable.* ::
 
 
 a. If the front or other exterior wall of any building standing on the twenty-fifth day of May, eighteen hundred ninety-nine in the county of New York as then constituted, shall extend ten inches or less upon any street, such wall shall be removable, only if an action or proceeding for the removal of such wall was instituted by or in behalf of the city within the period of one year from such date, and notice of pendency of such action or proceeding was duly filed in the office of the clerk of the county of New York, and duly indexed against the owner and the premises. If a structure, or part of a building standing on the thirteenth day of May, eighteen hundred ninety-six, in such county, known as a baywindow or oriel window, shall extend twelve inches or less upon any street, such structure shall be removable only if an action or proceeding for its removal was instituted by or in behalf of the city within one year from such date, and notice of pendency of such action or proceeding was duly filed in the office of the clerk of the county of New York, and duly indexed against the owner and the premises.
@@ -830,7 +829,7 @@ b. If the front or other exterior wall of any building standing on the seventeen
 
 
 
-*§ 19-135 Projections prohibited.*
+*§ 19-135 Projections prohibited.* ::
 
 
 It shall be unlawful to build, erect or make areas, steps or other projections (except those indicated in subdivisions a, b, c, d and f of section 27-313 of the code) beyond the building line, upon the following streets:
@@ -844,7 +843,7 @@ It shall be unlawful to build, erect or make areas, steps or other projections (
 
 
 
-*§ 19-136 Obstructions.*
+*§ 19-136 Obstructions.* ::
 
 
 a. It shall be unlawful for any person to hang or place any goods, wares or merchandise, or suffer, maintain or permit the same to be hung or placed, at a greater distance than three feet in front of his or her house, store or other building and a greater height than five feet above the level of the sidewalk, or to lease or permit any other person to use any space on the sidewalk located adjacent to such house, store or other building for the purpose of selling or displaying any merchandise.
@@ -986,7 +985,7 @@ j. Fixed stand coin operated rides.
 
 
 
-*§ 19-137 Land contour work.*
+*§ 19-137 Land contour work.* ::
 
 
 a. As used in this section.
@@ -1026,7 +1025,7 @@ e. 1. Whenever the department shall determine that a condition has been created,
 
 
 
-*§ 19-138 Injury to or defacement of streets.*
+*§ 19-138 Injury to or defacement of streets.* ::
 
 
 a. Breaking or injuring. It shall be unlawful for any person to break or otherwise injure any street. There shall be no penalty for a violation of this section in case of an accidental breaking of or injury to a street which is repaired to the satisfaction of the commissioner, within forty-eight hours after such break or injury.
@@ -1038,7 +1037,7 @@ b. Defacing. Except as otherwise provided by law, it shall be unlawful for any p
 
 
 
-*§ 19-139 Excavations for private purposes.*
+*§ 19-139 Excavations for private purposes.* ::
 
 
 Notice to public service corporations. The person by whom or for whose benefit any excavation is to be made in any street shall give notice thereof in writing, to any corporation whose pipes, mains or conduits are laid in the street about to be disturbed by such excavation, at least forty-eight hours before commencing the same; and shall, at his or her expense, sustain, secure and protect such pipes, mains or conduits from injury, and replace and pack the earth wherever the same shall have been removed, loosened or disturbed, under or around them, so that they shall be well and substantially supported. If any such person shall fail to sustain, secure and protect such pipes, mains or conduits from injury, or to replace and pack the earth under or around them, as the provisions of this section require, then the same may be done by the corporation to whom the same may belong, and the cost thereof, and all damages sustained by such corporation thereby shall be paid by such person, and, in default thereof, such corporation may maintain an action against him therefor.
@@ -1048,7 +1047,7 @@ Notice to public service corporations. The person by whom or for whose benefit a
 
 
 
-*§ 19-140 Duties of police.*
+*§ 19-140 Duties of police.* ::
 
 
 All police officers shall be vigilant in the enforcement of the provisions of this subchapter and section 24-521 of the code and report, through proper channels, and violation thereof to the commissioner. Police officers, on observing or being informed of the opening of or excavating in any street, shall require the person making such opening or excavation to exhibit a permit therefor, and, if none has been given, or if the exhibition thereof be refused, the officer shall report the same to the commissioner.
@@ -1058,7 +1057,7 @@ All police officers shall be vigilant in the enforcement of the provisions of th
 
 
 
-*§ 19-141 Property owners may voluntarily lay sidewalks.*
+*§ 19-141 Property owners may voluntarily lay sidewalks.* ::
 
 
 Any owner of property, upon obtaining a permit from the commissioner, may lay a sidewalk in front of such owner's premises, of such material and in such a manner as may be prescribed by such commissioner. Heating pipes or electric cables for the purpose of melting snow and ice may be incorporated in the construction of sidewalks with the approval of the commissioner.
@@ -1068,7 +1067,7 @@ Any owner of property, upon obtaining a permit from the commissioner, may lay a 
 
 
 
-*§ 19-142 Workers on excavations.*
+*§ 19-142 Workers on excavations.* ::
 
 
 A person to whom a permit may be issued, to use or open a street, shall be required, before such permit may be issued, to agree that none but competent workers, skilled in the work required of them, shall be employed thereon, and that the prevailing scale of union wages shall be the prevailing wage for similar titles as established by the fiscal officer pursuant to section two hundred twenty of the labor law, paid to those so employed. No permit shall be issued until such agreement shall have been entered into with the department, and all such permits hereafter issued shall include therein a copy of this provision. When permits are issued to utility companies or their contractors, the power to enforce this provision shall be vested with the comptroller of the city of New York consistent with the provisions of section two hundred twenty of the labor law.
@@ -1078,7 +1077,7 @@ A person to whom a permit may be issued, to use or open a street, shall be requi
 
 
 
-*§ 19-143 Excavations for public works.*
+*§ 19-143 Excavations for public works.* ::
 
 
 a. Notice to public service corporations. Whenever any street shall be regulated or graded, in which the pipes, mains or conduits of public service corporations are laid, the contractor therefor shall give notice thereof in writing to such corporations, at least forty-eight hours before breaking ground therefor. Such provision shall be included in every contract for regulating or grading any street in which the pipes, mains or conduits of public service corporations shall be laid at the time of making such contract.
@@ -1090,7 +1089,7 @@ b. Public service corporations shall protect their property. Public service corp
 
 
 
-*§ 19-144 Issuance of permit to open street within five years after completion of city capital construction project requiring resurfacing or reconstruction of such street.*
+*§ 19-144 Issuance of permit to open street within five years after completion of city capital construction project requiring resurfacing or reconstruction of such street.* ::
 
 
 a. All persons having or proposing to install facilities in, on or over any street shall be responsible for reviewing the city's capital budget, capital plan and capital commitment plan. Such persons shall make provision to do any work, except emergency work, which requires the opening or use of any street prior to or during the construction of any capital project requiring resurfacing or reconstruction proposed in such budget or plan for such street.
@@ -1114,7 +1113,7 @@ c. Notwithstanding the provisions set forth in subdivisions a and b of this sect
 
 
 
-*§ 19-145 Pavements improperly relaid.*
+*§ 19-145 Pavements improperly relaid.* ::
 
 
 a. If any pavement which has been removed shall not be relaid to the satisfaction of the commissioner, he or she may cause an order to be served upon the person by whom such pavement was removed, or if such removal was for the purpose of making a connection between any house or lot, or for any sewer or pipes in the street, or for constructing vaults, or otherwise improving any house or lot, upon the owner or occupant of such house or lot, requiring such person, or the owner or occupant of such house or lot, to have such pavement properly relaid within five days after service of such order. Such order may be served upon the owner or occupant of a house or lot by leaving the same with any person of adult age upon the premises, or posting the same thereupon.
@@ -1130,7 +1129,7 @@ b. The cost of repaving such pavement shall be collected as follows:
 
 
 
-*§ 19-146 Prevention of disturbances of street surface.*
+*§ 19-146 Prevention of disturbances of street surface.* ::
 
 
 a. It shall be unlawful for any person, without being previously authorized by a permit of the commissioner:
@@ -1146,7 +1145,7 @@ b. If any person shall violate this section, the commissioner shall take immedia
 
 
 
-*§ 19-147 Replacement of pavement and maintenance of street hardware.*
+*§ 19-147 Replacement of pavement and maintenance of street hardware.* ::
 
 
 a. General provisions. Whenever any pavement, sidewalk, curb or gutter in any street shall be taken up, the person or persons by whom or for whose benefit the same is removed shall restore such pavement, sidewalk, curb or gutter to its proper condition to the satisfaction of the commissioner of transportation.
@@ -1168,7 +1167,7 @@ g. Reasonable notice of improper or inadequate restoration of pavement or mainte
 
 
 
-*§ 19-148 Safeguards against collision with posts, pillars and columns in streets.*
+*§ 19-148 Safeguards against collision with posts, pillars and columns in streets.* ::
 
 
 a. Every post, pillar or supporting column of a superstructure, including supporting columns of railroad structures, located at such points in the roadways of streets as to constitute a menace to vehicular traffic turning or going into the part of the street at or near the point of such location, shall be striped from its base to a point at least twelve feet high with reflectors or reflectorized lights, in such manner as shall be determined by the commissioner. At night, where directed by the commissioner, there shall be displayed a light of sufficient illuminating power to be visible at a distance of two hundred feet, on an arm or bracket extending from such post, pillar or supporting column, or suspended from the superstructure. The striping and lighting of such posts, pillars or supporting columns covered by this section shall be maintained to the satisfaction of the commissioner.
@@ -1180,7 +1179,7 @@ b. The commissioner shall have power to direct an order to the owner or operator
 
 
 
-*§ 19-149 Criminal penalties.*
+*§ 19-149 Criminal penalties.* ::
 
 
 a. Any person who violates any of the provisions of this subchapter or of section 24-521 of the code or any order issued by or rule promulgated by the commissioner pursuant thereto or the terms or conditions of any permit issued pursuant thereto or who causes, authorizes or permits such violation shall be guilty of a violation and upon conviction thereof shall be punishable by a fine of not more than five thousand dollars, or imprisonment for not more than fifteen days, or both such fine and imprisonment for each violation.
@@ -1194,7 +1193,7 @@ c. In the case of a continuing violation, each day's continuance shall be a sepa
 
 
 
-*§ 19-150 Civil penalties.*
+*§ 19-150 Civil penalties.* ::
 
 
 a. In addition to or as an alternative to the penalties set forth in section 19-149, any person who violates any of the provisions of this subchapter, or of section 24-521 of the code, or any order issued by or rule promulgated by the commissioner pursuant thereto or the terms or conditions of any permit issued pursuant thereto, or who causes, authorizes or permits such violation shall be liable for a civil penalty for each violation. In the case of a continuing violation, each day's continuance shall be a separate and distinct offense, except that in the case of a violation of section 19-133.1, failure to remove an ATM booth pursuant to an order issued in accordance with subdivision c of section 19-133.1 shall be subject to a civil penalty of not less than two thousand five hundred dollars nor greater than five thousand dollars for the first day of such violation and a civil penalty of five thousand dollars for every five days beyond the first day that such violation shall be in effect, and provided further that there shall be rebuttable presumption that the ATM booth has remained in place during each such five-day period.
@@ -1206,11 +1205,10 @@ b. 1.    Except as provided in subdivision c of this section, such civil pena
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section of the Administrative Code
       - Maximum Civil Penalty (dollars)
-
 ~
 
 
@@ -1219,7 +1217,7 @@ b. 1.    Except as provided in subdivision c of this section, such civil pena
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - 19-102
       - 10,000 
@@ -1279,7 +1277,6 @@ b. 1.    Except as provided in subdivision c of this section, such civil pena
       - 10,000 
     * - All other Provisions of this subchapter and rules or orders relating thereto
       - 5,000 
-
 ~
 
  
@@ -1299,7 +1296,7 @@ c. In addition to the civil penalty determined in accordance with subdivision b 
 
 
 
-*§ 19-151 Enforcement.*
+*§ 19-151 Enforcement.* ::
 
 
 a. In addition to police officers, authorized officers and employees of the department of transportation and of other city agencies who are designated by the commissioner shall have the power to enforce the provisions of this subchapter and the rules and orders of the commissioner in relation thereto and to issue summonses and appearance tickets returnable in the criminal court and notices of violation returnable before the environmental control board for violations thereof.
@@ -1319,7 +1316,7 @@ f. The provisions of sections 19-149 and 19-150 shall be construed to provide th
 
 
 
-*§ 19-152 Duties and obligations of property owner with respect to sidewalks and lots.*
+*§ 19-152 Duties and obligations of property owner with respect to sidewalks and lots.* ::
 
 
 a. The owner of any real property, at his or her own cost and expense, shall (1) install, construct, repave, reconstruct and repair the sidewalk flags in front of or abutting such property, including but not limited to the intersection quadrant for corner property, and (2) fence any vacant lot or lots, fill any sunken lot or lots and/or cut down any raised lots comprising part or all of such property whenever the commissioner of the department shall so order or direct. The commissioner shall so order or direct the owner to reinstall, construct, reconstruct, repave or repair a defective sidewalk flag in front of or abutting such property, including but not limited to the intersection quadrant for corner property or fence any vacant lot or lots, fill any sunken lot or lots and/or cut down any raised lots comprising part or all of such property after an inspection of such real property by a departmental inspector. The commissioner shall not direct the owner to reinstall, reconstruct, repave or repair a sidewalk flag which was damaged by the city, its agents or any contractor employed by the city during the course of a city capital construction project. The commissioner shall direct the owner to install, reinstall, construct, reconstruct, repave or repair only those sidewalk flags which contain a substantial defect. For the purposes of this subdivision, a substantial defect shall include any of the following:
@@ -1403,7 +1400,7 @@ s. The provisions of sections 19-149, 19-150 and 19-151 shall not apply to order
 
 
 
-*§ 19-152.2 Claim process.*
+*§ 19-152.2 Claim process.* ::
 
 
 a. A claim against the department arising from the city's performance pursuant to section 19-152 of the code shall be initiated within one year from the date of entry of a notice of account if the claimant shall have filed a notice of claim with the office of the comptroller of the city of New York within the time limit established by, and in compliance with all the requirements of section fifty-e of the general municipal law. The claim forms shall be provided to property owners upon request at no cost.
@@ -1415,7 +1412,7 @@ b. If the office of the comptroller determines that the final work was improper,
 
 
 
-*§ 19-152.3 Appeal process to small claims assessment review part.*
+*§ 19-152.3 Appeal process to small claims assessment review part.* ::
 
 
 a. If an owner of property claiming to be aggrieved does not secure satisfaction with the office of the comptroller, such owner of property may file a petition for appeal and commence a proceeding to review and/or correct the notice of account and/or the quality of the work performed with the small claims assessment review part in the supreme court. The petition for appeal forms shall be provided to property owners upon request, at no cost. A fee of twenty-five dollars shall be paid upon filing of each petition, which shall be the sole fee required for petitions pursuant to this section. Such petition shall contain an allegation that at least thirty days have elapsed since the notice of claim, based on section 7-201 of the code upon which such action is founded, was presented to the office of the comptroller for adjustment, and that the comptroller has neglected or refused to make an adjustment, or payment thereof for thirty days after such presentment.
@@ -1457,7 +1454,7 @@ q. If in the final order in any proceeding, it is determined that the final work
 
 
 
-*§ 19-153 Inspection, testing and repair of electrical-related infrastructure.*
+*§ 19-153 Inspection, testing and repair of electrical-related infrastructure.* ::
 
 
 a. The provisions of this section shall only apply to electrical-related infrastructure located in the city of New York capable of emitting stray voltage. For purposes of this section, the following terms shall have the following meanings:
@@ -1487,7 +1484,7 @@ g. All local electric corporations shall establish and implement an educational 
 
 
 
-*§ 19-154 Publication of street resurfacing information.*
+*§ 19-154 Publication of street resurfacing information.* ::
 
 
 a. The commissioner shall make available online through the department's website information regarding the resurfacing and capital improvement of city blocks. Such information shall include but not be limited to: (i) what year city blocks were last resurfaced or received capital improvement; (ii) the current rating for city blocks pursuant to the department's street rating system as one of the following: good, fair, or poor.
@@ -1499,7 +1496,7 @@ b. On or before January 31, 2013, the information required by subdivision a of t
 
 
 
-*§ 19-155 Study of alternative roadway and sidewalk materials.*
+*§ 19-155 Study of alternative roadway and sidewalk materials.* ::
 
 
 a. The department and the department of environmental protection shall conduct a study on the possible use of permeable materials on roadways and sidewalks under the jurisdiction of the department. Such study shall include the following: (i) various types of permeable material for roadway and sidewalk use; (ii) the expected costs of such materials and the projected feasibility of such materials, including but not limited to durability, operational function and performance; (iii) the volume of stormwater anticipated to be permeated through such materials; (iv) recommendations and limitations regarding the use of permeable materials on roadways and sidewalks under the jurisdiction of the department; (v) the maintenance practices for such roadways and sidewalks and estimated costs of such practices; (vi) the effect on utilities and other entities that will need to make cuts in such roadways and sidewalks; (vii) methods to restore the porosity of such roadways and sidewalks and an estimate of the costs of such methods; (viii) recommendations regarding the use and limitations of permeable materials by private property owners on private roadways, parking lots and sidewalks; and (ix) a determination on whether a uniform standard on the use of permeable materials in sidewalks within the city of New York is appropriate, based on the results of the study and pilot required pursuant to subdivisions a and b of this section. If such uniform standards are deemed appropriate, the department, in consultation with other agencies including but not limited to the department of parks and recreation and the department of design and construction, shall make recommendations and exceptions to such uniform standard. Such study shall be completed and delivered to the speaker of the council and posted on the department's website not more than thirty months following the effective date of the local law that added this section.
@@ -1511,7 +1508,7 @@ b. The department shall undertake a pilot program on the use of permeable materi
 
 
 
-*§ 19-156 Work zone safety on bridges.*
+*§ 19-156 Work zone safety on bridges.* ::
 
 
 a. For purposes of this section, the following terms shall have the following meanings:
@@ -1527,7 +1524,7 @@ b. On or before January 1, 2015, the commissioner shall conduct a review of guid
 
 
 
-*§ 19-157 Pedestrian plazas.*
+*§ 19-157 Pedestrian plazas.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -1569,7 +1566,7 @@ d. Pedestrian plaza events. A plaza activity permit issued by an agency or offic
 
 
 
-*§ 19-158 Notice requirement for work on resurfaced streets.*
+*§ 19-158 Notice requirement for work on resurfaced streets.* ::
 
 
 a. Upon approving an application for a permit to open a street segment or intersection that has been reconstructed or resurfaced within five years prior to the date of such approval, the department shall provide notice, through electronic means, to the affected borough president, the council member(s) of the affected council district(s) and the district manager(s) of the affected community board(s).
@@ -1593,7 +1590,7 @@ b. Such notice shall include the following information:
 
 
 
-*§ 19-159 Notification of tree planting when applying for sidewalk construction permits.*
+*§ 19-159 Notification of tree planting when applying for sidewalk construction permits.* ::
 
 
 The department shall notify applicants for sidewalk construction permits to consult the website of the department of parks and recreation for information on scheduled tree planting.
@@ -1605,7 +1602,7 @@ The department shall notify applicants for sidewalk construction permits to cons
 
 
 
-*§ 19-159.1 The verification and repair of ponding conditions on roadways.*
+*§ 19-159.1 The verification and repair of ponding conditions on roadways.* ::
 
 
 a. Definitions. As used in this section, the following term has the following meaning:
@@ -1629,7 +1626,7 @@ d. In instances where a council member or a community board has made a complaint
 
 
 
-*§ 19-159.2 Placement of street name signs.*
+*§ 19-159.2 Placement of street name signs.* ::
 
 
 a. For purposes of this section, the term “street name sign” means a sign mounted on a street corner that bears the name of a mapped street that is parallel to such sign.
@@ -1643,7 +1640,7 @@ b. No fewer than two diagonally opposite corners on each street intersection sha
 
 
 
-*§ 19-159.3 Temporary bicycle lanes.*
+*§ 19-159.3 Temporary bicycle lanes.* ::
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -1682,7 +1679,7 @@ d. In the event a permittee violates any stipulation required by subdivision b o
 
 
 
-*§ 19-162 Permissible parking for certain purposes.*
+*§ 19-162 Permissible parking for certain purposes.* ::
 
 
 1. Notwithstanding any local law or regulation to the contrary, but subject to the provisions of the vehicle and traffic law, it shall be permissible for a bus owned, used or hired by public or nonpublic schools to park at any time, including overnight, upon any street or roadway, provided said bus occupies a parking spot in front of and within the building lines of the premises of the said public school or nonpublic school.
@@ -1694,7 +1691,7 @@ d. In the event a permittee violates any stipulation required by subdivision b o
 
 
 
-*§ 19-162.1 Permissible parking for members of the clergy; houses of worship and hospitals.*
+*§ 19-162.1 Permissible parking for members of the clergy; houses of worship and hospitals.* ::
 
 
 a. For the purposes of this section the following terms shall have the following meanings:
@@ -1720,7 +1717,7 @@ d. Where a permit issued pursuant to this section is used for a purpose other th
 
 
 
-*§ 19-162.2 Permissible parking for emergency ambulance service vehicles operating for volunteer ambulance services.*
+*§ 19-162.2 Permissible parking for emergency ambulance service vehicles operating for volunteer ambulance services.* ::
 
 
 a. For purposes of this section the following terms shall have the following meanings:
@@ -1752,7 +1749,7 @@ h. Notwithstanding any other provision of law, no vehicle bearing an annual on-s
 
 
 
-*§ 19-162.4 Comprehensive plan for city-issued parking permits.*
+*§ 19-162.4 Comprehensive plan for city-issued parking permits.* ::
 
 
 a. For the purposes of this section, the term “city-issued parking permit” means a permit issued by a city agency that indicates permission to park in certain areas during certain times has been granted.
@@ -1774,7 +1771,7 @@ c. Such agency plans and the comprehensive plan shall be reviewed at least once 
 
 
 
-*§ 19-162.3 City-issued parking permits.*
+*§ 19-162.3 City-issued parking permits.* ::
 
 
 a. Definition. For purposes of this section, the term “city-issued parking permit” means a permit issued by the department or the department of education, if the commissioner has delegated authority to the department of education pursuant to subdivision b, that indicates permission to park in certain areas during certain times has been granted. The term shall not include a parking permit issued pursuant to sections 19-162.1 or 19-162.2, a parking permit issued to individuals with disabilities, or a single-use parking permit.
@@ -1846,7 +1843,7 @@ i. Posting information. No later than January 31, 2021, the department and agenc
 
 
 
-*§ 19-162.5 City vehicle obstructing a bicycle lane, bus lane, sidewalk, crosswalk, or fire hydrant.*
+*§ 19-162.5 City vehicle obstructing a bicycle lane, bus lane, sidewalk, crosswalk, or fire hydrant.* ::
 
 
 No vehicle operated on behalf of the city shall obstruct a bicycle lane, bus lane when bus lane restrictions are in effect, sidewalk, crosswalk, or fire hydrant, except as otherwise permitted by law.
@@ -1858,7 +1855,7 @@ No vehicle operated on behalf of the city shall obstruct a bicycle lane, bus lan
 
 
 
-*§ 19-163 Holiday suspensions of parking rules.*
+*§ 19-163 Holiday suspensions of parking rules.* ::
 
 
 a. All alternate side of the street parking rules shall be suspended on the following holidays: Christmas, Yom Kippur, Rosh Hashanah, Ash Wednesday, Holy Thursday, Good Friday, Ascension Thursday, Feast of the Assumption, Feast of All Saints, Feast of the Immaculate Conception, first two days of Succoth, Shemini Atzareth, Simchas Torah, Shevuoth, Purim, Orthodox Holy Thursday, Orthodox Good Friday, first two and last two days of Passover, the Muslim holidays of Eid Ul-Fitr and Eid Ul-Adha, the day before Lunar New Year, Lunar New Year, the Hindu festival of Diwali on the day that Lakshmi Puja is observed, Three Kings’ Day, and all state and national holidays.
@@ -1874,7 +1871,7 @@ c. The date of the Lunar New Year shall be the first day of the second lunar mon
 
 
 
-*§ 19-163.1 Suspension of parking rules during snowfalls.*
+*§ 19-163.1 Suspension of parking rules during snowfalls.* ::
 
 
 All alternate side of the street parking rules shall be suspended during any snowfall that causes the department of sanitation to suspend its street sweeping operations, provided that the department may reinstate alternate side of the street parking rules after twenty-four hours if it determines, after consulting with the department of sanitation, that alternate side of the street parking is necessary to immediately commence curbside snow removal.
@@ -1884,7 +1881,7 @@ All alternate side of the street parking rules shall be suspended during any sno
 
 
 
-*§ 19-163.2 Limitation on the use of adhesive stickers in the enforcement of alternate side of the street parking rules.*
+*§ 19-163.2 Limitation on the use of adhesive stickers in the enforcement of alternate side of the street parking rules.* ::
 
 
 Neither the department nor the department of sanitation shall affix an adhesive sticker to any motor vehicle solely in connection with the enforcement of alternate side of the street parking rules.
@@ -1894,7 +1891,7 @@ Neither the department nor the department of sanitation shall affix an adhesive 
 
 
 
-*§ 19-164 Special parking for wheelchair accessible vans.*
+*§ 19-164 Special parking for wheelchair accessible vans.* ::
 
 
 Any wheelchair accessible van licensed by the taxi and limousine commission actually in the process of boarding or discharging wheelchair passengers or escorting wheelchair passengers to and from their destination, shall be permitted to park in any area in which a vehicle with a special vehicle identification permit is permitted to park.
@@ -1904,7 +1901,7 @@ Any wheelchair accessible van licensed by the taxi and limousine commission actu
 
 
 
-*§ 19-165 Parking of motor vehicles at night.*
+*§ 19-165 Parking of motor vehicles at night.* ::
 
 
 a. It shall be unlawful for any person to park a motor vehicle during the period from one-half hour after sunset to one-half hour before sunrise on the streets of the city without displaying lights, unless said vehicle is equipped with a reflector as provided for in the vehicle and traffic law of the state of New York.
@@ -1916,7 +1913,7 @@ b. Nothing herein shall be construed to increase the number of hours of parking 
 
 
 
-*§ 19-166 Unlawful use or possession of city-issued parking permits.*
+*§ 19-166 Unlawful use or possession of city-issued parking permits.* ::
 
 
 a. For the purposes of this section, the term "city-issued parking permit" means a permit issued by a city agency that indicates permission to park in certain areas during certain times has been granted.
@@ -1942,7 +1939,7 @@ b. Any person who without permission of the commissioner of transportation or th
 
 
 
-*§ 19-166.1 Misuse of city-issued parking permits.*
+*§ 19-166.1 Misuse of city-issued parking permits.* ::
 
 
 a. For the purposes of this section, the term “city-issued parking permit” means a permit issued by a city agency that indicates permission to park in certain areas during certain times has been granted.
@@ -1962,7 +1959,7 @@ b. City-issued parking permits shall be revoked in accordance with disciplinary 
 
 
 
-*§ 19-167 Dimensions and weights of vehicles operated in the city. [Repealed]*
+*§ 19-167 Dimensions and weights of vehicles operated in the city. [Repealed]* ::
 
 
 Notwithstanding any other provision of law, no person parking a vehicle at a parking meter is required to activate such meter on a Sunday and no notice of violation or summons may be issued solely for the failure to activate such parking meter on a Sunday.
@@ -1972,7 +1969,7 @@ Notwithstanding any other provision of law, no person parking a vehicle at a par
 
 
 
-*§ 19-167.1 Parking at broken or missing meters or muni-meters.*
+*§ 19-167.1 Parking at broken or missing meters or muni-meters.* ::
 
 
 a. A person shall be allowed to park at a missing or broken meter up to the maximum amount of time otherwise lawfully permitted at such meter.
@@ -1984,7 +1981,7 @@ b. If all muni-meters in a parking field or on a block are missing or broken, a 
 
 
 
-*§ 19-167.2 Transfer of muni-meter time.*
+*§ 19-167.2 Transfer of muni-meter time.* ::
 
 
 a. For the purposes of this section, the term "muni-meter" shall mean an electronic parking meter that dispenses timed receipts that must be displayed in a conspicuous place on a vehicle's dashboard.
@@ -2002,7 +1999,7 @@ b. Parking time that is purchased at a muni-meter shall be valid for use during 
 
 
 
-*§ 19-167.3 Deactivating muni-meters.*
+*§ 19-167.3 Deactivating muni-meters.* ::
 
 
 a. For the purposes of this section, the term "muni-meter" shall mean an electronic parking meter that dispenses timed receipts that must be displayed in a conspicuous place on a vehicle's dashboard.
@@ -2020,7 +2017,7 @@ c. This section shall apply only to muni-meters that can be programmed as set fo
 
 
 
-*§ 19-167.4 New muni-meter installation.*
+*§ 19-167.4 New muni-meter installation.* ::
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -2042,7 +2039,7 @@ d. Any recommendations and/or comments received by the department pursuant to su
 
 
 
-*§ 19-168 Fishing from public bridges.*
+*§ 19-168 Fishing from public bridges.* ::
 
 
 (a) The commissioner shall be authorized to post on any public bridge within the city, signs prohibiting fishing therefrom. The commissioner shall post and maintain such signs on bridges selected at his or her discretion.
@@ -2056,7 +2053,7 @@ d. Any recommendations and/or comments received by the department pursuant to su
 
 
 
-*§ 19-169 Removal of vehicles parked in front of a private driveway.*
+*§ 19-169 Removal of vehicles parked in front of a private driveway.* ::
 
 
 a. Subject to the provisions of this section an owner of a lot containing no more than two dwelling units, or his or her lessee, may cause any vehicle which is parked in front of his or her private driveway and which blocks the entry or egress of a vehicle from such property to be removed by a person licensed to engage in towing pursuant to subchapter thirty-one of chapter two of title twenty of the code, where a person authorized to issue a notice of parking violation has issued such a notice and affixed it to such unlawfully parked vehicle; the issuance of such a notice shall constitute authorization to the owner of such property, or his or her lessee, to arrange for removal of such unlawfully parked vehicle, and such removal shall be deemed to be at the request of the person who issued the notice.
@@ -2092,7 +2089,7 @@ d. No person licensed pursuant to subchapter thirty-one of chapter two of title 
 
 
 
-*§ 19-169.1 Removal of vehicles improperly parked on private property.*
+*§ 19-169.1 Removal of vehicles improperly parked on private property.* ::
 
 
 a. Notwithstanding any other provision of law, where a licensed tow operator removes a vehicle because it is parked on private property in a manner inconsistent with posted instructions, and such removal is pursuant to a contract between the owner of the private property and the licensed tow operator for the removal of any such improperly parked vehicles, such tow operator may collect the following charges from the vehicle owner or other person in control of such vehicle, payable before the vehicle is released: up to but not more than one hundred twenty-five dollars for removal and the first three days of storage; up to but not more than fifteen dollars per day for storage thereafter; except that no charge may be collected for removal or storage of a vehicle pursuant to this section by a person who is not licensed to engage in towing pursuant to subchapter thirty-one of chapter two of title twenty of this code.
@@ -2126,7 +2123,7 @@ m. The commissioner of consumer affairs is authorized to promulgate such rules a
 
 
 
-*§ 19-169.2 Booting of improperly parked motor vehicles.*
+*§ 19-169.2 Booting of improperly parked motor vehicles.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
@@ -2178,7 +2175,7 @@ l. The provisions of this section shall not apply to the booting of a motor vehi
 
 
 
-*§ 19-170 Limitation on parking of commercial vehicles.*
+*§ 19-170 Limitation on parking of commercial vehicles.* ::
 
 
 a. When parking is not otherwise restricted, no person shall park a commercial vehicle in excess of three hours. For purposes of this section, the term commercial vehicle shall mean a motor vehicle designed, maintained, or used primarily for the transportation of property.
@@ -2202,7 +2199,7 @@ e. The sanctions and fees provided for in this section shall be in addition to a
 
 
 
-*§ 19-171 Horse drawn cab stands. [Repealed]*
+*§ 19-171 Horse drawn cab stands. [Repealed]* ::
 
 
 a. Definitions. For the purposes of this section:
@@ -2232,7 +2229,7 @@ h. The police department and the department of parks and recreation shall enforc
 
 
 
-*§ 19-171.1 Multi-passenger wheeled device and motorized pedicab prohibited.*
+*§ 19-171.1 Multi-passenger wheeled device and motorized pedicab prohibited.* ::
 
 
 a. Definitions. For purposes of this section:
@@ -2280,7 +2277,7 @@ k. The penalties provided by subdivisions c, d, e and j of this section shall be
 
 
 
-*§ 19-171.2 Pedicab parking.*
+*§ 19-171.2 Pedicab parking.* ::
 
 
 a. For the purposes of this section, the term "pedicab" shall mean a bicycle as defined in the vehicle and traffic law or other device that is designed and constructed to transport or carry passengers, that is solely propelled by human power, and that is operated to transport passengers for hire.
@@ -2294,7 +2291,7 @@ c. Any person who violates this section shall be subject to a civil penalty in a
 
 
 
-*§ 19-172 Private streets; names, restrictions of.*
+*§ 19-172 Private streets; names, restrictions of.* ::
 
 
 a. It shall be unlawful for any private street or thoroughfare to bear a name similar to a street or thoroughfare officially named.
@@ -2306,7 +2303,7 @@ b. Any person convicted of a violation of the provisions of this section shall b
 
 
 
-*§ 19-173 Subway gratings; sweeping into.*
+*§ 19-173 Subway gratings; sweeping into.* ::
 
 
 a. It shall be unlawful for any person to sweep any substance from a sidewalk or other place into a grating used for the purpose of ventilating any subway railroad.
@@ -2318,7 +2315,7 @@ b. Any person convicted of a violation of this section shall be punished by a fi
 
 
 
-*§ 19-174 Passengers boarding horse drawn cabs.*
+*§ 19-174 Passengers boarding horse drawn cabs.* ::
 
 
 a. The commissioner shall designate by rule specific locations on the streets, avenues and roadways which shall be the sole locations where passengers may board horse drawn cabs if such passengers have not prearranged such horse drawn cab rides in accordance with the provisions of subdivision b of this section and any rules promulgated pursuant thereto.
@@ -2334,7 +2331,7 @@ c. The department shall annually review existing locations of horse drawn cab st
 
 
 
-*§ 19-175 Variance for special events.*
+*§ 19-175 Variance for special events.* ::
 
 
 a. Notwithstanding the provisions of section 20-381.1 of the code, the owner or operator of a horse drawn cab may apply for a variance from the provisions of section 20-381.1 for the limited purpose of carrying out a contract to provide a horse drawn cab for the filming of a movie, television show or commercial, or for a wedding, parade, or other special event as shall be defined by the commissioner by rule. The commissioner shall grant such variance when he or she determines that the issuance of such variance would not have an adverse effect on vehicular or pedestrian congestion, commencement of theatrical productions or public safety.
@@ -2352,7 +2349,7 @@ e. Use of a variance by any person other than the person to whom it was issued, 
 
 
 
-*§ 19-175.1 Publication of parking restrictions.*
+*§ 19-175.1 Publication of parking restrictions.* ::
 
 
 a. The commissioner shall make available on a website information regarding parking restrictions implemented by the department in the city of New York. Such website shall be searchable by each city block.
@@ -2368,7 +2365,7 @@ d. The commissioner is directed to place a notice on such website advising membe
 
 
 
-*§ 19-175.2 Notification of changes in parking restrictions.*
+*§ 19-175.2 Notification of changes in parking restrictions.* ::
 
 
 a. Following any permanent change in parking restrictions posted by the department, the department shall post notice, in the affected areas, indicating the effective date of such change. An owner of a motor vehicle parked in the affected areas who receives a notice of a parking violation that occurred within five days of posting of the notice of the parking restriction change shall have an affirmative defense that the vehicle of the owner was parked in compliance with the applicable parking restriction that was in effect prior to such change. Within one business day of making a permanent change in parking restrictions, such change will be reflected on the website containing parking restrictions as required by section 19-175.1 of the code.
@@ -2386,7 +2383,7 @@ e. Nothing in this section shall be construed to require the department or any a
 
 
 
-*§ 19-175.3 Notification of changes involving parking meters.*
+*§ 19-175.3 Notification of changes involving parking meters.* ::
 
 
 Before the department changes parking meter rates or replaces a parking meter with a different type of parking meter, it shall provide at least thirty days written notice of such changes by regular first-class mail and electronic mail to the community board and council member in whose district the affected parking meters are or will be located and by posting such written notice on the department's website. Such notice shall at a minimum provide the following information with regard to the changes:
@@ -2400,7 +2397,7 @@ Before the department changes parking meter rates or replaces a parking meter wi
 
 
 
-*§ 19-175.4 Right turns from bus lanes.*
+*§ 19-175.4 Right turns from bus lanes.* ::
 
 
 Notwithstanding any other law, rule or regulation, when bus lane restrictions are in effect on a street, it shall not be a violation of law for a vehicle to drive in such a lane where such vehicle enters the lane and makes the next permissible right turn onto a street under the jurisdiction of the commissioner and designated on the map of the city of New York, except that this section shall not be deemed to permit a vehicle to drive through an intersection under the jurisdiction of the commissioner in such bus lane without making a turn.
@@ -2410,7 +2407,7 @@ Notwithstanding any other law, rule or regulation, when bus lane restrictions ar
 
 
 
-*§ 19-175.5 Carsharing parking pilot program.*
+*§ 19-175.5 Carsharing parking pilot program.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -2438,7 +2435,7 @@ e. As part of the carsharing parking pilot program established pursuant to this 
 
 
 
-*§ 19-175.6 On-street bus stops for sight-seeing buses.*
+*§ 19-175.6 On-street bus stops for sight-seeing buses.* ::
 
 
 a. The commissioner shall provide written authorization for on-street bus stops for sight-seeing bus companies pursuant to subdivision d of section 20-374 of this code on the basis of the following criteria: (i) traffic, bicycle and pedestrian flow, and public safety; (ii) preferences of the sight-seeing bus permit applicant; (iii) consultation with the local community board for the district encompassing the location to be authorized, including but not limited to a notice and comment period of 45 days prior to the authorization or permanent amendment thereto; (iv) the number of stops proposed and the viability of a proposed bus stop schedule as determined by the commissioner; (v) the availability and location of planned garage or other parking space for periods when buses picking up or discharging passengers at the authorized stops are not in use; and (vi) any other criteria deemed appropriate by the commissioner. The commissioner shall approve or deny such authorizations no later than 180 days from the date of the application.
@@ -2456,7 +2453,7 @@ d. The commissioner shall by rule establish criteria under which sight-seeing bu
 
 
 
-*§ 19-175.7 Illegible parking signs.*
+*§ 19-175.7 Illegible parking signs.* ::
 
 
 Notwithstanding any rule or regulation to the contrary, when a notice of violation is issued to an owner of a vehicle for failure to observe a parking sign, it shall be an affirmative defense to such violation, with the burden of proof on the vehicle owner charged with such notice of violation, that both sides of such sign were not legible. If there are other legible parking signs on the same blockface that apply to the parking space and parking violation at issue, such affirmative defense will not be available. The term “blockface” has the same meaning as set forth in section 19-167.4.
@@ -2473,7 +2470,7 @@ Notwithstanding any rule or regulation to the contrary, when a notice of violati
 
 
 
-*§ 19-176 Bicycle operation on sidewalks prohibited.*
+*§ 19-176 Bicycle operation on sidewalks prohibited.* ::
 
 
 a. For purposes of this section:
@@ -2505,7 +2502,7 @@ i. The provisions of this section may be enforced by the police department or de
 
 
 
-*§ 19-176.1 Reckless operation of roller skates, in-line skates and skateboards prohibited.*
+*§ 19-176.1 Reckless operation of roller skates, in-line skates and skateboards prohibited.* ::
 
 
 a. For purposes of this section:
@@ -2531,7 +2528,7 @@ d. The provisions of this section shall be enforced by the department, the polic
 
 
 
-*§ 19-176.2 Motorized scooters.*
+*§ 19-176.2 Motorized scooters.* ::
 
 
 a. For purposes of this section, the term "motorized scooter" shall mean any wheeled device that has handlebars that is designed to be stood or sat upon by the operator, is powered by an electric motor or by a gasoline motor that is capable of propelling the device without human power and is not capable of being registered with the New York State Department of Motor Vehicles. For the purposes of this section, the term motorized scooter shall not include wheelchairs or other mobility aids designed for use by disabled persons.
@@ -2547,7 +2544,7 @@ d. Any motorized scooter that has been used or is being used in violation of the
 
 
 
-*§ 19-177 Speed Limits; posting of signs; neighborhood slow zones; speed limits near schools.*
+*§ 19-177 Speed Limits; posting of signs; neighborhood slow zones; speed limits near schools.* ::
 
 
 a. Subject to the provisions of paragraph twenty-six of subdivision (a) of section sixteen hundred forty-two of the vehicle and traffic law, the official speed limit for a vehicle in the city of new York shall be twenty-five miles per hour except where an official sign indicates that a different speed limit is in effect.
@@ -2573,7 +2570,7 @@ f. Commencing on or before February 1, 2015, and annually thereafter, the commis
 
 
 
-*§ 19-178 Truck Weight and Length Limitations.*
+*§ 19-178 Truck Weight and Length Limitations.* ::
 
 
 The commissioner shall post a sign at each exit within the city of New York of each bridge and tunnel having only one terminus in the city of New York that states the limits of truck weight and truck length within the city.
@@ -2583,7 +2580,7 @@ The commissioner shall post a sign at each exit within the city of New York of e
 
 
 
-*§ 19-178.1 Truck route compliance study.*
+*§ 19-178.1 Truck route compliance study.* ::
 
 
 The department shall conduct a study of compliance with the rules of the city of New York by truck drivers related to truck routes. Such study shall also include locations where large numbers of truck drivers routinely operate off designated truck routes, which may include areas identified by council members and community boards. Based on the study, the department shall institute measures designed to increase truck route compliance based on best practices for roadway design and operations, including but not limited to, converting two-way streets to one-way streets, posting of signs regarding the permissible use of certain routes by trucks, as appropriate, and education and outreach to the trucking industry. The department shall post on the department's website and submit to the speaker of the council such study, including the locations of such measures, no later than January 1, 2017.
@@ -2595,7 +2592,7 @@ The department shall conduct a study of compliance with the rules of the city of
 
 
 
-*§ 19-180 Performance indicators.*
+*§ 19-180 Performance indicators.* ::
 
 
 a. For the purposes of this section, the following terms shall be defined as follows:
@@ -2631,7 +2628,7 @@ d. [Repealed.]
 
 
 
-*§ 19-180.1 Safety audits of crash locations involving pedestrians.*
+*§ 19-180.1 Safety audits of crash locations involving pedestrians.* ::
 
 
 a. Within one hundred and eighty days of receiving access to New York state department of motor vehicles traffic crash data involving pedestrian injuries or fatalities for the previous calendar year, the department shall:
@@ -2651,7 +2648,7 @@ d. For purposes of this section, "seriously injured" shall mean those injuries c
 
 
 
-*§ 19-181 Safety inspections at locations exhibiting a pattern of crashes involving pedestrians and/or bicyclists.*
+*§ 19-181 Safety inspections at locations exhibiting a pattern of crashes involving pedestrians and/or bicyclists.* ::
 
 
 a. Within ninety days of receiving access to New York state department of motor vehicles traffic crash data involving pedestrians and/or bicyclists, the department shall inspect every location with four or more serious injuries or fatalities involving pedestrians and/or bicyclists during the prior five-year period.
@@ -2669,7 +2666,7 @@ e. For purposes of this section, "serious injury" shall mean those injuries cate
 
 
 
-*§ 19-182 Comprehensive study of pedestrian fatalities and serious injuries.*
+*§ 19-182 Comprehensive study of pedestrian fatalities and serious injuries.* ::
 
 
 a. Every five years, the department shall conduct a comprehensive study of all traffic crashes involving a pedestrian fatality or serious injury for the most recent five years where traffic crash data is available. In each such study, the department shall analyze the conditions and factors associated with each such traffic crash and identify common factors among the crashes, if any. The department shall use such studies to develop strategies to improve pedestrian safety, which may include modifying citywide traffic operations policy, developing pedestrian safety strategies geared towards specific users, including, but not limited to, installation of audible pedestrian signals and other devices to assist those with sight, hearing and mobility impairments, prioritizing locations and/or types of roadways or intersections for safety improvements and making recommendations for improving safety at such locations.
@@ -2695,7 +2692,7 @@ d. 1. For purposes of this subdivision, "arterial streets"shall mean high-capaci
 
 
 
-*§ 19-182.1 Comprehensive guidelines for the improvements of roads and sidewalks.*
+*§ 19-182.1 Comprehensive guidelines for the improvements of roads and sidewalks.* ::
 
 
 a. Every four years, the department shall publish a manual of policies and design guidelines for the improvement of roads and sidewalks in the city of New York. The manual shall serve as a comprehensive resource for promoting higher quality street designs and more efficient project implementation. The manual shall cover a variety of topics related to street design, including but not limited to complete street design features, materials, street lighting, street furniture, and landscaping. For purposes of this section, "complete street design features" shall mean roadway design features that accommodate and facilitate convenient access and mobility by all users, including current and projected users, particularly pedestrians, bicyclists and individuals of all ages and abilities, and may include, but need not be limited to: sidewalks, paved shoulders suitable for use by bicyclists, lane striping, bicycle lanes, share the road signage, crosswalks, road diets, pedestrian control signalization, bus pull outs, curb cuts, raised crosswalks, ramps and traffic calming measures.
@@ -2707,7 +2704,7 @@ b. The manual of policies and design guidelines and any updates thereto shall be
 
 
 
-*§ 19-182.2 Street design checklist*
+*§ 19-182.2 Street design checklist* ::
 
 
 a. As used in this section, the following terms have the following meanings:
@@ -2739,7 +2736,7 @@ d. If an agency other than the department implements a major transportation proj
 
 
 
-*§ 19-183 Traffic calming devices and traffic flow designations.*
+*§ 19-183 Traffic calming devices and traffic flow designations.* ::
 
 
 a. For the purposes of this section, the following terms shall have the following meanings:
@@ -2763,7 +2760,7 @@ c. The department shall establish and maintain on its website guidelines regardi
 
 
 
-*§ 19-184 Interagency roadway safety plan.*
+*§ 19-184 Interagency roadway safety plan.* ::
 
 
 a. The department shall develop an interagency plan to improve roadway safety, which shall be designed to, among other things, reduce the incidents of traffic violations, crashes, injuries and fatalities.
@@ -2787,7 +2784,7 @@ d. Such plan shall be updated every five years and the first such updated plan s
 
 
 
-*§ 19-185 Traffic study determinations.*
+*§ 19-185 Traffic study determinations.* ::
 
 
 The department shall include with any determination denying a request by a community board or council member for a traffic control device regulated by the manual on uniform traffic control devices, a summary of the traffic control device warrants, along with the date and time that the department performed its traffic analysis and the time period of any crash data considered by the department for such warrants. Such denial shall also include the following language: "A summary of the studies and reports that led to this determination will be provided upon request." Upon such request by the community board or council member after receiving the denial the department shall provide a summary of the traffic studies and/or reports performed by the department.
@@ -2797,7 +2794,7 @@ The department shall include with any determination denying a request by a commu
 
 
 
-*§ 19-186 Compilation of bicycle crash data.*
+*§ 19-186 Compilation of bicycle crash data.* ::
 
 
 a. The department shall compile the total number of bicycle crashes that are reported to city agencies. Such bicycle crash compilation shall include crashes between bicycles, between bicycles and motorized vehicles and between bicycles and pedestrians. The department shall commence compiling such data on October 1, 2011.
@@ -2809,7 +2806,7 @@ b. On June 1, 2012 and annually thereafter, the department shall provide a repor
 
 
 
-*§ 19-187 Community board hearings on the construction or removal of bicycle lanes.*
+*§ 19-187 Community board hearings on the construction or removal of bicycle lanes.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms shall be defined as follows:
@@ -2833,7 +2830,7 @@ d. Section 19-101.2 of this title shall not apply to any bicycle lane that falls
 
 
 
-*§ 19-188 Accessible pedestrian signals program.*
+*§ 19-188 Accessible pedestrian signals program.* ::
 
 
 a. The department shall establish an accessible pedestrian signals program. As part of this program, the department shall identify intersections where accessible pedestrian signals may be installed based on guidelines, including, but not limited to, those set forth in the most recent version of the manual on uniform traffic control devices. The department, after consultation with the mayor's office for people with disabilities and with advocates for and members of the visually impaired community, shall identify intersections which reflect the greatest crossing difficulty for persons with visual impairments. The department shall annually install, based on such guidelines, an accessible pedestrian signal at seventy-five intersections identified by the department following such consultation.
@@ -2847,7 +2844,7 @@ c. The department shall post on its website the locations of all such accessible
 
 
 
-*§ 19-188.1 Pedestrian countdown displays.*
+*§ 19-188.1 Pedestrian countdown displays.* ::
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -2865,7 +2862,7 @@ b.  The department shall install a pedestrian countdown display at any location 
 
 
 
-*§ 19-189 Installation of speed humps on roadways adjacent to schools.*
+*§ 19-189 Installation of speed humps on roadways adjacent to schools.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms shall be defined as follows:
@@ -2885,7 +2882,7 @@ d. The commissioner may decline to install any speed hump that is otherwise requ
 
 
 
-*§ 19-189.1 Installation of bollards.*
+*§ 19-189.1 Installation of bollards.* ::
 
 
 a. Definition. As used in this section, the term "bollard" means any raised concrete and/or metal post that is designed to slow or stop motor vehicles.
@@ -2903,7 +2900,7 @@ b. By July 30, 2019, and every year thereafter, the commissioner shall submit to
 
 
 
-*§ 19-190 Right of way.*
+*§ 19-190 Right of way.* ::
 
 
 a. Except as provided in subdivision b of this section, any driver of a motor vehicle who fails to yield to a pedestrian or person riding a bicycle when such pedestrian or person has the right of way shall be guilty of a traffic infraction, which shall be punishable by a fine of not more than fifty dollars or imprisonment for not more than fifteen days or both such fine and imprisonment. In addition to or as an alternative to such penalty, such driver shall be subject to a civil penalty of not more than one hundred dollars which may be recovered in a proceeding before the environmental control board. For purposes of this section, "motor vehicle" shall have the same meaning as in section one hundred twenty-five of the vehicle and traffic law.
@@ -2919,7 +2916,7 @@ d. This section shall not apply to persons, teams, motor vehicles, and other equ
 
 
 
-*§ 19-191 Civil penalties for leaving the scene of an incident without reporting.*
+*§ 19-191 Civil penalties for leaving the scene of an incident without reporting.* ::
 
 
 a. Except as provided in the vehicle and traffic law, in addition to or as an alternative to any penalties assessed thereunder, any driver who, knowing or having cause to know that damage has been caused to the real property or the personal property of another due to an incident involving the driver's motor vehicle, leaves the scene of an incident without complying with all of the provisions of paragraph a of subdivision one of section six hundred of the vehicle and traffic law, shall be liable for a civil penalty, recoverable at the environmental control board, of not less than five hundred dollars nor more than one thousand dollars for the first violation and not less than one thousand dollars nor more than two thousand dollars for a second or subsequent violation.
@@ -2935,7 +2932,7 @@ c. For purposes of this section, "physical injury" and "serious physical injury"
 
 
 
-*§ 19-192 Study of safety on truck routes.*
+*§ 19-192 Study of safety on truck routes.* ::
 
 
 a. The department shall conduct a study regarding the safety of pedestrians and bicyclists on truck routes, which shall mean any street or streets designated by rule by the department as a truck route. Such study shall include, but not be limited to: i) a review of the impact of tolling policies on the use of truck routes within the city and the designation of certain streets as truck routes, if appropriate; ii) the number of crashes involving pedestrians and bicyclists on truck routes in the most recent five years, disaggregated by truck route, crash types, causes, vehicle types, and whether such crashes involved a fatality or serious injury; iii) a review of the policies and strategies utilized by the department to increase pedestrian and bicyclist safety on truck routes, including but not limited to street redesign and the status of any pending policies and strategies; and iv) recommendations for (1) improving safety on truck routes, including best practices for roadway design, operations, and sustainable delivery practices to reduce conflicts between pedestrians, bicyclists, and trucks on truck routes, (2) outreach to the trucking industry, and (3) implementing safety technology.
@@ -2947,7 +2944,7 @@ b. No later than June 30, 2016, the study required under subdivision a of this s
 
 
 
-*§ 19-193 Bike share usage data.*
+*§ 19-193 Bike share usage data.* ::
 
 
 a. Definitions. For the purposes of this section "bike share" means the provision of public bicycles for shared use within the city of New York under a contract with an operator that permits payment for the use of such bicycles.
@@ -2963,7 +2960,7 @@ c. Beginning on January 1, 2016, and quarterly thereafter, the department shall 
 
 
 
-*§ 19-194 Bike share financial data reporting.*
+*§ 19-194 Bike share financial data reporting.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -2983,7 +2980,7 @@ c.    On or before January 1, 2016, and annually thereafter, the department s
 
 
 
-*§ 19-195 Pedestrian control signals.*
+*§ 19-195 Pedestrian control signals.* ::
 
 
 Whenever pedestrian control signals are in operation, exhibiting symbols of a walking person, upraised hand, or upraised hand with a pedestrian countdown display, or any other internationally recognized representation concerning the movement of pedestrians, such signals shall indicate as follows:
@@ -3001,7 +2998,7 @@ Whenever pedestrian control signals are in operation, exhibiting symbols of a wa
 
 
 
-*§ 19-195.1 Bicyclist rights and duties at an intersection.*
+*§ 19-195.1 Bicyclist rights and duties at an intersection.* ::
 
 
 a. Definitions. For purposes of this section, the following terms have the following meanings:
@@ -3023,7 +3020,7 @@ c. The commissioner may promulgate such rules and regulations necessary to effec
 
 
 
-*§ 19-196 All-terrain vehicles, including dirt bikes.*
+*§ 19-196 All-terrain vehicles, including dirt bikes.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -3049,7 +3046,7 @@ e. Any act prohibited by this section additionally constitutes a traffic infract
 
 
 
-*§ 19-197 Pedestrian countdown displays near schools and parks.**
+*§ 19-197 Pedestrian countdown displays near schools and parks.** ::
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -3079,7 +3076,7 @@ Editor's note: Section 2 of L.L. 2017/130 provides: "This local law takes effect
 
 
 
-*§ 19-197 Department report on distracted pedestrians.**
+*§ 19-197 Department report on distracted pedestrians.** ::
 
 
 The department shall study and produce a report regarding its current and planned efforts to educate pedestrians and drivers of:
@@ -3097,7 +3094,7 @@ Such study and report shall detail the department's communications, on a citywid
 
 
 
-*§ 19-198 Reporting on motor vehicle related injuries and fatalities.*
+*§ 19-198 Reporting on motor vehicle related injuries and fatalities.* ::
 
 
 a. For purposes of this section, the following terms have the following meanings:
@@ -3119,7 +3116,7 @@ d. The commissioner shall update all information published pursuant to this sect
 
 
 
-*§ 19-199 School safety implementation report.*
+*§ 19-199 School safety implementation report.* ::
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -3143,7 +3140,7 @@ Editor's note: Section 2 of L.L. 2017/241 provides: "This local law takes effect
 
 
 
-*§ 19-199.1 Master plan.*
+*§ 19-199.1 Master plan.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -3226,11 +3223,11 @@ e. Public education campaign. The department shall conduct a public education ca
 
 
 Chapter 2: Parking Violations Bureau
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 19-200 Definitions.*
+*§ 19-200 Definitions.* ::
 
 
 Whenever used in this chapter, the following terms shall have the following meanings:
@@ -3244,7 +3241,7 @@ b. "Department" means the department of finance.
 
 
 
-*§ 19-201 Parking violations bureau created.*
+*§ 19-201 Parking violations bureau created.* ::
 
 
 There is hereby created in the department a parking violations bureau which shall have jurisdiction of allegations of traffic infractions which constitute a parking violation. For the purpose of this chapter, a parking violation is the violation of any local law, rule or regulation provided for or regulating the parking, stopping or standing of a motor vehicle.
@@ -3254,7 +3251,7 @@ There is hereby created in the department a parking violations bureau which shal
 
 
 
-*§ 19-202 Personnel of the bureau.*
+*§ 19-202 Personnel of the bureau.* ::
 
 
 a. The head of such bureau shall be the director, who shall be appointed by the commissioner. The director may delegate any of the powers and duties conferred upon him or her by this chapter.
@@ -3270,7 +3267,7 @@ d. The commissioner shall appoint hearing examiners who shall preside at hearing
 
 
 
-*§ 19-203 Functions, powers and duties of the parking violations bureau.*
+*§ 19-203 Functions, powers and duties of the parking violations bureau.* ::
 
 
 The parking violations bureau shall have the following functions, powers and duties:
@@ -3296,7 +3293,7 @@ h. To prepare and issue a notice of violation in blank to members of the police 
 
 
 
-*§ 19-204 Notice of violation.*
+*§ 19-204 Notice of violation.* ::
 
 
 a. The notice of violation shall contain information advising the person charged of the manner and the time in which he or she may plead either guilty or not guilty to the charge alleged in the notice. Such notice of violation shall also contain a warning to advise the person charged that failure to plead in the manner and time provided shall be deemed, for all purposes, an admission of liability and that a default judgment may be rendered. The form and wording of the notice of violation shall be prescribed by the director. A copy of each notice of violation served shall be filed and retained by the bureau, and shall be deemed a record kept in the ordinary course of business, and shall be prima facie evidence of the facts contained therein.
@@ -3310,7 +3307,7 @@ c. For purposes of this section, an operator of a motor vehicle who is not the o
 
 
 
-*§ 19-205 Liability.*
+*§ 19-205 Liability.* ::
 
 
 a. 1. Whenever used in this chapter, the term "owner", shall include: (A) the registered owner of a motor vehicle used or operated in the city of New York, and (B) any person, corporation, firm, agency, association or organization that is the renter or lessor of a motor vehicle used or operated in the city of New York. 2. Whenever used in this chapter, the term "operator" means any person, corporation, firm, agency, association or organization that uses or operates a motor vehicle with or without the permission of the owner, and an owner who operates his or her own motor vehicle.
@@ -3324,7 +3321,7 @@ c. Notwithstanding any inconsistent provisions of this chapter or of any other p
 
 
 
-*§ 19-206 Hearings.*
+*§ 19-206 Hearings.* ::
 
 
 a. Notice of hearing. Whenever a person charged with a parking violation enters a plea of not guilty, the bureau shall advise such person personally or by registered or certified mail, return receipt requested, of the date on which he or she must appear to answer the charge at a hearing. The form and content of such notice of hearing shall be prescribed by the director, and shall contain a warning to advise the person so pleading that failure to appear on the date designated, or on any subsequent adjourned date, shall be deemed, for all purposes, an admission of liability, and that a default judgment may be rendered.
@@ -3348,7 +3345,7 @@ b. Conduct of Hearings.
 
 
 
-*§ 19-207 Judgments.*
+*§ 19-207 Judgments.* ::
 
 
 a. The hearing officer shall make a determination on the charges, either sustaining or dismissing them. Where the hearing officer determines that the charges have been sustained he or she may examine the parking violations record of the person charged prior to rendering a judgment. Judgments sustaining or dismissing charges shall be entered on a judgment roll maintained by the bureau together with records showing payment and non-payment of penalties. No penalties or fees for late payment of a sustained charge shall be assessed by the bureau until at least thirty days have elapsed from the issuance of a notice of determination. If a person files an appeal pursuant to the rules of the bureau, no penalties or fees for late payment of a sustained charge shall be assessed by the bureau until at least thirty days have elapsed from the issuance of a notice of determination of the appeal.
@@ -3360,7 +3357,7 @@ b. Where an operator or owner fails to enter a plea to a charge of parking viola
 
 
 
-*§ 19-208 Appeals within the bureau.*
+*§ 19-208 Appeals within the bureau.* ::
 
 
 a. There shall be an appeals board within the bureau which shall consist of three or more senior hearing examiners, as the director shall determine.
@@ -3378,7 +3375,7 @@ e. The service of a notice of appeal shall not stay the enforcement of a judgmen
 
 
 
-*§ 19-209 Judicial review.*
+*§ 19-209 Judicial review.* ::
 
 
 The order of the appeals board shall be the final determination of the bureau. Judicial review may be sought pursuant to article seventy-eight of the civil practice law and rules.
@@ -3388,7 +3385,7 @@ The order of the appeals board shall be the final determination of the bureau. J
 
 
 
-*§ 19-210 Owner liability for failure of operator to comply with traffic-control indications.**
+*§ 19-210 Owner liability for failure of operator to comply with traffic-control indications.** ::
 
 
 (a) 1.    Notwithstanding any other provision of law, the parking violations bureau is hereby authorized and empowered to establish a demonstration program imposing monetary liability on the owner of a vehicle for failure of an operator thereof to comply with traffic-control indications in accordance with the provisions of this section. The department of transportation, for purposes of implementation of such program, shall be authorized to install and operate traffic-control signal photo violation-monitoring devices at no more than one hundred fifty intersections at any one time.
@@ -3474,7 +3471,7 @@ The order of the appeals board shall be the final determination of the bureau. J
 
 
 
-*§ 19-211 Additional penalties for parking violations.*
+*§ 19-211 Additional penalties for parking violations.* ::
 
 
 In accordance with paragraph b-1 of subdivision two of section two hundred thirty-five of the vehicle and traffic law, the parking violations bureau may adopt a rule providing for the imposition of the additional penalties set forth in the following schedule for failure to respond to a notice of violation for a parking violation:
@@ -3488,7 +3485,7 @@ b. Notwithstanding the foregoing schedule of additional penalties, if an owner m
 
 
 
-*§ 19-212 Limitation on removal of motor vehicles for purposes of satisfying parking violation judgments.*
+*§ 19-212 Limitation on removal of motor vehicles for purposes of satisfying parking violation judgments.* ::
 
 
 Notwithstanding any other provision of law, a motor vehicle shall not be removed from any street or other public area solely for the purpose of satisfying an outstanding judgment or judgments for parking violations against the owner unless the total amount of such judgment or judgments, including interest, is greater than three hundred fifty dollars. The provisions of this section shall not be construed to prohibit the removal of a motor vehicle which is illegally parked, stopped or standing.
@@ -3498,7 +3495,7 @@ Notwithstanding any other provision of law, a motor vehicle shall not be removed
 
 
 
-*§ 19-213 Grace period.*
+*§ 19-213 Grace period.* ::
 
 
 a. For the purposes of this section, the term "munimeter receipt" shall mean the receipt showing the amount of parking time purchased that is dispensed by an electronic parking meter and must be displayed in a conspicuous place on a vehicle's dashboard.
@@ -3510,7 +3507,7 @@ b. No notice of violation shall be issued for allegedly parking in excess of the
 
 
 
-*§ 19-214 Failure to display a muni-meter receipt.*
+*§ 19-214 Failure to display a muni-meter receipt.* ::
 
 
 a. For purposes of this section, the term "muni-meter receipt" shall mean the receipt showing the amount of parking time purchased that is dispensed by an electronic parking meter.
@@ -3522,7 +3519,7 @@ b. Notwithstanding any rule or regulation to the contrary, but subject to the pr
 
 
 
-*§ 19-215 Cancellation of certain tickets.*
+*§ 19-215 Cancellation of certain tickets.* ::
 
 
 a. For the purposes of this section, the following terms shall be defined as follows:
@@ -3539,11 +3536,11 @@ c. The department shall keep a record of all notices of violation canceled pursu
 
 
 Chapter 4: Reduced Fare Contracts
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 19-401 Authorization of reduced fare contracts.*
+*§ 19-401 Authorization of reduced fare contracts.* ::
 
 
 a. The board of estimate shall have the power, pursuant to section one hundred nineteen-r of the general municipal law, to enter into a contract or contracts with any person, firm or corporation owning and operating a mass transportation facility within the city in order to provide transportation at a reduced fare during specified days and hours for eligible residents of the city who are over sixty-five years of age and not fully employed.
@@ -3556,11 +3553,11 @@ c. The separate and additional approval of the mayor shall be necessary to the v
 
 
 Chapter 3: Ferries
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 19-301 Ferry property; acquisition.*
+*§ 19-301 Ferry property; acquisition.* ::
 
 
 The commissioner may acquire by purchase, condemnation or otherwise as provided in section 22-105 of the code, the title to such wharf property and uplands within the city, as he or she shall deem necessary for the equipment, maintenance or operation of a ferry, the terminal facilities therefor and the approaches thereto, whether or not such wharf property or uplands have previously been taken for a public use.
@@ -3570,7 +3567,7 @@ The commissioner may acquire by purchase, condemnation or otherwise as provided 
 
 
 
-*§ 19-302 Ferry property; provisions in leases.*
+*§ 19-302 Ferry property; provisions in leases.* ::
 
 
 Leases of any ferry or any wharf property necessary for the use of a ferry may provide for the character of transportation service to be furnished by the lessee including the character and speed of the boats to be used, frequency of trips, rates of fare and commutation and freight charges, and may provide for forfeiture of the lease in the event of failure to comply with its provisions in relation thereto.
@@ -3580,7 +3577,7 @@ Leases of any ferry or any wharf property necessary for the use of a ferry may p
 
 
 
-*§ 19-303 Ferry fares to be paid over daily.*
+*§ 19-303 Ferry fares to be paid over daily.* ::
 
 
 The commissioner shall pay over daily to the commissioner of finance all moneys collected for ferry fares.
@@ -3590,7 +3587,7 @@ The commissioner shall pay over daily to the commissioner of finance all moneys 
 
 
 
-*§ 19-304 Ferry rates to Staten Island limited.*
+*§ 19-304 Ferry rates to Staten Island limited.* ::
 
 
 a. There shall be no rate of ferriage charged for foot passengers by any city owned and operated ferry operating between the borough of Manhattan and the borough of Staten Island.
@@ -3602,7 +3599,7 @@ b. The rate of ferriage to be charged for vehicles owned and operated by persons
 
 
 
-*§ 19-305 Staten Island Ferry service.*
+*§ 19-305 Staten Island Ferry service.* ::
 
 
 a. Any city owned and operated ferry operating between the Whitehall terminal in the borough of Manhattan and the St. George terminal in the borough of Staten Island shall operate, at a minimum, according to the following schedule:
@@ -3628,7 +3625,7 @@ b. The schedule of service set forth in subdivision a of this section shall not 
 
 
 
-*§ 19-306 Temporary citywide boater safety and wake reduction task force.*
+*§ 19-306 Temporary citywide boater safety and wake reduction task force.* ::
 
 
 a. For the purpose of this section the following terms shall be defined as follows:
@@ -3660,7 +3657,7 @@ e. The task force shall issue a report to the speaker and the mayor within twelv
 
 
 
-*§ 19-307 Use of ultra low sulfur diesel fuel and best available technology for city ferries.*
+*§ 19-307 Use of ultra low sulfur diesel fuel and best available technology for city ferries.* ::
 
 
 a. For purposes of this section only, the following terms shall have the following meanings:
@@ -3719,11 +3716,11 @@ k. The commissioner shall conduct a study to determine the feasibility of utiliz
 
 
 Chapter 5: Transportation of Passengers For Hire By Motor Vehicles
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 19-501 Legislative findings.*
+*§ 19-501 Legislative findings.* ::
 
 
 It is hereby declared and found that the business of transporting passengers for hire by motor vehicle in the city of New York is affected with a public interest, is a vital and integral part of the transportation system of the city, and must therefore be supervised, regulated and controlled by the city.
@@ -3733,7 +3730,7 @@ It is hereby declared and found that the business of transporting passengers for
 
 
 
-*§ 19-502 Definitions.*
+*§ 19-502 Definitions.* ::
 
 
 For the purpose of this chapter:
@@ -3819,7 +3816,7 @@ hh. The term “vehicle utilization standard” means the standard for the effic
 
 
 
-*§ 19-503 Rules and regulations.*
+*§ 19-503 Rules and regulations.* ::
 
 
 a. The commission shall promulgate such rules and regulations as are necessary to exercise the authority conferred upon it by the charter and to implement the provisions of this chapter.
@@ -3831,7 +3828,7 @@ b. No rule or regulation promulgated subsequent to the effective date of this lo
 
 
 
-*§ 19-503.1 For-hire vehicles; special regulations.*
+*§ 19-503.1 For-hire vehicles; special regulations.* ::
 
 
 a. The commission shall have the authority to promulgate rules and regulations which classify for-hire vehicles according to the nature of the service or services provided and the type of vehicle used and adopt regulations appropriate for each such classification setting forth standards for operation, including but not limited to standards of service, insurance and safety, and promulgate rules imposing reasonable fines, suspension or revocation upon the holder of a license issued pursuant to section 19-511 where such holder has violated any of the provisions of this chapter or a rule of the commission.
@@ -3843,7 +3840,7 @@ b. For the purposes of this chapter, a for-hire vehicle shall not include a moto
 
 
 
-*§ 19-504 General provisions for licensing of vehicles.*
+*§ 19-504 General provisions for licensing of vehicles.* ::
 
 
 a. (1)    A taxi-cab, coach, wheelchair accessible van, commuter van or for-hire vehicle shall operate within the city of New York only if the owner shall first have obtained from the commission a taxicab, coach, wheelchair accessible van, commuter van or for-hire vehicle license for such vehicle and only while such license is in full force and effect. Vehicle licenses shall be issued for a term of not less than one nor more than two years and shall expire on the date set forth on the license unless sooner suspended or revoked by the commission. No motor vehicle other than a duly licensed taxicab shall be permitted to accept hails from passengers in the street. No commuter van shall be operated within the city of New York unless it is operated as part of a current, valid authorization to operate a commuter van service duly issued by the commission pursuant to section 19-504.2 of this chapter.
@@ -3899,7 +3896,7 @@ r. Notwithstanding any contrary provision of law, there shall be no more than 73
 
 
 
-*§ 19-504.1 Additional taxicab licenses. [Repealed]*
+*§ 19-504.1 Additional taxicab licenses. [Repealed]* ::
 
 
 a. No person shall operate a commuter van service wholly within the boundaries of the city or partly within the city if the partial operation consists of the pick up and discharge of passengers wholly within the city without first obtaining authorization from the commission.
@@ -3949,7 +3946,7 @@ k. The commission shall post on its website links to all New York city laws and 
 
 
 
-*§ 19-504.3 Conditions of operation relating to commuter vans.*
+*§ 19-504.3 Conditions of operation relating to commuter vans.* ::
 
 
 a. A commuter van service and an owner of a commuter van shall be responsible for compliance with the following provisions and shall be liable for violations thereof:
@@ -3987,7 +3984,7 @@ c. A commuter van service shall comply with such provisions of section five of t
 
 
 
-*§ 19-504.4 Renewal, suspension and revocation of authorizations to operate a commuter van service, commuter van licenses and commuter van drivers' licenses.*
+*§ 19-504.4 Renewal, suspension and revocation of authorizations to operate a commuter van service, commuter van licenses and commuter van drivers' licenses.* ::
 
 
 a. An authorization to operate a commuter van service shall be revoked after the holder of such authorization has had an opportunity for a hearing in accordance with procedures to be established by the commission and upon the occurrence of any one or more of the following conditions:
@@ -4041,7 +4038,7 @@ g. The commission shall notify the holder of an authorization to operate a commu
 
 
 
-*§ 19-505 General provisions for licensing of drivers.*
+*§ 19-505 General provisions for licensing of drivers.* ::
 
 
 a. No person shall drive any motor vehicle for hire which is regulated by the provisions of this chapter without first obtaining from the commission:
@@ -4111,7 +4108,7 @@ r. Any procedures established by the commission to determine the ability of an a
 
 
 
-*§ 19-506 [Regulations and enforcement.]*
+*§ 19-506 [Regulations and enforcement.]* ::
 
 
 a. Regulations and Enforcement. Except as provided by section 19-512.1, the commission may impose reasonable fines and/or suspend or revoke any license issued by the commission where the holder has failed to comply with or has willfully or knowingly violated any of the provisions of this chapter or a rule or regulation of the commission after adjudication of such violation by the administrative tribunal established by the commission in accordance with section 2303 of the New York city charter.
@@ -4187,7 +4184,7 @@ n. A person who holds a commuter van license must not allow such commuter van to
 
 
 
-*§ 19-506.1 Administrative Tribunal.*
+*§ 19-506.1 Administrative Tribunal.* ::
 
 
 a. If the commission is unable to produce a complaining witness in person, where such witness' credibility is relevant to the charges made in the notice of violation, the commission shall make reasonable efforts to make such witness available during the hearing by videoconferencing or teleconferencing. If the complaining witness is not available during a hearing, the commission shall produce a statement outlining its efforts to produce such witness. An administrative law judge shall examine such statement and if he or she decides the commission's efforts to produce the complaining witness were inadequate, the administrative law judge shall dismiss the notice of violation.
@@ -4205,7 +4202,7 @@ e. Notwithstanding any other laws, rules or regulations, where a respondent fail
 
 
 
-*§ 19-507 Mandatory penalties.*
+*§ 19-507 Mandatory penalties.* ::
 
 
 a. The commission or successor agency shall fine any driver, or suspend or revoke the driver's license of any driver, as provided in subdivision b of this section, who shall have been found in violation of any of the following:
@@ -4253,7 +4250,7 @@ f. The commission may suspend or revoke the license of any person whom it determ
 
 
 
-*§ 19-507.1 Persistent Violators of Rules Relating to Drivers of Taxicabs and For-Hire Vehicles.*
+*§ 19-507.1 Persistent Violators of Rules Relating to Drivers of Taxicabs and For-Hire Vehicles.* ::
 
 
 a. (1)    Any taxicab or for-hire vehicle driver may attend a remedial or refresher course approved by the commission. Upon presentation to the commission of proof of satisfactory completion of a commission-approved course by such driver, three points shall be deducted from the number of points assessed under the persistent violators program against his or her commission-issued driver's license, except as otherwise provided in this paragraph. A taxicab or for-hire vehicle driver shall be eligible for a point reduction pursuant to this subdivision only once within a five-year period. In the event no such approved course is available at the time such driver seeks to enroll, such driver may take a course provided for in paragraph one of subdivision c of section 19-507.2 of this chapter. In such instance, completion of a course taken pursuant to this paragraph or pursuant to paragraph one of subdivision c of section 19-507.2 shall result in the removal of three points from either the number of points accrued under the persistent violators program or from the number of points accrued under the critical drivers program, but not from both, upon the election of the driver who completes such course.
@@ -4285,7 +4282,7 @@ j. Any taxicab or for-hire vehicle driver who has been found guilty of violation
 
 
 
-*§ 19-507.2 Critical driver program.*
+*§ 19-507.2 Critical driver program.* ::
 
 
 a. Any taxicab or for-hire vehicle driver who has been found guilty of violations such that six or more points have been assessed by the department of motor vehicles or an equivalent licensing agency of the driver's state of residence against the driver license issued to such taxicab or for-hire vehicle driver within any fifteen-month period and whose commission-issued driver's license has not been revoked shall have his or her commission-issued driver's license suspended for thirty days.
@@ -4303,7 +4300,7 @@ c. (1)    A taxicab or for-hire vehicle driver shall be eligible to receive a
 
 
 
-*§ 19-507.3 Reporting requirements.*
+*§ 19-507.3 Reporting requirements.* ::
 
 
 a. An owner shall maintain on file with the commission a current telephone number serviced by an answering machine or recording device, a pager number, telephone answering service number or other information by which telephone contact with the owner or a designated representative may reasonably be expected to be made at all times. An owner or designated representative must respond to any telephone or pager contact from the commission within forty-eight hours.
@@ -4313,7 +4310,7 @@ a. An owner shall maintain on file with the commission a current telephone numbe
 
 
 
-*§ 19-508 Meters, radios and other equipment.*
+*§ 19-508 Meters, radios and other equipment.* ::
 
 
 a. All taxicabs shall be equipped with meters, and the equipment which shall store or transmit for storage fare data, including, but not limited to, the rate of fare and the times or locations such rate of fares were in effect, pick up and drop-off information and any other data as required by the commission. All data required to be stored or transmitted by such equipment shall be made available to the commission in a form and manner as required by the commission. A licensed driver's fare information, including rate of fare and pickup and drop-off information shall be made available to such driver as required by the commission, at no charge to such drivers. The commission shall prescribe by rule, contract or otherwise, responsibility for compliance with the provisions of this section, and for penalties for non-compliance with such provisions. The commission may permit or require other licensed vehicles to be equipped with the same or different types of meters.
@@ -4331,7 +4328,7 @@ c. 1. For purposes of this section, the term "trouble light" shall mean a help o
 
 
 
-*§ 19-509 Licensing of taximeter business.*
+*§ 19-509 Licensing of taximeter business.* ::
 
 
 a. It shall be unlawful for any person to engage in the business of manufacturing, selling, repairing and adjusting or calibrating taximeters or taximeter equipment for use upon any licensed vehicle in the city unless he or she shall secure a license therefor from the commission, and such person engaged in the business of installing, repairing, adjusting or calibrating taximeters shall only be licensed if he shall have a place of business within the city large enough simultaneously to accommodate at least three vehicles. Such licenses shall be issued for a period not exceeding one year and shall expire on the thirty-first day of March following the date of issue. The fee for the issuance of each such license shall be five hundred dollars per annum for each place of business licensed provided, however, that upon the issuance of a license for a period of six months or less, the fee shall be one-half the annual fee fixed by the commission.
@@ -4345,7 +4342,7 @@ c. Fees to be charged by persons licensed pursuant to this section shall be subj
 
 
 
-*§ 19-510 Licensing of official inspection stations. [Repealed]*
+*§ 19-510 Licensing of official inspection stations. [Repealed]* ::
 
 
 a. The commission shall require licenses for the operation of two-way radio or other communications systems used for dispatching or conveying information to drivers of licensed vehicles, including for-hire vehicles or wheelchair accessible vans and shall require licenses for base stations, upon such terms as it deems advisable and upon payment of reasonable license fees of not more than five hundred dollars a year. There shall be an additional fee of twenty-five dollars for late filing of a license renewal application where such filing is permitted by the commission.
@@ -4377,7 +4374,7 @@ i. The determination by the commission to approve an application for a license t
 
 
 
-*§ 19-511.1 Council review.*
+*§ 19-511.1 Council review.* ::
 
 
 Any determination by the commission to approve an application for a license to operate a new base station or to renew a license to operate a base station shall be subject to review by the council. Within ninety days of the first stated meeting following receipt of such determination and its accompanying materials, the council may approve or disapprove such determination by local law, after having adopted a resolution to review that determination. In the event that the council fails to act by local law within the ninety day period provided for in this section, the determination of the commission shall remain in effect. Where a base station license would otherwise expire while a determination by the commission to approve a renewal of such license is pending before the council, such license shall remain in full force and effect, unless suspended or revoked by the commission, until either the council has passed a local law to disapprove such determination or the period within which the council may act has elapsed.
@@ -4387,7 +4384,7 @@ Any determination by the commission to approve an application for a license to o
 
 
 
-*§ 19-512 Transferability of taxicab licenses issued pursuant to this chapter.*
+*§ 19-512 Transferability of taxicab licenses issued pursuant to this chapter.* ::
 
 
 a. Any taxicab license issued pursuant to this chapter and any renewals thereof, shall be transferable to a transferee who has demonstrated to the satisfaction of the commission that he is qualified to assume the duties and obligations of a taxicab owner.
@@ -4403,7 +4400,7 @@ c. The commission may charge a fee of one hundred sixty dollars for its administ
 
 
 
-*§ 19-512.1 Revocation of taxicab, for-hire or HAIL license or licenses.*
+*§ 19-512.1 Revocation of taxicab, for-hire or HAIL license or licenses.* ::
 
 
 a. The commission or successor agency may, for good cause shown relating to a direct and substantial threat to the public health or safety and prior to giving notice and an opportunity for a hearing, suspend a taxicab, for-hire vehicle license or a HAIL license issued pursuant to this chapter and, after notice and an opportunity for a hearing, suspend or revoke such license. The commission or successor agency may also, without having suspended a taxicab, for-hire vehicle license or a HAIL license, issue a determination to seek suspension or revocation of such license and after notice and an opportunity for a hearing, suspend or revoke such license. Notice of such suspension or of a determination by the commission or successor agency to seek suspension or revocation of a taxicab, for-hire vehicle license or a HAIL license shall be served on the licensee by personal delivery or by certified and regular mail within five calendar days of the pre-hearing suspension or of such determination. The licensee shall have an opportunity to request a hearing before an administrative tribunal of competent jurisdiction within ten calendar days after receipt of any such notification. Upon request such hearing shall be scheduled within ten calendar days, unless the commission or successor agency or other administrative tribunal of competent jurisdiction determines that such hearing would be prejudicial to an ongoing criminal or civil investigation. If the tenth day falls on a Saturday, Sunday or holiday, the hearing may be held on the next business day. A decision shall be made with respect to any such proceeding within sixty calendar days after the close of the hearing. In the event such decision is not made within that time period, the license or medallion which is the subject of the proceeding shall be returned by the commission or successor agency to the licensee and deemed to be in full force and effect until such determination is made, unless the commission or successor agency or other administrative tribunal of competent jurisdiction determines that the issuance of such determination would be prejudicial to an ongoing criminal or civil investigation.
@@ -4415,7 +4412,7 @@ b. It shall be an affirmative defense that the holder of the taxicab, for-hire v
 
 
 
-*§ 19-513 Repossessions.*
+*§ 19-513 Repossessions.* ::
 
 
 Any taxicab which is transferred involuntarily because of a default in the payment or installments due under the contract of sale, or any other contract or in any other manner whereby the license holder's interest in the license is not also transferred, and which is disposed according to law at public or private sale, may be operated by the purchaser thereof or his or her vendee, provided such purchaser or vendee is acceptable to the commission as a person suitable to receive a license. Upon such involuntary transfer, the license of said taxicab shall be cancelled immediately and a temporary, nontransferable, nonrenewable license issued to such purchaser or vendee for a period not exceeding one year upon the payment of a fee of not exceeding one hundred dollars therefor. At the end of such time, the original holder of the license, or his or her transferee if the license was first issued before the effective date of this chapter, shall be entitled to renewal of the license, provided that the provisions of subdivision (a) of section 19-512 of this chapter are complied with by such applicant, whether he or she is the original holder or a transferee.
@@ -4425,7 +4422,7 @@ Any taxicab which is transferred involuntarily because of a default in the payme
 
 
 
-*§ 19-514 Color schemes and emblems.*
+*§ 19-514 Color schemes and emblems.* ::
 
 
 a. The exterior of all taxicabs shall be painted yellow or any shade thereof.
@@ -4451,7 +4448,7 @@ i. Any clean air vehicle licensed by the commission shall display the words "CLE
 
 
 
-*§ 19-515 Color schemes and emblems.*
+*§ 19-515 Color schemes and emblems.* ::
 
 
 a. For-hire vehicles may be painted any color approved by the commission, other than the colors reserved for medallion taxis.
@@ -4471,7 +4468,7 @@ b. For-hire vehicles shall have the name of the owner or operator displayed on t
 
 
 
-*§ 19-516 Acceptance of passengers by for-hire vehicles and commuter vans.*
+*§ 19-516 Acceptance of passengers by for-hire vehicles and commuter vans.* ::
 
 
 a. For-hire vehicles that do not possess a valid HAIL license may accept passengers only on the basis of telephone contract or prearrangement. The commission or successor agency may establish such disciplinary actions as it deems appropriate for failure to abide by the provisions of this chapter.
@@ -4485,7 +4482,7 @@ b. No commuter van service and no person who owns, operates or drives a commuter
 
 
 
-*§ 19-517 For-hire vehicle licenses.*
+*§ 19-517 For-hire vehicle licenses.* ::
 
 
 The commission may require that a notice be posted at the main entrance of each garage housing for-hire vehicles reciting the number of such vehicles, their license numbers and such other information as the commission may designate.
@@ -4495,7 +4492,7 @@ The commission may require that a notice be posted at the main entrance of each 
 
 
 
-*§ 19-518 Transfer of licenses.*
+*§ 19-518 Transfer of licenses.* ::
 
 
 a. No for-hire vehicle license shall be transferred or assigned, nor shall such vehicle license be used in affiliation with any garage or business location other than the location stated in such license.
@@ -4523,7 +4520,7 @@ f. The commission shall revoke any base station license for nonuse in the event 
 
 
 
-*§ 19-519 Anti-noise and air pollution provisions.*
+*§ 19-519 Anti-noise and air pollution provisions.* ::
 
 
 a. Definitions. The term "octane rating" shall mean research octane rating or number measured by the research method. The term zero grams lead per gallon shall include gasoline containing up to 0.075 grams of lead per gallon.
@@ -4536,7 +4533,7 @@ b. Effective July first, nineteen hundred seventy-one, all motor vehicles licens
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - 
       - 96 Octane No. &amp; Above
@@ -4553,7 +4550,6 @@ b. Effective July first, nineteen hundred seventy-one, all motor vehicles licens
     * - 4. On and after Jan. 1, 1974
       - zero grams
       - zero grams
-
 ~
 
 
@@ -4571,7 +4567,7 @@ e. No driver shall operate or use a horn or similar signal device installed on a
 
 
 
-*§ 19-520 Advisory Board.*
+*§ 19-520 Advisory Board.* ::
 
 
 a. Taxi and limousine commission advisory board. There shall be an advisory board whose members shall be appointed for two-year terms by the mayor and the speaker of the council to enable the commission to be kept aware of current views of all segments of the industries regulated by the commission and of the public and to be available to the commission to provide the expertise of its members for the better administration of the commission and service to the public. Such advisory board shall consider and provide recommendations to the commission regarding issues related to such industries, including, but not limited to, the promulgation of rules, enforcement of existing laws and rules, and issues related to accessibility, safety regulations, fees, rates, work conditions and other industry matters.
@@ -4629,7 +4625,7 @@ e. Nothing contained in this section shall preclude any members of the commissio
 
 
 
-*§ 19-521 Central dispatcher services at all major transit terminals.*
+*§ 19-521 Central dispatcher services at all major transit terminals.* ::
 
 
 a. The commission shall institute a plan for the industry relating to the establishment of a central dispatch system operating at all air terminals within the city of New York. Such a program shall be instituted at all such air terminals to provide service to any and all points in the five boroughs, and in such other locations as from time to time the commission shall deem necessary.
@@ -4639,7 +4635,7 @@ a. The commission shall institute a plan for the industry relating to the establ
 
 
 
-*§ 19-522 Group riding.*
+*§ 19-522 Group riding.* ::
 
 
 The commission shall institute a group riding plan for the taxi industry in the city of New York. Initially, this plan shall encompass, minimally, a pilot group riding program from John F. Kennedy international airport to any and all points in the five boroughs, providing dispatchers at the various airport terminals and a central dispatching system to expedite passenger conveyance. After sixty days from the start of such program at John F. Kennedy international airport, the commission shall seek to establish group riding programs at various points in the five boroughs, to be designated by the commission, with the view to increasing taxicab availability to and from the outlying sections of the city to meet the maximum demands for taxi service.
@@ -4649,7 +4645,7 @@ The commission shall institute a group riding plan for the taxi industry in the 
 
 
 
-*§ 19-523 Service in areas outside the Manhattan central business district.*
+*§ 19-523 Service in areas outside the Manhattan central business district.* ::
 
 
 a. At the time of the submission of a final environmental impact statement to the council pursuant to section 19-504.1, the commission shall submit a written report to the council setting forth its plan for improving taxicab and for-hire vehicle service in the areas of the city lying outside of the central business district of the borough of Manhattan.
@@ -4663,7 +4659,7 @@ c. The commission shall consider a broad range of service, pricing and regulator
 
 
 
-*§ 19-525 Permits for exterior advertising.*
+*§ 19-525 Permits for exterior advertising.* ::
 
 
 a. No vehicle licensed pursuant to the provisions of this chapter shall carry any advertising on the exterior of such vehicle, including its roof and trunk, unless the owner thereof shall first have obtained from the commission a permit to carry such exterior advertising.
@@ -4685,7 +4681,7 @@ g. No permit issued under this section shall be transferred or assigned.
 
 
 
-*§ 19-527 Licensing of taxicab brokers.*
+*§ 19-527 Licensing of taxicab brokers.* ::
 
 
 a. For purposes of this section "taxicab broker" means a person, partnership or corporation who, for another and whether or not acting for a fee, commission or other valuable consideration, acts as an agent or intermediary in negotiating the purchase or sale of a taxicab or of stock of or in a corporation which is an owner as defined in subdivision i of section 19-501 of this chapter, or in negotiating a loan secured or to be secured by an encumbrance upon or transfer of a medallion, vehicle license or licensed vehicle. A purchase or sale under this subdivision shall include a purchase or sale of or under a reserve title contract, conditional sales agreement or vendor lien agreement.
@@ -4715,7 +4711,7 @@ h. Any person who violates the provisions of subdivision b of this section shall
 
 
 
-*§ 19-528 Additional powers of the commission with respect to unlicensed activities.*
+*§ 19-528 Additional powers of the commission with respect to unlicensed activities.* ::
 
 
 a. It shall be unlawful for any person required to be licensed pursuant to the provisions of this chapter to engage in any trade, business or activity for which a license is required without such license.
@@ -4749,7 +4745,7 @@ h. The owner or other person lawfully entitled to reclaim the contents of the pr
 
 
 
-*§ 19-529 Seat and shoulder belts required.*
+*§ 19-529 Seat and shoulder belts required.* ::
 
 
 a. Beginning with the 1991 model year, for each seating position, every taxicab and for-hire vehicle shall be equipped with seat belts and, for every outside passenger position, shall be equipped with shoulder belts.
@@ -4765,7 +4761,7 @@ d. At each inspection of a licensed taxicab or for-hire vehicle made pursuant to
 
 
 
-*§ 19-529.1 Prohibited acts relating to commuter vans.*
+*§ 19-529.1 Prohibited acts relating to commuter vans.* ::
 
 
 a. No commuter van service and no person who owns, operates or drives a commuter van shall solicit, pick up or discharge passengers, or permit or authorize the solicitation, pick up or discharge of passengers:
@@ -4781,7 +4777,7 @@ b. Where a violation of subdivision a of this section has been committed by a dr
 
 
 
-*§ 19-529.2 Seizure of commuter vans.*
+*§ 19-529.2 Seizure of commuter vans.* ::
 
 
 a. A police officer or agent of the commission may, upon service of a notice of violation upon the owner or operator of a commuter van, seize a vehicle which such police officer or agent of the commission has reasonable cause to believe is being operated as a commuter van service by or on behalf of a person who is not operating pursuant to a current, valid authorization or operating as a commuter van without a commuter van license as required by this chapter. All passengers in any seized vehicle shall be left in or transported to a location which is readily accessible to other means of public transportation. Any vehicle seized pursuant to this section shall be delivered into the custody of the city.
@@ -4805,7 +4801,7 @@ f. Where the commission or an administrative tribunal thereof, after adjudicatio
 
 
 
-*§ 19-529.3 Forfeiture of commuter vans.*
+*§ 19-529.3 Forfeiture of commuter vans.* ::
 
 
 a. In addition to the penalties, sanctions and remedies provided in this chapter or subdivisions six and seven of section one hundred forty-five of the transportation law, a vehicle seized pursuant to section 19-529.2 of this chapter, and all rights, title and interest therein, shall be subject to forfeiture to the city in accordance with the provisions of this section upon judicial determination thereof, if the owner of such vehicle has been found liable at least two times in an administrative or court proceeding for operating a commuter van or other such common carrier by or on behalf of a person who is not the holder of a current, valid authorization or operating a commuter van without a commuter van license as required by this chapter, both of which violations were committed within a five-year period.
@@ -4845,7 +4841,7 @@ i. In any action commenced pursuant to subdivision b or h of this section, where
 
 
 
-*§ 19-529.4 Color schemes and emblems and additional requirements for commuter vans.*
+*§ 19-529.4 Color schemes and emblems and additional requirements for commuter vans.* ::
 
 
 a. Commuter vans shall have the name of the vehicle owner, the name of the person holding the authorization pursuant to which such vehicle is operating and evidence of such authorization displayed on the outside and inside of the vehicle in such form as shall be prescribed by the commission.
@@ -4879,7 +4875,7 @@ d. All commuter vans shall at all times carry inside the vehicle and the operato
 
 
 
-*§ 19-529.5 Construction.*
+*§ 19-529.5 Construction.* ::
 
 
 The provisions of this chapter authorizing penalties, sanctions and remedies shall not be construed to supersede the provisions of subdivisions six and seven of section one hundred forty-five of the transportation law but shall be construed to provide penalties, sanctions and remedies in addition to those provided in such subdivisions.
@@ -4889,7 +4885,7 @@ The provisions of this chapter authorizing penalties, sanctions and remedies sha
 
 
 
-*§ 19-529.6 Applicability.*
+*§ 19-529.6 Applicability.* ::
 
 
 The provisions of this chapter shall not apply to the operations by a commuter van service of commuter vans to or from an airport in the city when such commuter van service or commuter vans have been issued a permit by the port authority of New York and New Jersey to operate at an airport in the city or apply for such permit and within a reasonable period of time are issued such permit by such authority.
@@ -4899,7 +4895,7 @@ The provisions of this chapter shall not apply to the operations by a commuter v
 
 
 
-*§ 19-529.7 Commuter van safety.*
+*§ 19-529.7 Commuter van safety.* ::
 
 
 Not later than July 1, 2017 and not later than every July 1 thereafter, commission shall submit to the mayor and the speaker of the council and publish on its website a report on safety in the commuter van industry. Such report shall include, but not be limited to, the following information from the previous calendar year:
@@ -4935,7 +4931,7 @@ Not later than July 1, 2017 and not later than every July 1 thereafter, commissi
 
 
 
-*§ 19-530 Licensing of agents.*
+*§ 19-530 Licensing of agents.* ::
 
 
 a. It shall be unlawful to act as an agent without first obtaining a license therefor from the commission. Such licenses shall be issued for a period not to exceed one year and shall expire on December thirty-first of the year in which it was issued, unless sooner suspended or revoked by the commission.
@@ -4989,7 +4985,7 @@ l. Nothing herein shall relieve the owner of a taxicab medallion of responsibili
 
 
 
-*§ 19-531 Public sale of taxicab licenses.*
+*§ 19-531 Public sale of taxicab licenses.* ::
 
 
 Notwithstanding any other provision of this chapter to the contrary, the commission is hereby authorized to issue additional taxicab licenses, provided, however, that the number of such additional licenses issued shall not exceed four hundred. Such additional licenses shall be issued by public sale and shall be fully transferable, and shall be subject to the provisions of this chapter and of chapter sixty-five of the New York city charter, except that they shall not be subject to the provisions of section 19-504.1 of this code. The commission shall prescribe by regulation the procedures for the issuance and public sale of such additional licenses, by public auction, sealed bids or other competitive process.
@@ -4999,7 +4995,7 @@ Notwithstanding any other provision of this chapter to the contrary, the commiss
 
 
 
-*§ 19-532 Public sale of additional taxicab licenses.*
+*§ 19-532 Public sale of additional taxicab licenses.* ::
 
 
 a. Notwithstanding any other provision of law to the contrary, the commission is hereby authorized to issue additional taxicab licenses, provided, however, that such additional licenses shall be issued only after completion by the commission of such review as may be required by article eight of the New York state environmental conservation law. Such additional licenses shall be issued in a number not to exceed the number of taxicab licenses whose public sale was authorized by chapter sixty-three of the laws of two thousand three, and shall be fully transferable and subject to the provisions of this chapter and of chapter sixty-five of the New York city charter. The commission shall prescribe by rule the procedures for the issuance and public sale of such additional licenses, by public auction, sealed bids or other competitive process.
@@ -5015,7 +5011,7 @@ d. The terms and conditions for the public sale of licenses pursuant to this sec
 
 
 
-*§ 19-533 Clean air taxis.*
+*§ 19-533 Clean air taxis.* ::
 
 
 The commission shall approve one or more hybrid electric vehicle models for use as a taxicab within ninety days after the enactment of this law. The approved vehicle model or models shall be eligible for immediate use by all current and future medallion owners. Notwithstanding the foregoing, the commission, to the extent practicable, shall within ninety days of the effective date of the chapter of the laws of two thousand seventeen that amended this section, permit one thousand three hundred fifty of such medallions to use any hybrid electric vehicle, excluding accessible vehicles as defined by section 19-534 of this chapter, that also meets all of the requirements for use as a for-hire vehicle. For the purposes of this chapter, a hybrid electric vehicle shall be defined as a commercially available mass production vehicle originally equipped by the manufacturer with a combustion engine system together with an electric propulsion system that operates in an integrated manner.
@@ -5027,7 +5023,7 @@ The commission shall approve one or more hybrid electric vehicle models for use 
 
 
 
-*§ 19-534 Clean air and accessible taxicab and for-hire vehicle plan.*
+*§ 19-534 Clean air and accessible taxicab and for-hire vehicle plan.* ::
 
 
 a. Definitions. For the purposes of this section only, the following terms shall have the following meanings:
@@ -5059,7 +5055,7 @@ g. The commission shall annually review the plan required to be implemented purs
 
 
 
-*§ 19-535 Extension of retirement periods for taxicabs.*
+*§ 19-535 Extension of retirement periods for taxicabs.* ::
 
 
 a. Definitions. For the purposes of this section only, the following terms shall have the following meanings:
@@ -5085,7 +5081,7 @@ c. Nothing contained herein shall affect the authority of the commission pursuan
 
 
 
-*§ 19-536 Clean air vehicle labeling and information.*
+*§ 19-536 Clean air vehicle labeling and information.* ::
 
 
 a. For the purposes of this section, the term "clean air vehicle" shall mean any taxicab approved for use by the commission that receives an air pollution score of 9.0 or higher from the United States environmental protection agency or its successor agency and is estimated to emit 6.4 tons or less of equivalent carbon dioxide per year by the United States department of energy or its successor agency; provided that such vehicle is powered by the fuel for which such vehicle meets the above-specified standards. In the event the test method used by the United States environmental protection agency or its successor agency for determining fuel economy is adjusted in a way that impacts United States department of energy or its successor agency estimates of equivalent carbon dioxide emissions for motor vehicles, the commission shall, for vehicles that fall within the affected model years, modify by rule the equivalent carbon dioxide emissions estimate included herein so as to appropriately reflect such adjustment's impact consistent with the intent of this section.
@@ -5097,7 +5093,7 @@ b. The commission shall develop and provide information to each owner of a clean
 
 
 
-*§ 19-537 Passengers' bills of rights.*
+*§ 19-537 Passengers' bills of rights.* ::
 
 
 a. For the purposes of this section, the term "livery" shall have the same meaning as defined under Title 35 of the rules of the city of New York.
@@ -5195,7 +5191,7 @@ g. The commission may by rule provide for additional rights to be stated in any 
 
 
 
-*§ 19-538 Vision impairment accessibility requirements.*
+*§ 19-538 Vision impairment accessibility requirements.* ::
 
 
 a. For the purposes of this section, "accessible to people with vision impairments" shall mean any taxicab that is equipped with instructions for contacting the commission in Braille and large-print text on the same side and in the same passenger compartment in each taxicab. If such taxicab has payment technology installed, such technology should be in the same passenger compartment in each taxicab, and should also provide a payment option, with the fare audibly announced and with audio instruction, to permit visually impaired passengers to pay unassisted, in such manner as provided for and adopted by the commission.
@@ -5209,7 +5205,7 @@ c. The commission may by rule establish greater levels of accessibility for taxi
 
 
 
-*§ 19-539 Passenger carrier information for consumers.*
+*§ 19-539 Passenger carrier information for consumers.* ::
 
 
 The department of transportation shall make available on the Internet through a web portal that is linked to nyc.gov or any successor website maintained by, or on behalf, of the city of New York, a link to the federal motor carrier safety administration's website and a description of the safety information and data available on such administration's website, including but not limited to a list of and a link to the federal passenger carrier safety ratings and a link to such administration's safety and fitness electronic records system.
@@ -5219,7 +5215,7 @@ The department of transportation shall make available on the Internet through a 
 
 
 
-*§ 19-540 Review of crashes.*
+*§ 19-540 Review of crashes.* ::
 
 
 a. Following any crash involving a driver licensed by the commission while operating a vehicle licensed by the commission where critical injury or death resulted to one or more persons, the commission shall, upon notification of such crash, review the results of the police department's investigation at or before the conclusion of such department's investigation. The commission shall further review the fitness of such driver to operate a vehicle licensed by the commission and take any enforcement action that it determines appropriate, unless such driver's commission issued license has been suspended, in which case such review may occur prior to the lifting of such suspension. The commission may summarily suspend the commission issued license of such driver while any fitness review or enforcement action is pending, consistent with the rules of the commission regarding summary suspensions. For purposes of this section, "critical injury" shall mean any injury determined to be critical by the emergency medical service personnel responding to any such incident. This section shall not limit in any way the commission's authority to summarily suspend a driver's commission issued license for other reasons.
@@ -5231,7 +5227,7 @@ b. On or before February 1, 2015 and quarterly thereafter, the commission shall 
 
 
 
-*§ 19-541 Serious crashes.*
+*§ 19-541 Serious crashes.* ::
 
 
 Where a driver licensed by the commission has been issued a summons for or charged with one or more traffic related violations or crimes in a crash in which any person has suffered critical injury or death, the license issued to such driver by the commission may be summarily suspended consistent with the rules of the commission regarding summary suspensions, and, upon conviction of such driver of one or more of the violations or crimes stated in the summons or such charges and upon a determination that one or more of such violations or crimes for which conviction occurred was a cause of such critical injury or death, such license shall be revoked. A summary suspension pursuant to this section may be lifted pursuant to the rules of the commission or upon dismissal of all such charges or upon a finding of not guilty of all of the stated traffic related violations and crimes, except that the commission may continue to suspend such license pursuant to section 19-540 of this chapter. For purposes of this section, "critical injury" shall mean any injury determined to be critical by the emergency medical service personnel responding to such crash. This section shall not limit in any way the commission's authority to summarily suspend a driver licensed by the commission for other reasons.
@@ -5241,7 +5237,7 @@ Where a driver licensed by the commission has been issued a summons for or charg
 
 
 
-*§ 19-542 Reporting of crash data on commission licensed vehicles.*
+*§ 19-542 Reporting of crash data on commission licensed vehicles.* ::
 
 
 On or before February 1, 2015 and quarterly thereafter, the commission shall for the prior quarter provide a report to the council and shall post on its website, the number of crashes involving a vehicle licensed by the commission. Such report shall disaggregate such crashes by the type of commission licensed vehicle and by whether critical injury or death resulted from such crashes. The commission shall also maintain within its records the number of crashes each licensed driver has been involved in while operating a commission licensed vehicle. For purposes of this section, "critical injury"shall mean any injury determined to be critical by the emergency medical service personnel responding to any such incident.
@@ -5251,7 +5247,7 @@ On or before February 1, 2015 and quarterly thereafter, the commission shall for
 
 
 
-*§ 19-543 Requirement to have signs in taxicabs and for-hire vehicles regarding penalties for assaulting drivers.*
+*§ 19-543 Requirement to have signs in taxicabs and for-hire vehicles regarding penalties for assaulting drivers.* ::
 
 
 Except as provided below, every owner of a taxicab, for-hire vehicle, commuter van, or wheelchair accessible van shall post in at least one conspicuous place in the rear passenger compartment of such vehicle a sign stating the following: "ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison" and shall ensure that such sign remains displayed in such vehicle. The commission shall promulgate rules, consistent with this section, including but not limited to the size of the sign, the number of signs per vehicle, the specific location within the vehicle of such signs, and the penalty for failing to post such signs. The provisions of this section shall not apply to black cars and luxury limousines.
@@ -5261,7 +5257,7 @@ Except as provided below, every owner of a taxicab, for-hire vehicle, commuter v
 
 
 
-*§ 19-544 Vehicle retirement.*
+*§ 19-544 Vehicle retirement.* ::
 
 
 No black car shall be subject to retirement from service so long as such vehicle passes all inspections required pursuant to the vehicle and traffic law, this code, or any rules promulgated by the commission.
@@ -5273,7 +5269,7 @@ No black car shall be subject to retirement from service so long as such vehicle
 
 
 
-*§ 19-545 Fare quotes.*
+*§ 19-545 Fare quotes.* ::
 
 
 a. A black car base or luxury limousine base, or a dispatch service provider operating on behalf of such a base, shall not quote or charge a fare that is more than the fare listed in the rate schedule filed with the commission.
@@ -5295,7 +5291,7 @@ d. Any black car base or luxury limousine base, or dispatch service provider ope
 
 
 
-*§ 19-546 Information security and use of personal information.*
+*§ 19-546 Information security and use of personal information.* ::
 
 
 a. All entities licensed by the commission, or authorized by the commission to provide services regulated by the commission, that collect or maintain passenger personal information or passenger geolocation information shall file with the commission an information security and use of personal information policy. Any policy filed pursuant to this section must include, at a minimum, the following provisions:
@@ -5323,7 +5319,7 @@ c. Any entity that has been found to have violated subdivisions a or b of this s
 
 
 
-*§ 19-547 Gratuity.*
+*§ 19-547 Gratuity.* ::
 
 
 a. Any for-hire vehicle base, or dispatch service provider operating on behalf of such a base, shall provide a means to allow passengers to provide drivers with a gratuity using the same method of payment passengers use to pay for the fare. If a for-hire vehicle base, or dispatch service provider operating on behalf of such a base, allows passengers to book and pay for a trip through a website, smartphone application, or any other passenger-facing booking tool, such website, smartphone application, or passenger-facing booking tool must provide passengers with preset gratuity options set according to the for-hire vehicle base’s discretion, but that include at least one option that is at least 20 percent of the fare, and permit passengers to manually enter another gratuity amount or percentage at the passengers’ option. A for-hire vehicle base must remit to the driver the entirety of anything designated as a gratuity collected by such base from the passenger on behalf of the driver.
@@ -5337,7 +5333,7 @@ b. Any for-hire vehicle base, or dispatch service provider operating on behalf o
 
 
 
-*§ 19-548 Licensing and operation of high-volume for-hire services.*
+*§ 19-548 Licensing and operation of high-volume for-hire services.* ::
 
 
 a. It is unlawful for a high-volume for-hire service to operate unless licensed to do so by the commission.
@@ -5409,7 +5405,7 @@ d. The penalty for operating a high-volume for-hire service without a valid lice
 
 
 
-*§ 19-549 Minimum payments to for-hire vehicle drivers and minimum fares.*
+*§ 19-549 Minimum payments to for-hire vehicle drivers and minimum fares.* ::
 
 
 a. Definitions. For purposes of this section, the term “trip” means a transportation service that involves picking up a passenger at a location, and taking and depositing such passenger at a different location requested by such passenger.
@@ -5427,7 +5423,7 @@ d. Following completion of the study required by section 19-550, the commission 
 
 
 
-*§ 19-550 Vehicle utilization standards.*
+*§ 19-550 Vehicle utilization standards.* ::
 
 
 a. The commission, in conjunction with the department of transportation, shall study (i) income drivers derive from operating vehicles that provide transportation services to passengers, (ii) traffic congestion throughout the city, (iii) the extent to which various categories of vehicles for hire contribute to such congestion, (iv) traffic safety, (v) vehicle utilization rates, (vi) access to services in different geographic areas of the city for one or more categories of vehicles for hire, (vii) the number of hours that drivers have made themselves available to accept dispatches from a base or from a high-volume for-hire service by day or week, (viii) driver income and well-being, and (ix) such other topics as the commission and the department of transportation deem appropriate. The study shall be conducted during the 12 months following the effective date of the local law that added this section.
@@ -5487,7 +5483,7 @@ g. The commission shall no later than December 31, 2020 and annually thereafter 
 
 
 
-*§ 19-551 Driver assistance.*
+*§ 19-551 Driver assistance.* ::
 
 
 a. Driver assistance services. The commission, in consultation with the department of consumer affairs, the department of small business services and any other agencies designated by the mayor, shall provide services and information to assist drivers, or owners of vehicles, licensed by the commission including but not limited to financial counseling, mental health services and referrals to non-profit organizations or other entities that may provide additional assistance to such drivers or owners. The commission may provide such services and information through the unit that issues licenses, the website of the commission, or such other means as the commission deems appropriate.
@@ -5501,7 +5497,7 @@ b. Financial education for drivers. The commission, in consultation with the dep
 
 
 
-*§ 19-552 Risk of loss on trip payments.*
+*§ 19-552 Risk of loss on trip payments.* ::
 
 
 a. Notwithstanding any inconsistent regulations, provisions of law or provisions of any contract entered into after the effective date of the local law that added this section, if a payment transaction for a completed trip dispatched by a high-volume for-hire service fails, such high-volume for-hire service shall ensure that the driver receives the entire amount owed to such driver for such completed trip.
@@ -5517,7 +5513,7 @@ c. Any high-volume for-hire service that violates this section is liable for a c
 
 
 
-*§ 19-553 Leasing, rental and conditional purchase of for-hire vehicles.*
+*§ 19-553 Leasing, rental and conditional purchase of for-hire vehicles.* ::
 
 
 a. The commission shall promulgate consumer protection and disclosure rules regarding leasing, rental, lease-to-own, and conditional purchase arrangements to obtain a for-hire vehicle for use with a license issued by the commission. Such rules may differ for different types of financial arrangements and different lengths of time of such arrangements. In promulgating such rules, the commission shall at a minimum consider the following:
@@ -5548,11 +5544,11 @@ c. Requirements imposed by the rules promulgated pursuant to this section shall 
 
 
 Chapter 6: School Buses
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 19-601 Safety measures on school buses; declaration and findings.*
+*§ 19-601 Safety measures on school buses; declaration and findings.* ::
 
 
 The council hereby finds that a serious emergency exists as to the safety of handicapped children transported to and from schools in school buses and other vehicles. Handicapped school children have been grievously injured, maimed and killed due to lack of seat belts and guards or escorts on school buses. The council finds that in order to prevent further tragedies to our handicapped school children the provisions of this section are declared necessary and are designed to protect, the safety, health and general welfare of our school children.
@@ -5562,7 +5558,7 @@ The council hereby finds that a serious emergency exists as to the safety of han
 
 
 
-*§ 19-602 Seat belts.*
+*§ 19-602 Seat belts.* ::
 
 
 All buses or other motor vehicles engaged in the business of transporting handicapped children to and from schools in the city shall be equipped with seat belts for each seat on such a bus, or other safety appliances prescribed by the national bureau of standards or other authorized governmental agencies promulgating rules relating to auto safety.
@@ -5572,7 +5568,7 @@ All buses or other motor vehicles engaged in the business of transporting handic
 
 
 
-*§ 19-603 Escorts.*
+*§ 19-603 Escorts.* ::
 
 
 a. All buses and other motor vehicles transporting handicapped children to and from school in the city shall be staffed, in addition to the driver thereof, with an escort. It shall be the duty and responsibility of such escort to generally supervise and aid the handicapped children riding such bus; to require each child to utilize a seat belt or other safety device and to escort the children on and off each bus to an area of safety.
@@ -5584,7 +5580,7 @@ b. The driver of a bus transporting children to and from school in the city shal
 
 
 
-*§ 19-604 Dual opening doors.*
+*§ 19-604 Dual opening doors.* ::
 
 
 All buses transporting handicapped children in the city, after September first, nineteen hundred seventy-five, shall be equipped with dual opening doors so that said doors shall open from no less than two sides of the motor vehicle.
@@ -5594,7 +5590,7 @@ All buses transporting handicapped children in the city, after September first, 
 
 
 
-*§ 19-605 Air-conditioning.*
+*§ 19-605 Air-conditioning.* ::
 
 
 a. Any bus or other motor vehicle transporting a child with a disability to and from a school in the city pursuant to any agreement or contract shall be air-conditioned when the ambient outside temperature exceeds seventy degrees Fahrenheit. Drivers of all such vehicles shall utilize such air conditioning systems in order to make the internal climate of such vehicles comfortable to passengers in order to protect or enhance the health of children with disabilities. Any failure, mechanical or otherwise, of an air-conditioning system required by this section shall be repaired and restored to operable condition as soon as is practicable, but in no event more than three business days subsequent to the failure. For purposes of this section, "child with a disability" shall mean a child with a disability as defined in section 4401(1) of the education law who requires an air-conditioned environment for health reasons.
@@ -5606,7 +5602,7 @@ b. The penalty provisions set forth in section 19-607 of this chapter shall not 
 
 
 
-*§ 19-606 School bus service.*
+*§ 19-606 School bus service.* ::
 
 
 a. Except as provided in subdivisions d, e and f of this section, no student shall be allowed to board a school bus operated by or pursuant to a contract with the board of education unless a seat is available for the student.
@@ -5628,7 +5624,7 @@ g. The provisions of this section shall apply only to those school buses operate
 
 
 
-*§ 19-607 Penalty.*
+*§ 19-607 Penalty.* ::
 
 
 Any person, firm or corporation who shall violate the provisions of this chapter shall be punished by a fine of five hundred dollars, or by imprisonment not to exceed three months or by both such fine and imprisonment.
@@ -5638,7 +5634,7 @@ Any person, firm or corporation who shall violate the provisions of this chapter
 
 
 
-*§ 19-608 Communication devices on school buses.*
+*§ 19-608 Communication devices on school buses.* ::
 
 
 a. Any bus or other motor vehicle used to transport students to or from schools pursuant to a contract between a school bus vendor and the department of education shall, at all times that students are present on such vehicle, be equipped with an operational two-way radio or other authorized communication device capable of allowing communication with the driver of such vehicle.
@@ -5654,7 +5650,7 @@ Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the 
 
 
 
-*§ 19-609 Global positioning systems on school buses.*
+*§ 19-609 Global positioning systems on school buses.* ::
 
 
 a. For purposes of this section, the term “GPS” means a global positioning system, or a comparable location tracking technology, that uses navigational satellites to determine a user’s location and velocity in real time.
@@ -5679,11 +5675,11 @@ Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the 
 
 
 Chapter 8: Citywide Transit Study
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 19-801 Citywide transit study.*
+*§ 19-801 Citywide transit study.* ::
 
 
 a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
@@ -5702,11 +5698,11 @@ b. No later than September 1, 2019 and every two years thereafter through Septem
 
 
 Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Act
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 19-701 Short title.*
+*§ 19-701 Short title.* ::
 
 
 This chapter shall be known and may be cited as the "Accessible Water Borne Commuter Services Facilities Transportation Act".
@@ -5716,7 +5712,7 @@ This chapter shall be known and may be cited as the "Accessible Water Borne Comm
 
 
 
-*§ 19-702 Legislative findings and intent.*
+*§ 19-702 Legislative findings and intent.* ::
 
 
 The Council hereby finds that the city of New York's water borne commuter services facilities are not uniformly accessible to disabled persons. This is a matter of serious concern affecting the public safety and welfare. The Council believes that there is an immediate need for regulation of water borne commuter services in order to enable disabled members of the public to have access to such services on an equal basis with non-disabled persons. The Council believes that under the Americans with Disabilities Act (ADA), disabled persons have the right to access commuter transportation services on an equal and non-discriminatory basis. However, the Council finds that no federal or state laws, rules or regulations are in effect that establish specific standards regarding access by disabled persons to water borne commuter services facilities in the city or the safety of such persons when utilizing such facilities. As a result, disabled persons in the city of New York are not assured that they can safely and consistently access water borne commuter services facilities. This legislation sets specific standards in relation to mandating accessible water borne commuter services facilities for disabled persons, thereby minimizing the tremendous and unfair burden placed on disabled persons who rely on these services. The Council further finds that the city's transportation needs and system are unique in that, unlike many other cities, major waterways are interspersed throughout the greater New York city area, resulting in residential concentrations that are in many instances separated by water from major centers of employment. Consequently, the city historically has had an extensive passenger ferry system. Furthermore, because of increasing levels of traffic congestion and air pollution, and concerns regarding the threat of terrorism to other modes of transportation, the city is rapidly developing an increasingly expansive system of passenger ferry transportation. The Council finds that it is imperative that such development results in water borne commuter services facilities that are accessible to all persons.
@@ -5726,7 +5722,7 @@ The Council hereby finds that the city of New York's water borne commuter servic
 
 
 
-*§ 19-703 Definitions.*
+*§ 19-703 Definitions.* ::
 
 
 For purposes of this chapter, the following terms shall be defined as follows:
@@ -5760,7 +5756,7 @@ l. "Water borne commuter vessel" means every description of water craft operatin
 
 
 
-*§ 19-704 Scope.*
+*§ 19-704 Scope.* ::
 
 
 All water borne commuter services facilities located or operating within the city of New York or its territorial waters shall be accessible to disabled persons as provided in this chapter.
@@ -5770,7 +5766,7 @@ All water borne commuter services facilities located or operating within the cit
 
 
 
-*§ 19-705 Accessible route.*
+*§ 19-705 Accessible route.* ::
 
 
 Except as may otherwise be set forth herein, there shall be at least one accessible route (i) to, (ii) into, (iii) onto and (iv) throughout any water borne commuter services facility consisting of a continuous, firm, stable and slip-resistant path that is maintained free of ice and snow; provided, however, that except as may be required pursuant to federal or state law, rule or regulation, no water borne commuter services facility shall be required to modify or install an elevator in order to satisfy the requirements of this chapter. No accessible route may have any vertical steps or rises greater than 1/2 inch unless made accessible by ramps, gangways or transition plates complying with this section. No accessible route may require that use thereof or accessibility thereto be conditioned upon prearrangement except to the extent a ticket must be purchased or fare must be paid. An accessible route shall provide or satisfy the following additional criteria, as applicable:
@@ -5840,7 +5836,7 @@ Table 1. Clear Deck Spaces
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Passenger capacity of water borne commuter vessel
       - Minimum Number
@@ -5850,7 +5846,6 @@ Table 1. Clear Deck Spaces
       - 4
     * - 150 and above
       - 6
-
 ~
 
 
@@ -5906,7 +5901,7 @@ h. Vessel loading equipment. Vessel loading equipment shall provide or satisfy e
 
 
 
-*§ 19-706 Posting of schedules, rates, departure and arrival information and complaint number.*
+*§ 19-706 Posting of schedules, rates, departure and arrival information and complaint number.* ::
 
 
 a. All schedules, rates, departure and arrival information shall be posted in accordance with the ADA.
@@ -5920,7 +5915,7 @@ c. Operators of water borne commuter services facilities shall post a sign to be
 
 
 
-*§ 19-707 Transportation to and from water borne commuter services facilities.*
+*§ 19-707 Transportation to and from water borne commuter services facilities.* ::
 
 
 a. Seventy-five percent of all buses and vans operated, sponsored, chartered, leased or otherwise placed into operation within the city of New York by water borne commuter services facilities operators or their affiliates as of the date of enactment of the local law that added this chapter shall meet the standards for accessibility for new vehicles as set forth in department of transportation regulations at 49 CFR part 38, subpart B by March 1, 2007.
@@ -5934,7 +5929,7 @@ c. Buses and vans purchased or newly chartered or leased by water borne commuter
 
 
 
-*§ 19-708 Safety and training.*
+*§ 19-708 Safety and training.* ::
 
 
 Operators shall ensure that an appropriate number of water borne commuter services facility personnel, and in no event less than one such person, be aboard each water borne commuter vessel during all crossings who are trained in appropriate safety and evacuation procedures for disabled persons.
@@ -5944,7 +5939,7 @@ Operators shall ensure that an appropriate number of water borne commuter servic
 
 
 
-*§ 19-709 Enforcement.*
+*§ 19-709 Enforcement.* ::
 
 
 The commission on human rights shall enforce the provisions of this chapter pursuant to the adjudication and mediation provisions as set forth in chapter 1 of title 8 of the administrative code of the city of New York.
@@ -5954,7 +5949,7 @@ The commission on human rights shall enforce the provisions of this chapter purs
 
 
 
-*§ 19-710 Violations.*
+*§ 19-710 Violations.* ::
 
 
 a. Any violation of any provision of this chapter or any rules promulgated hereto shall be liable for a civil penalty of not less than two hundred and fifty dollars per violation per day for every day that such violation occurs until such violation is remedied or removed.
@@ -5966,7 +5961,7 @@ b. Penalties imposed pursuant to this section shall not affect any right or reme
 
 
 
-*§ 19-711 Reporting requirements.*
+*§ 19-711 Reporting requirements.* ::
 
 
 The department, the commission on human rights and operators of any water borne commuter services facility each shall provide the mayor and the city council with a semiannual report by January thirty-first and July first of each year setting forth information regarding compliance and non-compliance with this chapter at each water borne commuter services facility, as applicable, regulated pursuant to this chapter. Such information shall include, but not be limited to, any violations, fines, complaints reported to the city of New York 311 Citizen Service Center or otherwise reported to the department, the commission on human rights or operators of any water borne commuter services facility, litigation instituted as a result of the provisions of this chapter and a detailed description of safety and training procedures implemented pursuant to section 19-708 of this chapter.
@@ -5976,7 +5971,7 @@ The department, the commission on human rights and operators of any water borne 
 
 
 
-*§ 19-712 Severability.*
+*§ 19-712 Severability.* ::
 
 
 If any section, subdivision, sentence, clause, phrase or other portion of the local law that added this chapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of the local law that added this chapter, which remaining portions shall continue in full force and effect.
@@ -5985,21 +5980,11 @@ If any section, subdivision, sentence, clause, phrase or other portion of the lo
 
 
 Chapter 9: Photo Speed Violation Monitoring Program*
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 19-901 Definitions. [Repealed]*
-
-
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
-
-
-
-
-
-
-*§ 19-902 Speeding in school speed zones prohibited. [Repealed]*
+*§ 19-901 Definitions. [Repealed]* ::
 
 
 (L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
@@ -6009,7 +5994,7 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 
 
 
-*§ 19-903 Penalties. [Repealed]*
+*§ 19-902 Speeding in school speed zones prohibited. [Repealed]* ::
 
 
 (L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
@@ -6019,7 +6004,7 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 
 
 
-*§ 19-904 System maintenance and operation. [Repealed]*
+*§ 19-903 Penalties. [Repealed]* ::
 
 
 (L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
@@ -6029,7 +6014,17 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 
 
 
-*§ 19-905 Implementation. [Repealed]*
+*§ 19-904 System maintenance and operation. [Repealed]* ::
+
+
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
+
+
+
+
+
+*§ 19-905 Implementation. [Repealed]* ::
 
 
 (L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
@@ -6038,11 +6033,11 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 
 
 Chapter 10: Special Hearing Procedures Applicable to Violations of Taxi and Limousine Commission Laws or Regulations
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 19-1001 Definitions.*
+*§ 19-1001 Definitions.* ::
 
 
 For purposes of this chapter, the following terms have the following meanings:
@@ -6070,7 +6065,7 @@ Tribunal. The term “tribunal” means the office of administrative trials and 
 
 
 
-*§ 19-1002 Appearances at commission-related hearings.*
+*§ 19-1002 Appearances at commission-related hearings.* ::
 
 
 a. At a hearing before the tribunal on a violation of a law or regulation enforced by the commission, the petitioner shall appear in one of the following ways:
@@ -6094,7 +6089,7 @@ d. At a hearing before the tribunal on a violation of a law or regulation enforc
 
 
 
-*§ 19-1003 Administrative law judge and hearing officer discretion to reduce commission penalties.*
+*§ 19-1003 Administrative law judge and hearing officer discretion to reduce commission penalties.* ::
 
 
 a. If an administrative law judge or hearing officer finds a violation, except for a violation under section 19-507, such administrative law judge or hearing officer may, in the interest of justice, and upon the petition of the respondent, reduce the penalty for such violation set by the commission after determining that such reduction is appropriate because one or more compelling considerations or circumstances clearly demonstrates that imposing such penalty would constitute or result in injustice. In determining whether such compelling consideration or circumstance exists, the administrative law judge or hearing officer shall, to the extent applicable, consider, individually and collectively, the following factors:
@@ -6128,7 +6123,7 @@ c. Within 20 business days of receipt of such reasons and determination, pursuan
 
 
 
-*§ 19-1004 Administrative law judge and hearing officer dismissal of a duplicate notice of violation.*
+*§ 19-1004 Administrative law judge and hearing officer dismissal of a duplicate notice of violation.* ::
 
 
 a. An administrative law judge or hearing officer shall dismiss a notice of violation in relation to a hearing before the tribunal on a violation of a law or regulation enforced by the commission upon determining that such notice of violation is substantively identical to a violation received for the same act under commission rules or provisions of law other than commission rules, provided that such substantively identical violation has not already been dismissed by the relevant adjudicatory body.
@@ -6142,7 +6137,7 @@ b. In order for such administrative law judge or hearing officer to determine wh
 
 
 
-*§ 19-1005 Commission-related hearing deadline.*
+*§ 19-1005 Commission-related hearing deadline.* ::
 
 
 A respondent, or their representative, shall be considered to have made a timely appearance for a hearing provided they appear, whether in person or pursuant to subdivision (d) of section 19-1002, within 90 minutes of the scheduled time set forth in the summons. If a hearing does not begin within three hours of the timely appearance of both the respondent and the petitioner then the tribunal shall dismiss the notice of violation without prejudice.

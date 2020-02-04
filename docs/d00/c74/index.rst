@@ -1,10 +1,10 @@
 Chapter 71: Department of Transportation
-============================================================================================================================================================================================================
+===================================================
 Section 2901.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 2901. Department; commissioner.*
+*Section 2901. Department; commissioner.* ::
 
 
 There shall be a department of transportation, the head of which shall be the commissioner of transportation.
@@ -13,10 +13,10 @@ There shall be a department of transportation, the head of which shall be the co
 
 
 Section 2902.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 2902. Deputies.*
+*Section 2902. Deputies.* ::
 
 
 The commissioner may appoint three deputies, one of whom shall be in charge of highway operations and be a licensed professional engineer in good standing under the education law.
@@ -25,10 +25,10 @@ The commissioner may appoint three deputies, one of whom shall be in charge of h
 
 
 Section 2903.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 2903. Powers and duties of the commissioner.*
+*Section 2903. Powers and duties of the commissioner.* ::
 
 
 Except as otherwise provided by law, the commissioner shall have control over and be responsible for all those functions and operations of the city relating to transportation including, without limitation, the following:
@@ -159,10 +159,10 @@ Except as otherwise provided by law, the commissioner shall have control over an
 
 
 Section 2904.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 2904. Duties and obligations of property owner with respect to sidewalk flags, fencing of vacant lots and filling of sunken lots or cutting down of raised lots.*
+*Section 2904. Duties and obligations of property owner with respect to sidewalk flags, fencing of vacant lots and filling of sunken lots or cutting down of raised lots.* ::
 
 
 The owner of any property at his own cost, shall
@@ -175,10 +175,10 @@ The owner of any property at his own cost, shall
 
 
 Section 2905.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 2905. Right of entry.*
+*Section 2905. Right of entry.* ::
 
 
 The commissioner or his agent when authorized by him may in accordance with law enter upon public or private property the purpose of making surveys, borings or other investigations necessary for the exercise of the powers or the performance of the duties of the department. Refusal to permit such entry shall be triable by the judge of the criminal court of the city of New York and punishable by not more than thirty days' imprisonment or by a fine of not more than fifty dollars or both.
@@ -187,10 +187,10 @@ The commissioner or his agent when authorized by him may in accordance with law 
 
 
 Section 2906.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 2906. Improved traffic flow at highway construction sites.*
+*Section 2906. Improved traffic flow at highway construction sites.* ::
 
 
 The commissioner may provide that on any city-sponsored, authorized or assisted arterial highway construction site, or major repair site that in the discretion of the commissioner is likely to substantially disrupt traffic, signs be posted at least one half mile or more prior to the area under construction or repair warning motorists of the fact that such work is in progress and, wherever possible, advising of an available alternate route.

@@ -1,10 +1,10 @@
 Chapter 38: Financial Information Services Agency
-============================================================================================================================================================================================================
+===================================================
 Section 860.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 860. Financial information services agency.*
+*Section 860. Financial information services agency.* ::
 
 
 There shall be a financial information services agency which shall be headed by three directors appointed by the mayor, one of whom shall be appointed upon the recommendation of the comptroller, and one of whom shall be appointed upon the recommendation of the other two. The directors may be city employees. They shall receive no compensation for their services to the agency (except that a city employee may continue to receive regular compensation) but shall be compensated for expenses actually and necessarily incurred in the performance of their duties.
@@ -13,10 +13,10 @@ There shall be a financial information services agency which shall be headed by 
 
 
 Section 861.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 861. Powers and duties.*
+*Section 861. Powers and duties.* ::
 
 
 a. The agency shall have the power and duty to:
@@ -35,10 +35,10 @@ b. All agencies shall furnish such information or equipment in their possession 
 
 
 Section 862.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 862. Staff.*
+*Section 862. Staff.* ::
 
 
 The directors shall recommend and the mayor shall appoint an executive director of financial information services. Within the appropriations therefor, the agency shall employ such other officers and employees as may be required to perform its duties.

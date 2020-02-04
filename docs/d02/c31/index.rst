@@ -1,8 +1,8 @@
 Title 48: Office of Administrative Trials and Hearings (OATH)
-======================================================================================================
+===================================================
 
 Chapter 1: Rules of Practice Applicable To Cases at the OATH Trials Division
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
@@ -11,7 +11,7 @@ Chapter 1: Rules of Practice Applicable To Cases at the OATH Trials Division
 
 
 
-*§ 1-01 Definitions.*
+*§ 1-01 Definitions.* ::
 
 
 As used in this chapter:
@@ -51,7 +51,7 @@ Trial. "Trial" means a proceeding before an administrative law judge in the OATH
 
 
 
-*§ 1-02 Jurisdiction.*
+*§ 1-02 Jurisdiction.* ::
 
 
 Pursuant to Charter § 1049(3), OATH's jurisdiction includes the authority to render any ruling or order necessary and appropriate under applicable law or agency rule for the just and efficient adjudication of cases.
@@ -61,7 +61,7 @@ Pursuant to Charter § 1049(3), OATH's jurisdiction includes the authority to re
 
 
 
-*§ 1-03 Applicability.*
+*§ 1-03 Applicability.* ::
 
 
 This chapter applies to the conduct of all cases, including trials, pre-trial and post-trial matters, except to the extent that this chapter may be superseded by CAPA or other provision of law.
@@ -73,7 +73,7 @@ This chapter applies to the conduct of all cases, including trials, pre-trial an
 
 
 
-*§ 1-04 Construction and Waiver.*
+*§ 1-04 Construction and Waiver.* ::
 
 
 This title will be liberally construed to promote just and efficient adjudication of cases. This title may be waived or modified on such terms and conditions as may be determined in a particular case to be appropriate by an administrative law judge.
@@ -85,7 +85,7 @@ This title will be liberally construed to promote just and efficient adjudicatio
 
 
 
-*§ 1-05 Effective Date.*
+*§ 1-05 Effective Date.* ::
 
 
 This chapter is effective on the first day permitted by CAPA, § 1043(e), and applies to all cases brought before the OATH Trials Division. However, for cases initiated prior to the effective date of these rules, no act which was valid, timely or otherwise proper under the rules applicable at the time of the act will be rendered improper by the subsequent effectiveness of this chapter.
@@ -97,7 +97,7 @@ This chapter is effective on the first day permitted by CAPA, § 1043(e), and ap
 
 
 
-*§ 1-06 Computation of Time.*
+*§ 1-06 Computation of Time.* ::
 
 
 Periods of days prescribed in this chapter will be calculated in calendar days, except that when a period of days expires on a Saturday, Sunday or legal holiday, the period will run until the next business day. Where this chapter prescribes different time periods for taking an action depending whether service of papers is personal or by mail, service of papers by electronic means will be deemed to be personal service, solely for purposes of calculating the applicable period of time.
@@ -109,7 +109,7 @@ Periods of days prescribed in this chapter will be calculated in calendar days, 
 
 
 
-*§ 1-07 Filing of Papers.*
+*§ 1-07 Filing of Papers.* ::
 
 
 (a) Generally. Papers may be filed at OATH in person, by mail or by electronic means.
@@ -127,7 +127,7 @@ Periods of days prescribed in this chapter will be calculated in calendar days, 
 
 
 
-*§ 1-08 Access to Facilities and Programs by People with Disabilities.*
+*§ 1-08 Access to Facilities and Programs by People with Disabilities.* ::
 
 
 OATH is committed to providing equal access to its facilities and programs to people with disabilities and OATH will make reasonable accommodations requested by people with disabilities. A person requesting an accommodation for purposes of participation in a case at OATH, including attendance as a member of the public, must request such accommodation sufficiently in advance of the proceeding in which the person wishes to participate to permit a reasonable time to evaluate the request. A request for accommodation must be submitted to OATH's Calendar Unit.
@@ -144,7 +144,7 @@ OATH is committed to providing equal access to its facilities and programs to pe
 
 
 
-*§ 1-11 Appearances.*
+*§ 1-11 Appearances.* ::
 
 
 (a) A party may appear in person, by an attorney, or by a duly authorized representative. A person appearing for a party, including by telephone conference call, is required to file a notice of appearance with OATH. Docketing of a case by an attorney or representative of a party will be deemed to constitute the filing of a notice of appearance by that person. The filing of any papers by an attorney or representative who has not previously appeared will constitute the filing of a notice of appearance by that person, and must conform to the requirements of subdivisions (b), (d) and (e) of this section.
@@ -164,7 +164,7 @@ OATH is committed to providing equal access to its facilities and programs to pe
 
 
 
-*§ 1-12 Withdrawal and Substitution of Counsel.*
+*§ 1-12 Withdrawal and Substitution of Counsel.* ::
 
 
 (a) An attorney who has filed a notice of appearance must not withdraw from representation without the permission of the administrative law judge, on application. Withdrawals will not be granted unless upon consent of the client or when other cause exists as delineated in the applicable provisions of the Code of Professional Responsibility.
@@ -178,7 +178,7 @@ OATH is committed to providing equal access to its facilities and programs to pe
 
 
 
-*§ 1-13 Conduct; Suspension from Practice at OATH.*
+*§ 1-13 Conduct; Suspension from Practice at OATH.* ::
 
 
 (a) Individuals appearing before OATH must comply with the rules of this chapter and any other applicable rules, and must comply with the orders and directions of the administrative law judge.
@@ -200,7 +200,7 @@ OATH is committed to providing equal access to its facilities and programs to pe
 
 
 
-*§ 1-14 Ex Parte Communications.*
+*§ 1-14 Ex Parte Communications.* ::
 
 
 (a) Except for ministerial matters, on consent, in an emergency, or as provided in 48 RCNY § 1-31(a), communications with the administrative law judge concerning a case must only occur with all parties present. If an administrative law judge receives an ex parte communication concerning the merits of a case to which he or she is assigned, then he or she must promptly disclose the communication by placing it on the record, in detail, including all written and oral communications and identifying all individuals with whom he or she has communicated. A party desiring to rebut the ex parte communication will be allowed to do so upon request.
@@ -219,7 +219,7 @@ OATH is committed to providing equal access to its facilities and programs to pe
 
 
 
-*§ 1-21 Designation of OATH.*
+*§ 1-21 Designation of OATH.* ::
 
 
 Where necessary under the provision of law governing a particular category of cases, the agency head will designate the Chief Administrative Law Judge of OATH, or such administrative law judges as the Chief Administrative Law Judge may assign, to hear such cases.
@@ -231,7 +231,7 @@ Where necessary under the provision of law governing a particular category of ca
 
 
 
-*§ 1-22 The Petition.*
+*§ 1-22 The Petition.* ::
 
 
 The petition must include a short and plain statement of the matters to be adjudicated, and, where appropriate, specifically allege the incident, activity or behavior at issue as well as the date, time, and place of occurrence. The petition must also identify the law, rule, regulation, contract provision, or policy that was allegedly violated and provide a statement of the relief requested. If the petition does not comply with this provision, the administrative law judge may direct, on the motion of a party or sua sponte, that the petitioner re-plead the petition.
@@ -243,7 +243,7 @@ The petition must include a short and plain statement of the matters to be adjud
 
 
 
-*§ 1-23 Service of the Petition.*
+*§ 1-23 Service of the Petition.* ::
 
 
 (a) The petitioner must serve the respondent with the petition. The petition must be accompanied by a notice of the following: the respondent's right to file an answer and the deadline to do so under 48 RCNY § 1-24; the respondent's right to representation by an attorney or other representative; and the requirement that a person representing the respondent must file a notice of appearance with OATH. The notice must include the statement that OATH's rules of practice and procedure are published in Title 48 of the Rules of the City of New York, and that copies of OATH's rules are available at OATH's offices or on OATH's website www.nyc.gov/oath.
@@ -259,7 +259,7 @@ The petition must include a short and plain statement of the matters to be adjud
 
 
 
-*§ 1-24 Answer.*
+*§ 1-24 Answer.* ::
 
 
 The respondent may serve and file an answer to the petition within eight days of service of the petition if service was personal, or within thirteen days of service of the petition if service was by mail, unless a different time is fixed by the administrative law judge. In the discretion of the administrative law judge, the respondent may be required to serve and file an answer. Failure to file an answer where required, may result in sanctions, including those specified in 48 RCNY § 1-33(e).
@@ -269,7 +269,7 @@ The respondent may serve and file an answer to the petition within eight days of
 
 
 
-*§ 1-25 Amendment of Pleadings.*
+*§ 1-25 Amendment of Pleadings.* ::
 
 
 Amendments of pleadings must be made as promptly as possible. If a pleading is to be amended less than twenty-five days before the commencement of the trial, amendment may be made only on consent of the parties or by leave of the administrative law judge on motion.
@@ -281,7 +281,7 @@ Amendments of pleadings must be made as promptly as possible. If a pleading is t
 
 
 
-*§ 1-26 Docketing the Case.*
+*§ 1-26 Docketing the Case.* ::
 
 
 (a) A case must be docketed by filing with OATH a completed intake sheet, and either a petition or a written application for relief. Parties are encouraged to docket cases by electronic means. When a case is docketed, OATH will place it on the trial calendar, the conference calendar, or on open status. Absent prejudice, cases involving the same respondent or respondents will be scheduled for joint trials or conferences, as will cases alleging different respondents' involvement in the same incident or incidents.
@@ -301,7 +301,7 @@ Amendments of pleadings must be made as promptly as possible. If a pleading is t
 
 
 
-*§ 1-27 Disqualification of Administrative Law Judges.*
+*§ 1-27 Disqualification of Administrative Law Judges.* ::
 
 
 (a) A motion for disqualification of an administrative law judge must be addressed to that administrative law judge, accompanied by a statement of the reasons for such application, and made as soon as practicable after a party has reasonable cause to believe that grounds for disqualification exist.
@@ -317,7 +317,7 @@ Amendments of pleadings must be made as promptly as possible. If a pleading is t
 
 
 
-*§ 1-28 Notice of Conference or Trial.*
+*§ 1-28 Notice of Conference or Trial.* ::
 
 
 (a) When a case is placed on either the trial calendar or the conference calendar, and within the time provided in 48 RCNY § 1-26(d), if applicable, the party that placed the case on the calendar must serve each other party with notice of the following: the date, time and place of the trial or conference; each party's right to representation by an attorney or other representative at the trial or conference; the requirement that a person representing a party at the trial or conference must file a notice of appearance with OATH prior to the trial or conference; and, in a notice of a trial served by the petitioner, the fact that failure of the respondent or an authorized representative of the respondent to appear at the hearing may result in a declaration of default, and a waiver of the right to a trial or other disposition against the respondent. The notice may be served personally or by mail, and appropriate proof of service must be maintained. A copy of the notice of conference, with proof of service, must be filed with OATH at or before the commencement of the conference. A copy of the notice of trial, with proof of service, must be filed with OATH at or before the commencement of the trial.
@@ -331,7 +331,7 @@ Amendments of pleadings must be made as promptly as possible. If a pleading is t
 
 
 
-*§ 1-29 Scheduling Other Conferences.*
+*§ 1-29 Scheduling Other Conferences.* ::
 
 
 In the discretion of the administrative law judge, and whether or not a case has been on the conference calendar, conferences may be scheduled on application of either party or sua sponte. 
@@ -341,7 +341,7 @@ In the discretion of the administrative law judge, and whether or not a case has
 
 
 
-*§ 1-30 Conduct of Conferences.*
+*§ 1-30 Conduct of Conferences.* ::
 
 
 (a) All parties are required to attend conferences as scheduled unless timely application is made to the administrative law judge. Participants must be prompt and prepared to begin on time. No particular format for conducting the conference is required. The structure of the conference may be tailored to the circumstances of the particular case. The administrative law judge may propose mediation and, where the parties consent, may refer the parties to the Center for Creative Conflict Resolution or other qualified mediators. In the discretion of the administrative law judge, conferences may be conducted by telephone.
@@ -357,7 +357,7 @@ In the discretion of the administrative law judge, and whether or not a case has
 
 
 
-*§ 1-31 Settlement Conferences and Agreements.*
+*§ 1-31 Settlement Conferences and Agreements.* ::
 
 
 (a) Prior to a conference at which settlement is to be discussed, the administrative law judge assigned to the conference may require each party to provide a pre-conference letter. The pre-conference letter must be sent solely to the administrative law judge by fax or e-mail and marked prominently "CONFIDENTIAL MATERIAL FOR USE AT SETTLEMENT CONFERENCE." The pre-conference letter must state succinctly:
@@ -381,7 +381,7 @@ In the discretion of the administrative law judge, and whether or not a case has
 
 
 
-*§ 1-32 Adjournments.*
+*§ 1-32 Adjournments.* ::
 
 
 (a) Applications for adjournments of conferences or trials will be governed by this section and by 48 RCNY § 1-34 or § 1-50. Conversion of a trial date to a conference date, or from conference to trial, will be deemed to be an adjournment.
@@ -407,7 +407,7 @@ In the discretion of the administrative law judge, and whether or not a case has
 
 
 
-*§ 1-33 Discovery.*
+*§ 1-33 Discovery.* ::
 
 
 (a) Requests for production of documents, for identification of trial witnesses, and for inspection of real evidence to be introduced at the trial may be directed by any party to any other party without leave of the administrative law judge.
@@ -429,7 +429,7 @@ In the discretion of the administrative law judge, and whether or not a case has
 
 
 
-*§ 1-34 Pre-Trial Motions.*
+*§ 1-34 Pre-Trial Motions.* ::
 
 
 (a) Pre-trial motions will be consolidated and addressed to the administrative law judge as promptly as possible, and sufficiently in advance of the trial to permit a timely decision to be made. Delay in presenting such a motion may, in the discretion of the administrative law judge, weigh against the granting of the motion, or may lead to the granting of the motion upon appropriate conditions.
@@ -458,7 +458,7 @@ In the discretion of the administrative law judge, and whether or not a case has
 
 
 
-*§ 1-41 Consolidation; Separate Trials.*
+*§ 1-41 Consolidation; Separate Trials.* ::
 
 
 All or portions of separate cases may be consolidated for trial, or portions of a single case may be severed for separate trials, in the discretion of the administrative law judge. Consolidation or severance may be ordered on motion or sua sponte, in furtherance of justice, efficiency or convenience.
@@ -468,7 +468,7 @@ All or portions of separate cases may be consolidated for trial, or portions of 
 
 
 
-*§ 1-42 Witnesses and Documents.*
+*§ 1-42 Witnesses and Documents.* ::
 
 
 The parties must have all of their witnesses available on the trial date. A party intending to introduce documents into evidence must bring to trial copies of those documents for the administrative law judge, the witness, and the other parties. Repeated failure to comply with this section may be cause for sanctions, as set forth in 48 RCNY § 1-13(e).
@@ -480,7 +480,7 @@ The parties must have all of their witnesses available on the trial date. A part
 
 
 
-*§ 1-43 Subpoenas.*
+*§ 1-43 Subpoenas.* ::
 
 
 (a) A subpoena ad testificandum requiring the attendance of a person to give testimony prior to or at a trial or a subpoena duces tecum requiring the production of documents or things at or prior to a trial may be issued only by the administrative law judge upon application of a party or sua sponte.
@@ -498,7 +498,7 @@ The parties must have all of their witnesses available on the trial date. A part
 
 
 
-*§ 1-44 Interpreters.*
+*§ 1-44 Interpreters.* ::
 
 
 (a) OATH will provide language assistance services to a party or their witnesses who are in need of such services to communicate at a trial or conference. All requests for language assistance must be made to OATH's calendar unit.
@@ -516,7 +516,7 @@ The parties must have all of their witnesses available on the trial date. A part
 
 
 
-*§ 1-45 Failure to Appear.*
+*§ 1-45 Failure to Appear.* ::
 
 
 All parties, attorneys and other representatives are required to be present at OATH and prepared to proceed at the time scheduled for commencement of trial. Commencement of trial, or of any session of trial, will not be delayed beyond the scheduled starting time except for good cause as determined in the discretion of the administrative law judge. Absent a finding of good cause, and to the extent permitted by the law applicable to the claims asserted in the petition, the administrative law judge may direct that the trial proceed in the absence of any missing party or representative, render a disposition of the case adverse to the missing party, or take other appropriate measures, including the imposition of sanctions listed in 48 RCNY § 1-13(e). Relief from the direction of the administrative law judge may be had only upon motion brought as promptly as possible pursuant to 48 RCNY § 1-50 or § 1-52. The administrative law judge may grant or deny such a motion, in whole, in part, or upon stated conditions.
@@ -528,7 +528,7 @@ All parties, attorneys and other representatives are required to be present at O
 
 
 
-*§ 1-46 Evidence at the Trial.*
+*§ 1-46 Evidence at the Trial.* ::
 
 
 (a) Compliance with technical rules of evidence, including hearsay rules, will not necessarily be required. Traditional rules governing trial sequence will apply. In addition, principles of civil practice and rules of evidence may be applied to ensure an orderly proceeding and a clear record, and to assist the administrative law judge in the role as trier of fact. Traditional trial sequence may be altered by the administrative law judge for convenience of the parties, attorneys, witnesses, or OATH, where substantial prejudice will not result.
@@ -544,7 +544,7 @@ All parties, attorneys and other representatives are required to be present at O
 
 
 
-*§ 1-47 Evidence Pertaining to Penalty or Relief.*
+*§ 1-47 Evidence Pertaining to Penalty or Relief.* ::
 
 
 (a) A separate trial will not be held as to the penalty to be imposed or the relief to be granted in the event that the petition is sustained in whole or in part.
@@ -558,7 +558,7 @@ All parties, attorneys and other representatives are required to be present at O
 
 
 
-*§ 1-48 Official Notice.*
+*§ 1-48 Official Notice.* ::
 
 
 (a) In reaching a decision, the administrative law judge may take official notice, before or after submission of the case for decision, on request of a party or sua sponte on notice to the parties, of any fact which may be judicially noticed by the courts of this state. Matters of which official notice is taken will be noted in the record, or appended thereto. The parties will be given a reasonable opportunity on request to refute the officially noticed matters by evidence or by presentation of authority.
@@ -572,7 +572,7 @@ All parties, attorneys and other representatives are required to be present at O
 
 
 
-*§ 1-49 Public Access to Proceedings.*
+*§ 1-49 Public Access to Proceedings.* ::
 
 
 (a) Other than settlement conferences, all proceedings are open to the public, unless the administrative law judge finds that a legally recognized ground exists for closure of all or a portion of the proceeding, or unless closure is required by law. Trial witnesses may be excluded from proceedings other than their own testimony in the discretion of the administrative law judge.
@@ -590,7 +590,7 @@ All parties, attorneys and other representatives are required to be present at O
 
 
 
-*§ 1-50 Trial Motions.*
+*§ 1-50 Trial Motions.* ::
 
 
 Motions may be made during the trial orally or in writing. Trial motions made in writing must satisfy the requirements of 48 RCNY § 1-34. The administrative law judge may, in his or her discretion, require that any trial motion be briefed or otherwise supported in writing. In cases referred to OATH for disposition by report and recommendation to the head of the agency, motions addressed to the sufficiency of the petition or the sufficiency of the petitioner's evidence will be reserved until closing statements.
@@ -602,7 +602,7 @@ Motions may be made during the trial orally or in writing. Trial motions made in
 
 
 
-*§ 1-51 The Transcript.*
+*§ 1-51 The Transcript.* ::
 
 
 Trials will be stenographically or electronically recorded, and the recordings will be transcribed, unless the administrative law judge directs otherwise. In the discretion of the administrative law judge, matters other than the trial may be recorded and such recordings may be transcribed. Transcripts will be made part of the record, and will be made available upon request or as required by law.
@@ -614,7 +614,7 @@ Trials will be stenographically or electronically recorded, and the recordings w
 
 
 
-*§ 1-51.1 Decision Made on the Record.*
+*§ 1-51.1 Decision Made on the Record.* ::
 
 
 An administrative law judge may dispose of a case by making a decision or report and recommendation on the record.
@@ -624,7 +624,7 @@ An administrative law judge may dispose of a case by making a decision or report
 
 
 
-*§ 1-52 Post-Trial Motions.*
+*§ 1-52 Post-Trial Motions.* ::
 
 
 Post-trial motions must be made in writing, in conformity with the requirements of 48 RCNY § 1-34, to the administrative law judge, except that after issuance of a report and recommendation in a case referred to OATH for such motions, as well as comments on the report and recommendation to the extent that such comments are authorized by law, must be addressed to the deciding authority.
@@ -635,7 +635,7 @@ Post-trial motions must be made in writing, in conformity with the requirements 
 
 
 Chapter 2: Additional Rules of Practice Applicable To Particular Types of Cases at the OATH Trials Division
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
@@ -644,7 +644,7 @@ Chapter 2: Additional Rules of Practice Applicable To Particular Types of Cases 
 
 
 
-*§ 2-01 Applicability.*
+*§ 2-01 Applicability.* ::
 
 
 This subchapter applies solely to prequalified vendor appeals pursuant to § 324(b) of the Charter and the rules of the Procurement Policy Board, 9 RCNY § 3-10(m). Chapter 1 also applies to such proceedings except to the extent that it is inconsistent with this subchapter.
@@ -656,7 +656,7 @@ This subchapter applies solely to prequalified vendor appeals pursuant to § 324
 
 
 
-*§ 2-02 Docketing; Service of the Petition.*
+*§ 2-02 Docketing; Service of the Petition.* ::
 
 
 (a) A vendor must docket an appeal by delivering to OATH a completed intake sheet, with a petition and appropriate proof of service of the petition upon the agency whose prequalification determination is to be reviewed. The petition must include a copy of the determination to be reviewed and must state the nature and basis of the challenge to the determination.
@@ -670,7 +670,7 @@ This subchapter applies solely to prequalified vendor appeals pursuant to § 324
 
 
 
-*§ 2-03 Answer; Reply.*
+*§ 2-03 Answer; Reply.* ::
 
 
 (a) If the petition is served personally on the respondent, the respondent must file an answer, with appropriate proof of service, within fourteen days of the respondent's receipt of the petition. If the petition is served by mail, it will be presumed that the respondent received the petition five days after it was served.
@@ -688,7 +688,7 @@ This subchapter applies solely to prequalified vendor appeals pursuant to § 324
 
 
 
-*§ 2-04 Further Proceedings.*
+*§ 2-04 Further Proceedings.* ::
 
 
 An appeal will be decided on the petition, answer and reply, unless the administrative law judge directs further written submissions, oral argument, or an evidentiary hearing, as may be necessary to the decision of the appeal.
@@ -700,7 +700,7 @@ An appeal will be decided on the petition, answer and reply, unless the administ
 
 
 
-*§ 2-05 Discovery.*
+*§ 2-05 Discovery.* ::
 
 
 Discovery may not be permitted except upon order of the administrative law judge in connection with 48 RCNY § 2-04.
@@ -712,7 +712,7 @@ Discovery may not be permitted except upon order of the administrative law judge
 
 
 
-*§ 2-06 Determination.*
+*§ 2-06 Determination.* ::
 
 
 The administrative law judge will render as expeditiously as possible a determination as to whether the agency's decision is arbitrary or capricious.
@@ -724,7 +724,7 @@ The administrative law judge will render as expeditiously as possible a determin
 
 
 
-*§ 2-07 Copies of Determination.*
+*§ 2-07 Copies of Determination.* ::
 
 
 The respondent must send copies of the administrative law judge's determination to such non- parties as may be required, for instance, by the rules of the Procurement Policy Board, 9 RCNY § 3-10(m)(5).
@@ -741,7 +741,7 @@ The respondent must send copies of the administrative law judge's determination 
 
 
 
-*§ 2-21 Applicability.*
+*§ 2-21 Applicability.* ::
 
 
 This subchapter applies solely to cases brought by the New York City Commission on Human Rights pursuant to the City Human Rights Law, Title 8 of the New York City Administrative Code. Chapter 1 of this title also applies to such proceedings except to the extent that it is inconsistent with this subchapter.
@@ -753,7 +753,7 @@ This subchapter applies solely to cases brought by the New York City Commission 
 
 
 
-*§ 2-22 Definitions.*
+*§ 2-22 Definitions.* ::
 
 
 For purposes of this subchapter:
@@ -777,7 +777,7 @@ Report and recommendation. The "report and recommendation" referred to in this t
 
 
 
-*§ 2-23 Proceedings Before Referral to OATH.*
+*§ 2-23 Proceedings Before Referral to OATH.* ::
 
 
 Proceedings before the case is docketed at OATH are governed by the Commission's rules (47 RCNY §§ 1-01 to 1-62).
@@ -789,7 +789,7 @@ Proceedings before the case is docketed at OATH are governed by the Commission's
 
 
 
-*§ 2-24 Docketing the Case at OATH.*
+*§ 2-24 Docketing the Case at OATH.* ::
 
 
 (a) Notwithstanding the provisions of 48 RCNY § 1-26, only the petitioner may docket a case at OATH. The petitioner must docket a case by delivering to OATH a completed intake sheet, the notice of referral required by the Commission's rules (47 RCNY § 1-71), the pleadings and any amendments to the pleadings, any notices of appearances filed with the petitioner pursuant to the Commission's rules (47 RCNY § 1-15), and any changes of address filed with the petitioner pursuant to the Commission's rules (47 RCNY § 1-16).
@@ -803,7 +803,7 @@ Proceedings before the case is docketed at OATH are governed by the Commission's
 
 
 
-*§ 2-25 Intervention.*
+*§ 2-25 Intervention.* ::
 
 
 (a) A person may move to intervene as a party at any time before commencement of the trial. Intervention may be permitted, in the discretion of the administrative law judge, if the proposed intervenor demonstrates a substantial interest in the outcome of the case. In determining applications for intervention, the administrative law judge will consider the timeliness of the application, whether the issues in the case would be unduly broadened by grant of the application, the nature and extent of the interest of the proposed intervenor and the prejudice that would be suffered by the intervenor if the application is denied, and such other factors as may be relevant. The administrative law judge may grant the application upon such terms and conditions as he or she may deem appropriate and may limit the scope of an intervenor's participation in the adjudication.
@@ -817,7 +817,7 @@ Proceedings before the case is docketed at OATH are governed by the Commission's
 
 
 
-*§ 2-26 Withdrawal or Dismissal of the Petition.*
+*§ 2-26 Withdrawal or Dismissal of the Petition.* ::
 
 
 After referral of a case to OATH, but before commencement of the hearing, dismissal of the case by the petitioner on the grounds provided in the Commission's rules (47 RCNY § 1-22), or withdrawal of the case by the petitioner pursuant to 48 RCNY § 1-32(f), will be effected by notice to all other parties and to the administrative law judge. The complainant may move to withdraw the complaint at any time before commencement of the hearing. All other motions to withdraw or dismiss the petition are governed by 48 RCNY §§ 1-34 and 1-50.
@@ -829,7 +829,7 @@ After referral of a case to OATH, but before commencement of the hearing, dismis
 
 
 
-*§ 2-27 Entry of and Relief from Default.*
+*§ 2-27 Entry of and Relief from Default.* ::
 
 
 (a) If the notice of referral to OATH alleges that a respondent has not complied with the requirements of § 1-14 of the Commission's rules (47 RCNY § 1-14), the respondent must serve and file an affidavit asserting that the respondent has complied with those requirements, or asserting reasons constituting good cause for its failure to comply with those requirements. Such affidavit must be served and filed at or before the first conference in the case, or, if no conference is held, before commencement of the hearing. If the respondent fails to serve and file such an affidavit within the time allowed by this paragraph, the administrative law judge will declare the respondent to be in default and will preclude the respondent from further participation in the adjudication. If the respondent timely serves and files such an affidavit, the administrative law judge will decide the questions presented, and will either declare the respondent to be in default and preclude the respondent from further participation in the adjudication, or will deny the default in full or upon stated terms and conditions which may include such limitations on the respondent's participation in the adjudication as the administrative law judge deems to be equitable.
@@ -843,7 +843,7 @@ After referral of a case to OATH, but before commencement of the hearing, dismis
 
 
 
-*§ 2-28 Settlement Conferences.*
+*§ 2-28 Settlement Conferences.* ::
 
 
 In addition to or instead of the conduct of settlement conferences pursuant to 48 RCNY §§ 1-30 and 1-31, the Administrative Law Judge may in his or her discretion, on the request of any party, refer the case for a settlement conference to be conducted by the Commission's Office of Mediation and Conflict Resolution pursuant to the Commission's Rules (47 RCNY Subchapter F). In the discretion of the Administrative Law Judge, proceedings at OATH may be stayed, in whole or in part, pending completion of such settlement conference or for any shorter period of time.
@@ -853,7 +853,7 @@ In addition to or instead of the conduct of settlement conferences pursuant to 4
 
 
 
-*§ 2-29 Discovery.*
+*§ 2-29 Discovery.* ::
 
 
 (a) Policy. Although strict compliance with the provisions of Article 31 of the Civil Practice Law and Rules is not required, the principles of that article may be applied to ensure orderly and expeditious preparation of cases for trial.
@@ -875,7 +875,7 @@ In addition to or instead of the conduct of settlement conferences pursuant to 4
 
 
 
-*§ 2-30 Interlocutory Review.*
+*§ 2-30 Interlocutory Review.* ::
 
 
 (a) Within five days after issuance of any interlocutory order or decision, a party may move for certification by the administrative law judge that such order or decision may be submitted, in whole or in specified part, for review by the chair of the Commission. If the party moving for certification seeks a stay of proceedings, in whole or in part, pending completion of the interlocutory review, the motion for certification must include a statement as to why the failure to grant the requested stay would materially prejudice the party. Certification may also be made, and a stay may be ordered, by the administrative law judge on his or her own motion.
@@ -889,7 +889,7 @@ In addition to or instead of the conduct of settlement conferences pursuant to 4
 
 
 
-*§ 2-31 Proceedings After Issuance of Report and Recommendation.*
+*§ 2-31 Proceedings After Issuance of Report and Recommendation.* ::
 
 
 Proceedings following issuance by the administrative law judge of the report and recommendation in the case are governed by the Commission's rules (47 RCNY §§ 1-75, 1-76).
@@ -906,7 +906,7 @@ Proceedings following issuance by the administrative law judge of the report and
 
 
 
-*§ 2-41 Applicability.*
+*§ 2-41 Applicability.* ::
 
 
 This subchapter applies solely to cases brought to determine the validity of post-seizure retention of vehicles by the Police Department as evidence or for prospective or pending actions to forfeit such vehicles pursuant to § 14-140 of the New York City Administrative Code. Chapter 1 of this title also applies to such cases except to the extent that it is inconsistent with this subchapter or with Krimstock v. Kelly, 99 Civ. 12041 (MBM), order and judgment , and any amendments, modifications and revisions thereof.
@@ -918,7 +918,7 @@ This subchapter applies solely to cases brought to determine the validity of pos
 
 
 
-*§ 2-42 Parties.*
+*§ 2-42 Parties.* ::
 
 
 For purposes of this subchapter, the Police Department will be the petitioner, and the claimant to the vehicle will be the respondent, as defined in 48 RCNY § 1-01.
@@ -930,7 +930,7 @@ For purposes of this subchapter, the Police Department will be the petitioner, a
 
 
 
-*§ 2-43 Pleadings.*
+*§ 2-43 Pleadings.* ::
 
 
 (a) The time provided in 48 RCNY § 1-26(d) for service of the notice of trial does not apply.
@@ -944,7 +944,7 @@ For purposes of this subchapter, the Police Department will be the petitioner, a
 
 
 
-*§ 2-44 Trial Continuances.*
+*§ 2-44 Trial Continuances.* ::
 
 
 A motion by the petitioner, after the conclusion of the respondent's evidence, for a continuance of trial to present rebuttal evidence in the form of testimony from witnesses not called on the petitioner's case-in-chief, may be granted for good cause shown.
@@ -956,7 +956,7 @@ A motion by the petitioner, after the conclusion of the respondent's evidence, f
 
 
 
-*§ 2-45 Default by Vehicle Owner.*
+*§ 2-45 Default by Vehicle Owner.* ::
 
 
 Pursuant to 48 RCNY § 1-45, where an owner of a vehicle fails to appear for trial, having been properly served with required notices, the petitioner need not prove that such owner "permitted or suffered" the allegedly illegal use of the seized vehicle.
@@ -966,7 +966,7 @@ Pursuant to 48 RCNY § 1-45, where an owner of a vehicle fails to appear for tri
 
 
 
-*§ 2-46 Transcription of Trials.*
+*§ 2-46 Transcription of Trials.* ::
 
 
 Notwithstanding 48 RCNY § 1-51, the recording of the trial or of other proceedings in the case, whether electronic or stenographic, may not be transcribed except (i) upon request and payment of reasonable transcription costs, (ii) upon direction of the administrative law judge, in his or her discretion, or (iii) as otherwise required by law.
@@ -977,7 +977,7 @@ Notwithstanding 48 RCNY § 1-51, the recording of the trial or of other proceedi
 
 
 Chapter 3: Rules of Practice Applicable to Proceedings Brought Before the Environmental Control Board Pursuant to 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
@@ -986,7 +986,7 @@ Chapter 3: Rules of Practice Applicable to Proceedings Brought Before the Enviro
 
 
 
-*§ 3-11 Definitions.*
+*§ 3-11 Definitions.* ::
 
 
 Definitions in 48 RCNY § 6-01 apply to terms used in this chapter. In addition, as used in this chapter:
@@ -1002,7 +1002,7 @@ Definitions in 48 RCNY § 6-01 apply to terms used in this chapter. In addition,
 
 
 
-*§ 3-12 Scope of Rules.*
+*§ 3-12 Scope of Rules.* ::
 
 
 This chapter applies to the adjudications of summonses conducted by the Tribunal as authorized by the Board and to other Board proceedings pursuant to § 1049-a of the New York City Charter and provisions of the New York City Administrative Code, any rules and regulations made thereunder, or provisions of New York State law, and special hearings conducted by the Board pursuant to Title 24 of the New York City Administrative Code.
@@ -1016,7 +1016,7 @@ All such adjudications, special hearings and enforcement proceedings will be con
 
 
 
-*§ 3-13 Computation of Time for Emergency Action.*
+*§ 3-13 Computation of Time for Emergency Action.* ::
 
 
 Any emergency action taken by the Board that requires action within a 24-hour period will be taken regardless of whether the 24-hour period includes a Saturday, Sunday or legal holiday.
@@ -1028,7 +1028,7 @@ Any emergency action taken by the Board that requires action within a 24-hour pe
 
 
 
-*§ 3-14 Claims of Prior Adjudication.*
+*§ 3-14 Claims of Prior Adjudication.* ::
 
 
 Whenever a party claims that a summons was previously adjudicated, the hearing officer must allow both parties to present all relevant evidence on all the issues in the case, including the claim of prior adjudication. If a party has raised a claim of prior adjudication, the hearing officer must not decide such claim, but must preserve the claim for the purposes of subsequent appeal to the Appeals Unit, a panel of Board members, or the Board pursuant to 48 RCNY § 3-15. If, on appeal, a party properly raises and preserves a claim of prior adjudication, the Appeals Unit will review the records of the first and any subsequent hearings in order to assist the panel or Board in determining the claim of prior adjudication. In deciding the claim, the panel or the Board will consider the interests of justice and public safety.
@@ -1040,7 +1040,7 @@ Whenever a party claims that a summons was previously adjudicated, the hearing o
 
 
 
-*§ 3-15 Panel or Board Review of Appeals.*
+*§ 3-15 Panel or Board Review of Appeals.* ::
 
 
 (a) The Board will establish panels from among its members to review recommended decisions prepared by the Appeals Unit, pursuant to 48 RCNY § 6-19(e), and to issue appeals decisions. A panel may refer a case to the Board for review if the panel is unable to reach a decision. Such case will be considered by the Board and the Board will issue an appeals decision. Unless a party files a request pursuant to Subdivision (b) of this section, the appeals decision of the panel or the Board will be deemed to have been issued by, and become the final determination of the Board, which is also a final determination of the Tribunal. Judicial review of such determination may be sought pursuant to article 78 of the New York Civil Practice Law and Rules (CPLR).
@@ -1054,7 +1054,7 @@ Whenever a party claims that a summons was previously adjudicated, the hearing o
 
 
 
-*§ 3-16 Judicial Review When Board Decision is Delayed.*
+*§ 3-16 Judicial Review When Board Decision is Delayed.* ::
 
 
 (a) If the Board has not issued an appeals decision within 180 days from the filing of the appeal, or if the Board has not issued a superseding appeals decision within 180 days from the request for superseding appeal, the Respondent may at any time file a petition seeking judicial review of the Hearing Officer's recommended decision pursuant to article 78 of the New York Civil Practice Law and Rules (CPLR). Such Respondent may rely on the recommended decision of the Hearing Officer as the final determination of the Board, provided that the following three conditions are met:
@@ -1074,7 +1074,7 @@ Whenever a party claims that a summons was previously adjudicated, the hearing o
 
 
 
-*§ 3-17 Admission After Default.*
+*§ 3-17 Admission After Default.* ::
 
 
 Where the Board issues a default decision, in accordance with 48 RCNY § 6-20, permitting Respondent to admit the charge and pay by mail, Respondent may enter a late admission and payment by mail within thirty days of the mailing date of the default decision. OATH may impose a fee of $30 for the processing of such late admission.
@@ -1086,7 +1086,7 @@ Where the Board issues a default decision, in accordance with 48 RCNY § 6-20, p
 
 
 
-*§ 3-18 Stipulation in Lieu of Hearing.*
+*§ 3-18 Stipulation in Lieu of Hearing.* ::
 
 
 (a) At any time before the Hearing Officer issues a recommended decision, the Petitioner may offer the Respondent a settlement of the summons by stipulation in lieu of further hearing. The stipulation must contain an admission of the violation, the further facts stipulated to, if any, the amount of the penalty to be imposed, and the compliance ordered, if any.
@@ -1104,7 +1104,7 @@ Where the Board issues a default decision, in accordance with 48 RCNY § 6-20, p
 
 
 
-*§ 3-19 Post Judgment Amendment of Records.*
+*§ 3-19 Post Judgment Amendment of Records.* ::
 
 
 (a) Upon the written motion of any party, the Board may amend any judgment to designate a judgment debtor by the correct legal name.
@@ -1131,7 +1131,7 @@ Where the Board issues a default decision, in accordance with 48 RCNY § 6-20, p
 
 
 
-*§ 3-21 Cease and Desist Actions.*
+*§ 3-21 Cease and Desist Actions.* ::
 
 
 (a) Scope. This section governs cease and desist actions brought by the Board pursuant to Administrative Code §§ 24-178, 24-257, or 24-524, after Respondent has had notice and an opportunity for a hearing on the violations alleged pursuant to the provisions of §§ 24-184, 24-263, or 24-524 as appropriate, and has failed to comply with orders issued by the Board in such proceedings.
@@ -1147,7 +1147,7 @@ Where the Board issues a default decision, in accordance with 48 RCNY § 6-20, p
 
 
 
-*§ 3-22 Special Hearing.*
+*§ 3-22 Special Hearing.* ::
 
 
 (a) Pre-Sealing Hearing. The special hearing will be presided over by a Hearing Officer who has all of the powers and duties in subchapter C of Chapter 6 of these rules, except as specifically provided in this section. The Hearing Officer may receive evidence presented by the Petitioner who requested the Board to issue the cease and desist order, any intervenor, and the Respondent.
@@ -1173,7 +1173,7 @@ Where the Board issues a default decision, in accordance with 48 RCNY § 6-20, p
 
 
 
-*§ 3-23 Application for a Temporary or Limited Unsealing or Stay.*
+*§ 3-23 Application for a Temporary or Limited Unsealing or Stay.* ::
 
 
 If it appears that remediation undertaken by a Respondent cannot proceed or its effectiveness cannot be tested while a seal remains in place, the Respondent may, by written application addressed to the Executive Director or his or her designee, request that a seal be temporarily removed or stayed for a limited period. The Executive Director or his or her designee may authorize a temporary unsealing or stay of sealing for the above specified reasons for such limited period and subject to such conditions as the Executive Director or his or her designee deems appropriate.
@@ -1185,7 +1185,7 @@ If it appears that remediation undertaken by a Respondent cannot proceed or its 
 
 
 
-*§ 3-24 Hearings after Emergency Cease and Desist Orders.*
+*§ 3-24 Hearings after Emergency Cease and Desist Orders.* ::
 
 
 When the Board has issued an emergency cease and desist order, without hearing, due to an imminent peril to public health or safety, pursuant to Administrative Code §§ 24-178(f), 24-346(a) and (e) or 24-523(a) and (b), any person affected by such emergency order may, by written notice to the Board, request a hearing or an accelerated hearing in accordance with those provisions. The hearing held pursuant to the request will be held by the Board and not referred to a Hearing Officer. The hearing will otherwise be conducted in accordance with the relevant provisions of law and the applicable Board rules for adjudicatory hearings.
@@ -1222,7 +1222,7 @@ When the Board has issued an emergency cease and desist order, without hearing, 
 
 
 
-*§ 3-100 General.*
+*§ 3-100 General.* ::
 
 
 Whenever a respondent is found in violation of any provision of the New York City Administrative Code, Rules of the City of New York, New York City Health Code, New York State Public Health Law, New York Codes, Rules and Regulations, New York City Zoning Resolution, New York State Vehicle and Traffic Law, or New York State Environmental Conservation Law, and the summons (as defined in 48 RCNY § 6-01) for such violation is returnable to the Environmental Control Board, any civil penalty recommended by a Hearing Officer pursuant to 48 RCNY § 3-57(a), any default penalty imposed pursuant to 48 RCNY § 3-81(a) and in accordance with § 1049-a(d)(1)(d) of the Charter, and any civil penalty imposed for admissions of violation(s) pursuant to 48 RCNY § 3-32 or late admissions pursuant to 48 RCNY § 3-81(b) will be imposed pursuant to the Penalty Schedules set forth below. If no Penalty Schedule is contained in these rules, any such civil penalty and default penalty will be imposed pursuant to the Penalty Schedule contained in the rules of the agency with primary jurisdiction to enforce the provisions of law related to the violation alleged in the summons.
@@ -1234,7 +1234,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-101 Air Asbestos Penalty Schedule. [Repealed]*
+*§ 3-101 Air Asbestos Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1244,7 +1244,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-102 Air Code Penalty Schedule. [Repealed]*
+*§ 3-102 Air Code Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1254,7 +1254,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-103 Buildings Penalty Schedule. [Repealed]*
+*§ 3-103 Buildings Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1264,7 +1264,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-104 Community Right-To-Know Law Penalty Schedule. [Repealed]*
+*§ 3-104 Community Right-To-Know Law Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1274,7 +1274,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-105 Environmental Conservation Law Penalty Schedule.*
+*§ 3-105 Environmental Conservation Law Penalty Schedule.* ::
 
 
 
@@ -1284,7 +1284,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-107 Food Vendor Administrative Code Penalty Schedule. [Repealed]*
+*§ 3-107 Food Vendor Administrative Code Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1294,7 +1294,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-108 Fulton Fish Market/Other Seafood Markets/Public Wholesale Markets Violations. [Repealed]*
+*§ 3-108 Fulton Fish Market/Other Seafood Markets/Public Wholesale Markets Violations. [Repealed]* ::
 
 
 
@@ -1304,7 +1304,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-109 General Vendor Penalty Schedule. [Repealed]*
+*§ 3-109 General Vendor Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1314,7 +1314,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-110 Health Code and Miscellaneous Food Vendor Violations Penalty Schedule. [Repealed]*
+*§ 3-110 Health Code and Miscellaneous Food Vendor Violations Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1324,7 +1324,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-111 Hazardous Materials Penalty Schedule. [Repealed]*
+*§ 3-111 Hazardous Materials Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1334,7 +1334,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-112 Health Code Lead Abatement Penalty Schedule. [Repealed]*
+*§ 3-112 Health Code Lead Abatement Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1344,7 +1344,7 @@ Whenever a respondent is found in violation of any provision of the New York Cit
 
 
 
-*§ 3-113 Hudson River Park Rules Penalty Schedule.*
+*§ 3-113 Hudson River Park Rules Penalty Schedule.* ::
 
 
 HUDSON RIVER PARK RULES PENALTY SCHEDULE
@@ -1355,13 +1355,12 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section/Rule
       - Description
       - Penalty
       - Default
-
 ~
 
 
@@ -1370,7 +1369,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - 751.4(a)
       - Unauthorized presence in park when closed to public
@@ -1692,7 +1691,6 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
       - Use of non-motorized vessels in restricted areas
       - $50
       - $200
-
 ~
 
  
@@ -1702,7 +1700,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 
-*§ 3-114 Landmarks Preservation Penalty Schedule. [Repealed]*
+*§ 3-114 Landmarks Preservation Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1712,7 +1710,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 
-*§ 3-115 Noise Code Penalty Schedule. [Repealed]*
+*§ 3-115 Noise Code Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1722,7 +1720,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 
-*§ 3-116 Parks Rules Penalty Schedule. [Repealed]*
+*§ 3-116 Parks Rules Penalty Schedule. [Repealed]* ::
 
 
 
@@ -1732,7 +1730,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 
-*§ 3-117 Public Health Law Penalty Schedule.*
+*§ 3-117 Public Health Law Penalty Schedule.* ::
 
 
 
@@ -1742,7 +1740,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 
-*§ 3-118 Public Pay Telephones Penalty Schedule.*
+*§ 3-118 Public Pay Telephones Penalty Schedule.* ::
 
 
 PUBLIC PAY TELEPHONES PENALTY SCHEDULE
@@ -1755,13 +1753,12 @@ Unless otherwise indicated all citations are to the New York City Administrative
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section/Rule
       - Description
       - Penalty
       - Default
-
 ~
 
 
@@ -1770,7 +1767,7 @@ Unless otherwise indicated all citations are to the New York City Administrative
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Admin. Code § 23-402
       - Install/Operate/Maintain Public Pay Telephone without permit
@@ -1848,7 +1845,6 @@ Unless otherwise indicated all citations are to the New York City Administrative
       - Miscellaneous violation of code pertaining to Public Pay Telephones
       - $250
       - $1,000
-
 ~
 
  
@@ -1858,7 +1854,7 @@ Unless otherwise indicated all citations are to the New York City Administrative
 
 
 
-*§ 3-119 Public Safety Graffiti Penalty Schedule.*
+*§ 3-119 Public Safety Graffiti Penalty Schedule.* ::
 
 
 PUBLIC SAFETY GRAFFITI PENALTY SCHEDULE
@@ -1869,7 +1865,7 @@ The following citations are to the NYC Administrative Code. Pursuant to 48 RCNY 
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section/Rule
       - Description
@@ -1899,7 +1895,6 @@ The following citations are to the NYC Administrative Code. Pursuant to 48 RCNY 
       - Use or discharge of fireworks without permit
       - $750
       - $750
-
 ~
 
 
@@ -1911,7 +1906,7 @@ The following citations are to the NYC Administrative Code. Pursuant to 48 RCNY 
 
 
 
-*§ 3-120 Recycling – Sanitation Collection Rules Penalty Schedule.*
+*§ 3-120 Recycling – Sanitation Collection Rules Penalty Schedule.* ::
 
 
 RECYCLING – SANITATION COLLECTION RULES PENALTY SCHEDULE
@@ -1922,13 +1917,12 @@ A repeat violation is a violation by the same respondent, at the same place of o
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section/Rule
       - Description
       - Penalty
       - 
-
 ~
 
 
@@ -1937,7 +1931,7 @@ A repeat violation is a violation by the same respondent, at the same place of o
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * -  
       - Residential Premises
@@ -2271,7 +2265,6 @@ A repeat violation is a violation by the same respondent, at the same place of o
       - Persistent Violator, recycling
       - 
       - $400
-
 ~
 
  
@@ -2281,7 +2274,7 @@ A repeat violation is a violation by the same respondent, at the same place of o
 
 
 
-*§ 3-121 Sanitation Asbestos Rules Penalty Schedule.*
+*§ 3-121 Sanitation Asbestos Rules Penalty Schedule.* ::
 
 
 SANITATION ASBESTOS RULES PENALTY SCHEDULE
@@ -2292,7 +2285,7 @@ Worker Penalty: Where the Hearing Officer finds that the respondent is a worker 
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Rules
       - Description
@@ -2902,7 +2895,6 @@ Worker Penalty: Where the Hearing Officer finds that the respondent is a worker 
       - $25,000$25,000
       - -$6,000N/A
       - -$4,000-$4,000
-
 ~
 
  
@@ -2912,7 +2904,7 @@ Worker Penalty: Where the Hearing Officer finds that the respondent is a worker 
 
 
 
-*§ 3-122 Sanitation Penalty Schedule.*
+*§ 3-122 Sanitation Penalty Schedule.* ::
 
 
 SANITATION PENALTY SCHEDULE
@@ -2921,7 +2913,7 @@ Unless otherwise indicated, all citations are to the New York City Administrativ
 
 Repeat Violations
 
-** For sections:
+**For sections:
 
 •   16-120(a), (b), (c), (d), (e)•   16-123
 
@@ -3001,14 +2993,13 @@ Exceptions:
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section/Rule
       - Description
       - 
       - Penalty 
       - Default 
-
 ~
 
 
@@ -3017,7 +3008,7 @@ Exceptions:
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Admin. Code § 16-116(a)
       - Removal of commercial waste
@@ -3834,7 +3825,6 @@ Exceptions:
       - 
       - $250
       - $250
-
 ~
 
  
@@ -3846,7 +3836,7 @@ Exceptions:
 
 
 
-*§ 3-123 Sewer Control Rules Penalty Schedule. [Repealed]*
+*§ 3-123 Sewer Control Rules Penalty Schedule. [Repealed]* ::
 
 
 
@@ -3856,7 +3846,7 @@ Exceptions:
 
 
 
-*§ 3-124 Department of Transportation Penalty Schedule. [Repealed]*
+*§ 3-124 Department of Transportation Penalty Schedule. [Repealed]* ::
 
 
 
@@ -3866,7 +3856,7 @@ Exceptions:
 
 
 
-*§ 3-125 Vehicle and Traffic Law Penalty Schedule.*
+*§ 3-125 Vehicle and Traffic Law Penalty Schedule.* ::
 
 
  VEHICLE AND TRAFFIC LAW PENALTY SCHEDULE
@@ -3879,7 +3869,7 @@ All Citations are to the NY State Vehicle and Traffic Law.
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section/Rule
       - Description
@@ -3897,7 +3887,6 @@ All Citations are to the NY State Vehicle and Traffic Law.
       - 2nd Offense
       - $150
       - $200
-
 ~
 
 
@@ -3909,7 +3898,7 @@ All Citations are to the NY State Vehicle and Traffic Law.
 
 
 
-*§ 3-126 Water Penalty Schedule.*
+*§ 3-126 Water Penalty Schedule.* ::
 
 
 WATER PENALTY SCHEDULE
@@ -3924,13 +3913,12 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section
       - Description
       - Penalty
       - Default
-
 ~
 
 
@@ -3939,7 +3927,7 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * -  
       - Stage I Drought Emergency
@@ -4261,7 +4249,6 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
       - Violation of miscellaneous rules regarding use and supply of water
       - $150
       - $1,000
-
 ~
 
  
@@ -4271,18 +4258,18 @@ Pursuant to 48 RCNY § 3-81(b), a late admit fee of $30.00 will be added to all 
 
 
 
-*§ 3-127 Small Business Services Penalty Schedule.*
+*§ 3-127 Small Business Services Penalty Schedule.* ::
 
 
 SMALL BUSINESS SERVICES PENALTY SCHEDULE
 
-* For these sections, a repeat violation is a violation by the same respondent of the same section of law as the previous violation with a date of occurrence within 18 months of the date of occurrence of the previous violation.
+*For these sections, a repeat violation is a violation by the same respondent of the same section of law as the previous violation with a date of occurrence within 18 months of the date of occurrence of the previous violation.
 
  
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section/Rule
       - Description
@@ -4296,7 +4283,6 @@ SMALL BUSINESS SERVICES PENALTY SCHEDULE
       - Discharging, causing or permitting oil, oil refuse or other inflammable matter from any ship or vessel into the Port of New York
       - 1st offense: $1,5002nd offense: $5,0003rd offense: $10,0004th offense: $15,0005th and any subsequent offense:$20,000
       - 1st offense: $10,0002nd offense: $20,0003rd offense: $20,0004th offense: $20,0005th and any subsequent offense:$20,000
-
 ~
 
 
@@ -4307,11 +4293,11 @@ SMALL BUSINESS SERVICES PENALTY SCHEDULE
 
 
 Chapter 4: Fitness and Discipline Hearings For OATH Employees
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 4-01 Fitness and Discipline of Employees of the Office of Administrative Trials and Hearings.*
+*§ 4-01 Fitness and Discipline of Employees of the Office of Administrative Trials and Hearings.* ::
 
 
 The chief administrative law judge or, upon his or her designation, an administrative law judge, shall conduct administrative hearings regarding OATH employees' fitness and discipline pursuant to N.Y. Civil Service Law, § 71-75, and pursuant to Charter, § 1049(1). If such a hearing is conducted by an administrative law judge other than the chief administrative law judge, the administrative law judge shall make written proposed findings of fact and a recommended decision. The chief administrative law judge shall review the proposed findings and recommendations of the administrative law judge and shall make the final findings of fact and decision in the matter being adjudicated.
@@ -4320,11 +4306,11 @@ The chief administrative law judge or, upon his or her designation, an administr
 
 
 Chapter 5: Rules Applicable to Violations of Laws or Regulations Enforced by the Taxi and Limousine Commission
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 5-01 Scope of this Chapter.*
+*§ 5-01 Scope of this Chapter.* ::
 
 
 This chapter applies to all charges of violations of any laws, rules and regulations enforced by the Taxi and Limousine Commission (TLC). Adjudications of such charges are conducted pursuant to the rules in Chapter 6 of this Title. Where there is a conflict between this chapter and Chapter 6, this chapter takes precedence. Definitions in 48 RCNY § 6-01 apply to terms used in this chapter.
@@ -4336,7 +4322,7 @@ This chapter applies to all charges of violations of any laws, rules and regulat
 
 
 
-*§ 5-01a Appearances*
+*§ 5-01a Appearances* ::
 
 
 (a) Appearances by Respondent. A Respondent’s appearance at a hearing is timely if the Respondent appears and is ready to proceed no more than ninety (90) minutes after the scheduled hearing time.
@@ -4352,7 +4338,7 @@ This chapter applies to all charges of violations of any laws, rules and regulat
 
 
 
-*§ 5-02 Respondent's Right to Confront Complaining Witness*
+*§ 5-02 Respondent's Right to Confront Complaining Witness* ::
 
 
 (a) Pursuant to Administrative Code § 19-506.1, the TLC must produce the complaining witness in person where such witness's credibility is relevant to the summons being adjudicated. If the TLC is unable to produce such witness in person, the TLC must make reasonable efforts to make the witness available during the hearing by videoconferencing or teleconferencing.
@@ -4368,7 +4354,7 @@ This chapter applies to all charges of violations of any laws, rules and regulat
 
 
 
-*§ 5-03 Respondent's Right to Challenge a Default Decision*
+*§ 5-03 Respondent's Right to Challenge a Default Decision* ::
 
 
 Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a default decision by filing a written motion to vacate within two (2) years from the date of entry of the default decision.
@@ -4380,7 +4366,7 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 
 
 
-*§ 5-04 Appeals*
+*§ 5-04 Appeals* ::
 
 
 (a) If a Hearing Officer issues a decision imposing a reduced penalty pursuant to 48 RCNY § 5-06(c), the party seeking to appeal the Hearing Officer’s underlying decision must file an appeal with the Tribunal within fifty (50) days of the date of the decision.
@@ -4402,7 +4388,7 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 
 
 
-*§ 5-05 Chairperson Review*
+*§ 5-05 Chairperson Review* ::
 
 
 (a) Scope of review of appeals unit decisions. The TLC Chairperson or, if designated by the TLC Chairperson, the General Counsel for the TLC, may review any determination of the Appeals Unit that interprets any of the following:
@@ -4422,7 +4408,7 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 
 
 
-*§ 5-06 Special Procedures*
+*§ 5-06 Special Procedures* ::
 
 
 (a) Summary suspension based on a failure to be timely tested for drug use. When the TLC submits to the Tribunal written documentation pursuant to 35 RCNY § 68-16(d) submitted by a Licensee, as defined in 35 RCNY § 51-03, refuting summary suspension based on a failure to be timely tested for drug use, the Tribunal will issue a decision based on the written documentation. The decision will include findings of fact and conclusions of law. The decision may be appealed in accordance with the process established in 48 RCNY § 6-19.
@@ -4461,7 +4447,7 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 
 
 Chapter 6: OATH Hearings Division - Rules of Practice
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
@@ -4470,7 +4456,7 @@ Chapter 6: OATH Hearings Division - Rules of Practice
 
 
 
-*§ 6-01 Definitions Specific to this Chapter.*
+*§ 6-01 Definitions Specific to this Chapter.* ::
 
 
 As used in this chapter:
@@ -4518,7 +4504,7 @@ As used in this chapter:
 
 
 
-*§ 6-02 Jurisdiction, Powers and Duties.*
+*§ 6-02 Jurisdiction, Powers and Duties.* ::
 
 
 (a) Jurisdiction. Pursuant to Charter § 1048, the Tribunal has jurisdiction to hear and determine summonses issued by a City agency or, when permitted by law, an individual, consistent with the following applicable laws, rules and regulations:
@@ -4548,7 +4534,7 @@ As used in this chapter:
 
 
 
-*§ 6-03 Language Assistance Services.*
+*§ 6-03 Language Assistance Services.* ::
 
 
 Appropriate language assistance services will be afforded to respondents whose primary language is not English to assist such respondents in communicating meaningfully. Such language assistance services will include interpretation of hearings conducted by Hearing Officers, where interpretation is necessary to assist the respondent in communicating meaningfully with the Hearing Officer and others at the hearing.
@@ -4560,7 +4546,7 @@ Appropriate language assistance services will be afforded to respondents whose p
 
 
 
-*§ 6-04 Computation of Time.*
+*§ 6-04 Computation of Time.* ::
 
 
 (a) In computing any period of time prescribed or allowed by this chapter, the day of the act or default from which the designated period of time begins to run will not be included, but the last day of the period will be included unless it is a Saturday, Sunday or legal holiday, in which case the period will be extended to the next day which is not a Saturday, Sunday or legal holiday. Unless otherwise specified in this rule, "days" means calendar days.
@@ -4579,7 +4565,7 @@ Appropriate language assistance services will be afforded to respondents whose p
 
 
 
-*§ 6-05 Pre-Hearing Requests to Reschedule.*
+*§ 6-05 Pre-Hearing Requests to Reschedule.* ::
 
 
 The Petitioner or Respondent may request that a hearing be rescheduled to a later date. A request by a Respondent to reschedule must be received by the Tribunal prior to the time of the scheduled hearing. If a Petitioner requests to reschedule, the Petitioner must notify the Respondent at least three (3) days prior to the originally-scheduled hearing date and file proof of that notification with the Tribunal. Respondent may, on a form provided by the Tribunal, waive its right to such notice of the Petitioner's request to reschedule. If a Petitioner fails to provide such proof of notification or waiver, the request will be denied and the hearing will proceed as originally scheduled. Good cause is not necessary for a request to reschedule. No more than one (1) request to reschedule will be granted for each party for each summons.
@@ -4591,7 +4577,7 @@ The Petitioner or Respondent may request that a hearing be rescheduled to a late
 
 
 
-*§ 6-06 Pre-Hearing Requests for Inspectors. [Repealed]*
+*§ 6-06 Pre-Hearing Requests for Inspectors. [Repealed]* ::
 
 
 
@@ -4601,7 +4587,7 @@ The Petitioner or Respondent may request that a hearing be rescheduled to a late
 
 
 
-*§ 6-07 Pre-Hearing Discovery.*
+*§ 6-07 Pre-Hearing Discovery.* ::
 
 
 Discovery may be obtained in the following manner:
@@ -4624,7 +4610,7 @@ Discovery may be obtained in the following manner:
 
 
 
-*§ 6-08 Proceedings before the OATH Hearings Division.*
+*§ 6-08 Proceedings before the OATH Hearings Division.* ::
 
 
 (a) Issuance and Filing of Summons.
@@ -4698,7 +4684,7 @@ Discovery may be obtained in the following manner:
 
 
 
-*§ 6-09 Appearances.*
+*§ 6-09 Appearances.* ::
 
 
 (a) A Respondent may appear for a hearing personally or be represented by:
@@ -4744,7 +4730,7 @@ Discovery may be obtained in the following manner:
 
 
 
-*§ 6-10 Remote Adjudications.*
+*§ 6-10 Remote Adjudications.* ::
 
 
 (a) When the opportunity to do so is offered by the Tribunal, a Respondent may contest a violation by mail, online, by telephone or by other remote methods.
@@ -4786,7 +4772,7 @@ Discovery may be obtained in the following manner:
 
 
 
-*§ 6-11 Hearing Procedures.*
+*§ 6-11 Hearing Procedures.* ::
 
 
 (a) A hearing will be presided over by a Hearing Officer, proceed with reasonable expedition and order and, to the extent practicable, not be postponed or adjourned.
@@ -4854,7 +4840,7 @@ Discovery may be obtained in the following manner:
 
 
 
-*§ 6-12 Evidence.*
+*§ 6-12 Evidence.* ::
 
 
 (a) Burden of Proof. The Petitioner has the burden of proving the factual allegations contained in the summons by a preponderance of the evidence. The Respondent has the burden of proving an affirmative defense, if any, by a preponderance of the evidence.
@@ -4876,7 +4862,7 @@ Discovery may be obtained in the following manner:
 
 
 
-*§ 6-13 Hearing Officers.*
+*§ 6-13 Hearing Officers.* ::
 
 
 Hearing Officers may:
@@ -4916,7 +4902,7 @@ Hearing Officers may:
 
 
 
-*§ 6-14 Requests for Adjournment.*
+*§ 6-14 Requests for Adjournment.* ::
 
 
 (a) At the request of either party during a hearing, a Hearing Officer may adjourn the hearing upon a showing of good cause as determined by the Hearing Officer in his or her discretion.
@@ -4948,7 +4934,7 @@ Hearing Officers may:
 
 
 
-*§ 6-15 Adjournments for Inspector Testimony.*
+*§ 6-15 Adjournments for Inspector Testimony.* ::
 
 
 (a) Upon request of either party, a Hearing Officer may grant an adjournment for the testimony of an Inspector if the Hearing Officer finds that the Inspector’s testimony is likely to be necessary to a fair hearing on the violation(s) charged and/or the defense(s) asserted.
@@ -4964,7 +4950,7 @@ Hearing Officers may:
 
 
 
-*§ 6-16 Representation.*
+*§ 6-16 Representation.* ::
 
 
 (a) Each party has the right to be represented by an attorney or another authorized representative, as set forth in 48 RCNY §§ 6-09 and 6-23.
@@ -4990,7 +4976,7 @@ Hearing Officers may:
 
 
 
-*§ 6-17 Decisions.*
+*§ 6-17 Decisions.* ::
 
 
 (a) Decisions. After a hearing, the Hearing Officer who presided over the hearing will promptly write a decision sustaining or dismissing each charge in the summons. The Tribunal will promptly serve the decision on all parties. Each decision will contain findings of fact and conclusions of law. Where a violation is sustained, the Hearing Officer will impose the applicable penalty, which may include a fine, penalty points, a suspension or revocation of the respondent's license or any other penalty authorized by applicable laws, rules and regulations.
@@ -5020,7 +5006,7 @@ Hearing Officers may:
 
 
 
-*§ 6-18 Payment of Penalty.*
+*§ 6-18 Payment of Penalty.* ::
 
 
 A copy of the decision, other than a default decision mailed or otherwise provided in accordance with 48 RCNY § 6-20, will be served immediately on the Respondent or on the Respondent's authorized representative, either personally or by mail. Any fines, penalties or restitution imposed must be paid within thirty (30) days of the date of the decision, or thirty-five (35) days if the decision was mailed, unless the agency responsible for collecting payment of the fines and penalties imposed enters into a payment plan with the Respondent.
@@ -5037,7 +5023,7 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 
 
 
-*§ 6-19 Appeals.*
+*§ 6-19 Appeals.* ::
 
 
 (a) Filing an appeal.
@@ -5108,7 +5094,7 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 
 
 
-*§ 6-20 Defaults.*
+*§ 6-20 Defaults.* ::
 
 
 (a) A Respondent who fails to appear or to make a request to reschedule as required by these rules will be deemed to have defaulted.
@@ -5128,7 +5114,7 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 
 
 
-*§ 6-21 Request for a New Hearing after a Failure to Appear (Motion to Vacate a Default).*
+*§ 6-21 Request for a New Hearing after a Failure to Appear (Motion to Vacate a Default).* ::
 
 
 (a) Form of Request. A request for a new hearing after default (motion to vacate a default) is a motion by a Respondent for a new hearing after the Respondent did not appear and a default decision was issued. The Respondent must make the request by application to the Tribunal on a form approved by the Tribunal. The request must be dated, contain a current mailing address for the Respondent; explain how and when the Respondent learned of the violation and be certified to under the penalties of perjury. If the request is made by an attorney or other representative, the request must explain the relationship between the Respondent and the person making the request
@@ -5195,7 +5181,7 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 
 
 
-*§ 6-22 Disqualification of Hearing Officers.*
+*§ 6-22 Disqualification of Hearing Officers.* ::
 
 
 (a) Grounds for Disqualification. A Hearing Officer will not preside over a hearing under the circumstances set forth in subdivisions (D) and (E) of § 103 of Appendix A of this title. When a Hearing Officer deems himself or herself disqualified to preside in a particular proceeding, the Hearing Officer will withdraw from the proceeding by notice on the record and will notify the Chief Administrative Law Judge or his or her designee of such withdrawal.
@@ -5213,7 +5199,7 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 
 
 
-*§ 6-23 Registered Representatives*
+*§ 6-23 Registered Representatives* ::
 
 
 Requirements. A representative, other than a family member or an attorney admitted to practice in New York State, who represents two or more Respondents before the Tribunal within a calendar year must:
@@ -5237,7 +5223,7 @@ Requirements. A representative, other than a family member or an attorney admitt
 
 
 
-*§ 6-24 Pre-hearing Notification of Schedule for Attorneys and Registered Representatives.*
+*§ 6-24 Pre-hearing Notification of Schedule for Attorneys and Registered Representatives.* ::
 
 
 (a) No attorney or registered representative may appear on fifteen (15) or more summonses on a given hearing date unless:
@@ -5257,7 +5243,7 @@ Requirements. A representative, other than a family member or an attorney admitt
 
 
 
-*§ 6-25 Misconduct.*
+*§ 6-25 Misconduct.* ::
 
 
 (a) Prohibited Conduct. A party, witness, representative or attorney must not:
@@ -5315,7 +5301,7 @@ Requirements. A representative, other than a family member or an attorney admitt
 
 
 
-*§ 6-26 Request for a New Hearing Due to Unauthorized Representation.*
+*§ 6-26 Request for a New Hearing Due to Unauthorized Representation.* ::
 
 
 Notwithstanding any other provision of these rules, a party may, within three (3) years after a decision pursuant to a hearing has become final, move to vacate the decision on the grounds that the person who appeared on the party's behalf at the hearing was not authorized to do so. Upon a determination that the person who appeared was not authorized to represent the party, the Tribunal may vacate the decision and schedule a new hearing. In exceptional circumstances and in order to avoid injustice, the Tribunal will have the discretion to grant a motion to vacate a decision after the three (3) year period has lapsed.
@@ -5327,7 +5313,7 @@ Notwithstanding any other provision of these rules, a party may, within three (3
 
 
 
-*§ 6-27 Defense Based on Sovereign or Diplomatic Immunity.*
+*§ 6-27 Defense Based on Sovereign or Diplomatic Immunity.* ::
 
 
 (a) A Respondent may present a defense based on sovereign or diplomatic immunity:
@@ -5361,7 +5347,7 @@ Notwithstanding any other provision of these rules, a party may, within three (3
 
 
 
-*§ 6-28 Application to File a Post-Hearing Agreement.*
+*§ 6-28 Application to File a Post-Hearing Agreement.* ::
 
 
 A written application to file a post-hearing agreement must be made jointly and with the consent of all the parties to a matter. Such applications must be made to the designated Deputy Commissioner of OATH, or his or her designee as approved by the Chief Administrative Law Judge. The post-hearing agreement will not amend the Hearing Officer's final written decision and when filed, will become part of the record.
@@ -5378,7 +5364,7 @@ A written application to file a post-hearing agreement must be made jointly and 
 
 
 
-*§ 100 Terminology.*
+*§ 100 Terminology.* ::
 
 
 Terms used in these Rules are defined as follows:
@@ -5434,7 +5420,7 @@ Terms used in these Rules are defined as follows:
 
 
 
-*§ 101  A City Administrative Law Judge Shall Uphold the Integrity of the Tribunal on Which He or She Serves.*
+*§ 101  A City Administrative Law Judge Shall Uphold the Integrity of the Tribunal on Which He or She Serves.* ::
 
 
 The administration of justice in our City depends on tribunals that adjudicate fairly, without partiality, prejudgment or impropriety. A City administrative law judge should participate in establishing, maintaining and enforcing high standards of conduct, and shall personally observe those standards so that the integrity of the tribunal on which he or she serves will be preserved. The provisions of these Rules are to be construed and applied to further that objective. Persons covered by these Rules remain subject to Chapter 68 of the City Charter and the rules and opinions issued by the Conflicts of Interest Board interpreting those provisions. To the extent that these Rules conflict with the provisions of Chapter 68 or the rules or opinions of the Conflicts of Interest Board, the provisions of Chapter 68 and the rules and opinions of the Conflicts of Interest Board shall take precedence unless these Rules are more restrictive. Persons covered by these Rules remain subject to Executive Order 16 of 1978 and amendments thereto, and to all other applicable City rules and executive orders. Nothing in these Rules shall limit the duty of City administrative law judges to comply with Chapter 68, the rules and opinions of the Conflicts of Interest Board, Executive Order 16 of 1978 and amendments thereto, and any additional obligations imposed by rules, guidelines or directives issued by agencies or tribunals, or the duty of administrative law judges in the Office of Administrative Trials and Hearings ("OATH") to comply with the Code of Judicial Conduct as set forth in the Rules of the Chief Administrative Judge of the Courts for the State of New York, 22 NYCRR §§ 100 et seq.
@@ -5444,7 +5430,7 @@ The administration of justice in our City depends on tribunals that adjudicate f
 
 
 
-*§ 102  A City Administrative Law Judge Shall Avoid Impropriety and the Appearance of Impropriety in All of His or Her Activities.*
+*§ 102  A City Administrative Law Judge Shall Avoid Impropriety and the Appearance of Impropriety in All of His or Her Activities.* ::
 
 
 (A) A City administrative law judge shall respect and comply with the law and shall act at all times in a manner that promotes public confidence in the integrity and impartiality of City tribunals.
@@ -5462,7 +5448,7 @@ The administration of justice in our City depends on tribunals that adjudicate f
 
 
 
-*§ 103  A City Administrative Law Judge Shall Perform His or Her Judicial Duties Impartially and Diligently.*
+*§ 103  A City Administrative Law Judge Shall Perform His or Her Judicial Duties Impartially and Diligently.* ::
 
 
 (A)  Adjudicative responsibilities.
@@ -5558,7 +5544,7 @@ The administration of justice in our City depends on tribunals that adjudicate f
 
 
 
-*§ 104  A City Administrative Law Judge Shall Conduct His or Her Extra-Judicial Activities so as to Minimize the Risk of Conflict with Judicial Obligations.*
+*§ 104  A City Administrative Law Judge Shall Conduct His or Her Extra-Judicial Activities so as to Minimize the Risk of Conflict with Judicial Obligations.* ::
 
 
 (A)  Extra-judicial activities in general. A City administrative law judge shall conduct all of his or her extra-judicial activities so that they:
@@ -5652,7 +5638,7 @@ The administration of justice in our City depends on tribunals that adjudicate f
 
 
 
-*§ 105  A City Administrative Law Judge Shall Refrain From Inappropriate Political Activity.*
+*§ 105  A City Administrative Law Judge Shall Refrain From Inappropriate Political Activity.* ::
 
 
 (A) A City administrative law judge shall not act as a leader or hold an office in a political organization.
@@ -5670,7 +5656,7 @@ The administration of justice in our City depends on tribunals that adjudicate f
 
 
 
-*§ 106  Misconduct.*
+*§ 106  Misconduct.* ::
 
 
 (A)  A violation of these Rules may constitute misconduct and may subject a City administrative law judge to discipline.
@@ -5694,7 +5680,7 @@ The administration of justice in our City depends on tribunals that adjudicate f
 
 
 
-*§ 107  Advisory Opinions; Advisory Committee.*
+*§ 107  Advisory Opinions; Advisory Committee.* ::
 
 
 (A) Advisory opinions. Advisory opinions with respect to these Rules may be issued jointly by the Administrative Justice Coordinator in the Office of the Mayor and the Chief Judge of OATH or, as applicable, by the official occupying any successor position, after consultation with each other. A request for an advisory opinion may be made by a City administrative law judge, including the supervisor of a City administrative law judge or the head of a City tribunal, or by the head of a City agency. A request may be addressed to the Chief Judge of OATH, or, as applicable, to the official occupying any successor position, who shall provide a copy of it to the Administrative Justice Coordinator in the Office of the Mayor, or, as applicable, to the official occupying any successor position, and who shall maintain a record of all such requests for advisory opinions and of all opinions issued in response thereto. An advisory opinion issued under these Rules shall be based on such facts as are presented in the request or subsequently submitted in a written, signed document. Advisory opinions shall be issued only with respect to proposed future conduct or action by a City administrative law judge. A City administrative law judge whose conduct or action is the subject of an advisory opinion shall not be subject to sanction by virtue of acting or failing to act due to a reasonable reliance on the opinion unless material facts were omitted or misstated in the request. A previously issued opinion may be amended, upon notice to the subject City administrative law judge, but the amendment shall apply only to future conduct or action by the City administrative law judge. Advisory opinions shall be made public with such deletions as may be necessary to prevent disclosure of the identity of the subject City administrative law judge or any other involved party.
@@ -5705,11 +5691,11 @@ The administration of justice in our City depends on tribunals that adjudicate f
 
 
 Chapter 7: [Community Service Program]
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 7-01 Definitions.*
+*§ 7-01 Definitions.* ::
 
 
 As used in this chapter:
@@ -5731,7 +5717,7 @@ As used in this chapter:
 
 
 
-*§ 7-02 Eligibility for Community Service.*
+*§ 7-02 Eligibility for Community Service.* ::
 
 
 (a) Except as provided in subdivision (c), a Respondent who admits the charge on or before a hearing date or is found responsible after a hearing for any Specified Violation can perform Community Service instead of paying a monetary civil penalty. The Specified Violations, monetary civil penalties, and corresponding Community Service hour requirements are found below: 
@@ -5741,13 +5727,12 @@ As used in this chapter:
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Citation in Summons
       - Description in Summons
       - Citation Monetary Penalty
       - Community Service Hour Requirement
-
 ~
 
 
@@ -5756,7 +5741,7 @@ As used in this chapter:
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Admin. Code § 10-125
       - Public Consumption of Alcohol
@@ -6077,7 +6062,6 @@ As used in this chapter:
     * - Causing or permitting unreasonable noise (10:00 P.M. to 7:00 A.M.)
       - 1st - $752nd - $1503rd - $350
       - 1st – 12nd – 23rd – 3
-
 ~
 
 
@@ -6098,7 +6082,7 @@ As used in this chapter:
 
 
 
-*§ 7-03 Choosing Community Service.*
+*§ 7-03 Choosing Community Service.* ::
 
 
 (a) Community Service After a Hearing.
@@ -6120,7 +6104,7 @@ As used in this chapter:
 
 
 
-*§ 7-04 Amount of Community Service in Place of a Monetary Civil Penalty.*
+*§ 7-04 Amount of Community Service in Place of a Monetary Civil Penalty.* ::
 
 
 The number of hours of Community Service imposed will correspond to the amount of the monetary civil penalty imposed for a Specified Violation, consistent with New York City Charter Section 1049(4)(e). The number of hours of Community Service for each Specified Violation is in the chart set forth in 48 RCNY § 7-02(a).
@@ -6132,7 +6116,7 @@ The number of hours of Community Service imposed will correspond to the amount o
 
 
 
-*§ 7-05 Completion of Community Service.*
+*§ 7-05 Completion of Community Service.* ::
 
 
 (a) A Respondent must complete either the Community Service assigned by OATH's Help Center or, if applicable, OATH's online Community Service course.
@@ -6162,7 +6146,7 @@ The number of hours of Community Service imposed will correspond to the amount o
 
 
 
-*§ 7-06 Extension to Complete Community Service.*
+*§ 7-06 Extension to Complete Community Service.* ::
 
 
 (a) A Respondent may request an extension of time to complete the Community Service through the Help Center prior to the deadline to complete the Community Service specified in the Decision.
@@ -6192,7 +6176,7 @@ The number of hours of Community Service imposed will correspond to the amount o
 
 
 
-*§ 7-07 Respondent Appeal of a Decision After Requesting Community Service.*
+*§ 7-07 Respondent Appeal of a Decision After Requesting Community Service.* ::
 
 
 (a) If a Respondent who has chosen to perform Community Service instead of paying a monetary civil penalty timely appeals the Decision sustaining the Specified Violation, pursuant to 48 RCNY § 6-19, the part of the Decision ordering completion of Community Service will be stayed until a decision on the appeal is issued. A Respondent will not be required to complete the Community Service or pay the applicable monetary civil penalty in order to file an appeal.
@@ -6206,7 +6190,7 @@ The number of hours of Community Service imposed will correspond to the amount o
 
 
 
-*§ 7-08 Choosing Community Service After a Specified Violation is Sustained on Agency’s Appeal.*
+*§ 7-08 Choosing Community Service After a Specified Violation is Sustained on Agency’s Appeal.* ::
 
 
 (a) If a decision on an appeal sustains a Specified Violation, reversing a Hearing Officer’s Decision to dismiss that violation, a Respondent may choose to perform Community Service instead of paying the monetary civil penalty. Within ten (10) days of the date of the appeal decision, the Respondent must inform OATH of his or her decision to perform Community Service by filing a request, on a form provided by OATH, with the Clerk’s Office. If the Respondent fails to do so within ten (10) days of the date of the decision on the appeal, the monetary civil penalty will be due and owing immediately.

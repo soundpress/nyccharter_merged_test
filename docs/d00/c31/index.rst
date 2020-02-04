@@ -1,10 +1,10 @@
 Chapter 22: Department of Health and Mental Hygiene
-============================================================================================================================================================================================================
+===================================================
 Section 550.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 550. Definitions.*
+*Section 550. Definitions.* ::
 
 
 When used in this chapter: the term "mentally disabled" shall mean those with mental illness, mental retardation, alcoholism, substance dependence or chemical dependence as these terms are defined in section 1.03 of the mental hygiene law; or any other mental illness or mental condition placed under the jurisdiction of the department by the mayor; the term "provider of services" shall mean an individual, association, corporation or public or private agency which provides for the mentally disabled; and the term "services for the mentally disabled" shall mean examination, diagnosis, care, treatment, rehabilitation, training, education, research, preventive services, referral, residential services or domiciliary care of or for the mentally disabled, not specifically limited by any other law. Notwithstanding the foregoing, planning and programs for persons with substance dependence or chemical dependence shall be conducted by the department, and the department may act as a "local agency" to conduct substance abuse programs and seek reimbursement therefore pursuant to provisions of the mental hygiene law relating to funding for substance abuse services, as deemed appropriate by the commissioner in recognition of the programs currently administered by the New York state office of alcoholism and substance abuse services or its successor agency under article nineteen of the mental hygiene law.
@@ -13,10 +13,10 @@ When used in this chapter: the term "mentally disabled" shall mean those with me
 
 
 Section 551.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 551. Department; commissioner.*
+*Section 551. Department; commissioner.* ::
 
 
 a. There shall be a department of health and mental hygiene, the head of which shall be the commissioner of health and mental hygiene who shall be appointed by the mayor. The department shall have and exercise all powers of a local health department set forth in law. Notwithstanding any other provision of this charter to the contrary, the department shall be a social services district for purposes of the administration of health-related public assistance programs to the extent agreed upon by the department, the department of social services and the department of homeless services. Appropriations to the department for mental health, mental retardation and alcoholism services shall be set forth in the expense budget in separate and distinct units of appropriation. In determining the annual amount of city funds to be appropriated by the city for mental health, mental retardation and alcoholism services, the following provision shall apply: in the event that the executive budget proposes a decrease in city funds measured against the budget for the current fiscal year, as modified in accordance with section one hundred seven, for the units of appropriation for mental health, mental retardation and alcoholism services, the executive budget shall not propose a greater percentage decrease in city funds measured against the budget for the current fiscal year, as modified in accordance with section one hundred seven, for the units of appropriation for mental health, mental retardation and alcoholism services than has been proposed for the units of appropriation for public health services. If, however, in his or her discretion, the mayor determines that it is in the city's best interest to submit an executive budget at variance with the requirements of this provision, the mayor shall include an explanation of the basis for this variation as part of the budget message.
@@ -31,10 +31,10 @@ b. The commissioner shall be a doctor of medicine and:
 
 
 Section 552.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 552. Deputy commissioners.*
+*Section 552. Deputy commissioners.* ::
 
 
 The commissioner may appoint deputy commissioners, one of whom shall have the same qualifications as the commissioner. There shall be at least two executive deputy commissioners, one of whom shall have the qualifications established pursuant to the mental hygiene law for a director of community services of a local governmental unit, and shall be the director within the department of the division of mental hygiene services. Such division shall be and shall exercise the powers of a local governmental unit for purposes of the mental hygiene law, and the executive deputy commissioner heading such division shall have the powers of a director of community services of a local governmental unit as set forth in or pursuant to such law, and shall report directly to the commissioner. In the exercise of such powers, such executive deputy commissioner shall coordinate the fiscal and programmatic administration of contracts awarded by the department for mental health, mental retardation, and alcoholism services.
@@ -43,10 +43,10 @@ The commissioner may appoint deputy commissioners, one of whom shall have the sa
 
 
 Section 553.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 553. Board of health.*
+*Section 553. Board of health.* ::
 
 
 a. There shall be in the department a board of health, the chairperson of which shall be the commissioner. In addition to the chairperson, the board shall consist of ten members, five of whom shall be doctors of medicine who shall each have had not less than ten years experience in any or all of the following: clinical medicine, neurology or psychiatry, public health administration or college or university public health teaching. The other five members need not be physicians. However, non-physician members shall hold at least a masters degree in environmental, biological, veterinary, physical, or behavioral health or science, or rehabilitative science or in a related field, and shall have at least ten years experience in the field in which they hold such degree. One member of the board shall be the chairperson of the mental hygiene advisory board, as set forth in section 568 of the charter, provided that such chairperson shall meet the requirements for board membership of either a physician or non-physician member.
@@ -59,10 +59,10 @@ c. The commissioner shall designate employees of the department as may be necess
 
 
 Section 554.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 554. Removal of board members.*
+*Section 554. Removal of board members.* ::
 
 
 A member of the board of health other than the chairman may be removed by the mayor on proof of official misconduct or of negligence in official duties or of conduct in any manner connected with his official duties which tends to discredit his office, or of mental or physical inability to perform his duties; provided that prior to removal he shall receive a copy of the charges and shall be entitled to a hearing before the mayor and to the assistance of counsel at such hearing.
@@ -71,10 +71,10 @@ A member of the board of health other than the chairman may be removed by the ma
 
 
 Section 555.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 555. Powers and duties of the commissioner.*
+*Section 555. Powers and duties of the commissioner.* ::
 
 
 a. The commissioner shall have all the powers and duties vested in him or in the department by this chapter or otherwise, except those vested by law in the board of health and the chief medical examiner. In the performance of his functions, the commissioner shall have, in addition to such others as may be conferred upon him from time to time, the power and duty to:
@@ -105,10 +105,10 @@ b. In the exercise of the commissioner's functions, powers and duties the commis
 
 
 Section 556.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 556. Functions, powers and duties of the department.*
+*Section 556. Functions, powers and duties of the department.* ::
 
 
 Except as otherwise provided by law, the department shall have jurisdiction to regulate all matters affecting health in the city of New York and to perform all those functions and operations performed by the city that relate to the health of the people of the city, including but not limited to the mental health, mental retardation, alcoholism and substance abuse-related needs of the people of the city. The jurisdiction of the department shall include but not be limited to the following:
@@ -207,10 +207,10 @@ Except as otherwise provided by law, the department shall have jurisdiction to r
 
 
 Section 557.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 557. Chief medical examiner.*
+*Section 557. Chief medical examiner.* ::
 
 
 (a) There shall be in the department an independent office of chief medical examiner, the head of which shall be the chief medical examiner, who shall be appointed by the mayor from the classified civil service and be a doctor of medicine and a skilled pathologist and microscopist. The mayor may remove the chief medical examiner upon filing in the office of the commissioner of citywide administrative services and serving upon the chief medical examiner his or her reasons therefor and allowing such officer an opportunity of making a public explanation.
@@ -237,10 +237,10 @@ Section 557.
 
 
 Section 558.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 558. Health code.*
+*Section 558. Health code.* ::
 
 
 (a) The health code which is in force in the city on the date on which this chapter takes effect and all existing provisions of law fixing penalties for violation of the code and all regulations of the board of health on file with the city clerk on the date when this chapter takes effect shall continue to be binding and in force except as amended or repealed from time to time. Such code shall have the force and effect of law.
@@ -263,10 +263,10 @@ Section 558.
 
 
 Section 559.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 559. Seal.*
+*Section 559. Seal.* ::
 
 
 The commissioner, with the concurrence of the board of health, may adopt a seal which may be used for the authentication of the orders and proceedings of the board and of the department and in commissioning the officers and agents of the department and otherwise as may be provided for by the commissioner or in the health code.
@@ -275,10 +275,10 @@ The commissioner, with the concurrence of the board of health, may adopt a seal 
 
 
 Section 560.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 560. Temporary hospitals during epidemic or imminent peril.*
+*Section 560. Temporary hospitals during epidemic or imminent peril.* ::
 
 
 The board of health, during the prevalence of an epidemic or in the presence of great and imminent peril to the public health and when in the board's judgment it is necessary to do so, may take possession of any buildings in the city for temporary hospitals and shall pay a just compensation for any private property so taken. Such temporary hospitals shall be under the control of the commissioner.
@@ -287,10 +287,10 @@ The board of health, during the prevalence of an epidemic or in the presence of 
 
 
 Section 561.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 561. Permits.*
+*Section 561. Permits.* ::
 
 
 a. The board of health in its discretion may grant, suspend or revoke permits for businesses or other matters in respect to any subject dealt with in the health code and regulated by the department and may prescribe reasonable fees for the issuance of said permits. Whenever the board of health in the health code authorizes the issuance, suspension or revocation of a permit by the commissioner, his action shall be subject to review by the board of health upon an appeal by the party aggrieved under such rules as the board may provide. Such rules may provide in what cases an appeal may stay the action of the commissioner until final determination by the board of health, but notwithstanding any such rule the board of health shall have power to grant or refuse a stay in any particular case.
@@ -301,10 +301,10 @@ b. Every application for a permit or a renewal of an existing permit issued by t
 
 
 Section 562.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 562. Failure to observe order; penalty.*
+*Section 562. Failure to observe order; penalty.* ::
 
 
 Except in cases where it is otherwise provided by law, every violation, neglect or refusal by any person to comply with any order of the commissioner or the board of health shall be triable by a judge of the New York city criminal court and shall be treated and punished as a misdemeanor.
@@ -313,10 +313,10 @@ Except in cases where it is otherwise provided by law, every violation, neglect 
 
 
 Section 563.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 563. Declaration of imminent peril.*
+*Section 563. Declaration of imminent peril.* ::
 
 
 In the presence of great and imminent peril to the public health, the board of health, having first taken and filed among its records what it regards as sufficient proof to authorize a declaration of such peril, shall take such measures, and order the department to do such acts beyond those duly provided for the preservation of the public health, including the power to take possession of and occupy as a hospital any building or buildings in the city, as the board, in good faith may declare the public safety and health to demand, and the mayor shall in writing approve. No expenditure shall be incurred in the exercise of such extraordinary power, however, unless provision is made therefor in the budget or unless such expenditures are financed pursuant to sections one hundred seven or section 29.00 of the local finance law. Such peril shall exist when and for such period of time as the board of health and mayor declare.
@@ -325,10 +325,10 @@ In the presence of great and imminent peril to the public health, the board of h
 
 
 Section 564.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 564. Suits and service of papers.*
+*Section 564. Suits and service of papers.* ::
 
 
 The department may sue and be sued in and by the proper name of "Department of Health and Mental Hygiene of the City of New York", and service of all process in suits and proceedings against or affecting the department, or other papers, may be made upon the commissioner or official designated by him, and not otherwise; except that, according to usual practice in other suits, papers in suits to which the department is a party may be served on the corporation counsel or such assistant as may be assigned by him to the department.
@@ -337,10 +337,10 @@ The department may sue and be sued in and by the proper name of "Department of H
 
 
 Section 566.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 566. Right of entry of officers of department.*
+*Section 566. Right of entry of officers of department.* ::
 
 
 The commissioner and such officers or employees of the department as are designated by him may, at reasonable times, and pursuant to a search warrant when required by law, without fee or hindrance enter, examine and inspect all vessels, premises, grounds, structures, buildings and every part thereof and all underground passages of every sort in the city for compliance with the provisions of law enforced by the department and its rules and regulations and may make plans, drawings and descriptions thereof, according to the regulations of the department. The owner or his agent or representative and the lessee or occupant of any such premises, grounds, structures, buildings and every part thereof and all underground passages of every sort in the city and every part thereof and every person having the care and management thereof, shall at all reasonable times, when required by any such officers or employees, give them free access thereto, and refusal so to do shall be triable by a judge of the New York city criminal court and shall be treated and punished as a misdemeanor.
@@ -349,10 +349,10 @@ The commissioner and such officers or employees of the department as are designa
 
 
 Section 567.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 567. Acceptance of private funds.*
+*Section 567. Acceptance of private funds.* ::
 
 
 No grant, gift, devise, legacy or bequest made to the city or to the department for work to be done within the jurisdiction of the department shall be accepted, and no work or research paid for from private sources shall be carried on under the jurisdiction of the department except with the approval of the commissioner.
@@ -361,10 +361,10 @@ No grant, gift, devise, legacy or bequest made to the city or to the department 
 
 
 Section 568.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 568. Mental hygiene advisory board.*
+*Section 568. Mental hygiene advisory board.* ::
 
 
 a. (1) There shall be a mental hygiene advisory board which shall be advisory to the commissioner and the deputy commissioner for mental hygiene services in the development of community mental health, mental retardation, alcoholism and substance abuse facilities and services and programs related thereto. The board shall have separate subcommittees for mental health, for mental retardation and developmental disabilities, and for alcoholism and substance abuse. The board and its subcommittees shall be constituted and their appointive members appointed and removed in the manner prescribed for a community services board by the provisions of the mental hygiene law. Pursuant to the provisions of such law, such members may be reappointed without limitation on the number of consecutive terms which they may serve.
@@ -381,10 +381,10 @@ b. (1) Contracts for services and facilities under this chapter may be made with
 
 
 Section 569.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 569. Construction clause.*
+*Section 569. Construction clause.* ::
 
 
 The provisions of this chapter relating to services for the mentally disabled shall be carried out subject to and in conjunction with the provisions of the mental hygiene law.

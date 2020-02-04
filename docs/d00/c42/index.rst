@@ -1,10 +1,10 @@
 Chapter 31: Department of Sanitation
-============================================================================================================================================================================================================
+===================================================
 Section 751.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 751. Department; commissioner.*
+*Section 751. Department; commissioner.* ::
 
 
 There shall be a department of sanitation the head of which shall be the commissioner of sanitation.
@@ -13,10 +13,10 @@ There shall be a department of sanitation the head of which shall be the commiss
 
 
 Section 752.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 752. Deputies.*
+*Section 752. Deputies.* ::
 
 
 The commissioner may appoint three deputies.
@@ -25,10 +25,10 @@ The commissioner may appoint three deputies.
 
 
 Section 753.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 753. Powers and duties of the commissioner.*
+*Section 753. Powers and duties of the commissioner.* ::
 
 
 a. Except as otherwise provided by law, the commissioner shall have charge and control of and be responsible for all those functions and operations of the city relating to the cleanliness of the streets and the disposal of waste, including, without limitation, the following:
@@ -79,10 +79,10 @@ e. Except as otherwise authorized by section 16-1020 of the administrative code,
 
 
 Section 754.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 754. Duties and obligations of property owner with respect to keeping vacant lots clean.*
+*Section 754. Duties and obligations of property owner with respect to keeping vacant lots clean.* ::
 
 
 Notwithstanding any provision of law, the owner of any property at such owner's own cost shall keep any vacant lot or lots on such property in a clean and sanitary manner and free of debris and other litter. The department of sanitation shall be responsible for the enforcement of this section and may issue rules and regulations in furtherance of such authority. In the event that an owner of property fails to comply with the provisions of this section, or the rules and regulations of such department, the department may provide for the cleaning of a vacant lot at the expense of the property owner in the manner to be provided by local law.
@@ -91,10 +91,10 @@ Notwithstanding any provision of law, the owner of any property at such owner's 
 
 
 Section 755.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 755. Definition.*
+*Section 755. Definition.* ::
 
 
 When used in this chapter "street" includes street, avenue, road, alley, lane, highway, parkway, boulevard, concourse, driveway, culvert and crosswalk, and every class of public road, square and place, except a wharf, pier, bulkhead or slip by law committed to the custody and control of any other agency.

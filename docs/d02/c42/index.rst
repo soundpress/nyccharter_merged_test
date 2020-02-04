@@ -1,12 +1,12 @@
 Title 61: Office of Collective Bargaining
-======================================================================================================
+===================================================
 
 Chapter 1: Practice and Procedure
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 1-01 Definitions.*
+*§ 1-01 Definitions.* ::
 
 
 As used in this chapter, the following terms have the meanings set forth in § 12-303 of the Administrative Code of the City of New York: "Director," "Board of Collective Bargaining," "Board of Certification," "municipal agency," "municipal employees," "mayoral agency," "public employer," "public employees," "municipal employee organization," "public employee organization," "Municipal Labor Committee," "certified employee organization," "matters within the scope of collective bargaining," "executive order," "grievance," "labor member," "city member," "impartial member," "designated representative," and "designated employee organization".
@@ -34,7 +34,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-02 Representation Proceedings.*
+*§ 1-02 Representation Proceedings.* ::
 
 
 (a) Definition.
@@ -262,7 +262,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-03 Collective Bargaining.*
+*§ 1-03 Collective Bargaining.* ::
 
 
 (a) Definition.
@@ -292,7 +292,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-04 Mediation.*
+*§ 1-04 Mediation.* ::
 
 
 (a) Request for mediation – contents. Unless waived by the Deputy Director, a request for the appointment of a mediation panel or mediation assistance by the Deputy Director must be in writing, and upon notice to all parties. Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), the request must be filed on a form prescribed by the Office of Collective Bargaining and must contain:
@@ -324,7 +324,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-05 Impasse Panels.*
+*§ 1-05 Impasse Panels.* ::
 
 
 (a) Definition.
@@ -422,7 +422,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-06 Arbitration.*
+*§ 1-06 Arbitration.* ::
 
 
 (a) Definition.
@@ -476,7 +476,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-07 Proceedings Before the Board of Collective Bargaining.*
+*§ 1-07 Proceedings Before the Board of Collective Bargaining.* ::
 
 
 (a) Definition.
@@ -628,7 +628,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-08 Municipal Labor Committee.*
+*§ 1-08 Municipal Labor Committee.* ::
 
 
 (a) Definition.
@@ -678,7 +678,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-09 Panel Register – Fees and Expenses.*
+*§ 1-09 Panel Register – Fees and Expenses.* ::
 
 
 (a)  Definition. 
@@ -708,7 +708,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-10 Hearings.*
+*§ 1-10 Hearings.* ::
 
 
 (a)  Definition. 
@@ -746,7 +746,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-11 Witnesses and Subpoenas.*
+*§ 1-11 Witnesses and Subpoenas.* ::
 
 
 (a)  Definition. 
@@ -766,7 +766,7 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-12 General Provisions.*
+*§ 1-12 General Provisions.* ::
 
 
 (a) Definitions. Unless otherwise specified, the following definitions apply to terms used in these rules.
@@ -868,7 +868,7 @@ PECK SLIP STATIONPO BOX 1018New York, NY 10038(212) 306-7160
 
 
 
-*§ 1-13 Designation, Powers, and Duties of Deputies and Trial Examiners.*
+*§ 1-13 Designation, Powers, and Duties of Deputies and Trial Examiners.* ::
 
 
 (a)  Definition. 
@@ -892,7 +892,7 @@ PECK SLIP STATIONPO BOX 1018New York, NY 10038(212) 306-7160
 
 
 
-*§ 1-14 Construction and Amendment of Rules.*
+*§ 1-14 Construction and Amendment of Rules.* ::
 
 
 (a)  Construction.

@@ -1,10 +1,10 @@
 Chapter 9: Capital Projects and Budget
-============================================================================================================================================================================================================
+===================================================
 Section 210.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 210. Definitions.*
+*Section 210. Definitions.* ::
 
 
 As used in this charter:
@@ -67,10 +67,10 @@ As used in this charter:
 
 
 Section 211.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 211. Capital budget borough allocations.*
+*Section 211. Capital budget borough allocations.* ::
 
 
 a. Borough allocation. Five percent of the appropriations, funded by debt supported by city tax levy funds and state and federal funds over which the city has substantial discretion, proposed in the executive capital budget for the ensuing fiscal year, except any lump sum appropriation for school construction or rapid transit proposed to be made to public authorities established pursuant to the provisions of state law, shall be allocated among the boroughs by a formula based on an equal weighting of factors relating to population and geographic area, and shall be known as the capital budget borough allocation. Such formula shall be established by local law, but in any fiscal year for which no such local law is effective such amount shall be allocated among the boroughs on the basis of the average of (i) each borough's share of the total population of the city, and (ii) each borough's share of the total land area of the city.
@@ -99,10 +99,10 @@ d. The mayor shall include the proposed appropriations submitted by the borough 
 
 
 Section 212.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 212. Format of departmental estimates for capital projects, preliminary capital budget and executive capital budget.*
+*Section 212. Format of departmental estimates for capital projects, preliminary capital budget and executive capital budget.* ::
 
 
 The departmental estimates for capital projects and the executive capital budget shall consist of a detailed estimate of all capital projects pending or which the agency head, for departmental estimates, or the mayor, for the executive budget, believes should be undertaken within the ensuing fiscal year and the three succeeding fiscal years. Each agency head, for departmental estimates, and the mayor, for the executive budget, shall submit a written response to each of the capital budget priorities included in the community board's statement of budget priorities submitted in accordance with section two hundred thirty. Such responses shall include the response of the agency head and the mayor, as appropriate, regarding the disposition of each such priority and meaningful explanations of any disapprovals contained in such estimates or budget.
@@ -111,10 +111,10 @@ The departmental estimates for capital projects and the executive capital budget
 
 
 Section 213.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 213. Preliminary capital budget.*
+*Section 213. Preliminary capital budget.* ::
 
 
 The preliminary capital budget shall consist of: (1) a financial plan, consistent with section two hundred fifty-eight, covering estimates of capital expenditures for the four ensuing fiscal years, (2) departmental estimates for capital projects as provided in section two hundred twelve together with the cash flow requirements and proposed sources of funding for each project included in such estimates, (3) a capital program status report which sets forth the appropriations for each project included in the capital budget for the current fiscal year together with the expenditures to date, and (4) a summary description of the purpose of each capital project and the needs it will fulfill, the schedule for beginning and constructing the project, its period of probable usefulness and an appropriate maintenance schedule.
@@ -123,10 +123,10 @@ The preliminary capital budget shall consist of: (1) a financial plan, consisten
 
 
 Section 214.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 214. Executive capital budget.*
+*Section 214. Executive capital budget.* ::
 
 
 a. The executive capital budget shall set forth separately each capital project, including the capital projects proposed by the borough presidents in accordance with section two hundred eleven, and shall include:
@@ -147,10 +147,10 @@ b. The executive capital program shall set forth for both program categories and
 
 
 Section 215.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 215. Ten-year capital strategy.*
+*Section 215. Ten-year capital strategy.* ::
 
 
 a. The ten-year capital strategy shall be issued by the mayor pursuant to section two hundred forty-eight after (i) submission of a preliminary strategy by the department of city planning and the office of management and budget pursuant to section two hundred twenty-eight, and (ii) submission of a report on the preliminary strategy by the city planning commission following a public hearing, pursuant to section two hundred thirty-four.
@@ -169,10 +169,10 @@ c. In the preparation of the preliminary ten-year capital strategy, the departme
 
 
 Section 216.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 216. Amendment.*
+*Section 216. Amendment.* ::
 
 
 a. Upon receipt of a recommendation in writing from the mayor or a borough president, in manner specified herein, the council may amend the capital budget or capital program in the same manner as the adoption of the capital budget and capital program including the right to approve the proposed amendment as submitted or to increase or decrease the amounts of funds proposed to be appropriated thereby, but only if funds are available within the capital budget and the applicable program category of the capital program; provided, however, that (i) the mayor may only recommend such an amendment relating to an appropriation included in the capital budget pursuant to section two hundred eleven with the concurrence of the relevant borough president; and (ii) the borough president may only make such a recommendation with regard to such an appropriation if it provides for an offsetting reduction in another appropriation included in the capital budget pursuant to section two hundred eleven on the recommendation of such borough president and it is concurred in by the mayor.
@@ -185,10 +185,10 @@ c. Not later than five days after such certification such amendment shall be fil
 
 
 Section 217.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 217. Restrictions on capital projects.*
+*Section 217. Restrictions on capital projects.* ::
 
 
 a. No obligations of the city shall be issued or authorized for or on account of any capital project not included in a capital budget, or for which funds have not been reserved in an appropriate program category of the capital program for any year of such program in which it is projected that funds will be expended for the completion of the project, or in excess of the maximum amount of obligations which may be issued on account of such project as fixed in such capital budget; and no amount may be expended on account of any capital project in excess of the amount appropriated for such purposes in a capital budget, except that the amount appropriated for such purposes may be increased by the mayor by not more than fifteen per centum thereof in order to meet any costs required to advance such project. Notice of any such increase shall be provided to the council together with a statement of identifiable funds available for payment of the increase.
@@ -203,10 +203,10 @@ d. No capital project shall be included in the proposed executive capital budget
 
 
 Section 218.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 218. Site selection.*
+*Section 218. Site selection.* ::
 
 
 a. The selection of sites for capital projects shall be pursuant to the uniform procedures provided pursuant to sections one hundred ninety-seven-c and one hundred ninety-seven-d, except for acquisition of office space pursuant to section one hundred ninety-five.
@@ -219,10 +219,10 @@ c. During the review required by subdivision a, the community board and borough 
 
 
 Section 219.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 219. Project initiation; commitment plan.*
+*Section 219. Project initiation; commitment plan.* ::
 
 
 a. The inclusion of a capital project in the capital budget as adopted or amended shall constitute a direction and order to the agency to proceed with the preparation of a scope of project pursuant to this chapter unless sufficient planning funds for such purpose have not been appropriated in the capital budget. The head of the agency shall notify the comptroller of the amount of appropriated planning funds to be encumbered for such purpose.
@@ -247,10 +247,10 @@ f. The mayor may issue directives and adopt rules and regulations in regard to t
 
 
 Section 220.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 220. Improvements payable other than by city.*
+*Section 220. Improvements payable other than by city.* ::
 
 
 Any owner of real property or any other person interested may apply to the council to authorize an improvement referred to in paragraph d of subdivision one of section two hundred ten hereof, not included in the capital budget. The council may authorize such improvement to be made by the city or by such owner or other person interested upon compliance with the following conditions:
@@ -267,10 +267,10 @@ Any owner of real property or any other person interested may apply to the counc
 
 
 Section 221.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 221. Standards for capital projects.*
+*Section 221. Standards for capital projects.* ::
 
 
 The mayor shall prepare general standards and cost limits for categories of capital projects and standards for the preparation of the scope of project for capital projects of various types. Such standards and limits shall be submitted by the mayor to the council for review. The proposed standards shall become effective thirty days after they have been filed with the council unless within that time the council modifies or disapproves them or part of them, after conducting a public hearing. Any modification by the council shall be subject to disapproval by the mayor in accordance with section thirty-eight and any such disapproval shall be subject to override by the council in accordance with such section.
@@ -279,10 +279,10 @@ The mayor shall prepare general standards and cost limits for categories of capi
 
 
 Section 222.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 222. Scope of project.*
+*Section 222. Scope of project.* ::
 
 
 a. Each agency, with respect to a capital project under its jurisdiction included in a capital budget, shall prepare a proposed scope of project within appropriated planning funds. In preparing the proposed scope of project, the agency shall consult with the community board for the community district in which the capital project is to be located. The proposed scope of project, or, in the case of a delay, an explanation for such delay along with a revised schedule, shall be submitted to the mayor and to the respective council committee, borough president and community board by the date specified in the adopted capital budget in which the capital project is included. Such proposed scope shall identify all substantial differences between the guidelines for the capital project as contained in such scope and the description of the capital project contained in the report issued pursuant to subdivision d of section two hundred nineteen at the time such project was proposed in the executive budget or following the budget adoption in which such project was added to the capital budget.
@@ -297,10 +297,10 @@ d. No scope of project shall be approved by the mayor unless (1) it contains the
 
 
 Section 223.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 223. Design of capital project.*
+*Section 223. Design of capital project.* ::
 
 
 The proposed design and final design for a capital project shall be made available for review to the respective council committee, borough president and the community board for the community district in which the project is to be located. The mayor or his representative shall review the final design to determine its conformance with the approved scope of project pursuant to this chapter.
@@ -309,10 +309,10 @@ The proposed design and final design for a capital project shall be made availab
 
 
 Section 224.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 224. Works of art.*
+*Section 224. Works of art.* ::
 
 
 a. For purposes of this section:
@@ -349,10 +349,10 @@ g. There shall be an advisory panel to recommend eligible works of art to be inc
 
 
 Section 224.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 224. 1. Green building standards.*
+*Section 224. 1. Green building standards.* ::
 
 
 a. As used in this section the following terms shall have the following meanings:
@@ -493,10 +493,10 @@ m. By no later than December 1 of each year, the mayor shall submit to the speak
 
 
 Section 224.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 224. 2. Required energy conservation projects in city buildings.*
+*Section 224. 2. Required energy conservation projects in city buildings.* ::
 
 
 a. Definitions. For the purposes of this section, the terms "base building systems", "city building", "energy audit", "energy efficiency report", and "simple payback" shall have the same meanings as defined in section 28-308.1 of the administrative code.
@@ -509,10 +509,10 @@ c. The mayor shall promulgate rules as may be necessary to carry out the provisi
 
 
 Section 224.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 224. 3. Induction loop systems.*
+*Section 224. 3. Induction loop systems.* ::
 
 
 a. As used in this section, the following terms have the following meanings:

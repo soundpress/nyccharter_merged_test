@@ -1,10 +1,10 @@
 Chapter 21-A: New York City Sports Commission
-============================================================================================================================================================================================================
+===================================================
 Section 541.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 541. New York city sports commission.*
+*Section 541. New York city sports commission.* ::
 
 
 a. There shall be established a New York city sports commission consisting of five members who shall serve without compensation, each for a term of three years. Two members of the commission shall be appointed by the mayor, and two members shall be appointed by the speaker of the council, and one member shall be designated as chairperson by the mayor after consultation with the speaker. The commission may appoint an executive director to serve at its pleasure and may employ or retain other employees and consultants within appropriations for such purpose.

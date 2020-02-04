@@ -1,12 +1,12 @@
 Title 21-A: Education
-======================================================================================================
+===================================================
 
 Chapter 1: Definitions
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-950 Definitions.*
+*§ 21-950 Definitions.* ::
 
 
 Whenever used in this title, unless otherwise specified, the following terms shall have the following meanings:
@@ -27,11 +27,11 @@ Whenever used in this title, unless otherwise specified, the following terms sha
 
 
 Chapter 2: Reporting On Co-located Schools
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-951 Annual reporting on co-located schools.*
+*§ 21-951 Annual reporting on co-located schools.* ::
 
 
 a. For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
@@ -44,11 +44,11 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 3: Reporting On Guidance Counselors and social Workers
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-952 Annual reporting on guidance counselors and social workers.*
+*§ 21-952 Annual reporting on guidance counselors and social workers.* ::
 
 
 a. For the purposes of this section, the following terms shall have the following meanings:
@@ -67,11 +67,11 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 4: Environmental Data Reporting
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-954 Environmental data reporting.*
+*§ 21-954 Environmental data reporting.* ::
 
 
 a. For the purposes of this section:
@@ -118,11 +118,11 @@ g. Not later than November first, two thousand fifteen and annually thereafter, 
 
 
 Chapter 5: Reporting on Students Receiving Special Education Services
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-955 Reporting on special education services.*
+*§ 21-955 Reporting on special education services.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -469,11 +469,11 @@ f.*   The annual report required by subdivision e of this section shall be su
 
 
 Chapter 6: Reporting on Demographic Data in New York City Public Schools
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-956 Definitions.*
+*§ 21-956 Definitions.* ::
 
 
 For the purposes of this chapter, the following terms have the following meanings:
@@ -495,7 +495,7 @@ Special programs. The term "special programs" means academic programs including 
 
 
 
-*§ 21-957 Annual report on the demographics of students in grades kindergarten through eight.*
+*§ 21-957 Annual report on the demographics of students in grades kindergarten through eight.* ::
 
 
 Not later than December 31, 2015, and by December 1 of each year thereafter, the department shall submit to the speaker of the council and post on its website a report regarding the following:
@@ -555,7 +555,7 @@ g. The report required pursuant to this section shall, to the extent the departm
 
 
 
-*§ 21-957.1 Annual report on high school student demographics.*
+*§ 21-957.1 Annual report on high school student demographics.* ::
 
 
 Not later than December 31, 2015, and by December 1 of each year thereafter, the department shall submit to the speaker of the council and post on its website a report regarding the following:
@@ -607,7 +607,7 @@ f. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-*§ 21-957.2 Annual report on the demographics of students in pre-kindergarten programs operated by the department.*
+*§ 21-957.2 Annual report on the demographics of students in pre-kindergarten programs operated by the department.* ::
 
 
 Not later than November 1, 2016, and by December 1 of each year thereafter, the department shall submit to the speaker of the council and post on its website a report regarding the following:
@@ -623,7 +623,7 @@ b. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-*§ 21-958 Annual report on the demographics of school staff.*
+*§ 21-958 Annual report on the demographics of school staff.* ::
 
 
 a. Definitions. For purposes of this section, the following terms have the following meanings:
@@ -670,11 +670,11 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 7: Physical Education Reporting
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-960 Reporting on physical education.*
+*§ 21-960 Reporting on physical education.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -765,11 +765,11 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 8: Student Health Services
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-965 Student health services.*
+*§ 21-965 Student health services.* ::
 
 
 a. Definitions. As used in this chapter, the following terms have the following meanings: 
@@ -825,7 +825,7 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-*§ 21-966 Reporting on health education.*
+*§ 21-966 Reporting on health education.* ::
 
 
 a. For the purposes of this section, the following term has the following meaning: 
@@ -890,7 +890,7 @@ d. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-*§ 21-967 Instructors receiving sexual health training.*
+*§ 21-967 Instructors receiving sexual health training.* ::
 
 
 a. For the purposes of this section, "school" means a school of the city school district of the city of New York. 
@@ -910,7 +910,7 @@ c. All information required to be reported by this section shall be aggregated c
 
 
 
-*§ 21-968 Provision of feminine hygiene products in schools.*
+*§ 21-968 Provision of feminine hygiene products in schools.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings.
@@ -928,7 +928,7 @@ b. The department shall make feminine hygiene products available at no cost to s
 
 
 
-*§ 21-969 Distribution of educational materials on drugs and opiates awareness and prevention.*
+*§ 21-969 Distribution of educational materials on drugs and opiates awareness and prevention.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -947,11 +947,11 @@ c. The department shall make available such educational materials in English and
 
 
 Chapter 9. Career and Technical Education Reporting
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-971 Reporting on career and technical education.*
+*§ 21-971 Reporting on career and technical education.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -994,11 +994,11 @@ e. This chapter expires five years after the effective date of the local law tha
 
 
 Chapter 10: Computer Science Education Reporting
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-972 Reporting on computer science education.*
+*§ 21-972 Reporting on computer science education.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -1037,11 +1037,11 @@ d. This chapter expires ten years after the effective date of the local law that
 
 
 Chapter 11: Sexual Education Task Force
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-973 Sexual health education task force.**
+*§ 21-973 Sexual health education task force.** ::
 
 
 a. Definitions. For the purposes of this section only, the following definitions shall apply:
@@ -1092,11 +1092,11 @@ e. No later than December 1, 2017, the task force shall submit to the mayor and 
 
 
 Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-974 Distribution of gifted and talented program information and exam materials.*
+*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
 
 
 a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
@@ -1109,11 +1109,11 @@ b. No later than November 1, 2017, and annually thereafter no later than Novembe
 
 
 Chapter 13: School Meal Participation
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-975 School meal participation data.*
+*§ 21-975 School meal participation data.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -1160,11 +1160,11 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 14: Reporting on GSAs
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-976 Reporting on GSAs.*
+*§ 21-976 Reporting on GSAs.* ::
 
 
 a. For the purposes of this chapter, the following terms have the following meanings:
@@ -1193,11 +1193,11 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 15: Distribution of Information Regarding Interactions with Non-Local Law Enforcement
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-977 Distribution of information regarding educational rights and departmental policies related to interactions with non-local law enforcement.*
+*§ 21-977 Distribution of information regarding educational rights and departmental policies related to interactions with non-local law enforcement.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -1226,11 +1226,11 @@ e. Upon any request by non-local law enforcement for access to a student or a st
 
 
 Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-978 Reporting on school applications, offers of admission, enrollment and available seats.*
+*§ 21-978 Reporting on school applications, offers of admission, enrollment and available seats.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -1257,11 +1257,11 @@ d. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 17: Distribution of Information Regarding Summer School and Meals
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-979 Distribution of information regarding summer meals.*
+*§ 21-979 Distribution of information regarding summer meals.* ::
 
 
 a. For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
@@ -1279,7 +1279,7 @@ b. No later than June 1, 2018, and annually thereafter no later than June 1, the
 
 
 
-*§ 21-979.1 Posting summer school calendar information by school.*
+*§ 21-979.1 Posting summer school calendar information by school.* ::
 
 
 a. Definitions. For the purposes of this section, the term “school building” means any buildings, grounds, facilities, property, or portion thereof, owned or leased by the department or over which the department has care, custody and control, in which there is a public school, including a charter school.
@@ -1294,11 +1294,11 @@ c. No later than June 30 of each year, the department of transportation shall po
 
 
 Chapter 18: Bullying, Harassment, Intimidation and Discrimination
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-980 Reporting on student-to-student bullying, harassment, intimidation and discrimination.*
+*§ 21-980 Reporting on student-to-student bullying, harassment, intimidation and discrimination.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -1352,7 +1352,7 @@ f. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-*§ 21-981 Posting of contact information for reports of bullying, harassment, intimidation, and discrimination.*
+*§ 21-981 Posting of contact information for reports of bullying, harassment, intimidation, and discrimination.* ::
 
 
 a. Definitions. For purposes of this section, the following terms have the following meanings:
@@ -1386,7 +1386,7 @@ d. Updates. The department shall update the names and contact information posted
 
 
 
-*§ 21-981.1 Information regarding any online portal relating to harassment, bullying, intimidation and discrimination.*
+*§ 21-981.1 Information regarding any online portal relating to harassment, bullying, intimidation and discrimination.* ::
 
 
 The department shall distribute to each school for distribution to every student of such school information regarding how to access any online portal relating to the reporting of bullying, harassment, intimidation or discrimination operated by the department, if such portal exists.
@@ -1397,11 +1397,11 @@ The department shall distribute to each school for distribution to every student
 
 
 Chapter 19: Reports on Discipline and Certain Emergency Transports of Students
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-982 Definitions.*
+*§ 21-982 Definitions.* ::
 
 
 For purposes of this chapter, the following terms have the following meanings:
@@ -1425,7 +1425,7 @@ Teacher removal. The term "teacher removal" means the removal from class, includ
 
 
 
-*§ 21-983 Confidentiality requirements.*
+*§ 21-983 Confidentiality requirements.* ::
 
 
 No information that is otherwise required to be reported pursuant to this chapter shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information, including but not limited to restrictions with respect to personally identifiable information in education records set forth in section 1232g of title 20 of the United States code, or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If (i) the total number of students or incidents within a non-disaggregated category contains from one through five students or incidents, (ii) the total number of students or incidents within a disaggregated category, or reported pursuant to paragraph four of subdivision a of section 21-984, contains from zero through five students or incidents; or (iii) the total number of students or incidents within a category, whether or not disaggregated, contains an amount that would allow another category, whether or not disaggregated, that contains from one through five students or incidents to be deduced, then the number of students or incidents shall be replaced with a symbol or shall be subject to some other form of data suppression.
@@ -1437,7 +1437,7 @@ No information that is otherwise required to be reported pursuant to this chapte
 
 
 
-*§ 21-984 Annual report on student discipline.*
+*§ 21-984 Annual report on student discipline.* ::
 
 
 The chancellor shall submit to the city council and post to the department's website by October 31 of each year an annual report, based on data from the preceding school year, on the discipline of students.
@@ -1471,7 +1471,7 @@ c. The report shall also include:
 
 
 
-*§ 21-985 Biannual citywide report on suspensions.*
+*§ 21-985 Biannual citywide report on suspensions.* ::
 
 
 The chancellor shall submit to the council and post to the department's website by October 31 and March 31 of each year a report on the discipline of students citywide, based on data from the first six months of the current calendar year and the second six months of the preceding calendar year respectively. Such report shall include the number of suspensions citywide for each month, disaggregated by superintendent's and principal's suspensions.
@@ -1483,7 +1483,7 @@ The chancellor shall submit to the council and post to the department's website 
 
 
 
-*§ 21-986 Citywide report on emergency medical services student transports.*
+*§ 21-986 Citywide report on emergency medical services student transports.* ::
 
 
 a. The chancellor shall submit to the council and post to the department's website by October 31 and March 31 of each year a citywide report on the total number of EMS transports and the number of EMS transports performed because of a student's psychological/emotional condition. The October report shall include EMS transports from the first six months of the current calendar year and the March report shall include EMS transports from the second six months of the preceding calendar year. Each report shall be disaggregated by school district and by month.
@@ -1496,11 +1496,11 @@ b. The chancellor shall submit to the council and post to the department's websi
 
 
 Chapter 20: Reporting on Students in Temporary Housing
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-987 [Reporting on students in temporary housing.]*
+*§ 21-987 [Reporting on students in temporary housing.]* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -1547,11 +1547,11 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 Chapter 21: Posting of Information Regarding the Process Used in Determining Identified Seat Need
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-988 Posting information regarding the process used in determining identified seat need.*
+*§ 21-988 Posting information regarding the process used in determining identified seat need.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -1618,11 +1618,11 @@ g. Nothing in this section shall be construed to affect the authority or materia
 
 
 Chapter 22: Posting of Subdistrict Maps
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-989 Posting of subdistrict maps.*
+*§ 21-989 Posting of subdistrict maps.* ::
 
 
 a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
@@ -1635,11 +1635,11 @@ b. The department shall post conspicuously on its website a map indicating the b
 
 
 Chapter 23: PTA and PA Reporting
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-990 PTA and PA reporting.*
+*§ 21-990 PTA and PA reporting.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -1660,11 +1660,11 @@ c. All information required to be reported by this section shall be aggregated c
 
 
 Chapter 24: Distribution of Information Regarding Civil Service Examinations
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-991 Distribution of information regarding civil service examinations administered by the department of citywide administrative services.*
+*§ 21-991 Distribution of information regarding civil service examinations administered by the department of citywide administrative services.* ::
 
 
 a. Definitions. For purposes of this section, the term “school” means a school of the city school district of the city of New York.
@@ -1691,11 +1691,11 @@ b. No later than November 1, 2019, and annually thereafter no later than Novembe
 
 
 Chapter 25: Reporting on Spending Allocations
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-992 Reporting on spending allocations.*
+*§ 21-992 Reporting on spending allocations.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -1718,11 +1718,11 @@ c. The information contained in the report required by this section shall be in 
 
 
 Chapter 26: Office of Pupil Transportation Reports
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-993 Reporting on school bus transportation services.*
+*§ 21-993 Reporting on school bus transportation services.* ::
 
 
 a. Definitions. For the purposes of this chapter, the following terms have the following meanings:
@@ -1782,7 +1782,7 @@ b. Beginning October 31, 2019, and on or before each April 30 and October 31 the
 
 
 
-*§ 21-994 Reporting on school bus delays.*
+*§ 21-994 Reporting on school bus delays.* ::
 
 
 a. Beginning October 31, 2019, and on or before each April 30 and October 31 thereafter, the department shall submit to the speaker of the council for the relevant reporting period information relating to each school bus route delay reported by school bus vendors, which shall include but not be limited to the length in minutes, cause, vendor, school, and whether or not the delay resulted in the failure to arrive at school.
@@ -1800,7 +1800,7 @@ b. Beginning October 31, 2019, and on or before each April 30 and October 31 the
 
 
 
-*§ 21-995 Reporting on office of pupil transportation investigations.*
+*§ 21-995 Reporting on office of pupil transportation investigations.* ::
 
 
 a. Beginning October 31, 2019, and on or before each April 30 and October 31 thereafter, the department shall submit to the speaker of the council and post on the department's website a report for the relevant reporting period, including:
@@ -1822,7 +1822,7 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-*§ 21-996 Reporting on school bus routes.*
+*§ 21-996 Reporting on school bus routes.* ::
 
 
 a. Beginning October 31, 2019, and on or before each April 30 and October 31 thereafter, the department shall submit to the speaker of the council and post on the department's website a report for the relevant reporting period, including
@@ -1876,7 +1876,7 @@ f. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-*§ 21-997 School bus ridership guide.*
+*§ 21-997 School bus ridership guide.* ::
 
 
 a. No later than 15 days before the start of each school year, the department shall provide to students and authorized parents and guardians, in hard copy and electronically, plain language information relating to:
@@ -1901,11 +1901,11 @@ b. Such materials shall be made available on the department’s website in Engli
 
 
 Chapter 27: After School Athletic Funding
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-998 After school athletic funding.*
+*§ 21-998 After school athletic funding.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -1952,11 +1952,11 @@ Editor's note: Section 2 of L.L. 2019/120 provides: "This local law takes effect
 
 
 Chapter 28: School Diversity Advisory Group
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 21-999 School diversity advisory group.*
+*§ 21-999 School diversity advisory group.* ::
 
 
 a. There shall be a school diversity advisory group to provide recommendations to the department on achieving diverse, integrated schools that offer academic and social benefits for all students. Such advisory group shall review current department policies and engage parents, teachers, students, advocates, other community leaders and local and national experts on school diversity to formulate its recommendations.

@@ -1,12 +1,12 @@
 Title 32: Labor and Employment
-======================================================================================================
+===================================================
 
 Chapter 1: Office of Labor Standards
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 32-101 [Reserved]*
+*§ 32-101 [Reserved]* ::
 
 
 
@@ -15,11 +15,11 @@ Chapter 1: Office of Labor Standards
 
 
 Chapter 2: Division of Paid Care
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 32-201 Definitions.*
+*§ 32-201 Definitions.* ::
 
 
 For the purposes of this chapter, the following terms have the following meanings:
@@ -51,7 +51,7 @@ State-approved education or training program. The term "state-approved education
 
 
 
-*§ 32-202 Division; powers and duties.*
+*§ 32-202 Division; powers and duties.* ::
 
 
 a. The division shall assist the director in developing policies and programs that apply to paid care workers.
@@ -105,7 +105,7 @@ f. The division shall seek to work with the New York state department of health 
 
 
 
-*§ 32-203 Advocate; powers and duties.*
+*§ 32-203 Advocate; powers and duties.* ::
 
 
 a. The advocate and division staff shall engage with the paid care industry to address workforce concerns, including by:
@@ -137,7 +137,7 @@ b. With respect to individual employers against whom the division receives compl
 
 
 
-*§ 32-204 Website and reporting.*
+*§ 32-204 Website and reporting.* ::
 
 
 The division shall post on the division's website and submit to the speaker of the council, beginning no later than one year after the effective date of this law and annually thereafter, the following information for the preceding calendar year:

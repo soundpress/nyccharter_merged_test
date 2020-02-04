@@ -1,12 +1,12 @@
 Title 67: Department of Information Technology and Telecommunications
-======================================================================================================
+===================================================
 
 Chapter 1: Microtrenching
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 1-01 Definitions.*
+*§ 1-01 Definitions.* ::
 
 
 The following terms are defined for purposes of this chapter:
@@ -32,7 +32,7 @@ The following terms are defined for purposes of this chapter:
 
 
 
-*§ 1-02 Microtrenching Permitted: Notifications to the Department.*
+*§ 1-02 Microtrenching Permitted: Notifications to the Department.* ::
 
 
 (a) An owner may perform microtrenching to the extent allowed by a permit issued by the Department of Transportation. New microtrenching will not be permitted where sufficient excess capacity is available in existing microtrenching. Before applying to the Department of Transportation for such a permit, the owner must obtain a certification from the Department that no excess capacity is available in the location the owner proposes for microtrenching. The owner must submit that certification to the Department of Transportation as part of the owner's application for a permit.
@@ -66,7 +66,7 @@ The following terms are defined for purposes of this chapter:
 
 
 
-*§ 1-03 Requirement to Install Excess Capacity.*
+*§ 1-03 Requirement to Install Excess Capacity.* ::
 
 
 (a) The owner must use microtrenching materials and equipment that will facilitate the use of excess capacity by telecommunications franchisees.
@@ -80,7 +80,7 @@ The following terms are defined for purposes of this chapter:
 
 
 
-*§ 1-04 Ownership and Maintenance of Conduit.*
+*§ 1-04 Ownership and Maintenance of Conduit.* ::
 
 
 Except as provided in 67 RCNY §1-08(b), the owner must retain title to the conduit and must maintain the conduit in working order and good repair, and in compliance with the rules of this chapter. The owner must comply with all requirements, directives and orders of the Department of Transportation regarding microtrenching.
@@ -90,7 +90,7 @@ Except as provided in 67 RCNY §1-08(b), the owner must retain title to the cond
 
 
 
-*§ 1-05 Use and Management of Excess Capacity.*
+*§ 1-05 Use and Management of Excess Capacity.* ::
 
 
 (a) The owner must make one duct of the excess capacity available without charge or fee to the City for installation of fiber-optic cable for use by the City for the City's direct benefit. The "City" includes any agency or office of New York City government, and any City-related public institution including the New York City Housing Authority, the Health and Hospitals Corporation, the New York City Department of Education, and the Metropolitan Transportation Authority.
@@ -126,7 +126,7 @@ Except as provided in 67 RCNY §1-08(b), the owner must retain title to the cond
 
 
 
-*§ 1-06 The Owner's Obligation to Remove or Otherwise Dispose of Conduit.*
+*§ 1-06 The Owner's Obligation to Remove or Otherwise Dispose of Conduit.* ::
 
 
 (a) If an owner no longer intends to maintain conduit in working order and good repair, the owner must either remove the conduit at its own expense, or, at the Department's option, transfer the conduit to another owner, or otherwise dispose of the conduit as directed by the Department.
@@ -140,7 +140,7 @@ Except as provided in 67 RCNY §1-08(b), the owner must retain title to the cond
 
 
 
-*§ 1-07 Enforcement.*
+*§ 1-07 Enforcement.* ::
 
 
 (a) Telecommunications franchisees may submit complaints about owners' compliance with the rules of this chapter to the Department.
@@ -184,7 +184,7 @@ Except as provided in 67 RCNY §1-08(b), the owner must retain title to the cond
 
 
 
-*§ 1-08 Miscellaneous Provisions.*
+*§ 1-08 Miscellaneous Provisions.* ::
 
 
 (a) Conduit that was installed before the effective date of this chapter, in compliance with the terms of a microtrenching pilot program, will be allowed to remain in place despite any non-compliance with 67 RCNY §1-02 or 67 RCNY §1-03. All of the other rules of this chapter apply to such conduit.
@@ -201,11 +201,11 @@ Except as provided in 67 RCNY §1-08(b), the owner must retain title to the cond
 
 
 Chapter 4: Electrical Usage by Cable Television Companies
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 4-01 Definitions.*
+*§ 4-01 Definitions.* ::
 
 
 Authorized agent. "Authorized agent" shall mean any person or entity which is authorized by lease, contract or other agreement to act on behalf of a premises owner with respect to the matters covered by this rule.
@@ -227,7 +227,7 @@ Utility. "Utility" shall mean any person, firm, partnership or corporation autho
 
 
 
-*§ 4-02 Applicability.*
+*§ 4-02 Applicability.* ::
 
 
 (a) This chapter applies to all cable television companies authorized by New York City by means of a franchise or other municipal authorization to construct, operate, maintain, or manage a cable television system in New York City.
@@ -237,7 +237,7 @@ Utility. "Utility" shall mean any person, firm, partnership or corporation autho
 
 
 
-*§ 4-03 Electricity Usage.*
+*§ 4-03 Electricity Usage.* ::
 
 
 (a) All electricity used by a cable television company shall be directly billed to the cable television company by a utility pursuant to the utility's applicable service tariffs, including all electricity used by a cable television company to operate equipment situated on premises owned, operated or leased by an entity other than the cable company, unless the cable television company and the premises owner have entered into a resale arrangement.
@@ -249,7 +249,7 @@ Utility. "Utility" shall mean any person, firm, partnership or corporation autho
 
 
 
-*§ 4-04 Notice.*
+*§ 4-04 Notice.* ::
 
 
 (a) The cable television company shall give each premises owner or authorized agent not less than fifteen (15) days written notice of its intention to locate equipment upon any premises not owned, operated or leased by the cable television company which may require the use of electricity.
@@ -268,7 +268,7 @@ Utility. "Utility" shall mean any person, firm, partnership or corporation autho
 
 
 Chapter 6: Public Pay Telephones
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
@@ -277,7 +277,7 @@ Chapter 6: Public Pay Telephones
 
 
 
-*§ 6-01 Definitions.*
+*§ 6-01 Definitions.* ::
 
 
 For the purposes of this Chapter, the following terms shall have the following meanings:
@@ -313,7 +313,7 @@ Substantial Common Ownership. "Substantial Common Ownership" shall mean that:
 
 
 
-*§ 6-02 Penalties.*
+*§ 6-02 Penalties.* ::
 
 
 (a) In addition to the civil penalties provided in subdivisions (c) and (d) of this section, an owner who maintains or operates a public pay telephone without a permit issued pursuant to this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine of not more than ten thousand dollars ($10,000) and imprisonment of not more than thirty days, or both such fine and imprisonment.
@@ -339,7 +339,7 @@ Substantial Common Ownership. "Substantial Common Ownership" shall mean that:
 
 
 
-*§ 6-03 Liability for Violations.*
+*§ 6-03 Liability for Violations.* ::
 
 
 An owner of a public pay telephone shall be liable for a violation by his or her employee, agent or independent contractor of the provisions of this subchapter made in the course of performing his or her duties.
@@ -349,7 +349,7 @@ An owner of a public pay telephone shall be liable for a violation by his or her
 
 
 
-*§ 6-04 Notice.*
+*§ 6-04 Notice.* ::
 
 
 Except where otherwise required by law, notice by the Commissioner pursuant to this chapter shall be by first class mail addressed to the address for service submitted in writing to the Department by an owner of a public pay telephone or as set forth in a permit for such telephone. Where an owner has provided a facsimile number with such address or on an application for a permit, notice shall be by facsimile to such number. Notice may also be by such other electronic or non-electronic means as the Commissioner may prescribe. In the case of a public pay telephone that is not identified on a registry or does not possess a permit issued pursuant to this chapter, such notice shall be provided only where the name and address of the owner is shown on the public pay telephone or can be readily identified by the Commissioner by virtue of a trademark prominently displayed on the public telephone. Notice may also be served on a public pay telephone owner by personal service or in any other manner permitted under the terms of a franchise agreement entered into by such public pay telephone owner or in any other manner reasonably calculated to achieve actual notice, including but not limited to any method authorized in the Civil Practice Law and Rules.
@@ -359,7 +359,7 @@ Except where otherwise required by law, notice by the Commissioner pursuant to t
 
 
 
-*§ 6-05 Maintenance of Public Pay Telephones.*
+*§ 6-05 Maintenance of Public Pay Telephones.* ::
 
 
 (a) Coinless 911 service. A public pay telephone shall provide twenty-four hour access to 911 service without use of a coin or other payment device. For purposes of this subdivision a violation of this requirement may be found where a public pay telephone lacks a dial tone, a clear and audible transmission and reception, a keyboard and handset in working order, or any other feature necessary to provide or obtain access to 911 service (such as, but not limited to, coinless access to an operator services provider).
@@ -413,7 +413,7 @@ Except where otherwise required by law, notice by the Commissioner pursuant to t
 
 
 
-*§ 6-06 Advertisements.*
+*§ 6-06 Advertisements.* ::
 
 
 A public pay telephone shall not display advertising material, unless in accordance with the provisions of a franchise.
@@ -430,7 +430,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-21 Maintenance and Operation of Interim Eligible Public Pay Telephone Without a Permit. [Repealed]*
+*§ 6-21 Maintenance and Operation of Interim Eligible Public Pay Telephone Without a Permit. [Repealed]* ::
 
 
 (Repealed City Record 7/9/2015, eff. 8/8/2015)
@@ -440,7 +440,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-22 Conditions for Maintenance and Operation of Interim Eligible Public Pay Telephone; Registry of Interim Eligible Public Pay Telephones. [Repealed]*
+*§ 6-22 Conditions for Maintenance and Operation of Interim Eligible Public Pay Telephone; Registry of Interim Eligible Public Pay Telephones. [Repealed]* ::
 
 
 (Repealed City Record 7/9/2015, eff. 8/8/2015)
@@ -450,7 +450,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-23 Discontinuance of Interim Eligible Public Pay Telephones Identified in Registry. [Repealed]*
+*§ 6-23 Discontinuance of Interim Eligible Public Pay Telephones Identified in Registry. [Repealed]* ::
 
 
 (Repealed City Record 7/9/2015, eff. 8/8/2015)
@@ -460,7 +460,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-24 Interim Registries. [Repealed]*
+*§ 6-24 Interim Registries. [Repealed]* ::
 
 
 (Repealed City Record 7/9/2015, eff. 8/8/2015)
@@ -470,7 +470,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-25 Objection by the Commissioner. [Repealed]*
+*§ 6-25 Objection by the Commissioner. [Repealed]* ::
 
 
 (Repealed City Record 7/9/2015, eff. 8/8/2015)
@@ -480,7 +480,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-26 Removal. [Repealed]*
+*§ 6-26 Removal. [Repealed]* ::
 
 
 (Repealed City Record 7/9/2015, eff. 8/8/2015)
@@ -490,7 +490,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-27 Requirement of Registry as Precondition for Permit. [Repealed]*
+*§ 6-27 Requirement of Registry as Precondition for Permit. [Repealed]* ::
 
 
 (Repealed City Record 7/9/2015, eff. 8/8/2015)
@@ -505,7 +505,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-30 Permit Required.*
+*§ 6-30 Permit Required.* ::
 
 
 (a) No public pay telephone shall be installed, operated or maintained on, over or under any street or other inalienable property of the City, or installed such that a user of such public pay telephone can only use such telephone while occupying, in whole or in part, the inalienable property of the City, unless the owner of the public pay telephone has received a permit for the public pay telephone from the Commissioner pursuant to the provisions of this subchapter.
@@ -523,7 +523,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-31 Issuance and Transfer of Permits.*
+*§ 6-31 Issuance and Transfer of Permits.* ::
 
 
 (a) The Commissioner may issue permits based upon a determination, at his or her discretion, that issuance of a permit would be in the best interests of the City.
@@ -545,7 +545,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-32 Application and Fee for Permit.*
+*§ 6-32 Application and Fee for Permit.* ::
 
 
 (a) Prior to the issuance of a permit for a new installation, franchisee must submit the permit fee of three hundred ninety-five dollars ($395).
@@ -559,7 +559,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-33 Term of Permit; Termination of Permit.*
+*§ 6-33 Term of Permit; Termination of Permit.* ::
 
 
 (a) Term of permit. A permit for a public pay telephone shall continue in effect, unless earlier revoked or suspended by the Commissioner pursuant to 67 RCNY § 6-37 or § 23-404 of the Administrative Code, for the term of the franchise held by the owner of such telephone except:
@@ -595,7 +595,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-34 Consent of Building Owner/commercial Lessee Required.*
+*§ 6-34 Consent of Building Owner/commercial Lessee Required.* ::
 
 
 (a) Opening, drilling or other physical alteration. No permit for a public pay telephone shall be issued or renewed pursuant to this subchapter without the written consent of the owner of an affected building or other private property where the installation of such public pay telephone requires the opening, drilling or other physical alteration of a building facade or other private property or the affixing of such telephone to a building facade or other private property. Such consent shall be provided to DoITT in either of the following two forms:
@@ -625,7 +625,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-35 Notification by Department to Agencies and Review of Application for Permits.*
+*§ 6-35 Notification by Department to Agencies and Review of Application for Permits.* ::
 
 
 (a) Notification.
@@ -649,7 +649,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-35.1 New Applications for Permits. [Repealed]*
+*§ 6-35.1 New Applications for Permits. [Repealed]* ::
 
 
 (
@@ -662,7 +662,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-36 Revocation of Permits, Removing and Rendering Public Pay Telephones Inoperable.*
+*§ 6-36 Revocation of Permits, Removing and Rendering Public Pay Telephones Inoperable.* ::
 
 
 (a) Grounds for action by the Commissioner. The Commissioner may take such action pursuant to this section that he or she deems necessary and appropriate where:
@@ -702,7 +702,7 @@ A public pay telephone shall not display advertising material, unless in accorda
 
 
 
-*§ 6-37 Determination of Public Nuisance.*
+*§ 6-37 Determination of Public Nuisance.* ::
 
 
 For the purposes of this subchapter, "public nuisance" shall have the meaning set forth in § 23-401 of the Code and 67 RCNY § 6-01. The Commissioner may determine that a public pay telephone constitutes a public nuisance when a written complaint is made, including, but not limited to a complaint by the Community Board in the Community District in which such telephone is located stating that such public pay telephone constitutes a public nuisance, as so defined. The complaint must also be verified by the police precinct in which such telephone is located.
@@ -712,7 +712,7 @@ For the purposes of this subchapter, "public nuisance" shall have the meaning se
 
 
 
-*§ 6-38 Interim Issuance of Permits. [Repealed]*
+*§ 6-38 Interim Issuance of Permits. [Repealed]* ::
 
 
 (
@@ -725,7 +725,7 @@ For the purposes of this subchapter, "public nuisance" shall have the meaning se
 
 
 
-*§ 6-38.2 Moves to the Curb. [Repealed]*
+*§ 6-38.2 Moves to the Curb. [Repealed]* ::
 
 
 (
@@ -738,7 +738,7 @@ For the purposes of this subchapter, "public nuisance" shall have the meaning se
 
 
 
-*§ 6-39 Removal of Telephones by the Department and Disposition of Removed Telephones.*
+*§ 6-39 Removal of Telephones by the Department and Disposition of Removed Telephones.* ::
 
 
 (a) Any public pay telephones not removed by a permittee in compliance with an order of the Commissioner pursuant to this chapter shall be subject to removal pursuant to § 23-408 of the Code, and failure to so remove shall also be deemed a violation of subdivisions (b) and (c) of such section.
@@ -750,7 +750,7 @@ For the purposes of this subchapter, "public nuisance" shall have the meaning se
 
 
 
-*Appendix A: Application to Install and Maintain A Public Pay Telephone (PPT) [Repealed]*
+*Appendix A: Application to Install and Maintain A Public Pay Telephone (PPT) [Repealed]* ::
 
 
 A public pay telephone shall comply with the requirements set forth in this subchapter provided, however, that the provisions of subdivision (d), subparagraphs (i), (ii), (vii), (viii) and (x) through (xxiv) of paragraph (e)(2), and subdivisions (f) through (n) of 67 RCNY § 6-41 shall not apply to a public pay telephone permitted pursuant to this chapter that was previously licensed pursuant to former § 19-131 or 19-128 of the Code.
@@ -762,7 +762,7 @@ A public pay telephone shall comply with the requirements set forth in this subc
 
 
 
-*§ 6-41 Siting and Clearance Requirements.*
+*§ 6-41 Siting and Clearance Requirements.* ::
 
 
 (a) Pedestrian passage. Sidewalk clearance must be maintained so as to ensure a free unobstructed pedestrian passage of eight feet or one-half the width of the sidewalk, whichever is greater. For building line public pay telephones, sidewalk clearance shall be measured perpendicularly from the curb line to a point on the public pay telephone installation in closest proximity to the curb line. For curb line public pay telephones, sidewalk clearance shall be measured perpendicularly from the building line to a point on the public pay telephone installation in closest proximity to the building line.
@@ -883,7 +883,7 @@ A public pay telephone shall comply with the requirements set forth in this subc
 
 
 
-*§ 6-42 Sign Required.*
+*§ 6-42 Sign Required.* ::
 
 
 Each public pay telephone location, single or multiple, shall have a sign in a form prescribed by the Commissioner, and consistent with the Rules and Regulations promulgated by the New York State Public Service Commission, installed so that it is visible within the enclosures for such telephone. Such sign shall:
@@ -907,7 +907,7 @@ Each public pay telephone location, single or multiple, shall have a sign in a f
 
 
 
-*§ 6-43 Installation and Maintenance.*
+*§ 6-43 Installation and Maintenance.* ::
 
 
 (a) Workmanship. 
@@ -960,7 +960,7 @@ Each public pay telephone location, single or multiple, shall have a sign in a f
 
 
 
-*§ 6-44 Compliance with Americans with Disabilities Act.*
+*§ 6-44 Compliance with Americans with Disabilities Act.* ::
 
 
 A franchisee shall comply with the provisions of the Americans with Disabilities Act and the regulations promulgated thereunder, contained in 28 C.F.R. Parts 35 and 36, and any additional applicable Federal, State and local laws relating to accessibility for persons with disabilities and any rules or regulations promulgated thereunder, as such laws, rules or regulations may from time to time be amended.
@@ -970,7 +970,7 @@ A franchisee shall comply with the provisions of the Americans with Disabilities
 
 
 
-*§ 6-45 Compliance with Other Authority.*
+*§ 6-45 Compliance with Other Authority.* ::
 
 
 (a) As provided in subdivision (d) of 67 RCNY § 6-30, notwithstanding any other provision of this chapter, a permit shall not be issued for a public pay telephone pursuant to this chapter unless the owner of such telephone demonstrates that he or she has obtained all permissions required by applicable provisions of Federal, State and local law, as well as rules and regulations promulgated and agreements entered into pursuant thereto.
@@ -982,7 +982,7 @@ A franchisee shall comply with the provisions of the Americans with Disabilities
 
 
 
-*§ 6-46 Timing and Installation. [Repealed]*
+*§ 6-46 Timing and Installation. [Repealed]* ::
 
 
 If pursuant to any provision of this chapter, a public pay telephone, or group of public pay telephones, becomes subject to removal by the Department, and if the location of such payphone or group of payphones is consistent with the requirements of subchapter D of this chapter, then the Department shall have the authority to, in lieu of removal of such payphone or payphones, operate (directly or through a designee) such payphone or payphones for the account of the City and/or make such payphone or payphones available for purchase or lease from the City by holders of public pay telephone franchises granted by the City. The Department, or its designee, purchaser or lessee, shall be authorized to make any necessary or convenient modifications to such payphone or payphones to secure the service provided from such payphone or payphones and the revenues generated from such payphone or payphones.
@@ -992,7 +992,7 @@ If pursuant to any provision of this chapter, a public pay telephone, or group o
 
 
 
-*§ 6-48 Fee Nonrefundable.*
+*§ 6-48 Fee Nonrefundable.* ::
 
 
 A three hundred ninety five dollars ($395) fee will be required prior to the issuance of a new permit and shall be nonrefundable.

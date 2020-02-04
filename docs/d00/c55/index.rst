@@ -1,10 +1,10 @@
 Chapter 49: Officers and Employees
-============================================================================================================================================================================================================
+===================================================
 Section 1100.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1100. Head of department; whole time.*
+*Section 1100. Head of department; whole time.* ::
 
 
 Every head of an administration or department or elected officer who receives a salary from the city shall give his or her whole time to the duties of the office and shall not engage in any other occupation, profession or employment.
@@ -15,10 +15,10 @@ Every head of an administration or department or elected officer who receives a 
 
 
 Section 1101.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1101. Deputies.*
+*Section 1101. Deputies.* ::
 
 
 a. Any head of a department established by this charter may appoint, and at pleasure, remove so many deputies as may be provided for by law and determine their relative rank, and may appoint and at pleasure remove a secretary to the department if so provided, and, except as otherwise provided by law, shall assign to them their duties and may by instrument in writing filed in the department designate any deputy to possess any of the powers and exercise such of the duties of the head of the department and for such times and under such conditions as such head of a department may specify.
@@ -31,10 +31,10 @@ c. The head of each mayoral department, including each such department within an
 
 
 Section 1102.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1102. Organization of department.*
+*Section 1102. Organization of department.* ::
 
 
 a. Any head of an administration or a department established by this charter, to the extent to which the organization of the administration or department is not prescribed by law, shall by instrument in writing filed in the agency organize the administration or department into such divisions, bureaus or offices and make such assignments of powers and duties among them, and from time to time change such organization or assignments, as the head of the administration or department may consider advisable.
@@ -45,10 +45,10 @@ b. Except as provided in section eleven, where divisions, bureaus or offices hav
 
 
 Section 1109.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1109. Summary inquiry.*
+*Section 1109. Summary inquiry.* ::
 
 
 A summary inquiry into any alleged violation or neglect of duty in relation to the property, government or affairs of the city may be conducted under an order to be made by any justice of the supreme court in the first, second or eleventh judicial district on application of the mayor, the comptroller, the public advocate, any five council members, the commissioner of investigation or any five citizens who are taxpayers, supported by affidavit to the effect that one or more officers, employees or other persons therein named have knowledge or information concerning such alleged violation or neglect of duty. Such inquiry shall be conducted before and shall be controlled by the justice making the order or any other justice of the supreme court in the same district. Such justice may require any officer or employee or any other person to attend and be examined in relation to the subject of the inquiry. Any answers given by a witness in such inquiry shall not be used against such witness in any criminal proceeding, except that for all false answers on material points such witness shall be subject to prosecution for perjury. The examination shall be reduced to writing and shall be filed in the office of the clerk of such county within the first, second or eleventh judicial district as the justice may direct, and shall be a public record.
@@ -57,10 +57,10 @@ A summary inquiry into any alleged violation or neglect of duty in relation to t
 
 
 Section 1110.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1110. Trusteeship of public property.*
+*Section 1110. Trusteeship of public property.* ::
 
 
 The council and the council members and all other officers and employees of the city are hereby declared respectively trustees of the property, funds and effects of the city, so far as such property, funds and effects are or may be committed to their management or control. Such trustees are hereby made subject to all the duties and responsibilities imposed by law on trustees, and such duties and responsibilities may be enforced by the city or by any officer thereof.
@@ -69,10 +69,10 @@ The council and the council members and all other officers and employees of the 
 
 
 Section 1110-a.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1110-a. Capital plant inventory and maintenance estimates.*
+*Section 1110-a. Capital plant inventory and maintenance estimates.* ::
 
 
 a. For the purposes of this section:
@@ -95,10 +95,10 @@ f. Not later than the first day of October of each year, commencing in nineteen 
 
 
 Section 1111.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1111. Authorization to incur liabilities; expenses not to exceed appropriation.*
+*Section 1111. Authorization to incur liabilities; expenses not to exceed appropriation.* ::
 
 
 The head of each agency shall establish the procedure by which charges and liabilities may be incurred on behalf of the agency. Such procedures shall ensure that no officer or employee, on behalf of or in the name of the agency, shall incur a liability or an expense for any purpose in excess of the amount appropriated or otherwise authorized therefor; and no charge, claim or liability shall exist or arise against the city, or any of the counties contained within its territorial limits, for any sum in excess of the amount appropriated or otherwise authorized for the particular purpose.
@@ -107,10 +107,10 @@ The head of each agency shall establish the procedure by which charges and liabi
 
 
 Section 1112.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1112. Reports to mayor.*
+*Section 1112. Reports to mayor.* ::
 
 
 The heads of administrations and departments established by this charter, borough presidents and such officers as the mayor may require shall in addition to any other reports required by this charter, once in each year and at such other times as the mayor may direct, make to the mayor, in such form and under such rules as the mayor may prescribe, reports of their operations and action. Notice of the availability of copies of each of such annual reports shall be published in the City Record within thirty days of the publication of the report involved. The heads of all agencies shall, when required by the mayor, furnish to him or her such information as the mayor may demand, within such reasonable time as he or she may direct.
@@ -119,10 +119,10 @@ The heads of administrations and departments established by this charter, boroug
 
 
 Section 1113.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1113. Report and Advisory Board Review Commission.*
+*Section 1113. Report and Advisory Board Review Commission.* ::
 
 
 a. Notwithstanding any inconsistent provision of this charter, the administrative code or any local law and except as provided in this section, any requirement in this charter, the administrative code or otherwise in any local law that mandates the issuance of periodic or multiple reports by public agencies, officers or employees where at least one such report is due on or after the effective date of this section, and any requirement that mandates the establishment of a commission, committee, board, task force or other similar body that is solely advisory in nature, shall be subject to waiver in accordance with the provisions of this section.
@@ -157,10 +157,10 @@ g. Nothing in this section shall be construed to prevent the city council from a
 
 
 Section 1115.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1115. Officer not to hold any other civil office.*
+*Section 1115. Officer not to hold any other civil office.* ::
 
 
 Any person holding office, whether by election or appointment, who shall, during such person's term of office, accept, hold or retain any other other civil office of honor, trust or emolument under the government of the United States, except commissioners for the taking of bail, or of the state, except the office of notary public or commissioner of deeds or officer of the national guard, or who shall hold or accept any other office connected with the government of the city, or who shall accept a seat in the legislature, shall be deemed thereby to have vacated any office held by such person under the city government; except that the mayor may accept, or may in writing authorize any other person holding office to accept, a specified civil office in respect to which no salary or other compensation is provided. No person shall hold two city or county offices, except as expressly provided in this charter or by statute; nor shall any officer under the city government hold or retain an office under a county government, except when such officer holds such office ex officio by virtue of an act of the legislature, and in such case shall draw no salary for such ex officio; provided, however, that any member of the police force or any member of the fire department may hold office as a member of a board of education outside of the city of New York if otherwise qualified to serve thereon.
@@ -169,10 +169,10 @@ Any person holding office, whether by election or appointment, who shall, during
 
 
 Section 1116.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1116. Fraud; neglect of duty; willful violation of law relative to office.*
+*Section 1116. Fraud; neglect of duty; willful violation of law relative to office.* ::
 
 
 a. Any council member or other officer or employee of the city who shall wilfully violate or evade any provision of law relating to such officer's office or employment, or commit any fraud upon the city, or convert any of the public property to such officer's own use, or knowingly permit any other person so to convert it or by gross or culpable neglect of duty allow the same to be lost to the city, shall be deemed guilty of a misdemeanor and in addition to the penalties imposed by law and on conviction shall forfeit such office or employment, and be excluded forever after from receiving or holding any office or employment under the city government.
@@ -183,10 +183,10 @@ b. Any officer or employee of the city or of any city agency who shall knowingly
 
 
 Section 1117.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1117. Pensioner not to hold office.*
+*Section 1117. Pensioner not to hold office.* ::
 
 
 If a person receiving a pension or a retirement allowance made up of such pension and an annuity purchased by the pensioner from the city or any agency, or out of any fund under the city or any agency, by reason of such person's own prior employment by the city or any agency, shall hold and receive any compensation from any office, employment or position under the state or city or any of the counties included within the city or any municipal corporation or political subdivision of the state, except the offices of inspector of election, poll clerk or ballot clerk under the election law or commissioner of deeds or notary public or jury duty, the payment of said pension only shall be suspended and forfeited during and for the time such person shall hold and receive compensation from such office, position or employment; but this section shall not apply where the pension and the salary or compensation of the office, employment or position amount in the aggregate to less than one thousand eight hundred dollars annually.
@@ -195,10 +195,10 @@ If a person receiving a pension or a retirement allowance made up of such pensio
 
 
 Section 1118.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1118. Officers and employees not to be ordered to work outside public employment.*
+*Section 1118. Officers and employees not to be ordered to work outside public employment.* ::
 
 
 No officer or employee of the city or of any of the counties within its limits shall detail or cause any officer or employee of the city or of any of such counties to do or perform any service or work outside of the public office, work or employment of such officer or employee; and any violation of this section shall constitute a misdemeanor.
@@ -207,10 +207,10 @@ No officer or employee of the city or of any of the counties within its limits s
 
 
 Section 1119.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1119. Action of boards.*
+*Section 1119. Action of boards.* ::
 
 
 Except as otherwise provided by law:
@@ -225,10 +225,10 @@ Except as otherwise provided by law:
 
 
 Section 1120.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1120. Additional powers and duties.*
+*Section 1120. Additional powers and duties.* ::
 
 
 Any elected or appointed officer of the city or any board or commission or any member thereof shall, in addition to the powers and duties vested in such officer, board or commission by this charter, perform any duties and exercise any powers vested in such officer or in such board or commission by any other provision of law and any power necessary to carry out the powers and duties vested in such officer, board or commission.
@@ -237,10 +237,10 @@ Any elected or appointed officer of the city or any board or commission or any m
 
 
 Section 1121.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1121. Agreements concerning performance of agency administrative functions.*
+*Section 1121. Agreements concerning performance of agency administrative functions.* ::
 
 
 Notwithstanding any other provision of local law to the contrary, two or more agencies of the city may, by mutual agreement, share in the performance of specified administrative functions or designate one or more of such agencies to perform such functions for one or more other such agencies if, in the judgment of the heads of such agencies, such sharing or designation will result in more effective or efficient performance of such functions for the agencies entering into such agreement. An agreement pursuant to this section may include but shall not be limited to the sharing of, or designation of one or more agencies to perform, one or more of the following functions: personnel services, labor relations, facilities maintenance and management, purchasing, information technology and telecommunications, budget administration, and internal auditing. For purposes of this section, "agencies of the city" shall include but not be limited to mayoral and non-mayoral agencies, city boards and commissions, and the offices of elected city officers.
@@ -249,10 +249,10 @@ Notwithstanding any other provision of local law to the contrary, two or more ag
 
 
 Section 1122.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1122. Bonds.*
+*Section 1122. Bonds.* ::
 
 
 Unless otherwise provided by law, each officer of the city who has possession of or control over any funds of the city shall give bond for the faithful performance of the duties of such officer in such sum as may be fixed and with sureties to be approved by the comptroller. Such bonds shall run to the city of New York, and in case there is another officer who is responsible for the officer giving the bond, shall run also to such officer.
@@ -261,10 +261,10 @@ Unless otherwise provided by law, each officer of the city who has possession of
 
 
 Section 1123.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1123. Failure to testify.*
+*Section 1123. Failure to testify.* ::
 
 
 If any council member or other officer or employee of the city shall, after lawful notice or process, wilfully refuse or fail to appear before any court or judge, any legislative committee, or any officer, board or body authorized to conduct any hearing or inquiry, or having appeared shall refuse to testify or to answer any question regarding the property, government or affairs of the city or of any county included within its territorial limits, or regarding the nomination, election, appointment or official conduct of any officer or employee of the city or of any such county, on the ground that the answer of such council member, officer or employee would tend to incriminate him or her, or shall refuse to waive immunity from prosecution on account of any such matter in relation to which he or she may be asked to testify upon any such hearing or inquiry, the term or tenure of office or employment of such council member, officer or employee shall terminate and such office or employment shall be vacant, and he or she shall not be eligible to election or appointment to any office or employment under the city or any agency.
@@ -273,10 +273,10 @@ If any council member or other officer or employee of the city shall, after lawf
 
 
 Section 1124.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1124. Civil rights protected.*
+*Section 1124. Civil rights protected.* ::
 
 
 Nothing in this charter contained shall affect any rights given or secured by section fifteen of the civil rights law, including the right of officers and employees, as citizens, to appeal to the legislature or to any public officer, board, commission or other public body for the redress of their grievances as such officers and employees.
@@ -285,10 +285,10 @@ Nothing in this charter contained shall affect any rights given or secured by se
 
 
 Section 1125.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1125. Salaries of the district attorneys.*
+*Section 1125. Salaries of the district attorneys.* ::
 
 
 Each of the district attorneys of the counties of New York, Bronx, Kings, Queens and Richmond shall receive an annual salary equal to the compensation received by a justice of the supreme court in the county in which such district attorney has been elected and is serving, or two hundred twelve thousand eight hundred dollars a year, whichever is greater.
@@ -299,10 +299,10 @@ Each of the district attorneys of the counties of New York, Bronx, Kings, Queens
 
 
 Section 1126.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1126. Political activities forbidden.*
+*Section 1126. Political activities forbidden.* ::
 
 
 No officer or employee of the department of citywide administrative services subject to this provision pursuant to a designation of the commissioner of citywide administrative services, and no member, officer, or employee of the civil service commission shall hold office or serve as a member of any committee in any political organization or association, nor shall such member, officer or employee serve as a delegate to any political convention. Any member, officer or employee violating this provision shall forfeit such office or employment. The commissioner of citywide administrative services shall designate all employees in the department of citywide administrative services who perform functions relating to citywide personnel issues to be subject to this provision.
@@ -311,10 +311,10 @@ No officer or employee of the department of citywide administrative services sub
 
 
 Section 1127.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1127. Condition precedent to employment.*
+*Section 1127. Condition precedent to employment.* ::
 
 
 a. Notwithstanding the provisions of any local law, rule or regulation to the contrary, every person seeking employment with the city of New York or any of its agencies regardless of civil service classification or status shall sign an agreement as a condition precedent to such employment to the effect that if such person is or becomes a nonresident individual as that term is defined in section 11-1706 of the administrative code of the city of New York or any similar provision of such code, during employment by the city, such person will pay to the city an amount by which a city personal income tax on residents computed and determined as if such person were a resident individual, as defined in such section, during such employment, exceeds the amount of any city earnings tax and city personal income tax imposed on such person for the same taxable period.
@@ -325,10 +325,10 @@ b. Whenever any provision of this charter, the administrative code of the city o
 
 
 Section 1128.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1128. Interference with investigation.*
+*Section 1128. Interference with investigation.* ::
 
 
 a. No person vent, seek to prevent, interfere with, obstruct, or otherwise hinder any study or investigation being conducted pursuant to the charter. Any violation of this section shall constitute cause for suspension or removal from office or employment.
@@ -339,10 +339,10 @@ b. Full cooperation with the commissioner of investigation shall be afforded by 
 
 
 Section 1129.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1129. Members of police department; no other office.*
+*Section 1129. Members of police department; no other office.* ::
 
 
 Any police commissioner or any member of the police force who shall accept any additional place of public trust or civil emolument except as a member of a community board, or who shall during his or her term of office be nominated for any office elective by the people, except a member of the police force appointed, nominated or elected to a board of education outside of the city of New York, and shall not, within ten days succeeding same, decline the said nomination, shall be deemed thereby to have resigned his or her commission and to have vacated his or her office, and all votes cast at any election for any person holding the office of police commissioner, or within thirty days after he or she shall have resigned such office, shall be void.
@@ -353,10 +353,10 @@ The foregoing provisions shall not apply to any member of the police force who, 
 
 
 Section 1130.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1130. Members of fire department; elective office.*
+*Section 1130. Members of fire department; elective office.* ::
 
 
 Any commissioner or any member of the uniformed force of the fire department may accept any additional place of public trust or civil emolument or may be elected to public office. Provided, however, if the fire commissioner determines that serving in such capacity interferes with his or her performance as a member of the department, the commissioner may require that such member be on a leave of absence without pay from the department during the time that such member holds such office.
@@ -365,10 +365,10 @@ Any commissioner or any member of the uniformed force of the fire department may
 
 
 Section 1131.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1131. School officers not to be interested in contracts; removal.*
+*Section 1131. School officers not to be interested in contracts; removal.* ::
 
 
 The board of education shall have the power to remove from office any school officer who shall have been directly or indirectly interested in the furnishing of any supplies or materials, or in the doing of any work or labor, or in the sale or leasing of any real estate, or in any proposal, agreement or contract for any of these purposes, in any case in which the price or consideration is to be paid, in whole or in part, directly or indirectly, out of any school moneys, or who shall have received from any source whatever any commission or compensation in connection with any of the matters aforesaid; and any school officer who shall violate the preceding provisions of this section shall be deemed guilty of a misdemeanor, and shall also forfeit such office and be ineligible to any office or employment under the board of education or under the city or any agency. The provisions of this section shall not apply to authors of school books used in any of the public schools because of any interest they may have as authors in such books.
@@ -377,10 +377,10 @@ The board of education shall have the power to remove from office any school off
 
 
 Section 1132.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1132. Contributions to political funds, etc., prohibited.*
+*Section 1132. Contributions to political funds, etc., prohibited.* ::
 
 
 Neither the city superintendent of schools, nor any associate or assistant superintendent of schools, nor any member of the board of examiners, nor any member of the supervising or teaching staff of the board of education of the city shall be permitted to contribute any moneys directly or indirectly to any fund intended to affect legislation increasing their emoluments, but nothing herein shall be construed to deny any right afforded by section eleven hundred twenty-four.
@@ -389,10 +389,10 @@ Neither the city superintendent of schools, nor any associate or assistant super
 
 
 Section 1133.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1133. Transmission of reports; disposal of records; destruction of other materials.*
+*Section 1133. Transmission of reports; disposal of records; destruction of other materials.* ::
 
 
 a. The head of each agency shall transmit to the municipal reference and research library, in electronic format each report, document, study and publication required by local law, executive order, or mayoral directive to be published, issued ore transmitted to the council or mayor, together with metadata identified by the department of records and information services, within ten business days of such publication, issuance or transmittal to the council or mayor, which materials shall be made available to the public on or through the department's website, or its successor agency's website, within ten business days of such publication, issuance or transmittal to the council or mayor. The agency shall further transmit within ten business days of release by the agency, in electronic format, to the department of records and information services each report, document or study prepared by consultants or other independent contractors, together with metadata identified by the department of records and information services. Such materials shall further be made available to the public on or through the department's website, or its successor's website, within ten business days of release by the agency. Where practicable, each agency shall also transmit, in electronic format, to the department of records and information services or its successor agency all other published material and any report, document, study and publication required to be published by any state or federal law, rule or regulation, together with metadata identified by the department of records and information services. Such materials shall further be made available to the public on or through the department's website, or its successor's website, within ten business days of such publication.
@@ -435,10 +435,10 @@ h. Other materials not included within the definition of records in this charter
 
 
 Section 1134.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1134. [Copies of agency reports, audits or evaluations to council.]*
+*Section 1134. [Copies of agency reports, audits or evaluations to council.]* ::
 
 
 The head of each agency shall promptly transmit to the council copies of all final reports or studies which the charter or other law requires the agency or any official thereof to prepare. After July 1, 2019, for every such report or study that contains data in a list, table, graph, chart or other non-narrative form, the head of each agency shall also transmit such data to the council in a non-proprietary format that permits automated processing. The head of each agency shall also promptly transmit to the council copies of all final audits, audit reports and evaluations of such agency prepared by state or federal officials or by private parties. For every report, study, audit or evaluation that the charter, code or other local law requires an agency or official to prepare there shall be included in a conspicuous location a list of the sections of the charter or code, or the local law number and year if unconsolidated, whose requirements are fulfilled by such report, study, audit or evaluation, whether in full or in part, provided that if such section or local law contains requirements to be fulfilled by different reports then the relevant subdivision or other part of such law shall be included, and further provided that this requirement shall not apply if such report, study, audit or evaluation was placed in the charter or code by a state law and is required to be provided solely to a state agency.
@@ -449,10 +449,10 @@ The head of each agency shall promptly transmit to the council copies of all fin
 
 
 Section 1135.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1135. Restriction on community board membership of employees of council members and borough presidents.*
+*Section 1135. Restriction on community board membership of employees of council members and borough presidents.* ::
 
 
 No person who is employed by a borough president or a council member may be appointed to serve on a community board to which such borough president may make appointments or to which such council member may make recommendations for appointment.
@@ -461,10 +461,10 @@ No person who is employed by a borough president or a council member may be appo
 
 
 Section 1136.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1136. Certification of officers and employees.*
+*Section 1136. Certification of officers and employees.* ::
 
 
 a. On or before the tenth day after an individual becomes a public servant, such individual shall file a written statement with the city clerk that such individual has read and shall conform to the provisions of this chapter.
@@ -477,10 +477,10 @@ c. The department of citywide administrative services shall make available such 
 
 
 Section 1136.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1136. 1. Prohibitions on the use of government funds and resources.*
+*Section 1136. 1. Prohibitions on the use of government funds and resources.* ::
 
 
 1. Definitions. As used in this section:

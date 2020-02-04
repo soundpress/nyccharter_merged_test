@@ -1,10 +1,10 @@
 Chapter 61: Department of Housing Preservation and Development
-============================================================================================================================================================================================================
+===================================================
 Section 1800.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1800. Department; commissioner.*
+*Section 1800. Department; commissioner.* ::
 
 
 There shall be a department of housing preservation and development, the head of which shall be the commissioner of housing preservation and development.
@@ -13,10 +13,10 @@ There shall be a department of housing preservation and development, the head of
 
 
 Section 1801.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1801. Officials of the department.*
+*Section 1801. Officials of the department.* ::
 
 
 The commissioner may appoint not more than five deputy commissioners, one of whom may be a first deputy commissioner and one of whom shall be a deputy commissioner charged with the powers and duties that include, but are not limited to, the powers and duties descrribed in paragraphs (j), (k), (l) and (m) of subdivision six of section eighteen hundred two of this chapter.
@@ -25,10 +25,10 @@ The commissioner may appoint not more than five deputy commissioners, one of who
 
 
 Section 1802.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1802. Powers and duties of the commissioner.*
+*Section 1802. Powers and duties of the commissioner.* ::
 
 
 Except as otherwise specifically provided by law, the commissioner may exercise or delegate any of the following functions, powers and duties which are vested in the department:
@@ -75,10 +75,10 @@ Except as otherwise specifically provided by law, the commissioner may exercise 
 
 
 Section 1803.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1803. Inspectors, inspection.*
+*Section 1803. Inspectors, inspection.* ::
 
 
 1. Housing maintenance inspectors shall have such qualifications as shall be prescribed by the department of citywide administrative services after consultation with the commissioner.
@@ -89,10 +89,10 @@ Section 1803.
 
 
 Section 1804.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1804. Acquisitions of real property.*
+*Section 1804. Acquisitions of real property.* ::
 
 
 No purchase, lease, condemnation or other acquisition of real property by the department shall be authorized until (1) a public hearing has been held with respect to the acquisition after the publishing of notice in the City Record at least thirty days in advance of such hearing and (2) the department shall have received the approval of the mayor; provided, however, that in the case of an acquisition by purchase or condemnation, no such hearing shall be required if a public hearing is held with respect to such purchase or condemnation pursuant to any other requirement of law. In the case of a lease in which the city is to be the tenant, the notice for the hearing required in this subdivision shall include a statement of the location and proposed use of the premises, and the term and annual rent of the proposed lease.
@@ -101,10 +101,10 @@ No purchase, lease, condemnation or other acquisition of real property by the de
 
 
 Section 1805.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1805. Establishment of affordable housing trust fund.*
+*Section 1805. Establishment of affordable housing trust fund.* ::
 
 
 1. Notwithstanding any provision of law to the contrary and in addition to the functions, powers and duties that the commissioner may exercise or delegate pursuant to section eighteen hundred two of this chapter, the commissioner shall be authorized to establish or cause to be established an affordable housing trust fund.
@@ -131,10 +131,10 @@ Section 1805.
 
 
 Section 1806.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1806. Urban renewal data.*
+*Section 1806. Urban renewal data.* ::
 
 
 1. Definitions. For the purposes of this section, the following terms have the following meanings:

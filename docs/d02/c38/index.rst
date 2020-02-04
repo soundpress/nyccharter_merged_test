@@ -1,12 +1,12 @@
 Title 56: Department of Parks and Recreation
-======================================================================================================
+===================================================
 
 Chapter 1: Use of Parks
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 1-01 Construction and Scope of Rules; Variances.*
+*§ 1-01 Construction and Scope of Rules; Variances.* ::
 
 
 (a) Construction. These Rules shall be construed as follows:
@@ -30,7 +30,7 @@ Chapter 1: Use of Parks
 
 
 
-*§ 1-02 Definitions.*
+*§ 1-02 Definitions.* ::
 
 
 Authorized bathing beaches. "Authorized bathing beaches" are those beaches designated as such by the Department after approval by the New York State Department of Health or the New York City Department of Health and Mental Hygiene.
@@ -98,7 +98,7 @@ Unlawful dumping. “Unlawful dumping” means suffering or permitting any dirt,
 
 
 
-*§ 1-03 General Provisions.*
+*§ 1-03 General Provisions.* ::
 
 
 (a) Hours of operation. 
@@ -146,7 +146,7 @@ Unlawful dumping. “Unlawful dumping” means suffering or permitting any dirt,
 
 
 
-*§ 1-04 Prohibited Uses.*
+*§ 1-04 Prohibited Uses.* ::
 
 
 Violation of any paragraph or subparagraph of this section shall subject the violator to a civil penalty, as specified in the Department’s penalty schedule. See 56 RCNY § 1-07. In addition, except as otherwise provided below, such violation shall also constitute an offense (classified as a “violation” under the Penal Law), which can be punished by imprisonment of up to one day or a fine of not more than $200. As specified in this section, certain violations of specified paragraphs or subparagraphs of this section are classified by the Administrative Code as misdemeanors. Except as otherwise provided in this section, a misdemeanor can be punished by imprisonment of up to 20 days or a fine of not more than $1,000. Note that other laws, including but not limited to the Penal Law, may also apply to the conduct described below.
@@ -276,7 +276,7 @@ Violation of any paragraph or subparagraph of this section shall subject the vio
 
 
 
-*§ 1-05 Regulated Uses.*
+*§ 1-05 Regulated Uses.* ::
 
 
 Violation of any paragraph or subparagraph of this section shall subject the violator to a civil penalty, as specified in the Department’s penalty schedule. See 56 RCNY § 1-07. In addition, except as otherwise provided below, such violation shall also constitute an offense (classified as a “violation” under the Penal Law), which can be punished by imprisonment of up to one day or a fine of not more than $200. As specified in this section, certain violations of specified paragraphs or subparagraphs of this section are classified by the Administrative Code as misdemeanors. Except as otherwise provided in this section, a misdemeanor can be punished by imprisonment of up to 20 days or a fine of not more than $1,000. Note that other laws, including but not limited to the Penal Law, may also apply to the conduct described below.
@@ -504,7 +504,7 @@ Violation of any paragraph or subparagraph of this section shall subject the vio
 
 
 
-*§ 1-06 Fees.*
+*§ 1-06 Fees.* ::
 
 
 The Commissioner from time to time shall establish fees for use by the public of specialized park facilities. Fee schedules for such facilities shall be published and posted at the subject facility.
@@ -514,7 +514,7 @@ The Commissioner from time to time shall establish fees for use by the public of
 
 
 
-*§ 1-07 Civil Penalties.*
+*§ 1-07 Civil Penalties.* ::
 
 
 (a) Any violation of these rules shall subject the respondent to a civil penalty which may be recovered in a proceeding before the Office of Administrative Trials and Hearings, pursuant to § 1049-a of the Charter. Such proceedings will be commenced by the service of a civil summons returnable to the Office of Administrative Trials and Hearings in accordance with such section. The Office of Administrative Trials and Hearings may impose the penalties in the following table below for violations of the Department’s rules.
@@ -527,13 +527,12 @@ The Commissioner from time to time shall establish fees for use by the public of
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Section/Rule
       - Description
       - Penalty
       - Default Penalty
-
 ~
 
 
@@ -542,7 +541,7 @@ The Commissioner from time to time shall establish fees for use by the public of
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - 56 RCNY § 1-03(a)(3)
       - Unauthorized presence in park when closed to public
@@ -960,7 +959,6 @@ The Commissioner from time to time shall establish fees for use by the public of
       - Youth baseball league’s failure to return automated external defibrillator to the Department in satisfactory condition
       - $2,500
       - $2,500
-
 ~
 
  
@@ -972,7 +970,7 @@ The Commissioner from time to time shall establish fees for use by the public of
 
 
 
-*§ 1-08 Severability.*
+*§ 1-08 Severability.* ::
 
 
 If any of these Rules, or application thereof to any person or circumstances, is held invalid, the remainder of the Rules and application of such provision to other persons or circumstances shall remain in full force and effect.
@@ -981,11 +979,11 @@ If any of these Rules, or application thereof to any person or circumstances, is
 
 
 Chapter 2: Permits and Fee Schedules
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 2-01 Tennis.*
+*§ 2-01 Tennis.* ::
 
 
 Each tennis player must have a valid tennis permit to play on outdoor tennis courts under the jurisdiction of the Department between the first Saturday in April and Sunday before Thanksgiving.
@@ -1043,7 +1041,7 @@ Each tennis player must have a valid tennis permit to play on outdoor tennis cou
 
 
 
-*§ 2-02 Croquet.*
+*§ 2-02 Croquet.* ::
 
 
 (a)  Each player must be the holder of a permit.
@@ -1069,7 +1067,7 @@ Each tennis player must have a valid tennis permit to play on outdoor tennis cou
 
 
 
-*§ 2-03 Lawn Bowling.*
+*§ 2-03 Lawn Bowling.* ::
 
 
 (a)  Each player must be the holder of a permit.
@@ -1095,7 +1093,7 @@ Each tennis player must have a valid tennis permit to play on outdoor tennis cou
 
 
 
-*§ 2-04 Recreational Lockers.*
+*§ 2-04 Recreational Lockers.* ::
 
 
 (a)  Season Locker Permits are strictly personal and not transferable.
@@ -1121,7 +1119,7 @@ Each tennis player must have a valid tennis permit to play on outdoor tennis cou
 
 
 
-*§ 2-05 Model Yacht Storage.*
+*§ 2-05 Model Yacht Storage.* ::
 
 
 (a)  Boats must be placed in locations in the boat-house assigned to the Permittee.
@@ -1147,7 +1145,7 @@ Each tennis player must have a valid tennis permit to play on outdoor tennis cou
 
 
 
-*§ 2-06 Kayaks and Canoes.*
+*§ 2-06 Kayaks and Canoes.* ::
 
 
 (a)  A permit allows a permittee and his or her guests to use the City's access facilities for a kayak or canoe. A permittee may have more than one boat listed on his or her permit, but each kayak or canoe on the water must carry a permittee.
@@ -1179,7 +1177,7 @@ Each tennis player must have a valid tennis permit to play on outdoor tennis cou
 
 
 
-*§ 2-07 Golf.*
+*§ 2-07 Golf.* ::
 
 
 (a)  All golf courses under the jurisdiction of the Department are operated by concessionaires. Fees for use are set by the concessionaire, subject to the approval of the Department.
@@ -1201,7 +1199,7 @@ Each tennis player must have a valid tennis permit to play on outdoor tennis cou
 
 
 
-*§ 2-08 Special Events and Demonstrations.*
+*§ 2-08 Special Events and Demonstrations.* ::
 
 
 (a)  For purposes of this subdivision, the following terms shall have the following meanings:
@@ -1325,7 +1323,7 @@ Each tennis player must have a valid tennis permit to play on outdoor tennis cou
 
 
 
-*§ 2-09 Fee Schedules.*
+*§ 2-09 Fee Schedules.* ::
 
 
 (a) The Department will charge permit fees and other related fees in accordance with the tables below.
@@ -1337,7 +1335,7 @@ TENNIS PERMITS &amp; FEES
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Seasonal Adult Tennis Permit (18 to 61 years of age)
       - $100.00
@@ -1359,7 +1357,6 @@ TENNIS PERMITS &amp; FEES
       - $15.00
     * - Central Park Tennis Locker
       - $20.00
-
 ~
 
  
@@ -1370,7 +1367,7 @@ ADDITIONAL RECREATIONAL PERMITS
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Lawn Bowling Permit – Annual
       - $30.00
@@ -1384,7 +1381,6 @@ ADDITIONAL RECREATIONAL PERMITS
       - $25.00 application fee plus $1.00 per individual in group
     * - Special Event Permit Application Fee
       - $ 25.00
-
 ~
 
 
@@ -1399,7 +1395,7 @@ FIELDS AND PLAYING SURFACES
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Field Lights(when used by groups 18 years of age &amp; over)
       - $25.00 per hour
@@ -1409,7 +1405,6 @@ FIELDS AND PLAYING SURFACES
       - $12.50 per hour 
     * - Baseball, softball, roller hockey, volleyball, and basketball hardtop playing surfaces(when used by groups 18 years of age &amp; over)
       - $8.00 per hour 
-
 ~
 
 
@@ -1424,13 +1419,12 @@ SUMMER DAY CAMP
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Regular Day Session (9:00 A.M. to 5:00 P.M.)Ages 6 - 13
       - $500.00 per child
     * - Extended Day Session (8 A.M. to 6:00 P.M.)Ages 6 - 13
       - $575.00 per child
-
 ~
 
 
@@ -1445,13 +1439,12 @@ USE OF BOARDWALK SPACE BY RESTAURANTS
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Self-serve Restaurants
       - $55.00 per linear foot
     * - Table Service Restaurants
       - $110.00 per linear foot
-
 ~
 
 
@@ -1466,13 +1459,12 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Bid document fewer than 100 pages
       - $25.00
     * - Bid document 100 pages or more
       - $100.00
-
 ~
 
 
@@ -1488,7 +1480,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 
-*§ 2-10 Special Event Concessions.*
+*§ 2-10 Special Event Concessions.* ::
 
 
 (a)  For purposes of this section, the following terms shall have the following meanings:
@@ -1539,7 +1531,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Concession Fee Schedule
       -  
@@ -1776,7 +1768,6 @@ CAPITAL PROJECT BID DOCUMENTS
       - 
       - 
       - 
-
 ~
 
  
@@ -1816,7 +1807,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 
-*§ 2-11 Seizure of Vehicles Operated on Beaches Pursuant to Administrative Code § 18-108.1.*
+*§ 2-11 Seizure of Vehicles Operated on Beaches Pursuant to Administrative Code § 18-108.1.* ::
 
 
 (a)  Seizure of vehicles. Pursuant to Administrative Code § 18-108.1, any motorcycle, all terrain vehicle, snowmobile, or motor vehicle which is operated by an unauthorized person on a beach that is under the Commissioner's jurisdiction may be seized by an authorized designee of the Commissioner or a member of the Police Department.
@@ -1854,7 +1845,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 
-*§ 2-12 Ballfield Permits.*
+*§ 2-12 Ballfield Permits.* ::
 
 
 (a) The following terms (as they are used in this section) will have the meanings listed below:
@@ -1891,7 +1882,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Season
       - Spring and Summer Season
@@ -1901,7 +1892,6 @@ CAPITAL PROJECT BID DOCUMENTS
       - November 15 through January 15
       - April 15 through June 15
       - September 15 through November 1
-
 ~
 
 
@@ -1914,7 +1904,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Season
       - Spring and Summer Season
@@ -1924,7 +1914,6 @@ CAPITAL PROJECT BID DOCUMENTS
       - March 17 through August 31
       - September 1 through November 31
       - December 1 through March 16
-
 ~
 
 
@@ -1994,7 +1983,7 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 
-*§ 2-13 Membership Fees for Ocean Breeze Park Track and Field Athletic Complex.*
+*§ 2-13 Membership Fees for Ocean Breeze Park Track and Field Athletic Complex.* ::
 
 
 (a) Definitions. For the purposes of this section, the following terms shall have the following meanings: 
@@ -2083,7 +2072,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Child Athletic Complex Membership Fee
       - Young Adult Athletic Complex Membership Fee
@@ -2097,7 +2086,6 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
       - $25
       - $25
       - $25
-
 ~
 
 
@@ -2110,7 +2098,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Child Track &amp; Field Practice Fee
       - Young Adult Track &amp; Field Practice Fee
@@ -2124,7 +2112,6 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
       - $25
       - $25
       - $25
-
 ~
 
 
@@ -2137,11 +2124,10 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Track &amp; Field Session Fee
     * - $1,350.00 per two-hour Track &amp; Field Session
-
 ~
 
 
@@ -2152,7 +2138,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Fixed-Rate Charges*
       -  
@@ -2160,7 +2146,6 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
       - $200.00 for each two-hour Track &amp; Field Session 
     * - Event management software 
       - $250.00 for each event
-
 ~
 
 
@@ -2176,7 +2161,7 @@ This membership fee does not include the Track &amp; Field Practice Fee. Members
 
 
 
-*§ 2-14 Recreation Center Membership Fees.*
+*§ 2-14 Recreation Center Membership Fees.* ::
 
 
 (a)  For purposes of this section, the following terms shall have the following meanings:
@@ -2242,7 +2227,7 @@ This membership does not include session fees. Membership includes, but is not l
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Type of Recreation Center
       - Child Membership Fee
@@ -2268,7 +2253,6 @@ This membership does not include session fees. Membership includes, but is not l
       - $25
       - $25
       - $25
-
 ~
 
 
@@ -2281,7 +2265,7 @@ This membership does not include session fees. Membership includes, but is not l
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Type of Recreation Center
       - Session Fee(Maximum)
@@ -2289,7 +2273,6 @@ This membership does not include session fees. Membership includes, but is not l
       - $10 - $100
     * - Recreation Center without Indoor Pool
       - $10 - $100
-
 ~
 
 
@@ -2315,7 +2298,7 @@ This membership does not include session fees. Membership includes, but is not l
 
 
 
-*§ 2-15 Urban Park Ranger Programs.*
+*§ 2-15 Urban Park Ranger Programs.* ::
 
 
 (a) Urban Park Rangers provide programs on environmental education, outdoor recreation, wildlife management, and active conservation, including:
@@ -2348,7 +2331,7 @@ This membership does not include session fees. Membership includes, but is not l
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - 
       - Department Groups
@@ -2375,7 +2358,6 @@ This membership does not include session fees. Membership includes, but is not l
       - $500 for 30 participants; $20 per participant for up to 10 additional participants
       - $1,000 for 30 participants; $35 per participant for up to 10 additional participants
       - With lunch provided: $525 for 7 participants; $75 for every additional participantWithout lunch provided: $455 for 7 participants; $65 for every additional participant
-
 ~
 
 
@@ -2389,7 +2371,7 @@ This membership does not include session fees. Membership includes, but is not l
 
 
 
-*§ 2-16 [Automated External Defibrillators.]*
+*§ 2-16 [Automated External Defibrillators.]* ::
 
 
 The Department will place automated external defibrillators in the following locations:
@@ -2470,11 +2452,11 @@ The Department will place automated external defibrillators in the following loc
 
 
 Chapter 3: Rules Governing the West 79th Street Boat Basin, the Sheepshead Bay Piers and the World's Fair Marina
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 3-01 Application.*
+*§ 3-01 Application.* ::
 
 
 These rules apply to the permissible use of the marinas operated by the Department, including but not limited to the West 79th Street Boat Basin which is located in Riverside Park on the east bank of the Hudson River at West 79th Street in Manhattan; the Sheepshead Bay Piers adjacent to Emmons Avenue in Brooklyn; the World's Fair Marina in Flushing Bay in Flushing Meadows Corona Park, Queens, provided they are not covered by a concession agreement with the Department. These special rules supplement the general rules which govern the use of City parkland set forth in chapters one and two of this title. To the extent that they are not inconsistent herewith, the rules set forth in chapters one and two of this title apply to the use of the Department's Marinas.
@@ -2486,7 +2468,7 @@ These rules apply to the permissible use of the marinas operated by the Departme
 
 
 
-*§ 3-02 Definitions.*
+*§ 3-02 Definitions.* ::
 
 
 Boat Basin. "Boat Basin" means the West 79th Street Boat Basin located in Riverside Park on the east bank of the Hudson River at West 79th Street in Manhattan.
@@ -2544,7 +2526,7 @@ World's Fair Marina. "World's Fair Marina" means the World's Fair Marina in Flus
 
 
 
-*§ 3-03 Access.*
+*§ 3-03 Access.* ::
 
 
 (a)  The Marinas are open to Permittees, Permittee Family, Guests, contractors and other persons who have obtained the permission of the Department to enter. All private contractors must be properly licensed and insured, proof of which shall be registered with the Department. In addition, the Department shall establish and post regular hours during which the public shall have access to specified portions of the World's Fair Marina and Boat Basin.
@@ -2558,7 +2540,7 @@ World's Fair Marina. "World's Fair Marina" means the World's Fair Marina in Flus
 
 
 
-*§ 3-04 Guests.*
+*§ 3-04 Guests.* ::
 
 
 Access to the the Marinas by Guests is subject to the following conditions:
@@ -2578,7 +2560,7 @@ Access to the the Marinas by Guests is subject to the following conditions:
 
 
 
-*§ 3-05 Inspections.*
+*§ 3-05 Inspections.* ::
 
 
 All Vessels in the Marinas may be boarded by authorized officers and employees of the Department or other City, State and federal agencies if necessary to respond to an emergency or urgent health or safety hazard, as part of the general health or safety inspection or as otherwise permitted by applicable law. It shall be a violation of these rules for a Permittee to refuse to allow, prevent or interfere with such boarding.
@@ -2590,7 +2572,7 @@ All Vessels in the Marinas may be boarded by authorized officers and employees o
 
 
 
-*§ 3-06 Permits.*
+*§ 3-06 Permits.* ::
 
 
 (a) No person shall dock, store or launch a Vessel at a Marina without an appropriate Permit from the Department and without payment of all required fees.
@@ -2678,7 +2660,7 @@ All Vessels in the Marinas may be boarded by authorized officers and employees o
 
 
 
-*§ 3-07 Waiting List.*
+*§ 3-07 Waiting List.* ::
 
 
 The Department shall maintain and utilize a Waiting List for the issuance of Boat Basin seasonal dockage permits and mooring permits, which shall be available upon request from the Department. Applications to be added to the Waiting List must be mailed to the Department of Parks &amp; Recreation, Revenue Office, The Arsenal, 830 5th Avenue, New York, NY 10065 Attn: Boat Basin Waiting List via return receipt U.S. mail on forms supplied by the Department and accompanied by a processing fee of $75. Only natural persons shall be eligible for Boat Basin permits. No person already holding a Permit may apply for a Boat Basin Permit.
@@ -2690,7 +2672,7 @@ The Department shall maintain and utilize a Waiting List for the issuance of Boa
 
 
 
-*§ 3-08 Conduct and Clean Boating.*
+*§ 3-08 Conduct and Clean Boating.* ::
 
 
 (a) No person shall urinate or defecate into the water or along the docks and walkways of a Marina. No person shall use a toilet which discharges into the water without marine sanitation devices approved by the New York State Department of Environmental Conservation.
@@ -2744,7 +2726,7 @@ The Department shall maintain and utilize a Waiting List for the issuance of Boa
 
 
 
-*§ 3-09 Docking of Vessels.*
+*§ 3-09 Docking of Vessels.* ::
 
 
 (a)  Vessels must be docked at slips designated by the dockmaster. Slips will be assigned using an appropriate ration of slip length, width, depth of water and strength of docks to a vessel's length, beam, draft and tonnage. If two vessels of equal characteristics are vying for the same slip, seniority will be the determining factor. Seniority is established by holding a valid permit and being in good standing for the longest period of time. Good standing means that all accounts with the Department are paid in full and dockage/moorage application and valid insurance and registration are on file. Slips may not be changed or exchanged without the prior written approval of the dockmaster. Inoperable vessels will not be assigned to slips that are designated by the Department for running vessels.
@@ -2760,7 +2742,7 @@ The Department shall maintain and utilize a Waiting List for the issuance of Boa
 
 
 
-*§ 3-10 Condition of Vessels.*
+*§ 3-10 Condition of Vessels.* ::
 
 
 (a) All Vessels in the Marinas and all equipment thereon must be maintained in good order and free of any hazard to persons, Vessels or facility structures. In addition, all Vessels docked at the Sheepshead Bay Piers or the World's Fair Marina must be seaworthy.
@@ -2776,7 +2758,7 @@ The Department shall maintain and utilize a Waiting List for the issuance of Boa
 
 
 
-*§ 3-11 Operation of Vessels.*
+*§ 3-11 Operation of Vessels.* ::
 
 
 (a) All Vessels entering, leaving or moving within the Marinas must be operated under mechanical power, not sail, except in an emergency. All Vessels in the Marinas must be operated at speeds so as not to create a wake.
@@ -2796,7 +2778,7 @@ The Department shall maintain and utilize a Waiting List for the issuance of Boa
 
 
 
-*§ 3-12 Required Safety Equipment.*
+*§ 3-12 Required Safety Equipment.* ::
 
 
 All vessels docked in the facility shall have on board at all times all equipment required by the Coast Guard, as well as for vessels longer than 25 feet:
@@ -2812,7 +2794,7 @@ All vessels docked in the facility shall have on board at all times all equipmen
 
 
 
-*§ 3-13 Utilities.*
+*§ 3-13 Utilities.* ::
 
 
 (a) Vessels docked at the Marinas may only be supplied with electricity through the metered electrical hook up at its assigned slip. All electrical or utility connections must be free of defects. No person shall tamper or interfere with an electric meter. A Permittee must pay all metered charges for electricity. Electrical lines shall not be rigged or positioned so as to obstruct walkways or docks.
@@ -2828,7 +2810,7 @@ All vessels docked in the facility shall have on board at all times all equipmen
 
 
 
-*§ 3-14 Maintenance and Use of Docks.*
+*§ 3-14 Maintenance and Use of Docks.* ::
 
 
 (a) Except as hereinafter provided, personal property shall not be stored on piers, docks or walkways. Personal property may be stored by a Permittee in a dock box no larger than 30 cubic feet and no higher than 30 inches located on a fixed pier. At the World's Fair Marina, personal property may also be stored in dock boxes on floating docks if permission is granted by the Dockmaster. The name of the Permittee must be clearly posted on the dock box. The dock box must be positioned so as not to obstruct the walkway or impede access to the Vessels. The location of the dock box shall be subject to the approval of the Dockmaster. No dock boxes shall be permitted on floating piers at the Boat Basin.
@@ -2846,7 +2828,7 @@ All vessels docked in the facility shall have on board at all times all equipmen
 
 
 
-*§ 3-15 Sunken, Abandoned or Delinquent Vessels, Dinghies and Trailers; Trailer Storage.*
+*§ 3-15 Sunken, Abandoned or Delinquent Vessels, Dinghies and Trailers; Trailer Storage.* ::
 
 
 (a) The Dockmaster may require that any Vessel which sinks be removed from a Marina until appropriate repairs are made. A sunken Vessel must be removed from the Marina within 48 hours after oral or written notice by the Dockmaster to remove the Vessel. Upon request of the Permittee or owner, the Dockmaster may in writing extend the time for removal of the Vessel. If the Vessel is not removed within the allowed time, the Dockmaster may remove the Vessel or cause it to be removed and may recover the cost of the removal and storage or disposal of the Vessel from the Permittee or owner of the Vessel. If the Dockmaster determines that a sunken Vessel is discharging pollutants into the water or causing any other kind of emergency, the Department may take action to stop the cause of pollution and may remove or cause the Vessel to be removed, without prior notice to the Permittee or owner of the Vessel, and recover all costs associated with the containment, removal and storage or disposal of the Vessel from the Permittee or owner of the Vessel.
@@ -2866,7 +2848,7 @@ All vessels docked in the facility shall have on board at all times all equipmen
 
 
 
-*§ 3-16 Dinghies, Kayaks and Canoes.*
+*§ 3-16 Dinghies, Kayaks and Canoes.* ::
 
 
 (a) (1) Any dinghy over 14 feet in length must be stored on the vessel with a valid permit from the Department. Any dinghy over 14 feet in length and stored in water will be considered a separate vessel and require an independent transient permit. Any dinghy 14 feet or less must be stored on the vessel or in a designated dinghy area as determined by the Department. Only one dinghy shall be permitted per vessel.
@@ -2884,7 +2866,7 @@ All vessels docked in the facility shall have on board at all times all equipmen
 
 
 
-*§ 3-17 Parking of Motor Vehicles.*
+*§ 3-17 Parking of Motor Vehicles.* ::
 
 
 (a) No person shall park at the Boat Basin Garage or the World's Fair Marina parking lot without a Parking Permit issued by the Department. The Department shall seek to accommodate year-round and seasonal Permittees first in providing parking at the facilities. At the Boat Basin, spaces will be assigned first to Permittees seeking year-round parking, followed by those seeking seasonal parking, then by Permittees who hold kayak permits. Non-Permittees shall be eligible for parking spaces on a month-to-month basis, subject to availability. If there are more Permittees than available spaces, the Department shall maintain a waiting list of the Permittees eligible for Parking Permits, which shall be available upon request. Parking Permits are issued to the person named on the permits and are valid only for the registered vehicle or vehicles identified on the permit. Parking Permits are not transferable. Any assignment or attempted assignment of a Garage Parking Permit shall result in the cancellation of such permit.
@@ -2898,7 +2880,7 @@ All vessels docked in the facility shall have on board at all times all equipmen
 
 
 
-*§ 3-18 Pets.*
+*§ 3-18 Pets.* ::
 
 
 (a) It is a violation of these rules to keep an animal as a pet where the keeping of such animal is prohibited by the City Health Code or any other City, State or Federal law or rule.
@@ -2916,7 +2898,7 @@ All vessels docked in the facility shall have on board at all times all equipmen
 
 
 
-*§ 3-19 Orders.*
+*§ 3-19 Orders.* ::
 
 
 In addition to the orders specifically referred to in these rules, the Department may issue any other orders which may be necessary or appropriate to enforce compliance with these rules or the rules set forth in chapters 1 and 2 of this title or to safeguard persons or property at the facility. It shall be a violation of these rules to fail or refuse to comply with such orders.
@@ -2926,7 +2908,7 @@ In addition to the orders specifically referred to in these rules, the Departmen
 
 
 
-*§ 3-20 Unlawful Use of Slip or Vessel.*
+*§ 3-20 Unlawful Use of Slip or Vessel.* ::
 
 
 No person shall permit or cause any slip or vessel or any portion thereof to be used or occupied for an illegal purpose.
@@ -2936,7 +2918,7 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
 
 
 
-*§ 3-21 Liability.*
+*§ 3-21 Liability.* ::
 
 
 (a) Permittee agrees to maintain current Vessel insurance, including hull and liability insurance, collision and fire, and extended coverage insurance. Insurance policies must name the City of New York as an additional insured. Each insurer shall waive subrogation. Each Permittee will be held responsible for damage he or she causes to other boats in the Marinas or to the structure of facilities thereof. The Department assumes no responsibility for Permittee's boat or equipment.
@@ -2960,7 +2942,7 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
 
 
 
-*§ 3-22 Commercial Permits.*
+*§ 3-22 Commercial Permits.* ::
 
 
 (a) Commercial Permits may be issued at the World's Fair Marina, Boat Basin, and Dyckman Marina to operators of commercial Vessels upon terms to be determined by the Department. The Dockmaster is authorized to exempt holders of these Commercial Permits from certain rules set forth in this 56 RCNY Chapter 3. Vessels docked under non-commercial permits may not engage in commercial activity without the express written approval of the Department. This approval must be attained on an annual basis. Complete commercial plans must be provided to the Department and no advertising may take place at the World's Fair Marina, Boat Basin, and Dyckman Marina. The Department may refuse such permission or terminate any authorization previously granted if it determines that such use may interfere with the public use or the operation of the facility or will not be in the best interest of the City. Approval will not be granted unless the Permittee presents a valid United States Coast Guard Captain's license and evidence of insurance coverage for liability and property damage, which must be deemed sufficient by the Dockmaster.
@@ -2976,7 +2958,7 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
 
 
 
-*§ 3-23 Fees.*
+*§ 3-23 Fees.* ::
 
 
 (a) Permit fees are strictly in accordance with published schedules. Vessel length shall include all bowsprits, outboard brackets, swim platforms, pulpits, anchors, davit overhangs, and related. Permit fees at the World's Fair Marina and 79th Street Boat Basin must be paid in advance to cover the full boating season. Yearly dockage at the Sheepshead Bay Piers shall be billed in 12 monthly installments with dockage paid in advance of each month. All services must be paid in advance except for electric and emergency repairs. No refunds shall be made in any instance.
@@ -2993,11 +2975,11 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
 
 (e)*   The Department may, at its sole discretion, retain a Vessel from being removed or released from the Marinas where there is an outstanding fee or fees owed to the Department associated with Vessel storage, labor, and/or other services. Such notice of non-release will be provided in writing to the Permittee.
 
-* Editor's note: As lettered in the original rule.
+*Editor's note: As lettered in the original rule.
 
 (f)*   In addition to any penalties provided for in the chapter, violations of these rules shall be punishable as provided in 56 RCNY § 1-07.
 
-* Editor's note: As lettered in the original rule.
+*Editor's note: As lettered in the original rule.
 
 (g) West 79th Street Boat Basin
 
@@ -3005,7 +2987,7 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Seasonal Dockage
       - Summer(May 1 to October 31)
@@ -3073,7 +3055,6 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
     * - Parking
       - Rotunda parking garage; permit holders only
       - $275/month
-
 ~
 
  
@@ -3084,7 +3065,7 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Summer Dockage
       - 20 feet or less21 to 26 feet27 to 35 feet36 to 45 feet46 to 65 feet66 feet or greater
@@ -3134,7 +3115,6 @@ No person shall permit or cause any slip or vessel or any portion thereof to be 
     * - Key Deposit or Replacement
       -  
       - $10
-
 ~
 
  
@@ -3147,7 +3127,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Labor Rate
       -  
@@ -3200,7 +3180,6 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
     * - Bottom Painting
       - 30 feet or less31 feet or more
       - $13.75/linear foot$14.75/linear foot
-
 ~
 
  
@@ -3211,7 +3190,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Yearly Dockage
       -  
@@ -3225,7 +3204,6 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
     * - Dock &amp; Dine
       - Non-commercial Vessels onlyUp to 4 hours
       - $1/linear foot 
-
 ~
 
 
@@ -3238,7 +3216,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Summer Dockage
       - May 1 to October 31
@@ -3291,7 +3269,6 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
     * - Labor Rate
       -  
       - $95 per hour
-
 ~
 
  
@@ -3303,7 +3280,7 @@ A fifty percent deposit must be pre-paid for any work order estimated by the Doc
 
 
 
-*§ 3-25 Special Events and Filming.*
+*§ 3-25 Special Events and Filming.* ::
 
 
 Special events and filming at the marina, piers, and boat basin must be pre-approved by the marina manager or marina administrator, and will be considered on a case-by-case basis. Those wishing to host an event or film at the marina, piers, or boat basin must adhere to the terms and fees set forth by the Department's Special Events office. Hourly labor rate shall apply for any services required of marina staff. Associated permits from the Mayor's Office of Film, Theatre and Broadcasting may be required.
@@ -3312,11 +3289,11 @@ Special events and filming at the marina, piers, and boat basin must be pre-appr
 
 
 Chapter 4: Rules Governing Mooring Fields Under the Jurisdiction of the Department
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 4-01 Application.*
+*§ 4-01 Application.* ::
 
 
 These rules apply to the permissible use of mooring fields in Sheepshead Bay, Great Kills Harbor and adjacent to the West 79th Street Boat Basin that are under jurisdiction of the Department. These rules supplement the general rules which govern the use of City park land set forth in chapters one and two of this title. To the extent that they are not inconsistent herewith, the rules set forth in chapters one, two and three of this title apply to the use of the mooring fields.
@@ -3326,7 +3303,7 @@ These rules apply to the permissible use of mooring fields in Sheepshead Bay, Gr
 
 
 
-*§ 4-02 Definitions.*
+*§ 4-02 Definitions.* ::
 
 
 Boat Basin. "Boat Basin" means the West 79th Street Boat Basin located in Riverside Park on the east bank of the Hudson River at West 79th Street in Manhattan.
@@ -3370,7 +3347,7 @@ Waiting list. "Waiting list" means a list of persons interested in obtaining per
 
 
 
-*§ 4-03 Inspections.*
+*§ 4-03 Inspections.* ::
 
 
 All vessels moored in the mooring field may be boarded by authorized officers of the Department or of other City, State and federal agencies if necessary to respond to an emergency, or as otherwise permitted by applicable law. It shall be a violation of these rules for a permittee to refuse to allow, prevent or interfere with such boarding.
@@ -3380,7 +3357,7 @@ All vessels moored in the mooring field may be boarded by authorized officers of
 
 
 
-*§ 4-04 Permits.*
+*§ 4-04 Permits.* ::
 
 
 (a)  No person shall place a mooring or moor a vessel in a mooring field without a permit from the Department.
@@ -3418,7 +3395,7 @@ All vessels moored in the mooring field may be boarded by authorized officers of
 
 
 
-*§ 4-05 Waiting List.*
+*§ 4-05 Waiting List.* ::
 
 
 The Department shall maintain a waiting list for the issuance of permits, which shall be available upon request from the Department.
@@ -3428,7 +3405,7 @@ The Department shall maintain a waiting list for the issuance of permits, which 
 
 
 
-*§ 4-06 Conduct and Clean Boating.*
+*§ 4-06 Conduct and Clean Boating.* ::
 
 
 (a)  No person at any mooring field shall urinate or defecate into the water. No person shall use a toilet that discharges into the water without marine sanitation devices approved by the New York State Department of Environmental Conservation.
@@ -3480,7 +3457,7 @@ The Department shall maintain a waiting list for the issuance of permits, which 
 
 
 
-*§ 4-07 Mooring of Vessels.*
+*§ 4-07 Mooring of Vessels.* ::
 
 
 (a)  All vessels moored at the boat basin shall be secured to the mooring provided by not less than two mooring bridles. The boat basin provides mooring lines at the beginning of the summer season. The permittee is expected to maintain or replace lines as needed throughout the season. All vessels at the Sheepshead Bay or Great Kills Harbor mooring fields shall be secured by moorings meeting the following requirements:
@@ -3520,7 +3497,7 @@ The Department shall maintain a waiting list for the issuance of permits, which 
 
 
 
-*§ 4-08 Condition of Vessels.*
+*§ 4-08 Condition of Vessels.* ::
 
 
 All vessels in the mooring field and all equipment thereon must be maintained in good order and free of any hazard to persons or vessels. All vessels in the mooring field shall comply with all federal, state and local laws, rules and regulations concerning the condition of vessels and equipment.
@@ -3530,7 +3507,7 @@ All vessels in the mooring field and all equipment thereon must be maintained in
 
 
 
-*§ 4-09 Operation of Vessels.*
+*§ 4-09 Operation of Vessels.* ::
 
 
 No vessel within a mooring field may be navigated at a speed in excess of 5 miles per hour. Any person operating a vessel in a mooring field shall comply with all federal, state and local laws, rules and regulations concerning the safe operation of vessels, including the Inland Navigational Rules (33 U.S.C. §§ 2000 et seq.). No vessel may pull up to or depart a mooring or transit through a mooring field using sail as the sole source of motive power.
@@ -3540,7 +3517,7 @@ No vessel within a mooring field may be navigated at a speed in excess of 5 mile
 
 
 
-*§ 4-10 Required Safety Equipment.*
+*§ 4-10 Required Safety Equipment.* ::
 
 
 All vessels in the mooring fields must have on board at all times all equipment required by the Coast Guard or by any other federal, state or local law, rule or regulation.
@@ -3550,7 +3527,7 @@ All vessels in the mooring fields must have on board at all times all equipment 
 
 
 
-*§ 4-11 Sunken, Abandoned or Delinquent Vessels and Dinghies.*
+*§ 4-11 Sunken, Abandoned or Delinquent Vessels and Dinghies.* ::
 
 
 (a) The dockmaster may require that any vessel or dinghy which sinks be removed from the facility until appropriate repairs are made. A sunken vessel or dinghy shall be removed from the mooring fields within 48 hours after oral or written notice by the Department to remove the vessel or dinghy. Upon request of the permittee or the owner of the vessel or dinghy, the Department may, in writing, extend the time for removal of the vessel or dinghy. If the vessel or dinghy is not removed within the allowed time, the Department may remove the vessel or dinghy or cause it to be removed and may recover the cost associated with removal and of storage or disposal of the vessel or dinghy from the permittee or owner of the vessel or dinghy. If the Department determines that a sunken vessel or dinghy is discharging pollutants into the water or causing any other kind of an emergency, the Department may take action to stop the cause of pollution and may remove or cause the vessel or dinghy to be removed, without prior notice to the permittee or owner of the vessel or dinghy, and recover all costs associated with removal and storage or disposal of the vessel or dinghy from the permittee or owner of the vessel or dinghy.
@@ -3562,7 +3539,7 @@ All vessels in the mooring fields must have on board at all times all equipment 
 
 
 
-*§ 4-12 Dinghies, Kayaks and Canoes.*
+*§ 4-12 Dinghies, Kayaks and Canoes.* ::
 
 
 A permittee may store one dinghy, kayak or canoe under 14 feet in length on or alongside the permitted vessel without obtaining a separate permit for such dinghy, kayak or canoe. In all other cases, including but not limited to personal watercraft, a separate permit must be obtained for each vessel.
@@ -3572,7 +3549,7 @@ A permittee may store one dinghy, kayak or canoe under 14 feet in length on or a
 
 
 
-*§ 4-13 Orders.*
+*§ 4-13 Orders.* ::
 
 
 The Department may issue any orders which may be necessary or appropriate to enforce compliance with these rules or the rules set forth in chapters one and two and, in the case of vessels moored adjacent to the marina, piers or boat basin, chapter three of this title. It shall be a violation of these rules to fail or refuse to comply with such orders.
@@ -3582,7 +3559,7 @@ The Department may issue any orders which may be necessary or appropriate to enf
 
 
 
-*§ 4-14 Unlawful Use of Vessel.*
+*§ 4-14 Unlawful Use of Vessel.* ::
 
 
 No person shall permit or cause any vessel or any portion thereof to be used or occupied for an illegal purpose.
@@ -3592,7 +3569,7 @@ No person shall permit or cause any vessel or any portion thereof to be used or 
 
 
 
-*§ 4-15 Penalties.*
+*§ 4-15 Penalties.* ::
 
 
 In addition to any penalties provided for in this chapter, violations of these rules shall be punishable as provided in 56 RCNY § 1-07.
@@ -3602,7 +3579,7 @@ In addition to any penalties provided for in this chapter, violations of these r
 
 
 
-*§ 4-16 Commercial Mooring Permits; Fees.*
+*§ 4-16 Commercial Mooring Permits; Fees.* ::
 
 
 (a)  Commercial mooring permits may be issued at the boat basin to operators of commercial vessels upon terms to be determined by the Commissioner. The Commissioner is authorized to exempt holders of these commercial permits from the rules set forth in 56 RCNY Chapter 3 and 56 RCNY Chapter 4.
@@ -3613,12 +3590,11 @@ In addition to any penalties provided for in this chapter, violations of these r
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - $30/day 
       - $180/week 
       - $1,550/season 
-
 ~
 
 
@@ -3629,11 +3605,11 @@ In addition to any penalties provided for in this chapter, violations of these r
 
 
 Chapter 5: Rules Governing Tree Replacement
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 5-01 Removal of Trees.*
+*§ 5-01 Removal of Trees.* ::
 
 
 (a) Any person who intends to remove any tree under the jurisdiction of the Department shall apply for and obtain a permit under this chapter prior to such removal.
@@ -3647,7 +3623,7 @@ Chapter 5: Rules Governing Tree Replacement
 
 
 
-*§ 5-02 Determination of Replacement Trees.*
+*§ 5-02 Determination of Replacement Trees.* ::
 
 
 (a) Determination of replacement trees. The number of trees needed to replace each tree approved for removal shall be determined by calculating the size, condition, species and location rating of the tree proposed for removal. If a removal permit is approved by the Commissioner, the Department, no later than ninety (90) days following the filing of a completed application for a permit, shall inform the applicant, based on the factors herein, the number and size of replacement trees to be planted and the period of time during which the replacement trees shall be planted and the fee for such replacements. In order to determine the applicable rating for any tree approved for removal the Department horticultural officer shall take into consideration the following:
@@ -3737,7 +3713,7 @@ Chapter 5: Rules Governing Tree Replacement
 
 
 
-*§ 5-03 Tree Planting in Lieu of Obligations under the Zoning Requirements.*
+*§ 5-03 Tree Planting in Lieu of Obligations under the Zoning Requirements.* ::
 
 
 If a person or entity is required under Zoning Resolution Article 2, Chapter 6, Section 41 to plant street trees, but pursuant to the Zoning Resolution such person or entity is required or opts to have the Department plant such trees on such person or entity's behalf, then the person or entity must deposit the cost per tree, which is determined by calculating the average planting price for a three (3) inch caliper street tree based on Department planting contracts for the preceding City fiscal year, in an account of the City as directed by the Department, unless otherwise permitted by law.
@@ -3746,11 +3722,11 @@ If a person or entity is required under Zoning Resolution Article 2, Chapter 6, 
 
 
 Chapter 6: Greenthumb Gardens
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 6-01 Definitions.*
+*§ 6-01 Definitions.* ::
 
 
 As used in this chapter, the following terms will have the meanings set forth below:
@@ -3804,7 +3780,7 @@ As used in this chapter, the following terms will have the meanings set forth be
 
 
 
-*§ 6-02 Application.*
+*§ 6-02 Application.* ::
 
 
 This chapter establishes certain procedures with respect to the operation of Gardens registered and licensed with GreenThumb on September 17, 2010, or first registered and licensed with GreenThumb within the exercise of the Department's discretion after September 17, 2010. This chapter also establishes certain procedures with respect to the Transfer of the Lots upon which such Gardens are located.
@@ -3814,7 +3790,7 @@ This chapter establishes certain procedures with respect to the operation of Gar
 
 
 
-*§ 6-03 Licenses.*
+*§ 6-03 Licenses.* ::
 
 
 (a) The Department will issue a License if the proposed Licensee and Garden meet the Registration criteria established by GreenThumb. The Department shall renew such License if the Licensee complies with the terms and conditions set forth therein and continues to meet the Registration criteria established by GreenThumb. If the Licensee has not complied with the terms of or fails to renew the License, fails to meet the Registration criteria established by GreenThumb, abandons the Garden, or if an Uncured Default has occurred, the Department will attempt to identify a successor Gardening Group and offer a License to it for the Garden. The Department's efforts to identify a successor Gardening Group will include contacting the local community board and councilmember and may include contacting nearby Gardening Groups. The Department's efforts to identify a successor Gardening Group may begin as early as the Department determines necessary in order to retain the Lot's use as a Garden, but shall not extend beyond 3 months of after any Uncured Default, at which point the Garden is subject to Transfer.
@@ -3832,7 +3808,7 @@ This chapter establishes certain procedures with respect to the operation of Gar
 
 
 
-*§ 6-04 Active Gardens to be Preserved; Gardens not Deemed Mapped Parkland.*
+*§ 6-04 Active Gardens to be Preserved; Gardens not Deemed Mapped Parkland.* ::
 
 
 Except as provided in 56 RCNY § 6-05, all Lots under the Department's jurisdiction will be used and preserved as Gardens as long as they comply with the Department's registration and licensing requirements. Lots are not dedicated as, and will not be deemed to be dedicated as, parkland unless they have otherwise been mapped as parkland by the City.
@@ -3842,7 +3818,7 @@ Except as provided in 56 RCNY § 6-05, all Lots under the Department's jurisdict
 
 
 
-*§ 6-05 Garden Review Process.*
+*§ 6-05 Garden Review Process.* ::
 
 
 (a) The Department will comply with the Garden Review Process before any Transfer.
@@ -3890,7 +3866,7 @@ Except as provided in 56 RCNY § 6-05, all Lots under the Department's jurisdict
 
 
 
-*§ 6-06 Exemptions.*
+*§ 6-06 Exemptions.* ::
 
 
 (a) Upon execution of a Retention Agreement that provides for the relocation of a Garden to an alternate site, (i) the Lot from which such Garden is to be relocated will no longer be subject to any of the requirements set forth in this chapter, and (ii) the Lot to which such Garden is to be relocated will be subject to the requirements set forth in this chapter.
@@ -3902,7 +3878,7 @@ Except as provided in 56 RCNY § 6-05, all Lots under the Department's jurisdict
 
 
 
-*§ 6-07 Miscellaneous.*
+*§ 6-07 Miscellaneous.* ::
 
 
 (a) Any determination by the Department pursuant to this chapter will be made in the Department's sole discretion.

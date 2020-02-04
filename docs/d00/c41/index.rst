@@ -1,10 +1,10 @@
 Chapter 30: Department of Youth and Community Development
-============================================================================================================================================================================================================
+===================================================
 Section 731.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 731. Department; commissioner.*
+*Section 731. Department; commissioner.* ::
 
 
 There shall be a department of youth and community development, the head of which shall be the commissioner of youth and community development.
@@ -13,10 +13,10 @@ There shall be a department of youth and community development, the head of whic
 
 
 Section 732.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 732. Deputies.*
+*Section 732. Deputies.* ::
 
 
 The commissioner shall appoint at least one deputy for youth services who shall be responsible for youth services programs and one deputy for community services who shall be responsible for community development programs.
@@ -25,10 +25,10 @@ The commissioner shall appoint at least one deputy for youth services who shall 
 
 
 Section 733.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 733. Powers and duties.*
+*Section 733. Powers and duties.* ::
 
 
 a. The department shall have all the powers and duties of a youth bureau as prescribed in article nineteen-a of the executive law and the regulations promulgated thereunder, and shall in addition have the following powers and duties:
@@ -63,10 +63,10 @@ c. The department shall be authorized to carry out programs and activities for e
 
 
 Section 734.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 734. Youth board.*
+*Section 734. Youth board.* ::
 
 
 a. There shall be in the department a youth board, which shall serve as a forum for representatives of disciplines directly concerned with the welfare of youth.
@@ -85,10 +85,10 @@ f. The youth board shall meet at least quarterly.
 
 
 Section 735.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 735. Interagency coordinating council.*
+*Section 735. Interagency coordinating council.* ::
 
 
 a. There shall be an interagency coordinating council established by the mayor which shall consist of representatives of each city agency providing services to youth, representatives from the youth board established pursuant to section seven hundred thirty-four of this chapter and a representative of the city council who shall be appointed by the speaker of the city council. The mayor, or his or her designee, shall serve as chairperson of the interagency coordinating council and shall preside over all meetings. The commissioner shall serve as director of the interagency coordinating council.
@@ -121,10 +121,10 @@ c. The interagency coordinating council shall meet at least quarterly and shall 
 
 
 Section 736.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 736. Community action board.*
+*Section 736. Community action board.* ::
 
 
 There shall be in the department a community action board which shall be constituted so as to assure that it is in compliance with applicable federal and state requirements.

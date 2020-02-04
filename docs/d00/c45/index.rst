@@ -1,10 +1,10 @@
 Chapter 36: Equal Employment Practices Commission
-============================================================================================================================================================================================================
+===================================================
 Section 830.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 830. [Equal employment practices commission.]*
+*Section 830. [Equal employment practices commission.]* ::
 
 
 a. There shall be an equal employment practices commission which shall review, evaluate and monitor the employment procedures, practices and programs of any city agency and the department of citywide administrative services to maintain an effective affirmative employment program of equal employment opportunity for minority group members and women who are employed by or who seek employment with city agencies.
@@ -23,10 +23,10 @@ f. The commission may meet as necessary to implement the provisions of this chap
 
 
 Section 831.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 831. Duties and powers of the New York city equal employment practices commission.*
+*Section 831. Duties and powers of the New York city equal employment practices commission.* ::
 
 
 a. The commission: (i) shall monitor the employment policies, programs and practices of each city, county, borough or other office, administration, board, department, division, commission, bureau, corporation, authority, or other agency of government, where the majority of the board members of such agency are appointed by the mayor or serve by virtue of being city officers or the expenses of which are paid in whole or in part from the city treasury, including the board of education, city and community colleges, the financial services corporation, the health and hospital corporation, the public development corporation, and the city housing authority; and (ii) monitor the coordination and implementation of any city affirmative employment program of equal employment opportunity for minority group members and women who are employed by or who seek employment with city agencies, including the activities of the department of citywide administrative services, and the civil service commission, pursuant to chapter thirty-five, and any other agency designated by the mayor to assist in the implementation or coordination of such efforts, and all city agencies required by section eight hundred fifteen to establish agency programs
@@ -61,10 +61,10 @@ d. The commission shall have the following powers and duties:
 
 
 Section 832.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 832. Compliance Procedures.*
+*Section 832. Compliance Procedures.* ::
 
 
 a. The commission shall conduct such study or investigations and hold such hearings as may be necessary to determine whether agencies are in compliance with the equal employment opportunity requirements of this chapter and chapter thirty-five.

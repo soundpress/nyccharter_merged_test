@@ -1,10 +1,10 @@
 Chapter 72: Department of Records and Information Services
-============================================================================================================================================================================================================
+===================================================
 Section 3000.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3000. Department; commissioner.*
+*Section 3000. Department; commissioner.* ::
 
 
 There shall be a department of records and information services which shall include, but not be limited to, municipal archives, a municipal reference and research center and municipal records management division. The head of the department shall be the commissioner, who shall be appointed by the mayor.
@@ -13,10 +13,10 @@ There shall be a department of records and information services which shall incl
 
 
 Section 3001.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3001. Deputy.*
+*Section 3001. Deputy.* ::
 
 
 The commissioner may appoint one deputy.
@@ -25,10 +25,10 @@ The commissioner may appoint one deputy.
 
 
 Section 3002.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3002. Technical assistants.*
+*Section 3002. Technical assistants.* ::
 
 
 The commissioner:
@@ -57,10 +57,10 @@ The commissioner:
 
 
 Section 3004.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3004. Department; duties.*
+*Section 3004. Department; duties.* ::
 
 
 1. The department shall operate a municipal archives, the head of which shall be a professional archivist. The archives shall perform the following functions:
@@ -111,10 +111,10 @@ Section 3004.
 
 
 Section 3005.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3005. Archival review board.*
+*Section 3005. Archival review board.* ::
 
 
 There shall be in the department an archival review board which shall consist of five members; two of whom shall be appointed by the speaker, two of whom shall be appointed by the mayor, and one of whom shall be the commissioner, who shall serve ex officio as chairperson of the board. At least one such appointment shall be a professional archivist and at least one other such appointment shall be a professional historian. The members of the commission, other than the chair, shall be appointed within 30 days of the effective date of this section and shall be entitled to reasonable expenses. All appointed members of the commission shall be residents of the city. Members shall serve for terms of four years from such date of appointment. Vacancies in appointed membership of the board shall be filled by appointment by whosoever was responsible for such original appointment. The board shall meet once every 90 days or upon the request of any of its members. Any member of such board shall have complete access, during work hours, to inspect and review any appraisal, organization, processing or archiving of city records in the custody of an entity with which an agreement has been entered into for the purposes specified in subdivision five of section 3003. Such board may request and receive, from the department, assistance and data as may be necessary for the proper execution of its powers and duties. Such board shall render annually to the mayor a report reviewing the archival processing of any city papers during the year for which the report has been written.
@@ -123,10 +123,10 @@ There shall be in the department an archival review board which shall consist of
 
 
 Section 3006.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3006. Destruction of other materials.*
+*Section 3006. Destruction of other materials.* ::
 
 
 The commissioner shall analyze the needs of each city agency, except the law department, with respect to the establishment and maintenance of any library or research facility therein, and make such recommendations as may be appropriate in the circumstances.
@@ -135,10 +135,10 @@ The commissioner shall analyze the needs of each city agency, except the law dep
 
 
 Section 3008.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3008. Rules and regulations.*
+*Section 3008. Rules and regulations.* ::
 
 
 The commissioner shall promulgate rules and regulations to effectuate the purposes of this chapter, except that rules and regulations relating to the disposal of records pursuant to section eleven hundred thirty-three shall be issued by the commissioner after consultation with the corporation counsel and the comptroller.
@@ -147,10 +147,10 @@ The commissioner shall promulgate rules and regulations to effectuate the purpos
 
 
 Section 3009.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3009. Archives, reference and research advisory board.*
+*Section 3009. Archives, reference and research advisory board.* ::
 
 
 There shall be in the department an archives, reference and research advisory board which shall consist of fifteen members who shall be appointed by the mayor and which shall consult with the commissioner with respect to the functions referred to in subdivisions one and two* of section three thousand four of this chapter to advise such commissioner in matters at his or her request and render annually to the mayor a report regarding the development of municipal archives, reference and research services in the government and administration of the city.
@@ -159,10 +159,10 @@ There shall be in the department an archives, reference and research advisory bo
 
 
 Section 3010.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3010. Municipal archives reference and research fund.*
+*Section 3010. Municipal archives reference and research fund.* ::
 
 
 1. There is hereby established a municipal archives reference and research fund, which shall be credited with all sums appropriated therefor, donations made thereto, and proceeds from the disposition of personal property which is in the custody of the department and which the commissioner has determined is not a record which must be retained pursuant to law and is not necessary for archival, reference, or research purposes. Interest accruing on principal from all aforementioned sources also shall be credited to the fund.
@@ -173,10 +173,10 @@ Section 3010.
 
 
 Section 3011.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 3011. Definitions.*
+*Section 3011. Definitions.* ::
 
 
 As used in this chapter:

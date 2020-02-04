@@ -1,10 +1,10 @@
 Chapter 45: City Administrative Procedure Act
-============================================================================================================================================================================================================
+===================================================
 Section 1041.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1041. Definitions.*
+*Section 1041. Definitions.* ::
 
 
 As used herein, the term
@@ -27,10 +27,10 @@ As used herein, the term
 
 
 Section 1042.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1042. Regulatory agenda.*
+*Section 1042. Regulatory agenda.* ::
 
 
 a. Each agency shall publish by the first day of May annually, a regulatory agenda which shall contain:
@@ -53,10 +53,10 @@ c. Failure to include an item in a regulatory agenda shall not preclude action t
 
 
 Section 1043.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1043. Rulemaking.*
+*Section 1043. Rulemaking.* ::
 
 
 a. Authority. Each agency is empowered to adopt rules necessary to carry out the powers and duties delegated to it by or pursuant to federal, state or local law. No agency shall adopt a rule except pursuant to this section. Each such rule shall be simply written, using ordinary language where possible.
@@ -111,10 +111,10 @@ i. Emergency procedures.
 
 
 Section 1044.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1044. Review of previously adopted rules.*
+*Section 1044. Review of previously adopted rules.* ::
 
 
 a. Submission of previously adopted rules.
@@ -145,10 +145,10 @@ e. On or before a date one hundred eighty days after the publication date of the
 
 
 Section 1045.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1045. Compilation of city rules.*
+*Section 1045. Compilation of city rules.* ::
 
 
 a. The corporation counsel shall publish a Compilation of city rules and thereafter keep such Compilation up to date through supplements issued at least every six months and at such other times as the corporation counsel shall determine. The Compilation and its supplements shall be certified by the corporation counsel and shall include every rule currently in effect. The Compilation and its supplements may contain such other information as the corporation counsel deems necessary and appropriate for full understanding of any rule or which the corporation counsel in his or her discretion determines may be of interest or assistance to the public. The Compilation and its supplements shall be organized by agency and indexed by subject matter. An indexed edition of the Compilation shall be published by the first day of July, nineteen hundred and ninty-one, which date shall be deemed the publication date of the Compilation, and shall be updated and republished by the first day of March of every fourth year thereafter.
@@ -161,10 +161,10 @@ c. Documents submitted by an agency pursuant to subdivision a of section ten hun
 
 
 Section 1046.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1046. Adjudication.*
+*Section 1046. Adjudication.* ::
 
 
  Where any agency is authorized to conduct an adjudication, it shall act, at a minimum, in accordance with the provisions set forth below. The parking violations bureau shall not be subject to the requirements of this section.
@@ -197,10 +197,10 @@ f. Recommendation or decision. Any recommended decision, final decision, determi
 
 
 Section 1047.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 1047. Declaratory ruling.*
+*Section 1047. Declaratory ruling.* ::
 
 
 On the written petition of any person, an agency may issue a written declaratory ruling on the applicability of any rule adopted by it, to any person, property, or state of facts. A declaratory ruling shall be binding only with respect to the person who makes the petition and only with respect to the stated facts contained in the petition.

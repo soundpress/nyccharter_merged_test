@@ -1,10 +1,10 @@
 Chapter 34: Department of Investigation
-============================================================================================================================================================================================================
+===================================================
 Section 801.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 801. Department; commissioner.*
+*Section 801. Department; commissioner.* ::
 
 
 There shall be a department of investigation the head of which shall be the commissioner of investigation. The commissioner shall be a member of the bar of the state of New York in good standing and shall have had at least five years of law enforcement experience. The mayor may remove the commissioner upon filing in the office of the commissioner of citywide administrative services and serving upon the commissioner of investigation the reasons therefor and allowing such officer an opportunity of making a public explanation.
@@ -13,10 +13,10 @@ There shall be a department of investigation the head of which shall be the comm
 
 
 Section 802.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 802. Deputies.*
+*Section 802. Deputies.* ::
 
 
 The commissioner may appoint two deputies, either of whom may, subject to the direction of the commissioner, conduct or preside at any investigations authorized by this chapter.
@@ -25,10 +25,10 @@ The commissioner may appoint two deputies, either of whom may, subject to the di
 
 
 Section 803.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 803. Powers and duties.*
+*Section 803. Powers and duties.* ::
 
 
 a. The commissioner shall make any investigation directed by the mayor or the council.
@@ -75,10 +75,10 @@ i. No later than 90 days after the enactment of the local law that added this su
 
 
 Section 804.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 804. Complaint bureau.*
+*Section 804. Complaint bureau.* ::
 
 
 There shall be a complaint bureau in the department which shall receive complaints from the public, including, but not limited to, complaints about any problems and deficiencies relating to the New York city police department's or department of correction’s operations, policies, programs and practices.
@@ -89,10 +89,10 @@ There shall be a complaint bureau in the department which shall receive complain
 
 
 Section 805.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 805. Conduct of investigations.*
+*Section 805. Conduct of investigations.* ::
 
 
 a. For the purpose of ascertaining facts in connection with any study or investigation authorized by this chapter, the commissioner and each deputy shall have full power to compel the attendance of witnesses, to administer oaths and to examine such persons as he may deem necessary.
@@ -103,10 +103,10 @@ b. The commissioner or any agent or employee of the department duly designated i
 
 
 Section 806.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 806. Interference with investigation.*
+*Section 806. Interference with investigation.* ::
 
 
 No person shall be appointed as an inspector general of a city agency unless such appointment is approved by the commissioner of investigation. The commissioner of investigation shall promulgate standards of conduct and shall monitor and evaluate the activities of inspectors general in the agencies to assure uniformity of activity by them.
@@ -115,10 +115,10 @@ No person shall be appointed as an inspector general of a city agency unless suc
 
 
 Section 808.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 808. Evaluation and recommendations.**
+*Section 808. Evaluation and recommendations.** ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
@@ -157,10 +157,10 @@ g. This section shall be construed in accordance with all applicable laws, inclu
 
 
 Section 808.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
-*Section 808. Public outreach and reporting.**
+*Section 808. Public outreach and reporting.** ::
 
 
 (a) The department shall conduct annual outreach campaigns to educate the public on forms of government corruption, fraud, and waste, and provide information regarding how the public can submit complaints to the department. Such outreach campaigns are not limited to but whenever practicable shall include the use of print, radio, and public forums.

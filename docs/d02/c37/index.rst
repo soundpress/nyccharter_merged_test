@@ -1,12 +1,12 @@
 Title 55: Department of Citywide Administrative Services
-======================================================================================================
+===================================================
 
 Chapter 1: Conduct Within Structures and Grounds Under the Control of the Division of Facilities Management and Construction Services
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 1-01 Scope and Enforcement.*
+*§ 1-01 Scope and Enforcement.* ::
 
 
 These Rules and Regulations shall:
@@ -22,7 +22,7 @@ These Rules and Regulations shall:
 
 
 
-*§ 1-02 Definitions.*
+*§ 1-02 Definitions.* ::
 
 
 The following words and phrases as used in these Rules and Regulations shall have the following meaning:
@@ -40,7 +40,7 @@ Property. "Property" is any real estate which is owned, leased or operated by th
 
 
 
-*§ 1-03 Operating Hours; Emergencies; Packages.*
+*§ 1-03 Operating Hours; Emergencies; Packages.* ::
 
 
 (a) Except as otherwise ordered, property shall be closed to the public after normal working hours.
@@ -56,7 +56,7 @@ Property. "Property" is any real estate which is owned, leased or operated by th
 
 
 
-*§ 1-04 Preservation of Property.*
+*§ 1-04 Preservation of Property.* ::
 
 
 While on or about the property, no person shall:
@@ -82,7 +82,7 @@ While on or about the property, no person shall:
 
 
 
-*§ 1-05 Conformity with Signs and Official Directions.*
+*§ 1-05 Conformity with Signs and Official Directions.* ::
 
 
 Persons on or about the property shall comply with official signs and obey directions given by authorized individuals.
@@ -92,7 +92,7 @@ Persons on or about the property shall comply with official signs and obey direc
 
 
 
-*§ 1-06 Gambling.*
+*§ 1-06 Gambling.* ::
 
 
 With the exception of those activities conducted by the Off-Track Betting Corporation, the operation of, or participation in, unauthorized lotteries, pools or games for money or something of value on or about the property is prohibited.
@@ -102,7 +102,7 @@ With the exception of those activities conducted by the Off-Track Betting Corpor
 
 
 
-*§ 1-07 Alcoholic Beverages, Drugs and Similar Substances.*
+*§ 1-07 Alcoholic Beverages, Drugs and Similar Substances.* ::
 
 
 (a) No person may enter upon property while his ability to function has been impaired by alcohol, drugs or any other substance.
@@ -116,7 +116,7 @@ With the exception of those activities conducted by the Off-Track Betting Corpor
 
 
 
-*§ 1-08 Soliciting, Vending and Debt Collection.*
+*§ 1-08 Soliciting, Vending and Debt Collection.* ::
 
 
 The soliciting of alms, subscriptions, contributions, commercial soliciting and vending of all kinds without the prior written approval of the Commissioner or his/her designee, and the collecting of private debts in or on the property is prohibited. This rule shall not apply to national and local drives for funds for charitable, educational or other such purposes sponsored or approved by the Commissioner or his/her designee, head of an occupant agency or elected city officials. Any person who violates this rule in any public building may be expelled from such building. Repeated violations of this rule may result in the violator being banned from the premises. Any person may appeal such ban in writing to the Commissioner.
@@ -126,7 +126,7 @@ The soliciting of alms, subscriptions, contributions, commercial soliciting and 
 
 
 
-*§ 1-09 Handbills.*
+*§ 1-09 Handbills.* ::
 
 
 (a) No person shall distribute any material such as pamphlets, handbills and flyers on the property unless the prior written approval of the Deputy Commissioner or head of the occupant agency has been obtained.
@@ -140,7 +140,7 @@ The soliciting of alms, subscriptions, contributions, commercial soliciting and 
 
 
 
-*§ 1-10 Animals.*
+*§ 1-10 Animals.* ::
 
 
 Unless otherwise authorized, no person shall bring any animal, except properly harnessed seeing-eye dogs, onto the property.
@@ -150,7 +150,7 @@ Unless otherwise authorized, no person shall bring any animal, except properly h
 
 
 
-*§ 1-11 Vehicular Traffic.*
+*§ 1-11 Vehicular Traffic.* ::
 
 
 (a) A person driving a vehicle upon the property shall operate it in a safe manner and comply with posted traffic signs and directions given by authorized individuals.
@@ -168,7 +168,7 @@ Unless otherwise authorized, no person shall bring any animal, except properly h
 
 
 
-*§ 1-12 Weapons and Explosives.*
+*§ 1-12 Weapons and Explosives.* ::
 
 
 Unless otherwise ordered by law or regulation, no person shall carry any gun, firearm, explosives or deadly or dangerous weapon upon the property.
@@ -178,7 +178,7 @@ Unless otherwise ordered by law or regulation, no person shall carry any gun, fi
 
 
 
-*§ 1-13 Disturbances.*
+*§ 1-13 Disturbances.* ::
 
 
 Any disorderly conduct or conduct on the property which creates loud and unusual noise or which obstructs the usual use of entrances, foyers, corridors, offices, elevators, stairways and parking lots or which otherwise tends to impede or disturb the public employees in the performance of their duties, or which impedes or disturbs the general public from obtaining the administrative services provided on the property, is prohibited.
@@ -188,7 +188,7 @@ Any disorderly conduct or conduct on the property which creates loud and unusual
 
 
 
-*§ 1-14 Photographs.*
+*§ 1-14 Photographs.* ::
 
 
 (a) Except for those holding permits from the Executive Director of the Office of Economic Development and members of the press who hold working press identification cards, no person shall take photographs or moving pictures within any structure located on the property.
@@ -199,11 +199,11 @@ Any disorderly conduct or conduct on the property which creates loud and unusual
 
 
 Chapter 3: Fees
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 3-01 Fees.*
+*§ 3-01 Fees.* ::
 
 
 (a) The fees charged by the Division of Real Property fall into the following categories:
@@ -228,7 +228,7 @@ Chapter 3: Fees
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - (i)
       - Duplicate document (e.g. mortgage, deed)
@@ -311,7 +311,6 @@ Chapter 3: Fees
     * -  
       - Category IV – Carnarsie Cemetery
       -  
-
 ~
 
 Schedule of PricesCertificate of Burial Right
@@ -322,7 +321,7 @@ A certificate of burial right grants the privilege of interment or entombment in
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Traditional Area
       - $1,995.00
@@ -330,7 +329,6 @@ A certificate of burial right grants the privilege of interment or entombment in
       - $1,995.00
     * - Urn Gardens
       - $300.00
-
 ~
 
 
@@ -341,7 +339,7 @@ A certificate of burial right grants the privilege of interment or entombment in
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - (ix)
       - Perpetual care. The purchase price of all certificates of burial right includes perpetual care. Plot holders having certificates of burial right purchased prior to January 20, 1949 may provide perpetual care for their plots upon payment of $650 per grave.
@@ -391,7 +389,6 @@ A certificate of burial right grants the privilege of interment or entombment in
     * - (xiii)
       - Late charges and penalties. Arrearages in annual care charges may be assessed a late payment charge equal to 20% of the balance in arrears, except that late payment charges assessed subsequent to December 31, 1991, shall be excluded from the balance upon which late charges are assessed. Persons issuing checks returned as uncollectible shall be charged a penalty of $15.00 per check.
       - 
-
 ~
 
  
@@ -408,11 +405,11 @@ Note: The Twenty-Five ($25.00) Dollar fee is to be applied to each lot within th
 
 
 Chapter 5: Disposition of Personal Property
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 5-01 Disposition of Personal Property of the City.*
+*§ 5-01 Disposition of Personal Property of the City.* ::
 
 
 (a)  Personal property may be disposed of by the Division of Municipal Supplies by public or private sale or as otherwise authorized by law or regulation.
@@ -439,11 +436,11 @@ Chapter 5: Disposition of Personal Property
 
 
 Chapter 6: 'Original Equipment Manufacturer Agreements' For Purposes of the City's Anti-Apartheid Law
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 6-01 Definitions.*
+*§ 6-01 Definitions.* ::
 
 
 For purposes of the City's anti-apartheid rider, included in City contracts pursuant to Administrative Code § 6-115 whenever the contractor has agreed to sign the rider, a company shall be deemed to be providing goods or services to South Africa pursuant to an "original equipment manufacturer agreement which provides for or authorizes the sale of equipment, alone or as part of a finished product, to a South African entity" in accordance with the following definitions:
@@ -476,11 +473,11 @@ For purposes of the City's anti-apartheid rider, included in City contracts purs
 
 
 Chapter 7: Canarsie Cemetery Rules and Regulations
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 7-01 Definitions.*
+*§ 7-01 Definitions.* ::
 
 
 Annual Care. The term "Annual Care" means care provided by the cemetery on a year-by-year basis upon payment of an annual fee by or on behalf of a Plot Holder.
@@ -524,7 +521,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-02 Purchase of Burial Rights.*
+*§ 7-02 Purchase of Burial Rights.* ::
 
 
 (a) All persons wishing to purchase burial rights in the cemetery must execute applications provided for that purpose.
@@ -542,7 +539,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-03 Interments.*
+*§ 7-03 Interments.* ::
 
 
 (a) Interment privileges can be received only from the plot holders, and no persons can be recognized as plot holders unless their names appear as such upon the records of the cemetery.
@@ -586,7 +583,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-04 Plot Usage and Maintenance.*
+*§ 7-04 Plot Usage and Maintenance.* ::
 
 
 (a) All plots shall be used as a place of burial for the dead or the remains of deceased persons and for no other purpose whatever.
@@ -610,7 +607,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-05 Memorials.*
+*§ 7-05 Memorials.* ::
 
 
 (a) No memorial shall be placed on any plot except by the plot holder or his/her authorized representative.
@@ -638,7 +635,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-06 Mausoleum.*
+*§ 7-06 Mausoleum.* ::
 
 
 (a) No mausoleum shall be constructed without prior written approval of the Commissioner. No such approval shall be granted until satisfactory design plans and construction contracts have been submitted to the Commissioner.
@@ -658,7 +655,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-07 Inheritance of Burial Right.*
+*§ 7-07 Inheritance of Burial Right.* ::
 
 
 (a) In the event of the death of the owner of a burial right any and all privileges (rights) of the plot holder shall pass to the plot holder's family as set forth in the following sections.
@@ -690,7 +687,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-08 Transfer of Burial Right.*
+*§ 7-08 Transfer of Burial Right.* ::
 
 
 (a) No burial right may be sold, transferred, exchanged, or otherwise disposed of without the written consent of the Commissioner on the cemetery's official transfer of right of burial form.
@@ -708,7 +705,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-09 Visitors and Others.*
+*§ 7-09 Visitors and Others.* ::
 
 
 (a) All persons disturbing the quiet and good order of the cemetery by noise or other improper conduct will be compelled instantly to leave the grounds. cemetery personnel will exclude from cemetery grounds any persons it deems improper and will disperse any improper assemblages in the cemetery.
@@ -746,7 +743,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-10 Prices and Fees.*
+*§ 7-10 Prices and Fees.* ::
 
 
 (a) The prices for burial rights and fees for services are listed in 55 RCNY § 3-01.
@@ -758,7 +755,7 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 
-*§ 7-11 Miscellaneous.*
+*§ 7-11 Miscellaneous.* ::
 
 
 (a) The statements or representations of any employee of the cemetery shall not be binding on the cemetery except as such statements or representations coincide with the instrument granting burial right and with this chapter.
@@ -771,11 +768,11 @@ Visitor. The term "Visitor" means any person who may enter the former town buria
 
 
 Chapter 8: Contracts For the Purchase of Products Containing Secondary Material and Minimum Secondary Material Content Standards For the Purchase of Establishing Price Preference Eligibility
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 8-01 Purpose.*
+*§ 8-01 Purpose.* ::
 
 
 New York City's Recycling Law, which is codified as §§ 16-301 et seq. of the Administrative Code of the City of New York encourages the use of "secondary materials" in the manufacture of products purchased by DMSS for use by various city agencies and departments. A mechanism authorized by the Recycling Law to achieve the goal of purchasing products made from secondary materials is the authority to award a contract pursuant to a "price preference." Simply stated, the City is given the discretion to determine that the public interest will be served by awarding contracts for the purchase of specified products to other than the lowest responsive and responsible bidder provided that the product contains a mandated "minimum amount of secondary material" and that the price is within the specified percentage of the price bid by the lowest responsive and responsible bidder.
@@ -785,7 +782,7 @@ New York City's Recycling Law, which is codified as §§ 16-301 et seq. of the A
 
 
 
-*§ 8-02 Definitions.*
+*§ 8-02 Definitions.* ::
 
 
 Aggregate product purchase. "Aggregate product purchase" shall mean a procurement of products by DMSS which consists of a group or groups of products which are related to each other in one of the following ways:
@@ -817,7 +814,7 @@ USEPA. "USEPA" means the United States Environmental Protection Agency.
 
 
 
-*§ 8-03 Minimum Content Standards and Applicability of Price Preference.*
+*§ 8-03 Minimum Content Standards and Applicability of Price Preference.* ::
 
 
 (a) Applicability of price preference. In general, on a contract let by DMSS for the purchase of a product, a bidder shall be eligible for the price preference set forth in § 16-322 of the Administrative Code for such product only if such bidder offers to supply such product manufactured with the minimum content of secondary material specified in these Rules.
@@ -848,7 +845,7 @@ Paper and Paper Products1
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Material 
       - Minimum percentage of recovered materials 
@@ -966,7 +963,6 @@ Paper and Paper Products1
       -  – 
       - 90 
       -  – 
-
 ~
 
  
@@ -983,7 +979,7 @@ Paper and Paper Products1
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Product
       - Minimum Percentage by Weight of Secondary Material Content
@@ -994,7 +990,6 @@ Paper and Paper Products1
     * - Form bond including computer paper and carbonless
       - 50 percent 
       - 10 percent
-
 ~
 
 
@@ -1011,7 +1006,7 @@ Building Insulation Products 4
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Product 
       - Percentage by Weight of Secondary Material
@@ -1031,7 +1026,6 @@ Building Insulation Products 4
       -  5 percent recovered material
     * - Rock wool
       -  50 percent recovered material
-
 ~
 
  
@@ -1046,13 +1040,12 @@ Plastics 6
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Minimum Percentage by Weight of Secondary Material Content 
       - Minimum Percentage by Weight of Post-Consumer Material Content
     * - 50 percent 
       - 15 percent 
-
 ~
 
 
@@ -1073,7 +1066,7 @@ Note – The minimum content standards are based on the weight of material (not 
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Glass 6
       -  
@@ -1093,7 +1086,6 @@ Note – The minimum content standards are based on the weight of material (not 
       - Minimum Percentage by Weight of Post-Consumer Material Content
     * - 75 percent 
       - 75 percent 
-
 ~
 
  
@@ -1105,7 +1097,7 @@ Note – The minimum content standards are based on the weight of material (not 
 
 
 
-*§ 8-04 Implementation Procedure.*
+*§ 8-04 Implementation Procedure.* ::
 
 
 (a) To be eligible for a price preference, bidders must submit with their bids a written certification of the secondary material and post-consumer material content of such product.
@@ -1117,7 +1109,7 @@ Note – The minimum content standards are based on the weight of material (not 
 
 
 
-*§ 8-05 Miscellaneous.*
+*§ 8-05 Miscellaneous.* ::
 
 
 (a) DMSS' specifications will encourage:
@@ -1141,7 +1133,7 @@ Note – The minimum content standards are based on the weight of material (not 
 
 
 
-*§ 8-06 Separability.*
+*§ 8-06 Separability.* ::
 
 
 If any provision or section of these Rules, or the application thereof to particular persons is held invalid, the remainder of these Rules, and their application to other persons or circumstances shall not be affected by such holding and shall remain in full force and effect.
@@ -1150,11 +1142,11 @@ If any provision or section of these Rules, or the application thereof to partic
 
 
 Chapter 10: Rules For Press Conferences, Demonstrations and Similar Activities In the Immediate Vicinity of City Hall
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 10-01 [Application.]*
+*§ 10-01 [Application.]* ::
 
 
 These procedures apply to press conferences, demonstrations, picketing, speechmaking, vigils and like forms of expressive conduct by participants or onlookers ("covered activities") on the steps, sidewalk and plaza area fronting City Hall. The "plaza area" consists of the bluestone-paved area bordered on the north by the sidewalk fronting City Hall, on the south by City Hall Park and to the east and west by cobblestone parking areas.
@@ -1164,7 +1156,7 @@ These procedures apply to press conferences, demonstrations, picketing, speechma
 
 
 
-*§ 10-02 [Activities Not Covered.]*
+*§ 10-02 [Activities Not Covered.]* ::
 
 
 Covered activities shall not include the following public ceremonies and commemorations: (i) inaugurations; (ii) award ceremonies for city employees; and (iii) ceremonies held in conjunction with a City-sponsored ticker-tape parade.
@@ -1174,7 +1166,7 @@ Covered activities shall not include the following public ceremonies and commemo
 
 
 
-*§ 10-03 [Conduct, Maximum Number; Larger Groups.]*
+*§ 10-03 [Conduct, Maximum Number; Larger Groups.]* ::
 
 
 Covered activities shall be conducted in accordance with these requirements and under the terms of permits issued by the Police Department pursuant to 55 RCNY § 10-06 below. Covered activities shall be conducted in a manner which does not endanger the safety or security of public employees and members of the general public, impede ingress to or egress from City Hall, or interfere with the rights of other persons engaged in covered activities. A maximum of 300 persons in total shall be permitted on the City Hall steps, sidewalk and plaza fronting City Hall for a three-hour time period in an area selected by the Police Department which reasonably accommodates groups of 300 or less. Groups of over 300 persons or who seek to hold a covered activity that exceeds three hours in duration shall be directed to obtain a permit for the use of City Hall Park or other comparable area in accordance with the rules of the Department of Parks and Recreation.
@@ -1184,7 +1176,7 @@ Covered activities shall be conducted in accordance with these requirements and 
 
 
 
-*§ 10-04 [Alternative Locations; Covered Activities Not Permitted.]*
+*§ 10-04 [Alternative Locations; Covered Activities Not Permitted.]* ::
 
 
 Covered activities shall not be permitted when the Police Department determines that the covered activity would violate the provisions of 55 RCNY § 10-05, or under the circumstances set forth in subdivision c of 55 RCNY § 10-06. When areas of the steps, sidewalk or plaza area fronting City Hall are not available due to events enumerated in 55 RCNY § 10-02, anticipated security needs or the presence of other groups engaged in covered activities, groups shall be informed of alternative locations or times that are available for the covered activities.
@@ -1194,7 +1186,7 @@ Covered activities shall not be permitted when the Police Department determines 
 
 
 
-*§ 10-05 [Disorderly Conduct; Conduct Not Permitted.]*
+*§ 10-05 [Disorderly Conduct; Conduct Not Permitted.]* ::
 
 
 Disorderly conduct or conduct which obstructs the usual use of City Hall entrances, foyers, and the parking area, which otherwise impedes public employees in the performance of their official duties, vehicular and pedestrian traffic around City Hall, or the general public from obtaining government services or attending proceedings at City Hall is prohibited. Conduct shall not be permitted which (a) reasonably presents a clear and present danger to the public safety, good order or health; (b) interferes with ingress to or egress from City Hall; or (c) may result in bodily harm to any individual, damage to property, or imminent breach of the peace such that good order cannot otherwise be maintained.
@@ -1204,7 +1196,7 @@ Disorderly conduct or conduct which obstructs the usual use of City Hall entranc
 
 
 
-*§ 10-06 [Permit System; Administration.]*
+*§ 10-06 [Permit System; Administration.]* ::
 
 
 These procedures shall be administered by the Police Department, on behalf of the Department of Citywide Administrative Services and the Department of Parks and Recreation. In administering these procedures, the following permit system will apply:
@@ -1242,7 +1234,7 @@ e. Permits may be revoked prior to the scheduled covered activity under the foll
 
 
 
-*§ 10-07 [Revocation of Permit.]*
+*§ 10-07 [Revocation of Permit.]* ::
 
 
 During the conduct of covered activities, a permit may be revoked by the ranking on-site New York City police officer if the covered activity or other circumstances (i) present a clear and present danger to the public safety, good order or health; (ii) interfere with ingress to or egress from City Hall or otherwise violate the terms and conditions contained in the permit; or (iii) result in bodily harm to any individual, damage to property, or imminent breach of the peace such that good order cannot otherwise be maintained.
@@ -1252,7 +1244,7 @@ During the conduct of covered activities, a permit may be revoked by the ranking
 
 
 
-*§ 10-08 [Police Department Powers Not Restricted; Searches.]*
+*§ 10-08 [Police Department Powers Not Restricted; Searches.]* ::
 
 
 Nothing in these procedures shall restrict the power and authority of the Police Department to preserve the public peace and safety in the vicinity of City Hall, including but not limited to using magnetometers or other security devices, submitting all persons, bags and packages to mechanical inspection or search.
@@ -1262,7 +1254,7 @@ Nothing in these procedures shall restrict the power and authority of the Police
 
 
 
-*§ 10-09 [Emergency; Close Area.]*
+*§ 10-09 [Emergency; Close Area.]* ::
 
 
 The Police Department may order the closure of or limit access to the City Hall area in the event of an emergency or period of heightened security.
@@ -1272,7 +1264,7 @@ The Police Department may order the closure of or limit access to the City Hall 
 
 
 
-*§ 10-10 [Contents of Permit.]*
+*§ 10-10 [Contents of Permit.]* ::
 
 
 All permits issued shall include the conditions set forth above.
@@ -1281,11 +1273,11 @@ All permits issued shall include the conditions set forth above.
 
 
 Chapter 11: Personnel Practice and Procedure
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 11-01 General Examination Regulations.*
+*§ 11-01 General Examination Regulations.* ::
 
 
 (a) General provisions.
@@ -1320,7 +1312,7 @@ Chapter 11: Personnel Practice and Procedure
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Salary Category
       - Fee
@@ -1346,7 +1338,6 @@ Chapter 11: Personnel Practice and Procedure
       - $96
     * - $100,000 &amp; over
       - $101
-
 ~
 
  
@@ -1524,7 +1515,7 @@ Chapter 11: Personnel Practice and Procedure
 
 
 
-*§ 11-02 License Examinations.*
+*§ 11-02 License Examinations.* ::
 
 
 (a) Applicability. These regulations apply to the following licenses:
@@ -1583,7 +1574,7 @@ These regulations shall be applicable also to examinations conducted by the Depa
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Climber or Tower Crane Rigger
       - $275
@@ -1645,7 +1636,6 @@ These regulations shall be applicable also to examinations conducted by the Depa
       - $220
     * - For examination for appointment as City Surveyor
       - $275
-
 ~
 
  
@@ -1745,7 +1735,7 @@ The names of successful candidates in the license examinations listed above will
 
 
 
-*§ 11-03 Adjudications of the Department of Citywide Administrative Services.*
+*§ 11-03 Adjudications of the Department of Citywide Administrative Services.* ::
 
 
 (a) Pursuant to the New York City Charter §§ 1041, 1046 - 1048, and by designation by the Mayor, the Department of Citywide Administrative Services has determined that adjudications held pursuant to Section 210.2(g) of the Civil Service Law Article 14 ("The Taylor Law") to determine whether an employee has violated the Taylor Law shall be conducted by the Department or a designee of the Commissioner of Citywide Administrative Services. Such designee shall be a Hearing Officer who is authorized in writing by the Commissioner of Citywide Administrative Services to conduct hearings pursuant to the Taylor Law. Administrative Law Judges from the Office of Administrative Trials and Hearings ("OATH") may be designated as Hearing Officers authorized by the Commissioner of Citywide Administrative Services to conduct hearings pursuant to the Taylor Law.
@@ -1757,7 +1747,7 @@ The names of successful candidates in the license examinations listed above will
 
 
 
-*§ 11-04 Taylor Law Hearings.*
+*§ 11-04 Taylor Law Hearings.* ::
 
 
 (a) All hearings conducted pursuant to § 210.2(g) of the New York Civil Service Law shall be subject to the following rules.
@@ -1802,11 +1792,11 @@ The names of successful candidates in the license examinations listed above will
 
 
 Chapter 12: Municipal Employees' Charitable Contributions
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 12-01 Definitions.*
+*§ 12-01 Definitions.* ::
 
 
 Annual solicitation campaign. "Annual solicitation campaign" shall mean the period of organized solicitation of municipal employees conducted annually by the Combined Municipal Campaign to obtain contributions with respect to the ensuing year of contributions.
@@ -1826,7 +1816,7 @@ Year of contributions. Year of contributions. "Year of contributions" shall mean
 
 
 
-*§ 12-02 Coordinating Agency; Constituent Organizations.*
+*§ 12-02 Coordinating Agency; Constituent Organizations.* ::
 
 
 The coordinating agency shall consist of the charitable non-profit organizations named as constituent members thereof upon the Commissioner of Citywide Administrative Services' approval of the coordinating agency, subject to changes by discontinuance of such participation or the addition of eligible charitable non-profit organizations. The coordinating agency shall give prompt written notice of any such changes to the Commissioner of Citywide Administrative Services.
@@ -1836,7 +1826,7 @@ The coordinating agency shall consist of the charitable non-profit organizations
 
 
 
-*§ 12-03 Charitable Non-Profit Organizations.*
+*§ 12-03 Charitable Non-Profit Organizations.* ::
 
 
 To be eligible as a constituent organization of the coordinating agency or as a participating organization in the Combined Municipal Campaign, a charitable non-profit organization must meet and maintain the following requirements:
@@ -1860,7 +1850,7 @@ To be eligible as a constituent organization of the coordinating agency or as a 
 
 
 
-*§ 12-04 Coordinating Agency; Qualification Requirements.*
+*§ 12-04 Coordinating Agency; Qualification Requirements.* ::
 
 
 To be eligible for approval as the coordinating agency, a charitable non-profit organization shall meet all of the conditions specified in 55 RCNY § 12-03, and in addition, shall
@@ -1876,7 +1866,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 
-*§ 12-05 Approval of Coordinating Agency.*
+*§ 12-05 Approval of Coordinating Agency.* ::
 
 
 (a) To solicit contributions among municipal employees, a charitable non-profit organization eligible pursuant to the conditions specified in 55 RCNY § 12-04 may make written application to the Commissioner of Citywide Administrative Services for approval as the coordinating agency for the City.
@@ -1906,7 +1896,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 
-*§ 12-06 Combined Municipal Campaign; Structure and Operations.*
+*§ 12-06 Combined Municipal Campaign; Structure and Operations.* ::
 
 
 (a) For the purposes of conducting a joint annual solicitation campaign and sharing in the contributions of municipal employees obtained therefrom, the coordinating agency shall contract with all other organizations approved pursuant to 55 RCNY §§ 12-07 and 12-08 to form a Combined Municipal Campaign.
@@ -1934,7 +1924,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 
-*§ 12-07 Application for Participation in the Combined Municipal Campaign.*
+*§ 12-07 Application for Participation in the Combined Municipal Campaign.* ::
 
 
 (a) A charitable non-profit organization seeking participation in the Combined Municipal Campaign shall make written application therefor to the Commissioner, who shall forward such application to the coordinating agency.
@@ -1950,7 +1940,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 
-*§ 12-08 Review of Non-Acceptance for Participation.*
+*§ 12-08 Review of Non-Acceptance for Participation.* ::
 
 
 (a) An organization which has been notified of non-acceptance for participation in the Combined Municipal Campaign may, within fourteen days of the date notice was sent to the applicant by the coordinating agency, appeal in writing to the Commissioner for review of the determination of the coordinating agency. Copies of all material previously submitted to the coordinating agency shall be furnished to the Commissioner by the organization seeking review.
@@ -1964,7 +1954,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 
-*§ 12-09 Conduct of Solicitation Among City Employees.*
+*§ 12-09 Conduct of Solicitation Among City Employees.* ::
 
 
 (a) Contributions by employees to any charitable non-profit organization shall be purely voluntary.
@@ -1983,11 +1973,11 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 Chapter 13: [Filming and Photography Authorized By the Department]
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 13-01 Scope.*
+*§ 13-01 Scope.* ::
 
 
 These rules shall be applicable to all film and photography shoots and related activities conducted on properties and within facilities under the jurisdiction of, and with permission from, the Department of Citywide Administrative Services that shall be authorized by a permit issued by the Mayor's Office of Film, Theatre and Broadcasting. Nothing contained herein shall preclude the requirement to comply with any other applicable law, rule or case law governing such activities.
@@ -1997,7 +1987,7 @@ These rules shall be applicable to all film and photography shoots and related a
 
 
 
-*§ 13-02 Definitions.*
+*§ 13-02 Definitions.* ::
 
 
 For the purposes of this chapter, the following terms shall have the following meanings:
@@ -2033,7 +2023,7 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 
-*§ 13-03 Pre-Production Scouting.*
+*§ 13-03 Pre-Production Scouting.* ::
 
 
 (a)  Prior to conducting any scouting related activities on properties or within facilities under the jurisdiction of DCAS, a scouting permit shall be obtained from MOFTB.
@@ -2047,7 +2037,7 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 
-*§ 13-04 Required Documentation and Approvals from DCAS.*
+*§ 13-04 Required Documentation and Approvals from DCAS.* ::
 
 
 (a)  The following forms and documents, which are required for DCAS review and approval prior to obtaining a Required Permit from MOFTB, shall be submitted to the DCAS Film Office no later than four (4) business days prior to the date on which the prepping or rigging for film and/or photography shoots is sought to commence:
@@ -2081,7 +2071,7 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 
-*§ 13-05 Application for Required Permit from MOFTB.*
+*§ 13-05 Application for Required Permit from MOFTB.* ::
 
 
 (a)  A Required Permit shall be applied for and issued in accordance with the provisions of 43 RCNY § 9-02 of the MOFTB Film Permit Rules after the requisite DCAS documentation has been completed by the applicant and reviewed by DCAS; production issues have been resolved with DCAS; and DCAS approval has been received.
@@ -2095,7 +2085,7 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 
-*§ 13-06 Indemnification and Insurance Requirements.*
+*§ 13-06 Indemnification and Insurance Requirements.* ::
 
 
 (a)  Prior to the commencement of prepping or rigging for film and/or photography shoots on properties or within facilities under the jurisdiction of DCAS, a permittee shall provide to the DCAS Film Office a copy of insurance documentation and a copy of the Required Permit in order to obtain final DCAS authorization for such production.
@@ -2111,7 +2101,7 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 
-*§ 13-07 Production Requirements.*
+*§ 13-07 Production Requirements.* ::
 
 
 (a)  Holding on properties and within facilities under the jurisdiction of DCAS is available only for those productions taking place on or within such properties or facilities, upon the approval of the Commissioner or his or her designee.
@@ -2133,7 +2123,7 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 
-*§ 13-08 Post-Production Requirements.*
+*§ 13-08 Post-Production Requirements.* ::
 
 
 (a)  A permittee is responsible for cleaning and restoring the properties and facilities under the jurisdiction of DCAS after the rigging, shooting and/or holding. The cost of any DCAS employee time incurred due to a permittee failing to clean and/or restore such properties and facilities following the rigging, shooting and/or holding shall be borne by the permittee and reimbursed to DCAS.
@@ -2146,11 +2136,11 @@ For the purposes of this chapter, the following terms shall have the following m
 
 
 Chapter 14: Security Guards at Nonpublic Schools
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
-*§ 14-01 Definitions.*
+*§ 14-01 Definitions.* ::
 
 
 As used in this chapter, the followings terms have the following meanings. Capitalized terms used in this chapter that are not specifically defined in this section have the same meanings set forth in Administrative Code § 10-172(a).
@@ -2174,7 +2164,7 @@ School Security Administrator. The term "School Security Administrator" means a 
 
 
 
-*§ 14-02 Security Guard Companies; Application for Inclusion on the Qualified Provider List.*
+*§ 14-02 Security Guard Companies; Application for Inclusion on the Qualified Provider List.* ::
 
 
 (a) Application. Pursuant to Administrative Code § 10-172(d), the Department will seek to develop a Qualified Provider List of Security Guard Companies. A Security Guard Company that seeks inclusion on the Qualified Provider List must apply by completing an application on a form prescribed by the Department and must satisfy all provisions of this section. A Security Guard Company must answer all questions set forth in the application.
@@ -2268,7 +2258,7 @@ School Security Administrator. The term "School Security Administrator" means a 
 
 
 
-*§ 14-03 Nonpublic Schools; Qualification for the Reimbursement Program.*
+*§ 14-03 Nonpublic Schools; Qualification for the Reimbursement Program.* ::
 
 
 (a) HHS Accelerator. Any nonpublic school in the City of New York (hereinafter "school") that seeks to participate in the Reimbursement Program must first create an account with HHS Accelerator and complete HHS Accelerator's business and service applications.
@@ -2298,7 +2288,7 @@ School Security Administrator. The term "School Security Administrator" means a 
 
 
 
-*§ 14-04 Nonpublic Schools; Memorandum of Understanding.*
+*§ 14-04 Nonpublic Schools; Memorandum of Understanding.* ::
 
 
 If the Department notifies a school that it qualifies to participate in the Reimbursement Program, the Department shall also provide a Memorandum of Understanding ("MOU") regarding the school's participation in the Reimbursement Program. Each school must enter into a MOU with the City of New York, acting by and through the Department, before the school may receive funds through the Reimbursement Program. Upon execution of the MOU, such MOU shall take effect in accordance with applicable law.
@@ -2310,7 +2300,7 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
 
 
-*§ 14-05 Nonpublic Schools and Security Guard Companies; Program Administration.*
+*§ 14-05 Nonpublic Schools and Security Guard Companies; Program Administration.* ::
 
 
 (a) Start Date. A school may seek reimbursement from the Department for the cost of Security Services beginning on the first day of classes in the school year for which the Reimbursement Program has been authorized or the date the Department determines that the School is qualified to participate in the reimbursement program, whichever is later.
@@ -2386,7 +2376,7 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
 
 
-*§ 14-06 Security Guard Companies; Training.*
+*§ 14-06 Security Guard Companies; Training.* ::
 
 
 (a) Security Guard Companies must ensure that all Security Guards receive training pursuant to the Article 7-A, Section 89-n of the General Business Law. Consistent with such requirements, a Security Guard must receive:
@@ -2406,7 +2396,7 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
 
 
-*§ 14-07 Nonpublic Schools; Allowable Costs and Reimbursements.*
+*§ 14-07 Nonpublic Schools; Allowable Costs and Reimbursements.* ::
 
 
 (a) Number of Guards.
@@ -2436,7 +2426,7 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
 
 
-*§ 14-08 Nonpublic Schools; Compliance and Auditing.*
+*§ 14-08 Nonpublic Schools; Compliance and Auditing.* ::
 
 
 (a) Records Retention. Each school must retain all records supporting its reimbursement claims for seven (7) years. Such records include, but not are not limited to, invoices, payroll records, timesheets, and work assignment data from Security Guard Companies and annual reports of incidents as required by 55 RCNY § 14-05(f).
@@ -2457,7 +2447,7 @@ If the Department notifies a school that it qualifies to participate in the Reim
 
 
 Appendix A: Personnel Rules and Regulations of the City of New York
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 
@@ -2471,7 +2461,7 @@ Appendix A: Personnel Rules and Regulations of the City of New York
 
 
 
-*SECTION I – PERSONNEL ADMINISTRATION*
+*SECTION I – PERSONNEL ADMINISTRATION* ::
 
 
 2.1.(a) The commissioner of citywide administrative services shall have the power to promulgate rules and regulations relating to the personnel policies, programs and activities of city government in furtherance of and consistent with state civil service law and chapter 35 of the New York City charter.
@@ -2485,7 +2475,7 @@ Appendix A: Personnel Rules and Regulations of the City of New York
 
 
 
-*SECTION II – RULES*
+*SECTION II – RULES* ::
 
 
 2.2.These rules shall have the force and effect of law.
@@ -2495,7 +2485,7 @@ Appendix A: Personnel Rules and Regulations of the City of New York
 
 
 
-*SECTION III – REGULATIONS*
+*SECTION III – REGULATIONS* ::
 
 
 2.3.The commissioner of citywide administrative services shall have power to adopt suitable regulations to carry out the provisions of the civil service law, the New York City charter and the rules.
@@ -2505,7 +2495,7 @@ Appendix A: Personnel Rules and Regulations of the City of New York
 
 
 
-*SECTION IV – GENERAL ADMINISTRATION AND ENFORCEMENT*
+*SECTION IV – GENERAL ADMINISTRATION AND ENFORCEMENT* ::
 
 
 2.4.(a) The commissioner of citywide administrative services shall have the authority and responsibility in the administration and enforcement of the rules and regulations prescribed thereunder and shall possess the powers and duties assigned to the commissioner of citywide administrative services pursuant to the provisions of chapter 35 of the New York City charter.
@@ -2517,7 +2507,7 @@ Appendix A: Personnel Rules and Regulations of the City of New York
 
 
 
-*SECTION V – APPLICABILITY*
+*SECTION V – APPLICABILITY* ::
 
 
 2.5.These rules shall apply to all offices and positions in the classified service of the city including offices and positions in the New York City housing authority, New York City transit authority, triborough bridge and tunnel authority, New York City board of education, and the offices of all district attorneys and all public administrators within the City of New York.
@@ -2527,7 +2517,7 @@ Appendix A: Personnel Rules and Regulations of the City of New York
 
 
 
-*SECTION VI – RULE CHANGES; CALENDAR*
+*SECTION VI – RULE CHANGES; CALENDAR* ::
 
 
 2.6.(a) No proposed amendment, modification or addition to the rules shall be acted upon until public notice thereof shall be given in a designated newspaper for not less than three days prior to a public hearing thereon. Such notice shall set forth the proposal; but notice and public hearing shall not be necessary where the purpose of the proposed amendment, modification or addition is to conform with a change in a statute.
@@ -2543,7 +2533,7 @@ Appendix A: Personnel Rules and Regulations of the City of New York
 
 
 
-*SECTION VII – NON-DISCRIMINATION; EQUAL OPPORTUNITY*
+*SECTION VII – NON-DISCRIMINATION; EQUAL OPPORTUNITY* ::
 
 
 2.7. There shall be no unlawful discrimination in city employment on the basis of race, sex, age, religion, national origin or disability, and equal opportunity in employment shall be ensured and promoted in the administration of personnel.
@@ -2553,7 +2543,7 @@ Appendix A: Personnel Rules and Regulations of the City of New York
 
 
 
-*SECTION VIII – CONTINUITY AND PRESERVATION*
+*SECTION VIII – CONTINUITY AND PRESERVATION* ::
 
 
 2.8. Any resolutions, equivalency tables, terminal dates, restrictions, terms and conditions, and regulations in connection with the rules of classification in force and effect immediately prior to the effective date of these rules, shall continue to be in force and effect to the extent theretofore provided under the provisions of these rules, unless otherwise provided herein.
@@ -2568,7 +2558,7 @@ Appendix A: Personnel Rules and Regulations of the City of New York
 
 
 
-*SECTION I – THE EXEMPT CLASS*
+*SECTION I – THE EXEMPT CLASS* ::
 
 
 The exempt class shall include all offices and positions in the classified service enumerated in section forty-one of the civil service law and all other subordinate offices or positions for the filling of which competitive or non-competitive examination shall be found by the commissioner of citywide administrative services to be not practicable.
@@ -2578,7 +2568,7 @@ The exempt class shall include all offices and positions in the classified servi
 
 
 
-*SECTION II – THE NON-COMPETITIVE CLASS*
+*SECTION II – THE NON-COMPETITIVE CLASS* ::
 
 
 The non-competitive class shall include all positions that are not in the exempt or labor class and for which it is found by the commissioner of citywide administrative services not to be practicable to ascertain the merit and fitness of applicants by competitive examination.
@@ -2588,7 +2578,7 @@ The non-competitive class shall include all positions that are not in the exempt
 
 
 
-*SECTION III – THE LABOR CLASS*
+*SECTION III – THE LABOR CLASS* ::
 
 
 (a) The labor class shall comprise all unskilled laborers in the classified service as are not classified in the competitive or non-competitive class.
@@ -2600,7 +2590,7 @@ The non-competitive class shall include all positions that are not in the exempt
 
 
 
-*SECTION IV – THE COMPETITIVE CLASS*
+*SECTION IV – THE COMPETITIVE CLASS* ::
 
 
 The competitive class shall include all positions for which it is practicable to determine the merit and fitness of applicants by competitive examination and shall include all positions now existing or hereafter created, of whatever functions, designations, or compensation, except such positions as are in the exempt class, the non-competitive class or the labor class.
@@ -2615,7 +2605,7 @@ The competitive class shall include all positions for which it is practicable to
 
 
 
-*SECTION I – GENERAL EXAMINATION PROCEDURES*
+*SECTION I – GENERAL EXAMINATION PROCEDURES* ::
 
 
 (a) The commissioner of citywide administrative services shall conduct examinations for such positions as may be necessary to anticipate the needs of the city service.
@@ -2629,7 +2619,7 @@ The competitive class shall include all positions for which it is practicable to
 
 
 
-*SECTION II – APPLICATIONS AND RECRUITMENT*
+*SECTION II – APPLICATIONS AND RECRUITMENT* ::
 
 
 (a) The standard application forms for examinations shall be furnished by the commissioner of citywide administrative services or examining agency without charge to all persons requesting the same.
@@ -2643,7 +2633,7 @@ The competitive class shall include all positions for which it is practicable to
 
 
 
-*SECTION III – DISQUALIFICATION OF APPLICANTS OR ELIGIBLES*
+*SECTION III – DISQUALIFICATION OF APPLICANTS OR ELIGIBLES* ::
 
 
 (a) The commissioner of citywide administrative services, upon investigation of applicants for positions in the civil service or review of their qualifications, may refuse to examine an applicant or after examination refuse to certify or refuse to permit the certification of an eligible for reasons and in the manner prescribed by law or these rules.
@@ -2659,7 +2649,7 @@ The competitive class shall include all positions for which it is practicable to
 
 
 
-*SECTION IV – ADMINISTRATION AND RATING OF EXAMINATIONS*
+*SECTION IV – ADMINISTRATION AND RATING OF EXAMINATIONS* ::
 
 
 The provisions of this section shall apply to examinations conducted by the department of citywide administrative services and by examining agencies.
@@ -2669,7 +2659,7 @@ The provisions of this section shall apply to examinations conducted by the depa
 
 
 
-*SECTION V – ADDITIONAL CREDIT ON COMPETITIVE EXAMINATIONS FOR VETERANS AND DISABLED VETERANS*
+*SECTION V – ADDITIONAL CREDIT ON COMPETITIVE EXAMINATIONS FOR VETERANS AND DISABLED VETERANS* ::
 
 
 (a) A veteran or disabled veteran who elects to claim additional credit as provided in the civil service law, shall so notify the commissioner of citywide administrative services and establish by appropriate documentary evidence eligibility for such additional credit.
@@ -2681,7 +2671,7 @@ The provisions of this section shall apply to examinations conducted by the depa
 
 
 
-*SECTION VI – ELIGIBLE LISTS*
+*SECTION VI – ELIGIBLE LISTS* ::
 
 
 (a) The provisions of this section shall apply to examinations conducted by the department of citywide administrative services and by examining agencies.
@@ -2695,7 +2685,7 @@ The provisions of this section shall apply to examinations conducted by the depa
 
 
 
-*SECTION VII – CERTIFICATION OF ELIGIBLE LISTS AND SELECTION THEREFROM*
+*SECTION VII – CERTIFICATION OF ELIGIBLE LISTS AND SELECTION THEREFROM* ::
 
 
 (a) The provisions of this section shall apply to the certification of eligible lists by the commissioner of citywide administrative services or, in the case of classes of positions unique to an agency, the certification of eligible lists for such classes by the agency head.
@@ -2713,7 +2703,7 @@ The provisions of this section shall apply to examinations conducted by the depa
 
 
 
-*SECTION VIII – DECLINATION OF APPOINTMENT*
+*SECTION VIII – DECLINATION OF APPOINTMENT* ::
 
 
 The provisions of this section shall apply to appointments from established eligible lists certified by the commissioner of citywide administrative services or by the head of a certifying agency.
@@ -2728,7 +2718,7 @@ The provisions of this section shall apply to appointments from established elig
 
 
 
-*SECTION I – APPOINTMENTS AND PROMOTIONS GENERALLY*
+*SECTION I – APPOINTMENTS AND PROMOTIONS GENERALLY* ::
 
 
 No person shall be appointed, promoted or employed under any title not appropriate to the duties to be performed and, except upon assignment by proper authority during the continuance of a temporary emergency situation, no person shall be assigned to perform the duties of any position unless duly appointed, promoted, transferred or reinstated to such position in accordance with the law and rules prescribed therefor. No credit shall be granted in a promotion examination for out- of-title work.
@@ -2738,7 +2728,7 @@ No person shall be appointed, promoted or employed under any title not appropria
 
 
 
-*SECTION II – PROBATIONARY TERMS*
+*SECTION II – PROBATIONARY TERMS* ::
 
 
 (a) Every appointment and promotion to a position in the competitive or labor class shall be for a probationary period of one year unless otherwise set forth in the terms and conditions of the certification for appointment or promotion as determined by the commissioner of citywide administrative services. Appointees shall be informed of the applicable probationary period.
@@ -2750,7 +2740,7 @@ No person shall be appointed, promoted or employed under any title not appropria
 
 
 
-*SECTION III – PROMOTIONS*
+*SECTION III – PROMOTIONS* ::
 
 
 (a) Except as otherwise provided, promotion examinations and promotions shall be governed by the rules relating to original appointments.
@@ -2762,7 +2752,7 @@ No person shall be appointed, promoted or employed under any title not appropria
 
 
 
-*SECTION IV – TEMPORARY APPOINTMENTS*
+*SECTION IV – TEMPORARY APPOINTMENTS* ::
 
 
 (a) A temporary appointment for a period not exceeding three months, where the need therefor is important and urgent, may be made without regard to existing eligible lists.
@@ -2782,7 +2772,7 @@ No person shall be appointed, promoted or employed under any title not appropria
 
 
 
-*SECTION V – PROVISIONAL APPOINTMENTS*
+*SECTION V – PROVISIONAL APPOINTMENTS* ::
 
 
 Whenever there is no appropriate eligible list available for filling a vacancy in the competitive class, the agency head may nominate a person to the commissioner of citywide administrative services for non-competitive examination, and:
@@ -2796,7 +2786,7 @@ Whenever there is no appropriate eligible list available for filling a vacancy i
 
 
 
-*SECTION VI – SEASONAL APPOINTMENTS*
+*SECTION VI – SEASONAL APPOINTMENTS* ::
 
 
 All positions in the competitive class, where the nature of the service is such that it is not continuous throughout the year, but recurs in each successive calendar year, may be designated by the commissioner of citywide administrative services as seasonal positions and appointments thereto shall be designated as seasonal appointments.
@@ -2806,7 +2796,7 @@ All positions in the competitive class, where the nature of the service is such 
 
 
 
-*SECTION VII – EXCEPTIONAL APPOINTMENTS*
+*SECTION VII – EXCEPTIONAL APPOINTMENTS* ::
 
 
 (a) The commissioner of citywide administrative services may authorize a temporary appointment, without examination, when the person appointed will render professional, scientific, technical or other expert services:
@@ -2822,7 +2812,7 @@ All positions in the competitive class, where the nature of the service is such 
 
 
 
-*SECTION VIII – TRAINEE OR AIDE APPOINTMENTS*
+*SECTION VIII – TRAINEE OR AIDE APPOINTMENTS* ::
 
 
 The commissioner of citywide administrative services may require that permanent appointments to designated positions in the competitive class shall be conditioned upon the satisfactory completion of a period of service as a trainee or aide in an appropriate lower, trainee or aide position in such class and/or, where required, the completion of specified formal courses of training.
@@ -2845,7 +2835,7 @@ The commissioner of citywide administrative services may require that permanent 
 
 
 
-*SECTION I – TRANSFERS*
+*SECTION I – TRANSFERS* ::
 
 
 Except as provided in paragraph 6.1.9 of this section, an employee shall not be transferred to a position for which there is required an examination involving essential tests or qualifications different from or higher than those required for the position held by such employee.
@@ -2855,7 +2845,7 @@ Except as provided in paragraph 6.1.9 of this section, an employee shall not be 
 
 
 
-*SECTION II – REINSTATEMENTS*
+*SECTION II – REINSTATEMENTS* ::
 
 
 (a) An employee who has completed a probationary term in a permanent position in the competitive or labor class, and who has resigned or retired therefrom may be reinstated with the approval of the commissioner of citywide administrative services to:
@@ -2871,7 +2861,7 @@ Except as provided in paragraph 6.1.9 of this section, an employee shall not be 
 
 
 
-*SECTION III – VOLUNTARY DEMOTIONS*
+*SECTION III – VOLUNTARY DEMOTIONS* ::
 
 
 No permanent competitive class employee shall be demoted unless such employee consents thereto in writing. The agency head concerned shall transmit to the commissioner of citywide administrative services such consent together with a statement of the reasons therefor. This paragraph shall not be applicable to penalties of demotion resulting from disciplinary proceedings.
@@ -2881,7 +2871,7 @@ No permanent competitive class employee shall be demoted unless such employee co
 
 
 
-*SECTION IV – REMOVAL AND OTHER DISCIPLINARY ACTION*
+*SECTION IV – REMOVAL AND OTHER DISCIPLINARY ACTION* ::
 
 
 Where a person has been removed from a position for cause, a copy of the reasons therefor together with a copy of the proceedings thereon shall be transmitted to the department of citywide administrative services.
@@ -2891,7 +2881,7 @@ Where a person has been removed from a position for cause, a copy of the reasons
 
 
 
-*SECTION V – ABOLITION OF POSITION, SUSPENSION, DEMOTION, PREFERRED LISTS*
+*SECTION V – ABOLITION OF POSITION, SUSPENSION, DEMOTION, PREFERRED LISTS* ::
 
 
 The suspension or demotion of competitive class employees upon the abolition or reduction of positions shall be governed by the provisions of section eighty of the civil service law.
@@ -2901,7 +2891,7 @@ The suspension or demotion of competitive class employees upon the abolition or 
 
 
 
-*SECTION VI – EDUCATIONAL LEAVE OF ABSENCE UNDER THE MILITARY LAW*
+*SECTION VI – EDUCATIONAL LEAVE OF ABSENCE UNDER THE MILITARY LAW* ::
 
 
 In the event an employee on an educational leave of absence pursuant to the military law is on an eligible list and is certified but passed over for appointment from such a list during the period of absence, such employee shall not be charged with the certification.
@@ -2916,7 +2906,7 @@ In the event an employee on an educational leave of absence pursuant to the mili
 
 
 
-*SECTION I – MAINTENANCE OF ROSTERS, ADDRESSES AND RECORDS*
+*SECTION I – MAINTENANCE OF ROSTERS, ADDRESSES AND RECORDS* ::
 
 
 The department of citywide administrative services shall maintain an official roster of the classified service, setting forth in detail the employment listing of each employee and each change of status from the time the employee enters service until separation therefrom.
@@ -2926,7 +2916,7 @@ The department of citywide administrative services shall maintain an official ro
 
 
 
-*SECTION II – CERTIFICATION OF PAYROLLS*
+*SECTION II – CERTIFICATION OF PAYROLLS* ::
 
 
 Payrolls shall not be certified except upon declaration by the agency submitting them to the commissioner of citywide administrative services that the persons named therein are employed in their respective positions in accordance with law and the rules and regulations adopted pursuant thereto. The payroll of any person whose employment is in contravention of the foregoing provision shall not be certified by the commissioner of citywide administrative services.
@@ -2936,7 +2926,7 @@ Payrolls shall not be certified except upon declaration by the agency submitting
 
 
 
-*SECTION III – POSITION CLASSIFICATION AND ALLOCATION*
+*SECTION III – POSITION CLASSIFICATION AND ALLOCATION* ::
 
 
 (a) The commissioner of citywide administrative services shall, in accordance with the law and rules, duly classify and reclassify positions in the city service and shall prescribe regulations and procedures therefor.
@@ -2948,7 +2938,7 @@ Payrolls shall not be certified except upon declaration by the agency submitting
 
 
 
-*SECTION IV – MANAGEMENT SERVICE [RESERVED]*
+*SECTION IV – MANAGEMENT SERVICE [RESERVED]* ::
 
 
 Each agency shall establish and administer a performance evaluation program for sub-managerial employees in accordance with these rules or as prescribed by the commissioner of citywide administrative services in the regulations or procedures. Such programs shall be subject to approval by the commissioner of citywide administrative services.
@@ -2958,7 +2948,7 @@ Each agency shall establish and administer a performance evaluation program for 
 
 
 
-*SECTION VI – PERSONNEL PROGRAMS FOR EMPLOYEE INCENTIVES AND RECOGNITION, TRAINING AND SAFETY*
+*SECTION VI – PERSONNEL PROGRAMS FOR EMPLOYEE INCENTIVES AND RECOGNITION, TRAINING AND SAFETY* ::
 
 
 (a) The commissioner of citywide administrative services shall administer citywide employee incentive and recognition programs.
@@ -2970,7 +2960,7 @@ Each agency shall establish and administer a performance evaluation program for 
 
 
 
-*SECTION VII – EQUAL EMPLOYMENT OPPORTUNITY*
+*SECTION VII – EQUAL EMPLOYMENT OPPORTUNITY* ::
 
 
 Equal employment opportunity programs administered by the department of citywide administrative services and by agencies shall ensure and promote equal opportunity in employment.
@@ -2985,7 +2975,7 @@ Equal employment opportunity programs administered by the department of citywide
 
 
 
-*SECTION I – DEPARTMENT OF CITYWIDE ADMINISTRATIVE SERVICES ACTIONS*
+*SECTION I – DEPARTMENT OF CITYWIDE ADMINISTRATIVE SERVICES ACTIONS* ::
 
 
 (a) Except as otherwise provided by resolution or regulation of the commissioner of citywide administrative services, whenever a claim of manifest error or mistake is made, such claim shall be referred to a committee on manifest errors. This committee shall consist of three qualified persons designated as members thereof by the commissioner of citywide administrative services, which committee shall either have as a member or consult with an expert in the subject matter with which such claim is concerned. A claim of manifest error or mistake shall open for review the candidate’s answers to all the questions in the examination. Such review may result in a higher or lower final rating.
@@ -3005,7 +2995,7 @@ Equal employment opportunity programs administered by the department of citywide
 
 
 
-*SECTION II – AGENCY ACTIONS - APPEALS TO THE COMMISSIONER OF CITYWIDE ADMINISTRATIVE SERVICES*
+*SECTION II – AGENCY ACTIONS - APPEALS TO THE COMMISSIONER OF CITYWIDE ADMINISTRATIVE SERVICES* ::
 
 
 A person aggrieved by the following agency actions or determinations may submit an appeal to the commissioner of citywide administrative services:
@@ -3021,7 +3011,7 @@ A person aggrieved by the following agency actions or determinations may submit 
 
 
 
-*SECTION III – CITY PERSONNEL DIRECTOR OR AGENCY ACTIONS-APPEALS TO THE CITY CIVIL SERVICE COMMISSION (Deleted 10/30/81)*
+*SECTION III – CITY PERSONNEL DIRECTOR OR AGENCY ACTIONS-APPEALS TO THE CITY CIVIL SERVICE COMMISSION (Deleted 10/30/81)* ::
 
 
 The commissioner of citywide administrative services shall audit the performance by agencies of their personnel management functions, and may reverse or rescind any agency personnel action or decision taken pursuant to an assignment or delegation of authority under chapter 35 of the New York City charter, upon a finding of abuse, after notification to the agency and an opportunity to be heard.
@@ -3031,7 +3021,7 @@ The commissioner of citywide administrative services shall audit the performance
 
 
 
-*SECTION II – INVESTIGATION*
+*SECTION II – INVESTIGATION* ::
 
 
 The commissioner of citywide administrative services shall have the power to make investigations concerning all matters touching the enforcement and effect of the provisions of civil service law pursuant to and in the manner provided by law.
@@ -3046,7 +3036,7 @@ The commissioner of citywide administrative services shall have the power to mak
 
 
 
-*SECTION I – POSITIONS IN THE EXEMPT CLASS*
+*SECTION I – POSITIONS IN THE EXEMPT CLASS* ::
 
 
 Not more than one appointment shall be made to or under the title of any office or position in the exempt class unless a different number is specifically prescribed hereafter.
@@ -3056,7 +3046,7 @@ Not more than one appointment shall be made to or under the title of any office 
 
 
 
-*SECTION II – POSITIONS IN THE NON-COMPETITIVE CLASS*
+*SECTION II – POSITIONS IN THE NON-COMPETITIVE CLASS* ::
 
 
 Unless a different or an unlimited number is specifically prescribed hereafter, only one appointment may be made to or under the title of any offices or positions in the non-competitive class listed under this rule.
@@ -3066,7 +3056,7 @@ Unless a different or an unlimited number is specifically prescribed hereafter, 
 
 
 
-*SECTION III – POSITIONS IN THE LABOR CLASS*
+*SECTION III – POSITIONS IN THE LABOR CLASS* ::
 
 
 (a) The titles and grades, if graded, of positions in the class subject to this rule shall not be deemed to form part of these rules. The titles and positions subject to this rule are set forth in the “classification and compensation schedules of the classified service,” schedule L-10.
@@ -3078,7 +3068,7 @@ Unless a different or an unlimited number is specifically prescribed hereafter, 
 
 
 
-*SECTION IV – POSITIONS IN THE COMPETITIVE CLASS*
+*SECTION IV – POSITIONS IN THE COMPETITIVE CLASS* ::
 
 
 The services, titles and grades, if graded, of positions in the competitive class subject to this rule shall not be deemed to form part of these rules. The titles and positions subject to this rule are set forth in the “classification and compensation schedules of the classified service,” schedule C-10.
@@ -3093,7 +3083,7 @@ The services, titles and grades, if graded, of positions in the competitive clas
 
 
 
-*SECTION I – SALARY GRADES*
+*SECTION I – SALARY GRADES* ::
 
 
 The salary grade for positions which are now or may hereafter be made subject to the career and salary plan hereinafter provided, is as follows:
@@ -3102,7 +3092,7 @@ The salary grade for positions which are now or may hereafter be made subject to
 
 
 .. list-table::
-    :header-rows: 0
+    :header-rows: 1
 
     * - Salary Grade
       - Salary Grade Minimum
@@ -3110,7 +3100,6 @@ The salary grade for positions which are now or may hereafter be made subject to
     * - 32
       - 13,100
       - Unlimited
-
 ~
 
 
@@ -3122,7 +3111,7 @@ The salary grade for positions which are now or may hereafter be made subject to
 
 
 
-*SECTION II – CLASSIFICATION OF POSITIONS*
+*SECTION II – CLASSIFICATION OF POSITIONS* ::
 
 
 The commissioner of citywide administrative services shall, in the manner provided by law, duly classify and reclassify positions which are now or which may hereafter be made subject to the classification and compensation plan.
@@ -3132,7 +3121,7 @@ The commissioner of citywide administrative services shall, in the manner provid
 
 
 
-*SECTION III – IMPLEMENTATION OF THE CAREER AND SALARY PLAN*
+*SECTION III – IMPLEMENTATION OF THE CAREER AND SALARY PLAN* ::
 
 
 In order to implement the career and salary plan, each position or class of positions subject thereto shall be classified under a standard title and allocated to an appropriate salary grade as soon as practicable following the adoption of this rule, and, upon such position classification and salary grade allocation, the commissioner of citywide administrative services shall establish schedules of equivalent titles indicating in each case the former title of each position and the standard title and salary grade to which such position is classified and allocated. Such original position classifications and salary grade allocations shall be made, in the case of each position or class of positions, on the basis of the duties, responsibilities and examination qualifications naturally and properly pertaining to the present title of such position or class of positions, without regard to out-of-title work performed by any incumbent thereof. Thereafter, the reclassification and salary grade reallocation of positions shall be made on the basis of the actual duties and responsibilities thereof and the examination requirements based on such duties and responsibilities as determined by the department of citywide administrative services.
@@ -3142,7 +3131,7 @@ In order to implement the career and salary plan, each position or class of posi
 
 
 
-*SECTION IV – EFFECTIVE DATE OF POSITION CLASSIFICATION AND POSITION RECLASSIFICATION*
+*SECTION IV – EFFECTIVE DATE OF POSITION CLASSIFICATION AND POSITION RECLASSIFICATION* ::
 
 
 Any position classification or position reclassification made hereunder prior to July 1, 1955 shall become effective as of July 1, 1954.
@@ -3152,7 +3141,7 @@ Any position classification or position reclassification made hereunder prior to
 
 
 
-*SECTION V – CREATION OF NEW POSITIONS*
+*SECTION V – CREATION OF NEW POSITIONS* ::
 
 
 A new position or class of positions shall be established hereunder only under the title and salary grade determined therefor in accordance with this rule, the provisions of the New York City charter and the provisions of the resolution of the board of estimate adopted July 9, 1954, calendar no. 1, establishing the pay plan not inconsistent with such charter.
@@ -3162,7 +3151,7 @@ A new position or class of positions shall be established hereunder only under t
 
 
 
-*SECTION VI – RIGHTS AND STATUS OF NEW INCUMBENTS AND ELIGIBLES ON LISTS*
+*SECTION VI – RIGHTS AND STATUS OF NEW INCUMBENTS AND ELIGIBLES ON LISTS* ::
 
 
 The rights and status of the permanent incumbent of any position subject to the career and salary plan, including rights and status of employees provided for under the provisions of previous resolutions of classification or reclassification, shall not be adversely affected or impaired by the provisions of this rule or any position classification, position reclassification, salary grade allocation, or salary grade reallocation adopted in accordance therewith.
@@ -3174,7 +3163,7 @@ Any permanent employee entitled to an unlimited salary grade prior to the classi
 
 
 
-*SECTION VII – RATES OF COMPENSATION OF POSITIONS NOT COMPENSABLE ON AN ANNUAL BASIS*
+*SECTION VII – RATES OF COMPENSATION OF POSITIONS NOT COMPENSABLE ON AN ANNUAL BASIS* ::
 
 
 In order to effectuate the allocation or reallocation of positions paid at other than a per annum rate, the commissioner of citywide administrative services shall duly establish, in the manner provided by law, formulae for the purpose of computing the salaries of such positions on a per annum basis.
@@ -3184,7 +3173,7 @@ In order to effectuate the allocation or reallocation of positions paid at other
 
 
 
-*SECTION VIII – REGULATIONS AND PROCEDURES*
+*SECTION VIII – REGULATIONS AND PROCEDURES* ::
 
 
 The commissioner of citywide administrative services may prescribe such regulations and procedures as the commissioner of citywide administrative services may deem necessary or advisable to carry out the provisions of this rule.
@@ -3194,7 +3183,7 @@ The commissioner of citywide administrative services may prescribe such regulati
 
 
 
-*SECTION IX – APPLICABILITY*
+*SECTION IX – APPLICABILITY* ::
 
 
 The provisions of this rule shall be applicable only to positions covered by the career and salary plan and shall supersede any provisions of other rules and regulations of the commissioner of citywide administrative services inconsistent therewith.
@@ -3204,7 +3193,7 @@ The provisions of this rule shall be applicable only to positions covered by the
 
 
 
-*SECTION X – POSITIONS IN THE NON-COMPETITIVE CLASS*
+*SECTION X – POSITIONS IN THE NON-COMPETITIVE CLASS* ::
 
 
 Unless a different or unlimited number is specifically prescribed hereafter, only one appointment may be made to or under the title of any offices or positions in the non-competitive class listed under this rule.
@@ -3214,7 +3203,7 @@ Unless a different or unlimited number is specifically prescribed hereafter, onl
 
 
 
-*SECTION XII – POSITIONS IN THE COMPETITIVE CLASS*
+*SECTION XII – POSITIONS IN THE COMPETITIVE CLASS* ::
 
 
 (a) The occupational groups, titles, and salary grades or grades of positions in the competitive class subject to this rule shall not be deemed to form part of these rules. The titles and positions subject to this rule are set forth in the “classification and compensation schedules of the classified service,” schedule C-11.
@@ -3231,7 +3220,7 @@ Unless a different or unlimited number is specifically prescribed hereafter, onl
 
 
 
-*SECTION I – GENERAL PROVISIONS*
+*SECTION I – GENERAL PROVISIONS* ::
 
 
 Effective July 1, 1958, the positions and classes of positions in the New York City housing authority heretofore classified under and subject to rule XI and the resolutions of classification and reclassification adopted pursuant thereto are hereby deleted from rule XI.
@@ -3241,7 +3230,7 @@ Effective July 1, 1958, the positions and classes of positions in the New York C
 
 
 
-*SECTION II – POSITIONS IN THE NON-COMPETITIVE CLASS*
+*SECTION II – POSITIONS IN THE NON-COMPETITIVE CLASS* ::
 
 
 Unless a different or unlimited number is specifically prescribed hereafter, only one appointment may be made to or under the title of any offices or positions in the non-competitive class listed under this rule.
@@ -3251,7 +3240,7 @@ Unless a different or unlimited number is specifically prescribed hereafter, onl
 
 
 
-*SECTION III – POSITIONS IN THE LABOR CLASS*
+*SECTION III – POSITIONS IN THE LABOR CLASS* ::
 
 
 (a) The titles and salary grades or grades of positions in the labor class subject to this rule shall not be deemed to form part of these rules. The titles and positions subject to this rule are set forth in the “classification and compensation schedules of the classified service,” schedule L-12.
@@ -3263,7 +3252,7 @@ Unless a different or unlimited number is specifically prescribed hereafter, onl
 
 
 
-*SECTION IV – POSITIONS IN THE COMPETITIVE CLASS*
+*SECTION IV – POSITIONS IN THE COMPETITIVE CLASS* ::
 
 
 (a) The titles and salary grades or grades of positions in the competitive class subject to this rule shall not be deemed to form part of these rules. The titles and positions subject to this rule are set forth in the “classification and compensation schedules of the classified service,” schedule C-12.
@@ -3275,7 +3264,7 @@ Unless a different or unlimited number is specifically prescribed hereafter, onl
 
 
 
-*EXPLANATION*
+*EXPLANATION* ::
 
 
 The following basic resolution is included as part of the history of this Department’s rules.
