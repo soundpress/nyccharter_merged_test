@@ -78,6 +78,7 @@
   {% endif %}
 {%- endmacro %}
 
+
 {%- macro guzzle_sidebar() %}
   <div id="left-column">
     <div class="sphinxsidebar">
@@ -87,7 +88,7 @@
         {#%- include sidebartemplate %#}
         {#%- endfor %#}
       {#% else %#}
-        {% include "logo-text.html" %}
+        <!-- {% include "logo-text.html" %} -->
         {% include "searchbox.html" %}
         {% include "globaltoc.html" %}
       {#%- endif %#}
@@ -100,6 +101,97 @@
   {%- if pagename == 'index' and theme_index_template %}
     {% include theme_index_template %}
   {%- else %}
+    <header class="site-header">
+      <!-- start top logo area -->
+      <div class="logo_area">
+        <div class="container">
+          <div class="border_bottom">
+            <a class="logo_left" href="#">
+              <img src="http://services.wegov.nyc/resources/logo.png" class="img-responsive">
+            </a>
+            <!-- start main menu area -->
+            <div class="main_menu">
+              <ul class="external_menubar">
+                <li class="dropdown">
+                  <a class="dropdown-toggle menu_link is-active" data-toggle="dropdown" href="javascript:void(0)">
+                    <span>Advocacy</span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a href="https://wegov.nyc/211-4-nyc/" class="menu_link">Searchable Safety Net</a></li>
+                    <li><a href="https://wegov.nyc/open-engaging-effective-government/" class="menu_link">Digital Transformation</a></li>
+                    <li><a href="https://wegov.nyc/nymeta/" class="menu_link">Metro-Regional Leadership</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown">
+                  <a class="dropdown-toggle menu_link" data-toggle="dropdown" href="javascript:void(0)"><span>Tools</span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="http://capital.research.wegov.nyc/" class="menu_link">Capital Projects Directory</a></li>
+                    <li><a href="http://services.wegov.nyc" class="menu_link">Services Directory & API</a></li>
+                    <li><a href="http://nyclaws.readthedocs.io/" class="menu_link">Charter, Code & Rules</a></li>
+                    <li><a href="https://wegov.nyc/action/" class="menu_link">The Action App!</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://wegov.nyc/news/" class="menu_link"><span>Community</span></a></li>
+                <li><a href="https://wegov.nyc/blog/" class="menu_link"><span>Blog</span></a></li>
+                <li><a href="https://opencollective.com/wegovnyc" class="menu_link"><span>Donate</span></a></li>
+                <li><a href="https://wegov.nyc/contact/" class="menu_link"><span>Contact</span></a></li>
+              </ul>
+            </div>
+            <!-- end main menu area -->
+            <!-- <a class="nav-link " id="google_translate_element"></a> -->
+            <div class="top-bar-right">
+              <button type="button" onclick="openNav()"  class="btn btn-raised btn-block btn-primary menu_filter">
+                <!-- <img src="resources/menu.svg" alt="" title="">Menu  -->
+                Menu
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end top logo area -->
+
+      <div class="submenu_div">
+        <div class="container">
+          <span class="badge badge-light title_top_header" >Laws</span>
+          <a href="https://nyclaws.readthedocs.io/d00/index.html" class="menu_link">Charter</a>
+          <a href="https://nyclaws.readthedocs.io/d01/index.html" class="menu_link">Code</a>
+          <a href="https://nyclaws.readthedocs.io/d02/index.html" class="menu_link">Rules</a>
+          <a href="https://wegov.nyc/open-engaging-effective-government/" class="menu_link ">Campaign</a>
+        </div>
+      </div>
+      <!-- start mobile menu area -->
+      <div class="responsive_menu" id="mySidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">
+          <img src="http://services.wegov.nyc/resources/close-white.png" alt="" title="">
+        </a>
+        <ul class="external_menubar">
+          <li class="dropdown">
+            <a class="dropdown-toggle menu_link is-active" data-toggle="dropdown" href="javascript:void(0)">
+              <span>Advocacy</span>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="https://wegov.nyc/211-4-nyc/" class="menu_link">Searchable Safety Net</a></li>
+              <li><a href="https://wegov.nyc/open-engaging-effective-government/" class="menu_link">Digital Transformation</a></li>
+              <li><a href="https://wegov.nyc/nymeta/" class="menu_link">Metro-Regional Leadership</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a class="dropdown-toggle menu_link" data-toggle="dropdown" href="javascript:void(0)"><span>Tools</span></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://capital.research.wegov.nyc/" class="menu_link">Capital Projects Directory</a></li>
+              <li><a href="http://services.wegov.nyc" class="menu_link">Services Directory & API</a></li>
+              <li><a href="http://nyclaws.readthedocs.io/" class="menu_link">Charter, Code & Rules</a></li>
+              <li><a href="https://wegov.nyc/action/" class="menu_link">The Action App!</a></li>
+            </ul>
+          </li>
+          <li><a href="https://wegov.nyc/news/" class="menu_link"><span>Community</span></a></li>
+          <li><a href="https://wegov.nyc/blog/" class="menu_link"><span>Blog</span></a></li>
+          <li><a href="https://opencollective.com/wegovnyc" class="menu_link"><span>Donate</span></a></li>
+          <li><a href="https://wegov.nyc/contact/" class="menu_link"><span>Contact</span></a></li>
+        </ul>
+      </div>
+      <!-- end mobile menu area -->
+    </header>
     <div class="container-wrapper">
 
       <div id="mobile-toggle">
@@ -129,7 +221,7 @@
             {{ render_relations() }}
           {%- endblock %}
         </div>
-        <div class="clearfix"></div>
+        <!-- <div class="clearfix"></div> -->
         {%- endblock %}
       {%- endblock %}
 
@@ -157,6 +249,17 @@
       var text = $(e).text().replace(/\n\s/g, '\n<br><br> ');
       $(e).html(text);})
   });
+    function openNav() {
+			document.getElementById("mySidenav").style.width = "250px";
+			// document.getElementById("mySidenav").style.display = "block";
+			
+		}
+
+		function closeNav() {
+			document.getElementById("mySidenav").style.width = "0";
+			// document.getElementById("mySidenav").style.display = "none";
+
+		}
 </script>
 {%- block footer_wrapper %}
 <style>
@@ -172,15 +275,90 @@
       width: auto;
     }
   }
-  .footer p:first-child {
-    padding-left: 100px;
-    position: relative;
-  }
-  .license-icon {
-    left: 0;
-    top: 5px;
-    position: absolute;
-  }
+  .footer p:first-child{padding-left:100px;position:relative;}
+  .license-icon{left:0;top:5px;position:absolute;}
+  .container-wrapper{position: initial;}
+  .site-header{float:left;width:100%;font-family: 'Source Sans Pro', sans-serif;}
+  .container{margin-right: auto;margin-left: auto;max-width: 1040px;padding: 0 30px;}
+  .logo_area{height:auto;background-color:#112e51;padding:0 0;float:left;width:100%;}
+  .top-bar-right{float:right;padding-top:8px;}
+  .logo_left{float:left;padding-top:0;height:30px;margin:15px 0;}
+  .logo_left img{width:auto;height:100%;}
+  .top_language li{color:#fff;list-style:none;}
+  .menu_filter{display:none;margin:0px;color:#004a83;background:#fff !important;border:none;}
+  .main_menu{float:right;width:auto;}
+  .external_menubar{float:left;width:100%;padding-right:0px;margin:0px;margin-top:9px;}
+  .external_menubar li{float:left;padding-bottom:0px; list-style: none;}
+  .external_menubar li .menu_link{float:left;color:#ffffff;font-weight:600;font-size:13px;padding:12px 15px;}
+  .external_menubar li .menu_link span{padding-bottom:9px;border-bottom:6px solid transparent;font-family: 'Source Sans Pro', sans-serif;}
+  .external_menubar li .menu_link:hover span, .external_menubar li .menu_link:active span, .external_menubar li .menu_link:focus span{border-bottom:6px solid #0071bc;}
+  .external_menubar li .menu_link:hover, .external_menubar li .menu_link:focus, .external_menubar li .menu_link:active, .external_menubar li .menu_link.is-active{color:#ffffff;text-decoration:none;}
+  .external_menubar li a:active, .external_menubar li a:focus{box-shadow:0 0 3px #3e94cf, 0 0 7px #3e94cf;}
+  .external_menubar li .menu_link[aria-expanded=true]{background-color:#0071bc;}
+  .external_menubar li .menu_link[aria-expanded=true]>span{border-bottom-color:#112e51;}
+  .external_menubar li.dropdown:hover .menu_link {background: #0071bc !important;}
+  .submenu_div{float:left;width:100%;background:#112e51;margin-top:-1px;}
+  .submenu_div .external_menubar li .menu_link{color:#fff;font-weight:500;}
+  .submenu_div .external_menubar li .menu_link.is-active{font-size:18px;font-weight:600;}
+  .title_top_header{float:left;color:#fff;font-size:14px;padding:9px 20px;border-radius:0;margin-top:0;background:#3d85c6;font-weight: 500;}
+  .submenu_div .menu_link{height:40px;line-height:30px;font-size:14px;padding:0px;margin:0 15px;font-weight:normal;color:#fff;position:relative;float:left;}
+  .submenu_div .menu_link:hover{text-decoration:none;}
+  .external_menubar li.dropdown:hover .menu_link span {border-bottom-color: #112e51;}
+  .submenu_div .menu_link.active::after, .submenu_div .menu_link:hover::after{height:4px !important;background:#3d85c6 !important;width:100%;display:block;content:" ";bottom:6px !important;left:0;position:absolute;-webkit-animation:border-expand .2s cubic-bezier(.4,0,.4,1).01s alternate forwards;animation:border-expand .2s cubic-bezier(.4,0,.4,1).01s alternate forwards;-webkit-transition:all 1s cubic-bezier(.4,0,1,1);transition:all 1s cubic-bezier(.4,0,1,1);}
+  .external_menubar li .dropdown-menu{background-color:#0071bc;margin:0px 0 0 0;border-radius:0px;box-shadow:none;border:none;width:213px;}
+  .external_menubar li .dropdown-menu li{width:100%;}
+  .external_menubar li .dropdown-menu li a{width:100%;text-align:left;padding-left:18px;color:#fff;font-weight:400;padding:7px 15px;}
+  .external_menubar li .dropdown-menu li:hover a{background-color:#112e51;color:#fff;text-decoration:underline;}
+  .external_menubar li:hover .dropdown-menu {display: block;}
+  .closebtn{padding:14px 14px;display:inline-block;position:absolute;top:6px;right:8px;}
+  .closebtn img{width:15px;}
+  .closebtn:focus{box-shadow:0 0 3px #3e94cf, 0 0 7px #3e94cf;}
+  .responsive_menu{height:100%;width:0;position:fixed;z-index:1;top:0;right:0;background-color:#112e51;overflow-x:hidden;transition:0.5s;padding-top:60px;}
+  .responsive_menu .menu_link{width:85%;display:block;padding:10px 15px;margin:0 15px;border-bottom:1px solid #5b616b;color:#fff;font-size:16px;}
+  .responsive_menu .external_menubar{padding-left:0px;margin: 0px;}
+  .responsive_menu .external_menubar li{width:100%;}
+  .dropdown-toggle::after{background:url(http://services.wegov.nyc/resources/angle-arrow.svg);border:none;background-position:14%;background-size:100%;width:10px;height:10px;line-height:38px;vertical-align:middle;display: inline-block;margin-left: .255em;content: "";}
+  .border_bottom{border-bottom:1px solid #ffffff;float:left;width:100%;margin-bottom:6px;}
+  #left-column{position:relative !important;}
+  #right-column, div.footer{margin-left:0px;max-width:100%;float:left;width:calc(100% - 300px);}
+  div.footer{float:left; width: 100%;}
+
+  /* responsive header */
+    @media (max-width: 1028px) {
+        .container {max-width:100%;padding: 0 15px;width:100%;}
+    }
+    @media (max-width: 800px) {
+      .menu_filter{display:inline-block;border-radius:0;background:#0071bc !important;color:#fff;text-align:center;text-transform:uppercase;padding:10px 13px;font-size:13px;}
+        .main_menu{display:none;}
+        .top-bar-right{float:right;padding-top:0;position:absolute;right:15px;}
+        .logo_left{float:left;padding-top:0;height:19px;margin:10px 0;margin-left:0px;}
+        .dropdown-toggle::after{float:right;margin-top:9px;}
+        .external_menubar li .dropdown-menu li a{margin:0px;border-bottom:none;}
+        .external_menubar li .menu_link[aria-expanded=true]{background-color:#00a6d2;color:#112e51;}
+        .external_menubar li .dropdown-menu{position:relative !important;transform:translate3d(15px, 0px, 0px) !important;}
+        .external_menubar li .menu_link:hover span, .external_menubar li .menu_link:active span, .external_menubar li .menu_link:focus span{border-bottom:none;}
+        .external_menubar li a:active, .external_menubar li a:focus{background-color:#00a6d2;color:#112e51 !important;}
+
+    }
+    @media screen and (max-width: 768px){
+      #mobile-toggle {display: none;}
+      #left-column{display:block}
+    }
+    @media (max-width: 767px) {
+      .menu_filter img{width: 23px;margin-right: 10px;	margin-top: -4px;}
+      #right-column, div.footer{width:100%;}
+      #right-column{padding: 20px 20px 8px 20px;}
+    }
+    @media (max-width: 414px) {
+      .title_top_header {font-size: 15px;padding: 6px 7px;}
+    }
+    @media (max-width: 375px) {
+      .submenu_div .menu_link {margin: 0 10px;}
+    }
+    @media (max-width: 320px) {
+      .submenu_div .menu_link {margin: 0 7px;}
+    }
+  /* responsive header */
 </style>
   <div class="footer">
     <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
